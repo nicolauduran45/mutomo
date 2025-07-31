@@ -1,0 +1,75 @@
+{
+  "index": 242,
+  "title": "Promoting small scale fisheries and aquaculture transnational networking in Adriatic-Ionian macroregion",
+  "abstract": "ARIEL project is jointly promoted and developed by 9 scientific and institutional partners of 4 Countries (Italy, Croatia, Greece and Montenegro) and focuses on small-scale fishery and aquaculture which are two key drivers for blue and sustainable growth of Adriatic and Ionian communities. Despite their relevance, those sector faces the same challenges of maritime spatial planning, environmental and socio-economic sustainability, better conditions for innovation uptake and for scientific knowledge dissemination, more effective cooperation between entrepreneurs, academia and policy makers. In this context, ARIEL transnational approach will catalyze joint efforts to tackle this complex ecological, economic and societal challenge supporting the development of a transnational “critical mass” and the provision of common skills, tools and methods accompanying small-scale fishery and aquaculture innovation process and networking in the Adriatic and Ionian Sea basin._x000D_ _x000D_ ARIEL overall objective is, in fact, to promote technological and non-technological solutions for innovation up take of small-scale fishery and aquaculture in Adriatic-Ionian basin, acting as knowledge network and performing a set of transferable activities to better understand threats and solutions for a more successful and sustainable management of policies and practices._x000D_ _x000D_ ARIEL will, at first, implement innovation audits on small-scale fisheries and aquaculture enterprises taking into account research, policy and economic aspects outlining the innovation state of play and future development scenario. Based on this result, the project will test pilot innovative solutions defined jointly by the enterprises and the research institutions._x000D_ _x000D_ Innovation brokering events will facilitate R&D transfer into concrete and feasible actions for small-scale fishery and aquaculture actors, accompanying their aggregation and cooperation process. The uptake and adoption of open innovation in small-scale fishery and aquaculture will be also fostered by the setting up of the ARIEL platform helping networking and partnering around innovative ideas and solutions during and beyond project life, favoring a permanent knowledge sharing and transnational dialogue among actors._x000D_ _x000D_ ARIEL partners will then develop a Joint Research Agenda for small-scale fishery and aquaculture and a Chart of Innovation Services, a strategic and multidisciplinary action plan defining common priorities and research lines, areas of improvement, knowledge based solutions and actions to successfully address the major challenges linked to innovation and sustainability of fisheries and aquaculture for the coming years in the Adriatic and Ionian Sea region.",
+  "llama_json": {
+    "motivations": [
+      "Small-scale fisheries and aquaculture in the Adriatic-Ionian region face challenges related to environmental and socio-economic sustainability, innovation uptake, and cooperation between stakeholders.",
+      "There is a need for transnational networking and knowledge sharing to promote sustainable growth and address common challenges in the region."
+    ],
+    "objectives": [
+      "Promote technological and non-technological solutions for innovation uptake in small-scale fisheries and aquaculture in the Adriatic-Ionian basin.",
+      "Develop a transnational knowledge network to support sustainable management of policies and practices in the sector.",
+      "Foster cooperation and knowledge sharing among stakeholders through innovation brokering events and a dedicated platform."
+    ],
+    "methods": [
+      "Implement innovation audits on small-scale fisheries and aquaculture enterprises to identify innovation gaps and future development scenarios.",
+      "Test pilot innovative solutions jointly defined by enterprises and research institutions.",
+      "Develop a Joint Research Agenda and a Chart of Innovation Services to define common priorities and research lines for the sector."
+    ],
+    "results": [
+      "Enhance the sustainability and competitiveness of small-scale fisheries and aquaculture in the Adriatic-Ionian region.",
+      "Foster a culture of innovation and cooperation among stakeholders in the sector.",
+      "Provide a permanent knowledge sharing and transnational dialogue platform for actors in the region."
+    ],
+    "research_subject": "Transnational networking and innovation uptake in small-scale fisheries and aquaculture in the Adriatic-Ionian region"
+  },
+  "openai_json": {
+    "motivations": [
+      "Small-scale fishery and aquaculture sectors in the Adriatic and Ionian communities face challenges in maritime spatial planning, environmental and socio-economic sustainability, and innovation uptake.",
+      "There is a lack of effective cooperation between entrepreneurs, academia, and policy makers in these sectors.",
+      "The need for a more successful and sustainable management of policies and practices in these sectors."
+    ],
+    "objectives": [
+      "Promote technological and non-technological solutions for innovation uptake of small-scale fishery and aquaculture in the Adriatic-Ionian basin.",
+      "Act as a knowledge network and perform transferable activities to understand threats and solutions for better management.",
+      "Implement innovation audits on small-scale fisheries and aquaculture enterprises, test pilot innovative solutions, and facilitate R&D transfer into concrete actions."
+    ],
+    "methods": [
+      "Implement innovation audits on small-scale fisheries and aquaculture enterprises considering research, policy, and economic aspects.",
+      "Test pilot innovative solutions defined jointly by the enterprises and the research institutions.",
+      "Set up the ARIEL platform to foster networking and partnering around innovative ideas and solutions, and develop a Joint Research Agenda and a Chart of Innovation Services."
+    ],
+    "results": [
+      "Enhance the innovation uptake and sustainability of small-scale fishery and aquaculture in the Adriatic-Ionian basin.",
+      "Facilitate the transfer of R&D into concrete actions for small-scale fishery and aquaculture actors.",
+      "Promote knowledge sharing and transnational dialogue among actors through the ARIEL platform."
+    ],
+    "research_subject": "Promotion of small scale fisheries and aquaculture transnational networking in Adriatic-Ionian macroregion"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Small-scale fisheries and aquaculture in the Adriatic-Ionian region face challenges in maritime spatial planning, environmental and socio-economic sustainability, and limited innovation uptake.",
+      "There is insufficient cooperation between entrepreneurs, academia, and policy makers, hindering the dissemination of scientific knowledge and sustainable development in these sectors."
+    ],
+    "objectives": [
+      "Promote technological and non-technological solutions for innovation uptake in small-scale fishery and aquaculture across the Adriatic-Ionian basin.",
+      "Develop a transnational knowledge network that provides common skills, tools, and methods to support sustainable management of policies and practices.",
+      "Foster permanent knowledge sharing and transnational dialogue among stakeholders through collaborative platforms and strategic planning."
+    ],
+    "methods": [
+      "Conduct innovation audits on small-scale fisheries and aquaculture enterprises to assess research, policy, and economic aspects.",
+      "Test pilot innovative solutions developed jointly by enterprises and research institutions, and organize innovation brokering events to facilitate R&D transfer.",
+      "Establish the ARIEL platform for networking and develop a Joint Research Agenda and Chart of Innovation Services for strategic planning."
+    ],
+    "results": [
+      "Enhanced innovation uptake and sustainable practices in small-scale fisheries and aquaculture across the Adriatic-Ionian region.",
+      "Improved cooperation and knowledge transfer between entrepreneurs, academia, and policy makers through established networks and platforms.",
+      "Development of strategic action plans defining common priorities and solutions for addressing sector challenges in the coming years."
+    ],
+    "research_subject": "Innovation and sustainable development of small-scale fisheries and aquaculture in the Adriatic-Ionian macroregion"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Small-scale fisheries and aquaculture in the Adriatic-Ionian region face challenges related to environmental and socio-economic sustainability, innovation uptake, and cooperation between stakeholders.\",\n    \"There is a need for transnational networking and knowledge sharing to promote sustainable growth and address common challenges in the region.\"\n  ],\n  \"objectives\": [\n    \"Promote technological and non-technological solutions for innovation uptake in small-scale fisheries and aquaculture in the Adriatic-Ionian basin.\",\n    \"Develop a transnational knowledge network to support sustainable management of policies and practices in the sector.\",\n    \"Foster cooperation and knowledge sharing among stakeholders through innovation brokering events and a dedicated platform.\"\n  ],\n  \"methods\": [\n    \"Implement innovation audits on small-scale fisheries and aquaculture enterprises to identify innovation gaps and future development scenarios.\",\n    \"Test pilot innovative solutions jointly defined by enterprises and research institutions.\",\n    \"Develop a Joint Research Agenda and a Chart of Innovation Services to define common priorities and research lines for the sector.\"\n  ],\n  \"results\": [\n    \"Enhance the sustainability and competitiveness of small-scale fisheries and aquaculture in the Adriatic-Ionian region.\",\n    \"Foster a culture of innovation and cooperation among stakeholders in the sector.\",\n    \"Provide a permanent knowledge sharing and transnational dialogue platform for actors in the region.\"\n  ],\n  \"research_subject\": \"Transnational networking and innovation uptake in small-scale fisheries and aquaculture in the Adriatic-Ionian region\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Small-scale fishery and aquaculture sectors in the Adriatic and Ionian communities face challenges in maritime spatial planning, environmental and socio-economic sustainability, and innovation uptake.\",\n    \"There is a lack of effective cooperation between entrepreneurs, academia, and policy makers in these sectors.\",\n    \"The need for a more successful and sustainable management of policies and practices in these sectors.\"\n  ],\n  \"objectives\": [\n    \"Promote technological and non-technological solutions for innovation uptake of small-scale fishery and aquaculture in the Adriatic-Ionian basin.\",\n    \"Act as a knowledge network and perform transferable activities to understand threats and solutions for better management.\",\n    \"Implement innovation audits on small-scale fisheries and aquaculture enterprises, test pilot innovative solutions, and facilitate R&D transfer into concrete actions.\"\n  ],\n  \"methods\": [\n    \"Implement innovation audits on small-scale fisheries and aquaculture enterprises considering research, policy, and economic aspects.\",\n    \"Test pilot innovative solutions defined jointly by the enterprises and the research institutions.\",\n    \"Set up the ARIEL platform to foster networking and partnering around innovative ideas and solutions, and develop a Joint Research Agenda and a Chart of Innovation Services.\"\n  ],\n  \"results\": [\n    \"Enhance the innovation uptake and sustainability of small-scale fishery and aquaculture in the Adriatic-Ionian basin.\",\n    \"Facilitate the transfer of R&D into concrete actions for small-scale fishery and aquaculture actors.\",\n    \"Promote knowledge sharing and transnational dialogue among actors through the ARIEL platform.\"\n  ],\n  \"research_subject\": \"Promotion of small scale fisheries and aquaculture transnational networking in Adriatic-Ionian macroregion\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Small-scale fisheries and aquaculture in the Adriatic-Ionian region face challenges in maritime spatial planning, environmental and socio-economic sustainability, and limited innovation uptake.\",\n    \"There is insufficient cooperation between entrepreneurs, academia, and policy makers, hindering the dissemination of scientific knowledge and sustainable development in these sectors.\"\n  ],\n  \"objectives\": [\n    \"Promote technological and non-technological solutions for innovation uptake in small-scale fishery and aquaculture across the Adriatic-Ionian basin.\",\n    \"Develop a transnational knowledge network that provides common skills, tools, and methods to support sustainable management of policies and practices.\",\n    \"Foster permanent knowledge sharing and transnational dialogue among stakeholders through collaborative platforms and strategic planning.\"\n  ],\n  \"methods\": [\n    \"Conduct innovation audits on small-scale fisheries and aquaculture enterprises to assess research, policy, and economic aspects.\",\n    \"Test pilot innovative solutions developed jointly by enterprises and research institutions, and organize innovation brokering events to facilitate R&D transfer.\",\n    \"Establish the ARIEL platform for networking and develop a Joint Research Agenda and Chart of Innovation Services for strategic planning.\"\n  ],\n  \"results\": [\n    \"Enhanced innovation uptake and sustainable practices in small-scale fisheries and aquaculture across the Adriatic-Ionian region.\",\n    \"Improved cooperation and knowledge transfer between entrepreneurs, academia, and policy makers through established networks and platforms.\",\n    \"Development of strategic action plans defining common priorities and solutions for addressing sector challenges in the coming years.\"\n  ],\n  \"research_subject\": \"Innovation and sustainable development of small-scale fisheries and aquaculture in the Adriatic-Ionian macroregion\"\n}\n```"
+}

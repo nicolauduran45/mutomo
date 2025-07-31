@@ -1,0 +1,66 @@
+{
+  "index": 487,
+  "title": "Abstract 444: BRM/SMARCA2 is a critical synthetic lethal target in BRG1-deficient cancers",
+  "abstract": "The mammalian SWI/SNF complexes (mSWI/SNF) regulate chromatin structure through ATP-dependent nucleosome remodeling and thereby control key cellular processes. Recent cancer genome studies have revealed a significant frequency of mutations in several components of the mSWI/SNF complexes including the catalytic subunit BRG1. Emerging evidence is supportive of tumor suppressor roles for mSWI/SNF subunits, yet the inactivating nature of these mutations presents a challenge for devising targeted therapeutic strategies against cancers harboring such mutations. In this study, we interrogated epigenetic cancer dependencies by screening a deep-coverage design (DeCoDe) shRNA library targeting the epigenome across a broad range of 50+ cancer cell lines. Strikingly, this unbiased screen revealed that silencing of the SWI/SNF ATPase subunit BRM/SMARCA2, selectively inhibits the proliferation of BRG1-deficient cancer cells. BRM knockdown selectively induced cell cycle arrest in BRG1-mutant cancer cells and significantly impaired the growth of BRG1-mutant lung tumor xenografts. BRM is the paralog of BRG1, suggesting a model in which mSWI/SNF mutations lead to a hypomorphic complex that promotes tumorigenesis but cannot tolerate complete inactivation. Thus, targeting mSWI/SNF subunits that exhibit redundant activities to the residual mutated complexes may present a general strategy for SWI/SNF mutated cancers. Citation Format: Mariela Jaskelioff, Gregory Hoffman, Rami Rahal, Kay Xiang, Kristy Haas, Veronica Saenz-Vash, Huili Zhai, Nicholas Keen, Frank Stegmeier, Zainab Jagani. BRM/SMARCA2 is a critical synthetic lethal target in BRG1-deficient cancers. [abstract]. In: Proceedings of the 105th Annual Meeting of the American Association for Cancer Research; 2014 Apr 5-9; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2014;74(19 Suppl):Abstract nr 444. doi:10.1158/1538-7445.AM2014-444",
+  "llama_json": {
+    "motivations": [
+      "Mutations in the mammalian SWI/SNF complexes, including the catalytic subunit BRG1, are frequently found in cancers and present a challenge for targeted therapeutic strategies.",
+      "There is a need to identify synthetic lethal targets in BRG1-deficient cancers to devise effective treatments."
+    ],
+    "objectives": [
+      "Identify epigenetic cancer dependencies that can be targeted in BRG1-deficient cancers.",
+      "Investigate the role of BRM/SMARCA2 as a potential synthetic lethal target in BRG1-deficient cancers."
+    ],
+    "methods": [
+      "Screen a deep-coverage design shRNA library targeting the epigenome across a range of cancer cell lines.",
+      "Use cell cycle arrest and tumor xenograft growth assays to validate the effects of BRM knockdown in BRG1-mutant cancer cells."
+    ],
+    "results": [
+      "BRM/SMARCA2 is a critical synthetic lethal target in BRG1-deficient cancers.",
+      "Targeting BRM/SMARCA2 can selectively inhibit the proliferation of BRG1-deficient cancer cells and impair tumor growth."
+    ],
+    "research_subject": "Identification of synthetic lethal targets in BRG1-deficient cancers"
+  },
+  "openai_json": {
+    "motivations": [
+      "Mutations in the mSWI/SNF complexes, including the catalytic subunit BRG1, are common in cancers, but the inactivating nature of these mutations presents a challenge for targeted therapeutic strategies.",
+      "There is a need to understand the dependencies of cancers on the epigenome to identify potential therapeutic targets."
+    ],
+    "objectives": [
+      "Screen a deep-coverage design (DeCoDe) shRNA library targeting the epigenome across a broad range of cancer cell lines to identify potential therapeutic targets.",
+      "Investigate the effect of silencing the SWI/SNF ATPase subunit BRM/SMARCA2 on the proliferation of BRG1-deficient cancer cells."
+    ],
+    "methods": [
+      "Conduct an unbiased screen using a DeCoDe shRNA library targeting the epigenome across a range of cancer cell lines.",
+      "Assess the impact of BRM knockdown on cell cycle arrest and growth of BRG1-mutant lung tumor xenografts."
+    ],
+    "results": [
+      "Silencing of the SWI/SNF ATPase subunit BRM/SMARCA2 selectively inhibits the proliferation of BRG1-deficient cancer cells.",
+      "BRM knockdown selectively induced cell cycle arrest in BRG1-mutant cancer cells and significantly impaired the growth of BRG1-mutant lung tumor xenografts."
+    ],
+    "research_subject": "Identifying synthetic lethal targets in BRG1-deficient cancers"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Mutations in mSWI/SNF complexes, particularly in the catalytic subunit BRG1, are frequently found in cancers, but their inactivating nature makes it challenging to develop targeted therapeutic strategies.",
+      "There is a need to identify vulnerabilities in cancers harboring mSWI/SNF mutations that can be exploited for therapeutic intervention."
+    ],
+    "objectives": [
+      "Identify epigenetic dependencies in cancer cells through systematic screening of epigenome-targeting factors.",
+      "Investigate whether BRM/SMARCA2 represents a synthetic lethal target in BRG1-deficient cancers."
+    ],
+    "methods": [
+      "Screen a deep-coverage design (DeCoDe) shRNA library targeting the epigenome across 50+ cancer cell lines.",
+      "Perform functional validation of BRM knockdown effects on cell proliferation, cell cycle, and tumor growth in BRG1-mutant models."
+    ],
+    "results": [
+      "BRM/SMARCA2 silencing selectively inhibits proliferation and induces cell cycle arrest in BRG1-deficient cancer cells.",
+      "BRM knockdown significantly impairs the growth of BRG1-mutant lung tumor xenografts, demonstrating therapeutic potential.",
+      "The findings suggest a synthetic lethal relationship between BRM and BRG1 that can be exploited for cancer therapy."
+    ],
+    "research_subject": "Synthetic lethality of BRM/SMARCA2 in BRG1-deficient cancers"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Mutations in the mammalian SWI/SNF complexes, including the catalytic subunit BRG1, are frequently found in cancers and present a challenge for targeted therapeutic strategies.\",\n    \"There is a need to identify synthetic lethal targets in BRG1-deficient cancers to devise effective treatments.\"\n  ],\n  \"objectives\": [\n    \"Identify epigenetic cancer dependencies that can be targeted in BRG1-deficient cancers.\",\n    \"Investigate the role of BRM/SMARCA2 as a potential synthetic lethal target in BRG1-deficient cancers.\"\n  ],\n  \"methods\": [\n    \"Screen a deep-coverage design shRNA library targeting the epigenome across a range of cancer cell lines.\",\n    \"Use cell cycle arrest and tumor xenograft growth assays to validate the effects of BRM knockdown in BRG1-mutant cancer cells.\"\n  ],\n  \"results\": [\n    \"BRM/SMARCA2 is a critical synthetic lethal target in BRG1-deficient cancers.\",\n    \"Targeting BRM/SMARCA2 can selectively inhibit the proliferation of BRG1-deficient cancer cells and impair tumor growth.\"\n  ],\n  \"research_subject\": \"Identification of synthetic lethal targets in BRG1-deficient cancers\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Mutations in the mSWI/SNF complexes, including the catalytic subunit BRG1, are common in cancers, but the inactivating nature of these mutations presents a challenge for targeted therapeutic strategies.\",\n    \"There is a need to understand the dependencies of cancers on the epigenome to identify potential therapeutic targets.\"\n  ],\n  \"objectives\": [\n    \"Screen a deep-coverage design (DeCoDe) shRNA library targeting the epigenome across a broad range of cancer cell lines to identify potential therapeutic targets.\",\n    \"Investigate the effect of silencing the SWI/SNF ATPase subunit BRM/SMARCA2 on the proliferation of BRG1-deficient cancer cells.\"\n  ],\n  \"methods\": [\n    \"Conduct an unbiased screen using a DeCoDe shRNA library targeting the epigenome across a range of cancer cell lines.\",\n    \"Assess the impact of BRM knockdown on cell cycle arrest and growth of BRG1-mutant lung tumor xenografts.\"\n  ],\n  \"results\": [\n    \"Silencing of the SWI/SNF ATPase subunit BRM/SMARCA2 selectively inhibits the proliferation of BRG1-deficient cancer cells.\",\n    \"BRM knockdown selectively induced cell cycle arrest in BRG1-mutant cancer cells and significantly impaired the growth of BRG1-mutant lung tumor xenografts.\"\n  ],\n  \"research_subject\": \"Identifying synthetic lethal targets in BRG1-deficient cancers\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Mutations in mSWI/SNF complexes, particularly in the catalytic subunit BRG1, are frequently found in cancers, but their inactivating nature makes it challenging to develop targeted therapeutic strategies.\",\n    \"There is a need to identify vulnerabilities in cancers harboring mSWI/SNF mutations that can be exploited for therapeutic intervention.\"\n  ],\n  \"objectives\": [\n    \"Identify epigenetic dependencies in cancer cells through systematic screening of epigenome-targeting factors.\",\n    \"Investigate whether BRM/SMARCA2 represents a synthetic lethal target in BRG1-deficient cancers.\"\n  ],\n  \"methods\": [\n    \"Screen a deep-coverage design (DeCoDe) shRNA library targeting the epigenome across 50+ cancer cell lines.\",\n    \"Perform functional validation of BRM knockdown effects on cell proliferation, cell cycle, and tumor growth in BRG1-mutant models.\"\n  ],\n  \"results\": [\n    \"BRM/SMARCA2 silencing selectively inhibits proliferation and induces cell cycle arrest in BRG1-deficient cancer cells.\",\n    \"BRM knockdown significantly impairs the growth of BRG1-mutant lung tumor xenografts, demonstrating therapeutic potential.\",\n    \"The findings suggest a synthetic lethal relationship between BRM and BRG1 that can be exploited for cancer therapy.\"\n  ],\n  \"research_subject\": \"Synthetic lethality of BRM/SMARCA2 in BRG1-deficient cancers\"\n}\n```"
+}

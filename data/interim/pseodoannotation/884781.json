@@ -1,0 +1,74 @@
+{
+  "index": 194,
+  "title": "Air induced friction reducing ship coating",
+  "abstract": "The overall goal of AIRCOAT is to make European waterborne transport more energy efficient and less polluting by developing a disruptive hull coating that reduces the frictional resistance of ships. The AIRCOAT project will enhance a passive air lubrication technology that utilises the biomimetic Salvinia effect. This effect enables trapping air through combination of a hydrophobic micro-structured surface with hydrophilic pins. The project will technologically implement this effect on a self-adhesive foil system. Applying a ship with such an AIRCOAT foil will produce a thin permanent air layer, which reduces the overall frictional resistance while acting as a physical barrier between water and hull surface. Besides substantially reducing main engine fuel oil consumption and hence exhaust gas emission, the air barrier further inhibits the attachment of fouling, the release of biocide substances (of underlying coatings) to the water and mitigates the radiation of ship noise. As a refit technology, it is immediately applicable to the whole fleet, is independent of the fuel type and can be combined with other efficiency improving technologies. Consequently, the technology creates both an economical and an environmental benefit. The interdisciplinary AIRCOAT consortium will develop small-scale prototypes to optimise the surface characteristics of this new technology supported by experimental and numerical methods. AIRCOAT will further produce large-scale pilots to demonstrate the efficiency and industrial feasibility in operational environments (laboratory, research ships and container ship). Finally, the project will perform a full-scale validation process to boost the technology towards market readiness. The AIRCOAT project will demonstrate the high potential of this game-changing technology to revolutionise the maritime coating sector and to become a ground-breaking future energy efficiency and emission reduction technology.",
+  "llama_json": {
+    "motivations": [
+      "European waterborne transport faces challenges in energy efficiency and pollution, with a need for innovative solutions to reduce frictional resistance and emissions.",
+      "Current ship coatings have limitations in reducing friction and preventing fouling, leading to increased fuel consumption and environmental impact."
+    ],
+    "objectives": [
+      "Develop a disruptive hull coating technology that utilizes the biomimetic Salvinia effect to reduce frictional resistance and improve energy efficiency.",
+      "Implement a self-adhesive foil system that produces a thin permanent air layer, reducing friction and acting as a barrier between water and hull surface.",
+      "Demonstrate the efficiency and industrial feasibility of the technology through small-scale prototypes and large-scale pilots."
+    ],
+    "methods": [
+      "Utilize experimental and numerical methods to optimize the surface characteristics of the new technology.",
+      "Develop small-scale prototypes to test and refine the coating technology.",
+      "Produce large-scale pilots to demonstrate the efficiency and industrial feasibility in operational environments."
+    ],
+    "results": [
+      "Substantially reduce main engine fuel oil consumption and exhaust gas emissions.",
+      "Inhibit the attachment of fouling, reduce the release of biocide substances, and mitigate the radiation of ship noise.",
+      "Create both economical and environmental benefits through improved energy efficiency and reduced emissions."
+    ],
+    "research_subject": "Development of an air-induced friction reducing ship coating using biomimetic technology"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need to make European waterborne transport more energy efficient and less polluting.",
+      "The desire to reduce the frictional resistance of ships to enhance their efficiency.",
+      "The need to inhibit the attachment of fouling, the release of biocide substances to the water, and mitigate the radiation of ship noise."
+    ],
+    "objectives": [
+      "Develop a disruptive hull coating that reduces the frictional resistance of ships using passive air lubrication technology.",
+      "Implement the biomimetic Salvinia effect on a self-adhesive foil system to create a thin permanent air layer between water and hull surface.",
+      "Demonstrate the efficiency and industrial feasibility of the technology in operational environments and boost it towards market readiness."
+    ],
+    "methods": [
+      "Utilize the biomimetic Salvinia effect to trap air through a combination of a hydrophobic micro-structured surface with hydrophilic pins.",
+      "Develop small-scale prototypes to optimize the surface characteristics of the technology, supported by experimental and numerical methods.",
+      "Produce large-scale pilots and perform a full-scale validation process to demonstrate the technology's efficiency and industrial feasibility."
+    ],
+    "results": [
+      "Reduce main engine fuel oil consumption and exhaust gas emission.",
+      "Inhibit the attachment of fouling and the release of biocide substances to the water.",
+      "Mitigate the radiation of ship noise and create both an economical and an environmental benefit."
+    ],
+    "research_subject": "Development of an air induced friction reducing ship coating"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Waterborne transport needs to become more energy efficient and less polluting to meet environmental standards and reduce operational costs.",
+      "Current ship hull coatings contribute to high frictional resistance, biofouling, and the release of harmful biocide substances into marine environments."
+    ],
+    "objectives": [
+      "Develop a disruptive hull coating technology that reduces frictional resistance of ships using biomimetic air lubrication.",
+      "Create a self-adhesive foil system that maintains a permanent air layer between the hull and water to improve energy efficiency and environmental performance."
+    ],
+    "methods": [
+      "Implement the biomimetic Salvinia effect through a hydrophobic micro-structured surface with hydrophilic pins on a self-adhesive foil.",
+      "Develop and test prototypes at multiple scales using experimental and numerical methods.",
+      "Validate the technology through demonstrations in operational environments including laboratories, research ships, and container vessels."
+    ],
+    "results": [
+      "Substantial reduction in fuel consumption and exhaust gas emissions through decreased frictional resistance.",
+      "Prevention of biofouling attachment and reduction of biocide release and ship noise radiation.",
+      "Market-ready retrofit technology applicable to existing fleets, compatible with all fuel types and other efficiency technologies."
+    ],
+    "research_subject": "Biomimetic air-lubricated ship hull coating technology for friction reduction"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"European waterborne transport faces challenges in energy efficiency and pollution, with a need for innovative solutions to reduce frictional resistance and emissions.\",\n    \"Current ship coatings have limitations in reducing friction and preventing fouling, leading to increased fuel consumption and environmental impact.\"\n  ],\n  \"objectives\": [\n    \"Develop a disruptive hull coating technology that utilizes the biomimetic Salvinia effect to reduce frictional resistance and improve energy efficiency.\",\n    \"Implement a self-adhesive foil system that produces a thin permanent air layer, reducing friction and acting as a barrier between water and hull surface.\",\n    \"Demonstrate the efficiency and industrial feasibility of the technology through small-scale prototypes and large-scale pilots.\"\n  ],\n  \"methods\": [\n    \"Utilize experimental and numerical methods to optimize the surface characteristics of the new technology.\",\n    \"Develop small-scale prototypes to test and refine the coating technology.\",\n    \"Produce large-scale pilots to demonstrate the efficiency and industrial feasibility in operational environments.\"\n  ],\n  \"results\": [\n    \"Substantially reduce main engine fuel oil consumption and exhaust gas emissions.\",\n    \"Inhibit the attachment of fouling, reduce the release of biocide substances, and mitigate the radiation of ship noise.\",\n    \"Create both economical and environmental benefits through improved energy efficiency and reduced emissions.\"\n  ],\n  \"research_subject\": \"Development of an air-induced friction reducing ship coating using biomimetic technology\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need to make European waterborne transport more energy efficient and less polluting.\",\n    \"The desire to reduce the frictional resistance of ships to enhance their efficiency.\",\n    \"The need to inhibit the attachment of fouling, the release of biocide substances to the water, and mitigate the radiation of ship noise.\"\n  ],\n  \"objectives\": [\n    \"Develop a disruptive hull coating that reduces the frictional resistance of ships using passive air lubrication technology.\",\n    \"Implement the biomimetic Salvinia effect on a self-adhesive foil system to create a thin permanent air layer between water and hull surface.\",\n    \"Demonstrate the efficiency and industrial feasibility of the technology in operational environments and boost it towards market readiness.\"\n  ],\n  \"methods\": [\n    \"Utilize the biomimetic Salvinia effect to trap air through a combination of a hydrophobic micro-structured surface with hydrophilic pins.\",\n    \"Develop small-scale prototypes to optimize the surface characteristics of the technology, supported by experimental and numerical methods.\",\n    \"Produce large-scale pilots and perform a full-scale validation process to demonstrate the technology's efficiency and industrial feasibility.\"\n  ],\n  \"results\": [\n    \"Reduce main engine fuel oil consumption and exhaust gas emission.\",\n    \"Inhibit the attachment of fouling and the release of biocide substances to the water.\",\n    \"Mitigate the radiation of ship noise and create both an economical and an environmental benefit.\"\n  ],\n  \"research_subject\": \"Development of an air induced friction reducing ship coating\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Waterborne transport needs to become more energy efficient and less polluting to meet environmental standards and reduce operational costs.\",\n    \"Current ship hull coatings contribute to high frictional resistance, biofouling, and the release of harmful biocide substances into marine environments.\"\n  ],\n  \"objectives\": [\n    \"Develop a disruptive hull coating technology that reduces frictional resistance of ships using biomimetic air lubrication.\",\n    \"Create a self-adhesive foil system that maintains a permanent air layer between the hull and water to improve energy efficiency and environmental performance.\"\n  ],\n  \"methods\": [\n    \"Implement the biomimetic Salvinia effect through a hydrophobic micro-structured surface with hydrophilic pins on a self-adhesive foil.\",\n    \"Develop and test prototypes at multiple scales using experimental and numerical methods.\",\n    \"Validate the technology through demonstrations in operational environments including laboratories, research ships, and container vessels.\"\n  ],\n  \"results\": [\n    \"Substantial reduction in fuel consumption and exhaust gas emissions through decreased frictional resistance.\",\n    \"Prevention of biofouling attachment and reduction of biocide release and ship noise radiation.\",\n    \"Market-ready retrofit technology applicable to existing fleets, compatible with all fuel types and other efficiency technologies.\"\n  ],\n  \"research_subject\": \"Biomimetic air-lubricated ship hull coating technology for friction reduction\"\n}\n```"
+}

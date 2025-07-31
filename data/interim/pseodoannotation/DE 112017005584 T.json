@@ -1,0 +1,67 @@
+{
+  "index": 70,
+  "title": "REGELUNG FÜR EIN SIMULIERTES BOHRLOCH ZUM PRÜFEN MIT DYNAMISCHEM UNTERDRUCK",
+  "abstract": "Um die Effizienz eines Perforierungswerkzeugsystems zu optimieren, können untertage herrschende Bedingungen simuliert werden, um die optimale Auslegung für das Perforierungswerkzeugsystem zu bestimmen. Ein simuliertes Bohrloch ist in einer simulierten Bohrlochummantelung angeordnet und an eine Formationsprobe gekoppelt. Das simulierte Bohrloch umfasst das Perforierungswerkzeugsystem und eine oder mehrere Füllscheiben, die ein Volumen des simulierten Bohrlochs aufbrauchen. Die Füllscheiben werden verwendet, um den dynamischen Unterdruck für eine jeweilige Simulation eines Perforierungswerkzeugsystems zu regeln. Eine oder mehrere Messungen, die mit dem Perforierungswerkzeugsystem verbunden sind, können zusammen mit einer oder mehreren Aufnahmen generiert werden, nachdem Sprengladungen des Perforierungswerkzeugsystems zum Detonieren gebracht worden sind. Das Perforierungswerkzeugsystem kann zumindest teilweise auf der Grundlage der einen oder mehreren Messungen und der einen oder mehreren Aufnahmen für den spezifischen dynamischen Unterdruck der Simulation modifiziert werden.",
+  "llama_json": {
+    "motivations": [
+      "Optimizing the efficiency of a perforation tool system requires simulating downhole conditions to determine the optimal design.",
+      "There is a need for a controlled environment to test and modify perforation tool systems under dynamic underpressure conditions."
+    ],
+    "objectives": [
+      "Develop a simulated borehole setup to test and optimize perforation tool systems under dynamic underpressure conditions.",
+      "Determine the optimal design for a perforation tool system based on measurements and recordings generated during simulation."
+    ],
+    "methods": [
+      "Create a simulated borehole with a perforation tool system and one or more fill disks to regulate dynamic underpressure.",
+      "Couple the simulated borehole to a formation sample and generate measurements and recordings after detonating the perforation tool system.",
+      "Modify the perforation tool system based on the measurements and recordings obtained during simulation."
+    ],
+    "results": [
+      "Optimized perforation tool system design for improved efficiency under dynamic underpressure conditions.",
+      "Enhanced understanding of the effects of dynamic underpressure on perforation tool system performance."
+    ],
+    "research_subject": "Simulation-based optimization of perforation tool systems under dynamic underpressure conditions"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to optimize the efficiency of a perforation tool system by simulating underground conditions to determine the optimal design."
+    ],
+    "objectives": [
+      "Simulate a borehole to test the perforation tool system under dynamic underpressure conditions.",
+      "Modify the perforation tool system based on measurements and recordings generated after detonating the explosive charges of the system."
+    ],
+    "methods": [
+      "Use a simulated borehole coupled to a formation sample, containing the perforation tool system and one or more filler discs that consume a volume of the simulated borehole.",
+      "Regulate the dynamic underpressure for each simulation of the perforation tool system using the filler discs.",
+      "Generate measurements and recordings associated with the perforation tool system after detonating the explosive charges."
+    ],
+    "results": [
+      "Determine the optimal design for the perforation tool system based on the simulated underground conditions.",
+      "Improve the efficiency of the perforation tool system by modifying it based on the measurements and recordings."
+    ],
+    "research_subject": "Regulation for a simulated borehole for testing with dynamic underpressure"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Optimizing the efficiency of perforation tool systems requires accurate simulation of downhole conditions to determine optimal design parameters.",
+      "There is a need to regulate and control dynamic underpressure conditions during perforation tool testing to ensure accurate performance evaluation."
+    ],
+    "objectives": [
+      "Simulate downhole conditions in a controlled environment to test and optimize perforation tool system designs.",
+      "Regulate dynamic underpressure using fill disks to achieve specific simulation conditions for perforation tool testing."
+    ],
+    "methods": [
+      "Use a simulated wellbore with casing coupled to a formation sample, incorporating the perforation tool system and fill disks to control wellbore volume.",
+      "Generate measurements and recordings after detonating explosive charges in the perforation tool system.",
+      "Modify the perforation tool system based on measurements and recordings obtained under specific dynamic underpressure conditions."
+    ],
+    "results": [
+      "Enable optimization of perforation tool system efficiency through controlled simulation of downhole conditions.",
+      "Provide data-driven modifications to perforation tool systems based on performance under specific dynamic underpressure conditions."
+    ],
+    "research_subject": "Simulation and regulation of dynamic underpressure for testing perforation tool systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Optimizing the efficiency of a perforation tool system requires simulating downhole conditions to determine the optimal design.\",\n    \"There is a need for a controlled environment to test and modify perforation tool systems under dynamic underpressure conditions.\"\n  ],\n  \"objectives\": [\n    \"Develop a simulated borehole setup to test and optimize perforation tool systems under dynamic underpressure conditions.\",\n    \"Determine the optimal design for a perforation tool system based on measurements and recordings generated during simulation.\"\n  ],\n  \"methods\": [\n    \"Create a simulated borehole with a perforation tool system and one or more fill disks to regulate dynamic underpressure.\",\n    \"Couple the simulated borehole to a formation sample and generate measurements and recordings after detonating the perforation tool system.\",\n    \"Modify the perforation tool system based on the measurements and recordings obtained during simulation.\"\n  ],\n  \"results\": [\n    \"Optimized perforation tool system design for improved efficiency under dynamic underpressure conditions.\",\n    \"Enhanced understanding of the effects of dynamic underpressure on perforation tool system performance.\"\n  ],\n  \"research_subject\": \"Simulation-based optimization of perforation tool systems under dynamic underpressure conditions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to optimize the efficiency of a perforation tool system by simulating underground conditions to determine the optimal design.\"\n  ],\n  \"objectives\": [\n    \"Simulate a borehole to test the perforation tool system under dynamic underpressure conditions.\",\n    \"Modify the perforation tool system based on measurements and recordings generated after detonating the explosive charges of the system.\"\n  ],\n  \"methods\": [\n    \"Use a simulated borehole coupled to a formation sample, containing the perforation tool system and one or more filler discs that consume a volume of the simulated borehole.\",\n    \"Regulate the dynamic underpressure for each simulation of the perforation tool system using the filler discs.\",\n    \"Generate measurements and recordings associated with the perforation tool system after detonating the explosive charges.\"\n  ],\n  \"results\": [\n    \"Determine the optimal design for the perforation tool system based on the simulated underground conditions.\",\n    \"Improve the efficiency of the perforation tool system by modifying it based on the measurements and recordings.\"\n  ],\n  \"research_subject\": \"Regulation for a simulated borehole for testing with dynamic underpressure\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Optimizing the efficiency of perforation tool systems requires accurate simulation of downhole conditions to determine optimal design parameters.\",\n    \"There is a need to regulate and control dynamic underpressure conditions during perforation tool testing to ensure accurate performance evaluation.\"\n  ],\n  \"objectives\": [\n    \"Simulate downhole conditions in a controlled environment to test and optimize perforation tool system designs.\",\n    \"Regulate dynamic underpressure using fill disks to achieve specific simulation conditions for perforation tool testing.\"\n  ],\n  \"methods\": [\n    \"Use a simulated wellbore with casing coupled to a formation sample, incorporating the perforation tool system and fill disks to control wellbore volume.\",\n    \"Generate measurements and recordings after detonating explosive charges in the perforation tool system.\",\n    \"Modify the perforation tool system based on measurements and recordings obtained under specific dynamic underpressure conditions.\"\n  ],\n  \"results\": [\n    \"Enable optimization of perforation tool system efficiency through controlled simulation of downhole conditions.\",\n    \"Provide data-driven modifications to perforation tool systems based on performance under specific dynamic underpressure conditions.\"\n  ],\n  \"research_subject\": \"Simulation and regulation of dynamic underpressure for testing perforation tool systems\"\n}\n```"
+}

@@ -1,0 +1,62 @@
+{
+  "index": 13,
+  "title": "SYSTEM AND METHOD FOR SEMI-SUPERVISED VIDEO-DRIVEN FACIAL ANIMATION TRANSFER",
+  "abstract": "A method transfers facial expressions from a performance input to a 3D CG character. The method comprises: providing an inference engine trained for receiving, as input, images exhibiting facial expressions and outputting, for each input image, a 3D CG representation of a CG character having a character facial expression corresponding to that of the input image; receiving performance input, the performance input comprising, or convertible to, one or more performance input images, each of the one or more performance input images exhibiting a performance facial expression; and inputting the performance input images to the inference engine to thereby infer, for each of performance input image, a corresponding 3D CG representation of an output CG character having an inferred character facial expression corresponding to the performance facial expression of the performance input image.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for efficient and accurate transfer of facial expressions from a performance input to a 3D computer-generated (CG) character."
+    ],
+    "objectives": [
+      "Develop a method for semi-supervised video-driven facial animation transfer to a 3D CG character."
+    ],
+    "methods": [
+      "Utilize an inference engine trained on images of facial expressions to output corresponding 3D CG representations.",
+      "Input performance images into the inference engine to infer corresponding 3D CG representations with matching facial expressions."
+    ],
+    "results": [
+      "Accurate transfer of facial expressions from performance input to a 3D CG character."
+    ],
+    "research_subject": "Semi-supervised video-driven facial animation transfer to 3D computer-generated characters"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an efficient method to transfer facial expressions from a performance input to a 3D CG character."
+    ],
+    "objectives": [
+      "Develop a method that uses an inference engine to receive images with facial expressions and output a 3D CG representation of a character with corresponding facial expressions.",
+      "Ensure the method can receive performance input images and infer a corresponding 3D CG representation of an output character with matching facial expressions."
+    ],
+    "methods": [
+      "Use an inference engine trained to receive input images with facial expressions and output a 3D CG representation of a character with corresponding facial expressions.",
+      "Receive performance input images and input them into the inference engine to infer a corresponding 3D CG representation of an output character."
+    ],
+    "results": [
+      "Enable the transfer of facial expressions from a performance input to a 3D CG character.",
+      "Produce a 3D CG representation of an output character with facial expressions corresponding to the performance input images."
+    ],
+    "research_subject": "Semi-supervised video-driven facial animation transfer"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Transferring facial expressions from real-world performances to 3D computer-generated characters is challenging and requires efficient automated methods.",
+      "There is a need for accurate and scalable facial animation transfer techniques that can map human facial expressions to digital characters."
+    ],
+    "objectives": [
+      "Develop a method to automatically transfer facial expressions from performance input to 3D CG characters using machine learning.",
+      "Create an inference engine capable of converting facial expression images into corresponding 3D CG character representations."
+    ],
+    "methods": [
+      "Train an inference engine to process facial expression images and generate 3D CG character representations with matching expressions.",
+      "Process performance input images through the trained inference engine to produce corresponding 3D CG character animations.",
+      "Utilize semi-supervised learning approaches for video-driven facial animation transfer."
+    ],
+    "results": [
+      "Enable automatic generation of 3D CG character facial animations that accurately match input performance expressions.",
+      "Provide an efficient system for facial expression transfer from real performances to digital characters."
+    ],
+    "research_subject": "Semi-supervised video-driven facial animation transfer for 3D computer-generated characters"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient and accurate transfer of facial expressions from a performance input to a 3D computer-generated (CG) character.\"\n  ],\n  \"objectives\": [\n    \"Develop a method for semi-supervised video-driven facial animation transfer to a 3D CG character.\"\n  ],\n  \"methods\": [\n    \"Utilize an inference engine trained on images of facial expressions to output corresponding 3D CG representations.\",\n    \"Input performance images into the inference engine to infer corresponding 3D CG representations with matching facial expressions.\"\n  ],\n  \"results\": [\n    \"Accurate transfer of facial expressions from performance input to a 3D CG character.\"\n  ],\n  \"research_subject\": \"Semi-supervised video-driven facial animation transfer to 3D computer-generated characters\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient method to transfer facial expressions from a performance input to a 3D CG character.\"\n  ],\n  \"objectives\": [\n    \"Develop a method that uses an inference engine to receive images with facial expressions and output a 3D CG representation of a character with corresponding facial expressions.\",\n    \"Ensure the method can receive performance input images and infer a corresponding 3D CG representation of an output character with matching facial expressions.\"\n  ],\n  \"methods\": [\n    \"Use an inference engine trained to receive input images with facial expressions and output a 3D CG representation of a character with corresponding facial expressions.\",\n    \"Receive performance input images and input them into the inference engine to infer a corresponding 3D CG representation of an output character.\"\n  ],\n  \"results\": [\n    \"Enable the transfer of facial expressions from a performance input to a 3D CG character.\",\n    \"Produce a 3D CG representation of an output character with facial expressions corresponding to the performance input images.\"\n  ],\n  \"research_subject\": \"Semi-supervised video-driven facial animation transfer\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Transferring facial expressions from real-world performances to 3D computer-generated characters is challenging and requires efficient automated methods.\",\n    \"There is a need for accurate and scalable facial animation transfer techniques that can map human facial expressions to digital characters.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to automatically transfer facial expressions from performance input to 3D CG characters using machine learning.\",\n    \"Create an inference engine capable of converting facial expression images into corresponding 3D CG character representations.\"\n  ],\n  \"methods\": [\n    \"Train an inference engine to process facial expression images and generate 3D CG character representations with matching expressions.\",\n    \"Process performance input images through the trained inference engine to produce corresponding 3D CG character animations.\",\n    \"Utilize semi-supervised learning approaches for video-driven facial animation transfer.\"\n  ],\n  \"results\": [\n    \"Enable automatic generation of 3D CG character facial animations that accurately match input performance expressions.\",\n    \"Provide an efficient system for facial expression transfer from real performances to digital characters.\"\n  ],\n  \"research_subject\": \"Semi-supervised video-driven facial animation transfer for 3D computer-generated characters\"\n}\n```"
+}

@@ -1,0 +1,66 @@
+{
+  "index": 0,
+  "title": "Enhancing innovation management capacities of smes in montenegro",
+  "abstract": "Enterprise Europe Network is a main support instrument for innovation in SMEs. It will provide innovation support services as well as information and advisory services such as mentoring, coaching and partner search activities for SMEs wishing to develop cross-border innovation projects. Innovation support, as a service that EEN Montenegro will deliver, will be offered through two packages - Key Account Management (KAM) to support the innovation capacity of successful “SME instrument” applicants benefiting from Horizon 2020 specific supporting mechanism, and Services to enhance the innovation management capacity of SMEs in Montenegro in order to improve their effectiveness and efficiency, in particular aimed at those with significant innovation activities and a real potential for international growth.",
+  "llama_json": {
+    "motivations": [
+      "Small and Medium-sized Enterprises (SMEs) in Montenegro face challenges in developing their innovation capacities and accessing international markets.",
+      "There is a need for targeted support services to enhance the innovation management capacities of SMEs with significant innovation activities and potential for international growth."
+    ],
+    "objectives": [
+      "Provide innovation support services to SMEs in Montenegro through the Enterprise Europe Network.",
+      "Enhance the innovation management capacities of SMEs in Montenegro, particularly those with significant innovation activities and potential for international growth."
+    ],
+    "methods": [
+      "Offer Key Account Management (KAM) services to support the innovation capacity of successful SME instrument applicants.",
+      "Provide services to enhance the innovation management capacity of SMEs, including mentoring, coaching, and partner search activities."
+    ],
+    "results": [
+      "Improve the effectiveness and efficiency of SMEs in Montenegro through enhanced innovation management capacities.",
+      "Support the development of cross-border innovation projects and international growth of SMEs in Montenegro."
+    ],
+    "research_subject": "Enhancing innovation management capacities of SMEs in Montenegro"
+  },
+  "openai_json": {
+    "motivations": [
+      "SMEs in Montenegro require support to enhance their innovation management capacities.",
+      "There is a need for specialized services to assist SMEs in developing cross-border innovation projects."
+    ],
+    "objectives": [
+      "Provide innovation support services, information, and advisory services such as mentoring, coaching, and partner search activities for SMEs.",
+      "Offer Key Account Management to support the innovation capacity of successful SME instrument applicants.",
+      "Enhance the innovation management capacity of SMEs in Montenegro to improve their effectiveness and efficiency, particularly those with significant innovation activities and potential for international growth."
+    ],
+    "methods": [
+      "Utilize the Enterprise Europe Network as the main support instrument for innovation in SMEs.",
+      "Implement two service packages - Key Account Management and Services to enhance innovation management capacity."
+    ],
+    "results": [
+      "Improved innovation management capacities of SMEs in Montenegro.",
+      "Increased effectiveness and efficiency of SMEs with significant innovation activities and potential for international growth."
+    ],
+    "research_subject": "Enhancing innovation management capacities of SMEs in Montenegro"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "SMEs in Montenegro need enhanced support to develop their innovation management capacities and compete internationally.",
+      "There is a gap in providing structured innovation support services to help SMEs with significant innovation potential achieve international growth."
+    ],
+    "objectives": [
+      "Provide comprehensive innovation support services including mentoring, coaching, and partner search activities for SMEs developing cross-border innovation projects.",
+      "Enhance the innovation management capacity of SMEs in Montenegro to improve their effectiveness and efficiency, particularly for those with international growth potential."
+    ],
+    "methods": [
+      "Implement Key Account Management (KAM) services to support successful SME instrument applicants under Horizon 2020.",
+      "Deliver targeted services through the Enterprise Europe Network to enhance innovation management capabilities of SMEs."
+    ],
+    "results": [
+      "Improved innovation management capacities and international competitiveness of SMEs in Montenegro.",
+      "Enhanced effectiveness and efficiency of SMEs with significant innovation activities through structured support services."
+    ],
+    "research_subject": "Innovation management capacity enhancement for SMEs in Montenegro"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Small and Medium-sized Enterprises (SMEs) in Montenegro face challenges in developing their innovation capacities and accessing international markets.\",\n    \"There is a need for targeted support services to enhance the innovation management capacities of SMEs with significant innovation activities and potential for international growth.\"\n  ],\n  \"objectives\": [\n    \"Provide innovation support services to SMEs in Montenegro through the Enterprise Europe Network.\",\n    \"Enhance the innovation management capacities of SMEs in Montenegro, particularly those with significant innovation activities and potential for international growth.\"\n  ],\n  \"methods\": [\n    \"Offer Key Account Management (KAM) services to support the innovation capacity of successful SME instrument applicants.\",\n    \"Provide services to enhance the innovation management capacity of SMEs, including mentoring, coaching, and partner search activities.\"\n  ],\n  \"results\": [\n    \"Improve the effectiveness and efficiency of SMEs in Montenegro through enhanced innovation management capacities.\",\n    \"Support the development of cross-border innovation projects and international growth of SMEs in Montenegro.\"\n  ],\n  \"research_subject\": \"Enhancing innovation management capacities of SMEs in Montenegro\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs in Montenegro require support to enhance their innovation management capacities.\",\n    \"There is a need for specialized services to assist SMEs in developing cross-border innovation projects.\"\n  ],\n  \"objectives\": [\n    \"Provide innovation support services, information, and advisory services such as mentoring, coaching, and partner search activities for SMEs.\",\n    \"Offer Key Account Management to support the innovation capacity of successful SME instrument applicants.\",\n    \"Enhance the innovation management capacity of SMEs in Montenegro to improve their effectiveness and efficiency, particularly those with significant innovation activities and potential for international growth.\"\n  ],\n  \"methods\": [\n    \"Utilize the Enterprise Europe Network as the main support instrument for innovation in SMEs.\",\n    \"Implement two service packages - Key Account Management and Services to enhance innovation management capacity.\"\n  ],\n  \"results\": [\n    \"Improved innovation management capacities of SMEs in Montenegro.\",\n    \"Increased effectiveness and efficiency of SMEs with significant innovation activities and potential for international growth.\"\n  ],\n  \"research_subject\": \"Enhancing innovation management capacities of SMEs in Montenegro\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs in Montenegro need enhanced support to develop their innovation management capacities and compete internationally.\",\n    \"There is a gap in providing structured innovation support services to help SMEs with significant innovation potential achieve international growth.\"\n  ],\n  \"objectives\": [\n    \"Provide comprehensive innovation support services including mentoring, coaching, and partner search activities for SMEs developing cross-border innovation projects.\",\n    \"Enhance the innovation management capacity of SMEs in Montenegro to improve their effectiveness and efficiency, particularly for those with international growth potential.\"\n  ],\n  \"methods\": [\n    \"Implement Key Account Management (KAM) services to support successful SME instrument applicants under Horizon 2020.\",\n    \"Deliver targeted services through the Enterprise Europe Network to enhance innovation management capabilities of SMEs.\"\n  ],\n  \"results\": [\n    \"Improved innovation management capacities and international competitiveness of SMEs in Montenegro.\",\n    \"Enhanced effectiveness and efficiency of SMEs with significant innovation activities through structured support services.\"\n  ],\n  \"research_subject\": \"Innovation management capacity enhancement for SMEs in Montenegro\"\n}\n```"
+}

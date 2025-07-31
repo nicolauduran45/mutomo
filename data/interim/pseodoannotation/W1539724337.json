@@ -1,0 +1,72 @@
+{
+  "index": 358,
+  "title": "A Study of Housing and Identity in Northern Cyprus",
+  "abstract": "This research mainly focuses on the relationship between environment and people’s identity by centralization of communicative aspects of residential environments. There is this potential to find out the dwellers’ identity, and this is where we come to the confluence of housing and identity. Therefore, it is significant to find out the residents’ attitudes considering their residences. The concept that enables individuals to retain their routines, costumes, habits and memories makes the focus of “housing and identity” a crucial and feasible research subject. The case studies are selected among high-quality and low-quality neighborhoods in Kaliland zone in Gazima?usa , one of the five districts of Northern Cyprus. In this survey questionnaires are used in order to explore residents’ interests, personality and relationships. This research is done based on the principles of home identity, communicating identity and self-perception. Consequently, the significant aspects in creating home identity will be discussed, and finally, the research will conclude the key role of memory, personal features and backgrounds in defining identity. Keywords: Housing, Dwelling, Identity, Residential Environment",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the relationship between residential environments and people's identity.",
+      "The connection between housing and identity is not well understood, particularly in the context of Northern Cyprus."
+    ],
+    "objectives": [
+      "Explore the relationship between housing and identity in Northern Cyprus.",
+      "Investigate how residents' attitudes towards their residences reflect their identity.",
+      "Identify the key factors that contribute to creating home identity."
+    ],
+    "methods": [
+      "Conduct a survey using questionnaires to gather data on residents' interests, personality, and relationships.",
+      "Select case studies from high-quality and low-quality neighborhoods in the Kaliland zone of Gazima?usa.",
+      "Apply principles of home identity, communicating identity, and self-perception to analyze the data."
+    ],
+    "results": [
+      "Gain insight into the significant aspects of creating home identity.",
+      "Understand the role of memory, personal features, and backgrounds in defining identity.",
+      "Contribute to a deeper understanding of the relationship between housing and identity in Northern Cyprus."
+    ],
+    "research_subject": "The relationship between housing and identity in Northern Cyprus"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the relationship between environment and people's identity is crucial, particularly in the context of residential environments.",
+      "There is a need to explore residents' attitudes towards their residences and how these attitudes reflect their identities."
+    ],
+    "objectives": [
+      "Investigate the intersection of housing and identity by focusing on the communicative aspects of residential environments.",
+      "Analyze the role of routines, customs, habits, and memories in shaping the concept of 'housing and identity'.",
+      "Identify the significant aspects in creating home identity and the key role of memory, personal features, and backgrounds in defining identity."
+    ],
+    "methods": [
+      "Conduct case studies in high-quality and low-quality neighborhoods in the Kaliland zone in Gazima?usa, Northern Cyprus.",
+      "Use survey questionnaires to explore residents' interests, personality, and relationships.",
+      "Base the research on the principles of home identity, communicating identity, and self-perception."
+    ],
+    "results": [
+      "Provide insights into the relationship between housing and identity, particularly how residential environments reflect and shape people's identities.",
+      "Highlight the importance of memory, personal features, and backgrounds in defining identity.",
+      "Discuss the significant aspects in creating home identity."
+    ],
+    "research_subject": "Exploration of Housing and Identity in Northern Cyprus"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the relationship between residential environments and people's identity is crucial for comprehending how dwellings communicate and shape residents' sense of self.",
+      "There is a need to explore how housing environments influence the preservation of routines, customs, habits, and memories that constitute individual identity."
+    ],
+    "objectives": [
+      "Investigate the relationship between housing environments and residents' identity formation in Northern Cyprus.",
+      "Identify the significant aspects that contribute to creating home identity through analysis of residents' attitudes, interests, and relationships with their dwellings."
+    ],
+    "methods": [
+      "Conduct surveys using questionnaires to explore residents' interests, personality traits, and relationships with their homes.",
+      "Compare case studies from high-quality and low-quality neighborhoods in the Kaliland zone of Gazimağusa district.",
+      "Apply theoretical frameworks of home identity, communicating identity, and self-perception to analyze the data."
+    ],
+    "results": [
+      "The research identifies memory, personal features, and backgrounds as key factors in defining identity through housing.",
+      "Significant aspects contributing to home identity formation are revealed through analysis of residential environments and dweller relationships."
+    ],
+    "research_subject": "The relationship between housing environments and identity formation in Northern Cyprus"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the relationship between residential environments and people's identity.\",\n    \"The connection between housing and identity is not well understood, particularly in the context of Northern Cyprus.\"\n  ],\n  \"objectives\": [\n    \"Explore the relationship between housing and identity in Northern Cyprus.\",\n    \"Investigate how residents' attitudes towards their residences reflect their identity.\",\n    \"Identify the key factors that contribute to creating home identity.\"\n  ],\n  \"methods\": [\n    \"Conduct a survey using questionnaires to gather data on residents' interests, personality, and relationships.\",\n    \"Select case studies from high-quality and low-quality neighborhoods in the Kaliland zone of Gazima?usa.\",\n    \"Apply principles of home identity, communicating identity, and self-perception to analyze the data.\"\n  ],\n  \"results\": [\n    \"Gain insight into the significant aspects of creating home identity.\",\n    \"Understand the role of memory, personal features, and backgrounds in defining identity.\",\n    \"Contribute to a deeper understanding of the relationship between housing and identity in Northern Cyprus.\"\n  ],\n  \"research_subject\": \"The relationship between housing and identity in Northern Cyprus\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the relationship between environment and people's identity is crucial, particularly in the context of residential environments.\",\n    \"There is a need to explore residents' attitudes towards their residences and how these attitudes reflect their identities.\"\n  ],\n  \"objectives\": [\n    \"Investigate the intersection of housing and identity by focusing on the communicative aspects of residential environments.\",\n    \"Analyze the role of routines, customs, habits, and memories in shaping the concept of 'housing and identity'.\",\n    \"Identify the significant aspects in creating home identity and the key role of memory, personal features, and backgrounds in defining identity.\"\n  ],\n  \"methods\": [\n    \"Conduct case studies in high-quality and low-quality neighborhoods in the Kaliland zone in Gazima?usa, Northern Cyprus.\",\n    \"Use survey questionnaires to explore residents' interests, personality, and relationships.\",\n    \"Base the research on the principles of home identity, communicating identity, and self-perception.\"\n  ],\n  \"results\": [\n    \"Provide insights into the relationship between housing and identity, particularly how residential environments reflect and shape people's identities.\",\n    \"Highlight the importance of memory, personal features, and backgrounds in defining identity.\",\n    \"Discuss the significant aspects in creating home identity.\"\n  ],\n  \"research_subject\": \"Exploration of Housing and Identity in Northern Cyprus\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the relationship between residential environments and people's identity is crucial for comprehending how dwellings communicate and shape residents' sense of self.\",\n    \"There is a need to explore how housing environments influence the preservation of routines, customs, habits, and memories that constitute individual identity.\"\n  ],\n  \"objectives\": [\n    \"Investigate the relationship between housing environments and residents' identity formation in Northern Cyprus.\",\n    \"Identify the significant aspects that contribute to creating home identity through analysis of residents' attitudes, interests, and relationships with their dwellings.\"\n  ],\n  \"methods\": [\n    \"Conduct surveys using questionnaires to explore residents' interests, personality traits, and relationships with their homes.\",\n    \"Compare case studies from high-quality and low-quality neighborhoods in the Kaliland zone of Gazimağusa district.\",\n    \"Apply theoretical frameworks of home identity, communicating identity, and self-perception to analyze the data.\"\n  ],\n  \"results\": [\n    \"The research identifies memory, personal features, and backgrounds as key factors in defining identity through housing.\",\n    \"Significant aspects contributing to home identity formation are revealed through analysis of residential environments and dweller relationships.\"\n  ],\n  \"research_subject\": \"The relationship between housing environments and identity formation in Northern Cyprus\"\n}\n```"
+}

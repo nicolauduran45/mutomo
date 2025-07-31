@@ -1,0 +1,67 @@
+{
+  "index": 282,
+  "title": "Statistical Method of Building Dialect Language Models for ASR Systems",
+  "abstract": "This paper develops a new statistical method of building language models (LMs) of Japanese dialects for automatic speech recognition (ASR). One possible application is to recognize a variety of utterances in our daily lives. The most crucial problem in training language models for dialects is the shortage of linguistic corpora in dialects. Our solution is to transform linguistic corpora into dialects at a level of pronunciations of words. We develop phonemesequence transducers based on weighted finite-state transducers (WFSTs). Each word in common language (CL) corpora is automatically labelled as dialect word pronunciations. For example, anta (Kansai dialect) is labelled anata (the most common representation of ‘you’ in Japanese). Phoneme-sequence transducers are trained from parallel corpora of a dialect and CL. We evaluate the word recognition accuracy of our ASR system. Our method outperforms the ASR system with LMs trained from untransformed corpora in written language by 9.9 points.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for Automatic Speech Recognition (ASR) systems to recognize and understand dialect languages in everyday conversations.",
+      "A major challenge in developing dialect language models is the scarcity of linguistic corpora in dialects."
+    ],
+    "objectives": [
+      "Develop a statistical method to build dialect language models for ASR systems.",
+      "Improve the word recognition accuracy of ASR systems for dialect languages."
+    ],
+    "methods": [
+      "Transform linguistic corpora into dialects at the level of word pronunciations using phoneme-sequence transducers based on weighted finite-state transducers (WFSTs).",
+      "Automatically label words in common language corpora with dialect word pronunciations.",
+      "Train phoneme-sequence transducers from parallel corpora of a dialect and common language."
+    ],
+    "results": [
+      "Enhance the word recognition accuracy of ASR systems for dialect languages.",
+      "Outperform ASR systems with language models trained from untransformed corpora in written language."
+    ],
+    "research_subject": "Statistical method for building dialect language models in Automatic Speech Recognition systems"
+  },
+  "openai_json": {
+    "motivations": [
+      "Building language models for dialects in automatic speech recognition (ASR) systems is challenging due to the shortage of linguistic corpora in dialects.",
+      "There is a need for a method to recognize a variety of utterances in daily life, including those in different dialects."
+    ],
+    "objectives": [
+      "Develop a new statistical method to build language models of Japanese dialects for ASR systems.",
+      "Transform linguistic corpora into dialects at the level of word pronunciations to overcome the shortage of dialect-specific corpora."
+    ],
+    "methods": [
+      "Develop phoneme-sequence transducers based on weighted finite-state transducers (WFSTs) to transform common language corpora into dialects.",
+      "Automatically label each word in common language corpora as dialect word pronunciations.",
+      "Train phoneme-sequence transducers from parallel corpora of a dialect and common language."
+    ],
+    "results": [
+      "The proposed method improves the word recognition accuracy of the ASR system.",
+      "The ASR system with language models trained from transformed corpora outperforms the system with models trained from untransformed corpora in written language by 9.9 points."
+    ],
+    "research_subject": "Statistical method for building dialect language models for automatic speech recognition systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Building language models for dialect automatic speech recognition systems is challenging due to the shortage of linguistic corpora in dialects.",
+      "Existing ASR systems struggle to recognize dialectal utterances in daily life conversations."
+    ],
+    "objectives": [
+      "Develop a statistical method to build language models for Japanese dialects by transforming common language corpora into dialect representations.",
+      "Improve automatic speech recognition accuracy for dialectal utterances."
+    ],
+    "methods": [
+      "Transform common language corpora into dialects at the pronunciation level using phoneme-sequence transducers based on weighted finite-state transducers.",
+      "Automatically label words in common language corpora with their dialect word pronunciations.",
+      "Train phoneme-sequence transducers using parallel corpora of dialects and common language."
+    ],
+    "results": [
+      "The proposed method achieved a 9.9 point improvement in word recognition accuracy compared to ASR systems using untransformed written language corpora."
+    ],
+    "research_subject": "Statistical language modeling for dialect automatic speech recognition"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for Automatic Speech Recognition (ASR) systems to recognize and understand dialect languages in everyday conversations.\",\n    \"A major challenge in developing dialect language models is the scarcity of linguistic corpora in dialects.\"\n  ],\n  \"objectives\": [\n    \"Develop a statistical method to build dialect language models for ASR systems.\",\n    \"Improve the word recognition accuracy of ASR systems for dialect languages.\"\n  ],\n  \"methods\": [\n    \"Transform linguistic corpora into dialects at the level of word pronunciations using phoneme-sequence transducers based on weighted finite-state transducers (WFSTs).\",\n    \"Automatically label words in common language corpora with dialect word pronunciations.\",\n    \"Train phoneme-sequence transducers from parallel corpora of a dialect and common language.\"\n  ],\n  \"results\": [\n    \"Enhance the word recognition accuracy of ASR systems for dialect languages.\",\n    \"Outperform ASR systems with language models trained from untransformed corpora in written language.\"\n  ],\n  \"research_subject\": \"Statistical method for building dialect language models in Automatic Speech Recognition systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Building language models for dialects in automatic speech recognition (ASR) systems is challenging due to the shortage of linguistic corpora in dialects.\",\n    \"There is a need for a method to recognize a variety of utterances in daily life, including those in different dialects.\"\n  ],\n  \"objectives\": [\n    \"Develop a new statistical method to build language models of Japanese dialects for ASR systems.\",\n    \"Transform linguistic corpora into dialects at the level of word pronunciations to overcome the shortage of dialect-specific corpora.\"\n  ],\n  \"methods\": [\n    \"Develop phoneme-sequence transducers based on weighted finite-state transducers (WFSTs) to transform common language corpora into dialects.\",\n    \"Automatically label each word in common language corpora as dialect word pronunciations.\",\n    \"Train phoneme-sequence transducers from parallel corpora of a dialect and common language.\"\n  ],\n  \"results\": [\n    \"The proposed method improves the word recognition accuracy of the ASR system.\",\n    \"The ASR system with language models trained from transformed corpora outperforms the system with models trained from untransformed corpora in written language by 9.9 points.\"\n  ],\n  \"research_subject\": \"Statistical method for building dialect language models for automatic speech recognition systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Building language models for dialect automatic speech recognition systems is challenging due to the shortage of linguistic corpora in dialects.\",\n    \"Existing ASR systems struggle to recognize dialectal utterances in daily life conversations.\"\n  ],\n  \"objectives\": [\n    \"Develop a statistical method to build language models for Japanese dialects by transforming common language corpora into dialect representations.\",\n    \"Improve automatic speech recognition accuracy for dialectal utterances.\"\n  ],\n  \"methods\": [\n    \"Transform common language corpora into dialects at the pronunciation level using phoneme-sequence transducers based on weighted finite-state transducers.\",\n    \"Automatically label words in common language corpora with their dialect word pronunciations.\",\n    \"Train phoneme-sequence transducers using parallel corpora of dialects and common language.\"\n  ],\n  \"results\": [\n    \"The proposed method achieved a 9.9 point improvement in word recognition accuracy compared to ASR systems using untransformed written language corpora.\"\n  ],\n  \"research_subject\": \"Statistical language modeling for dialect automatic speech recognition\"\n}\n```"
+}

@@ -1,0 +1,73 @@
+{
+  "index": 419,
+  "title": "Students achieving valuable energy savings 2",
+  "abstract": "Students Achieving Valuable Energy Savings 2 (SAVES2) will catalyse sustainable energy behaviours among over 219,000 university students in seven countries to help them reduce their exposure to fuel poverty. It incorporates two strands that engage with students living in university accommodation (Student Switch Off) and in the private-rented sector (SAVES). Student Switch Off is an energy-saving competition that will reach 38,000 students living in 144 dormitories in 14 universities of the partner countries in each academic year from 2017/18 to 2019/20. By identifying and training student ambassadors in each dormitory, and by motivating the ambassadors to encourage their peers to save energy, we will create a race between students in dormitories, each competing to save the most energy and win prizes. It will tap into online student communities through social media, using engaging digital communications (quizzes, photo competitions) to raise awareness of how students can save energy in a fun way. The centrepiece of each competition will be an energy dashboard that updates students in near-real time on the performance and position of their dormitory in the competition – providing feedback and encouraging further action. The private-rented sector engagement work (SAVES) will reach over 100,000 students when they are looking for, moving into and living in the private-rented sector. It will enable students to make better informed decisions at the point at which they are selecting a rental property – thereby routing purchase decisions towards higher efficiency properties. SAVES2 will incorporate national-level partnerships with smart meter delivery agencies to develop student-focused communication materials highlighting the benefits of smart meters. It will provide ongoing advice and support to students via energy-efficiency and bill management training, peer-to-peer advice sharing via video blogs and regular e-mail and social media communications.",
+  "llama_json": {
+    "motivations": [
+      "University students are vulnerable to fuel poverty due to high energy costs and lack of awareness about energy-saving practices.",
+      "There is a need to promote sustainable energy behaviors among students to reduce their energy consumption and mitigate the risks of fuel poverty."
+    ],
+    "objectives": [
+      "Encourage university students to adopt sustainable energy behaviors and reduce their energy consumption.",
+      "Develop and implement effective engagement strategies to promote energy-saving practices among students living in university accommodation and the private-rented sector.",
+      "Provide students with the knowledge and skills to make informed decisions about energy efficiency when selecting rental properties."
+    ],
+    "methods": [
+      "Implement an energy-saving competition (Student Switch Off) to engage students living in university accommodation and encourage them to reduce their energy consumption.",
+      "Develop and disseminate student-focused communication materials highlighting the benefits of smart meters and energy-efficient practices.",
+      "Provide ongoing advice and support to students through energy-efficiency training, peer-to-peer advice sharing, and regular communications."
+    ],
+    "results": [
+      "Reduce energy consumption and promote sustainable energy behaviors among university students.",
+      "Help students make informed decisions about energy efficiency when selecting rental properties.",
+      "Mitigate the risks of fuel poverty among university students by reducing their energy costs."
+    ],
+    "research_subject": "Promoting sustainable energy behaviors among university students to reduce fuel poverty"
+  },
+  "openai_json": {
+    "motivations": [
+      "University students in seven countries are exposed to fuel poverty and need to adopt sustainable energy behaviors.",
+      "There is a lack of engaging and effective methods to encourage energy-saving behaviors among students, particularly those living in university accommodation and the private-rented sector."
+    ],
+    "objectives": [
+      "Catalyse sustainable energy behaviors among over 219,000 university students to reduce their exposure to fuel poverty.",
+      "Implement an energy-saving competition (Student Switch Off) in university dormitories to encourage energy conservation.",
+      "Engage students in the private-rented sector (SAVES) to make better-informed decisions towards higher efficiency properties."
+    ],
+    "methods": [
+      "Identify and train student ambassadors to motivate their peers to save energy through a competition model.",
+      "Utilize digital communications and social media to raise awareness and engage students in energy-saving activities.",
+      "Develop student-focused communication materials highlighting the benefits of smart meters, and provide ongoing advice and support to students via energy-efficiency and bill management training."
+    ],
+    "results": [
+      "Promote sustainable energy behaviors among a large number of university students, reducing their exposure to fuel poverty.",
+      "Encourage energy conservation in university dormitories through a competitive model.",
+      "Enable students in the private-rented sector to make more energy-efficient decisions."
+    ],
+    "research_subject": "Promoting sustainable energy behaviors among university students"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "University students need support to develop sustainable energy behaviors and reduce their exposure to fuel poverty.",
+      "There is a lack of engagement mechanisms to encourage energy-saving practices among students in both university accommodation and private-rented sectors."
+    ],
+    "objectives": [
+      "Catalyze sustainable energy behaviors among over 219,000 university students across seven countries through targeted engagement programs.",
+      "Implement energy-saving competitions in university dormitories and provide energy-efficiency support for students in the private-rented sector."
+    ],
+    "methods": [
+      "Deploy Student Switch Off energy-saving competitions using trained student ambassadors, social media engagement, and real-time energy dashboards to motivate peer-to-peer energy conservation.",
+      "Develop partnerships with smart meter agencies and create student-focused communication materials to promote energy-efficient rental property selection.",
+      "Provide ongoing support through energy-efficiency training, peer-to-peer video blogs, and regular digital communications."
+    ],
+    "results": [
+      "Engage 38,000 students in dormitory energy-saving competitions and reach over 100,000 students in the private-rented sector with energy-efficiency guidance.",
+      "Create lasting behavioral change in energy consumption patterns among university students.",
+      "Reduce student exposure to fuel poverty through improved energy awareness and more informed rental property decisions."
+    ],
+    "research_subject": "Energy-saving behavior change among university students in dormitories and private-rented accommodation"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"University students are vulnerable to fuel poverty due to high energy costs and lack of awareness about energy-saving practices.\",\n    \"There is a need to promote sustainable energy behaviors among students to reduce their energy consumption and mitigate the risks of fuel poverty.\"\n  ],\n  \"objectives\": [\n    \"Encourage university students to adopt sustainable energy behaviors and reduce their energy consumption.\",\n    \"Develop and implement effective engagement strategies to promote energy-saving practices among students living in university accommodation and the private-rented sector.\",\n    \"Provide students with the knowledge and skills to make informed decisions about energy efficiency when selecting rental properties.\"\n  ],\n  \"methods\": [\n    \"Implement an energy-saving competition (Student Switch Off) to engage students living in university accommodation and encourage them to reduce their energy consumption.\",\n    \"Develop and disseminate student-focused communication materials highlighting the benefits of smart meters and energy-efficient practices.\",\n    \"Provide ongoing advice and support to students through energy-efficiency training, peer-to-peer advice sharing, and regular communications.\"\n  ],\n  \"results\": [\n    \"Reduce energy consumption and promote sustainable energy behaviors among university students.\",\n    \"Help students make informed decisions about energy efficiency when selecting rental properties.\",\n    \"Mitigate the risks of fuel poverty among university students by reducing their energy costs.\"\n  ],\n  \"research_subject\": \"Promoting sustainable energy behaviors among university students to reduce fuel poverty\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"University students in seven countries are exposed to fuel poverty and need to adopt sustainable energy behaviors.\",\n    \"There is a lack of engaging and effective methods to encourage energy-saving behaviors among students, particularly those living in university accommodation and the private-rented sector.\"\n  ],\n  \"objectives\": [\n    \"Catalyse sustainable energy behaviors among over 219,000 university students to reduce their exposure to fuel poverty.\",\n    \"Implement an energy-saving competition (Student Switch Off) in university dormitories to encourage energy conservation.\",\n    \"Engage students in the private-rented sector (SAVES) to make better-informed decisions towards higher efficiency properties.\"\n  ],\n  \"methods\": [\n    \"Identify and train student ambassadors to motivate their peers to save energy through a competition model.\",\n    \"Utilize digital communications and social media to raise awareness and engage students in energy-saving activities.\",\n    \"Develop student-focused communication materials highlighting the benefits of smart meters, and provide ongoing advice and support to students via energy-efficiency and bill management training.\"\n  ],\n  \"results\": [\n    \"Promote sustainable energy behaviors among a large number of university students, reducing their exposure to fuel poverty.\",\n    \"Encourage energy conservation in university dormitories through a competitive model.\",\n    \"Enable students in the private-rented sector to make more energy-efficient decisions.\"\n  ],\n  \"research_subject\": \"Promoting sustainable energy behaviors among university students\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"University students need support to develop sustainable energy behaviors and reduce their exposure to fuel poverty.\",\n    \"There is a lack of engagement mechanisms to encourage energy-saving practices among students in both university accommodation and private-rented sectors.\"\n  ],\n  \"objectives\": [\n    \"Catalyze sustainable energy behaviors among over 219,000 university students across seven countries through targeted engagement programs.\",\n    \"Implement energy-saving competitions in university dormitories and provide energy-efficiency support for students in the private-rented sector.\"\n  ],\n  \"methods\": [\n    \"Deploy Student Switch Off energy-saving competitions using trained student ambassadors, social media engagement, and real-time energy dashboards to motivate peer-to-peer energy conservation.\",\n    \"Develop partnerships with smart meter agencies and create student-focused communication materials to promote energy-efficient rental property selection.\",\n    \"Provide ongoing support through energy-efficiency training, peer-to-peer video blogs, and regular digital communications.\"\n  ],\n  \"results\": [\n    \"Engage 38,000 students in dormitory energy-saving competitions and reach over 100,000 students in the private-rented sector with energy-efficiency guidance.\",\n    \"Create lasting behavioral change in energy consumption patterns among university students.\",\n    \"Reduce student exposure to fuel poverty through improved energy awareness and more informed rental property decisions.\"\n  ],\n  \"research_subject\": \"Energy-saving behavior change among university students in dormitories and private-rented accommodation\"\n}\n```"
+}

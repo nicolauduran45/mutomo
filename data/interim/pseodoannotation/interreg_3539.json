@@ -1,0 +1,77 @@
+{
+  "index": 434,
+  "title": "SportUrban - Sport et loisirs facteurs de cohésion sociale, de développement économique et de régénération urbaine",
+  "abstract": "In view of the challenges of social exclusion and spatial segregation, SportUrban aims to answer the following questions: Can the integration of people and the reconstruction of social links be promoted by the ways in which sport and leisure activities are used? Can local economic development be based on the demand induced by the sports and leisure sector? Can urban renovation be furthered by policies for the creation or transformation of sporting facilities? Can the image of a district, town or complex be developed through territorial marketing based on promotion of sports and leisure policy? Overall objective / Objectif général The aims of SportUrban are to: • Organise the sharing of experiences in implementing local sports and leisure policies • Identify and test practices leading to the integration of economic, social and urban factors • Disseminate partners’ know-how and the most useful tools for decision-makers • Create awareness among political decision-makers and increase the professionalism of technical authorities responsible for groups • Return Europe to its territories and encourage people to adopt their European citizenship. Expected results / Résultats attendus The expected impact of the transfer of experiences and competencies will be improved practices and greater cultural and technical awareness of European experiences. The sharing of know-how should lead to a higher level of qualification among partners, modification of operating methods, adaptation of local policies and improved governance measured by response to social demands. In urban regeneration and economic development, SportUrban will be able to influence local policies by providing an outside view of local projects and revealing dimensions which are currently underestimated. This should enrich both regional and local policies. New skills and new vocational training may be created. New analytical tools should improve public policies. The project will pass on its results outside the EU.",
+  "llama_json": {
+    "motivations": [
+      "Social exclusion and spatial segregation pose significant challenges to urban development and social cohesion.",
+      "There is a need to explore innovative approaches to promoting local economic development, urban regeneration, and social integration."
+    ],
+    "objectives": [
+      "Investigate the potential of sport and leisure activities to promote social integration, local economic development, and urban regeneration.",
+      "Share experiences and best practices in implementing local sports and leisure policies across Europe.",
+      "Enhance the professionalism of technical authorities and raise awareness among political decision-makers about the importance of integrated sports and leisure policies."
+    ],
+    "methods": [
+      "Organize the sharing of experiences and best practices among partners.",
+      "Identify and test innovative practices that integrate economic, social, and urban factors.",
+      "Disseminate knowledge and tools to support decision-makers in developing effective sports and leisure policies."
+    ],
+    "results": [
+      "Improved practices and greater awareness of European experiences in using sport and leisure activities for social integration and urban regeneration.",
+      "Enhanced qualification and skills among partners, leading to more effective local policies and governance.",
+      "Increased influence on local policies, leading to more inclusive and sustainable urban development."
+    ],
+    "research_subject": "The role of sport and leisure activities in promoting social cohesion, economic development, and urban regeneration"
+  },
+  "openai_json": {
+    "motivations": [
+      "Social exclusion and spatial segregation present challenges that need to be addressed.",
+      "There is a need to understand if sport and leisure activities can promote social integration, local economic development, and urban renovation.",
+      "The potential of sports and leisure policy in improving the image of a district or town through territorial marketing is yet to be explored."
+    ],
+    "objectives": [
+      "Share experiences in implementing local sports and leisure policies.",
+      "Identify and test practices that integrate economic, social, and urban factors.",
+      "Disseminate partners’ know-how and useful tools for decision-makers, and create awareness among political decision-makers.",
+      "Encourage people to adopt their European citizenship by returning Europe to its territories."
+    ],
+    "methods": [
+      "Organize the sharing of experiences in implementing local sports and leisure policies.",
+      "Test practices that lead to the integration of economic, social, and urban factors.",
+      "Disseminate partners’ know-how and useful tools for decision-makers."
+    ],
+    "results": [
+      "Improved practices and greater cultural and technical awareness of European experiences.",
+      "Higher level of qualification among partners, modification of operating methods, and adaptation of local policies.",
+      "Influence on local policies in urban regeneration and economic development by providing an outside view of local projects."
+    ],
+    "research_subject": "Role of sport and leisure activities in promoting social cohesion, economic development, and urban regeneration"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Social exclusion and spatial segregation in urban areas require innovative approaches to promote integration and rebuild social connections.",
+      "The potential of sports and leisure activities as drivers for local economic development and urban regeneration remains underexplored.",
+      "There is a need to enhance the image of districts and towns through territorial marketing based on sports and leisure policies."
+    ],
+    "objectives": [
+      "Organize the sharing of experiences and best practices in implementing local sports and leisure policies across European territories.",
+      "Identify and test practices that integrate economic, social, and urban factors through sports and leisure activities.",
+      "Disseminate knowledge and tools to decision-makers while increasing the professionalism of technical authorities responsible for community development."
+    ],
+    "methods": [
+      "Transfer experiences and competencies between partners to improve practices and increase cultural and technical awareness.",
+      "Provide external perspectives on local projects to reveal underestimated dimensions in urban regeneration and economic development.",
+      "Develop new analytical tools and vocational training programs to enhance public policy implementation."
+    ],
+    "results": [
+      "Improved governance and public policies that better respond to social demands through enhanced qualification of partners and modified operating methods.",
+      "Enriched regional and local policies that integrate sports and leisure as catalysts for urban regeneration and economic development.",
+      "Creation of new skills, vocational training opportunities, and analytical tools that improve public policy effectiveness."
+    ],
+    "research_subject": "Sports and leisure activities as drivers of social cohesion, economic development, and urban regeneration"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Social exclusion and spatial segregation pose significant challenges to urban development and social cohesion.\",\n    \"There is a need to explore innovative approaches to promoting local economic development, urban regeneration, and social integration.\"\n  ],\n  \"objectives\": [\n    \"Investigate the potential of sport and leisure activities to promote social integration, local economic development, and urban regeneration.\",\n    \"Share experiences and best practices in implementing local sports and leisure policies across Europe.\",\n    \"Enhance the professionalism of technical authorities and raise awareness among political decision-makers about the importance of integrated sports and leisure policies.\"\n  ],\n  \"methods\": [\n    \"Organize the sharing of experiences and best practices among partners.\",\n    \"Identify and test innovative practices that integrate economic, social, and urban factors.\",\n    \"Disseminate knowledge and tools to support decision-makers in developing effective sports and leisure policies.\"\n  ],\n  \"results\": [\n    \"Improved practices and greater awareness of European experiences in using sport and leisure activities for social integration and urban regeneration.\",\n    \"Enhanced qualification and skills among partners, leading to more effective local policies and governance.\",\n    \"Increased influence on local policies, leading to more inclusive and sustainable urban development.\"\n  ],\n  \"research_subject\": \"The role of sport and leisure activities in promoting social cohesion, economic development, and urban regeneration\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Social exclusion and spatial segregation present challenges that need to be addressed.\",\n    \"There is a need to understand if sport and leisure activities can promote social integration, local economic development, and urban renovation.\",\n    \"The potential of sports and leisure policy in improving the image of a district or town through territorial marketing is yet to be explored.\"\n  ],\n  \"objectives\": [\n    \"Share experiences in implementing local sports and leisure policies.\",\n    \"Identify and test practices that integrate economic, social, and urban factors.\",\n    \"Disseminate partners’ know-how and useful tools for decision-makers, and create awareness among political decision-makers.\",\n    \"Encourage people to adopt their European citizenship by returning Europe to its territories.\"\n  ],\n  \"methods\": [\n    \"Organize the sharing of experiences in implementing local sports and leisure policies.\",\n    \"Test practices that lead to the integration of economic, social, and urban factors.\",\n    \"Disseminate partners’ know-how and useful tools for decision-makers.\"\n  ],\n  \"results\": [\n    \"Improved practices and greater cultural and technical awareness of European experiences.\",\n    \"Higher level of qualification among partners, modification of operating methods, and adaptation of local policies.\",\n    \"Influence on local policies in urban regeneration and economic development by providing an outside view of local projects.\"\n  ],\n  \"research_subject\": \"Role of sport and leisure activities in promoting social cohesion, economic development, and urban regeneration\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Social exclusion and spatial segregation in urban areas require innovative approaches to promote integration and rebuild social connections.\",\n    \"The potential of sports and leisure activities as drivers for local economic development and urban regeneration remains underexplored.\",\n    \"There is a need to enhance the image of districts and towns through territorial marketing based on sports and leisure policies.\"\n  ],\n  \"objectives\": [\n    \"Organize the sharing of experiences and best practices in implementing local sports and leisure policies across European territories.\",\n    \"Identify and test practices that integrate economic, social, and urban factors through sports and leisure activities.\",\n    \"Disseminate knowledge and tools to decision-makers while increasing the professionalism of technical authorities responsible for community development.\"\n  ],\n  \"methods\": [\n    \"Transfer experiences and competencies between partners to improve practices and increase cultural and technical awareness.\",\n    \"Provide external perspectives on local projects to reveal underestimated dimensions in urban regeneration and economic development.\",\n    \"Develop new analytical tools and vocational training programs to enhance public policy implementation.\"\n  ],\n  \"results\": [\n    \"Improved governance and public policies that better respond to social demands through enhanced qualification of partners and modified operating methods.\",\n    \"Enriched regional and local policies that integrate sports and leisure as catalysts for urban regeneration and economic development.\",\n    \"Creation of new skills, vocational training opportunities, and analytical tools that improve public policy effectiveness.\"\n  ],\n  \"research_subject\": \"Sports and leisure activities as drivers of social cohesion, economic development, and urban regeneration\"\n}\n```"
+}

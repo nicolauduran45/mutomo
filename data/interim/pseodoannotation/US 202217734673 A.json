@@ -1,0 +1,59 @@
+{
+  "index": 75,
+  "title": "Front end conveyor having adjustable entrance support",
+  "abstract": "A front end conveyor has an upstream end and a downstream end, a lower deck including a plurality of primary sheet supports and an upper deck including a plurality of sheet guides. Upper portions of the primary sheet supports lie in a first plane and the sheet supports and sheet guides define a sheet transport path for moving sheets in a sheet transport direction. A pivotable sheet support extends from an upstream end of the lower deck and has at least one surface lying in a second plane. The pivotable sheet support is pivotable from a first position in which the second plane forms a first angle with the first plane and a second position in which the second plane forms a second angle with the first plane, the second angle being different than the first angle.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a front end conveyor system that can accommodate and transport sheets of varying sizes and orientations."
+    ],
+    "objectives": [
+      "Design a front end conveyor with an adjustable entrance support to facilitate the transportation of sheets."
+    ],
+    "methods": [
+      "Implement a pivotable sheet support at the upstream end of the lower deck of the conveyor.",
+      "Enable the pivotable sheet support to adjust its angle relative to the primary sheet supports."
+    ],
+    "results": [
+      "Enhance the flexibility and adaptability of the front end conveyor in handling sheets of different sizes and orientations."
+    ],
+    "research_subject": "Design of a front end conveyor with adjustable entrance support for efficient sheet transportation"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a conveyor system that can adjust to accommodate different sheet transport requirements."
+    ],
+    "objectives": [
+      "Design a front end conveyor with an adjustable entrance support that can pivot to form different angles."
+    ],
+    "methods": [
+      "Develop a lower deck with primary sheet supports and an upper deck with sheet guides to define a sheet transport path.",
+      "Incorporate a pivotable sheet support that can adjust its position to form different angles with the plane of the primary sheet supports."
+    ],
+    "results": [
+      "Provide a conveyor system with adjustable sheet transport capabilities."
+    ],
+    "research_subject": "Adjustable entrance support in front end conveyor systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Conveyor systems require adjustable entrance supports to accommodate sheets of varying sizes and conditions during transport.",
+      "Fixed-angle sheet supports in conveyors can limit flexibility and efficiency when handling different types of sheet materials."
+    ],
+    "objectives": [
+      "Design a front end conveyor with a pivotable sheet support that can adjust its angle to optimize sheet entry and transport.",
+      "Improve the versatility and efficiency of sheet handling in conveyor systems through adjustable entrance support mechanisms."
+    ],
+    "methods": [
+      "Implement a pivotable sheet support at the upstream end of the conveyor that can transition between different angular positions.",
+      "Integrate upper and lower deck structures with sheet guides and primary supports to create a defined sheet transport path."
+    ],
+    "results": [
+      "Enhanced flexibility in sheet handling through adjustable entrance angles that accommodate various sheet types and conditions.",
+      "Improved conveyor system performance and reduced sheet handling errors during transport operations."
+    ],
+    "research_subject": "Adjustable entrance support mechanism for front end conveyor systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a front end conveyor system that can accommodate and transport sheets of varying sizes and orientations.\"\n  ],\n  \"objectives\": [\n    \"Design a front end conveyor with an adjustable entrance support to facilitate the transportation of sheets.\"\n  ],\n  \"methods\": [\n    \"Implement a pivotable sheet support at the upstream end of the lower deck of the conveyor.\",\n    \"Enable the pivotable sheet support to adjust its angle relative to the primary sheet supports.\"\n  ],\n  \"results\": [\n    \"Enhance the flexibility and adaptability of the front end conveyor in handling sheets of different sizes and orientations.\"\n  ],\n  \"research_subject\": \"Design of a front end conveyor with adjustable entrance support for efficient sheet transportation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a conveyor system that can adjust to accommodate different sheet transport requirements.\"\n  ],\n  \"objectives\": [\n    \"Design a front end conveyor with an adjustable entrance support that can pivot to form different angles.\"\n  ],\n  \"methods\": [\n    \"Develop a lower deck with primary sheet supports and an upper deck with sheet guides to define a sheet transport path.\",\n    \"Incorporate a pivotable sheet support that can adjust its position to form different angles with the plane of the primary sheet supports.\"\n  ],\n  \"results\": [\n    \"Provide a conveyor system with adjustable sheet transport capabilities.\"\n  ],\n  \"research_subject\": \"Adjustable entrance support in front end conveyor systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Conveyor systems require adjustable entrance supports to accommodate sheets of varying sizes and conditions during transport.\",\n    \"Fixed-angle sheet supports in conveyors can limit flexibility and efficiency when handling different types of sheet materials.\"\n  ],\n  \"objectives\": [\n    \"Design a front end conveyor with a pivotable sheet support that can adjust its angle to optimize sheet entry and transport.\",\n    \"Improve the versatility and efficiency of sheet handling in conveyor systems through adjustable entrance support mechanisms.\"\n  ],\n  \"methods\": [\n    \"Implement a pivotable sheet support at the upstream end of the conveyor that can transition between different angular positions.\",\n    \"Integrate upper and lower deck structures with sheet guides and primary supports to create a defined sheet transport path.\"\n  ],\n  \"results\": [\n    \"Enhanced flexibility in sheet handling through adjustable entrance angles that accommodate various sheet types and conditions.\",\n    \"Improved conveyor system performance and reduced sheet handling errors during transport operations.\"\n  ],\n  \"research_subject\": \"Adjustable entrance support mechanism for front end conveyor systems\"\n}\n```"
+}

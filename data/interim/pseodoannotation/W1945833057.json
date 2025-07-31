@@ -1,0 +1,68 @@
+{
+  "index": 305,
+  "title": "De Schumpeter a los postschumpeterianos: viejas y nuevas dimensiones analíticas**Se agradecen los comentarios de los árbitros de la revista a una versión previa de este artículo;",
+  "abstract": "This article discusses the major ideas of Schumpeter and identifies changes or breaks in his line of thinking throughout his works. His major contribution was to explain the dynamics of economic development based on the emergence of processes of creative destruction that take place under different forms of competition. Many years later this legacy became relevant in developing evolutionary and neo-Schumpeterian theory. This article also presents the elements missing from this thinking, later developed by evolutionary and neo-Schumpeterian theory. Among them, the importance of learning processes and the development of competition in companies, diffusion mechanisms for innovation and the role of institutions are especially notable.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand and build upon Joseph Schumpeter's ideas on economic development and creative destruction.",
+      "Schumpeter's original work lacks certain key elements that are crucial for a comprehensive understanding of economic evolution and innovation."
+    ],
+    "objectives": [
+      "Discuss and analyze the major ideas and contributions of Joseph Schumpeter to the field of economics.",
+      "Identify the changes, breaks, or missing elements in Schumpeter's line of thinking throughout his works.",
+      "Highlight the relevance of Schumpeter's legacy in the development of evolutionary and neo-Schumpeterian theory."
+    ],
+    "methods": [
+      "Analyze Schumpeter's works to identify his key contributions and changes in his thinking.",
+      "Compare Schumpeter's ideas with later developments in evolutionary and neo-Schumpeterian theory.",
+      "Identify the missing elements in Schumpeter's work and how they were addressed by later theories."
+    ],
+    "results": [
+      "A deeper understanding of Schumpeter's ideas and their relevance to modern economic theory.",
+      "The identification of key elements missing from Schumpeter's work, such as learning processes and institutional roles.",
+      "A clearer picture of how Schumpeter's legacy has influenced the development of evolutionary and neo-Schumpeterian theory."
+    ],
+    "research_subject": "The evolution of Schumpeter's ideas and their relevance to modern economic theory"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the evolution of Schumpeter's ideas and identify changes in his line of thinking.",
+      "The importance of exploring the missing elements in Schumpeter's thinking that were later developed by evolutionary and neo-Schumpeterian theory."
+    ],
+    "objectives": [
+      "Discuss the major ideas of Schumpeter and identify changes in his line of thinking throughout his works.",
+      "Highlight the elements missing from Schumpeter's thinking that were later developed by evolutionary and neo-Schumpeterian theory."
+    ],
+    "methods": [
+      "Review and analyze Schumpeter's works to understand his major ideas and the evolution of his thinking.",
+      "Identify and discuss the elements missing from Schumpeter's thinking that were later developed by evolutionary and neo-Schumpeterian theory."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of Schumpeter's ideas and their evolution.",
+      "Identify and highlight the elements missing from Schumpeter's thinking that were later developed by evolutionary and neo-Schumpeterian theory."
+    ],
+    "research_subject": "Analysis of Schumpeter's ideas and their evolution"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to understand the evolution of Schumpeter's economic theories and identify changes in his thinking throughout his works.",
+      "Important analytical dimensions were missing from Schumpeter's original framework that required further theoretical development."
+    ],
+    "objectives": [
+      "Analyze and discuss Schumpeter's major ideas and identify breaks or changes in his line of thinking across his works.",
+      "Examine the elements missing from Schumpeter's framework that were later developed by evolutionary and neo-Schumpeterian theory."
+    ],
+    "methods": [
+      "Conduct a theoretical analysis of Schumpeter's works to trace the evolution of his ideas on economic development and creative destruction.",
+      "Compare Schumpeterian concepts with later developments in evolutionary and neo-Schumpeterian theory."
+    ],
+    "results": [
+      "Schumpeter's major contribution was explaining economic development dynamics through creative destruction processes under different forms of competition.",
+      "Evolutionary and neo-Schumpeterian theory filled gaps in Schumpeter's framework by incorporating learning processes, company-level competition, innovation diffusion mechanisms, and institutional roles."
+    ],
+    "research_subject": "Evolution of Schumpeterian economic theory and its development into evolutionary and neo-Schumpeterian frameworks"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand and build upon Joseph Schumpeter's ideas on economic development and creative destruction.\",\n    \"Schumpeter's original work lacks certain key elements that are crucial for a comprehensive understanding of economic evolution and innovation.\"\n  ],\n  \"objectives\": [\n    \"Discuss and analyze the major ideas and contributions of Joseph Schumpeter to the field of economics.\",\n    \"Identify the changes, breaks, or missing elements in Schumpeter's line of thinking throughout his works.\",\n    \"Highlight the relevance of Schumpeter's legacy in the development of evolutionary and neo-Schumpeterian theory.\"\n  ],\n  \"methods\": [\n    \"Analyze Schumpeter's works to identify his key contributions and changes in his thinking.\",\n    \"Compare Schumpeter's ideas with later developments in evolutionary and neo-Schumpeterian theory.\",\n    \"Identify the missing elements in Schumpeter's work and how they were addressed by later theories.\"\n  ],\n  \"results\": [\n    \"A deeper understanding of Schumpeter's ideas and their relevance to modern economic theory.\",\n    \"The identification of key elements missing from Schumpeter's work, such as learning processes and institutional roles.\",\n    \"A clearer picture of how Schumpeter's legacy has influenced the development of evolutionary and neo-Schumpeterian theory.\"\n  ],\n  \"research_subject\": \"The evolution of Schumpeter's ideas and their relevance to modern economic theory\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the evolution of Schumpeter's ideas and identify changes in his line of thinking.\",\n    \"The importance of exploring the missing elements in Schumpeter's thinking that were later developed by evolutionary and neo-Schumpeterian theory.\"\n  ],\n  \"objectives\": [\n    \"Discuss the major ideas of Schumpeter and identify changes in his line of thinking throughout his works.\",\n    \"Highlight the elements missing from Schumpeter's thinking that were later developed by evolutionary and neo-Schumpeterian theory.\"\n  ],\n  \"methods\": [\n    \"Review and analyze Schumpeter's works to understand his major ideas and the evolution of his thinking.\",\n    \"Identify and discuss the elements missing from Schumpeter's thinking that were later developed by evolutionary and neo-Schumpeterian theory.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of Schumpeter's ideas and their evolution.\",\n    \"Identify and highlight the elements missing from Schumpeter's thinking that were later developed by evolutionary and neo-Schumpeterian theory.\"\n  ],\n  \"research_subject\": \"Analysis of Schumpeter's ideas and their evolution\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the evolution of Schumpeter's economic theories and identify changes in his thinking throughout his works.\",\n    \"Important analytical dimensions were missing from Schumpeter's original framework that required further theoretical development.\"\n  ],\n  \"objectives\": [\n    \"Analyze and discuss Schumpeter's major ideas and identify breaks or changes in his line of thinking across his works.\",\n    \"Examine the elements missing from Schumpeter's framework that were later developed by evolutionary and neo-Schumpeterian theory.\"\n  ],\n  \"methods\": [\n    \"Conduct a theoretical analysis of Schumpeter's works to trace the evolution of his ideas on economic development and creative destruction.\",\n    \"Compare Schumpeterian concepts with later developments in evolutionary and neo-Schumpeterian theory.\"\n  ],\n  \"results\": [\n    \"Schumpeter's major contribution was explaining economic development dynamics through creative destruction processes under different forms of competition.\",\n    \"Evolutionary and neo-Schumpeterian theory filled gaps in Schumpeter's framework by incorporating learning processes, company-level competition, innovation diffusion mechanisms, and institutional roles.\"\n  ],\n  \"research_subject\": \"Evolution of Schumpeterian economic theory and its development into evolutionary and neo-Schumpeterian frameworks\"\n}\n```"
+}

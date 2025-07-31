@@ -1,0 +1,75 @@
+{
+  "index": 250,
+  "title": "Resilience information platform for Adriatic cities and towns",
+  "abstract": "The proposed actions aim at promoting local and regional resilience by developing the knowledge base required to identify suitable climate adaptation and planning options. The goal will be supported by four actions: produce high-resolution datasets and projections that provide detailed and reliable information on climate-related impacts in the regions; create a climate information system or knowledge platform for the Adriatic region containing best practices, guidance documents, legal frameworks and climate and vulnerability studies; test and integrate the knowledge platform in select Italian and Croatian pilot cities and extended urban areas where adaptation and resilience plans will be designed; maintain and disseminate the information. Information added on 2020-12_10, regarding the mitigation of the effects of COVID-19 (the coronavirus pandemic that started in 2019) (English language only): ADRIADAPT supports Local Authorities implementing climate policies, The reduction of emissions achieved by climate mitigation and urban greening will help improving air quality and so reducing vectors of infection; COVID 19 experiences have taught that preparation of emergency services need to take such (unforeseen) disruptive events in consideration too, in order to increase resilience at local level. Aiming at the creation of attractive urban green areas as part of climate adaptation solutions has demonstrated clear advantages for living through the COVID crisis as these areas have a high importance for safer forms of social interaction and well-being in a context of social distancing.",
+  "llama_json": {
+    "motivations": [
+      "Adriatic cities and towns lack a comprehensive knowledge base to identify suitable climate adaptation and planning options, hindering local and regional resilience.",
+      "The COVID-19 pandemic has highlighted the need for urban planning that incorporates green spaces and emergency preparedness to increase resilience and reduce infection vectors."
+    ],
+    "objectives": [
+      "Develop high-resolution datasets and projections to provide detailed information on climate-related impacts in the Adriatic region.",
+      "Create a climate information system or knowledge platform containing best practices, guidance documents, and climate studies to support local resilience.",
+      "Design and implement adaptation and resilience plans in select Italian and Croatian pilot cities and extended urban areas."
+    ],
+    "methods": [
+      "Produce detailed climate-related datasets and projections for the Adriatic region.",
+      "Develop and test a climate information system or knowledge platform in pilot cities.",
+      "Maintain and disseminate climate information to support local authorities in implementing climate policies."
+    ],
+    "results": [
+      "Enhance local and regional resilience to climate-related impacts through informed planning and adaptation.",
+      "Support the reduction of emissions and improvement of air quality through climate mitigation and urban greening.",
+      "Increase the preparedness of emergency services for unforeseen events and promote safer social interaction through urban green areas."
+    ],
+    "research_subject": "Developing a resilience information platform for climate adaptation and planning in Adriatic cities and towns"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to promote local and regional resilience to climate-related impacts through informed adaptation and planning.",
+      "The Adriatic region lacks a comprehensive knowledge platform for climate information, best practices, and vulnerability studies.",
+      "The COVID-19 pandemic has highlighted the importance of resilience and preparation for unforeseen disruptive events at a local level."
+    ],
+    "objectives": [
+      "Develop high-resolution datasets and projections to provide detailed information on climate-related impacts in the Adriatic regions.",
+      "Create a climate information system for the Adriatic region, containing best practices, guidance documents, legal frameworks, and climate and vulnerability studies.",
+      "Test and integrate the knowledge platform in select Italian and Croatian pilot cities and extended urban areas, where adaptation and resilience plans will be designed."
+    ],
+    "methods": [
+      "Produce high-resolution datasets and projections for detailed climate impact analysis.",
+      "Develop a comprehensive climate information system or knowledge platform for the Adriatic region.",
+      "Implement and test the knowledge platform in select pilot cities and urban areas."
+    ],
+    "results": [
+      "Improved local and regional resilience to climate-related impacts through informed adaptation and planning.",
+      "Availability of a comprehensive knowledge platform for climate information in the Adriatic region.",
+      "Enhanced preparation for unforeseen disruptive events at a local level, as demonstrated by the COVID-19 pandemic."
+    ],
+    "research_subject": "Promoting resilience in Adriatic cities and towns through a climate information platform"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Local and regional authorities in the Adriatic region lack detailed climate information and tools needed to develop effective climate adaptation and resilience plans.",
+      "The COVID-19 pandemic has highlighted the need for enhanced urban resilience planning that considers multiple types of disruptive events and their interconnected impacts."
+    ],
+    "objectives": [
+      "Develop a comprehensive knowledge base and climate information platform for the Adriatic region to support climate adaptation planning.",
+      "Test and integrate climate adaptation and resilience planning tools in pilot cities across Italy and Croatia.",
+      "Promote local and regional resilience by providing high-resolution climate data and best practices for adaptation strategies."
+    ],
+    "methods": [
+      "Produce high-resolution datasets and climate projections to assess climate-related impacts in the Adriatic region.",
+      "Create a climate information system containing best practices, guidance documents, legal frameworks, and vulnerability studies.",
+      "Implement and test the knowledge platform in selected Italian and Croatian pilot cities to design adaptation and resilience plans."
+    ],
+    "results": [
+      "Enhanced capacity of local authorities to implement climate policies and develop effective adaptation strategies.",
+      "Improved urban resilience through integrated planning that addresses both climate change and pandemic-related challenges.",
+      "Creation of urban green spaces that support climate adaptation while providing safer social interaction opportunities."
+    ],
+    "research_subject": "Climate adaptation and resilience planning for Adriatic cities and towns"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Adriatic cities and towns lack a comprehensive knowledge base to identify suitable climate adaptation and planning options, hindering local and regional resilience.\",\n    \"The COVID-19 pandemic has highlighted the need for urban planning that incorporates green spaces and emergency preparedness to increase resilience and reduce infection vectors.\"\n  ],\n  \"objectives\": [\n    \"Develop high-resolution datasets and projections to provide detailed information on climate-related impacts in the Adriatic region.\",\n    \"Create a climate information system or knowledge platform containing best practices, guidance documents, and climate studies to support local resilience.\",\n    \"Design and implement adaptation and resilience plans in select Italian and Croatian pilot cities and extended urban areas.\"\n  ],\n  \"methods\": [\n    \"Produce detailed climate-related datasets and projections for the Adriatic region.\",\n    \"Develop and test a climate information system or knowledge platform in pilot cities.\",\n    \"Maintain and disseminate climate information to support local authorities in implementing climate policies.\"\n  ],\n  \"results\": [\n    \"Enhance local and regional resilience to climate-related impacts through informed planning and adaptation.\",\n    \"Support the reduction of emissions and improvement of air quality through climate mitigation and urban greening.\",\n    \"Increase the preparedness of emergency services for unforeseen events and promote safer social interaction through urban green areas.\"\n  ],\n  \"research_subject\": \"Developing a resilience information platform for climate adaptation and planning in Adriatic cities and towns\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to promote local and regional resilience to climate-related impacts through informed adaptation and planning.\",\n    \"The Adriatic region lacks a comprehensive knowledge platform for climate information, best practices, and vulnerability studies.\",\n    \"The COVID-19 pandemic has highlighted the importance of resilience and preparation for unforeseen disruptive events at a local level.\"\n  ],\n  \"objectives\": [\n    \"Develop high-resolution datasets and projections to provide detailed information on climate-related impacts in the Adriatic regions.\",\n    \"Create a climate information system for the Adriatic region, containing best practices, guidance documents, legal frameworks, and climate and vulnerability studies.\",\n    \"Test and integrate the knowledge platform in select Italian and Croatian pilot cities and extended urban areas, where adaptation and resilience plans will be designed.\"\n  ],\n  \"methods\": [\n    \"Produce high-resolution datasets and projections for detailed climate impact analysis.\",\n    \"Develop a comprehensive climate information system or knowledge platform for the Adriatic region.\",\n    \"Implement and test the knowledge platform in select pilot cities and urban areas.\"\n  ],\n  \"results\": [\n    \"Improved local and regional resilience to climate-related impacts through informed adaptation and planning.\",\n    \"Availability of a comprehensive knowledge platform for climate information in the Adriatic region.\",\n    \"Enhanced preparation for unforeseen disruptive events at a local level, as demonstrated by the COVID-19 pandemic.\"\n  ],\n  \"research_subject\": \"Promoting resilience in Adriatic cities and towns through a climate information platform\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Local and regional authorities in the Adriatic region lack detailed climate information and tools needed to develop effective climate adaptation and resilience plans.\",\n    \"The COVID-19 pandemic has highlighted the need for enhanced urban resilience planning that considers multiple types of disruptive events and their interconnected impacts.\"\n  ],\n  \"objectives\": [\n    \"Develop a comprehensive knowledge base and climate information platform for the Adriatic region to support climate adaptation planning.\",\n    \"Test and integrate climate adaptation and resilience planning tools in pilot cities across Italy and Croatia.\",\n    \"Promote local and regional resilience by providing high-resolution climate data and best practices for adaptation strategies.\"\n  ],\n  \"methods\": [\n    \"Produce high-resolution datasets and climate projections to assess climate-related impacts in the Adriatic region.\",\n    \"Create a climate information system containing best practices, guidance documents, legal frameworks, and vulnerability studies.\",\n    \"Implement and test the knowledge platform in selected Italian and Croatian pilot cities to design adaptation and resilience plans.\"\n  ],\n  \"results\": [\n    \"Enhanced capacity of local authorities to implement climate policies and develop effective adaptation strategies.\",\n    \"Improved urban resilience through integrated planning that addresses both climate change and pandemic-related challenges.\",\n    \"Creation of urban green spaces that support climate adaptation while providing safer social interaction opportunities.\"\n  ],\n  \"research_subject\": \"Climate adaptation and resilience planning for Adriatic cities and towns\"\n}\n```"
+}

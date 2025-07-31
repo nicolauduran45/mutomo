@@ -1,0 +1,65 @@
+{
+  "index": 143,
+  "title": "The Analysis of Suppression and Jamming Effect of Continuous Wave on Radio Fuse Frequency Modulated by Triangular Wave",
+  "abstract": "To research jamming method and effect for radio fuse frequency modulated by triangular wave,the continuous wave of the same center frequency as that of the radio fuse was applied.It was found that when the jamming signal is up to certain energy,it can suppress the true echo signal of the target.Theoretical analysis and computer simulation prove the reason why the phenomenon occurs is that the continuous jamming wave has wide-band after mixing to cover and suppress the spectrum of the true echo signal of the target,but the jamming signal can't satisfy the judge condition of distance and speed,so the fuse won't startup wrongly.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to research effective jamming methods for radio fuses frequency modulated by triangular waves.",
+      "Understanding the suppression and jamming effects of continuous waves on radio fuses is crucial for developing countermeasures."
+    ],
+    "objectives": [
+      "Investigate the jamming effect of continuous waves on radio fuses frequency modulated by triangular waves.",
+      "Analyze the conditions under which the jamming signal can suppress the true echo signal of the target."
+    ],
+    "methods": [
+      "Apply a continuous wave with the same center frequency as the radio fuse to analyze the jamming effect.",
+      "Conduct theoretical analysis and computer simulations to understand the phenomenon."
+    ],
+    "results": [
+      "The continuous jamming wave can suppress the true echo signal of the target when it reaches a certain energy level.",
+      "The jamming signal cannot satisfy the judge condition of distance and speed, preventing the fuse from starting up wrongly."
+    ],
+    "research_subject": "Jamming effect of continuous waves on radio fuses frequency modulated by triangular waves"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the jamming methods and effects on radio fuses frequency modulated by triangular waves.",
+      "Understanding how a continuous wave of the same center frequency as that of the radio fuse can suppress the true echo signal of the target is crucial."
+    ],
+    "objectives": [
+      "Investigate the effect of a continuous wave of the same center frequency on a radio fuse frequency modulated by a triangular wave.",
+      "Analyze and simulate the reasons behind the suppression of the true echo signal of the target by the jamming signal."
+    ],
+    "methods": [
+      "Apply a continuous wave of the same center frequency as that of the radio fuse.",
+      "Conduct theoretical analysis and computer simulations to understand the suppression effect."
+    ],
+    "results": [
+      "The jamming signal can suppress the true echo signal of the target when it reaches a certain energy level.",
+      "The continuous jamming wave covers and suppresses the spectrum of the true echo signal after mixing, but it can't satisfy the judge condition of distance and speed, preventing the fuse from starting up wrongly."
+    ],
+    "research_subject": "Suppression and jamming effect of continuous wave on radio fuse frequency modulated by triangular wave"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to understand jamming methods and their effectiveness against radio fuses that use triangular wave frequency modulation.",
+      "Existing knowledge gaps exist regarding how continuous wave jamming affects the operation of frequency-modulated radio fuses."
+    ],
+    "objectives": [
+      "Investigate the jamming method and effectiveness of continuous wave interference on radio fuses frequency modulated by triangular wave.",
+      "Analyze the suppression mechanism of continuous wave jamming on true echo signals in radio fuse systems."
+    ],
+    "methods": [
+      "Apply continuous wave jamming at the same center frequency as the radio fuse to analyze interference effects.",
+      "Conduct theoretical analysis and computer simulation to understand the jamming mechanism and signal behavior."
+    ],
+    "results": [
+      "Continuous wave jamming can suppress true echo signals when reaching sufficient energy levels by creating wide-band interference after mixing.",
+      "The jamming signal cannot trigger false fuse activation as it fails to satisfy the distance and speed judgment conditions."
+    ],
+    "research_subject": "Continuous wave jamming effects on triangular wave frequency-modulated radio fuses"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to research effective jamming methods for radio fuses frequency modulated by triangular waves.\",\n    \"Understanding the suppression and jamming effects of continuous waves on radio fuses is crucial for developing countermeasures.\"\n  ],\n  \"objectives\": [\n    \"Investigate the jamming effect of continuous waves on radio fuses frequency modulated by triangular waves.\",\n    \"Analyze the conditions under which the jamming signal can suppress the true echo signal of the target.\"\n  ],\n  \"methods\": [\n    \"Apply a continuous wave with the same center frequency as the radio fuse to analyze the jamming effect.\",\n    \"Conduct theoretical analysis and computer simulations to understand the phenomenon.\"\n  ],\n  \"results\": [\n    \"The continuous jamming wave can suppress the true echo signal of the target when it reaches a certain energy level.\",\n    \"The jamming signal cannot satisfy the judge condition of distance and speed, preventing the fuse from starting up wrongly.\"\n  ],\n  \"research_subject\": \"Jamming effect of continuous waves on radio fuses frequency modulated by triangular waves\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the jamming methods and effects on radio fuses frequency modulated by triangular waves.\",\n    \"Understanding how a continuous wave of the same center frequency as that of the radio fuse can suppress the true echo signal of the target is crucial.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effect of a continuous wave of the same center frequency on a radio fuse frequency modulated by a triangular wave.\",\n    \"Analyze and simulate the reasons behind the suppression of the true echo signal of the target by the jamming signal.\"\n  ],\n  \"methods\": [\n    \"Apply a continuous wave of the same center frequency as that of the radio fuse.\",\n    \"Conduct theoretical analysis and computer simulations to understand the suppression effect.\"\n  ],\n  \"results\": [\n    \"The jamming signal can suppress the true echo signal of the target when it reaches a certain energy level.\",\n    \"The continuous jamming wave covers and suppresses the spectrum of the true echo signal after mixing, but it can't satisfy the judge condition of distance and speed, preventing the fuse from starting up wrongly.\"\n  ],\n  \"research_subject\": \"Suppression and jamming effect of continuous wave on radio fuse frequency modulated by triangular wave\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand jamming methods and their effectiveness against radio fuses that use triangular wave frequency modulation.\",\n    \"Existing knowledge gaps exist regarding how continuous wave jamming affects the operation of frequency-modulated radio fuses.\"\n  ],\n  \"objectives\": [\n    \"Investigate the jamming method and effectiveness of continuous wave interference on radio fuses frequency modulated by triangular wave.\",\n    \"Analyze the suppression mechanism of continuous wave jamming on true echo signals in radio fuse systems.\"\n  ],\n  \"methods\": [\n    \"Apply continuous wave jamming at the same center frequency as the radio fuse to analyze interference effects.\",\n    \"Conduct theoretical analysis and computer simulation to understand the jamming mechanism and signal behavior.\"\n  ],\n  \"results\": [\n    \"Continuous wave jamming can suppress true echo signals when reaching sufficient energy levels by creating wide-band interference after mixing.\",\n    \"The jamming signal cannot trigger false fuse activation as it fails to satisfy the distance and speed judgment conditions.\"\n  ],\n  \"research_subject\": \"Continuous wave jamming effects on triangular wave frequency-modulated radio fuses\"\n}\n```"
+}

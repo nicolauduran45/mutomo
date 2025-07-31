@@ -1,0 +1,53 @@
+{
+  "index": 32,
+  "title": "CONFORMABLE INSULATION ASSEMBLY",
+  "abstract": "A conformable insulation assembly (40) is provided and includes a mineral fiber batt (20) of a binderless fibrous material of substantially long fibers. The insulation assembly (40) is capable of conforming and expanding its shape to an area into which it is installed better than prior art insulation assemblies.",
+  "llama_json": {
+    "motivations": [
+      "Existing insulation assemblies have limitations in conforming and expanding to fit the areas into which they are installed."
+    ],
+    "objectives": [
+      "Develop a conformable insulation assembly that can effectively adapt to the shape of the area where it is installed."
+    ],
+    "methods": [
+      "Utilize a mineral fiber batt made of binderless fibrous material with substantially long fibers."
+    ],
+    "results": [
+      "Improve the fit and effectiveness of insulation assemblies in various installation areas."
+    ],
+    "research_subject": "Conformable insulation assembly development"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current insulation assemblies do not conform and expand effectively to the area into which they are installed."
+    ],
+    "objectives": [
+      "Develop a conformable insulation assembly that can better adapt and expand to the area of installation."
+    ],
+    "methods": [
+      "Use a binderless fibrous material of substantially long fibers to create a mineral fiber batt."
+    ],
+    "results": [
+      "The developed insulation assembly is capable of conforming and expanding its shape better than prior art insulation assemblies."
+    ],
+    "research_subject": "Development of a conformable insulation assembly"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional insulation assemblies have limited ability to conform and expand to fit irregular spaces during installation."
+    ],
+    "objectives": [
+      "Develop a conformable insulation assembly that can better adapt its shape to the installation area compared to existing insulation products."
+    ],
+    "methods": [
+      "Utilize a mineral fiber batt composed of binderless fibrous material with substantially long fibers to create the insulation assembly."
+    ],
+    "results": [
+      "The insulation assembly demonstrates improved conformability and expansion capabilities compared to prior art insulation assemblies."
+    ],
+    "research_subject": "Conformable mineral fiber insulation assembly"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing insulation assemblies have limitations in conforming and expanding to fit the areas into which they are installed.\"\n  ],\n  \"objectives\": [\n    \"Develop a conformable insulation assembly that can effectively adapt to the shape of the area where it is installed.\"\n  ],\n  \"methods\": [\n    \"Utilize a mineral fiber batt made of binderless fibrous material with substantially long fibers.\"\n  ],\n  \"results\": [\n    \"Improve the fit and effectiveness of insulation assemblies in various installation areas.\"\n  ],\n  \"research_subject\": \"Conformable insulation assembly development\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current insulation assemblies do not conform and expand effectively to the area into which they are installed.\"\n  ],\n  \"objectives\": [\n    \"Develop a conformable insulation assembly that can better adapt and expand to the area of installation.\"\n  ],\n  \"methods\": [\n    \"Use a binderless fibrous material of substantially long fibers to create a mineral fiber batt.\"\n  ],\n  \"results\": [\n    \"The developed insulation assembly is capable of conforming and expanding its shape better than prior art insulation assemblies.\"\n  ],\n  \"research_subject\": \"Development of a conformable insulation assembly\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional insulation assemblies have limited ability to conform and expand to fit irregular spaces during installation.\"\n  ],\n  \"objectives\": [\n    \"Develop a conformable insulation assembly that can better adapt its shape to the installation area compared to existing insulation products.\"\n  ],\n  \"methods\": [\n    \"Utilize a mineral fiber batt composed of binderless fibrous material with substantially long fibers to create the insulation assembly.\"\n  ],\n  \"results\": [\n    \"The insulation assembly demonstrates improved conformability and expansion capabilities compared to prior art insulation assemblies.\"\n  ],\n  \"research_subject\": \"Conformable mineral fiber insulation assembly\"\n}\n```"
+}

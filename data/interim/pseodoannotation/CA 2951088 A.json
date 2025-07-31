@@ -1,0 +1,59 @@
+{
+  "index": 222,
+  "title": "OPERATING MECHANISM ENCLOSING THE CORD OF A SCREEN ASSEMBLY",
+  "abstract": "An operating mechanism for a screen assembly of the type having an elongate endless pull cord hanging from the screen assembly in a loop, said operating mechanism comprising a housing having an opening at an upper end whereby at least a lower portion of the pull cord can pass into the housing to be enclosed therein, the housing incorporating guide means for guiding passage of the pull cord through the housing, said guide means incorporating locking means adapted to selectively restrain first or second sides of a loop defined by the pull cord such that reciprocating motion of the housing with respect to the screen assembly causes rotation of the operating mechanism of the screen assembly.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an improved operating mechanism to enclose and manage the cord of a screen assembly for enhanced functionality and safety."
+    ],
+    "objectives": [
+      "Design an operating mechanism that encloses the pull cord of a screen assembly while allowing for effective operation of the screen."
+    ],
+    "methods": [
+      "Develop a housing with guide means and locking means to selectively restrain the pull cord, enabling controlled rotation of the operating mechanism."
+    ],
+    "results": [
+      "Provide a safe and efficient way to operate a screen assembly by enclosing the pull cord and facilitating controlled movement."
+    ],
+    "research_subject": "Operating mechanism for enclosing the cord of a screen assembly"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an improved operating mechanism for a screen assembly that can securely enclose and guide the pull cord."
+    ],
+    "objectives": [
+      "Design an operating mechanism for a screen assembly that encloses a portion of the pull cord within a housing.",
+      "Incorporate a guide and locking means in the housing to selectively restrain sides of the pull cord loop, enabling reciprocating motion."
+    ],
+    "methods": [
+      "Develop a housing with an opening at the upper end to allow the pull cord to pass into and be enclosed within the housing.",
+      "Incorporate guide means in the housing to guide the passage of the pull cord, and include locking means to selectively restrain sides of the pull cord loop."
+    ],
+    "results": [
+      "The proposed operating mechanism allows for secure enclosure and guidance of the pull cord, enabling reciprocating motion of the housing with respect to the screen assembly."
+    ],
+    "research_subject": "Operating mechanism for enclosing the cord of a screen assembly"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Pull cords hanging from screen assemblies pose safety hazards and aesthetic concerns when left exposed.",
+      "Traditional screen assembly operating mechanisms lack efficient methods for controlling cord movement and operation."
+    ],
+    "objectives": [
+      "Develop an operating mechanism that encloses the pull cord of a screen assembly within a protective housing.",
+      "Create a system that enables controlled operation of the screen assembly through selective restraint and guided movement of the cord."
+    ],
+    "methods": [
+      "Design a housing with an opening that allows the pull cord to pass through while enclosing its lower portion.",
+      "Incorporate guide means and locking mechanisms that selectively restrain different sides of the cord loop to enable controlled movement."
+    ],
+    "results": [
+      "The mechanism enables reciprocating motion of the housing to cause rotation of the screen assembly's operating mechanism.",
+      "The pull cord is safely enclosed within the housing while maintaining full operational functionality."
+    ],
+    "research_subject": "Operating mechanism for enclosing and controlling pull cords in screen assemblies"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved operating mechanism to enclose and manage the cord of a screen assembly for enhanced functionality and safety.\"\n  ],\n  \"objectives\": [\n    \"Design an operating mechanism that encloses the pull cord of a screen assembly while allowing for effective operation of the screen.\"\n  ],\n  \"methods\": [\n    \"Develop a housing with guide means and locking means to selectively restrain the pull cord, enabling controlled rotation of the operating mechanism.\"\n  ],\n  \"results\": [\n    \"Provide a safe and efficient way to operate a screen assembly by enclosing the pull cord and facilitating controlled movement.\"\n  ],\n  \"research_subject\": \"Operating mechanism for enclosing the cord of a screen assembly\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved operating mechanism for a screen assembly that can securely enclose and guide the pull cord.\"\n  ],\n  \"objectives\": [\n    \"Design an operating mechanism for a screen assembly that encloses a portion of the pull cord within a housing.\",\n    \"Incorporate a guide and locking means in the housing to selectively restrain sides of the pull cord loop, enabling reciprocating motion.\"\n  ],\n  \"methods\": [\n    \"Develop a housing with an opening at the upper end to allow the pull cord to pass into and be enclosed within the housing.\",\n    \"Incorporate guide means in the housing to guide the passage of the pull cord, and include locking means to selectively restrain sides of the pull cord loop.\"\n  ],\n  \"results\": [\n    \"The proposed operating mechanism allows for secure enclosure and guidance of the pull cord, enabling reciprocating motion of the housing with respect to the screen assembly.\"\n  ],\n  \"research_subject\": \"Operating mechanism for enclosing the cord of a screen assembly\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Pull cords hanging from screen assemblies pose safety hazards and aesthetic concerns when left exposed.\",\n    \"Traditional screen assembly operating mechanisms lack efficient methods for controlling cord movement and operation.\"\n  ],\n  \"objectives\": [\n    \"Develop an operating mechanism that encloses the pull cord of a screen assembly within a protective housing.\",\n    \"Create a system that enables controlled operation of the screen assembly through selective restraint and guided movement of the cord.\"\n  ],\n  \"methods\": [\n    \"Design a housing with an opening that allows the pull cord to pass through while enclosing its lower portion.\",\n    \"Incorporate guide means and locking mechanisms that selectively restrain different sides of the cord loop to enable controlled movement.\"\n  ],\n  \"results\": [\n    \"The mechanism enables reciprocating motion of the housing to cause rotation of the screen assembly's operating mechanism.\",\n    \"The pull cord is safely enclosed within the housing while maintaining full operational functionality.\"\n  ],\n  \"research_subject\": \"Operating mechanism for enclosing and controlling pull cords in screen assemblies\"\n}\n```"
+}

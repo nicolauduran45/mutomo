@@ -1,0 +1,64 @@
+{
+  "index": 349,
+  "title": "A model for clustering and optimizing portfolio: Tehran stock exchange using data mining algorithms",
+  "abstract": "Management of investment basket and selecting assets is one of the problems of decision making in financial area. In the competitive business environment, in order to confront complex competitions in the market, financial institutes try to consider the best policy of investment basket that in turn leads to an increase in the output for the investors. The goal of this study is to develop a portfolio by considering the behavior of investors in risk taking in a realistic method. This research aims at supporting investors, experts and intermediate managers in establishing optimized portfolio of stocks. The proposed model has used the data of 66 stockholders who were enlisted in Stock Exchange Market by using the five indexes of risk output, skewness, liquidity and current ratio and clustered different companies by using the neuro-networks SOM algorithm The results show that the function of model to general index, the industry index and the index of 50 more active companies are better in Tehran Stock Exchange.",
+  "llama_json": {
+    "motivations": [
+      "Investors and financial institutions face challenges in managing investment portfolios and selecting assets due to complex market competitions.",
+      "There is a need for a realistic and optimized approach to portfolio management that considers investor risk-taking behavior."
+    ],
+    "objectives": [
+      "Develop a portfolio model that accounts for investor risk-taking behavior and optimizes investment returns.",
+      "Support investors, experts, and intermediate managers in establishing optimized stock portfolios."
+    ],
+    "methods": [
+      "Utilize data mining algorithms, specifically the SOM neuro-networks algorithm, to cluster companies based on risk, output, skewness, liquidity, and current ratio.",
+      "Analyze data from 66 stockholders in the Tehran Stock Exchange to develop and test the proposed model."
+    ],
+    "results": [
+      "The proposed model outperforms general index, industry index, and the index of 50 most active companies in the Tehran Stock Exchange.",
+      "The model provides a more effective approach to portfolio management and optimization."
+    ],
+    "research_subject": "Portfolio optimization and clustering using data mining algorithms in the Tehran Stock Exchange"
+  },
+  "openai_json": {
+    "motivations": [
+      "Investment basket management and asset selection is a complex decision-making problem in the financial sector.",
+      "Financial institutes aim to increase output for investors by considering the best investment basket policy."
+    ],
+    "objectives": [
+      "Develop a portfolio considering the risk-taking behavior of investors in a realistic method.",
+      "Support investors, experts, and intermediate managers in establishing optimized portfolios of stocks."
+    ],
+    "methods": [
+      "Use data from 66 stockholders enlisted in the Stock Exchange Market and five indexes of risk output, skewness, liquidity, and current ratio.",
+      "Cluster different companies using the neuro-networks SOM algorithm."
+    ],
+    "results": [
+      "The proposed model performs better in comparison to the general index, the industry index, and the index of 50 more active companies in Tehran Stock Exchange."
+    ],
+    "research_subject": "Clustering and optimizing portfolio in Tehran Stock Exchange using data mining algorithms"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Investment portfolio management and asset selection present complex decision-making challenges in the financial sector.",
+      "Financial institutions need effective investment strategies to remain competitive and maximize returns for investors while considering their risk-taking behavior."
+    ],
+    "objectives": [
+      "Develop a portfolio optimization model that incorporates realistic investor risk-taking behavior.",
+      "Support investors, experts, and managers in creating optimized stock portfolios using data mining techniques."
+    ],
+    "methods": [
+      "Apply self-organizing map (SOM) neural network algorithm to cluster companies based on five key indexes: risk output, skewness, liquidity, and current ratio.",
+      "Analyze stock data from companies listed on the Tehran Stock Exchange to identify optimal portfolio configurations."
+    ],
+    "results": [
+      "The proposed model demonstrated superior performance compared to general index, industry index, and the index of 50 most active companies in Tehran Stock Exchange.",
+      "Successfully clustered different companies to support optimized portfolio construction for various investor profiles."
+    ],
+    "research_subject": "Portfolio optimization using data mining algorithms for Tehran Stock Exchange"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Investors and financial institutions face challenges in managing investment portfolios and selecting assets due to complex market competitions.\",\n    \"There is a need for a realistic and optimized approach to portfolio management that considers investor risk-taking behavior.\"\n  ],\n  \"objectives\": [\n    \"Develop a portfolio model that accounts for investor risk-taking behavior and optimizes investment returns.\",\n    \"Support investors, experts, and intermediate managers in establishing optimized stock portfolios.\"\n  ],\n  \"methods\": [\n    \"Utilize data mining algorithms, specifically the SOM neuro-networks algorithm, to cluster companies based on risk, output, skewness, liquidity, and current ratio.\",\n    \"Analyze data from 66 stockholders in the Tehran Stock Exchange to develop and test the proposed model.\"\n  ],\n  \"results\": [\n    \"The proposed model outperforms general index, industry index, and the index of 50 most active companies in the Tehran Stock Exchange.\",\n    \"The model provides a more effective approach to portfolio management and optimization.\"\n  ],\n  \"research_subject\": \"Portfolio optimization and clustering using data mining algorithms in the Tehran Stock Exchange\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Investment basket management and asset selection is a complex decision-making problem in the financial sector.\",\n    \"Financial institutes aim to increase output for investors by considering the best investment basket policy.\"\n  ],\n  \"objectives\": [\n    \"Develop a portfolio considering the risk-taking behavior of investors in a realistic method.\",\n    \"Support investors, experts, and intermediate managers in establishing optimized portfolios of stocks.\"\n  ],\n  \"methods\": [\n    \"Use data from 66 stockholders enlisted in the Stock Exchange Market and five indexes of risk output, skewness, liquidity, and current ratio.\",\n    \"Cluster different companies using the neuro-networks SOM algorithm.\"\n  ],\n  \"results\": [\n    \"The proposed model performs better in comparison to the general index, the industry index, and the index of 50 more active companies in Tehran Stock Exchange.\"\n  ],\n  \"research_subject\": \"Clustering and optimizing portfolio in Tehran Stock Exchange using data mining algorithms\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Investment portfolio management and asset selection present complex decision-making challenges in the financial sector.\",\n    \"Financial institutions need effective investment strategies to remain competitive and maximize returns for investors while considering their risk-taking behavior.\"\n  ],\n  \"objectives\": [\n    \"Develop a portfolio optimization model that incorporates realistic investor risk-taking behavior.\",\n    \"Support investors, experts, and managers in creating optimized stock portfolios using data mining techniques.\"\n  ],\n  \"methods\": [\n    \"Apply self-organizing map (SOM) neural network algorithm to cluster companies based on five key indexes: risk output, skewness, liquidity, and current ratio.\",\n    \"Analyze stock data from companies listed on the Tehran Stock Exchange to identify optimal portfolio configurations.\"\n  ],\n  \"results\": [\n    \"The proposed model demonstrated superior performance compared to general index, industry index, and the index of 50 most active companies in Tehran Stock Exchange.\",\n    \"Successfully clustered different companies to support optimized portfolio construction for various investor profiles.\"\n  ],\n  \"research_subject\": \"Portfolio optimization using data mining algorithms for Tehran Stock Exchange\"\n}\n```"
+}

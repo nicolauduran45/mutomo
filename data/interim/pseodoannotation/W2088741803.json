@@ -1,0 +1,64 @@
+{
+  "index": 157,
+  "title": "Padé approximants of special functions",
+  "abstract": "Let $ {f_{\\gamma }}(x) = \\sum\\nolimits_{{k = 0}}^{\\infty } {{{{T_k (x)}} \\left/ {{{{\\left( \\gamma \\right)}_k}}} \\right.}} $ , where (γ) k =γ(γ+1) ⋯ (γ+k−1) and T k (x)=cos (k arccos x) are Pade–Chebyshev polynomials. For such functions and their Pade–Chebyshev approximations $ \\pi_{n,m}^{ch}\\left( {x;{f_{\\gamma }}} \\right) $ , we find the asymptotics of decreasing the difference $ {f_{\\gamma }}(x) - \\pi_{n,m}^{ch}\\left( {x;{f_{\\gamma }}} \\right) $ in the case where 0 ⩽ m ⩽ m(n), m(n) = o (n), as n→∞ for all x ∈ [−1, 1]. Particularly, we determine that, under the same assumption, the Pade–Chebyshev approximations converge to f γ uniformly on the segment [−1, 1] with the asymptotically best rate.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the asymptotics of the difference between special functions and their Padé-Chebyshev approximations.",
+      "The convergence rate of Padé-Chebyshev approximations to special functions is not well understood."
+    ],
+    "objectives": [
+      "Find the asymptotics of the difference between special functions fγ(x) and their Padé-Chebyshev approximations πn,mch(x;fγ) as n→∞.",
+      "Determine the convergence rate of Padé-Chebyshev approximations to special functions fγ(x) uniformly on the segment [−1, 1]."
+    ],
+    "methods": [
+      "Use Padé-Chebyshev polynomials T k (x)=cos (k arccos x) to approximate special functions fγ(x).",
+      "Analyze the asymptotics of the difference between fγ(x) and πn,mch(x;fγ) as n→∞ for all x ∈ [−1, 1]."
+    ],
+    "results": [
+      "The Padé-Chebyshev approximations converge to special functions fγ(x) uniformly on the segment [−1, 1] with the asymptotically best rate.",
+      "The asymptotics of the difference between fγ(x) and πn,mch(x;fγ) are determined for the case where 0 ⩽ m ⩽ m(n), m(n) = o (n), as n→∞."
+    ],
+    "research_subject": "Asymptotics and convergence of Padé-Chebyshev approximations to special functions"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the asymptotics of decreasing the difference between functions and their Pade-Chebyshev approximations.",
+      "The research aims to explore the convergence of Pade-Chebyshev approximations to the original functions."
+    ],
+    "objectives": [
+      "Find the asymptotics of decreasing the difference between functions and their Pade-Chebyshev approximations.",
+      "Determine the conditions under which the Pade-Chebyshev approximations converge to the original functions uniformly on the segment [-1, 1] with the asymptotically best rate."
+    ],
+    "methods": [
+      "Use Pade-Chebyshev polynomials to approximate the functions.",
+      "Analyze the asymptotics of the difference between the functions and their Pade-Chebyshev approximations."
+    ],
+    "results": [
+      "The research provides insights into the asymptotics of decreasing the difference between functions and their Pade-Chebyshev approximations.",
+      "The study determines the conditions for the uniform convergence of Pade-Chebyshev approximations to the original functions."
+    ],
+    "research_subject": "Pade-Chebyshev approximations of special functions"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the asymptotic behavior of Padé-Chebyshev approximations for special functions is crucial for improving approximation methods in mathematical analysis."
+    ],
+    "objectives": [
+      "Determine the asymptotics of the difference between special functions and their Padé-Chebyshev approximations under specific conditions.",
+      "Establish that Padé-Chebyshev approximations converge uniformly to the target function with the asymptotically best rate."
+    ],
+    "methods": [
+      "Analyze special functions defined as infinite series with Padé-Chebyshev polynomials.",
+      "Study the asymptotic behavior of Padé-Chebyshev approximations for specific parameter conditions."
+    ],
+    "results": [
+      "The difference between the special function and its Padé-Chebyshev approximation decreases with specific asymptotic behavior.",
+      "Padé-Chebyshev approximations converge uniformly on the interval [-1, 1] with the asymptotically best rate."
+    ],
+    "research_subject": "Padé-Chebyshev approximations of special functions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the asymptotics of the difference between special functions and their Padé-Chebyshev approximations.\",\n    \"The convergence rate of Padé-Chebyshev approximations to special functions is not well understood.\"\n  ],\n  \"objectives\": [\n    \"Find the asymptotics of the difference between special functions fγ(x) and their Padé-Chebyshev approximations πn,mch(x;fγ) as n→∞.\",\n    \"Determine the convergence rate of Padé-Chebyshev approximations to special functions fγ(x) uniformly on the segment [−1, 1].\"\n  ],\n  \"methods\": [\n    \"Use Padé-Chebyshev polynomials T k (x)=cos (k arccos x) to approximate special functions fγ(x).\",\n    \"Analyze the asymptotics of the difference between fγ(x) and πn,mch(x;fγ) as n→∞ for all x ∈ [−1, 1].\"\n  ],\n  \"results\": [\n    \"The Padé-Chebyshev approximations converge to special functions fγ(x) uniformly on the segment [−1, 1] with the asymptotically best rate.\",\n    \"The asymptotics of the difference between fγ(x) and πn,mch(x;fγ) are determined for the case where 0 ⩽ m ⩽ m(n), m(n) = o (n), as n→∞.\"\n  ],\n  \"research_subject\": \"Asymptotics and convergence of Padé-Chebyshev approximations to special functions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the asymptotics of decreasing the difference between functions and their Pade-Chebyshev approximations.\",\n    \"The research aims to explore the convergence of Pade-Chebyshev approximations to the original functions.\"\n  ],\n  \"objectives\": [\n    \"Find the asymptotics of decreasing the difference between functions and their Pade-Chebyshev approximations.\",\n    \"Determine the conditions under which the Pade-Chebyshev approximations converge to the original functions uniformly on the segment [-1, 1] with the asymptotically best rate.\"\n  ],\n  \"methods\": [\n    \"Use Pade-Chebyshev polynomials to approximate the functions.\",\n    \"Analyze the asymptotics of the difference between the functions and their Pade-Chebyshev approximations.\"\n  ],\n  \"results\": [\n    \"The research provides insights into the asymptotics of decreasing the difference between functions and their Pade-Chebyshev approximations.\",\n    \"The study determines the conditions for the uniform convergence of Pade-Chebyshev approximations to the original functions.\"\n  ],\n  \"research_subject\": \"Pade-Chebyshev approximations of special functions\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the asymptotic behavior of Padé-Chebyshev approximations for special functions is crucial for improving approximation methods in mathematical analysis.\"\n  ],\n  \"objectives\": [\n    \"Determine the asymptotics of the difference between special functions and their Padé-Chebyshev approximations under specific conditions.\",\n    \"Establish that Padé-Chebyshev approximations converge uniformly to the target function with the asymptotically best rate.\"\n  ],\n  \"methods\": [\n    \"Analyze special functions defined as infinite series with Padé-Chebyshev polynomials.\",\n    \"Study the asymptotic behavior of Padé-Chebyshev approximations for specific parameter conditions.\"\n  ],\n  \"results\": [\n    \"The difference between the special function and its Padé-Chebyshev approximation decreases with specific asymptotic behavior.\",\n    \"Padé-Chebyshev approximations converge uniformly on the interval [-1, 1] with the asymptotically best rate.\"\n  ],\n  \"research_subject\": \"Padé-Chebyshev approximations of special functions\"\n}\n```"
+}

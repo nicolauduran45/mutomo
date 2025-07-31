@@ -1,0 +1,61 @@
+{
+  "index": 86,
+  "title": "PROCEDE ET FORMULATION POUR LA PREPARATION DE FIBRES DE LIGNINE",
+  "abstract": "L'invention concerne une formulation pour la préparation par la voie fondue de fibres à base de lignine, précurseurs de fibres de carbone. Cette formulation comprenant de la lignine, un agent plastifiant et un agent réticulant apte à réticuler avec la lignine à une température supérieure d'au moins 10°C à la température de transition vitreuse du mélange intime de la lignine et de l'agent plastifiant. Un procédé de préparation de fibres à base de lignine, à partir de cette formulation, comprend le filage par extrusion à chaud d'un mélange intime des composants de la formulation, selon des conditions adéquates pour provoquer la réticulation de l'agent réticulant et de la lignine dans la zone terminale du dispositif d'extrusion mis en œuvre.",
+  "llama_json": {
+    "motivations": [
+      "Il existe un besoin de développement de fibres de carbone à partir de précurseurs plus abordables et plus respectueux de l'environnement."
+    ],
+    "objectives": [
+      "Développer une formulation pour la préparation de fibres à base de lignine par la voie fondue.",
+      "Créer un procédé de préparation de fibres à base de lignine utilisant cette formulation."
+    ],
+    "methods": [
+      "Utiliser une formulation comprenant de la lignine, un agent plastifiant et un agent réticulant.",
+      "Mettre en œuvre un procédé de filage par extrusion à chaud pour provoquer la réticulation de l'agent réticulant et de la lignine."
+    ],
+    "results": [
+      "Obtenir des fibres à base de lignine qui peuvent servir de précurseurs pour la production de fibres de carbone."
+    ],
+    "research_subject": "Développement d'une formulation et d'un procédé pour la préparation de fibres de lignine"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a method to prepare lignin-based fibers, which are precursors of carbon fibers."
+    ],
+    "objectives": [
+      "Develop a formulation for the preparation of lignin-based fibers via a melt process.",
+      "Design a method to prepare lignin-based fibers using this formulation, which includes hot extrusion spinning."
+    ],
+    "methods": [
+      "Use a formulation that includes lignin, a plasticizing agent, and a crosslinking agent capable of crosslinking with lignin at a temperature at least 10°C higher than the glass transition temperature of the intimate mixture of lignin and the plasticizing agent.",
+      "Implement a hot extrusion spinning process to prepare the lignin-based fibers."
+    ],
+    "results": [
+      "Achieve the preparation of lignin-based fibers, which are precursors of carbon fibers, using a specific formulation and hot extrusion spinning."
+    ],
+    "research_subject": "Preparation of lignin-based fibers"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for sustainable methods to produce carbon fiber precursors from renewable biomass sources like lignin.",
+      "Current methods for producing lignin-based fibers face challenges in processing and achieving desired material properties."
+    ],
+    "objectives": [
+      "Develop a formulation and process for preparing lignin-based fibers through melt processing that can serve as carbon fiber precursors.",
+      "Enable effective crosslinking of lignin during the fiber formation process to achieve suitable fiber properties."
+    ],
+    "methods": [
+      "Create a formulation combining lignin with a plasticizing agent and a crosslinking agent capable of reacting at temperatures above the glass transition temperature of the lignin-plasticizer mixture.",
+      "Employ hot melt extrusion processing with conditions that promote crosslinking between the crosslinking agent and lignin in the terminal zone of the extrusion device."
+    ],
+    "results": [
+      "Production of lignin-based fibers suitable as precursors for carbon fiber manufacturing.",
+      "Achievement of crosslinked lignin fiber structures through controlled melt processing conditions."
+    ],
+    "research_subject": "Melt-processed lignin fiber formulation and production for carbon fiber precursors"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Il existe un besoin de développement de fibres de carbone à partir de précurseurs plus abordables et plus respectueux de l'environnement.\"\n  ],\n  \"objectives\": [\n    \"Développer une formulation pour la préparation de fibres à base de lignine par la voie fondue.\",\n    \"Créer un procédé de préparation de fibres à base de lignine utilisant cette formulation.\"\n  ],\n  \"methods\": [\n    \"Utiliser une formulation comprenant de la lignine, un agent plastifiant et un agent réticulant.\",\n    \"Mettre en œuvre un procédé de filage par extrusion à chaud pour provoquer la réticulation de l'agent réticulant et de la lignine.\"\n  ],\n  \"results\": [\n    \"Obtenir des fibres à base de lignine qui peuvent servir de précurseurs pour la production de fibres de carbone.\"\n  ],\n  \"research_subject\": \"Développement d'une formulation et d'un procédé pour la préparation de fibres de lignine\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a method to prepare lignin-based fibers, which are precursors of carbon fibers.\"\n  ],\n  \"objectives\": [\n    \"Develop a formulation for the preparation of lignin-based fibers via a melt process.\",\n    \"Design a method to prepare lignin-based fibers using this formulation, which includes hot extrusion spinning.\"\n  ],\n  \"methods\": [\n    \"Use a formulation that includes lignin, a plasticizing agent, and a crosslinking agent capable of crosslinking with lignin at a temperature at least 10°C higher than the glass transition temperature of the intimate mixture of lignin and the plasticizing agent.\",\n    \"Implement a hot extrusion spinning process to prepare the lignin-based fibers.\"\n  ],\n  \"results\": [\n    \"Achieve the preparation of lignin-based fibers, which are precursors of carbon fibers, using a specific formulation and hot extrusion spinning.\"\n  ],\n  \"research_subject\": \"Preparation of lignin-based fibers\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for sustainable methods to produce carbon fiber precursors from renewable biomass sources like lignin.\",\n    \"Current methods for producing lignin-based fibers face challenges in processing and achieving desired material properties.\"\n  ],\n  \"objectives\": [\n    \"Develop a formulation and process for preparing lignin-based fibers through melt processing that can serve as carbon fiber precursors.\",\n    \"Enable effective crosslinking of lignin during the fiber formation process to achieve suitable fiber properties.\"\n  ],\n  \"methods\": [\n    \"Create a formulation combining lignin with a plasticizing agent and a crosslinking agent capable of reacting at temperatures above the glass transition temperature of the lignin-plasticizer mixture.\",\n    \"Employ hot melt extrusion processing with conditions that promote crosslinking between the crosslinking agent and lignin in the terminal zone of the extrusion device.\"\n  ],\n  \"results\": [\n    \"Production of lignin-based fibers suitable as precursors for carbon fiber manufacturing.\",\n    \"Achievement of crosslinked lignin fiber structures through controlled melt processing conditions.\"\n  ],\n  \"research_subject\": \"Melt-processed lignin fiber formulation and production for carbon fiber precursors\"\n}\n```"
+}

@@ -1,0 +1,65 @@
+{
+  "index": 131,
+  "title": "Noise Pollution and Its Impact on Human Health and Social Behavior using Systems Approach-A Case Study in Kurnool City",
+  "abstract": "The main objective of this paper is to evaluate the noise pollution problem in the Kurnool city of Andhra Pradesh, India and its effect on the public. Transportation and horn used in vehicle are the major source of noise pollution. Noise is one of the environmental problems that make daily life uncomfortable. It is an unidentified pollution that causes adverse effects on human life. Noise interferes in complex task performance, modifies social behavior and causes annoyance. Six different locations are chosen for study. Noise levels are monitored at different times in the day and night. Bronfenbrenner’s systems approach is used to illustrate the socio behavioral changes in human life due to noise. Keywords : Traffic noise – severe health issues - effect on social behavior - systems approach.",
+  "llama_json": {
+    "motivations": [
+      "Noise pollution is a significant environmental problem that affects daily life and causes discomfort.",
+      "There is a need to understand the impact of noise pollution on human health and social behavior."
+    ],
+    "objectives": [
+      "Evaluate the noise pollution problem in Kurnool city, India.",
+      "Assess the effects of noise pollution on the public, including its impact on human health and social behavior."
+    ],
+    "methods": [
+      "Monitor noise levels at six different locations in Kurnool city at various times of day and night.",
+      "Apply Bronfenbrenner's systems approach to analyze the socio-behavioral changes caused by noise pollution."
+    ],
+    "results": [
+      "Identify the adverse effects of noise pollution on human life, including its impact on complex task performance, social behavior, and annoyance levels."
+    ],
+    "research_subject": "Noise pollution and its impact on human health and social behavior"
+  },
+  "openai_json": {
+    "motivations": [
+      "Noise pollution, primarily from transportation and vehicle horns, is a significant environmental problem in Kurnool city, causing discomfort in daily life.",
+      "Noise pollution interferes with task performance, modifies social behavior, and causes annoyance, but its effects are not well-studied."
+    ],
+    "objectives": [
+      "Evaluate the noise pollution problem in Kurnool city and its effect on the public.",
+      "Monitor noise levels at different times of the day and night at various locations.",
+      "Use Bronfenbrenner’s systems approach to illustrate the socio-behavioral changes in human life due to noise."
+    ],
+    "methods": [
+      "Monitor and record noise levels at different times and locations within Kurnool city.",
+      "Apply Bronfenbrenner’s systems approach to analyze the socio-behavioral changes caused by noise pollution."
+    ],
+    "results": [
+      "Provide an evaluation of the noise pollution problem in Kurnool city and its impact on the public.",
+      "Offer insights into the socio-behavioral changes in human life due to noise pollution."
+    ],
+    "research_subject": "Impact of noise pollution on human health and social behavior in Kurnool city"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Transportation and vehicle horns are major sources of noise pollution that make daily life uncomfortable in urban areas.",
+      "Noise pollution is an unidentified environmental problem that causes adverse effects on human health and social behavior."
+    ],
+    "objectives": [
+      "Evaluate the noise pollution problem in Kurnool city and assess its effects on the public.",
+      "Analyze the impact of noise pollution on human health and social behavior using a systems approach."
+    ],
+    "methods": [
+      "Monitor noise levels at six different locations during various times of day and night.",
+      "Apply Bronfenbrenner's systems approach to illustrate socio-behavioral changes caused by noise pollution."
+    ],
+    "results": [
+      "Noise pollution interferes with complex task performance, modifies social behavior, and causes annoyance.",
+      "The study provides insights into the severe health issues and behavioral changes resulting from traffic noise in urban environments."
+    ],
+    "research_subject": "Impact of noise pollution on human health and social behavior in urban environments"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Noise pollution is a significant environmental problem that affects daily life and causes discomfort.\",\n    \"There is a need to understand the impact of noise pollution on human health and social behavior.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the noise pollution problem in Kurnool city, India.\",\n    \"Assess the effects of noise pollution on the public, including its impact on human health and social behavior.\"\n  ],\n  \"methods\": [\n    \"Monitor noise levels at six different locations in Kurnool city at various times of day and night.\",\n    \"Apply Bronfenbrenner's systems approach to analyze the socio-behavioral changes caused by noise pollution.\"\n  ],\n  \"results\": [\n    \"Identify the adverse effects of noise pollution on human life, including its impact on complex task performance, social behavior, and annoyance levels.\"\n  ],\n  \"research_subject\": \"Noise pollution and its impact on human health and social behavior\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Noise pollution, primarily from transportation and vehicle horns, is a significant environmental problem in Kurnool city, causing discomfort in daily life.\",\n    \"Noise pollution interferes with task performance, modifies social behavior, and causes annoyance, but its effects are not well-studied.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the noise pollution problem in Kurnool city and its effect on the public.\",\n    \"Monitor noise levels at different times of the day and night at various locations.\",\n    \"Use Bronfenbrenner’s systems approach to illustrate the socio-behavioral changes in human life due to noise.\"\n  ],\n  \"methods\": [\n    \"Monitor and record noise levels at different times and locations within Kurnool city.\",\n    \"Apply Bronfenbrenner’s systems approach to analyze the socio-behavioral changes caused by noise pollution.\"\n  ],\n  \"results\": [\n    \"Provide an evaluation of the noise pollution problem in Kurnool city and its impact on the public.\",\n    \"Offer insights into the socio-behavioral changes in human life due to noise pollution.\"\n  ],\n  \"research_subject\": \"Impact of noise pollution on human health and social behavior in Kurnool city\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Transportation and vehicle horns are major sources of noise pollution that make daily life uncomfortable in urban areas.\",\n    \"Noise pollution is an unidentified environmental problem that causes adverse effects on human health and social behavior.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the noise pollution problem in Kurnool city and assess its effects on the public.\",\n    \"Analyze the impact of noise pollution on human health and social behavior using a systems approach.\"\n  ],\n  \"methods\": [\n    \"Monitor noise levels at six different locations during various times of day and night.\",\n    \"Apply Bronfenbrenner's systems approach to illustrate socio-behavioral changes caused by noise pollution.\"\n  ],\n  \"results\": [\n    \"Noise pollution interferes with complex task performance, modifies social behavior, and causes annoyance.\",\n    \"The study provides insights into the severe health issues and behavioral changes resulting from traffic noise in urban environments.\"\n  ],\n  \"research_subject\": \"Impact of noise pollution on human health and social behavior in urban environments\"\n}\n```"
+}

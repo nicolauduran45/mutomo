@@ -1,0 +1,73 @@
+{
+  "index": 125,
+  "title": "Connected through robots: physically coupling humans to boost handwriting and music learning",
+  "abstract": "From a parent coordinating movements to help a child learn to walk, to a violinist training a concerto, humans rely on physical interaction to learn from each other and from the environment. Building on a strongly multidisciplinary foundation with an integrated approach, CONBOTS proposes a paradigm shift that aims to augment handwriting and music learning through robotics, by creating a physically interacting robotic platform connecting humans in order to facilitate the learning of complex sensorimotor tasks. The newly designed platform will combine four enabling technologies: i) compact robotic haptic devices to gently interact with upper limbs; ii) an interactive controller yielding physical communication, integrating differential Game Theory (GT) and an algorithm to identify the partner’s control; iii) a bi-directional user interface encompassing AR-based application-driven serious games, and a set of wearable sensors and instrumented objects; iv) Machine learning algorithms for tailoring learning exercises to the user physical, emotional, and mental state CONBOTS is building on recent neuroscientific findings that showed the benefits of physical interaction to performing motor tasks together, where the human central nervous system understands a partner motor control and can use it to improve task performance and motor learning. This will be implemented on innovative robotic technology, wearable sensors and machine learning techniques to give rise to novel human-human and human-robot interaction paradigms applied in two different learning contexts: i) training graphomotor skills in children learning handwriting; ii) augmenting learning performance in beginner musicians. Using its neuroscience-driven unifying approach to motor learning and physical communication CONBOTS will expand the impact and the application of robotics to the education industry.",
+  "llama_json": {
+    "motivations": [
+      "Humans rely on physical interaction to learn complex sensorimotor tasks, but current methods may not be effective or engaging for all learners.",
+      "There is a need for innovative approaches to enhance handwriting and music learning, leveraging the benefits of physical interaction and robotics."
+    ],
+    "objectives": [
+      "Develop a physically interacting robotic platform to facilitate the learning of complex sensorimotor tasks, such as handwriting and music.",
+      "Create a multidisciplinary approach combining robotics, game theory, augmented reality, and machine learning to enhance motor learning and physical communication.",
+      "Apply the developed platform to improve graphomotor skills in children and augment learning performance in beginner musicians."
+    ],
+    "methods": [
+      "Design a compact robotic haptic device to gently interact with upper limbs and facilitate motor learning.",
+      "Implement an interactive controller using differential Game Theory and machine learning algorithms to tailor learning exercises to the user's physical, emotional, and mental state.",
+      "Develop a bi-directional user interface incorporating AR-based serious games, wearable sensors, and instrumented objects to enhance user engagement and feedback."
+    ],
+    "results": [
+      "Improve motor learning and task performance in handwriting and music through physical interaction and robotics.",
+      "Enhance the education industry by expanding the impact and application of robotics in learning contexts.",
+      "Provide a novel approach to human-human and human-robot interaction paradigms, promoting more effective and engaging learning experiences."
+    ],
+    "research_subject": "Robotics-based physical interaction for enhanced handwriting and music learning"
+  },
+  "openai_json": {
+    "motivations": [
+      "Humans rely on physical interaction for learning complex sensorimotor tasks, such as handwriting and music, but current learning methods may not fully leverage this aspect.",
+      "Recent neuroscientific findings suggest that physical interaction can enhance motor task performance and learning, indicating a potential area for innovation in educational robotics."
+    ],
+    "objectives": [
+      "Develop a physically interacting robotic platform to augment handwriting and music learning by facilitating the learning of complex sensorimotor tasks.",
+      "Combine enabling technologies such as compact robotic haptic devices, interactive controllers, bi-directional user interfaces, and machine learning algorithms to tailor learning exercises to the user's state.",
+      "Apply the developed platform and techniques in two learning contexts: training graphomotor skills in children learning handwriting and augmenting learning performance in beginner musicians."
+    ],
+    "methods": [
+      "Design and implement compact robotic haptic devices to interact with upper limbs.",
+      "Develop an interactive controller integrating differential Game Theory and an algorithm to identify the partner’s control.",
+      "Use machine learning algorithms to tailor learning exercises to the user's physical, emotional, and mental state."
+    ],
+    "results": [
+      "Enhance the learning of complex sensorimotor tasks such as handwriting and music through physical interaction with a robotic platform.",
+      "Improve task performance and motor learning by leveraging physical interaction and tailored learning exercises.",
+      "Expand the impact and application of robotics in the education industry."
+    ],
+    "research_subject": "Augmenting handwriting and music learning through physically interacting robotic platforms"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Humans naturally rely on physical interaction to learn complex sensorimotor tasks, but current educational approaches lack technological support for physical coupling between learners and teachers.",
+      "There is a need to leverage recent neuroscientific findings about the benefits of physical interaction for motor learning to enhance educational outcomes in handwriting and music."
+    ],
+    "objectives": [
+      "Create a physically interacting robotic platform that connects humans to facilitate learning of complex sensorimotor tasks in handwriting and music education.",
+      "Develop and integrate enabling technologies including haptic devices, interactive controllers, AR-based interfaces, and machine learning algorithms to support personalized motor learning."
+    ],
+    "methods": [
+      "Design compact robotic haptic devices combined with differential Game Theory-based controllers to enable physical communication between users.",
+      "Implement AR-based serious games with wearable sensors and instrumented objects for interactive learning experiences.",
+      "Apply machine learning algorithms to tailor learning exercises based on users' physical, emotional, and mental states."
+    ],
+    "results": [
+      "Enhanced graphomotor skill development in children learning handwriting through robotic-mediated physical interaction.",
+      "Improved learning performance in beginner musicians through augmented physical coupling and personalized training.",
+      "Expansion of robotics applications in education through novel human-human and human-robot interaction paradigms."
+    ],
+    "research_subject": "Robotic-mediated physical coupling for enhancing handwriting and music learning"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Humans rely on physical interaction to learn complex sensorimotor tasks, but current methods may not be effective or engaging for all learners.\",\n    \"There is a need for innovative approaches to enhance handwriting and music learning, leveraging the benefits of physical interaction and robotics.\"\n  ],\n  \"objectives\": [\n    \"Develop a physically interacting robotic platform to facilitate the learning of complex sensorimotor tasks, such as handwriting and music.\",\n    \"Create a multidisciplinary approach combining robotics, game theory, augmented reality, and machine learning to enhance motor learning and physical communication.\",\n    \"Apply the developed platform to improve graphomotor skills in children and augment learning performance in beginner musicians.\"\n  ],\n  \"methods\": [\n    \"Design a compact robotic haptic device to gently interact with upper limbs and facilitate motor learning.\",\n    \"Implement an interactive controller using differential Game Theory and machine learning algorithms to tailor learning exercises to the user's physical, emotional, and mental state.\",\n    \"Develop a bi-directional user interface incorporating AR-based serious games, wearable sensors, and instrumented objects to enhance user engagement and feedback.\"\n  ],\n  \"results\": [\n    \"Improve motor learning and task performance in handwriting and music through physical interaction and robotics.\",\n    \"Enhance the education industry by expanding the impact and application of robotics in learning contexts.\",\n    \"Provide a novel approach to human-human and human-robot interaction paradigms, promoting more effective and engaging learning experiences.\"\n  ],\n  \"research_subject\": \"Robotics-based physical interaction for enhanced handwriting and music learning\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Humans rely on physical interaction for learning complex sensorimotor tasks, such as handwriting and music, but current learning methods may not fully leverage this aspect.\",\n    \"Recent neuroscientific findings suggest that physical interaction can enhance motor task performance and learning, indicating a potential area for innovation in educational robotics.\"\n  ],\n  \"objectives\": [\n    \"Develop a physically interacting robotic platform to augment handwriting and music learning by facilitating the learning of complex sensorimotor tasks.\",\n    \"Combine enabling technologies such as compact robotic haptic devices, interactive controllers, bi-directional user interfaces, and machine learning algorithms to tailor learning exercises to the user's state.\",\n    \"Apply the developed platform and techniques in two learning contexts: training graphomotor skills in children learning handwriting and augmenting learning performance in beginner musicians.\"\n  ],\n  \"methods\": [\n    \"Design and implement compact robotic haptic devices to interact with upper limbs.\",\n    \"Develop an interactive controller integrating differential Game Theory and an algorithm to identify the partner’s control.\",\n    \"Use machine learning algorithms to tailor learning exercises to the user's physical, emotional, and mental state.\"\n  ],\n  \"results\": [\n    \"Enhance the learning of complex sensorimotor tasks such as handwriting and music through physical interaction with a robotic platform.\",\n    \"Improve task performance and motor learning by leveraging physical interaction and tailored learning exercises.\",\n    \"Expand the impact and application of robotics in the education industry.\"\n  ],\n  \"research_subject\": \"Augmenting handwriting and music learning through physically interacting robotic platforms\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Humans naturally rely on physical interaction to learn complex sensorimotor tasks, but current educational approaches lack technological support for physical coupling between learners and teachers.\",\n    \"There is a need to leverage recent neuroscientific findings about the benefits of physical interaction for motor learning to enhance educational outcomes in handwriting and music.\"\n  ],\n  \"objectives\": [\n    \"Create a physically interacting robotic platform that connects humans to facilitate learning of complex sensorimotor tasks in handwriting and music education.\",\n    \"Develop and integrate enabling technologies including haptic devices, interactive controllers, AR-based interfaces, and machine learning algorithms to support personalized motor learning.\"\n  ],\n  \"methods\": [\n    \"Design compact robotic haptic devices combined with differential Game Theory-based controllers to enable physical communication between users.\",\n    \"Implement AR-based serious games with wearable sensors and instrumented objects for interactive learning experiences.\",\n    \"Apply machine learning algorithms to tailor learning exercises based on users' physical, emotional, and mental states.\"\n  ],\n  \"results\": [\n    \"Enhanced graphomotor skill development in children learning handwriting through robotic-mediated physical interaction.\",\n    \"Improved learning performance in beginner musicians through augmented physical coupling and personalized training.\",\n    \"Expansion of robotics applications in education through novel human-human and human-robot interaction paradigms.\"\n  ],\n  \"research_subject\": \"Robotic-mediated physical coupling for enhancing handwriting and music learning\"\n}\n```"
+}

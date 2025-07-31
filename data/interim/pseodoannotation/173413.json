@@ -1,0 +1,77 @@
+{
+  "index": 483,
+  "title": "Automated security proofs of cryptographic protocols: privacy, untrusted platforms and applications to e-voting protocols",
+  "abstract": "The rise of the Internet and the ubiquity of electronic devices has deeply changed our way of life. Many face to face and paper transactions have nowadays digital counterparts: home banking, e- commerce, e-voting, etc. The security of such transactions is ensured by the means of cryptographic protocols. While historically the main goals of protocols were to ensure confidentiality and authentication the situation has changed. The ability of people to stay connected constantly combined with ill-conceived systems seriously threatens people’s privacy. E-voting protocols need to guarantee privacy of votes, while ensuring transparency of the voting process; RFID and mobile telephone protocols have to guarantee that people cannot be traced. Moreover due to viruses and malware, personal computers and mobile phones must not be considered anymore to be trustworthy; yet they have to be used to execute protocols that need to achieve security goals. To detect flaws, prove the security of protocols and propose new design principles the Spooc project will develop solid foundations and practical tools to analyze and formally prove security properties that ensure the privacy of users as well as techniques for executing protocols on untrusted platforms. We will - develop foundations and practical tools for specifying and formally verifying new security properties, in particular privacy properties; - develop techniques for the design and automated analysis of protocols that have to be executed on untrusted platforms; - apply these methods in particular to novel e-voting protocols, which aim at guaranteeing strong security guarantees without need to trust the voter client software.  The Spooc project will significantly advance formal verification of security protocols and contribute to the development of a rich framework that provides techniques and tools to analyze and design security protocols guaranteeing user’s privacy and relaxing trust assumptions on the execution platforms.",
+  "llama_json": {
+    "motivations": [
+      "The increasing use of digital transactions and connected devices poses significant threats to people's privacy and security.",
+      "Existing cryptographic protocols often fail to guarantee privacy and security in the face of untrusted platforms and devices.",
+      "There is a need for novel e-voting protocols that can ensure strong security guarantees without relying on trusted voter client software."
+    ],
+    "objectives": [
+      "Develop solid foundations and practical tools to analyze and formally prove security properties that ensure user privacy.",
+      "Design and automate the analysis of protocols that can be executed on untrusted platforms.",
+      "Apply these methods to develop novel e-voting protocols with strong security guarantees."
+    ],
+    "methods": [
+      "Develop foundations and practical tools for specifying and formally verifying new security properties, particularly privacy properties.",
+      "Create techniques for designing and analyzing protocols that can be executed on untrusted platforms.",
+      "Apply these methods to e-voting protocols to guarantee strong security without relying on trusted voter client software."
+    ],
+    "results": [
+      "Advance the formal verification of security protocols and contribute to a rich framework for analyzing and designing secure protocols.",
+      "Provide techniques and tools to guarantee user privacy and relax trust assumptions on execution platforms.",
+      "Develop novel e-voting protocols with strong security guarantees."
+    ],
+    "research_subject": "Automated security proofs of cryptographic protocols for privacy and untrusted platforms, with applications to e-voting protocols"
+  },
+  "openai_json": {
+    "motivations": [
+      "The rise of the Internet and electronic devices has led to an increase in digital transactions, necessitating secure cryptographic protocols.",
+      "The constant connectivity and ill-conceived systems pose serious threats to people's privacy.",
+      "The presence of viruses and malware make personal computers and mobile phones untrustworthy, yet they are needed to execute protocols that ensure security."
+    ],
+    "objectives": [
+      "Develop foundations and practical tools for specifying and formally verifying new security properties, particularly privacy properties.",
+      "Develop techniques for the design and automated analysis of protocols that need to be executed on untrusted platforms.",
+      "Apply these methods to novel e-voting protocols, aiming to guarantee strong security without the need to trust the voter client software."
+    ],
+    "methods": [
+      "Develop solid foundations and practical tools to analyze and formally prove security properties that ensure user privacy.",
+      "Design and automate the analysis of protocols that need to be executed on untrusted platforms.",
+      "Apply these methods to new e-voting protocols to ensure strong security guarantees without needing to trust the voter client software."
+    ],
+    "results": [
+      "Detect flaws, prove the security of protocols, and propose new design principles.",
+      "Significantly advance formal verification of security protocols.",
+      "Contribute to the development of a rich framework that provides techniques and tools to analyze and design security protocols guaranteeing user's privacy."
+    ],
+    "research_subject": "Automated security proofs of cryptographic protocols with a focus on privacy, untrusted platforms, and e-voting protocols"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The widespread adoption of digital transactions and constant connectivity threatens user privacy through ill-conceived systems and inadequate security measures.",
+      "Personal computers and mobile devices can no longer be considered trustworthy due to viruses and malware, yet they must be used for security-critical protocols.",
+      "Current cryptographic protocols need to evolve beyond traditional confidentiality and authentication to address complex privacy requirements in applications like e-voting and mobile communications."
+    ],
+    "objectives": [
+      "Develop foundations and practical tools for specifying and formally verifying security properties, particularly privacy properties in cryptographic protocols.",
+      "Create techniques for designing and analyzing protocols that can be securely executed on untrusted platforms.",
+      "Apply these methods to develop and verify novel e-voting protocols that guarantee strong security without trusting voter client software."
+    ],
+    "methods": [
+      "Develop formal verification frameworks and automated analysis tools for security protocol properties.",
+      "Design new principles and techniques for protocol execution on untrusted platforms.",
+      "Apply formal methods to analyze and prove security properties of cryptographic protocols with focus on privacy guarantees."
+    ],
+    "results": [
+      "Advanced formal verification capabilities for security protocols with enhanced privacy analysis.",
+      "A comprehensive framework providing techniques and tools for analyzing and designing security protocols with relaxed trust assumptions.",
+      "Novel e-voting protocols with strong security guarantees that do not require trusting client software."
+    ],
+    "research_subject": "Automated formal verification of cryptographic protocols for privacy and security on untrusted platforms"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing use of digital transactions and connected devices poses significant threats to people's privacy and security.\",\n    \"Existing cryptographic protocols often fail to guarantee privacy and security in the face of untrusted platforms and devices.\",\n    \"There is a need for novel e-voting protocols that can ensure strong security guarantees without relying on trusted voter client software.\"\n  ],\n  \"objectives\": [\n    \"Develop solid foundations and practical tools to analyze and formally prove security properties that ensure user privacy.\",\n    \"Design and automate the analysis of protocols that can be executed on untrusted platforms.\",\n    \"Apply these methods to develop novel e-voting protocols with strong security guarantees.\"\n  ],\n  \"methods\": [\n    \"Develop foundations and practical tools for specifying and formally verifying new security properties, particularly privacy properties.\",\n    \"Create techniques for designing and analyzing protocols that can be executed on untrusted platforms.\",\n    \"Apply these methods to e-voting protocols to guarantee strong security without relying on trusted voter client software.\"\n  ],\n  \"results\": [\n    \"Advance the formal verification of security protocols and contribute to a rich framework for analyzing and designing secure protocols.\",\n    \"Provide techniques and tools to guarantee user privacy and relax trust assumptions on execution platforms.\",\n    \"Develop novel e-voting protocols with strong security guarantees.\"\n  ],\n  \"research_subject\": \"Automated security proofs of cryptographic protocols for privacy and untrusted platforms, with applications to e-voting protocols\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The rise of the Internet and electronic devices has led to an increase in digital transactions, necessitating secure cryptographic protocols.\",\n    \"The constant connectivity and ill-conceived systems pose serious threats to people's privacy.\",\n    \"The presence of viruses and malware make personal computers and mobile phones untrustworthy, yet they are needed to execute protocols that ensure security.\"\n  ],\n  \"objectives\": [\n    \"Develop foundations and practical tools for specifying and formally verifying new security properties, particularly privacy properties.\",\n    \"Develop techniques for the design and automated analysis of protocols that need to be executed on untrusted platforms.\",\n    \"Apply these methods to novel e-voting protocols, aiming to guarantee strong security without the need to trust the voter client software.\"\n  ],\n  \"methods\": [\n    \"Develop solid foundations and practical tools to analyze and formally prove security properties that ensure user privacy.\",\n    \"Design and automate the analysis of protocols that need to be executed on untrusted platforms.\",\n    \"Apply these methods to new e-voting protocols to ensure strong security guarantees without needing to trust the voter client software.\"\n  ],\n  \"results\": [\n    \"Detect flaws, prove the security of protocols, and propose new design principles.\",\n    \"Significantly advance formal verification of security protocols.\",\n    \"Contribute to the development of a rich framework that provides techniques and tools to analyze and design security protocols guaranteeing user's privacy.\"\n  ],\n  \"research_subject\": \"Automated security proofs of cryptographic protocols with a focus on privacy, untrusted platforms, and e-voting protocols\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The widespread adoption of digital transactions and constant connectivity threatens user privacy through ill-conceived systems and inadequate security measures.\",\n    \"Personal computers and mobile devices can no longer be considered trustworthy due to viruses and malware, yet they must be used for security-critical protocols.\",\n    \"Current cryptographic protocols need to evolve beyond traditional confidentiality and authentication to address complex privacy requirements in applications like e-voting and mobile communications.\"\n  ],\n  \"objectives\": [\n    \"Develop foundations and practical tools for specifying and formally verifying security properties, particularly privacy properties in cryptographic protocols.\",\n    \"Create techniques for designing and analyzing protocols that can be securely executed on untrusted platforms.\",\n    \"Apply these methods to develop and verify novel e-voting protocols that guarantee strong security without trusting voter client software.\"\n  ],\n  \"methods\": [\n    \"Develop formal verification frameworks and automated analysis tools for security protocol properties.\",\n    \"Design new principles and techniques for protocol execution on untrusted platforms.\",\n    \"Apply formal methods to analyze and prove security properties of cryptographic protocols with focus on privacy guarantees.\"\n  ],\n  \"results\": [\n    \"Advanced formal verification capabilities for security protocols with enhanced privacy analysis.\",\n    \"A comprehensive framework providing techniques and tools for analyzing and designing security protocols with relaxed trust assumptions.\",\n    \"Novel e-voting protocols with strong security guarantees that do not require trusting client software.\"\n  ],\n  \"research_subject\": \"Automated formal verification of cryptographic protocols for privacy and security on untrusted platforms\"\n}\n```"
+}

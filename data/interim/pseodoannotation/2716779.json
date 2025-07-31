@@ -1,0 +1,72 @@
+{
+  "index": 196,
+  "title": "Real organ generation",
+  "abstract": "MTM S.r.l has developed a game-changing platform comprising 1) an algorithm able capture 2D images and convert them into 3D geometries ( we have already validated our solution on Cardiac Imaging), in order to generate hyper realistic ( more than 10X resolution respect of the best 3D medical imaging today present in the market) models/mockups, ready to be used in VR and 3D printing allowing an unprecedent medical training approach, as well as a simulation of real patients’ condition on which perform pre-operative simulation in healthcare environment; 2) a sophisticated software able to manage multiple actions: such as loading 2D image parts produced by medical scanning devices (organs and tissues), generating 3D models from 2D images elaborated by our algorithm, enable the user (thanks to our intuitive GUI – Graphical User Interface) to visualise the 3D model, (choosing from different views, differentiate surfaces, anatomical sections, layers, regions of interests), recognising anomalies, tagging the mutations and the morphology aberrations, supporting and collecting extensive libraries of 2D images and 3D models, enabling an unprecedent new way to train students and surgeons during critical preparation to surgery. ROG’s business model. We already mapped our value chain and plan each phase of our path to exploitation. Our revenue model will be a combination based on: ROG software platform licensing and sales from personalized processing of 3D image services (The specialized paid services will instead involve the personalized processing of 3D images, the tagging performed by semi-automated expert systems and the possibility of having training sessions on the platform).  As a result of the maturation strategy and the higher potential value of our system, we will see growth in revenues and profits that will enable us to increase our headcount to 12 by 2026 with a raw return on investment (RoI) of 2.29%.",
+  "llama_json": {
+    "motivations": [
+      "Current 3D medical imaging technologies lack sufficient resolution, hindering accurate medical training and pre-operative simulations.",
+      "There is a need for more realistic and interactive models to enhance medical training and patient care."
+    ],
+    "objectives": [
+      "Develop a platform that converts 2D images into hyper-realistic 3D geometries for medical training and pre-operative simulations.",
+      "Create a sophisticated software for managing and visualizing 3D models, recognizing anomalies, and supporting extensive libraries of medical images."
+    ],
+    "methods": [
+      "Utilize an algorithm to capture 2D images and convert them into 3D geometries.",
+      "Develop an intuitive graphical user interface for visualizing and interacting with 3D models.",
+      "Implement a software platform for managing and processing 3D images, including tagging and anomaly recognition."
+    ],
+    "results": [
+      "Enable unprecedented medical training approaches through hyper-realistic 3D models and simulations.",
+      "Enhance pre-operative planning and patient care through accurate and interactive 3D models.",
+      "Generate revenue through software licensing and personalized 3D image processing services."
+    ],
+    "research_subject": "Realistic organ generation using 2D-to-3D image conversion for medical training and simulation"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current 3D medical imaging lacks sufficient resolution for realistic models and mockups, limiting its effectiveness in medical training and pre-operative simulations.",
+      "There is a need for a sophisticated software that can manage multiple actions such as generating 3D models from 2D images, visualizing 3D models, recognizing anomalies, and supporting extensive libraries of 2D images and 3D models."
+    ],
+    "objectives": [
+      "Develop an algorithm to convert 2D images into 3D geometries for generating hyper-realistic models/mockups.",
+      "Create a software capable of managing multiple actions, including generating 3D models from 2D images, visualizing 3D models, recognizing anomalies, and supporting extensive libraries of 2D images and 3D models.",
+      "Establish a revenue model based on software platform licensing and sales from personalized processing of 3D image services."
+    ],
+    "methods": [
+      "Use an algorithm to capture 2D images and convert them into 3D geometries.",
+      "Develop a software that can manage multiple actions such as loading 2D image parts, generating 3D models, visualizing the 3D model, recognizing anomalies, and supporting libraries of 2D images and 3D models.",
+      "Implement a business model based on software platform licensing and sales from personalized processing of 3D image services."
+    ],
+    "results": [
+      "Provide hyper-realistic 3D models for use in VR and 3D printing, enabling unprecedented medical training and pre-operative simulations.",
+      "Offer a sophisticated software that can manage multiple actions, enhancing the training of students and surgeons during critical preparation for surgery.",
+      "Generate revenue and profits through software platform licensing and sales from personalized processing of 3D image services."
+    ],
+    "research_subject": "Generation of hyper-realistic 3D models from 2D images for medical training and pre-operative simulations"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current 3D medical imaging lacks sufficient resolution and realism for effective medical training and pre-operative planning.",
+      "Healthcare professionals need better tools for visualizing patient-specific anatomical conditions and identifying morphological anomalies."
+    ],
+    "objectives": [
+      "Develop a platform that converts 2D medical images into hyper-realistic 3D models with 10X higher resolution than existing solutions.",
+      "Create comprehensive software for managing, visualizing, and analyzing 3D medical models to support medical training and pre-operative simulation."
+    ],
+    "methods": [
+      "Implement an algorithm to capture 2D medical images and convert them into high-resolution 3D geometries.",
+      "Develop software with an intuitive graphical user interface for 3D model visualization, anomaly recognition, and morphology tagging.",
+      "Build extensive libraries of 2D images and 3D models for medical education and surgical preparation."
+    ],
+    "results": [
+      "Enable unprecedented medical training approaches through VR and 3D printing of hyper-realistic organ models.",
+      "Support pre-operative simulation and planning using patient-specific 3D anatomical models.",
+      "Achieve business growth with projected headcount increase to 12 by 2026 and a return on investment of 2.29%."
+    ],
+    "research_subject": "High-resolution 3D medical imaging platform for organ visualization and surgical planning"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current 3D medical imaging technologies lack sufficient resolution, hindering accurate medical training and pre-operative simulations.\",\n    \"There is a need for more realistic and interactive models to enhance medical training and patient care.\"\n  ],\n  \"objectives\": [\n    \"Develop a platform that converts 2D images into hyper-realistic 3D geometries for medical training and pre-operative simulations.\",\n    \"Create a sophisticated software for managing and visualizing 3D models, recognizing anomalies, and supporting extensive libraries of medical images.\"\n  ],\n  \"methods\": [\n    \"Utilize an algorithm to capture 2D images and convert them into 3D geometries.\",\n    \"Develop an intuitive graphical user interface for visualizing and interacting with 3D models.\",\n    \"Implement a software platform for managing and processing 3D images, including tagging and anomaly recognition.\"\n  ],\n  \"results\": [\n    \"Enable unprecedented medical training approaches through hyper-realistic 3D models and simulations.\",\n    \"Enhance pre-operative planning and patient care through accurate and interactive 3D models.\",\n    \"Generate revenue through software licensing and personalized 3D image processing services.\"\n  ],\n  \"research_subject\": \"Realistic organ generation using 2D-to-3D image conversion for medical training and simulation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current 3D medical imaging lacks sufficient resolution for realistic models and mockups, limiting its effectiveness in medical training and pre-operative simulations.\",\n    \"There is a need for a sophisticated software that can manage multiple actions such as generating 3D models from 2D images, visualizing 3D models, recognizing anomalies, and supporting extensive libraries of 2D images and 3D models.\"\n  ],\n  \"objectives\": [\n    \"Develop an algorithm to convert 2D images into 3D geometries for generating hyper-realistic models/mockups.\",\n    \"Create a software capable of managing multiple actions, including generating 3D models from 2D images, visualizing 3D models, recognizing anomalies, and supporting extensive libraries of 2D images and 3D models.\",\n    \"Establish a revenue model based on software platform licensing and sales from personalized processing of 3D image services.\"\n  ],\n  \"methods\": [\n    \"Use an algorithm to capture 2D images and convert them into 3D geometries.\",\n    \"Develop a software that can manage multiple actions such as loading 2D image parts, generating 3D models, visualizing the 3D model, recognizing anomalies, and supporting libraries of 2D images and 3D models.\",\n    \"Implement a business model based on software platform licensing and sales from personalized processing of 3D image services.\"\n  ],\n  \"results\": [\n    \"Provide hyper-realistic 3D models for use in VR and 3D printing, enabling unprecedented medical training and pre-operative simulations.\",\n    \"Offer a sophisticated software that can manage multiple actions, enhancing the training of students and surgeons during critical preparation for surgery.\",\n    \"Generate revenue and profits through software platform licensing and sales from personalized processing of 3D image services.\"\n  ],\n  \"research_subject\": \"Generation of hyper-realistic 3D models from 2D images for medical training and pre-operative simulations\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current 3D medical imaging lacks sufficient resolution and realism for effective medical training and pre-operative planning.\",\n    \"Healthcare professionals need better tools for visualizing patient-specific anatomical conditions and identifying morphological anomalies.\"\n  ],\n  \"objectives\": [\n    \"Develop a platform that converts 2D medical images into hyper-realistic 3D models with 10X higher resolution than existing solutions.\",\n    \"Create comprehensive software for managing, visualizing, and analyzing 3D medical models to support medical training and pre-operative simulation.\"\n  ],\n  \"methods\": [\n    \"Implement an algorithm to capture 2D medical images and convert them into high-resolution 3D geometries.\",\n    \"Develop software with an intuitive graphical user interface for 3D model visualization, anomaly recognition, and morphology tagging.\",\n    \"Build extensive libraries of 2D images and 3D models for medical education and surgical preparation.\"\n  ],\n  \"results\": [\n    \"Enable unprecedented medical training approaches through VR and 3D printing of hyper-realistic organ models.\",\n    \"Support pre-operative simulation and planning using patient-specific 3D anatomical models.\",\n    \"Achieve business growth with projected headcount increase to 12 by 2026 and a return on investment of 2.29%.\"\n  ],\n  \"research_subject\": \"High-resolution 3D medical imaging platform for organ visualization and surgical planning\"\n}\n```"
+}

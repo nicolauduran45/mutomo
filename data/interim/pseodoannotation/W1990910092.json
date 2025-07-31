@@ -1,0 +1,66 @@
+{
+  "index": 17,
+  "title": "Bioleaching of gold and copper from waste mobile phone PCBs by using a cyanogenic bacterium",
+  "abstract": "Abstract Chromobacterium violaceum (C. violaceum), a cyanide generating bacterium has been used to leach out gold and copper from the waste mobile phone printed circuit boards (PCBs) containing ∼34.5% Cu and 0.025% Au in YP (yeast extract and polypeptone with glycine) medium. The bioleaching was carried out in an incubator shaker (150 rpm) at 30 °C and 15 g/L pulp density in the pH range 8–11. Dissolution of gold and copper increased from 7.78% (0.225 ppm) to 10.8% (0.46 ppm) and 4.9% (419 ppm) to 11.4% (879 ppm) in 8 days with increase in pH from 8 to 11 and 8 to 10 respectively. Supplementing oxygen with 0.004% (v/v) H2O2 increased the copper leaching to 24.6% (1743 ppm) at pH 10 in 8 days whereas improvement in gold leaching was insignificant with the recovery of 11.31% Au at pH 11.0. The waste PCBs can thus be recycled in environmental friendly manner.",
+  "llama_json": {
+    "motivations": [
+      "Electronic waste, such as waste mobile phone printed circuit boards (PCBs), poses an environmental concern due to the presence of toxic metals like copper and gold.",
+      "There is a need for environmentally friendly methods to recover valuable metals from waste PCBs."
+    ],
+    "objectives": [
+      "Investigate the use of Chromobacterium violaceum, a cyanide-generating bacterium, for bioleaching gold and copper from waste mobile phone PCBs.",
+      "Optimize the bioleaching process by varying pH and oxygen levels to improve metal recovery."
+    ],
+    "methods": [
+      "Use Chromobacterium violaceum in a bioleaching process to extract gold and copper from waste PCBs in a controlled environment.",
+      "Vary pH levels (8-11) and supplement oxygen with H2O2 to optimize metal recovery."
+    ],
+    "results": [
+      "Achieve significant recovery of copper (up to 24.6%) and gold (up to 11.31%) from waste PCBs using the bioleaching process.",
+      "Demonstrate the potential for environmentally friendly recycling of waste PCBs using microbial bioleaching."
+    ],
+    "research_subject": "Bioleaching of gold and copper from waste mobile phone PCBs using Chromobacterium violaceum"
+  },
+  "openai_json": {
+    "motivations": [
+      "Waste mobile phone printed circuit boards (PCBs) contain valuable metals like gold and copper, but their extraction is challenging and often environmentally unfriendly.",
+      "There is a need for an environmentally friendly method to extract gold and copper from waste PCBs."
+    ],
+    "objectives": [
+      "Use Chromobacterium violaceum, a cyanide generating bacterium, to leach out gold and copper from waste mobile phone PCBs.",
+      "Investigate the effect of pH and oxygen supplementation on the bioleaching process."
+    ],
+    "methods": [
+      "Bioleaching of gold and copper from PCBs using Chromobacterium violaceum in YP medium.",
+      "Conduct the bioleaching process in an incubator shaker at different pH levels and with oxygen supplementation."
+    ],
+    "results": [
+      "Dissolution of gold and copper increased with increase in pH and oxygen supplementation.",
+      "The waste PCBs can be recycled in an environmentally friendly manner using this bioleaching process."
+    ],
+    "research_subject": "Bioleaching of gold and copper from waste mobile phone PCBs using a cyanogenic bacterium"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Waste mobile phone printed circuit boards contain valuable metals like gold and copper that need to be recovered in an environmentally friendly manner.",
+      "Traditional metal extraction methods from electronic waste can be harmful to the environment, necessitating the development of sustainable bioleaching alternatives."
+    ],
+    "objectives": [
+      "Investigate the use of Chromobacterium violaceum, a cyanide-generating bacterium, for bioleaching gold and copper from waste mobile phone PCBs.",
+      "Optimize bioleaching conditions including pH and oxygen supplementation to maximize metal recovery."
+    ],
+    "methods": [
+      "Employ Chromobacterium violaceum in YP medium with glycine for cyanide-based bioleaching of metals from waste PCBs.",
+      "Conduct bioleaching experiments in an incubator shaker under controlled conditions of temperature, pH, and pulp density.",
+      "Supplement the bioleaching process with hydrogen peroxide to enhance oxygen availability and improve metal dissolution."
+    ],
+    "results": [
+      "Gold recovery increased from 7.78% to 10.8% with pH adjustment, while copper recovery improved from 4.9% to 24.6% with pH optimization and oxygen supplementation.",
+      "The bioleaching process demonstrated the potential for environmentally friendly recycling of valuable metals from electronic waste."
+    ],
+    "research_subject": "Bioleaching of gold and copper from waste mobile phone PCBs using cyanogenic bacteria"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Electronic waste, such as waste mobile phone printed circuit boards (PCBs), poses an environmental concern due to the presence of toxic metals like copper and gold.\",\n    \"There is a need for environmentally friendly methods to recover valuable metals from waste PCBs.\"\n  ],\n  \"objectives\": [\n    \"Investigate the use of Chromobacterium violaceum, a cyanide-generating bacterium, for bioleaching gold and copper from waste mobile phone PCBs.\",\n    \"Optimize the bioleaching process by varying pH and oxygen levels to improve metal recovery.\"\n  ],\n  \"methods\": [\n    \"Use Chromobacterium violaceum in a bioleaching process to extract gold and copper from waste PCBs in a controlled environment.\",\n    \"Vary pH levels (8-11) and supplement oxygen with H2O2 to optimize metal recovery.\"\n  ],\n  \"results\": [\n    \"Achieve significant recovery of copper (up to 24.6%) and gold (up to 11.31%) from waste PCBs using the bioleaching process.\",\n    \"Demonstrate the potential for environmentally friendly recycling of waste PCBs using microbial bioleaching.\"\n  ],\n  \"research_subject\": \"Bioleaching of gold and copper from waste mobile phone PCBs using Chromobacterium violaceum\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Waste mobile phone printed circuit boards (PCBs) contain valuable metals like gold and copper, but their extraction is challenging and often environmentally unfriendly.\",\n    \"There is a need for an environmentally friendly method to extract gold and copper from waste PCBs.\"\n  ],\n  \"objectives\": [\n    \"Use Chromobacterium violaceum, a cyanide generating bacterium, to leach out gold and copper from waste mobile phone PCBs.\",\n    \"Investigate the effect of pH and oxygen supplementation on the bioleaching process.\"\n  ],\n  \"methods\": [\n    \"Bioleaching of gold and copper from PCBs using Chromobacterium violaceum in YP medium.\",\n    \"Conduct the bioleaching process in an incubator shaker at different pH levels and with oxygen supplementation.\"\n  ],\n  \"results\": [\n    \"Dissolution of gold and copper increased with increase in pH and oxygen supplementation.\",\n    \"The waste PCBs can be recycled in an environmentally friendly manner using this bioleaching process.\"\n  ],\n  \"research_subject\": \"Bioleaching of gold and copper from waste mobile phone PCBs using a cyanogenic bacterium\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Waste mobile phone printed circuit boards contain valuable metals like gold and copper that need to be recovered in an environmentally friendly manner.\",\n    \"Traditional metal extraction methods from electronic waste can be harmful to the environment, necessitating the development of sustainable bioleaching alternatives.\"\n  ],\n  \"objectives\": [\n    \"Investigate the use of Chromobacterium violaceum, a cyanide-generating bacterium, for bioleaching gold and copper from waste mobile phone PCBs.\",\n    \"Optimize bioleaching conditions including pH and oxygen supplementation to maximize metal recovery.\"\n  ],\n  \"methods\": [\n    \"Employ Chromobacterium violaceum in YP medium with glycine for cyanide-based bioleaching of metals from waste PCBs.\",\n    \"Conduct bioleaching experiments in an incubator shaker under controlled conditions of temperature, pH, and pulp density.\",\n    \"Supplement the bioleaching process with hydrogen peroxide to enhance oxygen availability and improve metal dissolution.\"\n  ],\n  \"results\": [\n    \"Gold recovery increased from 7.78% to 10.8% with pH adjustment, while copper recovery improved from 4.9% to 24.6% with pH optimization and oxygen supplementation.\",\n    \"The bioleaching process demonstrated the potential for environmentally friendly recycling of valuable metals from electronic waste.\"\n  ],\n  \"research_subject\": \"Bioleaching of gold and copper from waste mobile phone PCBs using cyanogenic bacteria\"\n}\n```"
+}

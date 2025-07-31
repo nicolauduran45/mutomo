@@ -1,0 +1,75 @@
+{
+  "index": 136,
+  "title": "The geometry of chromatic categories",
+  "abstract": "This project studies the local and global structure of fundamental categories in topology, algebra, and algebraic geometry from a geometric point of view. Deep structural results have been proven in special cases, but the lack of a unified theory has prevented progress on several key conjectures, for example pertaining to local-to-global principles.  In a first step, we introduce the concept of chromatic category, which axiomatizes certain properties found on the derived category of quasi-coherent sheaves on a scheme or stack. Important examples of chromatic categories include the category of spectra in stable homotopy theory and the stable module category for a finite group. The resulting framework allows us to transfer tools and questions from one context to another, thereby shedding light on three key aspects of the geometry of a chromatic category: Its local structure, local-to-global principles, and compactifications.  In a second step, we study these three interrelated aspects in detail. The local structure of a chromatic category is controlled by its local Picard groups, which give new and subtle invariants in modular representation theory. We then gain new insights about the structure of these groups via local duality and a profinite extension of the theory of ambidexterity due to Hopkins and Lurie. Moreover, local-to-global principles like the chromatic splitting conjecture, blueshift, or redshift are shown to be governed by a generalization of Tate cohomology, for which we introduce powerful new tools of computation with applications to various Balmer spectra. Finally, we construct compactifications of chromatic categories via a categorification of ultraproducts from mathematical logic. This solves the algebraization problem in chromatic homotopy. In conclusion, the outcome of this project is a framework that systematically describes the geometry of chromatic categories, leading to substantial progress on outstanding conjectures in algebra and topology.",
+  "llama_json": {
+    "motivations": [
+      "The lack of a unified theory for studying fundamental categories in topology, algebra, and algebraic geometry has hindered progress on key conjectures.",
+      "Current understanding of local-to-global principles in these categories is limited, requiring a more comprehensive framework."
+    ],
+    "objectives": [
+      "Develop a unified geometric framework for studying chromatic categories, encompassing categories in topology, algebra, and algebraic geometry.",
+      "Investigate the local structure, local-to-global principles, and compactifications of chromatic categories.",
+      "Shed light on outstanding conjectures in algebra and topology, such as the chromatic splitting conjecture."
+    ],
+    "methods": [
+      "Introduce and study the concept of chromatic category, axiomatizing properties from derived categories of quasi-coherent sheaves on schemes or stacks.",
+      "Employ tools from local duality, ambidexterity, and Tate cohomology to analyze the local structure and local-to-global principles of chromatic categories.",
+      "Construct compactifications of chromatic categories via categorification of ultraproducts from mathematical logic."
+    ],
+    "results": [
+      "Establish a systematic framework for describing the geometry of chromatic categories.",
+      "Make substantial progress on outstanding conjectures in algebra and topology, such as the chromatic splitting conjecture.",
+      "Gain new insights into the structure of local Picard groups and their role in modular representation theory."
+    ],
+    "research_subject": "Geometric study of chromatic categories in topology, algebra, and algebraic geometry"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a lack of a unified theory to study the local and global structure of fundamental categories in topology, algebra, and algebraic geometry.",
+      "The need to progress on key conjectures related to local-to-global principles.",
+      "The desire to understand the geometry of chromatic categories in detail."
+    ],
+    "objectives": [
+      "Introduce the concept of chromatic category to transfer tools and questions from one context to another.",
+      "Study the local structure, local-to-global principles, and compactifications of a chromatic category.",
+      "Construct compactifications of chromatic categories to solve the algebraization problem in chromatic homotopy."
+    ],
+    "methods": [
+      "Use the concept of chromatic category to transfer tools and questions between different mathematical contexts.",
+      "Investigate the local structure of a chromatic category using its local Picard groups.",
+      "Apply a generalization of Tate cohomology to govern local-to-global principles like the chromatic splitting conjecture, blueshift, or redshift."
+    ],
+    "results": [
+      "Provide new and subtle invariants in modular representation theory.",
+      "Introduce powerful new tools of computation with applications to various Balmer spectra.",
+      "Offer a systematic framework that describes the geometry of chromatic categories."
+    ],
+    "research_subject": "Geometry of chromatic categories in topology, algebra, and algebraic geometry"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The lack of a unified theory for fundamental categories in topology, algebra, and algebraic geometry has prevented progress on key conjectures, particularly those related to local-to-global principles.",
+      "Current understanding of the structural properties of categories like the derived category of quasi-coherent sheaves and stable homotopy theory remains fragmented across different mathematical contexts."
+    ],
+    "objectives": [
+      "Develop a unified framework of chromatic categories that axiomatizes properties found in fundamental mathematical categories and enables transfer of tools between different contexts.",
+      "Study the local structure, local-to-global principles, and compactifications of chromatic categories to advance understanding of their geometric properties.",
+      "Resolve outstanding conjectures in algebra and topology through systematic description of chromatic category geometry."
+    ],
+    "methods": [
+      "Introduce the concept of chromatic categories to axiomatize properties of fundamental categories in topology, algebra, and algebraic geometry.",
+      "Apply local duality and profinite extensions of ambidexterity theory to study local Picard groups and local structure.",
+      "Develop a generalization of Tate cohomology and construct compactifications via categorification of ultraproducts from mathematical logic."
+    ],
+    "results": [
+      "Establish a systematic framework that describes the geometry of chromatic categories and enables progress on outstanding conjectures.",
+      "Provide new invariants in modular representation theory through local Picard groups and advance understanding of local-to-global principles.",
+      "Solve the algebraization problem in chromatic homotopy through novel compactification constructions."
+    ],
+    "research_subject": "Geometric structure of chromatic categories in topology, algebra, and algebraic geometry"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The lack of a unified theory for studying fundamental categories in topology, algebra, and algebraic geometry has hindered progress on key conjectures.\",\n    \"Current understanding of local-to-global principles in these categories is limited, requiring a more comprehensive framework.\"\n  ],\n  \"objectives\": [\n    \"Develop a unified geometric framework for studying chromatic categories, encompassing categories in topology, algebra, and algebraic geometry.\",\n    \"Investigate the local structure, local-to-global principles, and compactifications of chromatic categories.\",\n    \"Shed light on outstanding conjectures in algebra and topology, such as the chromatic splitting conjecture.\"\n  ],\n  \"methods\": [\n    \"Introduce and study the concept of chromatic category, axiomatizing properties from derived categories of quasi-coherent sheaves on schemes or stacks.\",\n    \"Employ tools from local duality, ambidexterity, and Tate cohomology to analyze the local structure and local-to-global principles of chromatic categories.\",\n    \"Construct compactifications of chromatic categories via categorification of ultraproducts from mathematical logic.\"\n  ],\n  \"results\": [\n    \"Establish a systematic framework for describing the geometry of chromatic categories.\",\n    \"Make substantial progress on outstanding conjectures in algebra and topology, such as the chromatic splitting conjecture.\",\n    \"Gain new insights into the structure of local Picard groups and their role in modular representation theory.\"\n  ],\n  \"research_subject\": \"Geometric study of chromatic categories in topology, algebra, and algebraic geometry\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of a unified theory to study the local and global structure of fundamental categories in topology, algebra, and algebraic geometry.\",\n    \"The need to progress on key conjectures related to local-to-global principles.\",\n    \"The desire to understand the geometry of chromatic categories in detail.\"\n  ],\n  \"objectives\": [\n    \"Introduce the concept of chromatic category to transfer tools and questions from one context to another.\",\n    \"Study the local structure, local-to-global principles, and compactifications of a chromatic category.\",\n    \"Construct compactifications of chromatic categories to solve the algebraization problem in chromatic homotopy.\"\n  ],\n  \"methods\": [\n    \"Use the concept of chromatic category to transfer tools and questions between different mathematical contexts.\",\n    \"Investigate the local structure of a chromatic category using its local Picard groups.\",\n    \"Apply a generalization of Tate cohomology to govern local-to-global principles like the chromatic splitting conjecture, blueshift, or redshift.\"\n  ],\n  \"results\": [\n    \"Provide new and subtle invariants in modular representation theory.\",\n    \"Introduce powerful new tools of computation with applications to various Balmer spectra.\",\n    \"Offer a systematic framework that describes the geometry of chromatic categories.\"\n  ],\n  \"research_subject\": \"Geometry of chromatic categories in topology, algebra, and algebraic geometry\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The lack of a unified theory for fundamental categories in topology, algebra, and algebraic geometry has prevented progress on key conjectures, particularly those related to local-to-global principles.\",\n    \"Current understanding of the structural properties of categories like the derived category of quasi-coherent sheaves and stable homotopy theory remains fragmented across different mathematical contexts.\"\n  ],\n  \"objectives\": [\n    \"Develop a unified framework of chromatic categories that axiomatizes properties found in fundamental mathematical categories and enables transfer of tools between different contexts.\",\n    \"Study the local structure, local-to-global principles, and compactifications of chromatic categories to advance understanding of their geometric properties.\",\n    \"Resolve outstanding conjectures in algebra and topology through systematic description of chromatic category geometry.\"\n  ],\n  \"methods\": [\n    \"Introduce the concept of chromatic categories to axiomatize properties of fundamental categories in topology, algebra, and algebraic geometry.\",\n    \"Apply local duality and profinite extensions of ambidexterity theory to study local Picard groups and local structure.\",\n    \"Develop a generalization of Tate cohomology and construct compactifications via categorification of ultraproducts from mathematical logic.\"\n  ],\n  \"results\": [\n    \"Establish a systematic framework that describes the geometry of chromatic categories and enables progress on outstanding conjectures.\",\n    \"Provide new invariants in modular representation theory through local Picard groups and advance understanding of local-to-global principles.\",\n    \"Solve the algebraization problem in chromatic homotopy through novel compactification constructions.\"\n  ],\n  \"research_subject\": \"Geometric structure of chromatic categories in topology, algebra, and algebraic geometry\"\n}\n```"
+}

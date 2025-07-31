@@ -1,0 +1,69 @@
+{
+  "index": 167,
+  "title": "A new fuzzy decision-making approach for selecting new product development project",
+  "abstract": "The most crucial factor that survives enterprises under stiff competition is the success of new product development project; thus, the new product development project selection has become the vital concerns of R&amp;D managers. The initial stage of the project is filled with uncertainties and complexities, which significantly deteriorate the success of product development and product launch. Previous researches focus on helping enterprises determine a set of good product ideas; however, when proceeding to the product development stage after the fuzzy front end, a best product idea should be selected to form a new product development project to create anticipated profits and develop competitive advantage. Therefore, this study proposes a potential project selection model, which combines optimal aggregation method and effective fuzzy weighted average to assist decision maker to achieve the best consistency of fuzzy judgments, and generates a single synergistic index project fuzzy synthetic rating that considers both risk and performance. The project fuzzy synthetic rating index is then used to help make the project Go-Kill decision, and the remaining survival projects are next prioritized to filter the best project. This model can efficiently assist R&amp;D managers in dealing with both uncertainties and complexities when making new product development project screening decision and can reduce decision bias and produce new product development project with the highest possibility of generating expected profit.",
+  "llama_json": {
+    "motivations": [
+      "The success of new product development projects is crucial for enterprises to survive in a competitive market.",
+      "The initial stage of new product development projects is filled with uncertainties and complexities that can negatively impact their success."
+    ],
+    "objectives": [
+      "Develop a decision-making approach to help R&D managers select the best new product development project.",
+      "Assist decision-makers in making informed project screening decisions that minimize bias and maximize expected profit."
+    ],
+    "methods": [
+      "Propose a project selection model that combines optimal aggregation method and fuzzy weighted average.",
+      "Generate a project fuzzy synthetic rating index that considers both risk and performance to support project prioritization."
+    ],
+    "results": [
+      "Efficiently assist R&D managers in dealing with uncertainties and complexities in new product development project screening decisions.",
+      "Reduce decision bias and increase the likelihood of selecting a profitable new product development project."
+    ],
+    "research_subject": "Fuzzy decision-making approach for new product development project selection"
+  },
+  "openai_json": {
+    "motivations": [
+      "The success of new product development projects is crucial for enterprises to survive in competitive markets, but the selection process is often fraught with uncertainties and complexities.",
+      "Previous research has focused on generating good product ideas, but there is a need for effective methods to select the best idea for development into a profitable and competitive product."
+    ],
+    "objectives": [
+      "Propose a project selection model that combines optimal aggregation method and effective fuzzy weighted average to achieve the best consistency of fuzzy judgments.",
+      "Generate a single synergistic index project fuzzy synthetic rating that considers both risk and performance to aid in project selection.",
+      "Assist R&D managers in making effective new product development project decisions that reduce bias and increase the likelihood of generating expected profit."
+    ],
+    "methods": [
+      "Develop a project selection model that combines optimal aggregation method and effective fuzzy weighted average.",
+      "Generate a project fuzzy synthetic rating index that considers both risk and performance.",
+      "Use the project fuzzy synthetic rating index to make Go-Kill decisions and prioritize remaining projects."
+    ],
+    "results": [
+      "Provide a tool to assist R&D managers in dealing with uncertainties and complexities in new product development project selection.",
+      "Reduce decision bias and increase the likelihood of selecting a project with the highest possibility of generating expected profit."
+    ],
+    "research_subject": "Fuzzy decision-making approach for new product development project selection"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The success of new product development projects is crucial for enterprise survival under stiff competition, making project selection a vital concern for R&D managers.",
+      "The initial stages of product development are filled with uncertainties and complexities that significantly deteriorate the success of product development and launch.",
+      "Existing research focuses on identifying good product ideas but lacks methods for selecting the best idea to form a new product development project after the fuzzy front end."
+    ],
+    "objectives": [
+      "Develop a potential project selection model that helps decision makers achieve the best consistency of fuzzy judgments while considering both risk and performance.",
+      "Create a systematic approach to assist R&D managers in making Go-Kill decisions and prioritizing new product development projects under uncertainty."
+    ],
+    "methods": [
+      "Combine optimal aggregation method with effective fuzzy weighted average to handle fuzzy judgments and uncertainties.",
+      "Generate a single synergistic index project fuzzy synthetic rating that integrates both risk and performance factors.",
+      "Apply the fuzzy synthetic rating index to support Go-Kill decisions and prioritize remaining projects."
+    ],
+    "results": [
+      "The model efficiently assists R&D managers in dealing with uncertainties and complexities in new product development project screening decisions.",
+      "The approach reduces decision bias and identifies new product development projects with the highest possibility of generating expected profit."
+    ],
+    "research_subject": "Fuzzy decision-making model for new product development project selection"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The success of new product development projects is crucial for enterprises to survive in a competitive market.\",\n    \"The initial stage of new product development projects is filled with uncertainties and complexities that can negatively impact their success.\"\n  ],\n  \"objectives\": [\n    \"Develop a decision-making approach to help R&D managers select the best new product development project.\",\n    \"Assist decision-makers in making informed project screening decisions that minimize bias and maximize expected profit.\"\n  ],\n  \"methods\": [\n    \"Propose a project selection model that combines optimal aggregation method and fuzzy weighted average.\",\n    \"Generate a project fuzzy synthetic rating index that considers both risk and performance to support project prioritization.\"\n  ],\n  \"results\": [\n    \"Efficiently assist R&D managers in dealing with uncertainties and complexities in new product development project screening decisions.\",\n    \"Reduce decision bias and increase the likelihood of selecting a profitable new product development project.\"\n  ],\n  \"research_subject\": \"Fuzzy decision-making approach for new product development project selection\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The success of new product development projects is crucial for enterprises to survive in competitive markets, but the selection process is often fraught with uncertainties and complexities.\",\n    \"Previous research has focused on generating good product ideas, but there is a need for effective methods to select the best idea for development into a profitable and competitive product.\"\n  ],\n  \"objectives\": [\n    \"Propose a project selection model that combines optimal aggregation method and effective fuzzy weighted average to achieve the best consistency of fuzzy judgments.\",\n    \"Generate a single synergistic index project fuzzy synthetic rating that considers both risk and performance to aid in project selection.\",\n    \"Assist R&D managers in making effective new product development project decisions that reduce bias and increase the likelihood of generating expected profit.\"\n  ],\n  \"methods\": [\n    \"Develop a project selection model that combines optimal aggregation method and effective fuzzy weighted average.\",\n    \"Generate a project fuzzy synthetic rating index that considers both risk and performance.\",\n    \"Use the project fuzzy synthetic rating index to make Go-Kill decisions and prioritize remaining projects.\"\n  ],\n  \"results\": [\n    \"Provide a tool to assist R&D managers in dealing with uncertainties and complexities in new product development project selection.\",\n    \"Reduce decision bias and increase the likelihood of selecting a project with the highest possibility of generating expected profit.\"\n  ],\n  \"research_subject\": \"Fuzzy decision-making approach for new product development project selection\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The success of new product development projects is crucial for enterprise survival under stiff competition, making project selection a vital concern for R&D managers.\",\n    \"The initial stages of product development are filled with uncertainties and complexities that significantly deteriorate the success of product development and launch.\",\n    \"Existing research focuses on identifying good product ideas but lacks methods for selecting the best idea to form a new product development project after the fuzzy front end.\"\n  ],\n  \"objectives\": [\n    \"Develop a potential project selection model that helps decision makers achieve the best consistency of fuzzy judgments while considering both risk and performance.\",\n    \"Create a systematic approach to assist R&D managers in making Go-Kill decisions and prioritizing new product development projects under uncertainty.\"\n  ],\n  \"methods\": [\n    \"Combine optimal aggregation method with effective fuzzy weighted average to handle fuzzy judgments and uncertainties.\",\n    \"Generate a single synergistic index project fuzzy synthetic rating that integrates both risk and performance factors.\",\n    \"Apply the fuzzy synthetic rating index to support Go-Kill decisions and prioritize remaining projects.\"\n  ],\n  \"results\": [\n    \"The model efficiently assists R&D managers in dealing with uncertainties and complexities in new product development project screening decisions.\",\n    \"The approach reduces decision bias and identifies new product development projects with the highest possibility of generating expected profit.\"\n  ],\n  \"research_subject\": \"Fuzzy decision-making model for new product development project selection\"\n}\n```"
+}

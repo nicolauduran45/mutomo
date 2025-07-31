@@ -1,0 +1,74 @@
+{
+  "index": 450,
+  "title": "“Ecological, sustainable and economical non woven acoustic insulating felts for automotive industry",
+  "abstract": "Non woven acoustic insulators are key elements of vehicles to enhance comfort and to avoid noises inside the vehicle. Despite automotive industry efforts towards new acoustic insulating felts with improved properties, some issues need to be acomplished: manufactures must make dismantling and recycling of end-of-life vehicles more environmentally friendly quantifying to a minimum of 85% by mass the reuse, recycling and recovery of the on end-of-life vehicles (ELVs) and their components (Directive 2000/53/EC, ELV) and this should be done at the earliest stages of development of vehicles (Directive 2005/64/EC). On the other hand, current vehicle felts are not only manufactured with petrochemical-derived materials such as polypropylene (PP) and polyester (PET) polymers which generate greenhouse gas emission effect but also highly cost, selling price of current acoustic insulators exceed €2.6/m2 on average for an insulator of 10 mm. To overcome these needs Arifieltros have developed GEOPET products which are more environmentally friendly and sustainable non woven acoustic insulators, since they are made of 80 % recycled natural fibers and are 100% recyclable, generating less greenhouse gas emission and complying with European Directives on ELVs. Moreover, the use of more economical raw materials, 0.75 €/Kg in comparison with 2€/Kg of petrochemicals derivatives, reduces product cost up to €1.3/m2 (10 mm thickness), in comparison with current acoustic insulators €2.6/m2. When compared to Sawasorb® (Sandler GA acoustic insulator), similar absorption performances were obtained. GEOPET is currently a prototype within a range of insulators with a TRL6, having successfully been tested in alpha cabin and fitted in a vehicle tested in a petit cabin. It is envisioned that we will penetrate in the automotive market with 3 prototypes GEOPET STANDARD, GEOPET PREMIUM and GEOPET XTR which have been designed to satisfying all types of vehicle passengers and segments.",
+  "llama_json": {
+    "motivations": [
+      "Current non-woven acoustic insulators in the automotive industry have environmental drawbacks, including difficulty in dismantling and recycling, and contributing to greenhouse gas emissions.",
+      "Existing acoustic insulators are costly, with a high selling price, and do not meet the European Directives on end-of-life vehicles.",
+      "There is a need for more sustainable, economical, and environmentally friendly acoustic insulating felts in the automotive industry."
+    ],
+    "objectives": [
+      "Develop non-woven acoustic insulators that are environmentally friendly, sustainable, and economical.",
+      "Create products that meet the European Directives on end-of-life vehicles, with a high percentage of reuse, recycling, and recovery.",
+      "Reduce the cost of acoustic insulators while maintaining or improving their performance."
+    ],
+    "methods": [
+      "Use recycled natural fibers to manufacture non-woven acoustic insulators.",
+      "Develop products with a lower cost raw material, reducing the overall cost of the insulators.",
+      "Design and test prototypes to meet the needs of different vehicle passengers and segments."
+    ],
+    "results": [
+      "GEOPET products have been developed, which are made of 80% recycled natural fibers, 100% recyclable, and have lower greenhouse gas emissions.",
+      "The cost of the product has been reduced to €1.3/m2, compared to the current €2.6/m2.",
+      "The prototypes have shown similar absorption performances to existing products and have been successfully tested in alpha and petit cabins."
+    ],
+    "research_subject": "Development of sustainable, economical, and environmentally friendly non-woven acoustic insulating felts for the automotive industry"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current non-woven acoustic insulators for vehicles are primarily made from petrochemical-derived materials, which contribute to greenhouse gas emissions and are costly.",
+      "There is a need to make the dismantling and recycling of end-of-life vehicles more environmentally friendly, in line with European Directives."
+    ],
+    "objectives": [
+      "Develop more sustainable and economical non-woven acoustic insulators using 80% recycled natural fibers.",
+      "Ensure the new insulators are 100% recyclable and generate less greenhouse gas emissions.",
+      "Reduce the cost of acoustic insulators by using more economical raw materials."
+    ],
+    "methods": [
+      "Develop GEOPET products, a range of non-woven acoustic insulators made from recycled natural fibers.",
+      "Test the prototypes in alpha cabin and fit them in a vehicle for further testing.",
+      "Design three prototypes - GEOPET STANDARD, GEOPET PREMIUM, and GEOPET XTR - to cater to different vehicle passengers and segments."
+    ],
+    "results": [
+      "The GEOPET products are more environmentally friendly and cost-effective than current acoustic insulators.",
+      "The GEOPET products have similar absorption performances to existing products like Sawasorb®.",
+      "The GEOPET products are expected to penetrate the automotive market."
+    ],
+    "research_subject": "Development of sustainable and economical non-woven acoustic insulators for the automotive industry"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current automotive acoustic insulating felts rely on petrochemical-derived materials that generate greenhouse gas emissions and have high costs exceeding €2.6/m2.",
+      "The automotive industry must comply with EU directives requiring 85% recyclability of end-of-life vehicles and their components while improving environmental sustainability."
+    ],
+    "objectives": [
+      "Develop ecological and sustainable non-woven acoustic insulating felts using recycled natural fibers that are fully recyclable and comply with European environmental directives.",
+      "Reduce the cost of acoustic insulators by utilizing economical raw materials while maintaining comparable acoustic performance to existing products."
+    ],
+    "methods": [
+      "Create GEOPET products composed of 80% recycled natural fibers that are 100% recyclable.",
+      "Test prototypes in alpha cabin environments and vehicle petit cabin settings to validate acoustic performance.",
+      "Develop three product variants (GEOPET STANDARD, PREMIUM, and XTR) to address different vehicle segments and customer needs."
+    ],
+    "results": [
+      "Achieved cost reduction to €1.3/m2 compared to current insulators at €2.6/m2 while maintaining similar absorption performance to existing products.",
+      "Successfully developed prototypes at TRL6 that reduce greenhouse gas emissions and comply with EU directives on end-of-life vehicles.",
+      "Created a product line ready for market penetration across various automotive segments."
+    ],
+    "research_subject": "Development of ecological and economical non-woven acoustic insulating felts for automotive applications"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current non-woven acoustic insulators in the automotive industry have environmental drawbacks, including difficulty in dismantling and recycling, and contributing to greenhouse gas emissions.\",\n    \"Existing acoustic insulators are costly, with a high selling price, and do not meet the European Directives on end-of-life vehicles.\",\n    \"There is a need for more sustainable, economical, and environmentally friendly acoustic insulating felts in the automotive industry.\"\n  ],\n  \"objectives\": [\n    \"Develop non-woven acoustic insulators that are environmentally friendly, sustainable, and economical.\",\n    \"Create products that meet the European Directives on end-of-life vehicles, with a high percentage of reuse, recycling, and recovery.\",\n    \"Reduce the cost of acoustic insulators while maintaining or improving their performance.\"\n  ],\n  \"methods\": [\n    \"Use recycled natural fibers to manufacture non-woven acoustic insulators.\",\n    \"Develop products with a lower cost raw material, reducing the overall cost of the insulators.\",\n    \"Design and test prototypes to meet the needs of different vehicle passengers and segments.\"\n  ],\n  \"results\": [\n    \"GEOPET products have been developed, which are made of 80% recycled natural fibers, 100% recyclable, and have lower greenhouse gas emissions.\",\n    \"The cost of the product has been reduced to €1.3/m2, compared to the current €2.6/m2.\",\n    \"The prototypes have shown similar absorption performances to existing products and have been successfully tested in alpha and petit cabins.\"\n  ],\n  \"research_subject\": \"Development of sustainable, economical, and environmentally friendly non-woven acoustic insulating felts for the automotive industry\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current non-woven acoustic insulators for vehicles are primarily made from petrochemical-derived materials, which contribute to greenhouse gas emissions and are costly.\",\n    \"There is a need to make the dismantling and recycling of end-of-life vehicles more environmentally friendly, in line with European Directives.\"\n  ],\n  \"objectives\": [\n    \"Develop more sustainable and economical non-woven acoustic insulators using 80% recycled natural fibers.\",\n    \"Ensure the new insulators are 100% recyclable and generate less greenhouse gas emissions.\",\n    \"Reduce the cost of acoustic insulators by using more economical raw materials.\"\n  ],\n  \"methods\": [\n    \"Develop GEOPET products, a range of non-woven acoustic insulators made from recycled natural fibers.\",\n    \"Test the prototypes in alpha cabin and fit them in a vehicle for further testing.\",\n    \"Design three prototypes - GEOPET STANDARD, GEOPET PREMIUM, and GEOPET XTR - to cater to different vehicle passengers and segments.\"\n  ],\n  \"results\": [\n    \"The GEOPET products are more environmentally friendly and cost-effective than current acoustic insulators.\",\n    \"The GEOPET products have similar absorption performances to existing products like Sawasorb®.\",\n    \"The GEOPET products are expected to penetrate the automotive market.\"\n  ],\n  \"research_subject\": \"Development of sustainable and economical non-woven acoustic insulators for the automotive industry\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current automotive acoustic insulating felts rely on petrochemical-derived materials that generate greenhouse gas emissions and have high costs exceeding €2.6/m2.\",\n    \"The automotive industry must comply with EU directives requiring 85% recyclability of end-of-life vehicles and their components while improving environmental sustainability.\"\n  ],\n  \"objectives\": [\n    \"Develop ecological and sustainable non-woven acoustic insulating felts using recycled natural fibers that are fully recyclable and comply with European environmental directives.\",\n    \"Reduce the cost of acoustic insulators by utilizing economical raw materials while maintaining comparable acoustic performance to existing products.\"\n  ],\n  \"methods\": [\n    \"Create GEOPET products composed of 80% recycled natural fibers that are 100% recyclable.\",\n    \"Test prototypes in alpha cabin environments and vehicle petit cabin settings to validate acoustic performance.\",\n    \"Develop three product variants (GEOPET STANDARD, PREMIUM, and XTR) to address different vehicle segments and customer needs.\"\n  ],\n  \"results\": [\n    \"Achieved cost reduction to €1.3/m2 compared to current insulators at €2.6/m2 while maintaining similar absorption performance to existing products.\",\n    \"Successfully developed prototypes at TRL6 that reduce greenhouse gas emissions and comply with EU directives on end-of-life vehicles.\",\n    \"Created a product line ready for market penetration across various automotive segments.\"\n  ],\n  \"research_subject\": \"Development of ecological and economical non-woven acoustic insulating felts for automotive applications\"\n}\n```"
+}

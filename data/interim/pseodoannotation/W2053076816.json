@@ -1,0 +1,66 @@
+{
+  "index": 58,
+  "title": "Factors Associated With Visible Anogenital Warts Among HIV-Uninfected Peruvian Men Who Have Sex With Men and Transwomen",
+  "abstract": "Visible, anogenital warts may be associated with risk factors for HIV infection. This cross-sectional study examined the factors associated with visible anogenital warts among HIV-uninfected Peruvian men who have sex with men (MSM) and transwomen.Six hundred HIV-uninfected MSM and transwomen were recruited from a community-based setting in metropolitan Lima, Peru, through outreach activities. Participants were tested for syphilis, completed a behavioral questionnaire, and were examined for visible anogenital warts. Logistic regression was used to assess the independent association between sample characteristics, HIV-related risk factors, and visible anogenital warts.A tertiary education versus a primary/secondary (adjusted odds ratio [AOR], 1.79; 95% confidence interval [CI], 1.07-2.99), a first experience of anal intercourse at age 20 years or older versus younger ages (AOR, 2.80; 95% CI, 1.45-5.38), and self-reporting of current sexually transmitted infection symptoms (AOR, 2.38; 95% CI, 1.61-3.52) were significant correlates of visible anogenital warts, whereas syphilis infection, transactional sex, receptive anal intercourse, and self-identifying as a transwoman were not.Although not associated with key risk factors for HIV infection in Peruvian MSM and transwomen, the presence of visible anogenital warts should prompt clinicians to consider the possibility of unreported same-sex sexual behaviors and other risk sexually transmitted infection/HIV risk factors.",
+  "llama_json": {
+    "motivations": [
+      "Visible anogenital warts may be associated with risk factors for HIV infection among men who have sex with men (MSM) and transwomen.",
+      "There is a need to understand the factors associated with visible anogenital warts in HIV-uninfected Peruvian MSM and transwomen to inform clinical practice and HIV prevention strategies."
+    ],
+    "objectives": [
+      "Examine the factors associated with visible anogenital warts among HIV-uninfected Peruvian MSM and transwomen.",
+      "Assess the independent association between sample characteristics, HIV-related risk factors, and visible anogenital warts in this population."
+    ],
+    "methods": [
+      "Conduct a cross-sectional study recruiting HIV-uninfected MSM and transwomen from a community-based setting in metropolitan Lima, Peru.",
+      "Use logistic regression to analyze the association between sample characteristics, HIV-related risk factors, and visible anogenital warts.",
+      "Collect data through behavioral questionnaires, syphilis testing, and physical examinations for visible anogenital warts."
+    ],
+    "results": [
+      "Identify significant correlates of visible anogenital warts, including tertiary education, age of first anal intercourse, and self-reported current sexually transmitted infection symptoms.",
+      "Inform clinicians about the importance of considering unreported same-sex sexual behaviors and other risk factors for sexually transmitted infections/HIV in the presence of visible anogenital warts."
+    ],
+    "research_subject": "Factors associated with visible anogenital warts among HIV-uninfected Peruvian men who have sex with men and transwomen"
+  },
+  "openai_json": {
+    "motivations": [
+      "Visible anogenital warts may be associated with risk factors for HIV infection, but the specific factors among HIV-uninfected Peruvian men who have sex with men (MSM) and transwomen are not well understood."
+    ],
+    "objectives": [
+      "Examine the factors associated with visible anogenital warts among HIV-uninfected Peruvian MSM and transwomen."
+    ],
+    "methods": [
+      "Conduct a cross-sectional study involving HIV-uninfected MSM and transwomen recruited from a community-based setting in metropolitan Lima, Peru.",
+      "Use logistic regression to assess the independent association between sample characteristics, HIV-related risk factors, and visible anogenital warts."
+    ],
+    "results": [
+      "Tertiary education, first experience of anal intercourse at age 20 years or older, and self-reporting of current sexually transmitted infection symptoms were significant correlates of visible anogenital warts.",
+      "Syphilis infection, transactional sex, receptive anal intercourse, and self-identifying as a transwoman were not associated with visible anogenital warts."
+    ],
+    "research_subject": "Factors associated with visible anogenital warts among HIV-uninfected Peruvian MSM and transwomen"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Visible anogenital warts may be associated with HIV infection risk factors, but this relationship is not well understood in specific populations.",
+      "There is limited data on the prevalence and correlates of visible anogenital warts among HIV-uninfected men who have sex with men and transwomen in Peru."
+    ],
+    "objectives": [
+      "Examine the factors associated with visible anogenital warts among HIV-uninfected Peruvian men who have sex with men and transwomen.",
+      "Identify demographic, behavioral, and clinical correlates of visible anogenital warts in this population."
+    ],
+    "methods": [
+      "Conducted a cross-sectional study recruiting participants from community-based settings in metropolitan Lima through outreach activities.",
+      "Collected data through behavioral questionnaires, syphilis testing, and clinical examinations for visible anogenital warts.",
+      "Used logistic regression analysis to assess independent associations between sample characteristics, HIV-related risk factors, and visible anogenital warts."
+    ],
+    "results": [
+      "Tertiary education, first anal intercourse at age 20 or older, and current STI symptoms were significantly associated with visible anogenital warts.",
+      "Key HIV risk factors such as syphilis infection, transactional sex, receptive anal intercourse, and transgender identity were not associated with visible anogenital warts.",
+      "The presence of visible anogenital warts should prompt clinicians to consider unreported same-sex behaviors and other STI/HIV risk factors."
+    ],
+    "research_subject": "Visible anogenital warts among HIV-uninfected Peruvian men who have sex with men and transwomen"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Visible anogenital warts may be associated with risk factors for HIV infection among men who have sex with men (MSM) and transwomen.\",\n    \"There is a need to understand the factors associated with visible anogenital warts in HIV-uninfected Peruvian MSM and transwomen to inform clinical practice and HIV prevention strategies.\"\n  ],\n  \"objectives\": [\n    \"Examine the factors associated with visible anogenital warts among HIV-uninfected Peruvian MSM and transwomen.\",\n    \"Assess the independent association between sample characteristics, HIV-related risk factors, and visible anogenital warts in this population.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional study recruiting HIV-uninfected MSM and transwomen from a community-based setting in metropolitan Lima, Peru.\",\n    \"Use logistic regression to analyze the association between sample characteristics, HIV-related risk factors, and visible anogenital warts.\",\n    \"Collect data through behavioral questionnaires, syphilis testing, and physical examinations for visible anogenital warts.\"\n  ],\n  \"results\": [\n    \"Identify significant correlates of visible anogenital warts, including tertiary education, age of first anal intercourse, and self-reported current sexually transmitted infection symptoms.\",\n    \"Inform clinicians about the importance of considering unreported same-sex sexual behaviors and other risk factors for sexually transmitted infections/HIV in the presence of visible anogenital warts.\"\n  ],\n  \"research_subject\": \"Factors associated with visible anogenital warts among HIV-uninfected Peruvian men who have sex with men and transwomen\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Visible anogenital warts may be associated with risk factors for HIV infection, but the specific factors among HIV-uninfected Peruvian men who have sex with men (MSM) and transwomen are not well understood.\"\n  ],\n  \"objectives\": [\n    \"Examine the factors associated with visible anogenital warts among HIV-uninfected Peruvian MSM and transwomen.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional study involving HIV-uninfected MSM and transwomen recruited from a community-based setting in metropolitan Lima, Peru.\",\n    \"Use logistic regression to assess the independent association between sample characteristics, HIV-related risk factors, and visible anogenital warts.\"\n  ],\n  \"results\": [\n    \"Tertiary education, first experience of anal intercourse at age 20 years or older, and self-reporting of current sexually transmitted infection symptoms were significant correlates of visible anogenital warts.\",\n    \"Syphilis infection, transactional sex, receptive anal intercourse, and self-identifying as a transwoman were not associated with visible anogenital warts.\"\n  ],\n  \"research_subject\": \"Factors associated with visible anogenital warts among HIV-uninfected Peruvian MSM and transwomen\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Visible anogenital warts may be associated with HIV infection risk factors, but this relationship is not well understood in specific populations.\",\n    \"There is limited data on the prevalence and correlates of visible anogenital warts among HIV-uninfected men who have sex with men and transwomen in Peru.\"\n  ],\n  \"objectives\": [\n    \"Examine the factors associated with visible anogenital warts among HIV-uninfected Peruvian men who have sex with men and transwomen.\",\n    \"Identify demographic, behavioral, and clinical correlates of visible anogenital warts in this population.\"\n  ],\n  \"methods\": [\n    \"Conducted a cross-sectional study recruiting participants from community-based settings in metropolitan Lima through outreach activities.\",\n    \"Collected data through behavioral questionnaires, syphilis testing, and clinical examinations for visible anogenital warts.\",\n    \"Used logistic regression analysis to assess independent associations between sample characteristics, HIV-related risk factors, and visible anogenital warts.\"\n  ],\n  \"results\": [\n    \"Tertiary education, first anal intercourse at age 20 or older, and current STI symptoms were significantly associated with visible anogenital warts.\",\n    \"Key HIV risk factors such as syphilis infection, transactional sex, receptive anal intercourse, and transgender identity were not associated with visible anogenital warts.\",\n    \"The presence of visible anogenital warts should prompt clinicians to consider unreported same-sex behaviors and other STI/HIV risk factors.\"\n  ],\n  \"research_subject\": \"Visible anogenital warts among HIV-uninfected Peruvian men who have sex with men and transwomen\"\n}\n```"
+}

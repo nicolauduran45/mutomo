@@ -1,0 +1,72 @@
+{
+  "index": 55,
+  "title": "On the taxonomy and osteology of the Early Eocene North American Geranoididae (Aves, Gruoidea)",
+  "abstract": "Whereas our knowledge of small arboreal Paleogene birds has greatly increased in the past years, that of the larger birds coexisting with them is far less detailed. Particularly poorly known and, hence, widely ignored are the North American Geranoididae, of which six species were described from the Early Eocene Willwood Formation. The published material of all of these consists only of incomplete leg elements, and previous descriptions and comparisons mainly focused on selected bones. Here, a revision of some geranoidids from the Willwood Formation is undertaken, and it is concluded that the taxon Geranoides Wetmore, 1933, the type genus of the Geranoididae, is a junior synonym of Palaeophasianus Shufeldt, 1913. Eogeranoides campivagus Cracraft, 1969 is poorly differentiated from Paragrus prentici (Loomis, 1906), and a synonymy of both species also seems likely. Complete leg bones of a large Eogeranoides/Paragrus-like species are reported, which constitute the most substantial record of a geranoidid from the Willwood Formation. It is detailed that geranoidids are likely to be stem group representatives of the Gruoidea, the clade including trumpeters, cranes, and allies, and the potential occurrence of geranoidids in the Eocene of Europe is discussed.",
+  "llama_json": {
+    "motivations": [
+      "There is a lack of detailed knowledge about larger birds, such as the North American Geranoididae, that coexisted with smaller arboreal birds during the Paleogene period.",
+      "Previous descriptions and comparisons of Geranoididae species were limited and mainly focused on selected bones, leading to poor understanding and classification."
+    ],
+    "objectives": [
+      "Revise the taxonomy of Geranoididae species from the Early Eocene Willwood Formation.",
+      "Provide a detailed osteological analysis of Geranoididae fossils to clarify their classification and relationships."
+    ],
+    "methods": [
+      "Re-examine and compare the fossil material of Geranoididae species from the Willwood Formation.",
+      "Conduct a detailed analysis of leg bones to clarify the taxonomy and classification of Geranoididae species."
+    ],
+    "results": [
+      "Clarify the taxonomy and classification of Geranoididae species, including the synonymy of Geranoides and Palaeophasianus.",
+      "Provide new insights into the relationships between Geranoididae and other bird groups, such as the Gruoidea.",
+      "Report the discovery of complete leg bones of a large Eogeranoides/Paragrus-like species, expanding the fossil record of Geranoididae."
+    ],
+    "research_subject": "Taxonomy and osteology of Early Eocene North American Geranoididae (Aves, Gruoidea)"
+  },
+  "openai_json": {
+    "motivations": [
+      "The knowledge of larger Paleogene birds, particularly the North American Geranoididae, is less detailed compared to small arboreal Paleogene birds.",
+      "The existing material of Geranoididae consists only of incomplete leg elements, and previous descriptions and comparisons mainly focused on selected bones."
+    ],
+    "objectives": [
+      "Undertake a revision of some geranoidids from the Early Eocene Willwood Formation.",
+      "Reevaluate the taxonomy of the Geranoididae, particularly the status of Geranoides Wetmore, 1933 and Eogeranoides campivagus Cracraft, 1969.",
+      "Discuss the potential occurrence of geranoidids in the Eocene of Europe."
+    ],
+    "methods": [
+      "Conduct a detailed revision of geranoidids from the Willwood Formation.",
+      "Analyze complete leg bones of a large Eogeranoides/Paragrus-like species from the Willwood Formation.",
+      "Evaluate the taxonomic status of Geranoididae within the Gruoidea clade."
+    ],
+    "results": [
+      "Geranoides Wetmore, 1933 is concluded to be a junior synonym of Palaeophasianus Shufeldt, 1913.",
+      "Eogeranoides campivagus Cracraft, 1969 is poorly differentiated from Paragrus prentici (Loomis, 1906), suggesting a likely synonymy.",
+      "Geranoidids are likely to be stem group representatives of the Gruoidea, the clade including trumpeters, cranes, and allies."
+    ],
+    "research_subject": "Taxonomy and osteology of the Early Eocene North American Geranoididae"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Knowledge of larger Paleogene birds is significantly less detailed compared to smaller arboreal birds from the same period.",
+      "The North American Geranoididae from the Early Eocene are poorly known and widely ignored, with descriptions based only on incomplete leg elements."
+    ],
+    "objectives": [
+      "Revise and clarify the taxonomy of geranoidids from the Early Eocene Willwood Formation.",
+      "Provide detailed osteological descriptions and comparisons of geranoidid specimens.",
+      "Determine the phylogenetic position of geranoidids within avian evolution."
+    ],
+    "methods": [
+      "Taxonomic revision and comparative analysis of geranoidid specimens from the Willwood Formation.",
+      "Detailed osteological examination and description of complete leg bones from a large Eogeranoides/Paragrus-like species.",
+      "Phylogenetic analysis to assess the relationship of geranoidids to modern bird groups."
+    ],
+    "results": [
+      "Geranoides Wetmore, 1933 is identified as a junior synonym of Palaeophasianus Shufeldt, 1913, and Eogeranoides campivagus likely synonymous with Paragrus prentici.",
+      "The most substantial geranoidid fossil record from the Willwood Formation is documented through complete leg bones.",
+      "Geranoidids are established as likely stem group representatives of Gruoidea, with potential occurrence in Eocene Europe."
+    ],
+    "research_subject": "Taxonomy and osteology of Early Eocene North American Geranoididae"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of detailed knowledge about larger birds, such as the North American Geranoididae, that coexisted with smaller arboreal birds during the Paleogene period.\",\n    \"Previous descriptions and comparisons of Geranoididae species were limited and mainly focused on selected bones, leading to poor understanding and classification.\"\n  ],\n  \"objectives\": [\n    \"Revise the taxonomy of Geranoididae species from the Early Eocene Willwood Formation.\",\n    \"Provide a detailed osteological analysis of Geranoididae fossils to clarify their classification and relationships.\"\n  ],\n  \"methods\": [\n    \"Re-examine and compare the fossil material of Geranoididae species from the Willwood Formation.\",\n    \"Conduct a detailed analysis of leg bones to clarify the taxonomy and classification of Geranoididae species.\"\n  ],\n  \"results\": [\n    \"Clarify the taxonomy and classification of Geranoididae species, including the synonymy of Geranoides and Palaeophasianus.\",\n    \"Provide new insights into the relationships between Geranoididae and other bird groups, such as the Gruoidea.\",\n    \"Report the discovery of complete leg bones of a large Eogeranoides/Paragrus-like species, expanding the fossil record of Geranoididae.\"\n  ],\n  \"research_subject\": \"Taxonomy and osteology of Early Eocene North American Geranoididae (Aves, Gruoidea)\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The knowledge of larger Paleogene birds, particularly the North American Geranoididae, is less detailed compared to small arboreal Paleogene birds.\",\n    \"The existing material of Geranoididae consists only of incomplete leg elements, and previous descriptions and comparisons mainly focused on selected bones.\"\n  ],\n  \"objectives\": [\n    \"Undertake a revision of some geranoidids from the Early Eocene Willwood Formation.\",\n    \"Reevaluate the taxonomy of the Geranoididae, particularly the status of Geranoides Wetmore, 1933 and Eogeranoides campivagus Cracraft, 1969.\",\n    \"Discuss the potential occurrence of geranoidids in the Eocene of Europe.\"\n  ],\n  \"methods\": [\n    \"Conduct a detailed revision of geranoidids from the Willwood Formation.\",\n    \"Analyze complete leg bones of a large Eogeranoides/Paragrus-like species from the Willwood Formation.\",\n    \"Evaluate the taxonomic status of Geranoididae within the Gruoidea clade.\"\n  ],\n  \"results\": [\n    \"Geranoides Wetmore, 1933 is concluded to be a junior synonym of Palaeophasianus Shufeldt, 1913.\",\n    \"Eogeranoides campivagus Cracraft, 1969 is poorly differentiated from Paragrus prentici (Loomis, 1906), suggesting a likely synonymy.\",\n    \"Geranoidids are likely to be stem group representatives of the Gruoidea, the clade including trumpeters, cranes, and allies.\"\n  ],\n  \"research_subject\": \"Taxonomy and osteology of the Early Eocene North American Geranoididae\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Knowledge of larger Paleogene birds is significantly less detailed compared to smaller arboreal birds from the same period.\",\n    \"The North American Geranoididae from the Early Eocene are poorly known and widely ignored, with descriptions based only on incomplete leg elements.\"\n  ],\n  \"objectives\": [\n    \"Revise and clarify the taxonomy of geranoidids from the Early Eocene Willwood Formation.\",\n    \"Provide detailed osteological descriptions and comparisons of geranoidid specimens.\",\n    \"Determine the phylogenetic position of geranoidids within avian evolution.\"\n  ],\n  \"methods\": [\n    \"Taxonomic revision and comparative analysis of geranoidid specimens from the Willwood Formation.\",\n    \"Detailed osteological examination and description of complete leg bones from a large Eogeranoides/Paragrus-like species.\",\n    \"Phylogenetic analysis to assess the relationship of geranoidids to modern bird groups.\"\n  ],\n  \"results\": [\n    \"Geranoides Wetmore, 1933 is identified as a junior synonym of Palaeophasianus Shufeldt, 1913, and Eogeranoides campivagus likely synonymous with Paragrus prentici.\",\n    \"The most substantial geranoidid fossil record from the Willwood Formation is documented through complete leg bones.\",\n    \"Geranoidids are established as likely stem group representatives of Gruoidea, with potential occurrence in Eocene Europe.\"\n  ],\n  \"research_subject\": \"Taxonomy and osteology of Early Eocene North American Geranoididae\"\n}\n```"
+}

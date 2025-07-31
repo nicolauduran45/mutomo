@@ -1,0 +1,70 @@
+{
+  "index": 126,
+  "title": "Genotoxic, phytotoxic and protective effects of Portuguese propolis",
+  "abstract": "Propolis is a mixture produced by bees (Apis mellifera L.) from various plant sources with a diverse chemical composition including many bioactive phenolic compounds and terpenes characteristic of plant secondary metabolism. The bees use propolis mainly as a sealant for cracks in the beehive, but it has been used in human folk medicine for several millennia. A renewed interest in its study emerged in recent years due to the increasing popularity of natural products in foods, beverages and medicines. Propolis extracts have been associated with varied biological activities, like antioxidant, antimicrobial and anti-inflammatory among others, and indicated for the treatment of several pathologies such as cancer or neurodegenerative diseases. Portuguese propolis, usually regarded as a by-product without any value in apiaries, remains insufficiently studied, hence the need for a better characterization of its properties. In this study Portuguese propolis samples from different apiaries and different collection dates were selected and ethanolic and n-hexane extracts were prepared and tested using a yeast (Saccharomyces cerevisiae) and in vitro flax (Linum usitatissimum) cultures as models. Viability assays with yeast cells and plant growth analysis were performed to assess extracts toxicity. The yeast model was used to investigate mechanisms of cytotoxicity by the mitochondrial membrane potential-targeting fluorochrome rhodamine 123 approach and to evaluate genotoxicity by the comet assay. The in vitro plant model was used to evaluate extracts effects at the multicellular developmental level as well as in the photosynthetic function by pulse amplitude modulated fluorometry. Both photoinhibitiory and photoprotective potential against oxidative damage of the extracts were investigated using plants grown under high light intensities. Extracts antioxidant properties were also studied in yeast by flow cytometry using the redox-sensitive fluorochrome dichlorofluorescein diacetate. Our results suggest that ethanolic extracts from Pereiro and Povoa do Varzim apiaries are among the most toxic for both yeast and plants. They decrease yeast viability and mitochondrial membrane potential and dramatically affect early plant development inhibiting particularly root growth, photosynthetic efficiency and increasing nonphotochemical quenching in a dose-dependent manner. Significant genotoxicity was found only in ethanolic extracts from Pereiro collected in 2010, also one of the most toxic in both models tested. However, some ethanolic extracts were also able to revert oxidative-induced damage. They reduced intracellular oxidation induced by hydrogen peroxide in yeast, and greatly recovered the total chlorophyll content reduced by high-light-induced photooxidative stress. Here, also n-hexane extracts were effective. Globally our results are in line with the antioxidant properties revealed by propolis worldwide but also underline the strong toxicity in different cellular models suggesting that eukaryotic universal…",
+  "llama_json": {
+    "motivations": [
+      "Portuguese propolis, a potentially valuable natural product, remains insufficiently studied, and its properties need to be better characterized.",
+      "There is a growing interest in natural products with bioactive compounds, and propolis has been associated with various biological activities, including antioxidant, antimicrobial, and anti-inflammatory effects."
+    ],
+    "objectives": [
+      "Investigate the genotoxic, phytotoxic, and protective effects of Portuguese propolis using yeast and in vitro plant cultures as models.",
+      "Characterize the chemical composition and biological activities of Portuguese propolis extracts, including their antioxidant and cytotoxic properties."
+    ],
+    "methods": [
+      "Prepare and test ethanolic and n-hexane extracts from Portuguese propolis samples using yeast and in vitro flax cultures.",
+      "Perform viability assays, plant growth analysis, and evaluate genotoxicity, photoinhibitory, and photoprotective potential using various techniques, including flow cytometry and pulse amplitude modulated fluorometry."
+    ],
+    "results": [
+      "Ethanolic extracts from certain apiaries showed significant toxicity in both yeast and plant models, affecting viability, mitochondrial membrane potential, and plant development.",
+      "Some extracts demonstrated antioxidant properties, reverting oxidative-induced damage and recovering chlorophyll content reduced by high-light-induced photooxidative stress."
+    ],
+    "research_subject": "Biological activities and toxic effects of Portuguese propolis"
+  },
+  "openai_json": {
+    "motivations": [
+      "Portuguese propolis, a mixture produced by bees with diverse bioactive compounds, is often overlooked and under-studied despite its potential therapeutic properties.",
+      "There is a growing interest in natural products for their potential biological activities, including antioxidant, antimicrobial, and anti-inflammatory properties."
+    ],
+    "objectives": [
+      "Characterize the properties of Portuguese propolis samples from different apiaries and collection dates.",
+      "Investigate the genotoxic, phytotoxic, and protective effects of propolis extracts using yeast and in vitro flax cultures as models."
+    ],
+    "methods": [
+      "Prepare ethanolic and n-hexane extracts from Portuguese propolis samples and test their effects on yeast and in vitro flax cultures.",
+      "Use viability assays, mitochondrial membrane potential-targeting fluorochrome approach, and comet assay to assess cytotoxicity and genotoxicity in yeast.",
+      "Evaluate the effects of propolis extracts on plant growth, photosynthetic function, and oxidative damage using pulse amplitude modulated fluorometry and high light intensity conditions."
+    ],
+    "results": [
+      "Some propolis extracts were found to be toxic to both yeast and plants, affecting yeast viability, mitochondrial membrane potential, and early plant development.",
+      "Significant genotoxicity was found in some ethanolic extracts, but some extracts also showed potential to revert oxidative-induced damage.",
+      "Propolis extracts demonstrated both photoinhibitory and photoprotective potential against oxidative damage in plants."
+    ],
+    "research_subject": "Genotoxic, phytotoxic, and protective effects of Portuguese propolis"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Portuguese propolis remains insufficiently studied despite its potential value, leading to its treatment as a worthless by-product in apiaries.",
+      "There is renewed interest in propolis due to the increasing popularity of natural products in foods, beverages, and medicines, necessitating better characterization of its properties."
+    ],
+    "objectives": [
+      "Characterize the biological properties of Portuguese propolis from different apiaries and collection dates.",
+      "Evaluate the genotoxic, phytotoxic, and protective effects of propolis extracts using yeast and plant models.",
+      "Investigate the antioxidant properties and potential toxicity mechanisms of propolis extracts."
+    ],
+    "methods": [
+      "Prepare ethanolic and n-hexane extracts from Portuguese propolis samples and test them using Saccharomyces cerevisiae and Linum usitatissimum cultures.",
+      "Assess cytotoxicity through viability assays, mitochondrial membrane potential analysis, and comet assay for genotoxicity evaluation.",
+      "Evaluate plant development, photosynthetic function, and antioxidant properties using pulse amplitude modulated fluorometry and flow cytometry."
+    ],
+    "results": [
+      "Ethanolic extracts from specific apiaries showed high toxicity, decreasing yeast viability and inhibiting plant development, particularly root growth and photosynthetic efficiency.",
+      "Significant genotoxicity was found in certain ethanolic extracts, while some extracts demonstrated protective effects by reducing oxidative damage in both yeast and plants.",
+      "Results confirm antioxidant properties of propolis while highlighting strong toxicity in eukaryotic cellular models."
+    ],
+    "research_subject": "Biological properties and toxicity of Portuguese propolis extracts"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Portuguese propolis, a potentially valuable natural product, remains insufficiently studied, and its properties need to be better characterized.\",\n    \"There is a growing interest in natural products with bioactive compounds, and propolis has been associated with various biological activities, including antioxidant, antimicrobial, and anti-inflammatory effects.\"\n  ],\n  \"objectives\": [\n    \"Investigate the genotoxic, phytotoxic, and protective effects of Portuguese propolis using yeast and in vitro plant cultures as models.\",\n    \"Characterize the chemical composition and biological activities of Portuguese propolis extracts, including their antioxidant and cytotoxic properties.\"\n  ],\n  \"methods\": [\n    \"Prepare and test ethanolic and n-hexane extracts from Portuguese propolis samples using yeast and in vitro flax cultures.\",\n    \"Perform viability assays, plant growth analysis, and evaluate genotoxicity, photoinhibitory, and photoprotective potential using various techniques, including flow cytometry and pulse amplitude modulated fluorometry.\"\n  ],\n  \"results\": [\n    \"Ethanolic extracts from certain apiaries showed significant toxicity in both yeast and plant models, affecting viability, mitochondrial membrane potential, and plant development.\",\n    \"Some extracts demonstrated antioxidant properties, reverting oxidative-induced damage and recovering chlorophyll content reduced by high-light-induced photooxidative stress.\"\n  ],\n  \"research_subject\": \"Biological activities and toxic effects of Portuguese propolis\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Portuguese propolis, a mixture produced by bees with diverse bioactive compounds, is often overlooked and under-studied despite its potential therapeutic properties.\",\n    \"There is a growing interest in natural products for their potential biological activities, including antioxidant, antimicrobial, and anti-inflammatory properties.\"\n  ],\n  \"objectives\": [\n    \"Characterize the properties of Portuguese propolis samples from different apiaries and collection dates.\",\n    \"Investigate the genotoxic, phytotoxic, and protective effects of propolis extracts using yeast and in vitro flax cultures as models.\"\n  ],\n  \"methods\": [\n    \"Prepare ethanolic and n-hexane extracts from Portuguese propolis samples and test their effects on yeast and in vitro flax cultures.\",\n    \"Use viability assays, mitochondrial membrane potential-targeting fluorochrome approach, and comet assay to assess cytotoxicity and genotoxicity in yeast.\",\n    \"Evaluate the effects of propolis extracts on plant growth, photosynthetic function, and oxidative damage using pulse amplitude modulated fluorometry and high light intensity conditions.\"\n  ],\n  \"results\": [\n    \"Some propolis extracts were found to be toxic to both yeast and plants, affecting yeast viability, mitochondrial membrane potential, and early plant development.\",\n    \"Significant genotoxicity was found in some ethanolic extracts, but some extracts also showed potential to revert oxidative-induced damage.\",\n    \"Propolis extracts demonstrated both photoinhibitory and photoprotective potential against oxidative damage in plants.\"\n  ],\n  \"research_subject\": \"Genotoxic, phytotoxic, and protective effects of Portuguese propolis\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Portuguese propolis remains insufficiently studied despite its potential value, leading to its treatment as a worthless by-product in apiaries.\",\n    \"There is renewed interest in propolis due to the increasing popularity of natural products in foods, beverages, and medicines, necessitating better characterization of its properties.\"\n  ],\n  \"objectives\": [\n    \"Characterize the biological properties of Portuguese propolis from different apiaries and collection dates.\",\n    \"Evaluate the genotoxic, phytotoxic, and protective effects of propolis extracts using yeast and plant models.\",\n    \"Investigate the antioxidant properties and potential toxicity mechanisms of propolis extracts.\"\n  ],\n  \"methods\": [\n    \"Prepare ethanolic and n-hexane extracts from Portuguese propolis samples and test them using Saccharomyces cerevisiae and Linum usitatissimum cultures.\",\n    \"Assess cytotoxicity through viability assays, mitochondrial membrane potential analysis, and comet assay for genotoxicity evaluation.\",\n    \"Evaluate plant development, photosynthetic function, and antioxidant properties using pulse amplitude modulated fluorometry and flow cytometry.\"\n  ],\n  \"results\": [\n    \"Ethanolic extracts from specific apiaries showed high toxicity, decreasing yeast viability and inhibiting plant development, particularly root growth and photosynthetic efficiency.\",\n    \"Significant genotoxicity was found in certain ethanolic extracts, while some extracts demonstrated protective effects by reducing oxidative damage in both yeast and plants.\",\n    \"Results confirm antioxidant properties of propolis while highlighting strong toxicity in eukaryotic cellular models.\"\n  ],\n  \"research_subject\": \"Biological properties and toxicity of Portuguese propolis extracts\"\n}\n```"
+}

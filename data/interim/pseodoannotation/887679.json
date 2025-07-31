@@ -1,0 +1,75 @@
+{
+  "index": 254,
+  "title": "Robot enhanced sensing, intelligence and actuation to improve job quality in manufacturing",
+  "abstract": "The ROSSINI project aims to develop a disruptive, inherently safe hardware-software platform for the design and deployment of human-robot collaboration (HRC) applications in manufacturing. By combining innovative sensing, actuation and control technologies (developed by world market leaders in their field), and integrating them in an open development environment, the ROSSINI platform will deliver a set of tools which will enable the spread of HRC applications where robots and human operators will become members of the same team, increasing job quality, production flexibility and productivity. Thanks to enhanced robot sensing capabilities, the deployment of artificial intelligence to optimise productivity and safety, and natively collaborative manipulation technologies, ROSSINI will deliver high performance HRC workcells, combining the safety of traditional cobots with the working speed and payloads of industrial robots. The ROSSINI research lines will this be:  SENSING: A high performance Smart and Safe Sensor System for human and robot detection & tracking, capable of quickening sensors response time by 70% CONTROL: A safety aware control architecture for robot dynamic reconfiguration, capable of reducing robot task execution time by 45% ACTUATION: An innovative, collaborative by birth robot manipulator, to be marketed through the ROSSINI platform, capable of increasing the working speed when collaborating with humans by 45% HUMAN FACTORS: Human factors analysis for mutual predictability of robot and human intentions, capable of increasing job quality index by 15% RISK ASSESSMENT: A risk assessment procedure based on new interpretation of collision values, capable of reducing (combined with other results) by 30% the time and cost of reconfiguration, and increasing the allowed robot working speed by 20% The research lines will be combined into 3 demonstrators (white goods, electronic equipment, and food packaging).",
+  "llama_json": {
+    "motivations": [
+      "Current manufacturing processes face limitations in job quality, production flexibility, and productivity due to inadequate human-robot collaboration.",
+      "There is a need for improved sensing, intelligence, and actuation technologies to enhance human-robot collaboration and overall manufacturing efficiency."
+    ],
+    "objectives": [
+      "Develop a hardware-software platform for designing and deploying human-robot collaboration applications in manufacturing.",
+      "Create a set of tools to enable the widespread adoption of human-robot collaboration, increasing job quality, production flexibility, and productivity.",
+      "Integrate innovative sensing, actuation, and control technologies to deliver high-performance human-robot collaboration workcells."
+    ],
+    "methods": [
+      "Develop a smart and safe sensor system for human and robot detection and tracking.",
+      "Design a safety-aware control architecture for robot dynamic reconfiguration.",
+      "Create an innovative, collaborative robot manipulator and integrate it with the platform."
+    ],
+    "results": [
+      "Improve job quality index by 15% through enhanced human-robot collaboration.",
+      "Increase working speed when collaborating with humans by 45% and reduce robot task execution time by 45%.",
+      "Reduce the time and cost of reconfiguration by 30% and increase the allowed robot working speed by 20%."
+    ],
+    "research_subject": "Robot-enhanced sensing, intelligence, and actuation for improved job quality in manufacturing"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need to improve job quality, production flexibility, and productivity in manufacturing through human-robot collaboration (HRC).",
+      "The requirement for enhanced safety, speed, and payload capabilities in HRC applications.",
+      "The desire to optimize productivity and safety in manufacturing through the deployment of artificial intelligence."
+    ],
+    "objectives": [
+      "Develop a safe hardware-software platform for the design and deployment of HRC applications in manufacturing.",
+      "Combine innovative sensing, actuation, and control technologies in an open development environment to enable the spread of HRC applications.",
+      "Deliver high performance HRC workcells that combine the safety of traditional cobots with the working speed and payloads of industrial robots."
+    ],
+    "methods": [
+      "Develop a high performance Smart and Safe Sensor System for human and robot detection & tracking.",
+      "Implement a safety aware control architecture for robot dynamic reconfiguration.",
+      "Create an innovative, collaborative by birth robot manipulator, and conduct human factors analysis for mutual predictability of robot and human intentions."
+    ],
+    "results": [
+      "Increase job quality, production flexibility, and productivity in manufacturing through enhanced HRC applications.",
+      "Improve safety, speed, and payload capabilities in HRC applications.",
+      "Optimize productivity and safety in manufacturing through the deployment of artificial intelligence."
+    ],
+    "research_subject": "Enhancing job quality in manufacturing through robot sensing, intelligence, and actuation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current human-robot collaboration in manufacturing is limited by safety constraints that reduce robot working speed and productivity.",
+      "There is a need for improved job quality and production flexibility in manufacturing through better integration of human operators and robots as team members."
+    ],
+    "objectives": [
+      "Develop a disruptive hardware-software platform that enables safe and efficient human-robot collaboration in manufacturing environments.",
+      "Create tools that combine the safety of collaborative robots with the speed and payload capacity of industrial robots.",
+      "Enhance job quality, production flexibility, and productivity through advanced sensing, control, and actuation technologies."
+    ],
+    "methods": [
+      "Develop a Smart and Safe Sensor System for human and robot detection and tracking with enhanced response times.",
+      "Implement a safety-aware control architecture for dynamic robot reconfiguration and an innovative collaborative robot manipulator.",
+      "Integrate artificial intelligence for optimizing productivity and safety, combined with human factors analysis for mutual predictability between robots and humans."
+    ],
+    "results": [
+      "Achieve 70% improvement in sensor response time, 45% reduction in robot task execution time, and 45% increase in robot working speed during human collaboration.",
+      "Reduce reconfiguration time and cost by 30% while increasing allowed robot working speed by 20%.",
+      "Improve job quality index by 15% through enhanced human-robot collaboration in manufacturing applications."
+    ],
+    "research_subject": "Human-robot collaboration platform for safe and efficient manufacturing"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current manufacturing processes face limitations in job quality, production flexibility, and productivity due to inadequate human-robot collaboration.\",\n    \"There is a need for improved sensing, intelligence, and actuation technologies to enhance human-robot collaboration and overall manufacturing efficiency.\"\n  ],\n  \"objectives\": [\n    \"Develop a hardware-software platform for designing and deploying human-robot collaboration applications in manufacturing.\",\n    \"Create a set of tools to enable the widespread adoption of human-robot collaboration, increasing job quality, production flexibility, and productivity.\",\n    \"Integrate innovative sensing, actuation, and control technologies to deliver high-performance human-robot collaboration workcells.\"\n  ],\n  \"methods\": [\n    \"Develop a smart and safe sensor system for human and robot detection and tracking.\",\n    \"Design a safety-aware control architecture for robot dynamic reconfiguration.\",\n    \"Create an innovative, collaborative robot manipulator and integrate it with the platform.\"\n  ],\n  \"results\": [\n    \"Improve job quality index by 15% through enhanced human-robot collaboration.\",\n    \"Increase working speed when collaborating with humans by 45% and reduce robot task execution time by 45%.\",\n    \"Reduce the time and cost of reconfiguration by 30% and increase the allowed robot working speed by 20%.\"\n  ],\n  \"research_subject\": \"Robot-enhanced sensing, intelligence, and actuation for improved job quality in manufacturing\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need to improve job quality, production flexibility, and productivity in manufacturing through human-robot collaboration (HRC).\",\n    \"The requirement for enhanced safety, speed, and payload capabilities in HRC applications.\",\n    \"The desire to optimize productivity and safety in manufacturing through the deployment of artificial intelligence.\"\n  ],\n  \"objectives\": [\n    \"Develop a safe hardware-software platform for the design and deployment of HRC applications in manufacturing.\",\n    \"Combine innovative sensing, actuation, and control technologies in an open development environment to enable the spread of HRC applications.\",\n    \"Deliver high performance HRC workcells that combine the safety of traditional cobots with the working speed and payloads of industrial robots.\"\n  ],\n  \"methods\": [\n    \"Develop a high performance Smart and Safe Sensor System for human and robot detection & tracking.\",\n    \"Implement a safety aware control architecture for robot dynamic reconfiguration.\",\n    \"Create an innovative, collaborative by birth robot manipulator, and conduct human factors analysis for mutual predictability of robot and human intentions.\"\n  ],\n  \"results\": [\n    \"Increase job quality, production flexibility, and productivity in manufacturing through enhanced HRC applications.\",\n    \"Improve safety, speed, and payload capabilities in HRC applications.\",\n    \"Optimize productivity and safety in manufacturing through the deployment of artificial intelligence.\"\n  ],\n  \"research_subject\": \"Enhancing job quality in manufacturing through robot sensing, intelligence, and actuation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current human-robot collaboration in manufacturing is limited by safety constraints that reduce robot working speed and productivity.\",\n    \"There is a need for improved job quality and production flexibility in manufacturing through better integration of human operators and robots as team members.\"\n  ],\n  \"objectives\": [\n    \"Develop a disruptive hardware-software platform that enables safe and efficient human-robot collaboration in manufacturing environments.\",\n    \"Create tools that combine the safety of collaborative robots with the speed and payload capacity of industrial robots.\",\n    \"Enhance job quality, production flexibility, and productivity through advanced sensing, control, and actuation technologies.\"\n  ],\n  \"methods\": [\n    \"Develop a Smart and Safe Sensor System for human and robot detection and tracking with enhanced response times.\",\n    \"Implement a safety-aware control architecture for dynamic robot reconfiguration and an innovative collaborative robot manipulator.\",\n    \"Integrate artificial intelligence for optimizing productivity and safety, combined with human factors analysis for mutual predictability between robots and humans.\"\n  ],\n  \"results\": [\n    \"Achieve 70% improvement in sensor response time, 45% reduction in robot task execution time, and 45% increase in robot working speed during human collaboration.\",\n    \"Reduce reconfiguration time and cost by 30% while increasing allowed robot working speed by 20%.\",\n    \"Improve job quality index by 15% through enhanced human-robot collaboration in manufacturing applications.\"\n  ],\n  \"research_subject\": \"Human-robot collaboration platform for safe and efficient manufacturing\"\n}\n```"
+}

@@ -1,0 +1,67 @@
+{
+  "index": 399,
+  "title": "Historical Dictionary of Angola",
+  "abstract": "Historical Dictionary of Angola. Second Edition. By W. Martin James. Historical Dictionaries of Africa. Lanham, MD: Scarecrow Press, 2011. Pp. xlii, 347; maps, acronyms and abbreviations, bibliography. $95.00. W. Martin James' second edition of the Historical Dictionary of Angola constitutes a welcomed update to a series that examines one of Africa's most dynamic countries. In fact, this is the fourth installment of this volume; both the original version that Phyllis M. Martin compiled in 1980 and a second edition of that version that Susan H. Broadhead organized in 1992 preceded James' first edition (2004) and this 2010 update. As with each previous version, this latest edition dramatically expands upon its predecessor, featuring significantly more dictionary entries and an expanded Acronyms and Abbreviations section, as well as a more robust (and updated) Chronology and Bibliography. This edition also includes entries that outline the significant events that have transpired in Angola since the last edition, including: the ongoing reconstruction and development of the country following the 2002 conclusion of its protracted civil war; the return and re-integration of copious war refugees; and the ruling MPLA government's consolidation of power. Throughout the many editions of this volume, the Historical Dictionary of Angola has remained an invaluable and unparalleled resource for committed scholars, student researchers and even casual inquirers. As Scarecrow Press celebrates the fortieth anniversary of its Historical Dictionaries, this latest Angolan contribution is indicative of the accessibility, accuracy, and overall utility that has characterized the over- 100 volumes that comprise this long-running series. This edition's well-organized, alphabetically arranged entries are both broader and deeper than those appearing in previous versions. In addition to featuring key historical events, important places, and past and present political and military figures, the volume also contains a number of general headings, including Art, Children's Issues, Religion and Tourism, to name just a few. The Historical Dictionary also features entries for a number of influential authors and journalists, which helps to diversify the overall range of entries. Within each entry, terms that can be found elsewhere in the volume appear in bold, while readers are also directed to any relevant entries that otherwise don't appear in the description. These and other features render the volume highly navigable, even for firsttime users. Given the virtually endless range of potential topics that a volume of this nature might contain, it's inevitable that the Historical Dictionary of Angola features entries that certain readers will question and omissions that will vex others. …",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an updated and comprehensive reference work on Angola's history, politics, and culture.",
+      "The previous editions of the Historical Dictionary of Angola required an update to reflect the significant events and developments in the country since the last edition."
+    ],
+    "objectives": [
+      "Provide a thorough and accurate account of Angola's history, politics, and culture through an updated dictionary.",
+      "Expand the scope and depth of the previous editions to include new entries and updated information."
+    ],
+    "methods": [
+      "Compile and organize a comprehensive dictionary with alphabetically arranged entries.",
+      "Include a wide range of topics, such as historical events, important places, and key figures, as well as general headings like Art, Children's Issues, and Tourism."
+    ],
+    "results": [
+      "Offer an invaluable and unparalleled resource for scholars, researchers, and casual inquirers interested in Angola.",
+      "Provide a highly navigable and accessible reference work with features like bolded terms and cross-references."
+    ],
+    "research_subject": "Comprehensive historical dictionary of Angola"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an updated, comprehensive resource on the history of Angola, including recent developments and diverse topics.",
+      "The existing editions of the Historical Dictionary of Angola need expansion and updating to reflect the dynamic nature of the country."
+    ],
+    "objectives": [
+      "Update and expand the Historical Dictionary of Angola to include more dictionary entries, an expanded Acronyms and Abbreviations section, and a more robust Chronology and Bibliography.",
+      "Include entries that outline significant events in Angola since the last edition, such as the post-civil war reconstruction, refugee re-integration, and the ruling government's consolidation of power."
+    ],
+    "methods": [
+      "Compile and organize entries in an alphabetical order covering key historical events, important places, political and military figures, and general headings like Art, Children's Issues, Religion, and Tourism.",
+      "Include entries for influential authors and journalists to diversify the range of entries."
+    ],
+    "results": [
+      "Provide a comprehensive, updated resource for scholars, student researchers, and casual inquirers about the history of Angola.",
+      "Enhance the accessibility, accuracy, and overall utility of the Historical Dictionary of Angola."
+    ],
+    "research_subject": "Updating and expanding the Historical Dictionary of Angola"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for comprehensive and updated reference materials on Angola's dynamic history, including recent developments since the end of its civil war in 2002.",
+      "Scholars, students, and researchers require accessible and accurate resources to understand Angola's complex political, social, and cultural landscape."
+    ],
+    "objectives": [
+      "Provide an expanded and updated historical dictionary of Angola that includes recent events, reconstruction efforts, and political developments.",
+      "Create a comprehensive reference work that covers key historical events, important figures, places, and diverse topics including art, religion, and social issues."
+    ],
+    "methods": [
+      "Compile alphabetically arranged dictionary entries with cross-references and bold terms for enhanced navigation.",
+      "Expand coverage to include entries on authors, journalists, and general topics beyond traditional political and military figures.",
+      "Update and enhance the chronology, bibliography, and acronyms sections from previous editions."
+    ],
+    "results": [
+      "Produced an invaluable reference resource for scholars, students, and casual inquirers studying Angola.",
+      "Significantly expanded the scope and depth of entries compared to previous editions, improving accessibility and utility.",
+      "Maintained the Historical Dictionary of Angola as an unparalleled resource for understanding the country's history and contemporary developments."
+    ],
+    "research_subject": "Comprehensive historical reference work on Angola"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an updated and comprehensive reference work on Angola's history, politics, and culture.\",\n    \"The previous editions of the Historical Dictionary of Angola required an update to reflect the significant events and developments in the country since the last edition.\"\n  ],\n  \"objectives\": [\n    \"Provide a thorough and accurate account of Angola's history, politics, and culture through an updated dictionary.\",\n    \"Expand the scope and depth of the previous editions to include new entries and updated information.\"\n  ],\n  \"methods\": [\n    \"Compile and organize a comprehensive dictionary with alphabetically arranged entries.\",\n    \"Include a wide range of topics, such as historical events, important places, and key figures, as well as general headings like Art, Children's Issues, and Tourism.\"\n  ],\n  \"results\": [\n    \"Offer an invaluable and unparalleled resource for scholars, researchers, and casual inquirers interested in Angola.\",\n    \"Provide a highly navigable and accessible reference work with features like bolded terms and cross-references.\"\n  ],\n  \"research_subject\": \"Comprehensive historical dictionary of Angola\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an updated, comprehensive resource on the history of Angola, including recent developments and diverse topics.\",\n    \"The existing editions of the Historical Dictionary of Angola need expansion and updating to reflect the dynamic nature of the country.\"\n  ],\n  \"objectives\": [\n    \"Update and expand the Historical Dictionary of Angola to include more dictionary entries, an expanded Acronyms and Abbreviations section, and a more robust Chronology and Bibliography.\",\n    \"Include entries that outline significant events in Angola since the last edition, such as the post-civil war reconstruction, refugee re-integration, and the ruling government's consolidation of power.\"\n  ],\n  \"methods\": [\n    \"Compile and organize entries in an alphabetical order covering key historical events, important places, political and military figures, and general headings like Art, Children's Issues, Religion, and Tourism.\",\n    \"Include entries for influential authors and journalists to diversify the range of entries.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive, updated resource for scholars, student researchers, and casual inquirers about the history of Angola.\",\n    \"Enhance the accessibility, accuracy, and overall utility of the Historical Dictionary of Angola.\"\n  ],\n  \"research_subject\": \"Updating and expanding the Historical Dictionary of Angola\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for comprehensive and updated reference materials on Angola's dynamic history, including recent developments since the end of its civil war in 2002.\",\n    \"Scholars, students, and researchers require accessible and accurate resources to understand Angola's complex political, social, and cultural landscape.\"\n  ],\n  \"objectives\": [\n    \"Provide an expanded and updated historical dictionary of Angola that includes recent events, reconstruction efforts, and political developments.\",\n    \"Create a comprehensive reference work that covers key historical events, important figures, places, and diverse topics including art, religion, and social issues.\"\n  ],\n  \"methods\": [\n    \"Compile alphabetically arranged dictionary entries with cross-references and bold terms for enhanced navigation.\",\n    \"Expand coverage to include entries on authors, journalists, and general topics beyond traditional political and military figures.\",\n    \"Update and enhance the chronology, bibliography, and acronyms sections from previous editions.\"\n  ],\n  \"results\": [\n    \"Produced an invaluable reference resource for scholars, students, and casual inquirers studying Angola.\",\n    \"Significantly expanded the scope and depth of entries compared to previous editions, improving accessibility and utility.\",\n    \"Maintained the Historical Dictionary of Angola as an unparalleled resource for understanding the country's history and contemporary developments.\"\n  ],\n  \"research_subject\": \"Comprehensive historical reference work on Angola\"\n}\n```"
+}

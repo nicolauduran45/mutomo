@@ -1,0 +1,67 @@
+{
+  "index": 165,
+  "title": "Strip, bind, and search",
+  "abstract": "A typical large building contains thousands of sensors, monitoring the HVAC system, lighting, and other operational sub-systems. With the increased push for operational efficiency, operators are relying more on historical data processing to uncover opportunities for energy-savings. However, they are overwhelmed with the deluge of data and seek more efficient ways to identify potential problems. In this paper, we present a new approach called the Strip, Bind and Search (SBS); a method for uncovering abnormal equipment behavior and in-concert usage patterns. SBS uncovers relationships between devices and constructs a model for their usage pattern relative to other devices. It then flags deviations from the model. We run SBS on a set of building sensor traces; each containing hundred sensors reporting data flows over 18 weeks from two separate buildings with fundamentally different infrastructures. We demonstrate that, in many cases, SBS uncovers misbehavior corresponding to inefficient device usage that leads to energy waste. The average waste uncovered is as high as 2500~kWh per device.",
+  "llama_json": {
+    "motivations": [
+      "Building operators are overwhelmed by the large amounts of data from thousands of sensors, making it difficult to identify potential problems and opportunities for energy savings.",
+      "There is a need for more efficient methods to uncover abnormal equipment behavior and energy-wasting usage patterns in large buildings."
+    ],
+    "objectives": [
+      "Develop a method to uncover abnormal equipment behavior and in-concert usage patterns in large buildings.",
+      "Identify potential energy-wasting problems and opportunities for energy savings through historical data processing."
+    ],
+    "methods": [
+      "Propose a new approach called Strip, Bind, and Search (SBS) to uncover relationships between devices and construct models for their usage patterns.",
+      "Run SBS on building sensor traces to flag deviations from the model and identify misbehavior corresponding to inefficient device usage."
+    ],
+    "results": [
+      "Demonstrate the effectiveness of SBS in uncovering energy-wasting problems and opportunities for energy savings in large buildings.",
+      "Show that SBS can identify misbehavior corresponding to inefficient device usage, leading to significant energy waste reduction."
+    ],
+    "research_subject": "Energy efficiency in large buildings through abnormal equipment behavior detection"
+  },
+  "openai_json": {
+    "motivations": [
+      "Large buildings contain thousands of sensors, creating a deluge of data that can overwhelm operators seeking to improve operational efficiency.",
+      "There is a need for more efficient ways to identify potential problems and uncover opportunities for energy savings."
+    ],
+    "objectives": [
+      "Present a new approach, Strip, Bind and Search (SBS), to uncover abnormal equipment behavior and usage patterns.",
+      "Demonstrate the effectiveness of SBS in identifying inefficient device usage leading to energy waste."
+    ],
+    "methods": [
+      "Use the SBS method to uncover relationships between devices and construct a model for their usage pattern relative to other devices.",
+      "Flag deviations from the model to identify potential problems.",
+      "Apply SBS to a set of building sensor traces from two separate buildings with different infrastructures."
+    ],
+    "results": [
+      "SBS successfully uncovers misbehavior corresponding to inefficient device usage leading to energy waste.",
+      "The average waste uncovered by SBS is as high as 2500 kWh per device."
+    ],
+    "research_subject": "Efficient identification of abnormal equipment behavior and energy waste in large buildings"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Building operators are overwhelmed by the massive volume of sensor data from thousands of monitoring devices, making it difficult to identify operational inefficiencies.",
+      "There is a need for automated methods to detect abnormal equipment behavior and inefficient usage patterns that lead to energy waste in large buildings."
+    ],
+    "objectives": [
+      "Develop an efficient method to automatically identify abnormal equipment behavior and usage patterns in building sensor data.",
+      "Enable building operators to uncover energy-saving opportunities by detecting deviations from normal device operation patterns."
+    ],
+    "methods": [
+      "Implement the Strip, Bind and Search (SBS) approach that constructs models of device usage patterns and their relationships.",
+      "Apply deviation detection algorithms to flag abnormal behavior by comparing actual usage against the constructed models.",
+      "Analyze building sensor traces from multiple buildings with different infrastructures to validate the approach."
+    ],
+    "results": [
+      "Successfully identified misbehavior corresponding to inefficient device usage that leads to energy waste.",
+      "Uncovered average energy waste of up to 2500 kWh per device through the detection of abnormal usage patterns."
+    ],
+    "research_subject": "Automated detection of abnormal equipment behavior and energy waste in building sensor data"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Building operators are overwhelmed by the large amounts of data from thousands of sensors, making it difficult to identify potential problems and opportunities for energy savings.\",\n    \"There is a need for more efficient methods to uncover abnormal equipment behavior and energy-wasting usage patterns in large buildings.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to uncover abnormal equipment behavior and in-concert usage patterns in large buildings.\",\n    \"Identify potential energy-wasting problems and opportunities for energy savings through historical data processing.\"\n  ],\n  \"methods\": [\n    \"Propose a new approach called Strip, Bind, and Search (SBS) to uncover relationships between devices and construct models for their usage patterns.\",\n    \"Run SBS on building sensor traces to flag deviations from the model and identify misbehavior corresponding to inefficient device usage.\"\n  ],\n  \"results\": [\n    \"Demonstrate the effectiveness of SBS in uncovering energy-wasting problems and opportunities for energy savings in large buildings.\",\n    \"Show that SBS can identify misbehavior corresponding to inefficient device usage, leading to significant energy waste reduction.\"\n  ],\n  \"research_subject\": \"Energy efficiency in large buildings through abnormal equipment behavior detection\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Large buildings contain thousands of sensors, creating a deluge of data that can overwhelm operators seeking to improve operational efficiency.\",\n    \"There is a need for more efficient ways to identify potential problems and uncover opportunities for energy savings.\"\n  ],\n  \"objectives\": [\n    \"Present a new approach, Strip, Bind and Search (SBS), to uncover abnormal equipment behavior and usage patterns.\",\n    \"Demonstrate the effectiveness of SBS in identifying inefficient device usage leading to energy waste.\"\n  ],\n  \"methods\": [\n    \"Use the SBS method to uncover relationships between devices and construct a model for their usage pattern relative to other devices.\",\n    \"Flag deviations from the model to identify potential problems.\",\n    \"Apply SBS to a set of building sensor traces from two separate buildings with different infrastructures.\"\n  ],\n  \"results\": [\n    \"SBS successfully uncovers misbehavior corresponding to inefficient device usage leading to energy waste.\",\n    \"The average waste uncovered by SBS is as high as 2500 kWh per device.\"\n  ],\n  \"research_subject\": \"Efficient identification of abnormal equipment behavior and energy waste in large buildings\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Building operators are overwhelmed by the massive volume of sensor data from thousands of monitoring devices, making it difficult to identify operational inefficiencies.\",\n    \"There is a need for automated methods to detect abnormal equipment behavior and inefficient usage patterns that lead to energy waste in large buildings.\"\n  ],\n  \"objectives\": [\n    \"Develop an efficient method to automatically identify abnormal equipment behavior and usage patterns in building sensor data.\",\n    \"Enable building operators to uncover energy-saving opportunities by detecting deviations from normal device operation patterns.\"\n  ],\n  \"methods\": [\n    \"Implement the Strip, Bind and Search (SBS) approach that constructs models of device usage patterns and their relationships.\",\n    \"Apply deviation detection algorithms to flag abnormal behavior by comparing actual usage against the constructed models.\",\n    \"Analyze building sensor traces from multiple buildings with different infrastructures to validate the approach.\"\n  ],\n  \"results\": [\n    \"Successfully identified misbehavior corresponding to inefficient device usage that leads to energy waste.\",\n    \"Uncovered average energy waste of up to 2500 kWh per device through the detection of abnormal usage patterns.\"\n  ],\n  \"research_subject\": \"Automated detection of abnormal equipment behavior and energy waste in building sensor data\"\n}\n```"
+}

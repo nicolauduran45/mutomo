@@ -1,0 +1,69 @@
+{
+  "index": 109,
+  "title": "ВОДНЫЕ КОМПОЗИЦИИ МОДИФИЦИРОВАННЫХ ПОЛИМЕРАМИ УСКОРИТЕЛЕЙ СХВАТЫВАНИЯ И ИХ ПРИМЕНЕНИЕ В СТРОИТЕЛЬСТВЕ",
+  "abstract": "1. Водные композиции модифицированных полимерами ускорителей схватывания, отличающиеся тем, что они содержат один или несколько ускорителей схватывания и один или несколько катионно-стабилизированных полимеров, содержащих один или несколько полимеров на основе этиленово ненасыщенных мономеров и один или несколько катионактивных защитных коллоидов. ! 2. Водные композиции модифицированных полимерами ускорителей схватывания по п.1, отличающиеся тем, что ускорители схватывания представляют собой соединения алюминия, силикаты, гидроксиды щелочных металлов или карбонаты. ! 3. Способ приготовления водных композиций модифицированных полимерами ускорителей схватывания по п.1 или 2, отличающийся тем, что один или несколько ускорителей схватывания и один или несколько катионно-стабилизированных полимеров смешивают между собой в присутствии воды. ! 4. Применение водных композиций модифицированных полимерами ускорителей схватывания по п.1 или 2 в гидравлически схватывающихся системах. ! 5. Водные бетонные смеси, содержащие цемент, заполнители, а также необязательно дополнительные присадки и добавки, отличающиеся тем, что они содержат водную композицию модифицированных полимерами ускорителей схватывания по п.1 или 2. ! 6. Способ приготовления водной бетонной смеси по п.5 путем смешения цемента, заполнителей и необязательно других присадок и добавок, отличающийся тем, что добавляют по меньшей мере одну водную композицию модифицированных полимерами ускорителей схватывания по п.1 или 2. ! 7. Способ изготовления бетонной составной конструкции, отличающийся тем, что водные бетонные смеси по п.5 наносят в один слой или в не",
+  "llama_json": {
+    "motivations": [
+      "There is a need to improve the properties of concrete mixtures, such as their setting time and strength.",
+      "Existing concrete mixtures may not provide optimal performance in various construction applications."
+    ],
+    "objectives": [
+      "Develop water-based compositions of modified polymer accelerators for use in concrete mixtures.",
+      "Improve the setting time and strength of concrete mixtures using the developed compositions.",
+      "Explore the application of the developed compositions in various construction contexts."
+    ],
+    "methods": [
+      "Combine one or more accelerators with one or more cationically stabilized polymers in the presence of water.",
+      "Use the developed compositions in hydraulic setting systems, such as concrete mixtures.",
+      "Test the performance of the developed compositions in various construction applications."
+    ],
+    "results": [
+      "Enhanced setting time and strength of concrete mixtures.",
+      "Improved performance of concrete mixtures in various construction applications.",
+      "Potential for wider use of the developed compositions in the construction industry."
+    ],
+    "research_subject": "Development and application of water-based compositions of modified polymer accelerators in concrete mixtures"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for improved water compositions of polymer-modified setting accelerators for use in construction."
+    ],
+    "objectives": [
+      "Develop water compositions of polymer-modified setting accelerators containing one or more setting accelerators and one or more cationically-stabilized polymers.",
+      "Explore the use of these water compositions in hydraulic setting systems and in the preparation of water concrete mixtures."
+    ],
+    "methods": [
+      "Combine one or more setting accelerators and one or more cationically-stabilized polymers in the presence of water to prepare the water compositions.",
+      "Use the developed water compositions in the preparation of water concrete mixtures and in hydraulic setting systems."
+    ],
+    "results": [
+      "Creation of water compositions of polymer-modified setting accelerators for use in construction.",
+      "Successful application of these water compositions in hydraulic setting systems and in the preparation of water concrete mixtures."
+    ],
+    "research_subject": "Development and application of water compositions of polymer-modified setting accelerators in construction"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for improved setting accelerators in hydraulic binding systems that can enhance the performance of concrete mixtures.",
+      "Traditional setting accelerators may have limitations in terms of stability and effectiveness when used in aqueous concrete compositions."
+    ],
+    "objectives": [
+      "Develop aqueous compositions of polymer-modified setting accelerators containing cationically-stabilized polymers for improved performance.",
+      "Create effective formulations that can be applied in hydraulically setting systems and concrete mixtures."
+    ],
+    "methods": [
+      "Combine one or more setting accelerators with cationically-stabilized polymers based on ethylenically unsaturated monomers and cationic protective colloids.",
+      "Mix setting accelerators and cationically-stabilized polymers in the presence of water to prepare the aqueous compositions.",
+      "Incorporate aluminum compounds, silicates, alkali metal hydroxides, or carbonates as setting accelerators."
+    ],
+    "results": [
+      "Enhanced performance of hydraulically setting systems through the use of polymer-modified setting accelerators.",
+      "Improved properties of aqueous concrete mixtures containing the developed compositions.",
+      "Successful application in the production of concrete composite structures."
+    ],
+    "research_subject": "Polymer-modified setting accelerators for hydraulic binding systems and concrete applications"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to improve the properties of concrete mixtures, such as their setting time and strength.\",\n    \"Existing concrete mixtures may not provide optimal performance in various construction applications.\"\n  ],\n  \"objectives\": [\n    \"Develop water-based compositions of modified polymer accelerators for use in concrete mixtures.\",\n    \"Improve the setting time and strength of concrete mixtures using the developed compositions.\",\n    \"Explore the application of the developed compositions in various construction contexts.\"\n  ],\n  \"methods\": [\n    \"Combine one or more accelerators with one or more cationically stabilized polymers in the presence of water.\",\n    \"Use the developed compositions in hydraulic setting systems, such as concrete mixtures.\",\n    \"Test the performance of the developed compositions in various construction applications.\"\n  ],\n  \"results\": [\n    \"Enhanced setting time and strength of concrete mixtures.\",\n    \"Improved performance of concrete mixtures in various construction applications.\",\n    \"Potential for wider use of the developed compositions in the construction industry.\"\n  ],\n  \"research_subject\": \"Development and application of water-based compositions of modified polymer accelerators in concrete mixtures\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved water compositions of polymer-modified setting accelerators for use in construction.\"\n  ],\n  \"objectives\": [\n    \"Develop water compositions of polymer-modified setting accelerators containing one or more setting accelerators and one or more cationically-stabilized polymers.\",\n    \"Explore the use of these water compositions in hydraulic setting systems and in the preparation of water concrete mixtures.\"\n  ],\n  \"methods\": [\n    \"Combine one or more setting accelerators and one or more cationically-stabilized polymers in the presence of water to prepare the water compositions.\",\n    \"Use the developed water compositions in the preparation of water concrete mixtures and in hydraulic setting systems.\"\n  ],\n  \"results\": [\n    \"Creation of water compositions of polymer-modified setting accelerators for use in construction.\",\n    \"Successful application of these water compositions in hydraulic setting systems and in the preparation of water concrete mixtures.\"\n  ],\n  \"research_subject\": \"Development and application of water compositions of polymer-modified setting accelerators in construction\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved setting accelerators in hydraulic binding systems that can enhance the performance of concrete mixtures.\",\n    \"Traditional setting accelerators may have limitations in terms of stability and effectiveness when used in aqueous concrete compositions.\"\n  ],\n  \"objectives\": [\n    \"Develop aqueous compositions of polymer-modified setting accelerators containing cationically-stabilized polymers for improved performance.\",\n    \"Create effective formulations that can be applied in hydraulically setting systems and concrete mixtures.\"\n  ],\n  \"methods\": [\n    \"Combine one or more setting accelerators with cationically-stabilized polymers based on ethylenically unsaturated monomers and cationic protective colloids.\",\n    \"Mix setting accelerators and cationically-stabilized polymers in the presence of water to prepare the aqueous compositions.\",\n    \"Incorporate aluminum compounds, silicates, alkali metal hydroxides, or carbonates as setting accelerators.\"\n  ],\n  \"results\": [\n    \"Enhanced performance of hydraulically setting systems through the use of polymer-modified setting accelerators.\",\n    \"Improved properties of aqueous concrete mixtures containing the developed compositions.\",\n    \"Successful application in the production of concrete composite structures.\"\n  ],\n  \"research_subject\": \"Polymer-modified setting accelerators for hydraulic binding systems and concrete applications\"\n}\n```"
+}

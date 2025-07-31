@@ -1,0 +1,52 @@
+{
+  "index": 77,
+  "title": "La casa comercial José Matía, un fondo singular en el Archivo de la Universidad de Cádiz",
+  "abstract": "The purpose of this study is to highlight the importance of the documentary collection of the trading house José Matía de Cádiz, guarded in the Archive of the University of Cádiz, as a primary source of information for the investigation of both the history of the business activities of the trading house and the colonial trade of this city and the rest of Spain with the Philippines in the middle of the XIX century.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to highlight the significance of the José Matía trading house's documentary collection as a primary source for historical research."
+    ],
+    "objectives": [
+      "Emphasize the importance of the José Matía trading house's documentary collection for investigating its business activities and colonial trade history."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "The documentary collection of the José Matía trading house in the Archive of the University of Cádiz"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to investigate the history of the business activities of the trading house José Matía de Cádiz and the colonial trade between Spain and the Philippines in the mid-19th century."
+    ],
+    "objectives": [
+      "Highlight the importance of the documentary collection of the trading house José Matía de Cádiz as a primary source of information for historical research."
+    ],
+    "methods": [
+      "Use the documentary collection of the trading house José Matía de Cádiz, stored in the Archive of the University of Cádiz, as a primary source of information."
+    ],
+    "results": [
+      "Provide valuable insights into the history of the business activities of the trading house José Matía de Cádiz and the colonial trade between Spain and the Philippines in the mid-19th century."
+    ],
+    "research_subject": "Historical investigation of the trading house José Matía de Cádiz and Spain's colonial trade with the Philippines in the mid-19th century"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The documentary collection of the trading house José Matía represents an underutilized primary source for understanding 19th century colonial trade between Spain and the Philippines.",
+      "There is a need to highlight the historical significance of this archival collection housed at the University of Cádiz."
+    ],
+    "objectives": [
+      "Demonstrate the importance of the José Matía trading house documentary collection as a primary source for historical research.",
+      "Provide insights into the business activities of the trading house and colonial trade between Cádiz, Spain, and the Philippines during the mid-19th century."
+    ],
+    "methods": [
+      "Analysis and examination of the documentary collection of the José Matía trading house preserved in the University of Cádiz Archive."
+    ],
+    "results": [
+      "Enhanced understanding of colonial trade patterns and business practices between Spain and the Philippines in the 19th century.",
+      "Recognition of the José Matía collection as a valuable primary source for historical research on Spanish colonial commerce."
+    ],
+    "research_subject": "The José Matía trading house documentary collection and 19th century Spanish-Philippine colonial trade"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to highlight the significance of the José Matía trading house's documentary collection as a primary source for historical research.\"\n  ],\n  \"objectives\": [\n    \"Emphasize the importance of the José Matía trading house's documentary collection for investigating its business activities and colonial trade history.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"The documentary collection of the José Matía trading house in the Archive of the University of Cádiz\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to investigate the history of the business activities of the trading house José Matía de Cádiz and the colonial trade between Spain and the Philippines in the mid-19th century.\"\n  ],\n  \"objectives\": [\n    \"Highlight the importance of the documentary collection of the trading house José Matía de Cádiz as a primary source of information for historical research.\"\n  ],\n  \"methods\": [\n    \"Use the documentary collection of the trading house José Matía de Cádiz, stored in the Archive of the University of Cádiz, as a primary source of information.\"\n  ],\n  \"results\": [\n    \"Provide valuable insights into the history of the business activities of the trading house José Matía de Cádiz and the colonial trade between Spain and the Philippines in the mid-19th century.\"\n  ],\n  \"research_subject\": \"Historical investigation of the trading house José Matía de Cádiz and Spain's colonial trade with the Philippines in the mid-19th century\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The documentary collection of the trading house José Matía represents an underutilized primary source for understanding 19th century colonial trade between Spain and the Philippines.\",\n    \"There is a need to highlight the historical significance of this archival collection housed at the University of Cádiz.\"\n  ],\n  \"objectives\": [\n    \"Demonstrate the importance of the José Matía trading house documentary collection as a primary source for historical research.\",\n    \"Provide insights into the business activities of the trading house and colonial trade between Cádiz, Spain, and the Philippines during the mid-19th century.\"\n  ],\n  \"methods\": [\n    \"Analysis and examination of the documentary collection of the José Matía trading house preserved in the University of Cádiz Archive.\"\n  ],\n  \"results\": [\n    \"Enhanced understanding of colonial trade patterns and business practices between Spain and the Philippines in the 19th century.\",\n    \"Recognition of the José Matía collection as a valuable primary source for historical research on Spanish colonial commerce.\"\n  ],\n  \"research_subject\": \"The José Matía trading house documentary collection and 19th century Spanish-Philippine colonial trade\"\n}\n```"
+}

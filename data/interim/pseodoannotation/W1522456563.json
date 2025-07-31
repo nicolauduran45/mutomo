@@ -1,0 +1,66 @@
+{
+  "index": 365,
+  "title": "A Meta-Analysis of Concurrent Chemoradiotherapy for Advanced Esophageal Cancer",
+  "abstract": "Concurrent chemoradiotherapy is a standard treatment for local advanced esophageal cancer, but the outcomes are controversial. Our goals were to compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in local advanced esophageal cancer using meta-analysis.MEDLINE, EMBASE and the Cochrane library were searched for studies comparing chemoradiotherapy with radiotherapy alone for advanced esophageal cancer. Only randomized controlled trials were included, and extracted data were analyzed with Review Manager Version 5.2. The pooled relative risks (RR) and their 95% confidence intervals (CI) were calculated for statistical analysis.Nine studies were included. Of 1,135 cases, 612 received concurrent chemoradiotherapy and 523 were treated with radiotherapy alone. The overall response rate (complete remission and partial remission) was 93.4% for concurrent chemoradiotherapy and 83.7% for radiotherapy alone (P = 0.05). The RR values of 1-year, 3-year, and 5-year survival rates were 1.14 (95% CI: 1.04 - 1.24, P = 0.006), 1.66 (95% CI: 1.34 - 2.06, P < 0.001), and 2.43 (95% CI: 1.63 - 3.63, P < 0.001), respectively. The RR value of the merged occurrence rate of acute toxic effects was 2.34 (95% CI: 1.90 - 2.90, P <0.001). There was no difference in the incidence of late toxic effects, which had an RR value of 1.21 (95% CI: 0.96 - 1.54, P = 0.11). The RR level of persistence and recurrence was 0.71 (95% CI: 0.62 - 0.81, P <0.001), and for the distant metastasis rate, the RR value was 0.79 (95% CI: 0.61 - 1.02, P = 0.07).Concurrent chemoradiotherapy significantly improved overall survival rate, reduced the risk of persistence and recurrence, but had little effect on the primary tumor response, and increased the occurrence of acute toxic effects.",
+  "llama_json": {
+    "motivations": [
+      "The effectiveness of concurrent chemoradiotherapy for advanced esophageal cancer is controversial and requires further investigation.",
+      "There is a need to compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in treating local advanced esophageal cancer."
+    ],
+    "objectives": [
+      "To conduct a meta-analysis comparing the outcomes of concurrent chemoradiotherapy and radiotherapy alone in treating local advanced esophageal cancer.",
+      "To evaluate the impact of concurrent chemoradiotherapy on overall survival rate, tumor response, and toxic effects in patients with advanced esophageal cancer."
+    ],
+    "methods": [
+      "Conducted a meta-analysis of randomized controlled trials comparing concurrent chemoradiotherapy and radiotherapy alone for advanced esophageal cancer.",
+      "Searched MEDLINE, EMBASE, and the Cochrane library for relevant studies and analyzed extracted data using Review Manager Version 5.2.",
+      "Calculated pooled relative risks and their 95% confidence intervals for statistical analysis."
+    ],
+    "results": [
+      "Concurrent chemoradiotherapy significantly improved overall survival rate and reduced the risk of persistence and recurrence in patients with advanced esophageal cancer.",
+      "Concurrent chemoradiotherapy increased the occurrence of acute toxic effects but had little effect on primary tumor response and distant metastasis rate."
+    ],
+    "research_subject": "Efficacy of concurrent chemoradiotherapy for advanced esophageal cancer"
+  },
+  "openai_json": {
+    "motivations": [
+      "The outcomes of concurrent chemoradiotherapy as a standard treatment for local advanced esophageal cancer are controversial.",
+      "There is a need to compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in local advanced esophageal cancer."
+    ],
+    "objectives": [
+      "Compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in local advanced esophageal cancer using meta-analysis."
+    ],
+    "methods": [
+      "Conduct a meta-analysis of randomized controlled trials comparing chemoradiotherapy with radiotherapy alone for advanced esophageal cancer.",
+      "Analyze extracted data with Review Manager Version 5.2 and calculate pooled relative risks and their 95% confidence intervals for statistical analysis."
+    ],
+    "results": [
+      "Concurrent chemoradiotherapy significantly improved overall survival rate and reduced the risk of persistence and recurrence.",
+      "Concurrent chemoradiotherapy had little effect on the primary tumor response and increased the occurrence of acute toxic effects."
+    ],
+    "research_subject": "Meta-analysis of concurrent chemoradiotherapy for advanced esophageal cancer"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The therapeutic outcomes of concurrent chemoradiotherapy versus radiotherapy alone for locally advanced esophageal cancer remain controversial.",
+      "There is a need for systematic evidence to guide treatment decisions for patients with advanced esophageal cancer."
+    ],
+    "objectives": [
+      "Compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in locally advanced esophageal cancer through meta-analysis.",
+      "Evaluate survival rates, treatment response, toxicity, and recurrence patterns between the two treatment approaches."
+    ],
+    "methods": [
+      "Conducted systematic searches of MEDLINE, EMBASE, and the Cochrane library for randomized controlled trials comparing chemoradiotherapy with radiotherapy alone.",
+      "Performed meta-analysis using Review Manager to calculate pooled relative risks and confidence intervals for various clinical outcomes."
+    ],
+    "results": [
+      "Concurrent chemoradiotherapy significantly improved overall survival rates and reduced persistence and recurrence compared to radiotherapy alone.",
+      "The combined treatment showed higher acute toxicity but no significant difference in late toxic effects.",
+      "Overall response rates were higher with concurrent chemoradiotherapy though primary tumor response showed limited improvement."
+    ],
+    "research_subject": "Concurrent chemoradiotherapy versus radiotherapy alone for advanced esophageal cancer"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The effectiveness of concurrent chemoradiotherapy for advanced esophageal cancer is controversial and requires further investigation.\",\n    \"There is a need to compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in treating local advanced esophageal cancer.\"\n  ],\n  \"objectives\": [\n    \"To conduct a meta-analysis comparing the outcomes of concurrent chemoradiotherapy and radiotherapy alone in treating local advanced esophageal cancer.\",\n    \"To evaluate the impact of concurrent chemoradiotherapy on overall survival rate, tumor response, and toxic effects in patients with advanced esophageal cancer.\"\n  ],\n  \"methods\": [\n    \"Conducted a meta-analysis of randomized controlled trials comparing concurrent chemoradiotherapy and radiotherapy alone for advanced esophageal cancer.\",\n    \"Searched MEDLINE, EMBASE, and the Cochrane library for relevant studies and analyzed extracted data using Review Manager Version 5.2.\",\n    \"Calculated pooled relative risks and their 95% confidence intervals for statistical analysis.\"\n  ],\n  \"results\": [\n    \"Concurrent chemoradiotherapy significantly improved overall survival rate and reduced the risk of persistence and recurrence in patients with advanced esophageal cancer.\",\n    \"Concurrent chemoradiotherapy increased the occurrence of acute toxic effects but had little effect on primary tumor response and distant metastasis rate.\"\n  ],\n  \"research_subject\": \"Efficacy of concurrent chemoradiotherapy for advanced esophageal cancer\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The outcomes of concurrent chemoradiotherapy as a standard treatment for local advanced esophageal cancer are controversial.\",\n    \"There is a need to compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in local advanced esophageal cancer.\"\n  ],\n  \"objectives\": [\n    \"Compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in local advanced esophageal cancer using meta-analysis.\"\n  ],\n  \"methods\": [\n    \"Conduct a meta-analysis of randomized controlled trials comparing chemoradiotherapy with radiotherapy alone for advanced esophageal cancer.\",\n    \"Analyze extracted data with Review Manager Version 5.2 and calculate pooled relative risks and their 95% confidence intervals for statistical analysis.\"\n  ],\n  \"results\": [\n    \"Concurrent chemoradiotherapy significantly improved overall survival rate and reduced the risk of persistence and recurrence.\",\n    \"Concurrent chemoradiotherapy had little effect on the primary tumor response and increased the occurrence of acute toxic effects.\"\n  ],\n  \"research_subject\": \"Meta-analysis of concurrent chemoradiotherapy for advanced esophageal cancer\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The therapeutic outcomes of concurrent chemoradiotherapy versus radiotherapy alone for locally advanced esophageal cancer remain controversial.\",\n    \"There is a need for systematic evidence to guide treatment decisions for patients with advanced esophageal cancer.\"\n  ],\n  \"objectives\": [\n    \"Compare the therapeutic effects of concurrent chemoradiotherapy and radiotherapy alone in locally advanced esophageal cancer through meta-analysis.\",\n    \"Evaluate survival rates, treatment response, toxicity, and recurrence patterns between the two treatment approaches.\"\n  ],\n  \"methods\": [\n    \"Conducted systematic searches of MEDLINE, EMBASE, and the Cochrane library for randomized controlled trials comparing chemoradiotherapy with radiotherapy alone.\",\n    \"Performed meta-analysis using Review Manager to calculate pooled relative risks and confidence intervals for various clinical outcomes.\"\n  ],\n  \"results\": [\n    \"Concurrent chemoradiotherapy significantly improved overall survival rates and reduced persistence and recurrence compared to radiotherapy alone.\",\n    \"The combined treatment showed higher acute toxicity but no significant difference in late toxic effects.\",\n    \"Overall response rates were higher with concurrent chemoradiotherapy though primary tumor response showed limited improvement.\"\n  ],\n  \"research_subject\": \"Concurrent chemoradiotherapy versus radiotherapy alone for advanced esophageal cancer\"\n}\n```"
+}

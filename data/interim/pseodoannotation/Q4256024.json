@@ -1,0 +1,43 @@
+{
+  "index": 414,
+  "title": "LIQUIDITY SUPPORT FOR MICRO-ENTERPRISES AFFECTED BY THE COVID EMERGENCY",
+  "abstract": "SUPPORT FOR THE LIQUIDITY OF MICRO AND SMALL ENTERPRISES IN THE RETAIL, SUPPLY AND PERSONAL SERVICES SECTORS WHOSE ACTIVITY HAS BEEN SUSPENDED AS A RESULT OF THE PRIME MINISTERIAL DECREE OF 11 MARCH 2020",
+  "llama_json": {
+    "motivations": [
+      "Micro-enterprises in the retail, supply, and personal services sectors face liquidity challenges due to the suspension of their activities as a result of the COVID-19 emergency."
+    ],
+    "objectives": [
+      "Provide liquidity support to micro-enterprises affected by the COVID-19 emergency to help them overcome financial difficulties."
+    ],
+    "methods": [],
+    "results": [
+      "Mitigate the financial impact of the COVID-19 emergency on micro-enterprises in the targeted sectors."
+    ],
+    "research_subject": "Liquidity support for micro-enterprises affected by the COVID-19 emergency"
+  },
+  "openai_json": {
+    "motivations": [
+      "Micro and small enterprises in the retail, supply, and personal services sectors have had their activities suspended due to the COVID-19 pandemic, leading to liquidity issues."
+    ],
+    "objectives": [
+      "Provide liquidity support for micro and small enterprises affected by the COVID-19 emergency."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Liquidity support for micro-enterprises affected by the COVID-19 emergency"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Micro and small enterprises in retail, supply, and personal services sectors faced liquidity crises due to mandatory activity suspensions during the COVID-19 emergency."
+    ],
+    "objectives": [
+      "Provide liquidity support to micro and small enterprises whose activities were suspended by the Prime Ministerial Decree of 11 March 2020."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Liquidity support for COVID-affected micro-enterprises"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Micro-enterprises in the retail, supply, and personal services sectors face liquidity challenges due to the suspension of their activities as a result of the COVID-19 emergency.\"\n  ],\n  \"objectives\": [\n    \"Provide liquidity support to micro-enterprises affected by the COVID-19 emergency to help them overcome financial difficulties.\"\n  ],\n  \"methods\": [],\n  \"results\": [\n    \"Mitigate the financial impact of the COVID-19 emergency on micro-enterprises in the targeted sectors.\"\n  ],\n  \"research_subject\": \"Liquidity support for micro-enterprises affected by the COVID-19 emergency\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Micro and small enterprises in the retail, supply, and personal services sectors have had their activities suspended due to the COVID-19 pandemic, leading to liquidity issues.\"\n  ],\n  \"objectives\": [\n    \"Provide liquidity support for micro and small enterprises affected by the COVID-19 emergency.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Liquidity support for micro-enterprises affected by the COVID-19 emergency\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Micro and small enterprises in retail, supply, and personal services sectors faced liquidity crises due to mandatory activity suspensions during the COVID-19 emergency.\"\n  ],\n  \"objectives\": [\n    \"Provide liquidity support to micro and small enterprises whose activities were suspended by the Prime Ministerial Decree of 11 March 2020.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Liquidity support for COVID-affected micro-enterprises\"\n}\n```"
+}

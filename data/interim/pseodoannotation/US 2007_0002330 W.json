@@ -1,0 +1,57 @@
+{
+  "index": 124,
+  "title": "COMPOSITIONS AND METHODS FOR TREATMENT OF OPHTHALMIC DISEASES AND DISORDERS",
+  "abstract": "Provided herein are compositions and methods for treating ophthalmic diseases and disorders. Compositions comprising retinylamine derivative compounds provided herein are useful for treating and preventing ophthalmic diseases and disorders, including diabetic retinopathy diabetic maculopathy, diabetic macular edema, retinal ischemia, ischemia-reperfusion related retinal injury, and metabolic optic neuropathy.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective treatments for various ophthalmic diseases and disorders, such as diabetic retinopathy and metabolic optic neuropathy."
+    ],
+    "objectives": [
+      "Develop compositions and methods for treating and preventing ophthalmic diseases and disorders using retinylamine derivative compounds."
+    ],
+    "methods": [
+      "Utilize retinylamine derivative compounds in compositions for treating ophthalmic diseases and disorders."
+    ],
+    "results": [
+      "Provide effective treatments for ophthalmic diseases and disorders, including diabetic retinopathy and metabolic optic neuropathy."
+    ],
+    "research_subject": "Treatment of ophthalmic diseases and disorders using retinylamine derivative compounds"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective treatments for various ophthalmic diseases and disorders, including diabetic retinopathy, diabetic maculopathy, diabetic macular edema, retinal ischemia, ischemia-reperfusion related retinal injury, and metabolic optic neuropathy."
+    ],
+    "objectives": [
+      "Develop compositions comprising retinylamine derivative compounds for treating and preventing ophthalmic diseases and disorders."
+    ],
+    "methods": [
+      "Use retinylamine derivative compounds in the compositions for treating ophthalmic diseases and disorders."
+    ],
+    "results": [
+      "Potential treatment and prevention of various ophthalmic diseases and disorders using the developed compositions."
+    ],
+    "research_subject": "Treatment of ophthalmic diseases and disorders using retinylamine derivative compounds"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Ophthalmic diseases and disorders such as diabetic retinopathy, diabetic macular edema, and retinal ischemia represent significant medical challenges requiring effective therapeutic interventions.",
+      "There is a need for novel compositions and treatment methods to address various ophthalmic conditions including metabolic optic neuropathy and ischemia-reperfusion related retinal injury."
+    ],
+    "objectives": [
+      "Develop and provide compositions containing retinylamine derivative compounds for the treatment and prevention of ophthalmic diseases and disorders.",
+      "Establish effective methods for treating diabetic retinopathy, diabetic maculopathy, diabetic macular edema, retinal ischemia, and related conditions."
+    ],
+    "methods": [
+      "Development and formulation of compositions comprising retinylamine derivative compounds.",
+      "Application of these compositions for therapeutic intervention in various ophthalmic conditions."
+    ],
+    "results": [
+      "Provide effective treatment and prevention options for diabetic retinopathy, diabetic macular edema, and other ophthalmic diseases.",
+      "Enable therapeutic management of retinal ischemia, ischemia-reperfusion related retinal injury, and metabolic optic neuropathy."
+    ],
+    "research_subject": "Retinylamine derivative compositions for ophthalmic disease treatment"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective treatments for various ophthalmic diseases and disorders, such as diabetic retinopathy and metabolic optic neuropathy.\"\n  ],\n  \"objectives\": [\n    \"Develop compositions and methods for treating and preventing ophthalmic diseases and disorders using retinylamine derivative compounds.\"\n  ],\n  \"methods\": [\n    \"Utilize retinylamine derivative compounds in compositions for treating ophthalmic diseases and disorders.\"\n  ],\n  \"results\": [\n    \"Provide effective treatments for ophthalmic diseases and disorders, including diabetic retinopathy and metabolic optic neuropathy.\"\n  ],\n  \"research_subject\": \"Treatment of ophthalmic diseases and disorders using retinylamine derivative compounds\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective treatments for various ophthalmic diseases and disorders, including diabetic retinopathy, diabetic maculopathy, diabetic macular edema, retinal ischemia, ischemia-reperfusion related retinal injury, and metabolic optic neuropathy.\"\n  ],\n  \"objectives\": [\n    \"Develop compositions comprising retinylamine derivative compounds for treating and preventing ophthalmic diseases and disorders.\"\n  ],\n  \"methods\": [\n    \"Use retinylamine derivative compounds in the compositions for treating ophthalmic diseases and disorders.\"\n  ],\n  \"results\": [\n    \"Potential treatment and prevention of various ophthalmic diseases and disorders using the developed compositions.\"\n  ],\n  \"research_subject\": \"Treatment of ophthalmic diseases and disorders using retinylamine derivative compounds\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Ophthalmic diseases and disorders such as diabetic retinopathy, diabetic macular edema, and retinal ischemia represent significant medical challenges requiring effective therapeutic interventions.\",\n    \"There is a need for novel compositions and treatment methods to address various ophthalmic conditions including metabolic optic neuropathy and ischemia-reperfusion related retinal injury.\"\n  ],\n  \"objectives\": [\n    \"Develop and provide compositions containing retinylamine derivative compounds for the treatment and prevention of ophthalmic diseases and disorders.\",\n    \"Establish effective methods for treating diabetic retinopathy, diabetic maculopathy, diabetic macular edema, retinal ischemia, and related conditions.\"\n  ],\n  \"methods\": [\n    \"Development and formulation of compositions comprising retinylamine derivative compounds.\",\n    \"Application of these compositions for therapeutic intervention in various ophthalmic conditions.\"\n  ],\n  \"results\": [\n    \"Provide effective treatment and prevention options for diabetic retinopathy, diabetic macular edema, and other ophthalmic diseases.\",\n    \"Enable therapeutic management of retinal ischemia, ischemia-reperfusion related retinal injury, and metabolic optic neuropathy.\"\n  ],\n  \"research_subject\": \"Retinylamine derivative compositions for ophthalmic disease treatment\"\n}\n```"
+}

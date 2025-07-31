@@ -1,0 +1,64 @@
+{
+  "index": 444,
+  "title": "Joint non-uniform detection and low-complexity decoding for multi-level cell NAND flash memory",
+  "abstract": "With the development of manufacture technology, the multi-level cell (MLC) technique dramatically increases the storage density of NAND flash memory. As the result, cell-to-cell interference (CCI) becomes more serious and hence causes an increase in the raw bit error rate of data stored in the cells. Recently, low-density parity-check (LDPC) codes have appeared to be a promising solution to combat the interference of MLC NAND flash memory. However, the decoding complexity of the sum-product algorithm (SPA) is extremely high. In this paper, to improve the accuracy of the log likelihood ratio (LLR) information of each bit in each NAND flash memory cell, we adopt a non-uniform detection (N-UD) which uses the average maximum mutual information to determine the value of the soft-decision reference vlotages. Furthermore, with an aim to reduce the decoding complexity and improve the decoding performance, we propose a modified soft reliability-based iterative majority-logic decoding (MSRBI-MLGD) algorithm, which uses a non-uniform quantizer based on power function to decode LDPC codes. Simulation results show that our design can offer a desirable trade-off between the performance and complexity for high-column-weight LDPC-coded MLC NAND flash memory.",
+  "llama_json": {
+    "motivations": [
+      "Cell-to-cell interference in multi-level cell NAND flash memory increases the raw bit error rate of stored data.",
+      "The decoding complexity of traditional sum-product algorithms for low-density parity-check codes is extremely high."
+    ],
+    "objectives": [
+      "Improve the accuracy of log likelihood ratio information for each bit in NAND flash memory cells.",
+      "Reduce the decoding complexity while maintaining or improving decoding performance for LDPC-coded MLC NAND flash memory."
+    ],
+    "methods": [
+      "Adopt non-uniform detection using average maximum mutual information to determine soft-decision reference voltages.",
+      "Propose a modified soft reliability-based iterative majority-logic decoding algorithm with a non-uniform quantizer based on power function."
+    ],
+    "results": [
+      "Achieve a desirable trade-off between performance and complexity for high-column-weight LDPC-coded MLC NAND flash memory.",
+      "Improve the decoding performance and reduce the decoding complexity compared to traditional sum-product algorithms."
+    ],
+    "research_subject": "Low-complexity decoding and detection for multi-level cell NAND flash memory"
+  },
+  "openai_json": {
+    "motivations": [
+      "The development of multi-level cell (MLC) technique has increased the storage density of NAND flash memory, but also led to serious cell-to-cell interference (CCI), increasing the raw bit error rate.",
+      "Low-density parity-check (LDPC) codes have emerged as a solution to combat the interference of MLC NAND flash memory, but the decoding complexity of the sum-product algorithm (SPA) is extremely high."
+    ],
+    "objectives": [
+      "Improve the accuracy of the log likelihood ratio (LLR) information of each bit in each NAND flash memory cell using a non-uniform detection (N-UD).",
+      "Reduce the decoding complexity and improve the decoding performance of LDPC codes using a modified soft reliability-based iterative majority-logic decoding (MSRBI-MLGD) algorithm."
+    ],
+    "methods": [
+      "Adopt a non-uniform detection (N-UD) that uses the average maximum mutual information to determine the value of the soft-decision reference voltages.",
+      "Propose a MSRBI-MLGD algorithm, which uses a non-uniform quantizer based on power function to decode LDPC codes."
+    ],
+    "results": [
+      "The proposed design offers a desirable trade-off between performance and complexity for high-column-weight LDPC-coded MLC NAND flash memory."
+    ],
+    "research_subject": "Improving detection and reducing decoding complexity for multi-level cell NAND flash memory"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Multi-level cell NAND flash memory suffers from increased cell-to-cell interference, leading to higher raw bit error rates as storage density increases.",
+      "The sum-product algorithm for LDPC decoding has extremely high computational complexity, making it impractical for resource-constrained applications."
+    ],
+    "objectives": [
+      "Improve the accuracy of log likelihood ratio information for each bit in NAND flash memory cells through optimized detection methods.",
+      "Develop a low-complexity decoding algorithm that maintains good performance while reducing computational requirements for LDPC-coded MLC NAND flash memory."
+    ],
+    "methods": [
+      "Implement non-uniform detection using average maximum mutual information to optimize soft-decision reference voltages.",
+      "Develop a modified soft reliability-based iterative majority-logic decoding algorithm with a power function-based non-uniform quantizer for LDPC codes."
+    ],
+    "results": [
+      "The proposed design achieves a desirable trade-off between decoding performance and computational complexity for high-column-weight LDPC-coded MLC NAND flash memory.",
+      "Improved accuracy of bit-level information and reduced decoding complexity compared to conventional approaches."
+    ],
+    "research_subject": "Joint detection and decoding techniques for multi-level cell NAND flash memory"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Cell-to-cell interference in multi-level cell NAND flash memory increases the raw bit error rate of stored data.\",\n    \"The decoding complexity of traditional sum-product algorithms for low-density parity-check codes is extremely high.\"\n  ],\n  \"objectives\": [\n    \"Improve the accuracy of log likelihood ratio information for each bit in NAND flash memory cells.\",\n    \"Reduce the decoding complexity while maintaining or improving decoding performance for LDPC-coded MLC NAND flash memory.\"\n  ],\n  \"methods\": [\n    \"Adopt non-uniform detection using average maximum mutual information to determine soft-decision reference voltages.\",\n    \"Propose a modified soft reliability-based iterative majority-logic decoding algorithm with a non-uniform quantizer based on power function.\"\n  ],\n  \"results\": [\n    \"Achieve a desirable trade-off between performance and complexity for high-column-weight LDPC-coded MLC NAND flash memory.\",\n    \"Improve the decoding performance and reduce the decoding complexity compared to traditional sum-product algorithms.\"\n  ],\n  \"research_subject\": \"Low-complexity decoding and detection for multi-level cell NAND flash memory\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The development of multi-level cell (MLC) technique has increased the storage density of NAND flash memory, but also led to serious cell-to-cell interference (CCI), increasing the raw bit error rate.\",\n    \"Low-density parity-check (LDPC) codes have emerged as a solution to combat the interference of MLC NAND flash memory, but the decoding complexity of the sum-product algorithm (SPA) is extremely high.\"\n  ],\n  \"objectives\": [\n    \"Improve the accuracy of the log likelihood ratio (LLR) information of each bit in each NAND flash memory cell using a non-uniform detection (N-UD).\",\n    \"Reduce the decoding complexity and improve the decoding performance of LDPC codes using a modified soft reliability-based iterative majority-logic decoding (MSRBI-MLGD) algorithm.\"\n  ],\n  \"methods\": [\n    \"Adopt a non-uniform detection (N-UD) that uses the average maximum mutual information to determine the value of the soft-decision reference voltages.\",\n    \"Propose a MSRBI-MLGD algorithm, which uses a non-uniform quantizer based on power function to decode LDPC codes.\"\n  ],\n  \"results\": [\n    \"The proposed design offers a desirable trade-off between performance and complexity for high-column-weight LDPC-coded MLC NAND flash memory.\"\n  ],\n  \"research_subject\": \"Improving detection and reducing decoding complexity for multi-level cell NAND flash memory\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Multi-level cell NAND flash memory suffers from increased cell-to-cell interference, leading to higher raw bit error rates as storage density increases.\",\n    \"The sum-product algorithm for LDPC decoding has extremely high computational complexity, making it impractical for resource-constrained applications.\"\n  ],\n  \"objectives\": [\n    \"Improve the accuracy of log likelihood ratio information for each bit in NAND flash memory cells through optimized detection methods.\",\n    \"Develop a low-complexity decoding algorithm that maintains good performance while reducing computational requirements for LDPC-coded MLC NAND flash memory.\"\n  ],\n  \"methods\": [\n    \"Implement non-uniform detection using average maximum mutual information to optimize soft-decision reference voltages.\",\n    \"Develop a modified soft reliability-based iterative majority-logic decoding algorithm with a power function-based non-uniform quantizer for LDPC codes.\"\n  ],\n  \"results\": [\n    \"The proposed design achieves a desirable trade-off between decoding performance and computational complexity for high-column-weight LDPC-coded MLC NAND flash memory.\",\n    \"Improved accuracy of bit-level information and reduced decoding complexity compared to conventional approaches.\"\n  ],\n  \"research_subject\": \"Joint detection and decoding techniques for multi-level cell NAND flash memory\"\n}\n```"
+}

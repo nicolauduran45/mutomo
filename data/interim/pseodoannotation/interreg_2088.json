@@ -1,0 +1,76 @@
+{
+  "index": 371,
+  "title": "Implementation of Sustainable Land Use in Integrated Environmental Management of Functional Urban Areas",
+  "abstract": "The LUMAT project objective is the implementation of Sustainable Land Use and pilot projects in Integrated Environmental Management in 7 Central European Functional Urban Areas. The LUMAT partnership of cities and regions, environmental agencies and research institutions develop integrated \"Functional Areas Management Strategies (FAMS)\" with shared transnational territorial and scientific competence. FAMS will include planning strategies with innovative technology supported with citizen participation. Local stakeholders will initiate pilot projects by using new interactive information tools from the Urban Atlas and citizen observatories. The ecosystem service concept will support the assessment and decision-making process. The implementation will be based on agreed action plans and pilot/demonstration projects for land and soil including information base and tool for the management of urban-peri-urban relationships. Action plans include financial instruments and institutional solutions e.g. land management agencies or permanent intermunicipal working groups. Tools on FAMS methodology and participation will be an integrative part of FAMS (minimize threats and environmental compensation to get more liveable places starting with the pilots in all regions (successful brownfield redevelopment, green infrastructure, sustainable land use on contaminated land). The project relies on the interplay between strategies and instruments beyond existing practice and on a suitably comprehensive deployment of tools in these areas, including terms of reference (WP1), cooperation, organisation and management by action plans (WP2), investment and pilot actions (WP3). The proposal has already been developed at regional stakeholders meetings and one international workshop in Vienna. All partners committed their engagement by Letters of Support to the Lead Partner. The transfer of outputs and dissemination includes international networks AESOP, ECTP-CEU and ISOCARP, METREX",
+  "llama_json": {
+    "motivations": [
+      "There is a need for sustainable land use and integrated environmental management in functional urban areas to address environmental challenges and improve livability.",
+      "Existing practices in land use management are inadequate, and new strategies and instruments are required to minimize threats and promote sustainable development."
+    ],
+    "objectives": [
+      "Implement Sustainable Land Use and pilot projects in Integrated Environmental Management in Central European Functional Urban Areas.",
+      "Develop and apply Functional Areas Management Strategies (FAMS) with innovative technologies and citizen participation.",
+      "Promote ecosystem services and support assessment and decision-making processes in urban-peri-urban relationships."
+    ],
+    "methods": [
+      "Develop and apply integrated FAMS with shared transnational territorial and scientific competence.",
+      "Use innovative technologies, such as interactive information tools and citizen observatories, to support planning strategies and pilot projects.",
+      "Establish action plans, including financial instruments and institutional solutions, to implement sustainable land use practices."
+    ],
+    "results": [
+      "Improved sustainable land use practices and integrated environmental management in functional urban areas.",
+      "Enhanced livability and reduced environmental threats through successful brownfield redevelopment, green infrastructure, and sustainable land use on contaminated land.",
+      "Transfer of outputs and dissemination of results through international networks and stakeholder engagement."
+    ],
+    "research_subject": "Implementation of Sustainable Land Use in Integrated Environmental Management of Functional Urban Areas"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for sustainable land use and integrated environmental management in urban areas.",
+      "The current lack of shared transnational territorial and scientific competence hinders the development of effective management strategies.",
+      "Existing practices and tools for urban and peri-urban relationship management are insufficient."
+    ],
+    "objectives": [
+      "Implement sustainable land use and pilot projects in seven Central European Functional Urban Areas.",
+      "Develop integrated Functional Areas Management Strategies (FAMS) with shared transnational territorial and scientific competence.",
+      "Initiate pilot projects using new interactive information tools from the Urban Atlas and citizen observatories."
+    ],
+    "methods": [
+      "Develop FAMS that include planning strategies with innovative technology and citizen participation.",
+      "Use the ecosystem service concept to support the assessment and decision-making process.",
+      "Implement agreed action plans and pilot projects for land and soil management, including financial instruments and institutional solutions."
+    ],
+    "results": [
+      "Achieve more livable places through successful brownfield redevelopment, green infrastructure, and sustainable land use on contaminated land.",
+      "Enhance cooperation, organization, and management through action plans.",
+      "Facilitate the transfer of outputs and dissemination through international networks."
+    ],
+    "research_subject": "Sustainable Land Use and Integrated Environmental Management in Urban Areas"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Functional urban areas face challenges in implementing sustainable land use practices and integrated environmental management across administrative boundaries.",
+      "There is a need for improved urban-peri-urban relationships and better management of land resources including brownfields and contaminated sites.",
+      "Current planning approaches lack adequate citizen participation and integrated assessment tools for ecosystem services in urban development decisions."
+    ],
+    "objectives": [
+      "Develop and implement Functional Areas Management Strategies (FAMS) with integrated planning approaches and innovative technology supported by citizen participation.",
+      "Create action plans and pilot projects for sustainable land use management including brownfield redevelopment and green infrastructure in 7 Central European functional urban areas.",
+      "Establish institutional solutions and financial instruments for long-term sustainable land management across municipal boundaries."
+    ],
+    "methods": [
+      "Develop integrated management strategies using Urban Atlas data, citizen observatories, and ecosystem service assessment tools.",
+      "Implement pilot and demonstration projects focusing on brownfield redevelopment, green infrastructure, and sustainable use of contaminated land.",
+      "Establish intermunicipal working groups and land management agencies to ensure cross-boundary cooperation and implementation."
+    ],
+    "results": [
+      "Implementation of sustainable land use practices and integrated environmental management strategies in 7 Central European functional urban areas.",
+      "Creation of replicable tools and methodologies for functional area management that can be transferred to other regions.",
+      "Improved urban-peri-urban relationships and more liveable places through successful pilot projects and enhanced stakeholder participation."
+    ],
+    "research_subject": "Sustainable land use and integrated environmental management in functional urban areas"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for sustainable land use and integrated environmental management in functional urban areas to address environmental challenges and improve livability.\",\n    \"Existing practices in land use management are inadequate, and new strategies and instruments are required to minimize threats and promote sustainable development.\"\n  ],\n  \"objectives\": [\n    \"Implement Sustainable Land Use and pilot projects in Integrated Environmental Management in Central European Functional Urban Areas.\",\n    \"Develop and apply Functional Areas Management Strategies (FAMS) with innovative technologies and citizen participation.\",\n    \"Promote ecosystem services and support assessment and decision-making processes in urban-peri-urban relationships.\"\n  ],\n  \"methods\": [\n    \"Develop and apply integrated FAMS with shared transnational territorial and scientific competence.\",\n    \"Use innovative technologies, such as interactive information tools and citizen observatories, to support planning strategies and pilot projects.\",\n    \"Establish action plans, including financial instruments and institutional solutions, to implement sustainable land use practices.\"\n  ],\n  \"results\": [\n    \"Improved sustainable land use practices and integrated environmental management in functional urban areas.\",\n    \"Enhanced livability and reduced environmental threats through successful brownfield redevelopment, green infrastructure, and sustainable land use on contaminated land.\",\n    \"Transfer of outputs and dissemination of results through international networks and stakeholder engagement.\"\n  ],\n  \"research_subject\": \"Implementation of Sustainable Land Use in Integrated Environmental Management of Functional Urban Areas\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for sustainable land use and integrated environmental management in urban areas.\",\n    \"The current lack of shared transnational territorial and scientific competence hinders the development of effective management strategies.\",\n    \"Existing practices and tools for urban and peri-urban relationship management are insufficient.\"\n  ],\n  \"objectives\": [\n    \"Implement sustainable land use and pilot projects in seven Central European Functional Urban Areas.\",\n    \"Develop integrated Functional Areas Management Strategies (FAMS) with shared transnational territorial and scientific competence.\",\n    \"Initiate pilot projects using new interactive information tools from the Urban Atlas and citizen observatories.\"\n  ],\n  \"methods\": [\n    \"Develop FAMS that include planning strategies with innovative technology and citizen participation.\",\n    \"Use the ecosystem service concept to support the assessment and decision-making process.\",\n    \"Implement agreed action plans and pilot projects for land and soil management, including financial instruments and institutional solutions.\"\n  ],\n  \"results\": [\n    \"Achieve more livable places through successful brownfield redevelopment, green infrastructure, and sustainable land use on contaminated land.\",\n    \"Enhance cooperation, organization, and management through action plans.\",\n    \"Facilitate the transfer of outputs and dissemination through international networks.\"\n  ],\n  \"research_subject\": \"Sustainable Land Use and Integrated Environmental Management in Urban Areas\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Functional urban areas face challenges in implementing sustainable land use practices and integrated environmental management across administrative boundaries.\",\n    \"There is a need for improved urban-peri-urban relationships and better management of land resources including brownfields and contaminated sites.\",\n    \"Current planning approaches lack adequate citizen participation and integrated assessment tools for ecosystem services in urban development decisions.\"\n  ],\n  \"objectives\": [\n    \"Develop and implement Functional Areas Management Strategies (FAMS) with integrated planning approaches and innovative technology supported by citizen participation.\",\n    \"Create action plans and pilot projects for sustainable land use management including brownfield redevelopment and green infrastructure in 7 Central European functional urban areas.\",\n    \"Establish institutional solutions and financial instruments for long-term sustainable land management across municipal boundaries.\"\n  ],\n  \"methods\": [\n    \"Develop integrated management strategies using Urban Atlas data, citizen observatories, and ecosystem service assessment tools.\",\n    \"Implement pilot and demonstration projects focusing on brownfield redevelopment, green infrastructure, and sustainable use of contaminated land.\",\n    \"Establish intermunicipal working groups and land management agencies to ensure cross-boundary cooperation and implementation.\"\n  ],\n  \"results\": [\n    \"Implementation of sustainable land use practices and integrated environmental management strategies in 7 Central European functional urban areas.\",\n    \"Creation of replicable tools and methodologies for functional area management that can be transferred to other regions.\",\n    \"Improved urban-peri-urban relationships and more liveable places through successful pilot projects and enhanced stakeholder participation.\"\n  ],\n  \"research_subject\": \"Sustainable land use and integrated environmental management in functional urban areas\"\n}\n```"
+}

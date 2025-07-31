@@ -1,0 +1,73 @@
+{
+  "index": 230,
+  "title": "Quantitative brain network biomarkers for patient-specific diagnostics in idiopathic generalized epilepsy",
+  "abstract": "Epilepsies are common and highly disabling diseases characterised by recurrent seizures. They constitute a relevant health problem: ~2 million adults suffer from active epilepsy in Europe, leading to significant direct and indirect costs (estimated to be ~14 billion euro (2010)). The scientific objective of this fellowship, to be carried out at the Division of Neuroscience at King's College London and the Centre of Predictive Modelling in Health Care of the University of Exeter, is to develop a novel type of diagnostic biomarker for idiopathic generalised epilepsies (IGE), an important group of syndromes that affects 25-30% of patients, particularly young adults. This will be achieved by conducting a cross-sectional case-control study that will use advanced quantitative neuroimaging techniques to measure alterations of brain network connections in IGE patients and healthy controls, and machine-learning algorithms to (1) classify patients with different seizure types according to these alterations, (2) predict their seizure risk, as assessed with long-term electroencephalography (EEG), and (3) model the effect of network disruption on brain dynamics, using computational modelling. The educational objective is to equip the fellow with the skills needed to become an independent clinical scientist in epileptology. This will be achieved through a comprehensive clinical and scientific teaching programme that will include: (1) part-time participation in clinical rounds and clinical long-term EEG monitoring of complex epilepsy, (2) training in the neuroanatomy and quantitative measurement of white matter connections of the human brain,(3) training in computational neuroscience, and (4) courses in scientific writing and project management. This programme is expected to broaden and diversify the fellow's skills, strengthen the ties between the cooperating research centers and yield novel insights that might help improve clinical management of a highly relevant disease group.",
+  "llama_json": {
+    "motivations": [
+      "Epilepsies are a significant health problem affecting millions of people in Europe, resulting in substantial direct and indirect costs.",
+      "Current diagnostic methods for idiopathic generalized epilepsies (IGE) are inadequate, and there is a need for novel diagnostic biomarkers to improve patient-specific diagnostics."
+    ],
+    "objectives": [
+      "Develop a novel type of diagnostic biomarker for IGE using advanced quantitative neuroimaging techniques and machine-learning algorithms.",
+      "Classify patients with different seizure types according to alterations in brain network connections and predict their seizure risk.",
+      "Equip the fellow with the skills needed to become an independent clinical scientist in epileptology through a comprehensive clinical and scientific teaching programme."
+    ],
+    "methods": [
+      "Conduct a cross-sectional case-control study using advanced quantitative neuroimaging techniques to measure alterations of brain network connections in IGE patients and healthy controls.",
+      "Apply machine-learning algorithms to classify patients and predict seizure risk based on brain network alterations.",
+      "Use computational modelling to model the effect of network disruption on brain dynamics."
+    ],
+    "results": [
+      "Improve patient-specific diagnostics for IGE by developing a novel diagnostic biomarker.",
+      "Enhance the understanding of brain network alterations in IGE patients and their relationship to seizure risk.",
+      "Equip the fellow with the skills needed to become an independent clinical scientist in epileptology."
+    ],
+    "research_subject": "Development of quantitative brain network biomarkers for patient-specific diagnostics in idiopathic generalized epilepsy"
+  },
+  "openai_json": {
+    "motivations": [
+      "Epilepsies are common and highly disabling diseases that affect a significant number of adults in Europe, leading to substantial health costs.",
+      "There is a need for improved diagnostic biomarkers for idiopathic generalized epilepsies (IGE), which affect a large proportion of epilepsy patients, particularly young adults."
+    ],
+    "objectives": [
+      "Develop a novel type of diagnostic biomarker for idiopathic generalized epilepsies (IGE) by conducting a cross-sectional case-control study.",
+      "Use advanced quantitative neuroimaging techniques to measure alterations of brain network connections in IGE patients and healthy controls.",
+      "Apply machine-learning algorithms to classify patients with different seizure types, predict their seizure risk, and model the effect of network disruption on brain dynamics."
+    ],
+    "methods": [
+      "Conduct a cross-sectional case-control study using advanced quantitative neuroimaging techniques.",
+      "Measure alterations of brain network connections in IGE patients and healthy controls.",
+      "Use machine-learning algorithms to classify patients, predict seizure risk, and model the effect of network disruption on brain dynamics."
+    ],
+    "results": [
+      "Development of a novel diagnostic biomarker for idiopathic generalized epilepsies (IGE).",
+      "Improved classification of patients with different seizure types and prediction of their seizure risk.",
+      "Better understanding of the effect of network disruption on brain dynamics in epilepsy."
+    ],
+    "research_subject": "Development of quantitative brain network biomarkers for idiopathic generalized epilepsy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Epilepsy affects approximately 2 million adults in Europe, causing significant health problems and economic costs estimated at 14 billion euros.",
+      "Idiopathic generalized epilepsies affect 25-30% of epilepsy patients, particularly young adults, but lack specific diagnostic biomarkers for personalized treatment."
+    ],
+    "objectives": [
+      "Develop novel diagnostic biomarkers for idiopathic generalized epilepsies using brain network alterations measured through advanced neuroimaging techniques.",
+      "Create machine-learning models to classify patients by seizure type, predict seizure risk, and understand the effects of network disruption on brain dynamics."
+    ],
+    "methods": [
+      "Conduct a cross-sectional case-control study using advanced quantitative neuroimaging to measure brain network connections in patients and controls.",
+      "Apply machine-learning algorithms to classify patients and predict seizure risk based on long-term EEG data.",
+      "Use computational modeling to simulate the effects of network disruption on brain dynamics."
+    ],
+    "results": [
+      "Development of quantitative brain network biomarkers that enable patient-specific diagnostics for idiopathic generalized epilepsy.",
+      "Improved classification of seizure types and prediction of seizure risk through machine learning approaches.",
+      "Enhanced understanding of how network disruptions affect brain dynamics, potentially improving clinical management of epilepsy."
+    ],
+    "research_subject": "Brain network biomarkers for idiopathic generalized epilepsy diagnostics"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Epilepsies are a significant health problem affecting millions of people in Europe, resulting in substantial direct and indirect costs.\",\n    \"Current diagnostic methods for idiopathic generalized epilepsies (IGE) are inadequate, and there is a need for novel diagnostic biomarkers to improve patient-specific diagnostics.\"\n  ],\n  \"objectives\": [\n    \"Develop a novel type of diagnostic biomarker for IGE using advanced quantitative neuroimaging techniques and machine-learning algorithms.\",\n    \"Classify patients with different seizure types according to alterations in brain network connections and predict their seizure risk.\",\n    \"Equip the fellow with the skills needed to become an independent clinical scientist in epileptology through a comprehensive clinical and scientific teaching programme.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional case-control study using advanced quantitative neuroimaging techniques to measure alterations of brain network connections in IGE patients and healthy controls.\",\n    \"Apply machine-learning algorithms to classify patients and predict seizure risk based on brain network alterations.\",\n    \"Use computational modelling to model the effect of network disruption on brain dynamics.\"\n  ],\n  \"results\": [\n    \"Improve patient-specific diagnostics for IGE by developing a novel diagnostic biomarker.\",\n    \"Enhance the understanding of brain network alterations in IGE patients and their relationship to seizure risk.\",\n    \"Equip the fellow with the skills needed to become an independent clinical scientist in epileptology.\"\n  ],\n  \"research_subject\": \"Development of quantitative brain network biomarkers for patient-specific diagnostics in idiopathic generalized epilepsy\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Epilepsies are common and highly disabling diseases that affect a significant number of adults in Europe, leading to substantial health costs.\",\n    \"There is a need for improved diagnostic biomarkers for idiopathic generalized epilepsies (IGE), which affect a large proportion of epilepsy patients, particularly young adults.\"\n  ],\n  \"objectives\": [\n    \"Develop a novel type of diagnostic biomarker for idiopathic generalized epilepsies (IGE) by conducting a cross-sectional case-control study.\",\n    \"Use advanced quantitative neuroimaging techniques to measure alterations of brain network connections in IGE patients and healthy controls.\",\n    \"Apply machine-learning algorithms to classify patients with different seizure types, predict their seizure risk, and model the effect of network disruption on brain dynamics.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional case-control study using advanced quantitative neuroimaging techniques.\",\n    \"Measure alterations of brain network connections in IGE patients and healthy controls.\",\n    \"Use machine-learning algorithms to classify patients, predict seizure risk, and model the effect of network disruption on brain dynamics.\"\n  ],\n  \"results\": [\n    \"Development of a novel diagnostic biomarker for idiopathic generalized epilepsies (IGE).\",\n    \"Improved classification of patients with different seizure types and prediction of their seizure risk.\",\n    \"Better understanding of the effect of network disruption on brain dynamics in epilepsy.\"\n  ],\n  \"research_subject\": \"Development of quantitative brain network biomarkers for idiopathic generalized epilepsy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Epilepsy affects approximately 2 million adults in Europe, causing significant health problems and economic costs estimated at 14 billion euros.\",\n    \"Idiopathic generalized epilepsies affect 25-30% of epilepsy patients, particularly young adults, but lack specific diagnostic biomarkers for personalized treatment.\"\n  ],\n  \"objectives\": [\n    \"Develop novel diagnostic biomarkers for idiopathic generalized epilepsies using brain network alterations measured through advanced neuroimaging techniques.\",\n    \"Create machine-learning models to classify patients by seizure type, predict seizure risk, and understand the effects of network disruption on brain dynamics.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional case-control study using advanced quantitative neuroimaging to measure brain network connections in patients and controls.\",\n    \"Apply machine-learning algorithms to classify patients and predict seizure risk based on long-term EEG data.\",\n    \"Use computational modeling to simulate the effects of network disruption on brain dynamics.\"\n  ],\n  \"results\": [\n    \"Development of quantitative brain network biomarkers that enable patient-specific diagnostics for idiopathic generalized epilepsy.\",\n    \"Improved classification of seizure types and prediction of seizure risk through machine learning approaches.\",\n    \"Enhanced understanding of how network disruptions affect brain dynamics, potentially improving clinical management of epilepsy.\"\n  ],\n  \"research_subject\": \"Brain network biomarkers for idiopathic generalized epilepsy diagnostics\"\n}\n```"
+}

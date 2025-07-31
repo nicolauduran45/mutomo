@@ -1,0 +1,59 @@
+{
+  "index": 460,
+  "title": "FORMATION TESTER COMPRISING REACTIVE FILTER MATERIAL",
+  "abstract": "The embodiments herein relate to formation testers having reactive filter materials for detecting analytes in subterranean formation operations. The formation include a body having an outlet, a probe extendable from the body and having a sealing pad and a probe snorkel tube, a flow line within the body, wherein the flow line has an entry end connectable to the probe snorkel tube and an exit end connectable to the outlet in the body, a sample chamber fluidically connectable to the flow line downstream of the entry end of the flow line, and a reactive filter material in the flow line downstream of the sample chamber. The reactive filter material sorbs an analyte in a wellbore fluid.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for improved formation testers that can effectively detect analytes in subterranean formation operations."
+    ],
+    "objectives": [
+      "Develop a formation tester that incorporates reactive filter materials for detecting analytes in wellbore fluids."
+    ],
+    "methods": [
+      "Design a formation tester with a reactive filter material in the flow line downstream of the sample chamber.",
+      "Utilize the reactive filter material to sorb analytes in wellbore fluids."
+    ],
+    "results": [
+      "Enhance the detection of analytes in subterranean formation operations using reactive filter materials."
+    ],
+    "research_subject": "Development of formation testers with reactive filter materials for analyte detection"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for improved formation testers that can effectively detect analytes in subterranean formation operations."
+    ],
+    "objectives": [
+      "Develop a formation tester with a reactive filter material that can absorb analytes in wellbore fluid."
+    ],
+    "methods": [
+      "Design a formation tester with a body, an extendable probe, a flow line, a sample chamber, and a reactive filter material.",
+      "Place the reactive filter material in the flow line downstream of the sample chamber to sorb analytes in the wellbore fluid."
+    ],
+    "results": [
+      "Enable more effective detection of analytes in subterranean formation operations."
+    ],
+    "research_subject": "Formation tester with reactive filter material for detecting analytes in subterranean operations"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current formation testing methods lack efficient capabilities for detecting and analyzing specific analytes in wellbore fluids during subterranean operations.",
+      "There is a need for improved formation testing equipment that can selectively capture and identify chemical compounds in downhole environments."
+    ],
+    "objectives": [
+      "Develop a formation tester that incorporates reactive filter materials capable of detecting and sorbing specific analytes from wellbore fluids.",
+      "Enable real-time or near-real-time chemical analysis of formation fluids during drilling or testing operations."
+    ],
+    "methods": [
+      "Integration of reactive filter materials within the flow line of formation testing equipment to selectively sorb target analytes.",
+      "Design of a formation tester system with a probe, flow line, sample chamber, and strategically positioned reactive filter material downstream of the sample chamber."
+    ],
+    "results": [
+      "Enhanced capability to detect and capture specific chemical analytes present in wellbore fluids during formation testing.",
+      "Improved accuracy and efficiency in characterizing subterranean formation fluid composition."
+    ],
+    "research_subject": "Formation testing equipment with reactive filter materials for analyte detection in wellbore fluids"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved formation testers that can effectively detect analytes in subterranean formation operations.\"\n  ],\n  \"objectives\": [\n    \"Develop a formation tester that incorporates reactive filter materials for detecting analytes in wellbore fluids.\"\n  ],\n  \"methods\": [\n    \"Design a formation tester with a reactive filter material in the flow line downstream of the sample chamber.\",\n    \"Utilize the reactive filter material to sorb analytes in wellbore fluids.\"\n  ],\n  \"results\": [\n    \"Enhance the detection of analytes in subterranean formation operations using reactive filter materials.\"\n  ],\n  \"research_subject\": \"Development of formation testers with reactive filter materials for analyte detection\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved formation testers that can effectively detect analytes in subterranean formation operations.\"\n  ],\n  \"objectives\": [\n    \"Develop a formation tester with a reactive filter material that can absorb analytes in wellbore fluid.\"\n  ],\n  \"methods\": [\n    \"Design a formation tester with a body, an extendable probe, a flow line, a sample chamber, and a reactive filter material.\",\n    \"Place the reactive filter material in the flow line downstream of the sample chamber to sorb analytes in the wellbore fluid.\"\n  ],\n  \"results\": [\n    \"Enable more effective detection of analytes in subterranean formation operations.\"\n  ],\n  \"research_subject\": \"Formation tester with reactive filter material for detecting analytes in subterranean operations\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current formation testing methods lack efficient capabilities for detecting and analyzing specific analytes in wellbore fluids during subterranean operations.\",\n    \"There is a need for improved formation testing equipment that can selectively capture and identify chemical compounds in downhole environments.\"\n  ],\n  \"objectives\": [\n    \"Develop a formation tester that incorporates reactive filter materials capable of detecting and sorbing specific analytes from wellbore fluids.\",\n    \"Enable real-time or near-real-time chemical analysis of formation fluids during drilling or testing operations.\"\n  ],\n  \"methods\": [\n    \"Integration of reactive filter materials within the flow line of formation testing equipment to selectively sorb target analytes.\",\n    \"Design of a formation tester system with a probe, flow line, sample chamber, and strategically positioned reactive filter material downstream of the sample chamber.\"\n  ],\n  \"results\": [\n    \"Enhanced capability to detect and capture specific chemical analytes present in wellbore fluids during formation testing.\",\n    \"Improved accuracy and efficiency in characterizing subterranean formation fluid composition.\"\n  ],\n  \"research_subject\": \"Formation testing equipment with reactive filter materials for analyte detection in wellbore fluids\"\n}\n```"
+}

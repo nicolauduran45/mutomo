@@ -1,0 +1,72 @@
+{
+  "index": 39,
+  "title": "The Asian Grocery Store-Based Cancer Education Program: Creating New Education Modules",
+  "abstract": "Operating since 1994, the UCSD Moores Cancer Center's Asian Grocery Store-Based Cancer Education Program (the Program) is a proven and sustainable strategy for disseminating cancer and poison control information to Asian and Pacific Islander (API) communities. This paper describes the process taken to identify health topics that can be readily addressed within the Program's infrastructure and reports results of the pilot testing of the educational module that was developed by following that process. The development of each new module is guided by the Health Belief Model and the Tipping Point Model. The process starts with the selection of a health topic demonstrating pressing need and treatment options in the API community. Then, using the Pareto principle, reasonably modifiable risk factors are chosen to be addressed in the module. \"Sticky messaging\" for the modifiable risk factors is developed to package the health information as memorable and transmissible calls-to-action. Finally, grocery store outreaches were used to pilot test the new module to assess its effectiveness at facilitating health care information to API community members. By adhering to the steps described in this paper, the authors were able to: (1) select liver cancer as a pressing API health issue that could be positively impacted by the Program; (2) identify reasonably modifiable risk factors for the chosen health issue; (3) generate compelling call-to-action messages to decrease risk of exposure; and (4) demonstrate the cultural and linguistic alignment of the liver cancer control module. The development and testing of new health education modules follow a methodical process guided by scientific principles. Understanding and employing the elements of an existing evidence-based and sustainable health education program can increase the likelihood of success in addressing the health needs of the API community.",
+  "llama_json": {
+    "motivations": [
+      "There is a pressing need to address specific health issues, such as cancer, in the Asian and Pacific Islander (API) communities due to limited access to health information.",
+      "Existing health education programs require continuous updates and expansion to effectively address emerging health concerns in the API community."
+    ],
+    "objectives": [
+      "Develop and pilot test new education modules addressing critical health topics, such as liver cancer, within the Asian Grocery Store-Based Cancer Education Program.",
+      "Create culturally and linguistically aligned health education materials to facilitate healthcare information dissemination to API community members.",
+      "Evaluate the effectiveness of the new modules in promoting health awareness and behavior change among the API community."
+    ],
+    "methods": [
+      "Utilize the Health Belief Model and the Tipping Point Model to guide the development of new education modules.",
+      "Apply the Pareto principle to identify reasonably modifiable risk factors for the selected health topic.",
+      "Employ 'sticky messaging' to create memorable and transmissible calls-to-action for health information dissemination."
+    ],
+    "results": [
+      "Successful development and pilot testing of a liver cancer control module tailored to the API community's needs.",
+      "Demonstrated cultural and linguistic alignment of the new module, enhancing its potential effectiveness in promoting health awareness and behavior change.",
+      "Established a methodical process for creating new health education modules, increasing the likelihood of success in addressing API community health needs."
+    ],
+    "research_subject": "Development and evaluation of culturally tailored health education modules for Asian and Pacific Islander communities"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to disseminate cancer and poison control information to Asian and Pacific Islander (API) communities.",
+      "Existing health education programs need to be expanded to address other pressing health issues in the API community."
+    ],
+    "objectives": [
+      "Identify health topics that can be addressed within the existing Asian Grocery Store-Based Cancer Education Program infrastructure.",
+      "Develop and pilot test new educational modules for the identified health topics."
+    ],
+    "methods": [
+      "Use the Health Belief Model and the Tipping Point Model to guide the development of new modules.",
+      "Select a pressing health issue in the API community and identify modifiable risk factors to be addressed in the module.",
+      "Develop 'sticky messaging' for the risk factors and pilot test the new module through grocery store outreaches."
+    ],
+    "results": [
+      "Successfully selected liver cancer as a pressing health issue that could be positively impacted by the Program.",
+      "Identified modifiable risk factors for liver cancer and developed compelling call-to-action messages.",
+      "Demonstrated the cultural and linguistic alignment of the liver cancer control module."
+    ],
+    "research_subject": "Development and testing of new health education modules for the Asian Grocery Store-Based Cancer Education Program"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Asian and Pacific Islander communities face significant health disparities and need culturally appropriate cancer education and prevention information.",
+      "There is a pressing need to develop effective strategies for disseminating health information to API communities through accessible and trusted venues."
+    ],
+    "objectives": [
+      "Develop and test new educational modules that address pressing health issues in API communities within the existing grocery store-based program infrastructure.",
+      "Create culturally and linguistically appropriate health education materials that effectively communicate modifiable risk factors and prevention strategies."
+    ],
+    "methods": [
+      "Apply the Health Belief Model and Tipping Point Model to guide module development and identify modifiable risk factors using the Pareto principle.",
+      "Develop \"sticky messaging\" to create memorable and transmissible health information calls-to-action.",
+      "Conduct pilot testing through grocery store outreach events to assess module effectiveness and cultural alignment."
+    ],
+    "results": [
+      "Successfully developed and tested a liver cancer control module that demonstrated cultural and linguistic alignment with API community needs.",
+      "Established a replicable process for creating new health education modules that can address various health issues in API communities.",
+      "Enhanced the capacity of the grocery store-based program to deliver targeted health education on pressing issues like liver cancer prevention."
+    ],
+    "research_subject": "Development and testing of culturally appropriate cancer education modules for Asian and Pacific Islander communities through grocery store-based outreach"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a pressing need to address specific health issues, such as cancer, in the Asian and Pacific Islander (API) communities due to limited access to health information.\",\n    \"Existing health education programs require continuous updates and expansion to effectively address emerging health concerns in the API community.\"\n  ],\n  \"objectives\": [\n    \"Develop and pilot test new education modules addressing critical health topics, such as liver cancer, within the Asian Grocery Store-Based Cancer Education Program.\",\n    \"Create culturally and linguistically aligned health education materials to facilitate healthcare information dissemination to API community members.\",\n    \"Evaluate the effectiveness of the new modules in promoting health awareness and behavior change among the API community.\"\n  ],\n  \"methods\": [\n    \"Utilize the Health Belief Model and the Tipping Point Model to guide the development of new education modules.\",\n    \"Apply the Pareto principle to identify reasonably modifiable risk factors for the selected health topic.\",\n    \"Employ 'sticky messaging' to create memorable and transmissible calls-to-action for health information dissemination.\"\n  ],\n  \"results\": [\n    \"Successful development and pilot testing of a liver cancer control module tailored to the API community's needs.\",\n    \"Demonstrated cultural and linguistic alignment of the new module, enhancing its potential effectiveness in promoting health awareness and behavior change.\",\n    \"Established a methodical process for creating new health education modules, increasing the likelihood of success in addressing API community health needs.\"\n  ],\n  \"research_subject\": \"Development and evaluation of culturally tailored health education modules for Asian and Pacific Islander communities\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to disseminate cancer and poison control information to Asian and Pacific Islander (API) communities.\",\n    \"Existing health education programs need to be expanded to address other pressing health issues in the API community.\"\n  ],\n  \"objectives\": [\n    \"Identify health topics that can be addressed within the existing Asian Grocery Store-Based Cancer Education Program infrastructure.\",\n    \"Develop and pilot test new educational modules for the identified health topics.\"\n  ],\n  \"methods\": [\n    \"Use the Health Belief Model and the Tipping Point Model to guide the development of new modules.\",\n    \"Select a pressing health issue in the API community and identify modifiable risk factors to be addressed in the module.\",\n    \"Develop 'sticky messaging' for the risk factors and pilot test the new module through grocery store outreaches.\"\n  ],\n  \"results\": [\n    \"Successfully selected liver cancer as a pressing health issue that could be positively impacted by the Program.\",\n    \"Identified modifiable risk factors for liver cancer and developed compelling call-to-action messages.\",\n    \"Demonstrated the cultural and linguistic alignment of the liver cancer control module.\"\n  ],\n  \"research_subject\": \"Development and testing of new health education modules for the Asian Grocery Store-Based Cancer Education Program\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Asian and Pacific Islander communities face significant health disparities and need culturally appropriate cancer education and prevention information.\",\n    \"There is a pressing need to develop effective strategies for disseminating health information to API communities through accessible and trusted venues.\"\n  ],\n  \"objectives\": [\n    \"Develop and test new educational modules that address pressing health issues in API communities within the existing grocery store-based program infrastructure.\",\n    \"Create culturally and linguistically appropriate health education materials that effectively communicate modifiable risk factors and prevention strategies.\"\n  ],\n  \"methods\": [\n    \"Apply the Health Belief Model and Tipping Point Model to guide module development and identify modifiable risk factors using the Pareto principle.\",\n    \"Develop \\\"sticky messaging\\\" to create memorable and transmissible health information calls-to-action.\",\n    \"Conduct pilot testing through grocery store outreach events to assess module effectiveness and cultural alignment.\"\n  ],\n  \"results\": [\n    \"Successfully developed and tested a liver cancer control module that demonstrated cultural and linguistic alignment with API community needs.\",\n    \"Established a replicable process for creating new health education modules that can address various health issues in API communities.\",\n    \"Enhanced the capacity of the grocery store-based program to deliver targeted health education on pressing issues like liver cancer prevention.\"\n  ],\n  \"research_subject\": \"Development and testing of culturally appropriate cancer education modules for Asian and Pacific Islander communities through grocery store-based outreach\"\n}\n```"
+}

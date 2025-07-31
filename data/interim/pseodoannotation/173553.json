@@ -1,0 +1,74 @@
+{
+  "index": 272,
+  "title": "Microfluidic advanced manufacturing of ultrasound contrast agents",
+  "abstract": "Tide Microfluidics is developing a patented technology capable of increasing the diagnostic capability of ultrasound. We have an advanced microfluidic manufacturing technique for producing ultrasound contrast agents (UCA) of controlled size to enable 20 times clearer images. Our uniform UCA’s are unique, as current UCA’s are composed of wide size distribution microbubbles, making them less effective. We aim to develop our technology into a bedside production device, which would lead to a reduction in diagnostic imaging costs, as ultrasound is cheaper than MRI or CT, and gives better images for faster and more accurate diagnoses. We would use Phase 1 funding to commercially and technically assess the feasibility of our device. We need to understand the users requirements and how best to fit into their workflow, as well as how to create a robust, reliable and user-friendly design. Economic viability will be studied, as pricing must be cost effective or market uptake will not occur. Finally, we will investigate the clinical validation needs and level of medical certification required for our bedside production device to be accepted in Europe, the USA and the rest of the world. This knowledge on feasibility, cost pricing and validation defined in Phase 1 would work as a roadmap for our development during a Phase 2 project. Thus, exploitation of SME instrument Phases 1 and 2 would secure the continuous development and validation of our device allowing for a rapid market entry, bringing a valuable tool to the end users and reducing healthcare costs. We aim to enter the ultrasound imaging market with our bedside device. Currently, more than 3 million ultrasound procedures using UCA‘s are carried out each year worldwide, with the European market alone worth $46 million. Ultimately, our vision is to become the world’s foremost supplier of UCA production devices delivering high definition contrast agents, enabling clearer diagnostic images for more effective patient care.",
+  "llama_json": {
+    "motivations": [
+      "Current ultrasound contrast agents have limited diagnostic capability due to their wide size distribution, leading to less effective imaging.",
+      "There is a need for cost-effective and efficient diagnostic imaging solutions, as current methods like MRI and CT scans are expensive and may not provide optimal image quality."
+    ],
+    "objectives": [
+      "Develop a bedside production device for uniform ultrasound contrast agents to enhance diagnostic imaging capabilities.",
+      "Reduce diagnostic imaging costs by providing a more effective and affordable alternative to MRI and CT scans.",
+      "Enter the ultrasound imaging market with the developed device and become a leading supplier of high-definition contrast agents."
+    ],
+    "methods": [
+      "Utilize a patented microfluidic manufacturing technique to produce uniform ultrasound contrast agents.",
+      "Conduct commercial and technical feasibility assessments to inform device development and market entry.",
+      "Investigate clinical validation needs and medical certification requirements for the device in various regions."
+    ],
+    "results": [
+      "Improve diagnostic imaging capabilities with uniform ultrasound contrast agents, enabling 20 times clearer images.",
+      "Reduce healthcare costs by providing a cost-effective alternative to current diagnostic imaging methods.",
+      "Enhance patient care through more accurate and efficient diagnoses."
+    ],
+    "research_subject": "Microfluidic manufacturing of uniform ultrasound contrast agents for enhanced diagnostic imaging"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current ultrasound contrast agents (UCA) have a wide size distribution, making them less effective for clear imaging.",
+      "There is a need for cost-effective diagnostic imaging techniques that provide faster and more accurate diagnoses."
+    ],
+    "objectives": [
+      "Develop an advanced microfluidic manufacturing technique for producing uniform UCAs to enable clearer ultrasound images.",
+      "Transform the technology into a bedside production device to reduce diagnostic imaging costs.",
+      "Understand user requirements, create a robust and user-friendly design, and investigate the clinical validation needs and certification requirements for market acceptance."
+    ],
+    "methods": [
+      "Use patented technology to increase the diagnostic capability of ultrasound by producing UCAs of controlled size.",
+      "Assess the commercial and technical feasibility of the bedside production device.",
+      "Study economic viability, user requirements, and certification needs for market acceptance."
+    ],
+    "results": [
+      "Achieve 20 times clearer ultrasound images through uniform UCAs.",
+      "Reduce healthcare costs by offering a cheaper alternative to MRI or CT scans.",
+      "Provide a valuable tool for end users, enabling more effective patient care."
+    ],
+    "research_subject": "Advanced manufacturing of ultrasound contrast agents using microfluidic technology"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current ultrasound contrast agents have wide size distributions that limit their effectiveness and diagnostic capability.",
+      "There is a need for more cost-effective diagnostic imaging solutions that can provide clearer images for faster and more accurate diagnoses."
+    ],
+    "objectives": [
+      "Develop a bedside microfluidic device that produces uniform ultrasound contrast agents with controlled size for enhanced diagnostic imaging.",
+      "Assess the commercial and technical feasibility of the device, including user requirements, workflow integration, and economic viability.",
+      "Investigate clinical validation requirements and medical certification needs for market acceptance in Europe, USA, and globally."
+    ],
+    "methods": [
+      "Use patented microfluidic manufacturing technology to produce size-controlled ultrasound contrast agents.",
+      "Conduct feasibility studies to understand user requirements, workflow integration, and design specifications for a robust bedside device.",
+      "Analyze economic viability, pricing strategies, and regulatory requirements for medical certification."
+    ],
+    "results": [
+      "Enable 20 times clearer ultrasound images through uniform contrast agents, improving diagnostic accuracy and patient care.",
+      "Reduce diagnostic imaging costs by providing a more effective alternative to MRI and CT scans.",
+      "Establish a roadmap for device development and validation to facilitate rapid market entry in the global ultrasound imaging market."
+    ],
+    "research_subject": "Microfluidic manufacturing of uniform ultrasound contrast agents for enhanced diagnostic imaging"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current ultrasound contrast agents have limited diagnostic capability due to their wide size distribution, leading to less effective imaging.\",\n    \"There is a need for cost-effective and efficient diagnostic imaging solutions, as current methods like MRI and CT scans are expensive and may not provide optimal image quality.\"\n  ],\n  \"objectives\": [\n    \"Develop a bedside production device for uniform ultrasound contrast agents to enhance diagnostic imaging capabilities.\",\n    \"Reduce diagnostic imaging costs by providing a more effective and affordable alternative to MRI and CT scans.\",\n    \"Enter the ultrasound imaging market with the developed device and become a leading supplier of high-definition contrast agents.\"\n  ],\n  \"methods\": [\n    \"Utilize a patented microfluidic manufacturing technique to produce uniform ultrasound contrast agents.\",\n    \"Conduct commercial and technical feasibility assessments to inform device development and market entry.\",\n    \"Investigate clinical validation needs and medical certification requirements for the device in various regions.\"\n  ],\n  \"results\": [\n    \"Improve diagnostic imaging capabilities with uniform ultrasound contrast agents, enabling 20 times clearer images.\",\n    \"Reduce healthcare costs by providing a cost-effective alternative to current diagnostic imaging methods.\",\n    \"Enhance patient care through more accurate and efficient diagnoses.\"\n  ],\n  \"research_subject\": \"Microfluidic manufacturing of uniform ultrasound contrast agents for enhanced diagnostic imaging\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current ultrasound contrast agents (UCA) have a wide size distribution, making them less effective for clear imaging.\",\n    \"There is a need for cost-effective diagnostic imaging techniques that provide faster and more accurate diagnoses.\"\n  ],\n  \"objectives\": [\n    \"Develop an advanced microfluidic manufacturing technique for producing uniform UCAs to enable clearer ultrasound images.\",\n    \"Transform the technology into a bedside production device to reduce diagnostic imaging costs.\",\n    \"Understand user requirements, create a robust and user-friendly design, and investigate the clinical validation needs and certification requirements for market acceptance.\"\n  ],\n  \"methods\": [\n    \"Use patented technology to increase the diagnostic capability of ultrasound by producing UCAs of controlled size.\",\n    \"Assess the commercial and technical feasibility of the bedside production device.\",\n    \"Study economic viability, user requirements, and certification needs for market acceptance.\"\n  ],\n  \"results\": [\n    \"Achieve 20 times clearer ultrasound images through uniform UCAs.\",\n    \"Reduce healthcare costs by offering a cheaper alternative to MRI or CT scans.\",\n    \"Provide a valuable tool for end users, enabling more effective patient care.\"\n  ],\n  \"research_subject\": \"Advanced manufacturing of ultrasound contrast agents using microfluidic technology\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current ultrasound contrast agents have wide size distributions that limit their effectiveness and diagnostic capability.\",\n    \"There is a need for more cost-effective diagnostic imaging solutions that can provide clearer images for faster and more accurate diagnoses.\"\n  ],\n  \"objectives\": [\n    \"Develop a bedside microfluidic device that produces uniform ultrasound contrast agents with controlled size for enhanced diagnostic imaging.\",\n    \"Assess the commercial and technical feasibility of the device, including user requirements, workflow integration, and economic viability.\",\n    \"Investigate clinical validation requirements and medical certification needs for market acceptance in Europe, USA, and globally.\"\n  ],\n  \"methods\": [\n    \"Use patented microfluidic manufacturing technology to produce size-controlled ultrasound contrast agents.\",\n    \"Conduct feasibility studies to understand user requirements, workflow integration, and design specifications for a robust bedside device.\",\n    \"Analyze economic viability, pricing strategies, and regulatory requirements for medical certification.\"\n  ],\n  \"results\": [\n    \"Enable 20 times clearer ultrasound images through uniform contrast agents, improving diagnostic accuracy and patient care.\",\n    \"Reduce diagnostic imaging costs by providing a more effective alternative to MRI and CT scans.\",\n    \"Establish a roadmap for device development and validation to facilitate rapid market entry in the global ultrasound imaging market.\"\n  ],\n  \"research_subject\": \"Microfluidic manufacturing of uniform ultrasound contrast agents for enhanced diagnostic imaging\"\n}\n```"
+}

@@ -1,0 +1,74 @@
+{
+  "index": 290,
+  "title": "Nuestra experiencia con un programa conjunto de mejora de eficiencia en pacientes con patología de raquis",
+  "abstract": "espanolObjetivo: evaluar el alivo del dolor mediante la escala visual analogica (EVA) en pacientes con dolor cronico de origen vertebral despues de la valoracion conjunta y recibir tratamiento por un equipo multidisciplinar. Material y metodo: estudio prospectivo de 82 pacientes consecutivos con patologia raquidea que han sido valorados por el Grupo de trabajo medico (Servicio de Rehabilitacion y Unidad del dolor). Se ha volarado la intensidad del dolor mediante el EVA, previo al tratamiento especifico segun la etiopatogenia del dolor, y a los 3 meses de su realizacion. Asimismo se han evaluado las patologias asociadas (PA) y su correlacion con la causa y el alivio del dolor. Estudio estadistico mediante el programa SPSS. Resultados: el tiempo de evolucion del problema de salud fue de 31,1 meses (DE 22,17). La espera para la visita conjunta fue de 2,9 semanas (DE 1,95). La clinica principal fue la lumbociatalgia en un 83,5% de los pacientes, siendo la patologia de canal estrecho el diagnostico principal en el 45,1% de los casos, seguido de la patologia degenerativa (14,6%) y de la estenosis foraminal (11,7%). Se evaluo el EVA inicial y a los 3 meses de la intervencion terapeutica ya sea con tratamiento conservador o con tecnicas minimamente invasivas (TMI). Las tecnicas terapeuticas empleadas fueron: infiltraciones epidurales (28 casos), bloqueos foraminales (15), bloqueos facetarios (5), estimulacion electrica transcutanea (3), tratamiento farmacologico (15) y en 16 casos se requirio mas de una tecnica. El EVA medio inicial fue de 7,75 y a los 3 meses fue de 4,94 existiendo diferencias clinicamente significativas. Asimismo existe una correlacion positiva entre la edad y el numero de PA, pero no entre el EVA inicial/final y el numero de PA. Tambien se ha observado correlacion positiva entre el EVA y la etiopatogenia del dolor. Conclusion: los resultados obtenidos reafirman la necesidad de optimizar los recursos sanitarios utilizados con el fin de mejorar la eficiencia y la eficacia terapeutica. EnglishAim: to evaluate the pain relief with the Visual Analogue Scale (VAS) in pacients with chronic spinal pain after receiving treatment and the assessment of a multidisciplinary team. Material and method: prospective study with 82 consecutive patients with spinal pain which have been assessed by the Medical team (Rehabilitation Department and Pain Unit). The intensity of pain have been evaluated with the Visual Analogue Scale (VAS) before specific treatment regarding the etiopathology of pain and after 3 months. Also the associated pathologies (AP) and their correlation with the cause and the relief of pain have been assessed. The statistical study has been performed with SPSS. Results: the evolution time of the health problem was 31.1 months (SD 22.17). The waiting time fot the team visit was 2.9 weeks (SD 1.95). The main pathology was lumbosciatalgia (83.5% of the patients), being the narrowing of the spinal canal the main diagnose (45.1% of the cases), followed by the degenerative pathology (14.6%) and the foraminal stenosis (11.7%). The VAS was administered at the beginning and 3 months after the therapeutic intervention, both in the case of conservative treatment or with minimally invasive techniques (MIT). The therapeutic methods used were: epidural infiltrations (28 cases), foraminal blocks (15), facetary block (5), transcutaneous electrical stimulation (3), pharmacological treatment (15) and, in 16 cases, more than one technique was recquired. The mean initial VAS was 7.75 and 4.94 after 3 months, existing clinically significative differences. Also there is a positive correlation between the age and the number of APs, but not between the initial/final VAS and the number of APs. Finally a positive correlation between the VAS and the etiopathogeny of pain was found. Conclusion: the results obtained reassert the need to optimize the sanitary resources used in order to improve the therapeutic efficiency and efficacy.",
+  "llama_json": {
+    "motivations": [
+      "Chronic spinal pain is a significant health issue that requires effective management and treatment.",
+      "There is a need to optimize healthcare resources to improve therapeutic efficiency and efficacy in treating spinal pain."
+    ],
+    "objectives": [
+      "Evaluate the effectiveness of a multidisciplinary team approach in managing chronic spinal pain.",
+      "Assess the impact of specific treatments on pain relief using the Visual Analogue Scale (VAS).",
+      "Investigate the correlation between associated pathologies and pain relief."
+    ],
+    "methods": [
+      "Conducted a prospective study with 82 consecutive patients with spinal pain.",
+      "Used a multidisciplinary team approach to assess and treat patients.",
+      "Employed various therapeutic methods, including epidural infiltrations, foraminal blocks, and pharmacological treatment."
+    ],
+    "results": [
+      "Significant pain relief was achieved in patients with chronic spinal pain after treatment.",
+      "A positive correlation was found between the etiopathogeny of pain and pain relief.",
+      "The results highlight the importance of optimizing healthcare resources to improve therapeutic efficiency and efficacy."
+    ],
+    "research_subject": "Multidisciplinary management of chronic spinal pain"
+  },
+  "openai_json": {
+    "motivations": [
+      "Chronic spinal pain patients require effective pain relief methods after receiving treatment from a multidisciplinary team.",
+      "There is a need to evaluate the correlation between associated pathologies and the cause and relief of pain.",
+      "Optimizing the use of sanitary resources to improve therapeutic efficiency and efficacy is necessary."
+    ],
+    "objectives": [
+      "Evaluate the pain relief in patients with chronic spinal pain using the Visual Analogue Scale (VAS) before and after specific treatment.",
+      "Assess the correlation between associated pathologies and the cause and relief of pain.",
+      "Optimize the use of sanitary resources to improve therapeutic efficiency and efficacy."
+    ],
+    "methods": [
+      "Conduct a prospective study with 82 consecutive patients with spinal pain, assessing their pain intensity using the VAS before and after specific treatment.",
+      "Evaluate the associated pathologies and their correlation with the cause and relief of pain.",
+      "Use various therapeutic methods such as epidural infiltrations, foraminal blocks, facetary block, transcutaneous electrical stimulation, and pharmacological treatment."
+    ],
+    "results": [
+      "Significant clinical differences were found in the VAS scores before and after the therapeutic intervention.",
+      "A positive correlation was found between the age and the number of associated pathologies, but not between the initial/final VAS and the number of associated pathologies.",
+      "A positive correlation was found between the VAS and the etiopathogeny of pain."
+    ],
+    "research_subject": "Evaluation of pain relief and therapeutic efficiency in patients with chronic spinal pain"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Patients with chronic spinal pain require optimized treatment approaches to improve therapeutic efficiency and efficacy.",
+      "There is a need to evaluate the effectiveness of multidisciplinary team approaches in managing chronic vertebral pain."
+    ],
+    "objectives": [
+      "Evaluate pain relief using the Visual Analogue Scale (VAS) in patients with chronic spinal pain after multidisciplinary team assessment and treatment.",
+      "Assess the correlation between associated pathologies and pain etiology and relief."
+    ],
+    "methods": [
+      "Prospective study evaluating pain intensity using VAS before and after specific treatment based on pain etiopathology.",
+      "Implementation of various therapeutic techniques including epidural infiltrations, foraminal blocks, facetary blocks, transcutaneous electrical stimulation, and pharmacological treatment.",
+      "Statistical analysis to evaluate correlations between age, associated pathologies, and pain outcomes."
+    ],
+    "results": [
+      "Mean VAS score decreased from 7.75 to 4.94 after 3 months, showing clinically significant pain reduction.",
+      "Positive correlation was found between age and number of associated pathologies, and between VAS scores and pain etiopathology.",
+      "Results confirm the need to optimize healthcare resources to improve therapeutic efficiency and efficacy."
+    ],
+    "research_subject": "Multidisciplinary treatment effectiveness for chronic spinal pain"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Chronic spinal pain is a significant health issue that requires effective management and treatment.\",\n    \"There is a need to optimize healthcare resources to improve therapeutic efficiency and efficacy in treating spinal pain.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the effectiveness of a multidisciplinary team approach in managing chronic spinal pain.\",\n    \"Assess the impact of specific treatments on pain relief using the Visual Analogue Scale (VAS).\",\n    \"Investigate the correlation between associated pathologies and pain relief.\"\n  ],\n  \"methods\": [\n    \"Conducted a prospective study with 82 consecutive patients with spinal pain.\",\n    \"Used a multidisciplinary team approach to assess and treat patients.\",\n    \"Employed various therapeutic methods, including epidural infiltrations, foraminal blocks, and pharmacological treatment.\"\n  ],\n  \"results\": [\n    \"Significant pain relief was achieved in patients with chronic spinal pain after treatment.\",\n    \"A positive correlation was found between the etiopathogeny of pain and pain relief.\",\n    \"The results highlight the importance of optimizing healthcare resources to improve therapeutic efficiency and efficacy.\"\n  ],\n  \"research_subject\": \"Multidisciplinary management of chronic spinal pain\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Chronic spinal pain patients require effective pain relief methods after receiving treatment from a multidisciplinary team.\",\n    \"There is a need to evaluate the correlation between associated pathologies and the cause and relief of pain.\",\n    \"Optimizing the use of sanitary resources to improve therapeutic efficiency and efficacy is necessary.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the pain relief in patients with chronic spinal pain using the Visual Analogue Scale (VAS) before and after specific treatment.\",\n    \"Assess the correlation between associated pathologies and the cause and relief of pain.\",\n    \"Optimize the use of sanitary resources to improve therapeutic efficiency and efficacy.\"\n  ],\n  \"methods\": [\n    \"Conduct a prospective study with 82 consecutive patients with spinal pain, assessing their pain intensity using the VAS before and after specific treatment.\",\n    \"Evaluate the associated pathologies and their correlation with the cause and relief of pain.\",\n    \"Use various therapeutic methods such as epidural infiltrations, foraminal blocks, facetary block, transcutaneous electrical stimulation, and pharmacological treatment.\"\n  ],\n  \"results\": [\n    \"Significant clinical differences were found in the VAS scores before and after the therapeutic intervention.\",\n    \"A positive correlation was found between the age and the number of associated pathologies, but not between the initial/final VAS and the number of associated pathologies.\",\n    \"A positive correlation was found between the VAS and the etiopathogeny of pain.\"\n  ],\n  \"research_subject\": \"Evaluation of pain relief and therapeutic efficiency in patients with chronic spinal pain\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Patients with chronic spinal pain require optimized treatment approaches to improve therapeutic efficiency and efficacy.\",\n    \"There is a need to evaluate the effectiveness of multidisciplinary team approaches in managing chronic vertebral pain.\"\n  ],\n  \"objectives\": [\n    \"Evaluate pain relief using the Visual Analogue Scale (VAS) in patients with chronic spinal pain after multidisciplinary team assessment and treatment.\",\n    \"Assess the correlation between associated pathologies and pain etiology and relief.\"\n  ],\n  \"methods\": [\n    \"Prospective study evaluating pain intensity using VAS before and after specific treatment based on pain etiopathology.\",\n    \"Implementation of various therapeutic techniques including epidural infiltrations, foraminal blocks, facetary blocks, transcutaneous electrical stimulation, and pharmacological treatment.\",\n    \"Statistical analysis to evaluate correlations between age, associated pathologies, and pain outcomes.\"\n  ],\n  \"results\": [\n    \"Mean VAS score decreased from 7.75 to 4.94 after 3 months, showing clinically significant pain reduction.\",\n    \"Positive correlation was found between age and number of associated pathologies, and between VAS scores and pain etiopathology.\",\n    \"Results confirm the need to optimize healthcare resources to improve therapeutic efficiency and efficacy.\"\n  ],\n  \"research_subject\": \"Multidisciplinary treatment effectiveness for chronic spinal pain\"\n}\n```"
+}

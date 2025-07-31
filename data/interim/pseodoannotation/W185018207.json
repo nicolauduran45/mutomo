@@ -1,0 +1,66 @@
+{
+  "index": 190,
+  "title": "A Comparison of the Gravimetric Geoid and the Geometric Geoid Using GPS/Leveling Data",
+  "abstract": "The geoid is the level surface that closely approximates mean sea level and usually used for the origin of vertical datum. For the computation of geoid, various sources of gravity measurements are used in South Korea and, as a consequence, the geoid models may show different results. however, a limited analysis has been performed due to a lack of controlled data, namely the GPS/Leveling data. Therefore, in this study, the gravimetric geoids are compared with the geodetic geoid which is obtained through the GPS/Leveling procedures. The gravimetric geoids are categorized into geoid from airborne gravimetry, geoid from the terrestrial gravimetry, NGII geoid(geoids published by National Geographic Information Institute) and NORI geoid(geoi published by National Oceanographic Research Institute), respectively. For the analysis, the geometric geoid is obtained at each unified national control point and the difference between geodetic and gravimetric geoid is computed. Also, the geoid height data is gridded on a regular grid so that the FFT method can be applied to analyze the geoid height differences in frequency domain. The results show that no significant differences in standard deviation are observed when the geoids from the airborne and terrestrial gravimetry are compared with the geomertric geoid while relatively large difference are shown when NGII geoid and NORI geoid are compared with geometric geoid. Also, NGII geoid and NORI geoid are analyzed in frequency domain and the deviations occurs in long-wavelength domain.",
+  "llama_json": {
+    "motivations": [
+      "Different geoid models in South Korea show varying results due to the use of diverse gravity measurement sources.",
+      "Limited analysis has been conducted to compare these models due to the lack of controlled GPS/Leveling data."
+    ],
+    "objectives": [
+      "Compare the gravimetric geoids with the geometric geoid obtained through GPS/Leveling procedures.",
+      "Analyze the differences between geodetic and gravimetric geoids in both spatial and frequency domains."
+    ],
+    "methods": [
+      "Categorize gravimetric geoids into airborne, terrestrial, NGII, and NORI geoids for comparison.",
+      "Compute the difference between geodetic and gravimetric geoids at unified national control points.",
+      "Apply the FFT method to analyze geoid height differences in the frequency domain."
+    ],
+    "results": [
+      "No significant differences in standard deviation are observed between airborne and terrestrial gravimetry geoids and the geometric geoid.",
+      "Relatively large differences are found between NGII and NORI geoids and the geometric geoid, particularly in the long-wavelength domain."
+    ],
+    "research_subject": "Comparison of gravimetric and geometric geoids using GPS/Leveling data in South Korea"
+  },
+  "openai_json": {
+    "motivations": [
+      "Different sources of gravity measurements used in South Korea result in varying geoid models, but limited analysis has been performed due to a lack of controlled data.",
+      "There is a need to compare gravimetric geoids with the geodetic geoid obtained through GPS/Leveling procedures."
+    ],
+    "objectives": [
+      "Compare the gravimetric geoids from different sources with the geodetic geoid obtained through GPS/Leveling procedures.",
+      "Analyze the differences in geoid height in the frequency domain using the FFT method."
+    ],
+    "methods": [
+      "Obtain the geometric geoid at each unified national control point and compute the difference between geodetic and gravimetric geoid.",
+      "Grid the geoid height data on a regular grid to apply the FFT method for frequency domain analysis."
+    ],
+    "results": [
+      "No significant differences in standard deviation are observed when the geoids from the airborne and terrestrial gravimetry are compared with the geometric geoid.",
+      "Relatively large differences are shown when NGII geoid and NORI geoid are compared with the geometric geoid, with deviations occurring in the long-wavelength domain."
+    ],
+    "research_subject": "Comparison of gravimetric and geometric geoids using GPS/Leveling data"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Different sources of gravity measurements in South Korea produce varying geoid models, but limited analysis has been performed due to lack of controlled GPS/Leveling data.",
+      "There is a need to evaluate and compare the accuracy of different gravimetric geoid models against a reliable reference."
+    ],
+    "objectives": [
+      "Compare various gravimetric geoid models with the geometric geoid obtained through GPS/Leveling procedures.",
+      "Analyze the differences between geodetic and gravimetric geoids in both spatial and frequency domains."
+    ],
+    "methods": [
+      "Obtain geometric geoid data at unified national control points and compute differences with gravimetric geoids from airborne gravimetry, terrestrial gravimetry, NGII, and NORI sources.",
+      "Grid the geoid height data on regular grids and apply FFT method for frequency domain analysis."
+    ],
+    "results": [
+      "No significant differences in standard deviation were found between geoids from airborne and terrestrial gravimetry compared to geometric geoid.",
+      "NGII and NORI geoids showed relatively large differences compared to geometric geoid, with deviations occurring in the long-wavelength domain."
+    ],
+    "research_subject": "Comparison of gravimetric and geometric geoid models using GPS/Leveling data in South Korea"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Different geoid models in South Korea show varying results due to the use of diverse gravity measurement sources.\",\n    \"Limited analysis has been conducted to compare these models due to the lack of controlled GPS/Leveling data.\"\n  ],\n  \"objectives\": [\n    \"Compare the gravimetric geoids with the geometric geoid obtained through GPS/Leveling procedures.\",\n    \"Analyze the differences between geodetic and gravimetric geoids in both spatial and frequency domains.\"\n  ],\n  \"methods\": [\n    \"Categorize gravimetric geoids into airborne, terrestrial, NGII, and NORI geoids for comparison.\",\n    \"Compute the difference between geodetic and gravimetric geoids at unified national control points.\",\n    \"Apply the FFT method to analyze geoid height differences in the frequency domain.\"\n  ],\n  \"results\": [\n    \"No significant differences in standard deviation are observed between airborne and terrestrial gravimetry geoids and the geometric geoid.\",\n    \"Relatively large differences are found between NGII and NORI geoids and the geometric geoid, particularly in the long-wavelength domain.\"\n  ],\n  \"research_subject\": \"Comparison of gravimetric and geometric geoids using GPS/Leveling data in South Korea\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Different sources of gravity measurements used in South Korea result in varying geoid models, but limited analysis has been performed due to a lack of controlled data.\",\n    \"There is a need to compare gravimetric geoids with the geodetic geoid obtained through GPS/Leveling procedures.\"\n  ],\n  \"objectives\": [\n    \"Compare the gravimetric geoids from different sources with the geodetic geoid obtained through GPS/Leveling procedures.\",\n    \"Analyze the differences in geoid height in the frequency domain using the FFT method.\"\n  ],\n  \"methods\": [\n    \"Obtain the geometric geoid at each unified national control point and compute the difference between geodetic and gravimetric geoid.\",\n    \"Grid the geoid height data on a regular grid to apply the FFT method for frequency domain analysis.\"\n  ],\n  \"results\": [\n    \"No significant differences in standard deviation are observed when the geoids from the airborne and terrestrial gravimetry are compared with the geometric geoid.\",\n    \"Relatively large differences are shown when NGII geoid and NORI geoid are compared with the geometric geoid, with deviations occurring in the long-wavelength domain.\"\n  ],\n  \"research_subject\": \"Comparison of gravimetric and geometric geoids using GPS/Leveling data\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Different sources of gravity measurements in South Korea produce varying geoid models, but limited analysis has been performed due to lack of controlled GPS/Leveling data.\",\n    \"There is a need to evaluate and compare the accuracy of different gravimetric geoid models against a reliable reference.\"\n  ],\n  \"objectives\": [\n    \"Compare various gravimetric geoid models with the geometric geoid obtained through GPS/Leveling procedures.\",\n    \"Analyze the differences between geodetic and gravimetric geoids in both spatial and frequency domains.\"\n  ],\n  \"methods\": [\n    \"Obtain geometric geoid data at unified national control points and compute differences with gravimetric geoids from airborne gravimetry, terrestrial gravimetry, NGII, and NORI sources.\",\n    \"Grid the geoid height data on regular grids and apply FFT method for frequency domain analysis.\"\n  ],\n  \"results\": [\n    \"No significant differences in standard deviation were found between geoids from airborne and terrestrial gravimetry compared to geometric geoid.\",\n    \"NGII and NORI geoids showed relatively large differences compared to geometric geoid, with deviations occurring in the long-wavelength domain.\"\n  ],\n  \"research_subject\": \"Comparison of gravimetric and geometric geoid models using GPS/Leveling data in South Korea\"\n}\n```"
+}

@@ -1,0 +1,57 @@
+{
+  "index": 315,
+  "title": "COMPLEXES OF CU(I) AS ANTITUMOR AGENTS",
+  "abstract": "The invention relates to a Cu(l) complex of Formula (I), wherein L is a ligand of Formula (II), wherein n1, n2, n3 are independently to each other, an integer from 0 to 1, A1, A2 and A3 are independently from each other,- a phenyl optionally substituted with (C1-C3)alkoxy, (C1-C3)alkyl, F, formyl, carboxyl, sulphonyl hydroxyl, hydroxyl, methoxy(C1-C3)alkoxy or - an heterocyclic ring selected from piperazinyl, morpholynyl, thiomorpholynyl, optionally substituted with (C1-C3)alkyl, where the heterocyclic ring is linked with the nitrogen atom to -CH2- residue, with the proviso that when A1, A2 or A3 is optionally substituted phenyl, then n1, n2 or n3, respectively, is 0, and when A1, A2 or A3 is optionally substituted heterocyclic ring, then n1, n2 or n3, respectively, is 1, for use in the treatment of tumours.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective antitumor agents to treat tumors."
+    ],
+    "objectives": [
+      "Develop Cu(I) complexes as antitumor agents for the treatment of tumors."
+    ],
+    "methods": [
+      "Design and synthesize Cu(I) complexes with specific ligands to create potential antitumor agents."
+    ],
+    "results": [
+      "Provide a new class of compounds for the treatment of tumors."
+    ],
+    "research_subject": "Cu(I) complexes as antitumor agents"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective antitumor agents for the treatment of various types of tumors."
+    ],
+    "objectives": [
+      "Develop a Cu(I) complex of a specific formula for use as an antitumor agent."
+    ],
+    "methods": [
+      "Design and synthesize a Cu(I) complex with a specific ligand structure, where the ligand and its substituents are defined by certain parameters."
+    ],
+    "results": [
+      "Potential development of a new antitumor agent based on a Cu(I) complex."
+    ],
+    "research_subject": "Development of Cu(I) complexes as potential antitumor agents"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for new antitumor agents with improved efficacy and selectivity for cancer treatment.",
+      "Cu(I) complexes represent a promising class of compounds with potential therapeutic applications in oncology."
+    ],
+    "objectives": [
+      "Develop and characterize Cu(I) complexes with specific ligand structures for use as antitumor agents.",
+      "Evaluate the therapeutic potential of these Cu(I) complexes in tumor treatment."
+    ],
+    "methods": [
+      "Synthesis of Cu(I) complexes with ligands containing phenyl and heterocyclic ring substituents with various functional groups.",
+      "Chemical modification of ligand structures through substitution with alkoxy, alkyl, and other functional groups."
+    ],
+    "results": [
+      "Cu(I) complexes with the specified ligand structures show potential for use in tumor treatment.",
+      "The invention provides new therapeutic compounds that may offer alternative treatment options for cancer patients."
+    ],
+    "research_subject": "Cu(I) complexes as antitumor agents"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective antitumor agents to treat tumors.\"\n  ],\n  \"objectives\": [\n    \"Develop Cu(I) complexes as antitumor agents for the treatment of tumors.\"\n  ],\n  \"methods\": [\n    \"Design and synthesize Cu(I) complexes with specific ligands to create potential antitumor agents.\"\n  ],\n  \"results\": [\n    \"Provide a new class of compounds for the treatment of tumors.\"\n  ],\n  \"research_subject\": \"Cu(I) complexes as antitumor agents\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective antitumor agents for the treatment of various types of tumors.\"\n  ],\n  \"objectives\": [\n    \"Develop a Cu(I) complex of a specific formula for use as an antitumor agent.\"\n  ],\n  \"methods\": [\n    \"Design and synthesize a Cu(I) complex with a specific ligand structure, where the ligand and its substituents are defined by certain parameters.\"\n  ],\n  \"results\": [\n    \"Potential development of a new antitumor agent based on a Cu(I) complex.\"\n  ],\n  \"research_subject\": \"Development of Cu(I) complexes as potential antitumor agents\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for new antitumor agents with improved efficacy and selectivity for cancer treatment.\",\n    \"Cu(I) complexes represent a promising class of compounds with potential therapeutic applications in oncology.\"\n  ],\n  \"objectives\": [\n    \"Develop and characterize Cu(I) complexes with specific ligand structures for use as antitumor agents.\",\n    \"Evaluate the therapeutic potential of these Cu(I) complexes in tumor treatment.\"\n  ],\n  \"methods\": [\n    \"Synthesis of Cu(I) complexes with ligands containing phenyl and heterocyclic ring substituents with various functional groups.\",\n    \"Chemical modification of ligand structures through substitution with alkoxy, alkyl, and other functional groups.\"\n  ],\n  \"results\": [\n    \"Cu(I) complexes with the specified ligand structures show potential for use in tumor treatment.\",\n    \"The invention provides new therapeutic compounds that may offer alternative treatment options for cancer patients.\"\n  ],\n  \"research_subject\": \"Cu(I) complexes as antitumor agents\"\n}\n```"
+}

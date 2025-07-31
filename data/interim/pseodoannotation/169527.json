@@ -1,0 +1,72 @@
+{
+  "index": 192,
+  "title": "Readdressing convective-surface interaction in global climate models",
+  "abstract": "A large part of our knowledge on climate change is provided by the usage of coupled atmospheric-ocean Global Climate Models (GCMs), which produce numerical simulations of the Earth’s climate system for both the present and the future. However, state-of-the-art GCMs show considerable systematic errors: they are limited by low spatial resolutions and by the problematic representation of many physical processes. In particular, one of the largest sources of uncertainty is associated with the coupling between the atmospheric circulation and the water cycle. COGNAC is conceived as a fundamental theoretical project framed in this context. It aims at readdressing the representation of moist convection, clouds and precipitation and their interaction with the surface and the soil in GCMs. A recently developed theoretical framework capable of treating in a unified way the soil, the Planetary Boundary Layer (PBL), clouds, and both shallow and deep convection will be used. Such model - the Probabilistic Plume Model, PPM - is capable to represent the whole atmospheric column (from the PBL to the tropopause) with results comparable to Large Eddies Simulations and with a minor numerical cost. COGNAC aims at improving and refining the PPM and integrating it into two models, the LMDz GCM and the EC-Earth GCM, in the form a new unified parameterization. First evaluation will be carried out on Single Column Models, and hence extended to the full 3D case. Once operational, these new GCM configurations will provide a powerful tool to study complex interactions among surface, PBL and moist convection, as the ones occurring in the Sahel, the Amazon Rainforest or the Mediterranean region. These advancements will have notable potential for improving the representation, the forecast and the evaluation of the future changes of large-impact hydro-meteorological events.",
+  "llama_json": {
+    "motivations": [
+      "Current Global Climate Models (GCMs) exhibit significant systematic errors due to low spatial resolutions and inadequate representation of physical processes.",
+      "The coupling between atmospheric circulation and the water cycle is a major source of uncertainty in GCMs, affecting climate change predictions."
+    ],
+    "objectives": [
+      "Improve the representation of moist convection, clouds, and precipitation in GCMs by readdressing their interaction with the surface and soil.",
+      "Refine and integrate the Probabilistic Plume Model (PPM) into GCMs to enhance the simulation of atmospheric processes.",
+      "Develop a new unified parameterization for GCMs to better study complex interactions among surface, Planetary Boundary Layer, and moist convection."
+    ],
+    "methods": [
+      "Utilize the Probabilistic Plume Model (PPM) to represent the whole atmospheric column with results comparable to Large Eddies Simulations.",
+      "Integrate the PPM into the LMDz GCM and the EC-Earth GCM to create new unified parameterizations.",
+      "Evaluate the new GCM configurations using Single Column Models and extend to full 3D cases."
+    ],
+    "results": [
+      "Enhance the representation, forecast, and evaluation of large-impact hydro-meteorological events.",
+      "Improve the understanding of complex interactions among surface, Planetary Boundary Layer, and moist convection in regions like the Sahel, Amazon Rainforest, and Mediterranean.",
+      "Provide a powerful tool for studying climate change and its effects on various regions."
+    ],
+    "research_subject": "Improving the representation of convective-surface interaction in global climate models"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current Global Climate Models (GCMs) have considerable systematic errors due to low spatial resolutions and problematic representation of many physical processes.",
+      "The coupling between the atmospheric circulation and the water cycle is a significant source of uncertainty in GCMs."
+    ],
+    "objectives": [
+      "Readdress the representation of moist convection, clouds, precipitation, and their interaction with the surface and soil in GCMs.",
+      "Improve and refine the Probabilistic Plume Model (PPM) and integrate it into the LMDz GCM and the EC-Earth GCM as a new unified parameterization.",
+      "Evaluate the new GCM configurations and use them to study complex interactions among surface, Planetary Boundary Layer (PBL) and moist convection."
+    ],
+    "methods": [
+      "Use a recently developed theoretical framework, the Probabilistic Plume Model (PPM), to represent the whole atmospheric column.",
+      "Integrate the refined PPM into two GCMs, the LMDz GCM and the EC-Earth GCM.",
+      "Carry out initial evaluations on Single Column Models and then extend to the full 3D case."
+    ],
+    "results": [
+      "Improve the representation, forecast, and evaluation of future changes of large-impact hydro-meteorological events.",
+      "Provide a powerful tool to study complex interactions among surface, PBL and moist convection in regions like the Sahel, the Amazon Rainforest or the Mediterranean."
+    ],
+    "research_subject": "Improving the representation of convective-surface interaction in Global Climate Models"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "State-of-the-art Global Climate Models suffer from systematic errors due to low spatial resolutions and problematic representation of physical processes.",
+      "The coupling between atmospheric circulation and the water cycle represents one of the largest sources of uncertainty in climate modeling."
+    ],
+    "objectives": [
+      "Improve the representation of moist convection, clouds, precipitation and their interaction with surface and soil in Global Climate Models.",
+      "Integrate the Probabilistic Plume Model into LMDz and EC-Earth GCMs as a unified parameterization to enhance climate simulations."
+    ],
+    "methods": [
+      "Develop and refine the Probabilistic Plume Model to treat soil, Planetary Boundary Layer, clouds, and convection in a unified framework.",
+      "Implement and test the new parameterization first in Single Column Models before extending to full 3D configurations.",
+      "Apply the enhanced models to study complex surface-atmosphere interactions in regions like the Sahel, Amazon Rainforest, and Mediterranean."
+    ],
+    "results": [
+      "Provide improved representation and forecast capabilities for large-impact hydro-meteorological events.",
+      "Enable better evaluation of future climate changes through enhanced modeling of atmospheric processes.",
+      "Deliver a powerful tool for studying complex interactions between surface, boundary layer, and moist convection."
+    ],
+    "research_subject": "Convective-surface interaction representation in Global Climate Models"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current Global Climate Models (GCMs) exhibit significant systematic errors due to low spatial resolutions and inadequate representation of physical processes.\",\n    \"The coupling between atmospheric circulation and the water cycle is a major source of uncertainty in GCMs, affecting climate change predictions.\"\n  ],\n  \"objectives\": [\n    \"Improve the representation of moist convection, clouds, and precipitation in GCMs by readdressing their interaction with the surface and soil.\",\n    \"Refine and integrate the Probabilistic Plume Model (PPM) into GCMs to enhance the simulation of atmospheric processes.\",\n    \"Develop a new unified parameterization for GCMs to better study complex interactions among surface, Planetary Boundary Layer, and moist convection.\"\n  ],\n  \"methods\": [\n    \"Utilize the Probabilistic Plume Model (PPM) to represent the whole atmospheric column with results comparable to Large Eddies Simulations.\",\n    \"Integrate the PPM into the LMDz GCM and the EC-Earth GCM to create new unified parameterizations.\",\n    \"Evaluate the new GCM configurations using Single Column Models and extend to full 3D cases.\"\n  ],\n  \"results\": [\n    \"Enhance the representation, forecast, and evaluation of large-impact hydro-meteorological events.\",\n    \"Improve the understanding of complex interactions among surface, Planetary Boundary Layer, and moist convection in regions like the Sahel, Amazon Rainforest, and Mediterranean.\",\n    \"Provide a powerful tool for studying climate change and its effects on various regions.\"\n  ],\n  \"research_subject\": \"Improving the representation of convective-surface interaction in global climate models\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current Global Climate Models (GCMs) have considerable systematic errors due to low spatial resolutions and problematic representation of many physical processes.\",\n    \"The coupling between the atmospheric circulation and the water cycle is a significant source of uncertainty in GCMs.\"\n  ],\n  \"objectives\": [\n    \"Readdress the representation of moist convection, clouds, precipitation, and their interaction with the surface and soil in GCMs.\",\n    \"Improve and refine the Probabilistic Plume Model (PPM) and integrate it into the LMDz GCM and the EC-Earth GCM as a new unified parameterization.\",\n    \"Evaluate the new GCM configurations and use them to study complex interactions among surface, Planetary Boundary Layer (PBL) and moist convection.\"\n  ],\n  \"methods\": [\n    \"Use a recently developed theoretical framework, the Probabilistic Plume Model (PPM), to represent the whole atmospheric column.\",\n    \"Integrate the refined PPM into two GCMs, the LMDz GCM and the EC-Earth GCM.\",\n    \"Carry out initial evaluations on Single Column Models and then extend to the full 3D case.\"\n  ],\n  \"results\": [\n    \"Improve the representation, forecast, and evaluation of future changes of large-impact hydro-meteorological events.\",\n    \"Provide a powerful tool to study complex interactions among surface, PBL and moist convection in regions like the Sahel, the Amazon Rainforest or the Mediterranean.\"\n  ],\n  \"research_subject\": \"Improving the representation of convective-surface interaction in Global Climate Models\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"State-of-the-art Global Climate Models suffer from systematic errors due to low spatial resolutions and problematic representation of physical processes.\",\n    \"The coupling between atmospheric circulation and the water cycle represents one of the largest sources of uncertainty in climate modeling.\"\n  ],\n  \"objectives\": [\n    \"Improve the representation of moist convection, clouds, precipitation and their interaction with surface and soil in Global Climate Models.\",\n    \"Integrate the Probabilistic Plume Model into LMDz and EC-Earth GCMs as a unified parameterization to enhance climate simulations.\"\n  ],\n  \"methods\": [\n    \"Develop and refine the Probabilistic Plume Model to treat soil, Planetary Boundary Layer, clouds, and convection in a unified framework.\",\n    \"Implement and test the new parameterization first in Single Column Models before extending to full 3D configurations.\",\n    \"Apply the enhanced models to study complex surface-atmosphere interactions in regions like the Sahel, Amazon Rainforest, and Mediterranean.\"\n  ],\n  \"results\": [\n    \"Provide improved representation and forecast capabilities for large-impact hydro-meteorological events.\",\n    \"Enable better evaluation of future climate changes through enhanced modeling of atmospheric processes.\",\n    \"Deliver a powerful tool for studying complex interactions between surface, boundary layer, and moist convection.\"\n  ],\n  \"research_subject\": \"Convective-surface interaction representation in Global Climate Models\"\n}\n```"
+}

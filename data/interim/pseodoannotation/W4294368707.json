@@ -1,0 +1,65 @@
+{
+  "index": 68,
+  "title": "Aborto en México: estrategias discursivas en seis textos monológicos digitales de la iglesia católica, frente a los derechos de las mujeres a decidir sobre la interrupción legal de su embarazo",
+  "abstract": "Con base en el esquema ideológico propuesto por Teun Van Dijk, se analizan seis textos discursivos de tipo monológico, que se oponen al aborto y que fueron publicados por el semanario católico: Desde la Fe, durante el año 2019. Se concluye que las estrategias monológicas discursivas de los seis textos analizados, han contribuido, como parte del poder del Estado Vaticano, a que se impida que las mujeres latinoamericanas decidan libremente sobre el destino de sus cuerpos, así como de su salud sexual y reproductiva. El artículo incentiva a que los poderes legislativos asuman una posición frontalmente laica en torno a la Interrupción Legal del Embarazo (ILE), por el bien de la salud y la libertad de las mujeres del mundo.",
+  "llama_json": {
+    "motivations": [
+      "The Catholic Church's opposition to abortion in Mexico restricts women's rights to decide on the legal interruption of their pregnancy.",
+      "There is a need to analyze the discursive strategies used by the Catholic Church to influence public opinion and policy on abortion."
+    ],
+    "objectives": [
+      "Analyze the discursive strategies used in six monological digital texts from the Catholic Church opposing abortion in Mexico.",
+      "Understand how these strategies contribute to restricting women's reproductive rights and freedoms."
+    ],
+    "methods": [
+      "Apply Teun Van Dijk's ideological schema to analyze the discursive strategies used in the selected texts.",
+      "Examine the role of the Catholic Church's power in shaping public opinion and policy on abortion in Mexico."
+    ],
+    "results": [
+      "The Catholic Church's discursive strategies have contributed to restricting women's reproductive rights and freedoms in Mexico.",
+      "The study aims to encourage legislative powers to adopt a secular stance on abortion, prioritizing women's health and freedom."
+    ],
+    "research_subject": "Discursive strategies of the Catholic Church on abortion in Mexico and their impact on women's reproductive rights"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to analyze the discursive strategies used by the Catholic Church in Mexico to oppose abortion rights.",
+      "The influence of the Vatican State on Latin American women's freedom to make decisions about their bodies and reproductive health is a concern."
+    ],
+    "objectives": [
+      "Analyze six monological discursive texts opposing abortion, published by the Catholic weekly 'Desde la Fe' in 2019, using Teun Van Dijk's ideological scheme.",
+      "Understand how these discursive strategies have contributed to limiting Latin American women's reproductive rights."
+    ],
+    "methods": [
+      "Use Teun Van Dijk's ideological scheme to analyze the discursive strategies in the selected texts.",
+      "Examine the influence of these texts on the discourse around abortion rights in Mexico."
+    ],
+    "results": [
+      "Identify the discursive strategies used by the Catholic Church to oppose abortion rights.",
+      "Highlight the influence of these strategies on limiting women's reproductive rights in Latin America."
+    ],
+    "research_subject": "Analysis of discursive strategies opposing abortion rights in Mexico"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Catholic Church's discourse strategies have influenced restrictions on women's reproductive rights in Latin America.",
+      "There is a need to understand how religious institutional discourse shapes public policy on abortion and women's bodily autonomy."
+    ],
+    "objectives": [
+      "Analyze the discursive strategies used by the Catholic Church in texts opposing abortion rights.",
+      "Examine how monological religious discourse contributes to limiting women's reproductive freedom and decision-making."
+    ],
+    "methods": [
+      "Apply Teun Van Dijk's ideological framework to analyze six monological texts from the Catholic weekly publication Desde la Fe.",
+      "Conduct discourse analysis of texts published in 2019 that oppose abortion rights."
+    ],
+    "results": [
+      "The monological discursive strategies employed by the Catholic Church have contributed to preventing Latin American women from freely deciding about their bodies and reproductive health.",
+      "The analysis encourages legislative bodies to adopt secular positions regarding legal pregnancy interruption for the benefit of women's health and freedom."
+    ],
+    "research_subject": "Catholic Church discourse strategies opposing abortion rights in Mexico"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The Catholic Church's opposition to abortion in Mexico restricts women's rights to decide on the legal interruption of their pregnancy.\",\n    \"There is a need to analyze the discursive strategies used by the Catholic Church to influence public opinion and policy on abortion.\"\n  ],\n  \"objectives\": [\n    \"Analyze the discursive strategies used in six monological digital texts from the Catholic Church opposing abortion in Mexico.\",\n    \"Understand how these strategies contribute to restricting women's reproductive rights and freedoms.\"\n  ],\n  \"methods\": [\n    \"Apply Teun Van Dijk's ideological schema to analyze the discursive strategies used in the selected texts.\",\n    \"Examine the role of the Catholic Church's power in shaping public opinion and policy on abortion in Mexico.\"\n  ],\n  \"results\": [\n    \"The Catholic Church's discursive strategies have contributed to restricting women's reproductive rights and freedoms in Mexico.\",\n    \"The study aims to encourage legislative powers to adopt a secular stance on abortion, prioritizing women's health and freedom.\"\n  ],\n  \"research_subject\": \"Discursive strategies of the Catholic Church on abortion in Mexico and their impact on women's reproductive rights\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to analyze the discursive strategies used by the Catholic Church in Mexico to oppose abortion rights.\",\n    \"The influence of the Vatican State on Latin American women's freedom to make decisions about their bodies and reproductive health is a concern.\"\n  ],\n  \"objectives\": [\n    \"Analyze six monological discursive texts opposing abortion, published by the Catholic weekly 'Desde la Fe' in 2019, using Teun Van Dijk's ideological scheme.\",\n    \"Understand how these discursive strategies have contributed to limiting Latin American women's reproductive rights.\"\n  ],\n  \"methods\": [\n    \"Use Teun Van Dijk's ideological scheme to analyze the discursive strategies in the selected texts.\",\n    \"Examine the influence of these texts on the discourse around abortion rights in Mexico.\"\n  ],\n  \"results\": [\n    \"Identify the discursive strategies used by the Catholic Church to oppose abortion rights.\",\n    \"Highlight the influence of these strategies on limiting women's reproductive rights in Latin America.\"\n  ],\n  \"research_subject\": \"Analysis of discursive strategies opposing abortion rights in Mexico\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The Catholic Church's discourse strategies have influenced restrictions on women's reproductive rights in Latin America.\",\n    \"There is a need to understand how religious institutional discourse shapes public policy on abortion and women's bodily autonomy.\"\n  ],\n  \"objectives\": [\n    \"Analyze the discursive strategies used by the Catholic Church in texts opposing abortion rights.\",\n    \"Examine how monological religious discourse contributes to limiting women's reproductive freedom and decision-making.\"\n  ],\n  \"methods\": [\n    \"Apply Teun Van Dijk's ideological framework to analyze six monological texts from the Catholic weekly publication Desde la Fe.\",\n    \"Conduct discourse analysis of texts published in 2019 that oppose abortion rights.\"\n  ],\n  \"results\": [\n    \"The monological discursive strategies employed by the Catholic Church have contributed to preventing Latin American women from freely deciding about their bodies and reproductive health.\",\n    \"The analysis encourages legislative bodies to adopt secular positions regarding legal pregnancy interruption for the benefit of women's health and freedom.\"\n  ],\n  \"research_subject\": \"Catholic Church discourse strategies opposing abortion rights in Mexico\"\n}\n```"
+}

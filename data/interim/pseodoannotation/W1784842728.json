@@ -1,0 +1,70 @@
+{
+  "index": 284,
+  "title": "A lower bound on the value of entangled binary games",
+  "abstract": "A two-player one-round binary game consists of two cooperative players who each replies by one bit to a message that he receives privately; they win the game if both questions and answers satisfy some predetermined property. A game is called entangled if the players are allowed to share a priori entanglement. It is well-known that the maximum winning probability (value) of entangled XOR-games (binary games in which the predetermined property depends only on the XOR of the two output bits) can be computed by a semidefinite program. In this paper we extend this result in the following sense; if a binary game is uniform, meaning that in an optimal strategy the marginal distributions of the output of each player are uniform, then its entangled value can be efficiently computed by a semidefinite program. We also introduce a lower bound on the entangled value of a general two-player one-round game; this bound depends on the size of the output set of each player and can be computed by a semidefinite program. In particular, we show that if the game is binary, $\\omega_q$ is its entangled value, and $\\omega_{sdp}$ is the optimum value of the corresponding semidefinite program, then $0.68\\,\\omega_{sdp} &lt; \\omega_q \\leq \\omega_{sdp}$.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand and quantify the value of entangled binary games, where cooperative players share prior entanglement to achieve a common goal.",
+      "Existing methods for computing the value of entangled games are limited, and more efficient approaches are required."
+    ],
+    "objectives": [
+      "Extend the result that the maximum winning probability of entangled XOR-games can be computed by a semidefinite program to uniform binary games.",
+      "Introduce a lower bound on the entangled value of a general two-player one-round game that can be computed by a semidefinite program."
+    ],
+    "methods": [
+      "Apply semidefinite programming to compute the entangled value of uniform binary games and to establish a lower bound for general two-player one-round games.",
+      "Analyze the relationship between the entangled value and the optimum value of the corresponding semidefinite program for binary games."
+    ],
+    "results": [
+      "The entangled value of uniform binary games can be efficiently computed using semidefinite programming.",
+      "A lower bound on the entangled value of general two-player one-round games is established, which can be computed by a semidefinite program.",
+      "The entangled value of binary games is bounded by the optimum value of the corresponding semidefinite program, with a guaranteed approximation ratio."
+    ],
+    "research_subject": "Computing the value of entangled binary games using semidefinite programming"
+  },
+  "openai_json": {
+    "motivations": [
+      "The maximum winning probability of entangled XOR-games can be computed by a semidefinite program, but it's unclear if this extends to other types of binary games.",
+      "There is a need for an efficient method to compute the entangled value of uniform binary games.",
+      "A lower bound on the entangled value of a general two-player one-round game is not yet established."
+    ],
+    "objectives": [
+      "Extend the semidefinite program method to compute the entangled value of uniform binary games.",
+      "Introduce a lower bound on the entangled value of a general two-player one-round game.",
+      "Demonstrate the relationship between the entangled value of a binary game and the optimum value of the corresponding semidefinite program."
+    ],
+    "methods": [
+      "Use semidefinite programming to compute the entangled value of uniform binary games.",
+      "Develop a lower bound on the entangled value of a general two-player one-round game based on the size of the output set of each player.",
+      "Compare the entangled value of a binary game with the optimum value of the corresponding semidefinite program."
+    ],
+    "results": [
+      "Provide an efficient method to compute the entangled value of uniform binary games.",
+      "Establish a lower bound on the entangled value of a general two-player one-round game.",
+      "Show that the entangled value of a binary game is within a specific range of the optimum value of the corresponding semidefinite program."
+    ],
+    "research_subject": "Computing the entangled value of binary games using semidefinite programming"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Computing the maximum winning probability of entangled binary games is challenging for general cases beyond XOR-games.",
+      "There is a need for efficient methods to determine bounds on the entangled value of two-player one-round games."
+    ],
+    "objectives": [
+      "Extend the computational framework for entangled game values from XOR-games to uniform binary games using semidefinite programming.",
+      "Establish a computable lower bound on the entangled value of general two-player one-round games."
+    ],
+    "methods": [
+      "Develop semidefinite programming formulations to compute the entangled value of uniform binary games.",
+      "Derive mathematical bounds relating the entangled value to the semidefinite program optimum for binary games."
+    ],
+    "results": [
+      "The entangled value of uniform binary games can be efficiently computed using semidefinite programming.",
+      "For binary games, the entangled value is bounded between 0.68 times and 1 times the semidefinite program optimum value."
+    ],
+    "research_subject": "Entangled value computation and bounds for two-player one-round binary games"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand and quantify the value of entangled binary games, where cooperative players share prior entanglement to achieve a common goal.\",\n    \"Existing methods for computing the value of entangled games are limited, and more efficient approaches are required.\"\n  ],\n  \"objectives\": [\n    \"Extend the result that the maximum winning probability of entangled XOR-games can be computed by a semidefinite program to uniform binary games.\",\n    \"Introduce a lower bound on the entangled value of a general two-player one-round game that can be computed by a semidefinite program.\"\n  ],\n  \"methods\": [\n    \"Apply semidefinite programming to compute the entangled value of uniform binary games and to establish a lower bound for general two-player one-round games.\",\n    \"Analyze the relationship between the entangled value and the optimum value of the corresponding semidefinite program for binary games.\"\n  ],\n  \"results\": [\n    \"The entangled value of uniform binary games can be efficiently computed using semidefinite programming.\",\n    \"A lower bound on the entangled value of general two-player one-round games is established, which can be computed by a semidefinite program.\",\n    \"The entangled value of binary games is bounded by the optimum value of the corresponding semidefinite program, with a guaranteed approximation ratio.\"\n  ],\n  \"research_subject\": \"Computing the value of entangled binary games using semidefinite programming\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The maximum winning probability of entangled XOR-games can be computed by a semidefinite program, but it's unclear if this extends to other types of binary games.\",\n    \"There is a need for an efficient method to compute the entangled value of uniform binary games.\",\n    \"A lower bound on the entangled value of a general two-player one-round game is not yet established.\"\n  ],\n  \"objectives\": [\n    \"Extend the semidefinite program method to compute the entangled value of uniform binary games.\",\n    \"Introduce a lower bound on the entangled value of a general two-player one-round game.\",\n    \"Demonstrate the relationship between the entangled value of a binary game and the optimum value of the corresponding semidefinite program.\"\n  ],\n  \"methods\": [\n    \"Use semidefinite programming to compute the entangled value of uniform binary games.\",\n    \"Develop a lower bound on the entangled value of a general two-player one-round game based on the size of the output set of each player.\",\n    \"Compare the entangled value of a binary game with the optimum value of the corresponding semidefinite program.\"\n  ],\n  \"results\": [\n    \"Provide an efficient method to compute the entangled value of uniform binary games.\",\n    \"Establish a lower bound on the entangled value of a general two-player one-round game.\",\n    \"Show that the entangled value of a binary game is within a specific range of the optimum value of the corresponding semidefinite program.\"\n  ],\n  \"research_subject\": \"Computing the entangled value of binary games using semidefinite programming\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Computing the maximum winning probability of entangled binary games is challenging for general cases beyond XOR-games.\",\n    \"There is a need for efficient methods to determine bounds on the entangled value of two-player one-round games.\"\n  ],\n  \"objectives\": [\n    \"Extend the computational framework for entangled game values from XOR-games to uniform binary games using semidefinite programming.\",\n    \"Establish a computable lower bound on the entangled value of general two-player one-round games.\"\n  ],\n  \"methods\": [\n    \"Develop semidefinite programming formulations to compute the entangled value of uniform binary games.\",\n    \"Derive mathematical bounds relating the entangled value to the semidefinite program optimum for binary games.\"\n  ],\n  \"results\": [\n    \"The entangled value of uniform binary games can be efficiently computed using semidefinite programming.\",\n    \"For binary games, the entangled value is bounded between 0.68 times and 1 times the semidefinite program optimum value.\"\n  ],\n  \"research_subject\": \"Entangled value computation and bounds for two-player one-round binary games\"\n}\n```"
+}

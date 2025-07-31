@@ -1,0 +1,45 @@
+{
+  "index": 398,
+  "title": "Le changement de paradigme dans la gestion des autoroutes en Espagne : une question en suspens",
+  "abstract": "L’Espagne est en train de changer le modèle de gestion de son réseau autoroutier. La concession aux entreprises qui ont construit et géré des autoroutes pendant des décennies se termine, mais le gouvernement n’a pas encore décidé d’un nouveau modèle de financement de l’entretien, un retard qui pose des problèmes.",
+  "llama_json": {
+    "motivations": [
+      "The current concession model for managing highways in Spain is ending, creating uncertainty about the future management and financing of highway maintenance."
+    ],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": "The change in the highway management paradigm in Spain"
+  },
+  "openai_json": {
+    "motivations": [
+      "Spain is undergoing a change in the management model of its highway network, which presents challenges.",
+      "The concession to companies that have built and managed highways for decades is ending, creating uncertainty.",
+      "The government has not yet decided on a new funding model for maintenance, causing delays and issues."
+    ],
+    "objectives": [
+      "The research aims to explore the paradigm shift in the management of highways in Spain.",
+      "It seeks to understand the implications of the end of concession to companies that have managed highways.",
+      "It also aims to investigate the issues arising from the lack of a new funding model for highway maintenance."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Change in the management paradigm of highways in Spain"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Spain faces the end of decades-long highway concessions to private companies, creating uncertainty about future highway management and financing models.",
+      "The government's delay in deciding on a new financing model for highway maintenance is causing operational and strategic challenges."
+    ],
+    "objectives": [
+      "Analyze the paradigm shift in Spain's highway management system and its implications.",
+      "Examine the challenges and issues arising from the government's delayed decision on a new highway financing model."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Spain's highway management paradigm shift and financing model transition"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The current concession model for managing highways in Spain is ending, creating uncertainty about the future management and financing of highway maintenance.\"\n  ],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"The change in the highway management paradigm in Spain\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Spain is undergoing a change in the management model of its highway network, which presents challenges.\",\n    \"The concession to companies that have built and managed highways for decades is ending, creating uncertainty.\",\n    \"The government has not yet decided on a new funding model for maintenance, causing delays and issues.\"\n  ],\n  \"objectives\": [\n    \"The research aims to explore the paradigm shift in the management of highways in Spain.\",\n    \"It seeks to understand the implications of the end of concession to companies that have managed highways.\",\n    \"It also aims to investigate the issues arising from the lack of a new funding model for highway maintenance.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Change in the management paradigm of highways in Spain\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Spain faces the end of decades-long highway concessions to private companies, creating uncertainty about future highway management and financing models.\",\n    \"The government's delay in deciding on a new financing model for highway maintenance is causing operational and strategic challenges.\"\n  ],\n  \"objectives\": [\n    \"Analyze the paradigm shift in Spain's highway management system and its implications.\",\n    \"Examine the challenges and issues arising from the government's delayed decision on a new highway financing model.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Spain's highway management paradigm shift and financing model transition\"\n}\n```"
+}

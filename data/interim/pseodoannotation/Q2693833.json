@@ -1,0 +1,69 @@
+{
+  "index": 56,
+  "title": "Increasing the competitiveness of the company thanks to the implementation of a design audit and the development of a design strategy.",
+  "abstract": "As part of the implementation of this project, a design audit will be carried out, analysing the company’s activities in terms of potential and design needs, resulting in a design strategy. The actions to be taken as part of the design audit are: analysis of the product offer; business model, technology, organizational structure, communication processes, marketing strategy, definition and characteristics of customers and competition and key industry, social and technological trends; analysis of design management needs; analysis of the offer in terms of the use of design and market potential. Based on the analysis, a design strategy, i.e. a design audit report containing the following elements will be developed: I.General characteristics of the company including design analysis of the company in terms of products, technology, organizational structure, customer communication processes, marketing strategy II.Description of the company’s environment in the field of design, including at least information on customer characteristics, description of major competitors and their products III.Identification and analysis of market trends, identification of key in the context of the enterprise industry, social and technological trends with high potential impact on the market Applicant IV.Assessment of the level of use of design in the company and its potential in this regard V.Definition of design problems in the company (product, business processes in the company, etc.) VI.Capacities to solve design problems VII.Description of proposed changes and innovations VIII.Recommendations of further detailed actions for the company. Duration of the audit and design strategy: 01.12.2019-30.04.2020 – detailed timetable and experts are described in the contract with the contractor attached to the proposal. The project leaders are: Magdalena Lubińska, Klaudia Gołaszczyk indicated as experts in the offer.",
+  "llama_json": {
+    "motivations": [
+      "The company faces challenges in terms of competitiveness and design management, which hinders its market potential and growth.",
+      "There is a need to analyze the company's design needs and develop a design strategy to improve its overall performance and competitiveness."
+    ],
+    "objectives": [
+      "Conduct a comprehensive design audit to analyze the company's activities, design needs, and market potential.",
+      "Develop a design strategy based on the audit results to enhance the company's competitiveness and design management."
+    ],
+    "methods": [
+      "Analyze the company's product offer, business model, technology, organizational structure, communication processes, marketing strategy, and industry trends.",
+      "Assess the level of design usage in the company and identify design problems and potential solutions."
+    ],
+    "results": [
+      "Improve the company's competitiveness through effective design management and strategy.",
+      "Enhance the company's product offer, business processes, and marketing strategy through design-driven innovations."
+    ],
+    "research_subject": "Design audit and strategy development for improving company competitiveness"
+  },
+  "openai_json": {
+    "motivations": [
+      "The company needs to enhance its competitiveness through a comprehensive analysis of its design needs and potential.",
+      "There is a need to identify and address design problems within the company's products and business processes."
+    ],
+    "objectives": [
+      "Conduct a design audit to analyze the company's activities, product offerings, business model, organizational structure, and market potential.",
+      "Develop a design strategy based on the audit findings, including proposed changes, innovations, and recommendations for further actions."
+    ],
+    "methods": [
+      "Perform a comprehensive analysis of the company's design management needs, product offerings, and market potential.",
+      "Identify and analyze market trends, customer characteristics, and competitors' products.",
+      "Develop a design audit report outlining the company's design problems and potential, and proposing changes and recommendations."
+    ],
+    "results": [
+      "Increased competitiveness of the company through the implementation of a design audit and strategy.",
+      "Identification and resolution of design problems within the company's products and business processes.",
+      "Recommendations for further actions to enhance the company's use of design and its market potential."
+    ],
+    "research_subject": "Implementation of a design audit and development of a design strategy to increase company competitiveness"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Companies need systematic approaches to identify and leverage design potential to enhance their competitiveness in the market.",
+      "There is a lack of comprehensive understanding of how design can be integrated into various aspects of business operations, from products to organizational processes."
+    ],
+    "objectives": [
+      "Conduct a comprehensive design audit to analyze the company's current design utilization and identify opportunities for improvement.",
+      "Develop a tailored design strategy that addresses identified gaps and provides actionable recommendations for enhancing competitiveness."
+    ],
+    "methods": [
+      "Analyze multiple business dimensions including product offerings, business model, technology, organizational structure, communication processes, and marketing strategy.",
+      "Assess the competitive landscape, customer characteristics, and relevant industry, social, and technological trends.",
+      "Evaluate current design management practices and identify design-related problems and opportunities across the organization."
+    ],
+    "results": [
+      "A comprehensive design audit report providing detailed analysis of the company's design capabilities and market positioning.",
+      "Strategic recommendations for design-driven innovations and improvements across products and business processes.",
+      "A roadmap of actionable steps to enhance the company's competitiveness through improved design integration."
+    ],
+    "research_subject": "Design audit and strategy development for enhancing company competitiveness"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The company faces challenges in terms of competitiveness and design management, which hinders its market potential and growth.\",\n    \"There is a need to analyze the company's design needs and develop a design strategy to improve its overall performance and competitiveness.\"\n  ],\n  \"objectives\": [\n    \"Conduct a comprehensive design audit to analyze the company's activities, design needs, and market potential.\",\n    \"Develop a design strategy based on the audit results to enhance the company's competitiveness and design management.\"\n  ],\n  \"methods\": [\n    \"Analyze the company's product offer, business model, technology, organizational structure, communication processes, marketing strategy, and industry trends.\",\n    \"Assess the level of design usage in the company and identify design problems and potential solutions.\"\n  ],\n  \"results\": [\n    \"Improve the company's competitiveness through effective design management and strategy.\",\n    \"Enhance the company's product offer, business processes, and marketing strategy through design-driven innovations.\"\n  ],\n  \"research_subject\": \"Design audit and strategy development for improving company competitiveness\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The company needs to enhance its competitiveness through a comprehensive analysis of its design needs and potential.\",\n    \"There is a need to identify and address design problems within the company's products and business processes.\"\n  ],\n  \"objectives\": [\n    \"Conduct a design audit to analyze the company's activities, product offerings, business model, organizational structure, and market potential.\",\n    \"Develop a design strategy based on the audit findings, including proposed changes, innovations, and recommendations for further actions.\"\n  ],\n  \"methods\": [\n    \"Perform a comprehensive analysis of the company's design management needs, product offerings, and market potential.\",\n    \"Identify and analyze market trends, customer characteristics, and competitors' products.\",\n    \"Develop a design audit report outlining the company's design problems and potential, and proposing changes and recommendations.\"\n  ],\n  \"results\": [\n    \"Increased competitiveness of the company through the implementation of a design audit and strategy.\",\n    \"Identification and resolution of design problems within the company's products and business processes.\",\n    \"Recommendations for further actions to enhance the company's use of design and its market potential.\"\n  ],\n  \"research_subject\": \"Implementation of a design audit and development of a design strategy to increase company competitiveness\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Companies need systematic approaches to identify and leverage design potential to enhance their competitiveness in the market.\",\n    \"There is a lack of comprehensive understanding of how design can be integrated into various aspects of business operations, from products to organizational processes.\"\n  ],\n  \"objectives\": [\n    \"Conduct a comprehensive design audit to analyze the company's current design utilization and identify opportunities for improvement.\",\n    \"Develop a tailored design strategy that addresses identified gaps and provides actionable recommendations for enhancing competitiveness.\"\n  ],\n  \"methods\": [\n    \"Analyze multiple business dimensions including product offerings, business model, technology, organizational structure, communication processes, and marketing strategy.\",\n    \"Assess the competitive landscape, customer characteristics, and relevant industry, social, and technological trends.\",\n    \"Evaluate current design management practices and identify design-related problems and opportunities across the organization.\"\n  ],\n  \"results\": [\n    \"A comprehensive design audit report providing detailed analysis of the company's design capabilities and market positioning.\",\n    \"Strategic recommendations for design-driven innovations and improvements across products and business processes.\",\n    \"A roadmap of actionable steps to enhance the company's competitiveness through improved design integration.\"\n  ],\n  \"research_subject\": \"Design audit and strategy development for enhancing company competitiveness\"\n}\n```"
+}

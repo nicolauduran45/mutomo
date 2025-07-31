@@ -1,0 +1,75 @@
+{
+  "index": 302,
+  "title": "Stprms - sustainable truck parking reservation management system",
+  "abstract": "The daily need for truck parking spaces on motor-ways in Germany gets worse. Truck drivers search 1.5 hours to find a parking and drive to 8 parking spaces. Results: exceeding of allowed driving time, parking in gateways, accidents. In Germany 30,000 truck parking spaces are missing. Even with new build 11,000 spaces until 2015, the situation will not change dramatically. Until 2030 the commercial transport shall increase up to 39%. A truck parking reservation system is therefore necessary and overdue. Previous reservation systems like Truck Parking Europe could not be established successfully because of missing payment system, few participants and a huge personal effort at the rest stop to report free parking spaces. Apps like Fernfahrer from ETM help the truck driver to plan routes and find rest stops along the route, but without reservation option, there is just information. We developed a totally new system of reservation and payment of truck parking spaces at rest stops. Therefore we co-operate with 2 market leading partners: ETM with their ‘Fernfahrer-App’ and 40,000 truck drivers using it, as well as ATRP e.G. with 100 rest stops in an own prototype App. We revolutionize the market with using the existing surface of the Fernfahrer-App to plan the route. Now drivers find 3,000 parking spaces to reserve which we integrated from the e.G. The payment is done per SMS. No bank information is needed just cell phone number and provider. The reservation will then be forwarded to the rest stop, where the operator block the parking space with caps. The annual turnover with just 5 days of booking with reservation fee of 5.50 € will be 3.9 Million €. An expansion of the system to overall Europe is possible and planned for Phase 2. The main challenges are to develop a strategy for European commercialization and to build security parking spaces or electronic dispenser in Phase 2.",
+  "llama_json": {
+    "motivations": [
+      "Truck drivers face significant challenges in finding available parking spaces, leading to exceeded driving times, accidents, and unauthorized parking.",
+      "There is a substantial shortage of truck parking spaces in Germany, with 30,000 spaces missing, and the situation is expected to worsen with increasing commercial transport."
+    ],
+    "objectives": [
+      "Develop a sustainable truck parking reservation management system to address the shortage of parking spaces and improve safety.",
+      "Provide a user-friendly and efficient reservation and payment system for truck drivers.",
+      "Expand the system to cover Europe and increase the availability of secure parking spaces."
+    ],
+    "methods": [
+      "Collaborate with market-leading partners to integrate existing route planning and rest stop management systems.",
+      "Implement a reservation and payment system using SMS, eliminating the need for bank information.",
+      "Forward reservations to rest stops, where operators block the parking space with caps."
+    ],
+    "results": [
+      "Reduce the time spent by truck drivers searching for parking spaces, improving safety and reducing accidents.",
+      "Generate significant revenue through reservation fees, with potential for expansion across Europe.",
+      "Increase the availability of secure parking spaces, improving the overall efficiency of commercial transport."
+    ],
+    "research_subject": "Development of a sustainable truck parking reservation management system"
+  },
+  "openai_json": {
+    "motivations": [
+      "The increasing need for truck parking spaces in Germany is causing drivers to exceed allowed driving times and increasing the risk of accidents.",
+      "Existing truck parking reservation systems have failed due to lack of payment systems, low participation, and high personal effort to report free parking spaces.",
+      "Current apps only provide information about rest stops but do not offer reservation options."
+    ],
+    "objectives": [
+      "Develop a sustainable truck parking reservation and payment system that can be easily integrated with existing platforms.",
+      "Revolutionize the market by enabling truck drivers to reserve parking spaces through a familiar app interface.",
+      "Plan for expansion of the system across Europe in Phase 2."
+    ],
+    "methods": [
+      "Cooperate with market-leading partners to integrate the reservation system into an existing app used by 40,000 truck drivers.",
+      "Implement a simple SMS-based payment system that does not require bank information.",
+      "Forward reservations to rest stops where operators can block parking spaces."
+    ],
+    "results": [
+      "Reduce the time truck drivers spend searching for parking spaces and improve road safety.",
+      "Generate an estimated annual turnover of 3.9 million € with just 5 days of booking at a reservation fee of 5.50 €.",
+      "Prepare for a potential expansion of the system across Europe."
+    ],
+    "research_subject": "Sustainable truck parking reservation management system"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Germany faces a critical shortage of 30,000 truck parking spaces, forcing drivers to search for 1.5 hours and visit up to 8 parking spaces to find availability.",
+      "The lack of adequate truck parking leads to violations of driving time regulations, unsafe parking in gateways, and increased accidents.",
+      "Previous reservation systems failed due to missing payment systems, limited participation, and high manual effort required at rest stops."
+    ],
+    "objectives": [
+      "Develop and implement an efficient truck parking reservation and payment system that integrates with existing mobile applications.",
+      "Enable truck drivers to easily find, reserve, and pay for parking spaces along their routes through a streamlined digital platform."
+    ],
+    "methods": [
+      "Integration with the existing Fernfahrer-App infrastructure and ATRP e.G.'s network of rest stops to provide access to 3,000 reservable parking spaces.",
+      "Implementation of SMS-based payment system that requires only cell phone number and provider information.",
+      "Development of a reservation forwarding system to rest stop operators who block reserved spaces with physical caps."
+    ],
+    "results": [
+      "Projected annual turnover of 3.9 million euros based on 5-day booking scenarios with a 5.50 euro reservation fee.",
+      "Reduction in time spent searching for parking and improved compliance with driving time regulations.",
+      "Establishment of a scalable system with potential for European expansion and integration of secure parking spaces."
+    ],
+    "research_subject": "Digital truck parking reservation and management system for motorway rest stops"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Truck drivers face significant challenges in finding available parking spaces, leading to exceeded driving times, accidents, and unauthorized parking.\",\n    \"There is a substantial shortage of truck parking spaces in Germany, with 30,000 spaces missing, and the situation is expected to worsen with increasing commercial transport.\"\n  ],\n  \"objectives\": [\n    \"Develop a sustainable truck parking reservation management system to address the shortage of parking spaces and improve safety.\",\n    \"Provide a user-friendly and efficient reservation and payment system for truck drivers.\",\n    \"Expand the system to cover Europe and increase the availability of secure parking spaces.\"\n  ],\n  \"methods\": [\n    \"Collaborate with market-leading partners to integrate existing route planning and rest stop management systems.\",\n    \"Implement a reservation and payment system using SMS, eliminating the need for bank information.\",\n    \"Forward reservations to rest stops, where operators block the parking space with caps.\"\n  ],\n  \"results\": [\n    \"Reduce the time spent by truck drivers searching for parking spaces, improving safety and reducing accidents.\",\n    \"Generate significant revenue through reservation fees, with potential for expansion across Europe.\",\n    \"Increase the availability of secure parking spaces, improving the overall efficiency of commercial transport.\"\n  ],\n  \"research_subject\": \"Development of a sustainable truck parking reservation management system\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing need for truck parking spaces in Germany is causing drivers to exceed allowed driving times and increasing the risk of accidents.\",\n    \"Existing truck parking reservation systems have failed due to lack of payment systems, low participation, and high personal effort to report free parking spaces.\",\n    \"Current apps only provide information about rest stops but do not offer reservation options.\"\n  ],\n  \"objectives\": [\n    \"Develop a sustainable truck parking reservation and payment system that can be easily integrated with existing platforms.\",\n    \"Revolutionize the market by enabling truck drivers to reserve parking spaces through a familiar app interface.\",\n    \"Plan for expansion of the system across Europe in Phase 2.\"\n  ],\n  \"methods\": [\n    \"Cooperate with market-leading partners to integrate the reservation system into an existing app used by 40,000 truck drivers.\",\n    \"Implement a simple SMS-based payment system that does not require bank information.\",\n    \"Forward reservations to rest stops where operators can block parking spaces.\"\n  ],\n  \"results\": [\n    \"Reduce the time truck drivers spend searching for parking spaces and improve road safety.\",\n    \"Generate an estimated annual turnover of 3.9 million € with just 5 days of booking at a reservation fee of 5.50 €.\",\n    \"Prepare for a potential expansion of the system across Europe.\"\n  ],\n  \"research_subject\": \"Sustainable truck parking reservation management system\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Germany faces a critical shortage of 30,000 truck parking spaces, forcing drivers to search for 1.5 hours and visit up to 8 parking spaces to find availability.\",\n    \"The lack of adequate truck parking leads to violations of driving time regulations, unsafe parking in gateways, and increased accidents.\",\n    \"Previous reservation systems failed due to missing payment systems, limited participation, and high manual effort required at rest stops.\"\n  ],\n  \"objectives\": [\n    \"Develop and implement an efficient truck parking reservation and payment system that integrates with existing mobile applications.\",\n    \"Enable truck drivers to easily find, reserve, and pay for parking spaces along their routes through a streamlined digital platform.\"\n  ],\n  \"methods\": [\n    \"Integration with the existing Fernfahrer-App infrastructure and ATRP e.G.'s network of rest stops to provide access to 3,000 reservable parking spaces.\",\n    \"Implementation of SMS-based payment system that requires only cell phone number and provider information.\",\n    \"Development of a reservation forwarding system to rest stop operators who block reserved spaces with physical caps.\"\n  ],\n  \"results\": [\n    \"Projected annual turnover of 3.9 million euros based on 5-day booking scenarios with a 5.50 euro reservation fee.\",\n    \"Reduction in time spent searching for parking and improved compliance with driving time regulations.\",\n    \"Establishment of a scalable system with potential for European expansion and integration of secure parking spaces.\"\n  ],\n  \"research_subject\": \"Digital truck parking reservation and management system for motorway rest stops\"\n}\n```"
+}

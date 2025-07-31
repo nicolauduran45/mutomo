@@ -1,0 +1,69 @@
+{
+  "index": 418,
+  "title": "Parallel workflow manager for non-parallel bioinformatic applications to solve large-scale biological problems on a supercomputer",
+  "abstract": "Rapid expansion of online resources providing access to genomic, structural, and functional information associated with biological macromolecules opens an opportunity to gain a deeper understanding of the mechanisms of biological processes due to systematic analysis of large datasets. This, however, requires novel strategies to optimally utilize computer processing power. Some methods in bioinformatics and molecular modeling require extensive computational resources. Other algorithms have fast implementations which take at most several hours to analyze a common input on a modern desktop station, however, due to multiple invocations for a large number of subtasks the full task requires a significant computing power. Therefore, an efficient computational solution to large-scale biological problems requires both a wise parallel implementation of resource-hungry methods as well as a smart workflow to manage multiple invocations of relatively fast algorithms. In this work, a new computer software mpiWrapper has been developed to accommodate non-parallel implementations of scientific algorithms within the parallel supercomputing environment. The Message Passing Interface has been implemented to exchange information between nodes. Two specialized threads — one for task management and communication, and another for subtask execution — are invoked on each processing unit to avoid deadlock while using blocking calls to MPI. The mpiWrapper can be used to launch all conventional Linux applications without the need to modify their original source codes and supports resubmission of subtasks on node failure. We show that this approach can be used to process huge amounts of biological data efficiently by running non-parallel programs in parallel mode on a supercomputer. The C++ source code and documentation are available from http://biokinet.belozersky.msu.ru/mpiWrapper .",
+  "llama_json": {
+    "motivations": [
+      "Large-scale biological problems require significant computational resources, but many bioinformatic applications are not designed to run in parallel.",
+      "Existing parallel computing solutions often require modification of the original application source code, limiting their usability."
+    ],
+    "objectives": [
+      "Develop a workflow manager that enables non-parallel bioinformatic applications to run in parallel on a supercomputer.",
+      "Create a solution that can efficiently manage multiple invocations of relatively fast algorithms to solve large-scale biological problems."
+    ],
+    "methods": [
+      "Implement a Message Passing Interface (MPI) to exchange information between nodes in a parallel supercomputing environment.",
+      "Design a wrapper software (mpiWrapper) that can launch conventional Linux applications without modifying their source code.",
+      "Utilize a two-thread approach (task management and subtask execution) to avoid deadlock and support resubmission of subtasks on node failure."
+    ],
+    "results": [
+      "Enable efficient processing of large amounts of biological data using non-parallel programs in parallel mode on a supercomputer.",
+      "Provide a scalable solution for solving large-scale biological problems by leveraging parallel computing resources."
+    ],
+    "research_subject": "Parallel workflow management for non-parallel bioinformatic applications on supercomputers"
+  },
+  "openai_json": {
+    "motivations": [
+      "The rapid expansion of online resources with biological data necessitates systematic analysis of large datasets for deeper understanding of biological processes.",
+      "Existing bioinformatics and molecular modeling methods require extensive computational resources, and while some algorithms are fast, they require multiple invocations for large-scale tasks, demanding significant computing power."
+    ],
+    "objectives": [
+      "Develop a software solution that can accommodate non-parallel implementations of scientific algorithms within a parallel supercomputing environment.",
+      "Implement the Message Passing Interface to exchange information between nodes and avoid deadlock while using blocking calls to MPI.",
+      "Enable the processing of large amounts of biological data efficiently by running non-parallel programs in parallel mode on a supercomputer."
+    ],
+    "methods": [
+      "Develop the mpiWrapper software to accommodate non-parallel implementations of scientific algorithms within a parallel supercomputing environment.",
+      "Implement two specialized threads on each processing unit for task management, communication, and subtask execution.",
+      "Use the mpiWrapper to launch conventional Linux applications without modifying their original source codes and support resubmission of subtasks on node failure."
+    ],
+    "results": [
+      "The mpiWrapper software was successfully developed and can be used to process large amounts of biological data efficiently on a supercomputer.",
+      "The software supports the running of non-parallel programs in parallel mode and can launch conventional Linux applications without modifying their original source codes."
+    ],
+    "research_subject": "Parallel workflow management for non-parallel bioinformatic applications on a supercomputer"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The rapid expansion of genomic, structural, and functional data requires novel computational strategies to systematically analyze large biological datasets.",
+      "Many bioinformatics algorithms have fast implementations but require extensive computing power when invoked multiple times for large-scale problems, necessitating efficient parallel computing solutions."
+    ],
+    "objectives": [
+      "Develop a software solution that enables non-parallel bioinformatics applications to run efficiently in parallel supercomputing environments without modifying their source code.",
+      "Create a workflow management system that can handle multiple invocations of fast algorithms for processing large-scale biological data."
+    ],
+    "methods": [
+      "Implement Message Passing Interface (MPI) to enable communication between computing nodes in a parallel environment.",
+      "Design a dual-thread architecture with one thread for task management and communication, and another for subtask execution to prevent deadlock.",
+      "Develop mpiWrapper software that can launch conventional Linux applications in parallel mode with support for subtask resubmission on node failure."
+    ],
+    "results": [
+      "Successfully created mpiWrapper software that enables efficient processing of large biological datasets by running non-parallel programs in parallel mode on supercomputers.",
+      "Demonstrated that the approach can effectively utilize supercomputing resources for large-scale biological problem solving without requiring modification of existing algorithms."
+    ],
+    "research_subject": "Parallel workflow management system for non-parallel bioinformatics applications on supercomputers"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Large-scale biological problems require significant computational resources, but many bioinformatic applications are not designed to run in parallel.\",\n    \"Existing parallel computing solutions often require modification of the original application source code, limiting their usability.\"\n  ],\n  \"objectives\": [\n    \"Develop a workflow manager that enables non-parallel bioinformatic applications to run in parallel on a supercomputer.\",\n    \"Create a solution that can efficiently manage multiple invocations of relatively fast algorithms to solve large-scale biological problems.\"\n  ],\n  \"methods\": [\n    \"Implement a Message Passing Interface (MPI) to exchange information between nodes in a parallel supercomputing environment.\",\n    \"Design a wrapper software (mpiWrapper) that can launch conventional Linux applications without modifying their source code.\",\n    \"Utilize a two-thread approach (task management and subtask execution) to avoid deadlock and support resubmission of subtasks on node failure.\"\n  ],\n  \"results\": [\n    \"Enable efficient processing of large amounts of biological data using non-parallel programs in parallel mode on a supercomputer.\",\n    \"Provide a scalable solution for solving large-scale biological problems by leveraging parallel computing resources.\"\n  ],\n  \"research_subject\": \"Parallel workflow management for non-parallel bioinformatic applications on supercomputers\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The rapid expansion of online resources with biological data necessitates systematic analysis of large datasets for deeper understanding of biological processes.\",\n    \"Existing bioinformatics and molecular modeling methods require extensive computational resources, and while some algorithms are fast, they require multiple invocations for large-scale tasks, demanding significant computing power.\"\n  ],\n  \"objectives\": [\n    \"Develop a software solution that can accommodate non-parallel implementations of scientific algorithms within a parallel supercomputing environment.\",\n    \"Implement the Message Passing Interface to exchange information between nodes and avoid deadlock while using blocking calls to MPI.\",\n    \"Enable the processing of large amounts of biological data efficiently by running non-parallel programs in parallel mode on a supercomputer.\"\n  ],\n  \"methods\": [\n    \"Develop the mpiWrapper software to accommodate non-parallel implementations of scientific algorithms within a parallel supercomputing environment.\",\n    \"Implement two specialized threads on each processing unit for task management, communication, and subtask execution.\",\n    \"Use the mpiWrapper to launch conventional Linux applications without modifying their original source codes and support resubmission of subtasks on node failure.\"\n  ],\n  \"results\": [\n    \"The mpiWrapper software was successfully developed and can be used to process large amounts of biological data efficiently on a supercomputer.\",\n    \"The software supports the running of non-parallel programs in parallel mode and can launch conventional Linux applications without modifying their original source codes.\"\n  ],\n  \"research_subject\": \"Parallel workflow management for non-parallel bioinformatic applications on a supercomputer\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The rapid expansion of genomic, structural, and functional data requires novel computational strategies to systematically analyze large biological datasets.\",\n    \"Many bioinformatics algorithms have fast implementations but require extensive computing power when invoked multiple times for large-scale problems, necessitating efficient parallel computing solutions.\"\n  ],\n  \"objectives\": [\n    \"Develop a software solution that enables non-parallel bioinformatics applications to run efficiently in parallel supercomputing environments without modifying their source code.\",\n    \"Create a workflow management system that can handle multiple invocations of fast algorithms for processing large-scale biological data.\"\n  ],\n  \"methods\": [\n    \"Implement Message Passing Interface (MPI) to enable communication between computing nodes in a parallel environment.\",\n    \"Design a dual-thread architecture with one thread for task management and communication, and another for subtask execution to prevent deadlock.\",\n    \"Develop mpiWrapper software that can launch conventional Linux applications in parallel mode with support for subtask resubmission on node failure.\"\n  ],\n  \"results\": [\n    \"Successfully created mpiWrapper software that enables efficient processing of large biological datasets by running non-parallel programs in parallel mode on supercomputers.\",\n    \"Demonstrated that the approach can effectively utilize supercomputing resources for large-scale biological problem solving without requiring modification of existing algorithms.\"\n  ],\n  \"research_subject\": \"Parallel workflow management system for non-parallel bioinformatics applications on supercomputers\"\n}\n```"
+}

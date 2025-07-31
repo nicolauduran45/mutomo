@@ -1,0 +1,71 @@
+{
+  "index": 337,
+  "title": "Aestheticization of life and cosmopolitan modernity: the poetics of elegance in the long 19th century",
+  "abstract": "In the course of the long 19C the pursuit of 'elegance' emerged as a phenomenon aiming at an intensification of life through aestheticization. The distinguishing features of an 'elegant' appearance manifested themselves in the self-fashioning of an individual person (language, attire, behaviour) and in the shaping of domestic and public environments (artefacts, interior design, architecture). The concept of elegance was realized in social action and cultural practices, particularly in convivial conversation, entertainment and leisure activities. The project demonstrates that one of the crucial patterns of modernity manifests itself in the phenomenon of elegance, which inaugurates a specific aesthetic of the surface as a distinguishing social feature as well as a marker transcending the established order: an imaginary community of urban origin that supersedes historically conditioned social and gender norms. Committed to the methods of transnational historiography, the study outlines the European topography of the so-called ‘elegant world’ in the tension between national aspirations and transnational aesthetic norms. The project focuses on ‘circulating things’ and examines the social agency of press and material goods. It pays particular attention to an innovative type of cultural journals, which reported in detail on urban social, cultural, and material life and helped spread the new urban styles of living and had a decisive impact on the staging of a new, imaginary cross-border community. Its geographic range is marked by the imperial metropolises, as well as by aspiring Central and Eastern European cities such as Berlin and Leipzig, Prague and Pest, which developed into new urban centres in the course of the 19C. The main output of the project is a monograph that maps out the phenomenon of elegance and the way it redefined the social order, constituted urban life, and expressed the transnational aspirations and affiliations of the elite.",
+  "llama_json": {
+    "motivations": [
+      "The concept of elegance emerged as a significant phenomenon in the long 19th century, aiming to intensify life through aestheticization, yet its impact on modernity and social order remains understudied.",
+      "There is a need to understand how the pursuit of elegance shaped urban life, social norms, and cultural practices in the 19th century."
+    ],
+    "objectives": [
+      "Investigate the concept of elegance as a crucial pattern of modernity and its manifestation in social action, cultural practices, and material culture.",
+      "Examine the European topography of the 'elegant world' and its tension between national aspirations and transnational aesthetic norms.",
+      "Analyze the role of circulating things, such as press and material goods, in shaping the imaginary community of urban origin."
+    ],
+    "methods": [
+      "Employ transnational historiography to outline the European topography of the 'elegant world'.",
+      "Focus on circulating things, including press and material goods, to examine their social agency.",
+      "Conduct a case study of innovative cultural journals and their impact on spreading urban styles of living."
+    ],
+    "results": [
+      "Map out the phenomenon of elegance and its redefinition of the social order in the 19th century.",
+      "Contribute to a deeper understanding of the constitution of urban life and the expression of transnational aspirations and affiliations of the elite.",
+      "Produce a monograph that provides a comprehensive analysis of the concept of elegance in the long 19th century."
+    ],
+    "research_subject": "The aesthetics of elegance in the long 19th century and its impact on modernity and urban life"
+  },
+  "openai_json": {
+    "motivations": [
+      "The pursuit of 'elegance' in the 19th century as a phenomenon aiming at life aestheticization is not well-understood.",
+      "The role of elegance in shaping individual and societal norms, and its influence on the modernity, needs exploration."
+    ],
+    "objectives": [
+      "Examine the concept of elegance as it manifested in individual self-fashioning and the shaping of environments in the 19th century.",
+      "Analyze the social action and cultural practices, particularly in conversation, entertainment and leisure activities, where elegance was realized.",
+      "Map the European topography of the 'elegant world' and its tension between national aspirations and transnational aesthetic norms."
+    ],
+    "methods": [
+      "Use transnational historiography to study the phenomenon of elegance.",
+      "Focus on 'circulating things' and examine the social agency of press and material goods.",
+      "Study cultural journals that reported on urban social, cultural, and material life and helped spread new urban styles of living."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of the phenomenon of elegance and its role in the aestheticization of life in the 19th century.",
+      "Highlight the influence of elegance on the social order, urban life, and transnational aspirations and affiliations of the elite."
+    ],
+    "research_subject": "Aestheticization of life and cosmopolitan modernity through the poetics of elegance in the 19th century"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The pursuit of elegance in the 19th century represents an understudied pattern of modernity that shaped social identity and urban culture through aesthetic practices.",
+      "There is a need to understand how the concept of elegance transcended traditional social and gender norms to create new forms of transnational community and cultural exchange."
+    ],
+    "objectives": [
+      "Demonstrate how the phenomenon of elegance manifests crucial patterns of modernity through the aestheticization of life and the creation of imaginary cross-border communities.",
+      "Map the European topography of the 'elegant world' and examine how urban centers developed new styles of living through the circulation of cultural journals and material goods."
+    ],
+    "methods": [
+      "Apply transnational historiography methods to analyze the tension between national aspirations and transnational aesthetic norms.",
+      "Examine 'circulating things' including cultural journals and material goods to understand their social agency in spreading urban lifestyles.",
+      "Conduct comparative analysis across imperial metropolises and emerging Central and Eastern European urban centers."
+    ],
+    "results": [
+      "A comprehensive monograph mapping how the phenomenon of elegance redefined social order and constituted urban life in 19th century Europe.",
+      "New understanding of how aesthetic practices created transnational affiliations and challenged established social hierarchies."
+    ],
+    "research_subject": "The phenomenon of elegance as a pattern of modernity in 19th century European urban culture"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The concept of elegance emerged as a significant phenomenon in the long 19th century, aiming to intensify life through aestheticization, yet its impact on modernity and social order remains understudied.\",\n    \"There is a need to understand how the pursuit of elegance shaped urban life, social norms, and cultural practices in the 19th century.\"\n  ],\n  \"objectives\": [\n    \"Investigate the concept of elegance as a crucial pattern of modernity and its manifestation in social action, cultural practices, and material culture.\",\n    \"Examine the European topography of the 'elegant world' and its tension between national aspirations and transnational aesthetic norms.\",\n    \"Analyze the role of circulating things, such as press and material goods, in shaping the imaginary community of urban origin.\"\n  ],\n  \"methods\": [\n    \"Employ transnational historiography to outline the European topography of the 'elegant world'.\",\n    \"Focus on circulating things, including press and material goods, to examine their social agency.\",\n    \"Conduct a case study of innovative cultural journals and their impact on spreading urban styles of living.\"\n  ],\n  \"results\": [\n    \"Map out the phenomenon of elegance and its redefinition of the social order in the 19th century.\",\n    \"Contribute to a deeper understanding of the constitution of urban life and the expression of transnational aspirations and affiliations of the elite.\",\n    \"Produce a monograph that provides a comprehensive analysis of the concept of elegance in the long 19th century.\"\n  ],\n  \"research_subject\": \"The aesthetics of elegance in the long 19th century and its impact on modernity and urban life\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The pursuit of 'elegance' in the 19th century as a phenomenon aiming at life aestheticization is not well-understood.\",\n    \"The role of elegance in shaping individual and societal norms, and its influence on the modernity, needs exploration.\"\n  ],\n  \"objectives\": [\n    \"Examine the concept of elegance as it manifested in individual self-fashioning and the shaping of environments in the 19th century.\",\n    \"Analyze the social action and cultural practices, particularly in conversation, entertainment and leisure activities, where elegance was realized.\",\n    \"Map the European topography of the 'elegant world' and its tension between national aspirations and transnational aesthetic norms.\"\n  ],\n  \"methods\": [\n    \"Use transnational historiography to study the phenomenon of elegance.\",\n    \"Focus on 'circulating things' and examine the social agency of press and material goods.\",\n    \"Study cultural journals that reported on urban social, cultural, and material life and helped spread new urban styles of living.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of the phenomenon of elegance and its role in the aestheticization of life in the 19th century.\",\n    \"Highlight the influence of elegance on the social order, urban life, and transnational aspirations and affiliations of the elite.\"\n  ],\n  \"research_subject\": \"Aestheticization of life and cosmopolitan modernity through the poetics of elegance in the 19th century\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The pursuit of elegance in the 19th century represents an understudied pattern of modernity that shaped social identity and urban culture through aesthetic practices.\",\n    \"There is a need to understand how the concept of elegance transcended traditional social and gender norms to create new forms of transnational community and cultural exchange.\"\n  ],\n  \"objectives\": [\n    \"Demonstrate how the phenomenon of elegance manifests crucial patterns of modernity through the aestheticization of life and the creation of imaginary cross-border communities.\",\n    \"Map the European topography of the 'elegant world' and examine how urban centers developed new styles of living through the circulation of cultural journals and material goods.\"\n  ],\n  \"methods\": [\n    \"Apply transnational historiography methods to analyze the tension between national aspirations and transnational aesthetic norms.\",\n    \"Examine 'circulating things' including cultural journals and material goods to understand their social agency in spreading urban lifestyles.\",\n    \"Conduct comparative analysis across imperial metropolises and emerging Central and Eastern European urban centers.\"\n  ],\n  \"results\": [\n    \"A comprehensive monograph mapping how the phenomenon of elegance redefined social order and constituted urban life in 19th century Europe.\",\n    \"New understanding of how aesthetic practices created transnational affiliations and challenged established social hierarchies.\"\n  ],\n  \"research_subject\": \"The phenomenon of elegance as a pattern of modernity in 19th century European urban culture\"\n}\n```"
+}

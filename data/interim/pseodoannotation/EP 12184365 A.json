@@ -1,0 +1,58 @@
+{
+  "index": 203,
+  "title": "Jack socket for a portable electronic device",
+  "abstract": "The present disclosure provides a two-part jack socket for a portable electronic device and a portable electronic device having the same. In accordance with one example embodiment, the jack socket comprises: a first part having a contact surface; a second part having a contact surface and being moveable with respect to the first part between a first position and a second position, the contact surfaces of the first part and second part defining a cavity, the cavity having a retracted state when the second part is in the first position and an expanded state for receiving a jack plug when the second part is in the second position; and one or more contacts located in the contact surface of the first part or second part. ",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a compact and versatile jack socket design suitable for portable electronic devices."
+    ],
+    "objectives": [
+      "Design a two-part jack socket that can accommodate a jack plug while minimizing space requirements.",
+      "Develop a jack socket that can be integrated into a portable electronic device."
+    ],
+    "methods": [
+      "Create a jack socket with two moveable parts that define a cavity for receiving a jack plug.",
+      "Use a design where the cavity has a retracted state and an expanded state to accommodate the jack plug."
+    ],
+    "results": [
+      "Provide a compact and functional jack socket for portable electronic devices.",
+      "Enable the efficient use of space in portable electronic devices."
+    ],
+    "research_subject": "Design of a two-part jack socket for portable electronic devices"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a more flexible and adaptable jack socket design for portable electronic devices."
+    ],
+    "objectives": [
+      "Design a two-part jack socket for a portable electronic device that can move between two positions to accommodate different states."
+    ],
+    "methods": [
+      "Develop a jack socket with two parts, each having a contact surface, that can move between a retracted state and an expanded state for receiving a jack plug.",
+      "Incorporate one or more contacts in the contact surface of the first or second part of the jack socket."
+    ],
+    "results": [
+      "A two-part jack socket design that can adapt to different states, enhancing the flexibility and usability of portable electronic devices."
+    ],
+    "research_subject": "Design of a two-part jack socket for portable electronic devices"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Portable electronic devices require jack sockets that can accommodate jack plugs while maintaining compact form factors and reliable connections."
+    ],
+    "objectives": [
+      "Design a two-part jack socket that can transition between a retracted state for compactness and an expanded state for receiving jack plugs."
+    ],
+    "methods": [
+      "Develop a jack socket with a first part and a moveable second part that create an adjustable cavity through their contact surfaces.",
+      "Position electrical contacts within the contact surfaces to establish connection with inserted jack plugs."
+    ],
+    "results": [
+      "Enable portable electronic devices to have space-efficient jack sockets that expand only when needed to receive jack plugs."
+    ],
+    "research_subject": "Two-part expandable jack socket design for portable electronic devices"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a compact and versatile jack socket design suitable for portable electronic devices.\"\n  ],\n  \"objectives\": [\n    \"Design a two-part jack socket that can accommodate a jack plug while minimizing space requirements.\",\n    \"Develop a jack socket that can be integrated into a portable electronic device.\"\n  ],\n  \"methods\": [\n    \"Create a jack socket with two moveable parts that define a cavity for receiving a jack plug.\",\n    \"Use a design where the cavity has a retracted state and an expanded state to accommodate the jack plug.\"\n  ],\n  \"results\": [\n    \"Provide a compact and functional jack socket for portable electronic devices.\",\n    \"Enable the efficient use of space in portable electronic devices.\"\n  ],\n  \"research_subject\": \"Design of a two-part jack socket for portable electronic devices\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a more flexible and adaptable jack socket design for portable electronic devices.\"\n  ],\n  \"objectives\": [\n    \"Design a two-part jack socket for a portable electronic device that can move between two positions to accommodate different states.\"\n  ],\n  \"methods\": [\n    \"Develop a jack socket with two parts, each having a contact surface, that can move between a retracted state and an expanded state for receiving a jack plug.\",\n    \"Incorporate one or more contacts in the contact surface of the first or second part of the jack socket.\"\n  ],\n  \"results\": [\n    \"A two-part jack socket design that can adapt to different states, enhancing the flexibility and usability of portable electronic devices.\"\n  ],\n  \"research_subject\": \"Design of a two-part jack socket for portable electronic devices\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Portable electronic devices require jack sockets that can accommodate jack plugs while maintaining compact form factors and reliable connections.\"\n  ],\n  \"objectives\": [\n    \"Design a two-part jack socket that can transition between a retracted state for compactness and an expanded state for receiving jack plugs.\"\n  ],\n  \"methods\": [\n    \"Develop a jack socket with a first part and a moveable second part that create an adjustable cavity through their contact surfaces.\",\n    \"Position electrical contacts within the contact surfaces to establish connection with inserted jack plugs.\"\n  ],\n  \"results\": [\n    \"Enable portable electronic devices to have space-efficient jack sockets that expand only when needed to receive jack plugs.\"\n  ],\n  \"research_subject\": \"Two-part expandable jack socket design for portable electronic devices\"\n}\n```"
+}

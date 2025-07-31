@@ -1,0 +1,72 @@
+{
+  "index": 245,
+  "title": "The ‘citizenship industry’: commodified citizenship, the corporate sector and global inequality",
+  "abstract": "Originally introduced by the Caribbean microstate St. Kitts and Nevis in 1984, the possibility of buying citizenship via citizenship-by-investment (CBI) schemes has more recently spread across the Caribbean and to Europe. This proliferation of CBI, the associated commodification of citizenship and migration, the increase in corporate political power and reworking of social inequality are of fundamental importance to Europe and global society. Yet, CBI has received scant scholarly attention and particularly the ‘Citizenship Industry’ – the corporations and industry bodies driving and profiting from CBI – remains largely unexamined. ‘CitIndus’ addresses these gaps. It will explore how corporations effectively created, skilfully perform and arguably control the global citizenship market; illuminate their role in the proliferation of CBI, in shaping global migration regimes and as increasingly influential intermediaries between governments and citizens. Examining the Citizenship Industry will also further our understandings of how citizenship mediates global and local social inequalities and how its commodification reworks these structures of inequality. CitIndus thus advances interdisciplinary social science on citizenship, migration and social inequality. It also meets growing calls to embed migration research more effectively within social theory and advances the conversation between cutting-edge postcolonial and political economy approaches. Methodologically, CitIndus takes the innovative approach of 'following’ the Citizenship Industry, synthesising complementary qualitative methods, including document analysis, interviews, participant observation and qualitative GIS. CitIndus will be supervised by two world-leading experts: Prof Torpey, an authority on citizenship and the state at CUNY, and Prof Jazeel, an authority on postcolonial geography and migration at UCL and its Migration Research Unit, a European hub for migration research.",
+  "llama_json": {
+    "motivations": [
+      "The proliferation of citizenship-by-investment (CBI) schemes has led to the commodification of citizenship and migration, with significant implications for global inequality.",
+      "The 'Citizenship Industry' driving CBI remains largely unexamined, despite its substantial influence on global migration regimes and social inequality."
+    ],
+    "objectives": [
+      "Explore how corporations create, perform, and control the global citizenship market through CBI schemes.",
+      "Illuminate the role of the Citizenship Industry in shaping global migration regimes and social inequality.",
+      "Advance interdisciplinary social science on citizenship, migration, and social inequality."
+    ],
+    "methods": [
+      "Employ a qualitative approach, combining document analysis, interviews, participant observation, and qualitative GIS to 'follow' the Citizenship Industry.",
+      "Synthesize insights from postcolonial and political economy approaches to understand the Citizenship Industry's impact on global inequality."
+    ],
+    "results": [
+      "Enhance understanding of how citizenship mediates global and local social inequalities and how its commodification reworks these structures.",
+      "Contribute to the development of social theory on migration and citizenship, and inform policy debates on CBI schemes."
+    ],
+    "research_subject": "The 'Citizenship Industry' and its impact on commodified citizenship, global inequality, and migration regimes"
+  },
+  "openai_json": {
+    "motivations": [
+      "The proliferation of citizenship-by-investment (CBI) schemes and the associated commodification of citizenship and migration are reshaping social inequality and increasing corporate political power.",
+      "The 'Citizenship Industry' – corporations and industry bodies driving and profiting from CBI – remains largely unexamined in scholarly research."
+    ],
+    "objectives": [
+      "Explore how corporations created, perform, and control the global citizenship market.",
+      "Illuminate the role of the Citizenship Industry in the proliferation of CBI, in shaping global migration regimes, and as intermediaries between governments and citizens.",
+      "Advance understanding of how citizenship mediates global and local social inequalities and how its commodification reworks these structures of inequality."
+    ],
+    "methods": [
+      "Follow the Citizenship Industry, synthesizing qualitative methods such as document analysis, interviews, participant observation, and qualitative GIS.",
+      "Leverage the expertise of Prof Torpey, an authority on citizenship and the state, and Prof Jazeel, an authority on postcolonial geography and migration."
+    ],
+    "results": [
+      "Provide insights into the creation, performance, and control of the global citizenship market by corporations.",
+      "Illuminate the role of the Citizenship Industry in shaping global migration regimes and social inequalities.",
+      "Contribute to the interdisciplinary social science on citizenship, migration, and social inequality."
+    ],
+    "research_subject": "The 'Citizenship Industry' and its impact on global citizenship, migration, and social inequality"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The commodification of citizenship through citizenship-by-investment schemes has proliferated globally but has received limited scholarly attention, particularly regarding the corporate actors driving this phenomenon.",
+      "The role of corporations in shaping global migration regimes and mediating between governments and citizens remains largely unexamined despite their growing influence.",
+      "There is a need to understand how the commodification of citizenship reworks global and local structures of social inequality."
+    ],
+    "objectives": [
+      "Explore how corporations created, perform, and control the global citizenship market and their role in the proliferation of citizenship-by-investment schemes.",
+      "Illuminate the role of the 'Citizenship Industry' as influential intermediaries between governments and citizens in shaping global migration regimes.",
+      "Examine how the commodification of citizenship mediates and reworks global and local social inequalities."
+    ],
+    "methods": [
+      "Employ an innovative approach of 'following' the Citizenship Industry across multiple sites and contexts.",
+      "Synthesize complementary qualitative methods including document analysis, interviews, participant observation, and qualitative GIS.",
+      "Integrate postcolonial and political economy approaches to embed migration research within broader social theory."
+    ],
+    "results": [
+      "Advance interdisciplinary understanding of citizenship, migration, and social inequality in the context of commodified citizenship.",
+      "Provide insights into corporate political power and its impact on global migration regimes.",
+      "Contribute to embedding migration research more effectively within social theory through innovative methodological and theoretical approaches."
+    ],
+    "research_subject": "The corporate 'Citizenship Industry' and its role in commodifying citizenship and reshaping global inequality"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The proliferation of citizenship-by-investment (CBI) schemes has led to the commodification of citizenship and migration, with significant implications for global inequality.\",\n    \"The 'Citizenship Industry' driving CBI remains largely unexamined, despite its substantial influence on global migration regimes and social inequality.\"\n  ],\n  \"objectives\": [\n    \"Explore how corporations create, perform, and control the global citizenship market through CBI schemes.\",\n    \"Illuminate the role of the Citizenship Industry in shaping global migration regimes and social inequality.\",\n    \"Advance interdisciplinary social science on citizenship, migration, and social inequality.\"\n  ],\n  \"methods\": [\n    \"Employ a qualitative approach, combining document analysis, interviews, participant observation, and qualitative GIS to 'follow' the Citizenship Industry.\",\n    \"Synthesize insights from postcolonial and political economy approaches to understand the Citizenship Industry's impact on global inequality.\"\n  ],\n  \"results\": [\n    \"Enhance understanding of how citizenship mediates global and local social inequalities and how its commodification reworks these structures.\",\n    \"Contribute to the development of social theory on migration and citizenship, and inform policy debates on CBI schemes.\"\n  ],\n  \"research_subject\": \"The 'Citizenship Industry' and its impact on commodified citizenship, global inequality, and migration regimes\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The proliferation of citizenship-by-investment (CBI) schemes and the associated commodification of citizenship and migration are reshaping social inequality and increasing corporate political power.\",\n    \"The 'Citizenship Industry' – corporations and industry bodies driving and profiting from CBI – remains largely unexamined in scholarly research.\"\n  ],\n  \"objectives\": [\n    \"Explore how corporations created, perform, and control the global citizenship market.\",\n    \"Illuminate the role of the Citizenship Industry in the proliferation of CBI, in shaping global migration regimes, and as intermediaries between governments and citizens.\",\n    \"Advance understanding of how citizenship mediates global and local social inequalities and how its commodification reworks these structures of inequality.\"\n  ],\n  \"methods\": [\n    \"Follow the Citizenship Industry, synthesizing qualitative methods such as document analysis, interviews, participant observation, and qualitative GIS.\",\n    \"Leverage the expertise of Prof Torpey, an authority on citizenship and the state, and Prof Jazeel, an authority on postcolonial geography and migration.\"\n  ],\n  \"results\": [\n    \"Provide insights into the creation, performance, and control of the global citizenship market by corporations.\",\n    \"Illuminate the role of the Citizenship Industry in shaping global migration regimes and social inequalities.\",\n    \"Contribute to the interdisciplinary social science on citizenship, migration, and social inequality.\"\n  ],\n  \"research_subject\": \"The 'Citizenship Industry' and its impact on global citizenship, migration, and social inequality\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The commodification of citizenship through citizenship-by-investment schemes has proliferated globally but has received limited scholarly attention, particularly regarding the corporate actors driving this phenomenon.\",\n    \"The role of corporations in shaping global migration regimes and mediating between governments and citizens remains largely unexamined despite their growing influence.\",\n    \"There is a need to understand how the commodification of citizenship reworks global and local structures of social inequality.\"\n  ],\n  \"objectives\": [\n    \"Explore how corporations created, perform, and control the global citizenship market and their role in the proliferation of citizenship-by-investment schemes.\",\n    \"Illuminate the role of the 'Citizenship Industry' as influential intermediaries between governments and citizens in shaping global migration regimes.\",\n    \"Examine how the commodification of citizenship mediates and reworks global and local social inequalities.\"\n  ],\n  \"methods\": [\n    \"Employ an innovative approach of 'following' the Citizenship Industry across multiple sites and contexts.\",\n    \"Synthesize complementary qualitative methods including document analysis, interviews, participant observation, and qualitative GIS.\",\n    \"Integrate postcolonial and political economy approaches to embed migration research within broader social theory.\"\n  ],\n  \"results\": [\n    \"Advance interdisciplinary understanding of citizenship, migration, and social inequality in the context of commodified citizenship.\",\n    \"Provide insights into corporate political power and its impact on global migration regimes.\",\n    \"Contribute to embedding migration research more effectively within social theory through innovative methodological and theoretical approaches.\"\n  ],\n  \"research_subject\": \"The corporate 'Citizenship Industry' and its role in commodifying citizenship and reshaping global inequality\"\n}\n```"
+}

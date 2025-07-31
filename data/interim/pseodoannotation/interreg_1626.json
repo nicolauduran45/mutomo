@@ -1,0 +1,74 @@
+{
+  "index": 180,
+  "title": "High Specialized Technicians in Kets",
+  "abstract": "HISTEK aims at enhancing SMEs’ capacities of competitiveness, innovation and internationalization, through the creation of a new  CBC cluster whose members are SMEs, Training Organizations and Public Institutions, strongly committed to set-up and carry on, with a co-responsible approach, a cross-border innovation community. In order to improve SMEs’ competitiveness and innovation, one of the most important leverage is represented by human resources, i.e. companies, especially those ones that have already or intend to establish new branches in CB area, need very highly qualified technicians according to CB common standards, to allow and to favor their mobility in the 3 Countries. For this reason HISTEK, will create the CBC cluster, that will work soundly to develop common tools for assessing SMEs’ needs in terms of human resources, and to create common standards to be adopted in the education systems for developing young highly qualified technicians. This represent in fact a strategic framework condition for the development of SME’s cross-border market.   The CBC Cluster will be immediately operative, through a pilot action whose key elements are: 1) creation of a CB Assessment Tool Kit to be used by SMEs in recruiting activities of young technicians; 2) design of a new join (IT-AL-ME) CB tertiary education course, to be implemented soon after the end of the project, able to train high specialized technicians with advanced high technical preparation, particularly focused on Key Enabling Technologies. In fact, KETs are considered essential for growth and employment, since they provide the basis for innovation in a wide range of industries; 3) dedicated toolkits and guidelines for improving the capacity of SMEs to deal with practical learnings inside the company and with mentoring activities. HISTEK wants to offer an effective and sustainable response to CB SMEs regarding the challenge of innovation against the economic crisis.",
+  "llama_json": {
+    "motivations": [
+      "SMEs in the cross-border area face challenges in competitiveness, innovation, and internationalization due to a lack of highly qualified technicians.",
+      "There is a need for common standards in education systems to develop young, highly qualified technicians that can meet the demands of SMEs in the region."
+    ],
+    "objectives": [
+      "Create a cross-border cluster to enhance SMEs' capacities for competitiveness, innovation, and internationalization.",
+      "Develop common tools and standards for assessing SMEs' needs in terms of human resources and education systems.",
+      "Design and implement a joint tertiary education course to train high-specialized technicians in Key Enabling Technologies."
+    ],
+    "methods": [
+      "Establish a CBC cluster comprising SMEs, Training Organizations, and Public Institutions to promote co-responsible approach and cross-border innovation community.",
+      "Create a CB Assessment Tool Kit for SMEs to use in recruiting young technicians.",
+      "Design and implement a joint tertiary education course and provide dedicated toolkits and guidelines for SMEs to improve practical learnings and mentoring activities."
+    ],
+    "results": [
+      "Enhance SMEs' competitiveness and innovation capacities through access to highly qualified technicians.",
+      "Promote cross-border mobility of technicians and support the development of SMEs' cross-border market.",
+      "Provide an effective and sustainable response to the challenge of innovation in the face of economic crisis."
+    ],
+    "research_subject": "Development of highly specialized technicians in Key Enabling Technologies for SMEs in cross-border areas"
+  },
+  "openai_json": {
+    "motivations": [
+      "SMEs need to enhance their competitiveness, innovation, and internationalization capabilities.",
+      "There is a need for highly qualified technicians in SMEs, especially those intending to establish new branches in the cross-border area.",
+      "The lack of common standards for assessing SMEs' human resource needs and for technician education systems hinders the development of SMEs' cross-border market."
+    ],
+    "objectives": [
+      "Create a new cross-border cluster comprising SMEs, Training Organizations, and Public Institutions to foster a cross-border innovation community.",
+      "Develop common tools for assessing SMEs' human resource needs and establish common standards for technician education systems.",
+      "Design a new cross-border tertiary education course to train highly specialized technicians, particularly focused on Key Enabling Technologies."
+    ],
+    "methods": [
+      "Establish a cross-border cluster to collaboratively work on SMEs' needs and challenges.",
+      "Develop a cross-border Assessment Tool Kit for SMEs' recruiting activities.",
+      "Design a new cross-border tertiary education course focused on training highly specialized technicians in Key Enabling Technologies."
+    ],
+    "results": [
+      "Enhance the competitiveness, innovation, and internationalization capabilities of SMEs.",
+      "Provide SMEs with highly qualified technicians trained according to common cross-border standards.",
+      "Improve the capacity of SMEs to deal with practical learnings inside the company and with mentoring activities."
+    ],
+    "research_subject": "Enhancing SMEs' competitiveness through the creation of a cross-border cluster and training of highly specialized technicians"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "SMEs in the cross-border area lack highly qualified technicians with standardized skills that enable workforce mobility across the three countries.",
+      "Companies need enhanced competitiveness and innovation capabilities to overcome economic challenges, particularly through improved human resources."
+    ],
+    "objectives": [
+      "Create a cross-border cluster of SMEs, training organizations, and public institutions to establish a collaborative innovation community.",
+      "Develop common standards and tools for assessing SMEs' human resource needs and training highly qualified technicians in Key Enabling Technologies."
+    ],
+    "methods": [
+      "Develop a Cross-Border Assessment Tool Kit for SMEs to use in recruiting young technicians.",
+      "Design a joint tertiary education course across Italy, Albania, and Montenegro focused on Key Enabling Technologies.",
+      "Create toolkits and guidelines to improve SMEs' capacity for practical learning and mentoring activities."
+    ],
+    "results": [
+      "Enhanced competitiveness and innovation capacity of SMEs through access to highly qualified technicians trained to common cross-border standards.",
+      "Establishment of a sustainable cross-border innovation community that addresses SMEs' human resource challenges.",
+      "Improved workforce mobility across the three countries through standardized technical education."
+    ],
+    "research_subject": "Cross-border collaboration for training highly specialized technicians in Key Enabling Technologies"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs in the cross-border area face challenges in competitiveness, innovation, and internationalization due to a lack of highly qualified technicians.\",\n    \"There is a need for common standards in education systems to develop young, highly qualified technicians that can meet the demands of SMEs in the region.\"\n  ],\n  \"objectives\": [\n    \"Create a cross-border cluster to enhance SMEs' capacities for competitiveness, innovation, and internationalization.\",\n    \"Develop common tools and standards for assessing SMEs' needs in terms of human resources and education systems.\",\n    \"Design and implement a joint tertiary education course to train high-specialized technicians in Key Enabling Technologies.\"\n  ],\n  \"methods\": [\n    \"Establish a CBC cluster comprising SMEs, Training Organizations, and Public Institutions to promote co-responsible approach and cross-border innovation community.\",\n    \"Create a CB Assessment Tool Kit for SMEs to use in recruiting young technicians.\",\n    \"Design and implement a joint tertiary education course and provide dedicated toolkits and guidelines for SMEs to improve practical learnings and mentoring activities.\"\n  ],\n  \"results\": [\n    \"Enhance SMEs' competitiveness and innovation capacities through access to highly qualified technicians.\",\n    \"Promote cross-border mobility of technicians and support the development of SMEs' cross-border market.\",\n    \"Provide an effective and sustainable response to the challenge of innovation in the face of economic crisis.\"\n  ],\n  \"research_subject\": \"Development of highly specialized technicians in Key Enabling Technologies for SMEs in cross-border areas\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs need to enhance their competitiveness, innovation, and internationalization capabilities.\",\n    \"There is a need for highly qualified technicians in SMEs, especially those intending to establish new branches in the cross-border area.\",\n    \"The lack of common standards for assessing SMEs' human resource needs and for technician education systems hinders the development of SMEs' cross-border market.\"\n  ],\n  \"objectives\": [\n    \"Create a new cross-border cluster comprising SMEs, Training Organizations, and Public Institutions to foster a cross-border innovation community.\",\n    \"Develop common tools for assessing SMEs' human resource needs and establish common standards for technician education systems.\",\n    \"Design a new cross-border tertiary education course to train highly specialized technicians, particularly focused on Key Enabling Technologies.\"\n  ],\n  \"methods\": [\n    \"Establish a cross-border cluster to collaboratively work on SMEs' needs and challenges.\",\n    \"Develop a cross-border Assessment Tool Kit for SMEs' recruiting activities.\",\n    \"Design a new cross-border tertiary education course focused on training highly specialized technicians in Key Enabling Technologies.\"\n  ],\n  \"results\": [\n    \"Enhance the competitiveness, innovation, and internationalization capabilities of SMEs.\",\n    \"Provide SMEs with highly qualified technicians trained according to common cross-border standards.\",\n    \"Improve the capacity of SMEs to deal with practical learnings inside the company and with mentoring activities.\"\n  ],\n  \"research_subject\": \"Enhancing SMEs' competitiveness through the creation of a cross-border cluster and training of highly specialized technicians\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs in the cross-border area lack highly qualified technicians with standardized skills that enable workforce mobility across the three countries.\",\n    \"Companies need enhanced competitiveness and innovation capabilities to overcome economic challenges, particularly through improved human resources.\"\n  ],\n  \"objectives\": [\n    \"Create a cross-border cluster of SMEs, training organizations, and public institutions to establish a collaborative innovation community.\",\n    \"Develop common standards and tools for assessing SMEs' human resource needs and training highly qualified technicians in Key Enabling Technologies.\"\n  ],\n  \"methods\": [\n    \"Develop a Cross-Border Assessment Tool Kit for SMEs to use in recruiting young technicians.\",\n    \"Design a joint tertiary education course across Italy, Albania, and Montenegro focused on Key Enabling Technologies.\",\n    \"Create toolkits and guidelines to improve SMEs' capacity for practical learning and mentoring activities.\"\n  ],\n  \"results\": [\n    \"Enhanced competitiveness and innovation capacity of SMEs through access to highly qualified technicians trained to common cross-border standards.\",\n    \"Establishment of a sustainable cross-border innovation community that addresses SMEs' human resource challenges.\",\n    \"Improved workforce mobility across the three countries through standardized technical education.\"\n  ],\n  \"research_subject\": \"Cross-border collaboration for training highly specialized technicians in Key Enabling Technologies\"\n}\n```"
+}

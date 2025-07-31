@@ -1,0 +1,68 @@
+{
+  "index": 72,
+  "title": "Abstract 29: The Surgical Trial in Lobar Intracerebral Haemorrhage - Analysis of Crossover Patients",
+  "abstract": "Background: STICH II was an international multicentre pragmatic randomised parallel group trial to establish whether a policy of early surgery (ES) improved outcome compared to a policy of initial conservative treatment (ICT) for patients with superficial lobar intracerebral haemorrhage (ICH). The results of the “intention to treat analysis” have been published and showed a non-significant trend in favour of early surgery. However, as observed in other surgical trials, there was a substantial crossover of patients from the ICT group with 21% having surgery within 14 days of randomisation. This paper investigates these patients and their effect on outcome. Methods: Patients from the ICT group who underwent surgery within 14 days were identified and compared with patients who continued to receive conservative treatment and with patients randomised to ES. The protocol defined “early surgery” as within 12 hours of randomisation so analyses were also conducted using this definition. Per protocol and treatment received analyses were conducted. Results: For this analysis there are 285 ICT patients with outcome assessed, 233 had no surgery and 62 patients had surgery within 2 weeks: 23 within 12 hours. Of 297 patients randomised to ES, 278 had surgery within 12 hours. Surgical ICT patients had lower GCS (13 v 14) and larger volumes (54ml v 32ml) of haematoma at randomisation (p&lt;0.0001) than non-surgical ICT. They also showed lower GCS and larger volumes (54ml v 40ml) than per protocol ES patients. Surgical ICT patients were much more likely to have an unfavourable outcome than non-surgical (84% v 63%, p &lt; 0.002). If the surgery was after 12 hours the unfavourable outcome was higher (89%). There were no differences in outcome between per protocol ES and non-surgical ICT but there were major differences in baseline measures between these patients. Death rates were highest in ICT patients having surgery within 12 hours (48%) compared with later surgery (31%), non-surgical ICT patients (20%) and ES patients (17%). Conclusions: Patients randomised to conservative treatment who deteriorate and have surgery differ considerably from those that do not deteriorate and from those who are randomised to early surgery. Further work is needed to develop ways of analysing these data.",
+  "llama_json": {
+    "motivations": [
+      "The results of the STICH II trial showed a non-significant trend in favour of early surgery for patients with superficial lobar intracerebral haemorrhage, but were potentially influenced by a substantial crossover of patients from the initial conservative treatment group to surgery.",
+      "There is a need to better understand the outcomes of patients who undergo surgery after initially being assigned to conservative treatment."
+    ],
+    "objectives": [
+      "Investigate the characteristics and outcomes of patients who crossed over from the initial conservative treatment group to surgery within 14 days of randomisation.",
+      "Compare the outcomes of these patients with those who continued to receive conservative treatment and those who were randomised to early surgery."
+    ],
+    "methods": [
+      "Identify patients from the initial conservative treatment group who underwent surgery within 14 days and compare their outcomes with those of patients who continued to receive conservative treatment and patients randomised to early surgery.",
+      "Conduct per protocol and treatment received analyses to assess the impact of crossover on trial outcomes."
+    ],
+    "results": [
+      "Patients who crossed over from the initial conservative treatment group to surgery had poorer outcomes than those who continued to receive conservative treatment or were randomised to early surgery.",
+      "The timing of surgery after crossover was associated with worse outcomes, with higher rates of unfavourable outcomes and death when surgery was delayed beyond 12 hours."
+    ],
+    "research_subject": "Analysis of crossover patients in the STICH II trial for lobar intracerebral haemorrhage"
+  },
+  "openai_json": {
+    "motivations": [
+      "The STICH II trial showed a non-significant trend in favor of early surgery for patients with superficial lobar intracerebral haemorrhage, but there was a substantial crossover of patients from the initial conservative treatment group to surgery.",
+      "There is a need to understand the characteristics and outcomes of these crossover patients."
+    ],
+    "objectives": [
+      "Identify and analyze the patients from the initial conservative treatment group who underwent surgery within 14 days.",
+      "Compare these patients with those who continued to receive conservative treatment and with patients initially randomized to early surgery."
+    ],
+    "methods": [
+      "Identify patients from the initial conservative treatment group who underwent surgery within 14 days and compare them with other patient groups.",
+      "Conduct per protocol and treatment received analyses."
+    ],
+    "results": [
+      "Patients who crossed over to surgery had lower Glasgow Coma Scale scores and larger volumes of haematoma at randomisation than non-surgical patients.",
+      "These patients were more likely to have an unfavorable outcome than non-surgical patients, especially if the surgery was after 12 hours.",
+      "Death rates were highest in patients having surgery within 12 hours compared with later surgery, non-surgical patients, and early surgery patients."
+    ],
+    "research_subject": "Analysis of crossover patients in the STICH II trial for lobar intracerebral haemorrhage"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The STICH II trial showed substantial crossover of patients from initial conservative treatment to surgery, which may affect the interpretation of trial outcomes.",
+      "Understanding the characteristics and outcomes of crossover patients is crucial for accurately assessing the effectiveness of early surgery versus conservative treatment for superficial lobar intracerebral haemorrhage."
+    ],
+    "objectives": [
+      "Investigate the characteristics and outcomes of patients who crossed over from initial conservative treatment to surgery within 14 days of randomisation.",
+      "Analyze the effect of crossover patients on the overall trial outcomes and compare them with patients who remained in their assigned treatment groups."
+    ],
+    "methods": [
+      "Identify and compare patients from the initial conservative treatment group who underwent surgery within 14 days with those who continued conservative treatment and those randomised to early surgery.",
+      "Conduct per protocol and treatment received analyses using different definitions of early surgery.",
+      "Compare baseline characteristics and outcomes between different patient groups."
+    ],
+    "results": [
+      "Crossover patients had significantly lower Glasgow Coma Scale scores and larger haematoma volumes at randomisation compared to non-surgical conservative treatment patients.",
+      "Patients who crossed over to surgery had substantially worse outcomes, with 84% experiencing unfavourable outcomes compared to 63% in non-surgical conservative treatment patients.",
+      "Death rates were highest among conservative treatment patients who had surgery within 12 hours (48%), indicating that deteriorating patients who require delayed surgery have particularly poor prognosis."
+    ],
+    "research_subject": "Analysis of crossover patients in the STICH II trial for superficial lobar intracerebral haemorrhage"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The results of the STICH II trial showed a non-significant trend in favour of early surgery for patients with superficial lobar intracerebral haemorrhage, but were potentially influenced by a substantial crossover of patients from the initial conservative treatment group to surgery.\",\n    \"There is a need to better understand the outcomes of patients who undergo surgery after initially being assigned to conservative treatment.\"\n  ],\n  \"objectives\": [\n    \"Investigate the characteristics and outcomes of patients who crossed over from the initial conservative treatment group to surgery within 14 days of randomisation.\",\n    \"Compare the outcomes of these patients with those who continued to receive conservative treatment and those who were randomised to early surgery.\"\n  ],\n  \"methods\": [\n    \"Identify patients from the initial conservative treatment group who underwent surgery within 14 days and compare their outcomes with those of patients who continued to receive conservative treatment and patients randomised to early surgery.\",\n    \"Conduct per protocol and treatment received analyses to assess the impact of crossover on trial outcomes.\"\n  ],\n  \"results\": [\n    \"Patients who crossed over from the initial conservative treatment group to surgery had poorer outcomes than those who continued to receive conservative treatment or were randomised to early surgery.\",\n    \"The timing of surgery after crossover was associated with worse outcomes, with higher rates of unfavourable outcomes and death when surgery was delayed beyond 12 hours.\"\n  ],\n  \"research_subject\": \"Analysis of crossover patients in the STICH II trial for lobar intracerebral haemorrhage\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The STICH II trial showed a non-significant trend in favor of early surgery for patients with superficial lobar intracerebral haemorrhage, but there was a substantial crossover of patients from the initial conservative treatment group to surgery.\",\n    \"There is a need to understand the characteristics and outcomes of these crossover patients.\"\n  ],\n  \"objectives\": [\n    \"Identify and analyze the patients from the initial conservative treatment group who underwent surgery within 14 days.\",\n    \"Compare these patients with those who continued to receive conservative treatment and with patients initially randomized to early surgery.\"\n  ],\n  \"methods\": [\n    \"Identify patients from the initial conservative treatment group who underwent surgery within 14 days and compare them with other patient groups.\",\n    \"Conduct per protocol and treatment received analyses.\"\n  ],\n  \"results\": [\n    \"Patients who crossed over to surgery had lower Glasgow Coma Scale scores and larger volumes of haematoma at randomisation than non-surgical patients.\",\n    \"These patients were more likely to have an unfavorable outcome than non-surgical patients, especially if the surgery was after 12 hours.\",\n    \"Death rates were highest in patients having surgery within 12 hours compared with later surgery, non-surgical patients, and early surgery patients.\"\n  ],\n  \"research_subject\": \"Analysis of crossover patients in the STICH II trial for lobar intracerebral haemorrhage\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The STICH II trial showed substantial crossover of patients from initial conservative treatment to surgery, which may affect the interpretation of trial outcomes.\",\n    \"Understanding the characteristics and outcomes of crossover patients is crucial for accurately assessing the effectiveness of early surgery versus conservative treatment for superficial lobar intracerebral haemorrhage.\"\n  ],\n  \"objectives\": [\n    \"Investigate the characteristics and outcomes of patients who crossed over from initial conservative treatment to surgery within 14 days of randomisation.\",\n    \"Analyze the effect of crossover patients on the overall trial outcomes and compare them with patients who remained in their assigned treatment groups.\"\n  ],\n  \"methods\": [\n    \"Identify and compare patients from the initial conservative treatment group who underwent surgery within 14 days with those who continued conservative treatment and those randomised to early surgery.\",\n    \"Conduct per protocol and treatment received analyses using different definitions of early surgery.\",\n    \"Compare baseline characteristics and outcomes between different patient groups.\"\n  ],\n  \"results\": [\n    \"Crossover patients had significantly lower Glasgow Coma Scale scores and larger haematoma volumes at randomisation compared to non-surgical conservative treatment patients.\",\n    \"Patients who crossed over to surgery had substantially worse outcomes, with 84% experiencing unfavourable outcomes compared to 63% in non-surgical conservative treatment patients.\",\n    \"Death rates were highest among conservative treatment patients who had surgery within 12 hours (48%), indicating that deteriorating patients who require delayed surgery have particularly poor prognosis.\"\n  ],\n  \"research_subject\": \"Analysis of crossover patients in the STICH II trial for superficial lobar intracerebral haemorrhage\"\n}\n```"
+}

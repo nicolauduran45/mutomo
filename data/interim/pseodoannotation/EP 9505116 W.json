@@ -1,0 +1,59 @@
+{
+  "index": 21,
+  "title": "PLASMA DISPLAY",
+  "abstract": "The invention concerns alternating voltage plasma displays which, with the development of high-definition television, are becoming increasingly important. With such displays, it is already possible very satisfactorily to produce screens of optimal flatness and size. However, a drawback of known plasma displays is the fact that problems of brightness and luminosity arise at the required high definition. In the plasma display according to the invention, this problem is solved by an electrode structure which ensures significantly larger gas discharge regions by comparison with known electrode structures.",
+  "llama_json": {
+    "motivations": [
+      "Existing plasma displays face challenges in achieving sufficient brightness and luminosity at high definition."
+    ],
+    "objectives": [
+      "Develop an improved plasma display that overcomes brightness and luminosity issues at high definition."
+    ],
+    "methods": [
+      "Design an electrode structure that enables significantly larger gas discharge regions compared to existing electrode structures."
+    ],
+    "results": [
+      "Achieve improved brightness and luminosity in plasma displays, making them suitable for high-definition applications."
+    ],
+    "research_subject": "Development of an improved electrode structure for high-definition plasma displays"
+  },
+  "openai_json": {
+    "motivations": [
+      "The development of high-definition television has increased the importance of alternating voltage plasma displays.",
+      "Existing plasma displays face issues of brightness and luminosity at high definition."
+    ],
+    "objectives": [
+      "Improve the brightness and luminosity of high-definition plasma displays.",
+      "Develop an electrode structure that ensures larger gas discharge regions compared to existing structures."
+    ],
+    "methods": [
+      "Design an electrode structure that allows for larger gas discharge regions, improving brightness and luminosity."
+    ],
+    "results": [
+      "The invention provides a solution to the brightness and luminosity problems of high-definition plasma displays.",
+      "The new electrode structure allows for significantly larger gas discharge regions."
+    ],
+    "research_subject": "Improvement of brightness and luminosity in high-definition plasma displays"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "High-definition television development requires plasma displays with improved brightness and luminosity performance.",
+      "Existing plasma displays face limitations in achieving adequate brightness at the high resolutions needed for modern applications."
+    ],
+    "objectives": [
+      "Develop a plasma display with enhanced brightness and luminosity capabilities suitable for high-definition television applications.",
+      "Design an improved electrode structure that enables larger gas discharge regions compared to conventional designs."
+    ],
+    "methods": [
+      "Implementation of a novel electrode structure that creates significantly larger gas discharge regions than traditional plasma display designs."
+    ],
+    "results": [
+      "Achievement of improved brightness and luminosity performance in plasma displays through enlarged gas discharge regions.",
+      "Enhanced capability to produce high-definition displays while maintaining optimal flatness and size characteristics."
+    ],
+    "research_subject": "Alternating voltage plasma display technology with improved electrode structure for high-definition applications"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing plasma displays face challenges in achieving sufficient brightness and luminosity at high definition.\"\n  ],\n  \"objectives\": [\n    \"Develop an improved plasma display that overcomes brightness and luminosity issues at high definition.\"\n  ],\n  \"methods\": [\n    \"Design an electrode structure that enables significantly larger gas discharge regions compared to existing electrode structures.\"\n  ],\n  \"results\": [\n    \"Achieve improved brightness and luminosity in plasma displays, making them suitable for high-definition applications.\"\n  ],\n  \"research_subject\": \"Development of an improved electrode structure for high-definition plasma displays\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The development of high-definition television has increased the importance of alternating voltage plasma displays.\",\n    \"Existing plasma displays face issues of brightness and luminosity at high definition.\"\n  ],\n  \"objectives\": [\n    \"Improve the brightness and luminosity of high-definition plasma displays.\",\n    \"Develop an electrode structure that ensures larger gas discharge regions compared to existing structures.\"\n  ],\n  \"methods\": [\n    \"Design an electrode structure that allows for larger gas discharge regions, improving brightness and luminosity.\"\n  ],\n  \"results\": [\n    \"The invention provides a solution to the brightness and luminosity problems of high-definition plasma displays.\",\n    \"The new electrode structure allows for significantly larger gas discharge regions.\"\n  ],\n  \"research_subject\": \"Improvement of brightness and luminosity in high-definition plasma displays\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"High-definition television development requires plasma displays with improved brightness and luminosity performance.\",\n    \"Existing plasma displays face limitations in achieving adequate brightness at the high resolutions needed for modern applications.\"\n  ],\n  \"objectives\": [\n    \"Develop a plasma display with enhanced brightness and luminosity capabilities suitable for high-definition television applications.\",\n    \"Design an improved electrode structure that enables larger gas discharge regions compared to conventional designs.\"\n  ],\n  \"methods\": [\n    \"Implementation of a novel electrode structure that creates significantly larger gas discharge regions than traditional plasma display designs.\"\n  ],\n  \"results\": [\n    \"Achievement of improved brightness and luminosity performance in plasma displays through enlarged gas discharge regions.\",\n    \"Enhanced capability to produce high-definition displays while maintaining optimal flatness and size characteristics.\"\n  ],\n  \"research_subject\": \"Alternating voltage plasma display technology with improved electrode structure for high-definition applications\"\n}\n```"
+}

@@ -1,0 +1,72 @@
+{
+  "index": 295,
+  "title": "Strong-Interaction matter coupled to electroweak probes and dark matter candidates",
+  "abstract": "For decades, the Standard Model of particle physics has successfully predicted the outcome of experiments probing the laws of nature on the smallest distances. Its last missing ingredient, the Higgs particle, was discovered at the Large Hadron Collider at CERN in 2012. A vast experimental program is now underway to complete its description of weakly interacting particles called neutrinos. For all its successes, the Standard Model does not provide an explanation for the nature of dark matter, which is thought to account for a quarter of the energy in the universe. This project, based on the `lattice QCD' framework, will enable a more stringent test of the Standard Model, contribute to narrowing down the list of dark-matter candidate particles, and reduce uncertainties in neutrino detection. The strong interaction, which binds protons and neutrons together to form atomic nuclei, is described by the sector of the Standard Model called Quantum Chromodynamics (QCD). The complexity of the strong interaction is often the limiting factor in testing the Standard Model and in searching for new fundamental particles and forces. Strong-interaction matter is also of tremendous intrinsic interest because it exhibits many emerging phenomena such as spontaneous symmetry breaking, quantum-relativistic bound states, and a high-temperature `quark-gluon plasma' phase, to name a few. By replacing space and time by a lattice, QCD becomes amenable to an ab initio treatment via large-scale computer simulations. The subproject of testing `sterile' neutrinos as dark-matter constituents depends on understanding aspects of hot QCD matter, since they would have been produced in the early, hot universe. This goal is thus connected to present-day heavy-ion collision experiments, where tiny droplets of hot QCD matter are produced in the laboratory.",
+  "llama_json": {
+    "motivations": [
+      "The Standard Model of particle physics does not provide an explanation for the nature of dark matter, which accounts for a quarter of the universe's energy.",
+      "The complexity of the strong interaction limits the testing of the Standard Model and the search for new fundamental particles and forces."
+    ],
+    "objectives": [
+      "Enable a more stringent test of the Standard Model through lattice QCD simulations.",
+      "Contribute to narrowing down the list of dark-matter candidate particles, specifically sterile neutrinos.",
+      "Reduce uncertainties in neutrino detection by better understanding the strong interaction."
+    ],
+    "methods": [
+      "Employ the lattice QCD framework to simulate strong-interaction matter and its emerging phenomena.",
+      "Use large-scale computer simulations to study the strong interaction and its role in particle physics.",
+      "Investigate the connection between hot QCD matter and the production of sterile neutrinos in the early universe."
+    ],
+    "results": [
+      "Improve the understanding of the strong interaction and its role in the Standard Model.",
+      "Provide insights into the nature of dark matter and its possible constituents, such as sterile neutrinos.",
+      "Enhance the accuracy of neutrino detection and the search for new fundamental particles and forces."
+    ],
+    "research_subject": "Strong-interaction matter coupled to electroweak probes and dark matter candidates in the context of lattice QCD"
+  },
+  "openai_json": {
+    "motivations": [
+      "The Standard Model of particle physics, despite its successes, does not explain the nature of dark matter, which is believed to constitute a significant portion of the universe's energy.",
+      "The complexity of the strong interaction often limits the testing of the Standard Model and the search for new fundamental particles and forces."
+    ],
+    "objectives": [
+      "Enable a more stringent test of the Standard Model and contribute to narrowing down the list of dark-matter candidate particles.",
+      "Reduce uncertainties in neutrino detection and understand aspects of hot QCD matter, which is relevant to the study of 'sterile' neutrinos as dark-matter constituents."
+    ],
+    "methods": [
+      "Use the 'lattice QCD' framework to study the strong interaction, which binds protons and neutrons together to form atomic nuclei.",
+      "Perform large-scale computer simulations to make QCD amenable to an ab initio treatment."
+    ],
+    "results": [
+      "Expected to provide a more stringent test of the Standard Model and contribute to the understanding of dark matter.",
+      "Expected to reduce uncertainties in neutrino detection and enhance understanding of hot QCD matter."
+    ],
+    "research_subject": "Strong-Interaction matter coupled to electroweak probes and dark matter candidates"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Standard Model cannot explain the nature of dark matter, which constitutes a quarter of the universe's energy.",
+      "The complexity of strong interactions limits our ability to test the Standard Model and search for new fundamental particles and forces.",
+      "Understanding hot QCD matter is crucial for testing sterile neutrinos as dark matter candidates and interpreting heavy-ion collision experiments."
+    ],
+    "objectives": [
+      "Enable more stringent tests of the Standard Model and narrow down the list of dark matter candidate particles.",
+      "Reduce uncertainties in neutrino detection through improved understanding of strong interactions.",
+      "Investigate the properties of hot QCD matter to test sterile neutrinos as potential dark matter constituents."
+    ],
+    "methods": [
+      "Use the lattice QCD framework to perform ab initio calculations of strong interaction phenomena through large-scale computer simulations.",
+      "Replace space and time with a discrete lattice to make Quantum Chromodynamics computationally tractable.",
+      "Connect theoretical predictions with heavy-ion collision experiments to study hot QCD matter properties."
+    ],
+    "results": [
+      "Improved constraints on the Standard Model and reduced list of viable dark matter candidate particles.",
+      "Enhanced precision in neutrino detection capabilities through better understanding of strong interaction effects.",
+      "New insights into the properties of hot QCD matter relevant to early universe conditions and dark matter production."
+    ],
+    "research_subject": "Strong interaction matter and its role in testing the Standard Model and dark matter candidates"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The Standard Model of particle physics does not provide an explanation for the nature of dark matter, which accounts for a quarter of the universe's energy.\",\n    \"The complexity of the strong interaction limits the testing of the Standard Model and the search for new fundamental particles and forces.\"\n  ],\n  \"objectives\": [\n    \"Enable a more stringent test of the Standard Model through lattice QCD simulations.\",\n    \"Contribute to narrowing down the list of dark-matter candidate particles, specifically sterile neutrinos.\",\n    \"Reduce uncertainties in neutrino detection by better understanding the strong interaction.\"\n  ],\n  \"methods\": [\n    \"Employ the lattice QCD framework to simulate strong-interaction matter and its emerging phenomena.\",\n    \"Use large-scale computer simulations to study the strong interaction and its role in particle physics.\",\n    \"Investigate the connection between hot QCD matter and the production of sterile neutrinos in the early universe.\"\n  ],\n  \"results\": [\n    \"Improve the understanding of the strong interaction and its role in the Standard Model.\",\n    \"Provide insights into the nature of dark matter and its possible constituents, such as sterile neutrinos.\",\n    \"Enhance the accuracy of neutrino detection and the search for new fundamental particles and forces.\"\n  ],\n  \"research_subject\": \"Strong-interaction matter coupled to electroweak probes and dark matter candidates in the context of lattice QCD\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The Standard Model of particle physics, despite its successes, does not explain the nature of dark matter, which is believed to constitute a significant portion of the universe's energy.\",\n    \"The complexity of the strong interaction often limits the testing of the Standard Model and the search for new fundamental particles and forces.\"\n  ],\n  \"objectives\": [\n    \"Enable a more stringent test of the Standard Model and contribute to narrowing down the list of dark-matter candidate particles.\",\n    \"Reduce uncertainties in neutrino detection and understand aspects of hot QCD matter, which is relevant to the study of 'sterile' neutrinos as dark-matter constituents.\"\n  ],\n  \"methods\": [\n    \"Use the 'lattice QCD' framework to study the strong interaction, which binds protons and neutrons together to form atomic nuclei.\",\n    \"Perform large-scale computer simulations to make QCD amenable to an ab initio treatment.\"\n  ],\n  \"results\": [\n    \"Expected to provide a more stringent test of the Standard Model and contribute to the understanding of dark matter.\",\n    \"Expected to reduce uncertainties in neutrino detection and enhance understanding of hot QCD matter.\"\n  ],\n  \"research_subject\": \"Strong-Interaction matter coupled to electroweak probes and dark matter candidates\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The Standard Model cannot explain the nature of dark matter, which constitutes a quarter of the universe's energy.\",\n    \"The complexity of strong interactions limits our ability to test the Standard Model and search for new fundamental particles and forces.\",\n    \"Understanding hot QCD matter is crucial for testing sterile neutrinos as dark matter candidates and interpreting heavy-ion collision experiments.\"\n  ],\n  \"objectives\": [\n    \"Enable more stringent tests of the Standard Model and narrow down the list of dark matter candidate particles.\",\n    \"Reduce uncertainties in neutrino detection through improved understanding of strong interactions.\",\n    \"Investigate the properties of hot QCD matter to test sterile neutrinos as potential dark matter constituents.\"\n  ],\n  \"methods\": [\n    \"Use the lattice QCD framework to perform ab initio calculations of strong interaction phenomena through large-scale computer simulations.\",\n    \"Replace space and time with a discrete lattice to make Quantum Chromodynamics computationally tractable.\",\n    \"Connect theoretical predictions with heavy-ion collision experiments to study hot QCD matter properties.\"\n  ],\n  \"results\": [\n    \"Improved constraints on the Standard Model and reduced list of viable dark matter candidate particles.\",\n    \"Enhanced precision in neutrino detection capabilities through better understanding of strong interaction effects.\",\n    \"New insights into the properties of hot QCD matter relevant to early universe conditions and dark matter production.\"\n  ],\n  \"research_subject\": \"Strong interaction matter and its role in testing the Standard Model and dark matter candidates\"\n}\n```"
+}

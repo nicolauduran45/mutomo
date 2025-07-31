@@ -1,0 +1,57 @@
+{
+  "index": 271,
+  "title": "ANTIBODY FRAGMENTS AGAINST THE INSULIN RECEPTOR AND USES THEREOF TO TREAT HYPOGLYCEMIA",
+  "abstract": "The present disclosure relates, in general, to methods of treating or preventing hypoglycemia using a negative modulator antibody fragment that binds to the insulin receptor and modulates the action of insulin at the insulin receptor.",
+  "llama_json": {
+    "motivations": [
+      "Hypoglycemia is a condition that requires effective treatment and prevention strategies."
+    ],
+    "objectives": [
+      "Develop a method for treating or preventing hypoglycemia using a negative modulator antibody fragment."
+    ],
+    "methods": [
+      "Utilize a negative modulator antibody fragment that binds to the insulin receptor to modulate insulin action."
+    ],
+    "results": [
+      "Effective treatment or prevention of hypoglycemia through the modulation of insulin action at the insulin receptor."
+    ],
+    "research_subject": "Antibody fragments against the insulin receptor for treating hypoglycemia"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective methods to treat or prevent hypoglycemia."
+    ],
+    "objectives": [
+      "Develop a negative modulator antibody fragment that binds to the insulin receptor and modulates the action of insulin."
+    ],
+    "methods": [
+      "Use a negative modulator antibody fragment that binds to the insulin receptor to treat or prevent hypoglycemia."
+    ],
+    "results": [
+      "Potential treatment or prevention of hypoglycemia through the modulation of insulin action at the insulin receptor."
+    ],
+    "research_subject": "Treatment of hypoglycemia using antibody fragments against the insulin receptor"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Hypoglycemia is a serious medical condition that requires effective treatment and prevention strategies.",
+      "Current approaches to managing hypoglycemia may have limitations in modulating insulin receptor activity."
+    ],
+    "objectives": [
+      "Develop antibody fragments that can bind to the insulin receptor and negatively modulate insulin action.",
+      "Provide methods for treating or preventing hypoglycemia using these antibody fragments."
+    ],
+    "methods": [
+      "Design and develop antibody fragments that specifically bind to the insulin receptor.",
+      "Utilize negative modulator antibody fragments to regulate insulin action at the receptor level."
+    ],
+    "results": [
+      "Enable treatment and prevention of hypoglycemia through targeted modulation of insulin receptor activity.",
+      "Provide a novel therapeutic approach using antibody fragments as negative modulators of insulin signaling."
+    ],
+    "research_subject": "Antibody fragments as insulin receptor modulators for hypoglycemia treatment"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Hypoglycemia is a condition that requires effective treatment and prevention strategies.\"\n  ],\n  \"objectives\": [\n    \"Develop a method for treating or preventing hypoglycemia using a negative modulator antibody fragment.\"\n  ],\n  \"methods\": [\n    \"Utilize a negative modulator antibody fragment that binds to the insulin receptor to modulate insulin action.\"\n  ],\n  \"results\": [\n    \"Effective treatment or prevention of hypoglycemia through the modulation of insulin action at the insulin receptor.\"\n  ],\n  \"research_subject\": \"Antibody fragments against the insulin receptor for treating hypoglycemia\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective methods to treat or prevent hypoglycemia.\"\n  ],\n  \"objectives\": [\n    \"Develop a negative modulator antibody fragment that binds to the insulin receptor and modulates the action of insulin.\"\n  ],\n  \"methods\": [\n    \"Use a negative modulator antibody fragment that binds to the insulin receptor to treat or prevent hypoglycemia.\"\n  ],\n  \"results\": [\n    \"Potential treatment or prevention of hypoglycemia through the modulation of insulin action at the insulin receptor.\"\n  ],\n  \"research_subject\": \"Treatment of hypoglycemia using antibody fragments against the insulin receptor\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Hypoglycemia is a serious medical condition that requires effective treatment and prevention strategies.\",\n    \"Current approaches to managing hypoglycemia may have limitations in modulating insulin receptor activity.\"\n  ],\n  \"objectives\": [\n    \"Develop antibody fragments that can bind to the insulin receptor and negatively modulate insulin action.\",\n    \"Provide methods for treating or preventing hypoglycemia using these antibody fragments.\"\n  ],\n  \"methods\": [\n    \"Design and develop antibody fragments that specifically bind to the insulin receptor.\",\n    \"Utilize negative modulator antibody fragments to regulate insulin action at the receptor level.\"\n  ],\n  \"results\": [\n    \"Enable treatment and prevention of hypoglycemia through targeted modulation of insulin receptor activity.\",\n    \"Provide a novel therapeutic approach using antibody fragments as negative modulators of insulin signaling.\"\n  ],\n  \"research_subject\": \"Antibody fragments as insulin receptor modulators for hypoglycemia treatment\"\n}\n```"
+}

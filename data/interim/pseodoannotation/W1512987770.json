@@ -1,0 +1,69 @@
+{
+  "index": 217,
+  "title": "Comorbidity between personality disorders and depressive symptomatology in women: A cross-sectional study of three different transitional life stages",
+  "abstract": "This study assessed the prevalence of personality disorders (PDs), according to DSM-IV criteria, in relation to depressive symptomatology at three different periods of life in female subjects. Depressive symptoms and personality disorders were assessed in a sample of 568 women from three different transitional stages: 134 students, 314 primiparous women after childbirth and 120 women diagnosed with breast cancer. Depressive symptoms were assessed by the Hospital Depression and Anxiety Scale in the first and third groups and by the Edinburgh Post-natal Depression Scale in the second group, whereas PDs were assessed by the French version of the Vragenlijst voor Kenmerken van de Persoonlijkheid. Depressive symptomatology and rates of PD (20.4% and 6.3%) were equivalent in the three groups. The prevalence of PD was higher in the depressed group compared with the non-depressed group, with more paranoid, borderline, avoidant, obsessive-compulsive, schizotypal, antisocial, dependent and histrionic PD. Our findings support the hypothesis that PDs are more frequently associated with depressive symptoms. Borderline and avoidant PDs were more prevalent among young women. All cluster C PD (dependent, avoidant and obsessive-compulsive) co-occurred significantly with depressive symptoms.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the relationship between personality disorders and depressive symptomatology in women across different life stages.",
+      "The comorbidity of personality disorders and depressive symptoms in women is not well understood, particularly in transitional life stages."
+    ],
+    "objectives": [
+      "Assess the prevalence of personality disorders in relation to depressive symptomatology in women at three different transitional life stages.",
+      "Examine the relationship between specific personality disorders and depressive symptoms in women."
+    ],
+    "methods": [
+      "Conduct a cross-sectional study of women at three different transitional life stages (students, primiparous women after childbirth, and women diagnosed with breast cancer).",
+      "Use standardized assessment tools to evaluate depressive symptoms and personality disorders.",
+      "Compare the prevalence of personality disorders in depressed and non-depressed groups."
+    ],
+    "results": [
+      "Personality disorders are more frequently associated with depressive symptoms in women.",
+      "Specific personality disorders (borderline, avoidant, obsessive-compulsive, dependent) co-occur significantly with depressive symptoms.",
+      "The prevalence of personality disorders is higher in depressed women compared to non-depressed women."
+    ],
+    "research_subject": "Comorbidity of personality disorders and depressive symptomatology in women across different life stages"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the prevalence of personality disorders in relation to depressive symptomatology in women at different transitional life stages.",
+      "The relationship between personality disorders and depressive symptoms is not well-studied across different life stages."
+    ],
+    "objectives": [
+      "Assess the prevalence of personality disorders, according to DSM-IV criteria, in relation to depressive symptomatology in women at three different periods of life.",
+      "Investigate the co-occurrence of cluster C personality disorders (dependent, avoidant, and obsessive-compulsive) with depressive symptoms."
+    ],
+    "methods": [
+      "Use the Hospital Depression and Anxiety Scale and the Edinburgh Post-natal Depression Scale to assess depressive symptoms in different groups of women.",
+      "Employ the French version of the Vragenlijst voor Kenmerken van de Persoonlijkheid to assess personality disorders.",
+      "Conduct a cross-sectional study with a sample of 568 women from three different transitional stages: students, primiparous women after childbirth, and women diagnosed with breast cancer."
+    ],
+    "results": [
+      "Depressive symptomatology and rates of personality disorders were found to be equivalent in the three groups studied.",
+      "Personality disorders were more prevalent in the depressed group compared to the non-depressed group.",
+      "All cluster C personality disorders co-occurred significantly with depressive symptoms."
+    ],
+    "research_subject": "Comorbidity between personality disorders and depressive symptomatology in women at different transitional life stages"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the relationship between personality disorders and depressive symptoms across different life transitions in women is crucial for improving mental health interventions.",
+      "There is limited research examining how personality disorders manifest in relation to depression during specific transitional life stages in female populations."
+    ],
+    "objectives": [
+      "Assess the prevalence of personality disorders according to DSM-IV criteria in women experiencing depressive symptoms across three different transitional life stages.",
+      "Examine the comorbidity patterns between specific personality disorders and depressive symptomatology in female subjects."
+    ],
+    "methods": [
+      "Cross-sectional study design examining women from three transitional life stages: students, primiparous women after childbirth, and women diagnosed with breast cancer.",
+      "Assessment of depressive symptoms using the Hospital Depression and Anxiety Scale and Edinburgh Post-natal Depression Scale, and personality disorders using the French version of the Vragenlijst voor Kenmerken van de Persoonlijkheid."
+    ],
+    "results": [
+      "Depressive symptomatology and personality disorder rates were equivalent across the three groups, with higher prevalence of personality disorders in depressed versus non-depressed women.",
+      "Borderline and avoidant personality disorders were more prevalent among young women, and all cluster C personality disorders significantly co-occurred with depressive symptoms."
+    ],
+    "research_subject": "Comorbidity between personality disorders and depressive symptoms in women during transitional life stages"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the relationship between personality disorders and depressive symptomatology in women across different life stages.\",\n    \"The comorbidity of personality disorders and depressive symptoms in women is not well understood, particularly in transitional life stages.\"\n  ],\n  \"objectives\": [\n    \"Assess the prevalence of personality disorders in relation to depressive symptomatology in women at three different transitional life stages.\",\n    \"Examine the relationship between specific personality disorders and depressive symptoms in women.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional study of women at three different transitional life stages (students, primiparous women after childbirth, and women diagnosed with breast cancer).\",\n    \"Use standardized assessment tools to evaluate depressive symptoms and personality disorders.\",\n    \"Compare the prevalence of personality disorders in depressed and non-depressed groups.\"\n  ],\n  \"results\": [\n    \"Personality disorders are more frequently associated with depressive symptoms in women.\",\n    \"Specific personality disorders (borderline, avoidant, obsessive-compulsive, dependent) co-occur significantly with depressive symptoms.\",\n    \"The prevalence of personality disorders is higher in depressed women compared to non-depressed women.\"\n  ],\n  \"research_subject\": \"Comorbidity of personality disorders and depressive symptomatology in women across different life stages\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the prevalence of personality disorders in relation to depressive symptomatology in women at different transitional life stages.\",\n    \"The relationship between personality disorders and depressive symptoms is not well-studied across different life stages.\"\n  ],\n  \"objectives\": [\n    \"Assess the prevalence of personality disorders, according to DSM-IV criteria, in relation to depressive symptomatology in women at three different periods of life.\",\n    \"Investigate the co-occurrence of cluster C personality disorders (dependent, avoidant, and obsessive-compulsive) with depressive symptoms.\"\n  ],\n  \"methods\": [\n    \"Use the Hospital Depression and Anxiety Scale and the Edinburgh Post-natal Depression Scale to assess depressive symptoms in different groups of women.\",\n    \"Employ the French version of the Vragenlijst voor Kenmerken van de Persoonlijkheid to assess personality disorders.\",\n    \"Conduct a cross-sectional study with a sample of 568 women from three different transitional stages: students, primiparous women after childbirth, and women diagnosed with breast cancer.\"\n  ],\n  \"results\": [\n    \"Depressive symptomatology and rates of personality disorders were found to be equivalent in the three groups studied.\",\n    \"Personality disorders were more prevalent in the depressed group compared to the non-depressed group.\",\n    \"All cluster C personality disorders co-occurred significantly with depressive symptoms.\"\n  ],\n  \"research_subject\": \"Comorbidity between personality disorders and depressive symptomatology in women at different transitional life stages\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the relationship between personality disorders and depressive symptoms across different life transitions in women is crucial for improving mental health interventions.\",\n    \"There is limited research examining how personality disorders manifest in relation to depression during specific transitional life stages in female populations.\"\n  ],\n  \"objectives\": [\n    \"Assess the prevalence of personality disorders according to DSM-IV criteria in women experiencing depressive symptoms across three different transitional life stages.\",\n    \"Examine the comorbidity patterns between specific personality disorders and depressive symptomatology in female subjects.\"\n  ],\n  \"methods\": [\n    \"Cross-sectional study design examining women from three transitional life stages: students, primiparous women after childbirth, and women diagnosed with breast cancer.\",\n    \"Assessment of depressive symptoms using the Hospital Depression and Anxiety Scale and Edinburgh Post-natal Depression Scale, and personality disorders using the French version of the Vragenlijst voor Kenmerken van de Persoonlijkheid.\"\n  ],\n  \"results\": [\n    \"Depressive symptomatology and personality disorder rates were equivalent across the three groups, with higher prevalence of personality disorders in depressed versus non-depressed women.\",\n    \"Borderline and avoidant personality disorders were more prevalent among young women, and all cluster C personality disorders significantly co-occurred with depressive symptoms.\"\n  ],\n  \"research_subject\": \"Comorbidity between personality disorders and depressive symptoms in women during transitional life stages\"\n}\n```"
+}

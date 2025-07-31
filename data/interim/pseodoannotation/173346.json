@@ -1,0 +1,75 @@
+{
+  "index": 227,
+  "title": "Arcgate: maximizing the potential of arctic ocean gateway array",
+  "abstract": "Predictions that the Arctic Ocean might be ice-free by the middle of the 21st century are of major social, economic, political and scientific interest. Making sensible decisions on European Arctic economic development requires that scientific knowledge and data are more accessible and usable by both academics and non-academics alike. ARCGATE aims to obtain innovative physical and biogeochemical budgets for the Arctic Ocean based on the Arctic gateway observations. Integrating Arctic gateway observations the applicant has recently developed an innovative method to obtain quasi-synoptic and time varying comprehensive budget estimates using a box inverse model. The main objective of ARCGATE is to extend the inverse box model methodology to calculate multi-year Arctic heat and fresh water (FW) budget variations during 2004-2010, including import of heat, export of FW and storage of both. Over 20 million euro has already been spent on Arctic observations during this period. The host institute of this proposal holds about half of historical Arctic gateway observations. The obtained budget estimates will be disseminated and exploited through an open data policy. Furthermore, ARCGATE aims to push disciplinary and sectional boundaries. By applying the same pan-Arctic approach, the total alkalinity budget for summer 2005 will be calculated. A sound estimate of the total alkalinity budget will significantly advance understanding of the entire carbonate system of the Arctic Ocean. Mobility from UK to Germany is key to the success of ARCGATE enabling synthesis of the pan-Arctic inverse box-model developed in UK over the last six years with state-of-the-art estimates of Arctic Ocean heat, FW storage changes in time, and a new interpretation of total alkalinity all developed at the host institute for this project. Close links to the commercial Arctic shipping sector will be developed by disseminating the results of ARCGATE at international shipping conferences.",
+  "llama_json": {
+    "motivations": [
+      "The Arctic Ocean's potential ice-free state by the mid-21st century has significant social, economic, political, and scientific implications, requiring informed decision-making.",
+      "Existing Arctic Ocean data and scientific knowledge are not readily accessible or usable for academics and non-academics, hindering European Arctic economic development."
+    ],
+    "objectives": [
+      "Develop innovative physical and biogeochemical budgets for the Arctic Ocean using Arctic gateway observations and an inverse box model methodology.",
+      "Calculate multi-year Arctic heat and freshwater budget variations during 2004-2010, including import, export, and storage of both.",
+      "Advance understanding of the Arctic Ocean's carbonate system by estimating the total alkalinity budget for summer 2005."
+    ],
+    "methods": [
+      "Integrate Arctic gateway observations using an inverse box model to obtain quasi-synoptic and time-varying comprehensive budget estimates.",
+      "Apply a pan-Arctic approach to calculate the total alkalinity budget and advance understanding of the Arctic Ocean's carbonate system.",
+      "Disseminate and exploit obtained budget estimates through an open data policy and international shipping conferences."
+    ],
+    "results": [
+      "Provide innovative and comprehensive budget estimates for the Arctic Ocean, enhancing understanding of its physical and biogeochemical processes.",
+      "Inform decision-making on European Arctic economic development through accessible and usable scientific knowledge and data.",
+      "Advance understanding of the Arctic Ocean's carbonate system and its implications for the environment and commercial shipping sector."
+    ],
+    "research_subject": "Maximizing the potential of Arctic Ocean gateway array for informed decision-making and scientific advancement"
+  },
+  "openai_json": {
+    "motivations": [
+      "The Arctic Ocean might be ice-free by the middle of the 21st century, which has significant social, economic, political, and scientific implications.",
+      "There is a need for more accessible and usable scientific knowledge and data on the Arctic Ocean for both academics and non-academics.",
+      "Understanding the physical and biogeochemical budgets of the Arctic Ocean based on Arctic gateway observations is crucial for sensible decisions on European Arctic economic development."
+    ],
+    "objectives": [
+      "Obtain innovative physical and biogeochemical budgets for the Arctic Ocean based on Arctic gateway observations.",
+      "Extend the inverse box model methodology to calculate multi-year Arctic heat and fresh water budget variations during 2004-2010.",
+      "Calculate the total alkalinity budget for summer 2005 to advance understanding of the entire carbonate system of the Arctic Ocean."
+    ],
+    "methods": [
+      "Use an innovative method developed by the applicant to obtain quasi-synoptic and time varying comprehensive budget estimates using a box inverse model.",
+      "Synthesize the pan-Arctic inverse box-model developed in the UK with state-of-the-art estimates of Arctic Ocean heat, fresh water storage changes in time, and a new interpretation of total alkalinity developed at the host institute.",
+      "Disseminate the obtained budget estimates through an open data policy and at international shipping conferences."
+    ],
+    "results": [
+      "Provide innovative physical and biogeochemical budgets for the Arctic Ocean that can inform decisions on European Arctic economic development.",
+      "Offer multi-year Arctic heat and fresh water budget variations during 2004-2010.",
+      "Advance understanding of the entire carbonate system of the Arctic Ocean with a sound estimate of the total alkalinity budget for summer 2005."
+    ],
+    "research_subject": "Maximizing the potential of Arctic Ocean gateway array for understanding physical and biogeochemical budgets"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Arctic Ocean may become ice-free by mid-21st century, creating major social, economic, political and scientific implications that require better understanding.",
+      "Scientific knowledge and data about the Arctic Ocean need to be more accessible and usable for both academic and non-academic decision-making regarding Arctic economic development."
+    ],
+    "objectives": [
+      "Develop innovative physical and biogeochemical budgets for the Arctic Ocean using Arctic gateway observations and an extended inverse box model methodology.",
+      "Calculate multi-year Arctic heat and freshwater budget variations during 2004-2010, including import of heat, export of freshwater and storage of both.",
+      "Advance understanding of the Arctic Ocean carbonate system by calculating the total alkalinity budget for summer 2005."
+    ],
+    "methods": [
+      "Extend and apply an innovative box inverse model methodology to integrate Arctic gateway observations for comprehensive budget estimates.",
+      "Synthesize pan-Arctic inverse box-model approaches with state-of-the-art estimates of Arctic Ocean heat and freshwater storage changes.",
+      "Implement an open data policy for dissemination and develop links with the commercial Arctic shipping sector."
+    ],
+    "results": [
+      "Provide quasi-synoptic and time-varying comprehensive budget estimates for Arctic Ocean heat, freshwater, and total alkalinity.",
+      "Make Arctic scientific data more accessible and usable for academic and non-academic stakeholders through open data dissemination.",
+      "Advance understanding of the Arctic Ocean carbonate system and support informed decision-making for Arctic economic development."
+    ],
+    "research_subject": "Arctic Ocean gateway observations and budget modeling for heat, freshwater, and biogeochemical cycles"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The Arctic Ocean's potential ice-free state by the mid-21st century has significant social, economic, political, and scientific implications, requiring informed decision-making.\",\n    \"Existing Arctic Ocean data and scientific knowledge are not readily accessible or usable for academics and non-academics, hindering European Arctic economic development.\"\n  ],\n  \"objectives\": [\n    \"Develop innovative physical and biogeochemical budgets for the Arctic Ocean using Arctic gateway observations and an inverse box model methodology.\",\n    \"Calculate multi-year Arctic heat and freshwater budget variations during 2004-2010, including import, export, and storage of both.\",\n    \"Advance understanding of the Arctic Ocean's carbonate system by estimating the total alkalinity budget for summer 2005.\"\n  ],\n  \"methods\": [\n    \"Integrate Arctic gateway observations using an inverse box model to obtain quasi-synoptic and time-varying comprehensive budget estimates.\",\n    \"Apply a pan-Arctic approach to calculate the total alkalinity budget and advance understanding of the Arctic Ocean's carbonate system.\",\n    \"Disseminate and exploit obtained budget estimates through an open data policy and international shipping conferences.\"\n  ],\n  \"results\": [\n    \"Provide innovative and comprehensive budget estimates for the Arctic Ocean, enhancing understanding of its physical and biogeochemical processes.\",\n    \"Inform decision-making on European Arctic economic development through accessible and usable scientific knowledge and data.\",\n    \"Advance understanding of the Arctic Ocean's carbonate system and its implications for the environment and commercial shipping sector.\"\n  ],\n  \"research_subject\": \"Maximizing the potential of Arctic Ocean gateway array for informed decision-making and scientific advancement\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The Arctic Ocean might be ice-free by the middle of the 21st century, which has significant social, economic, political, and scientific implications.\",\n    \"There is a need for more accessible and usable scientific knowledge and data on the Arctic Ocean for both academics and non-academics.\",\n    \"Understanding the physical and biogeochemical budgets of the Arctic Ocean based on Arctic gateway observations is crucial for sensible decisions on European Arctic economic development.\"\n  ],\n  \"objectives\": [\n    \"Obtain innovative physical and biogeochemical budgets for the Arctic Ocean based on Arctic gateway observations.\",\n    \"Extend the inverse box model methodology to calculate multi-year Arctic heat and fresh water budget variations during 2004-2010.\",\n    \"Calculate the total alkalinity budget for summer 2005 to advance understanding of the entire carbonate system of the Arctic Ocean.\"\n  ],\n  \"methods\": [\n    \"Use an innovative method developed by the applicant to obtain quasi-synoptic and time varying comprehensive budget estimates using a box inverse model.\",\n    \"Synthesize the pan-Arctic inverse box-model developed in the UK with state-of-the-art estimates of Arctic Ocean heat, fresh water storage changes in time, and a new interpretation of total alkalinity developed at the host institute.\",\n    \"Disseminate the obtained budget estimates through an open data policy and at international shipping conferences.\"\n  ],\n  \"results\": [\n    \"Provide innovative physical and biogeochemical budgets for the Arctic Ocean that can inform decisions on European Arctic economic development.\",\n    \"Offer multi-year Arctic heat and fresh water budget variations during 2004-2010.\",\n    \"Advance understanding of the entire carbonate system of the Arctic Ocean with a sound estimate of the total alkalinity budget for summer 2005.\"\n  ],\n  \"research_subject\": \"Maximizing the potential of Arctic Ocean gateway array for understanding physical and biogeochemical budgets\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The Arctic Ocean may become ice-free by mid-21st century, creating major social, economic, political and scientific implications that require better understanding.\",\n    \"Scientific knowledge and data about the Arctic Ocean need to be more accessible and usable for both academic and non-academic decision-making regarding Arctic economic development.\"\n  ],\n  \"objectives\": [\n    \"Develop innovative physical and biogeochemical budgets for the Arctic Ocean using Arctic gateway observations and an extended inverse box model methodology.\",\n    \"Calculate multi-year Arctic heat and freshwater budget variations during 2004-2010, including import of heat, export of freshwater and storage of both.\",\n    \"Advance understanding of the Arctic Ocean carbonate system by calculating the total alkalinity budget for summer 2005.\"\n  ],\n  \"methods\": [\n    \"Extend and apply an innovative box inverse model methodology to integrate Arctic gateway observations for comprehensive budget estimates.\",\n    \"Synthesize pan-Arctic inverse box-model approaches with state-of-the-art estimates of Arctic Ocean heat and freshwater storage changes.\",\n    \"Implement an open data policy for dissemination and develop links with the commercial Arctic shipping sector.\"\n  ],\n  \"results\": [\n    \"Provide quasi-synoptic and time-varying comprehensive budget estimates for Arctic Ocean heat, freshwater, and total alkalinity.\",\n    \"Make Arctic scientific data more accessible and usable for academic and non-academic stakeholders through open data dissemination.\",\n    \"Advance understanding of the Arctic Ocean carbonate system and support informed decision-making for Arctic economic development.\"\n  ],\n  \"research_subject\": \"Arctic Ocean gateway observations and budget modeling for heat, freshwater, and biogeochemical cycles\"\n}\n```"
+}

@@ -1,0 +1,66 @@
+{
+  "index": 38,
+  "title": "Adaptive protection and microgrid control design for Hailuoto Island",
+  "abstract": "Summary form only given. Microgrids can provide various economic and environmental benefits but their implementation poses great technical challenges in control, protection and energy management. One of the most important technical aspects in microgrids is distribution system protection. This paper first demonstrates a need for and then focuses on the design aspects of the adaptive protection system addressing issues such as: selection of alternative setting groups, components and system architecture; system configuration and programmed logic. The system is based on a centralized controller running the real-time analysis of the data received from the field Intelligent Electronic Devices and communicating with them by means of IEC 61850 communications. The adaptive protection and microgrid control system has been developed and currently being installed at Hailuoto island in Finland.",
+  "llama_json": {
+    "motivations": [
+      "Microgrids pose significant technical challenges in control, protection, and energy management.",
+      "Distribution system protection is a critical technical aspect in microgrids that requires innovative solutions."
+    ],
+    "objectives": [
+      "Design an adaptive protection system for microgrids addressing issues such as setting groups, components, and system architecture.",
+      "Develop a centralized controller-based system for real-time analysis and communication with field devices using IEC 61850 communications."
+    ],
+    "methods": [
+      "Implement a centralized controller running real-time analysis of data from Intelligent Electronic Devices.",
+      "Utilize IEC 61850 communications for communication between the controller and field devices.",
+      "Develop programmed logic for adaptive protection and microgrid control."
+    ],
+    "results": [
+      "Provide a reliable and efficient adaptive protection system for microgrids.",
+      "Enable effective control and energy management in microgrids."
+    ],
+    "research_subject": "Adaptive protection and microgrid control system design"
+  },
+  "openai_json": {
+    "motivations": [
+      "Microgrids offer economic and environmental benefits but their implementation poses technical challenges in control, protection and energy management.",
+      "There is a need for effective distribution system protection in microgrids."
+    ],
+    "objectives": [
+      "Design an adaptive protection system for microgrids addressing issues such as selection of alternative setting groups, components and system architecture, and system configuration and programmed logic.",
+      "Implement and test the adaptive protection and microgrid control system at Hailuoto island in Finland."
+    ],
+    "methods": [
+      "Develop a system based on a centralized controller running real-time analysis of data received from field Intelligent Electronic Devices.",
+      "Use IEC 61850 communications for interaction between the centralized controller and the field devices."
+    ],
+    "results": [
+      "An adaptive protection and microgrid control system designed and installed at Hailuoto island in Finland."
+    ],
+    "research_subject": "Adaptive protection and microgrid control design"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Microgrids offer economic and environmental benefits but face significant technical challenges in control, protection, and energy management.",
+      "Distribution system protection in microgrids requires adaptive solutions to handle varying operational conditions."
+    ],
+    "objectives": [
+      "Design and implement an adaptive protection system for microgrid applications that addresses dynamic operational requirements.",
+      "Develop a microgrid control system that integrates real-time data analysis and communication capabilities."
+    ],
+    "methods": [
+      "Implement a centralized controller that performs real-time analysis of field data from Intelligent Electronic Devices.",
+      "Utilize IEC 61850 communication protocols for system integration and data exchange.",
+      "Design system architecture with alternative setting groups, components configuration, and programmed logic."
+    ],
+    "results": [
+      "Development of an adaptive protection and microgrid control system successfully installed at Hailuoto island in Finland.",
+      "Achievement of enhanced distribution system protection through real-time adaptive capabilities."
+    ],
+    "research_subject": "Adaptive protection and control system design for microgrids"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Microgrids pose significant technical challenges in control, protection, and energy management.\",\n    \"Distribution system protection is a critical technical aspect in microgrids that requires innovative solutions.\"\n  ],\n  \"objectives\": [\n    \"Design an adaptive protection system for microgrids addressing issues such as setting groups, components, and system architecture.\",\n    \"Develop a centralized controller-based system for real-time analysis and communication with field devices using IEC 61850 communications.\"\n  ],\n  \"methods\": [\n    \"Implement a centralized controller running real-time analysis of data from Intelligent Electronic Devices.\",\n    \"Utilize IEC 61850 communications for communication between the controller and field devices.\",\n    \"Develop programmed logic for adaptive protection and microgrid control.\"\n  ],\n  \"results\": [\n    \"Provide a reliable and efficient adaptive protection system for microgrids.\",\n    \"Enable effective control and energy management in microgrids.\"\n  ],\n  \"research_subject\": \"Adaptive protection and microgrid control system design\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Microgrids offer economic and environmental benefits but their implementation poses technical challenges in control, protection and energy management.\",\n    \"There is a need for effective distribution system protection in microgrids.\"\n  ],\n  \"objectives\": [\n    \"Design an adaptive protection system for microgrids addressing issues such as selection of alternative setting groups, components and system architecture, and system configuration and programmed logic.\",\n    \"Implement and test the adaptive protection and microgrid control system at Hailuoto island in Finland.\"\n  ],\n  \"methods\": [\n    \"Develop a system based on a centralized controller running real-time analysis of data received from field Intelligent Electronic Devices.\",\n    \"Use IEC 61850 communications for interaction between the centralized controller and the field devices.\"\n  ],\n  \"results\": [\n    \"An adaptive protection and microgrid control system designed and installed at Hailuoto island in Finland.\"\n  ],\n  \"research_subject\": \"Adaptive protection and microgrid control design\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Microgrids offer economic and environmental benefits but face significant technical challenges in control, protection, and energy management.\",\n    \"Distribution system protection in microgrids requires adaptive solutions to handle varying operational conditions.\"\n  ],\n  \"objectives\": [\n    \"Design and implement an adaptive protection system for microgrid applications that addresses dynamic operational requirements.\",\n    \"Develop a microgrid control system that integrates real-time data analysis and communication capabilities.\"\n  ],\n  \"methods\": [\n    \"Implement a centralized controller that performs real-time analysis of field data from Intelligent Electronic Devices.\",\n    \"Utilize IEC 61850 communication protocols for system integration and data exchange.\",\n    \"Design system architecture with alternative setting groups, components configuration, and programmed logic.\"\n  ],\n  \"results\": [\n    \"Development of an adaptive protection and microgrid control system successfully installed at Hailuoto island in Finland.\",\n    \"Achievement of enhanced distribution system protection through real-time adaptive capabilities.\"\n  ],\n  \"research_subject\": \"Adaptive protection and control system design for microgrids\"\n}\n```"
+}

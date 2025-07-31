@@ -1,0 +1,66 @@
+{
+  "index": 481,
+  "title": "Milk-induced wheezing in children with asthma",
+  "abstract": "Food allergy has been gaining increasing attention, mostly as causing gastrointestinal and cutaneous reactions. Its role in asthma seems to be under-recognised.This study's aim is to explore the frequency of involvement of a common food, namely cow's milk, in childhood asthma.32 children (5 months to 11 years; median 24 months; mean 34 months) with asthma and a suspected history of cow's milk allergy were studied. They underwent skin prick testing (SPT) and specific IgE (sIgE) testing to whole cow's milk (WCM), casein, α-lactalbumin, and β-lactoglobulin, followed by single-blind oral milk challenge.Reactions to milk challenge occurred in 12 (37.5%) including wheezing in 5 (41.7%, or 15.6% of the whole group). Children who developed wheezing at the time of challenge were younger than those who had negative challenge (23.0 months vs. 34.8 months). Challenge was positive in 33.3% of subjects who had a positive SPT, and SPT was positive in 50% of challenge-positive subjects. Regarding sIgE, challenge was positive in 26.7% of sIgE-positive subjects, and sIgE was positive in 33.3% of challenge positive subjects. Skin or serum testing with individual protein fractions did not seem to add significant advantage over testing with WCM alone.This study shows that cow's milk can cause wheezing in children with asthma. Although SPT seemed to be more reliable than sIgE testing, both had suboptimal reliability. It is worth considering possible milk allergy in children with asthma, particularly when poorly controlled in spite of proper routine management.",
+  "llama_json": {
+    "motivations": [
+      "The role of food allergy in asthma is under-recognised, and its impact on childhood asthma needs to be explored.",
+      "Cow's milk allergy may be a contributing factor to asthma in children, but its frequency and effects are not well understood."
+    ],
+    "objectives": [
+      "Investigate the frequency of cow's milk allergy in children with asthma.",
+      "Assess the reliability of skin prick testing and specific IgE testing in diagnosing milk allergy in children with asthma."
+    ],
+    "methods": [
+      "Conducted skin prick testing and specific IgE testing to whole cow's milk and its protein fractions in children with asthma.",
+      "Performed single-blind oral milk challenge to assess reactions to milk in children with suspected milk allergy."
+    ],
+    "results": [
+      "Found that 37.5% of children with asthma reacted to milk challenge, with 15.6% experiencing wheezing.",
+      "Showed that skin prick testing was more reliable than specific IgE testing in diagnosing milk allergy, but both had suboptimal reliability."
+    ],
+    "research_subject": "The relationship between cow's milk allergy and wheezing in children with asthma"
+  },
+  "openai_json": {
+    "motivations": [
+      "The role of food allergy, specifically cow's milk, in childhood asthma is under-recognised and needs further exploration.",
+      "There is a need to understand the reliability of skin prick testing (SPT) and specific IgE (sIgE) testing in diagnosing milk-induced wheezing in children with asthma."
+    ],
+    "objectives": [
+      "Investigate the frequency of cow's milk causing wheezing in children with asthma.",
+      "Evaluate the reliability of SPT and sIgE testing in diagnosing milk-induced wheezing."
+    ],
+    "methods": [
+      "Conduct skin prick testing and specific IgE testing on children with asthma and a suspected history of cow's milk allergy.",
+      "Perform a single-blind oral milk challenge to observe reactions."
+    ],
+    "results": [
+      "Cow's milk was found to cause wheezing in a significant percentage of children with asthma.",
+      "Both SPT and sIgE testing showed suboptimal reliability in diagnosing milk-induced wheezing."
+    ],
+    "research_subject": "Investigation of milk-induced wheezing in children with asthma"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Food allergy's role in asthma appears to be under-recognized despite increasing attention to gastrointestinal and cutaneous reactions.",
+      "There is a need to understand the frequency and impact of cow's milk allergy on childhood asthma."
+    ],
+    "objectives": [
+      "Explore the frequency of cow's milk involvement in childhood asthma.",
+      "Evaluate the reliability of diagnostic tests for milk-induced wheezing in asthmatic children."
+    ],
+    "methods": [
+      "Conducted skin prick testing and specific IgE testing for whole cow's milk and individual milk proteins.",
+      "Performed single-blind oral milk challenges to confirm allergic reactions."
+    ],
+    "results": [
+      "Cow's milk caused reactions in 37.5% of children tested, with wheezing occurring in 15.6% of the total group.",
+      "Both skin prick testing and specific IgE testing showed suboptimal reliability for predicting milk-induced reactions.",
+      "Younger children were more likely to develop wheezing during milk challenges."
+    ],
+    "research_subject": "Cow's milk-induced wheezing in children with asthma"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The role of food allergy in asthma is under-recognised, and its impact on childhood asthma needs to be explored.\",\n    \"Cow's milk allergy may be a contributing factor to asthma in children, but its frequency and effects are not well understood.\"\n  ],\n  \"objectives\": [\n    \"Investigate the frequency of cow's milk allergy in children with asthma.\",\n    \"Assess the reliability of skin prick testing and specific IgE testing in diagnosing milk allergy in children with asthma.\"\n  ],\n  \"methods\": [\n    \"Conducted skin prick testing and specific IgE testing to whole cow's milk and its protein fractions in children with asthma.\",\n    \"Performed single-blind oral milk challenge to assess reactions to milk in children with suspected milk allergy.\"\n  ],\n  \"results\": [\n    \"Found that 37.5% of children with asthma reacted to milk challenge, with 15.6% experiencing wheezing.\",\n    \"Showed that skin prick testing was more reliable than specific IgE testing in diagnosing milk allergy, but both had suboptimal reliability.\"\n  ],\n  \"research_subject\": \"The relationship between cow's milk allergy and wheezing in children with asthma\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The role of food allergy, specifically cow's milk, in childhood asthma is under-recognised and needs further exploration.\",\n    \"There is a need to understand the reliability of skin prick testing (SPT) and specific IgE (sIgE) testing in diagnosing milk-induced wheezing in children with asthma.\"\n  ],\n  \"objectives\": [\n    \"Investigate the frequency of cow's milk causing wheezing in children with asthma.\",\n    \"Evaluate the reliability of SPT and sIgE testing in diagnosing milk-induced wheezing.\"\n  ],\n  \"methods\": [\n    \"Conduct skin prick testing and specific IgE testing on children with asthma and a suspected history of cow's milk allergy.\",\n    \"Perform a single-blind oral milk challenge to observe reactions.\"\n  ],\n  \"results\": [\n    \"Cow's milk was found to cause wheezing in a significant percentage of children with asthma.\",\n    \"Both SPT and sIgE testing showed suboptimal reliability in diagnosing milk-induced wheezing.\"\n  ],\n  \"research_subject\": \"Investigation of milk-induced wheezing in children with asthma\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Food allergy's role in asthma appears to be under-recognized despite increasing attention to gastrointestinal and cutaneous reactions.\",\n    \"There is a need to understand the frequency and impact of cow's milk allergy on childhood asthma.\"\n  ],\n  \"objectives\": [\n    \"Explore the frequency of cow's milk involvement in childhood asthma.\",\n    \"Evaluate the reliability of diagnostic tests for milk-induced wheezing in asthmatic children.\"\n  ],\n  \"methods\": [\n    \"Conducted skin prick testing and specific IgE testing for whole cow's milk and individual milk proteins.\",\n    \"Performed single-blind oral milk challenges to confirm allergic reactions.\"\n  ],\n  \"results\": [\n    \"Cow's milk caused reactions in 37.5% of children tested, with wheezing occurring in 15.6% of the total group.\",\n    \"Both skin prick testing and specific IgE testing showed suboptimal reliability for predicting milk-induced reactions.\",\n    \"Younger children were more likely to develop wheezing during milk challenges.\"\n  ],\n  \"research_subject\": \"Cow's milk-induced wheezing in children with asthma\"\n}\n```"
+}

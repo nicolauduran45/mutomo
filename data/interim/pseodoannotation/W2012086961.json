@@ -1,0 +1,69 @@
+{
+  "index": 304,
+  "title": "Discrete acyltransferases involved in polyketide biosynthesis",
+  "abstract": "Polyketides (PKs) are a class of natural products with highly diverse structures and bioactivities. Important clinical antibiotics like tetracycline, erythromycin, mupirocin, and dalfopristin (a component of Synercid®) belong to this compound class. The diversity of PK structures depends on their assembly process, for which multifunctional enzymes, the modular polyketide synthases (PKSs), are required. These megasynthases are organized in modules, consisting of integrated enzymatic domains, which catalyze the individual reaction steps in PK biosynthesis. Here, we focus on a subset of PKSs, the trans-AT type modular PKSs and their discrete acyltransferases (ATs). In contrast to the classical cis-AT PKSs which have AT domains within the megasynthases, the trans-AT PKSs recruit discrete ATs, which are encoded by separate genes. ATs are required for the selection of precursors and their loading to acyl carrier protein (ACP) domains of the PKS. Although, the number of identified trans-AT PKS gene clusters increased over the last decade, the functional analysis of the discrete ATs in those pathways was carried out only for a few examples. In these cases – excluding ATs accepting ACP-linked extenders – transfer of malonyl-CoA was observed. This suggested a strict malonyl-CoA specificity of the in trans acting ATs. Only recently, a discrete AT, which selects freestanding ethylmalonyl-CoA and uses this substrate for the direct loading of a specific ACP domain of a kirromycin PKS, was described. Furthermore, this represents a novel mechanism of incorporation of branched structures into polyketides. The identification of the AT motifs responsible for the substrate recognition and ACP docking are of particular importance for understanding and modification of such systems. Here, we provide a summary of information gained from experimental studies on discrete ATs involved in polyketide biosynthesis until the end of 2011.",
+  "llama_json": {
+    "motivations": [
+      "Polyketides are a diverse class of natural products with significant clinical importance, but the biosynthetic processes that create their diverse structures are not fully understood.",
+      "The role of discrete acyltransferases (ATs) in polyketide biosynthesis, particularly in trans-AT type modular polyketide synthases (PKSs), requires further investigation."
+    ],
+    "objectives": [
+      "Summarize the current understanding of discrete ATs involved in polyketide biosynthesis, focusing on their functional analysis and substrate specificity.",
+      "Identify the AT motifs responsible for substrate recognition and ACP docking to understand and modify polyketide biosynthetic systems."
+    ],
+    "methods": [
+      "Review and analyze experimental studies on discrete ATs involved in polyketide biosynthesis until the end of 2011.",
+      "Examine the functional analysis of discrete ATs in trans-AT PKS gene clusters to determine their substrate specificity and mechanisms of action."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of discrete ATs in polyketide biosynthesis, including their substrate specificity and mechanisms of action.",
+      "Reveal novel mechanisms of incorporation of branched structures into polyketides, such as the use of freestanding ethylmalonyl-CoA by a discrete AT."
+    ],
+    "research_subject": "Discrete acyltransferases in polyketide biosynthesis"
+  },
+  "openai_json": {
+    "motivations": [
+      "Polyketides (PKs) are a diverse class of natural products with significant bioactivities, but the understanding of their biosynthesis, particularly involving discrete acyltransferases (ATs), is limited.",
+      "There is a need to understand the functional role of discrete ATs in the biosynthesis of polyketides, as this could provide insights for the modification and production of these compounds."
+    ],
+    "objectives": [
+      "To focus on the role of discrete acyltransferases (ATs) in the biosynthesis of polyketides, particularly in trans-AT type modular PKSs.",
+      "To understand the mechanism of precursor selection and loading to acyl carrier protein (ACP) domains by discrete ATs.",
+      "To identify the AT motifs responsible for substrate recognition and ACP docking."
+    ],
+    "methods": [
+      "Review and summarize the information gained from experimental studies on discrete ATs involved in polyketide biosynthesis.",
+      "Analyze the functional role of discrete ATs in the selection of precursors and their loading to ACP domains."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of the role of discrete ATs in polyketide biosynthesis.",
+      "Identify the AT motifs responsible for substrate recognition and ACP docking, which could be crucial for understanding and modifying such systems."
+    ],
+    "research_subject": "Role of discrete acyltransferases in polyketide biosynthesis"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Polyketides are clinically important natural products with diverse structures and bioactivities, but understanding their biosynthetic mechanisms remains incomplete.",
+      "The functional analysis of discrete acyltransferases in trans-AT polyketide synthase pathways has been limited despite increasing identification of gene clusters."
+    ],
+    "objectives": [
+      "Provide a comprehensive summary of experimental studies on discrete acyltransferases involved in polyketide biosynthesis.",
+      "Analyze the substrate specificity and mechanisms of discrete ATs in trans-AT type modular PKS systems.",
+      "Identify AT motifs responsible for substrate recognition and ACP docking to enable understanding and modification of these systems."
+    ],
+    "methods": [
+      "Review and analyze experimental studies on discrete acyltransferases in polyketide biosynthesis conducted until the end of 2011.",
+      "Examine the functional characteristics and substrate specificity of trans-AT PKS systems compared to classical cis-AT PKSs.",
+      "Investigate the molecular mechanisms of substrate selection and ACP domain loading by discrete ATs."
+    ],
+    "results": [
+      "Most discrete ATs show strict malonyl-CoA specificity, with a recently discovered exception that selects ethylmalonyl-CoA for incorporating branched structures.",
+      "Identification of AT motifs responsible for substrate recognition and ACP docking provides insights for system modification.",
+      "The review consolidates knowledge on discrete AT functions and mechanisms in trans-AT PKS pathways."
+    ],
+    "research_subject": "Discrete acyltransferases in trans-AT type modular polyketide synthase systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Polyketides are a diverse class of natural products with significant clinical importance, but the biosynthetic processes that create their diverse structures are not fully understood.\",\n    \"The role of discrete acyltransferases (ATs) in polyketide biosynthesis, particularly in trans-AT type modular polyketide synthases (PKSs), requires further investigation.\"\n  ],\n  \"objectives\": [\n    \"Summarize the current understanding of discrete ATs involved in polyketide biosynthesis, focusing on their functional analysis and substrate specificity.\",\n    \"Identify the AT motifs responsible for substrate recognition and ACP docking to understand and modify polyketide biosynthetic systems.\"\n  ],\n  \"methods\": [\n    \"Review and analyze experimental studies on discrete ATs involved in polyketide biosynthesis until the end of 2011.\",\n    \"Examine the functional analysis of discrete ATs in trans-AT PKS gene clusters to determine their substrate specificity and mechanisms of action.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of discrete ATs in polyketide biosynthesis, including their substrate specificity and mechanisms of action.\",\n    \"Reveal novel mechanisms of incorporation of branched structures into polyketides, such as the use of freestanding ethylmalonyl-CoA by a discrete AT.\"\n  ],\n  \"research_subject\": \"Discrete acyltransferases in polyketide biosynthesis\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Polyketides (PKs) are a diverse class of natural products with significant bioactivities, but the understanding of their biosynthesis, particularly involving discrete acyltransferases (ATs), is limited.\",\n    \"There is a need to understand the functional role of discrete ATs in the biosynthesis of polyketides, as this could provide insights for the modification and production of these compounds.\"\n  ],\n  \"objectives\": [\n    \"To focus on the role of discrete acyltransferases (ATs) in the biosynthesis of polyketides, particularly in trans-AT type modular PKSs.\",\n    \"To understand the mechanism of precursor selection and loading to acyl carrier protein (ACP) domains by discrete ATs.\",\n    \"To identify the AT motifs responsible for substrate recognition and ACP docking.\"\n  ],\n  \"methods\": [\n    \"Review and summarize the information gained from experimental studies on discrete ATs involved in polyketide biosynthesis.\",\n    \"Analyze the functional role of discrete ATs in the selection of precursors and their loading to ACP domains.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of the role of discrete ATs in polyketide biosynthesis.\",\n    \"Identify the AT motifs responsible for substrate recognition and ACP docking, which could be crucial for understanding and modifying such systems.\"\n  ],\n  \"research_subject\": \"Role of discrete acyltransferases in polyketide biosynthesis\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Polyketides are clinically important natural products with diverse structures and bioactivities, but understanding their biosynthetic mechanisms remains incomplete.\",\n    \"The functional analysis of discrete acyltransferases in trans-AT polyketide synthase pathways has been limited despite increasing identification of gene clusters.\"\n  ],\n  \"objectives\": [\n    \"Provide a comprehensive summary of experimental studies on discrete acyltransferases involved in polyketide biosynthesis.\",\n    \"Analyze the substrate specificity and mechanisms of discrete ATs in trans-AT type modular PKS systems.\",\n    \"Identify AT motifs responsible for substrate recognition and ACP docking to enable understanding and modification of these systems.\"\n  ],\n  \"methods\": [\n    \"Review and analyze experimental studies on discrete acyltransferases in polyketide biosynthesis conducted until the end of 2011.\",\n    \"Examine the functional characteristics and substrate specificity of trans-AT PKS systems compared to classical cis-AT PKSs.\",\n    \"Investigate the molecular mechanisms of substrate selection and ACP domain loading by discrete ATs.\"\n  ],\n  \"results\": [\n    \"Most discrete ATs show strict malonyl-CoA specificity, with a recently discovered exception that selects ethylmalonyl-CoA for incorporating branched structures.\",\n    \"Identification of AT motifs responsible for substrate recognition and ACP docking provides insights for system modification.\",\n    \"The review consolidates knowledge on discrete AT functions and mechanisms in trans-AT PKS pathways.\"\n  ],\n  \"research_subject\": \"Discrete acyltransferases in trans-AT type modular polyketide synthase systems\"\n}\n```"
+}

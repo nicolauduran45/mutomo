@@ -1,0 +1,69 @@
+{
+  "index": 298,
+  "title": "Improving the Held and Karp Approach with Constraint Programming",
+  "abstract": "AbstractHeld and Karp have proposed, in the early 1970s, a relaxation for the Traveling Salesman Problem (TSP) as well as a branch-and-bound procedure that can solve small to modest-size instances to optimality [4, 5]. It has been shown that the Held-Karp relaxation produces very tight bounds in practice, and this relaxation is therefore applied in TSP solvers such as Concorde [1]. In this short paper we show that the Held-Karp approach can benefit from well-known techniques in Constraint Programming (CP) such as domain filtering and constraint propagation. Namely, we show that filtering algorithms developed for the weighted spanning tree constraint [3, 8] can be adapted to the context of the Held and Karp procedure. In addition to the adaptation of existing algorithms, we introduce a special-purpose filtering algorithm based on the underlying mechanisms used in Prim’s algorithm [7]. Finally, we explored two different branching schemes to close the integrality gap. Our initial experimental results indicate that the addition of the CP techniques to the Held-Karp method can be very effective.The paper is organized as follows: section 2 describes the Held-Karp approach while section 3 gives some insights on the Constraint Programming techniques and branching scheme used. In section 4 we demonstrate, through preliminary experiments, the impact of using CP in combination with Held and Karp based branch-and-bound on small to modest-size instances from the TSPlib.KeywordsSpan TreeMinimum Span TreeTravel Salesman ProblemTravel Salesman ProblemConstraint ProgrammingThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+  "llama_json": {
+    "motivations": [
+      "The Held-Karp approach for solving the Traveling Salesman Problem (TSP) has limitations in terms of scalability and efficiency.",
+      "There is a need to improve the effectiveness of the Held-Karp relaxation to solve larger TSP instances."
+    ],
+    "objectives": [
+      "Enhance the Held-Karp approach by integrating Constraint Programming (CP) techniques to improve its efficiency and scalability.",
+      "Develop and apply domain filtering and constraint propagation algorithms to tighten bounds and reduce the search space."
+    ],
+    "methods": [
+      "Adapt existing filtering algorithms for the weighted spanning tree constraint to the Held-Karp procedure.",
+      "Introduce a special-purpose filtering algorithm based on Prim's algorithm to further improve the approach.",
+      "Explore different branching schemes to close the integrality gap."
+    ],
+    "results": [
+      "Improve the efficiency and scalability of the Held-Karp approach for solving TSP instances.",
+      "Tighten bounds and reduce the search space using CP techniques, leading to faster optimal solutions."
+    ],
+    "research_subject": "Improving the Held-Karp approach for the Traveling Salesman Problem using Constraint Programming"
+  },
+  "openai_json": {
+    "motivations": [
+      "The Held-Karp approach for the Traveling Salesman Problem (TSP) can be improved to solve larger instances to optimality.",
+      "There is potential for Constraint Programming (CP) techniques to enhance the Held-Karp method."
+    ],
+    "objectives": [
+      "Adapt filtering algorithms developed for the weighted spanning tree constraint to the context of the Held and Karp procedure.",
+      "Introduce a special-purpose filtering algorithm based on the underlying mechanisms used in Prim’s algorithm.",
+      "Explore different branching schemes to close the integrality gap."
+    ],
+    "methods": [
+      "Apply domain filtering and constraint propagation techniques from Constraint Programming to the Held-Karp approach.",
+      "Adapt existing algorithms and introduce a new filtering algorithm based on Prim’s algorithm.",
+      "Experiment with two different branching schemes."
+    ],
+    "results": [
+      "The addition of Constraint Programming techniques to the Held-Karp method can be very effective.",
+      "Preliminary experiments show positive impact on small to modest-size instances from the TSPlib."
+    ],
+    "research_subject": "Improvement of the Held and Karp approach for the Traveling Salesman Problem using Constraint Programming"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Held-Karp relaxation for the Traveling Salesman Problem produces tight bounds but can be enhanced with modern computational techniques.",
+      "There is potential to improve the efficiency of TSP solvers by integrating Constraint Programming techniques with classical optimization approaches."
+    ],
+    "objectives": [
+      "Demonstrate that the Held-Karp approach can benefit from Constraint Programming techniques such as domain filtering and constraint propagation.",
+      "Adapt existing filtering algorithms for weighted spanning tree constraints to the Held-Karp procedure and develop new special-purpose filtering algorithms."
+    ],
+    "methods": [
+      "Adapt filtering algorithms from weighted spanning tree constraints to the Held-Karp procedure.",
+      "Develop a special-purpose filtering algorithm based on Prim's algorithm mechanisms.",
+      "Explore two different branching schemes to close the integrality gap in the solution process."
+    ],
+    "results": [
+      "The integration of Constraint Programming techniques with the Held-Karp method proves to be very effective for solving TSP instances.",
+      "Preliminary experiments demonstrate improved performance on small to modest-size instances from the TSPlib."
+    ],
+    "research_subject": "Integration of Constraint Programming techniques with the Held-Karp approach for solving the Traveling Salesman Problem"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The Held-Karp approach for solving the Traveling Salesman Problem (TSP) has limitations in terms of scalability and efficiency.\",\n    \"There is a need to improve the effectiveness of the Held-Karp relaxation to solve larger TSP instances.\"\n  ],\n  \"objectives\": [\n    \"Enhance the Held-Karp approach by integrating Constraint Programming (CP) techniques to improve its efficiency and scalability.\",\n    \"Develop and apply domain filtering and constraint propagation algorithms to tighten bounds and reduce the search space.\"\n  ],\n  \"methods\": [\n    \"Adapt existing filtering algorithms for the weighted spanning tree constraint to the Held-Karp procedure.\",\n    \"Introduce a special-purpose filtering algorithm based on Prim's algorithm to further improve the approach.\",\n    \"Explore different branching schemes to close the integrality gap.\"\n  ],\n  \"results\": [\n    \"Improve the efficiency and scalability of the Held-Karp approach for solving TSP instances.\",\n    \"Tighten bounds and reduce the search space using CP techniques, leading to faster optimal solutions.\"\n  ],\n  \"research_subject\": \"Improving the Held-Karp approach for the Traveling Salesman Problem using Constraint Programming\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The Held-Karp approach for the Traveling Salesman Problem (TSP) can be improved to solve larger instances to optimality.\",\n    \"There is potential for Constraint Programming (CP) techniques to enhance the Held-Karp method.\"\n  ],\n  \"objectives\": [\n    \"Adapt filtering algorithms developed for the weighted spanning tree constraint to the context of the Held and Karp procedure.\",\n    \"Introduce a special-purpose filtering algorithm based on the underlying mechanisms used in Prim’s algorithm.\",\n    \"Explore different branching schemes to close the integrality gap.\"\n  ],\n  \"methods\": [\n    \"Apply domain filtering and constraint propagation techniques from Constraint Programming to the Held-Karp approach.\",\n    \"Adapt existing algorithms and introduce a new filtering algorithm based on Prim’s algorithm.\",\n    \"Experiment with two different branching schemes.\"\n  ],\n  \"results\": [\n    \"The addition of Constraint Programming techniques to the Held-Karp method can be very effective.\",\n    \"Preliminary experiments show positive impact on small to modest-size instances from the TSPlib.\"\n  ],\n  \"research_subject\": \"Improvement of the Held and Karp approach for the Traveling Salesman Problem using Constraint Programming\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The Held-Karp relaxation for the Traveling Salesman Problem produces tight bounds but can be enhanced with modern computational techniques.\",\n    \"There is potential to improve the efficiency of TSP solvers by integrating Constraint Programming techniques with classical optimization approaches.\"\n  ],\n  \"objectives\": [\n    \"Demonstrate that the Held-Karp approach can benefit from Constraint Programming techniques such as domain filtering and constraint propagation.\",\n    \"Adapt existing filtering algorithms for weighted spanning tree constraints to the Held-Karp procedure and develop new special-purpose filtering algorithms.\"\n  ],\n  \"methods\": [\n    \"Adapt filtering algorithms from weighted spanning tree constraints to the Held-Karp procedure.\",\n    \"Develop a special-purpose filtering algorithm based on Prim's algorithm mechanisms.\",\n    \"Explore two different branching schemes to close the integrality gap in the solution process.\"\n  ],\n  \"results\": [\n    \"The integration of Constraint Programming techniques with the Held-Karp method proves to be very effective for solving TSP instances.\",\n    \"Preliminary experiments demonstrate improved performance on small to modest-size instances from the TSPlib.\"\n  ],\n  \"research_subject\": \"Integration of Constraint Programming techniques with the Held-Karp approach for solving the Traveling Salesman Problem\"\n}\n```"
+}

@@ -1,0 +1,72 @@
+{
+  "index": 24,
+  "title": "Urbanisation-driven land degradation and socioeconomic challenges in peri-urban areas: Insights from Southern Europe",
+  "abstract": "Climate change and landscape transformation have led to rapid expansion of peri-urban areas globally, representing new 'laboratories' for the study of human-nature relationships aiming at land degradation management. This paper contributes to the debate on human-driven land degradation processes by highlighting how natural and socioeconomic forces trigger soil depletion and environmental degradation in peri-urban areas. The aim was to classify and synthesise the interactions of urbanisation-driven factors with direct or indirect, on-site or off-site, and short-term or century-scale impacts on land degradation, focussing on Southern Europe as a paradigmatic case to address this issue. Assuming complex and multifaceted interactions among influencing factors, a relevant contribution to land degradation was shown to derive from socioeconomic drivers, the most important of which were population growth and urban sprawl. Viewing peri-urban areas as socio-environmental systems adapting to intense socioeconomic transformations, these factors were identified as forming complex environmental 'syndromes' driven by urbanisation. Based on this classification, we suggested three key measures to support future land management in Southern European peri-urban areas.",
+  "llama_json": {
+    "motivations": [
+      "Rapid expansion of peri-urban areas globally has led to increased land degradation and socioeconomic challenges.",
+      "There is a need to understand the complex interactions between natural and socioeconomic forces driving land degradation in peri-urban areas."
+    ],
+    "objectives": [
+      "Classify and synthesize the interactions of urbanisation-driven factors impacting land degradation in peri-urban areas.",
+      "Highlight the role of socioeconomic drivers in land degradation processes.",
+      "Identify key measures to support future land management in Southern European peri-urban areas."
+    ],
+    "methods": [
+      "Analyze the complex interactions among influencing factors driving land degradation in peri-urban areas.",
+      "Focus on Southern Europe as a paradigmatic case to address the issue of urbanisation-driven land degradation."
+    ],
+    "results": [
+      "Socioeconomic drivers, particularly population growth and urban sprawl, significantly contribute to land degradation in peri-urban areas.",
+      "Peri-urban areas can be viewed as socio-environmental systems adapting to intense socioeconomic transformations.",
+      "Three key measures are proposed to support future land management in Southern European peri-urban areas."
+    ],
+    "research_subject": "Urbanisation-driven land degradation and socioeconomic challenges in peri-urban areas"
+  },
+  "openai_json": {
+    "motivations": [
+      "Rapid expansion of peri-urban areas due to climate change and landscape transformation has led to land degradation and socioeconomic challenges.",
+      "There is a need to understand the complex interactions of urbanisation-driven factors and their impacts on land degradation."
+    ],
+    "objectives": [
+      "Classify and synthesize the interactions of urbanisation-driven factors and their impacts on land degradation, with a focus on Southern Europe.",
+      "Identify the key socioeconomic drivers of land degradation in peri-urban areas.",
+      "Suggest measures to support future land management in Southern European peri-urban areas."
+    ],
+    "methods": [
+      "Analyze the complex and multifaceted interactions among influencing factors of land degradation in peri-urban areas.",
+      "Identify and classify environmental 'syndromes' driven by urbanisation.",
+      "Propose key measures based on the classification to support future land management."
+    ],
+    "results": [
+      "Highlight the significant contribution of socioeconomic drivers, particularly population growth and urban sprawl, to land degradation.",
+      "Provide a classification of the complex environmental 'syndromes' driven by urbanisation.",
+      "Suggest three key measures for future land management in Southern European peri-urban areas."
+    ],
+    "research_subject": "Urbanisation-driven land degradation and socioeconomic challenges in Southern European peri-urban areas"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Climate change and landscape transformation have led to rapid expansion of peri-urban areas, creating new challenges for understanding human-nature relationships and land degradation management.",
+      "There is a need to understand how urbanisation-driven factors interact with natural processes to cause soil depletion and environmental degradation in peri-urban areas."
+    ],
+    "objectives": [
+      "Classify and synthesise the interactions of urbanisation-driven factors with land degradation processes in peri-urban areas of Southern Europe.",
+      "Identify the direct/indirect, on-site/off-site, and short-term/long-term impacts of socioeconomic drivers on land degradation."
+    ],
+    "methods": [
+      "Analysis of complex interactions among natural and socioeconomic factors influencing land degradation in peri-urban areas.",
+      "Classification of environmental 'syndromes' driven by urbanisation and their impacts on land degradation.",
+      "Case study approach focusing on Southern Europe as a paradigmatic example."
+    ],
+    "results": [
+      "Population growth and urban sprawl were identified as the most important socioeconomic drivers contributing to land degradation in peri-urban areas.",
+      "Complex environmental 'syndromes' driven by urbanisation were identified as key factors in peri-urban land degradation.",
+      "Three key measures were proposed to support future land management in Southern European peri-urban areas."
+    ],
+    "research_subject": "Urbanisation-driven land degradation and socioeconomic challenges in Southern European peri-urban areas"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Rapid expansion of peri-urban areas globally has led to increased land degradation and socioeconomic challenges.\",\n    \"There is a need to understand the complex interactions between natural and socioeconomic forces driving land degradation in peri-urban areas.\"\n  ],\n  \"objectives\": [\n    \"Classify and synthesize the interactions of urbanisation-driven factors impacting land degradation in peri-urban areas.\",\n    \"Highlight the role of socioeconomic drivers in land degradation processes.\",\n    \"Identify key measures to support future land management in Southern European peri-urban areas.\"\n  ],\n  \"methods\": [\n    \"Analyze the complex interactions among influencing factors driving land degradation in peri-urban areas.\",\n    \"Focus on Southern Europe as a paradigmatic case to address the issue of urbanisation-driven land degradation.\"\n  ],\n  \"results\": [\n    \"Socioeconomic drivers, particularly population growth and urban sprawl, significantly contribute to land degradation in peri-urban areas.\",\n    \"Peri-urban areas can be viewed as socio-environmental systems adapting to intense socioeconomic transformations.\",\n    \"Three key measures are proposed to support future land management in Southern European peri-urban areas.\"\n  ],\n  \"research_subject\": \"Urbanisation-driven land degradation and socioeconomic challenges in peri-urban areas\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Rapid expansion of peri-urban areas due to climate change and landscape transformation has led to land degradation and socioeconomic challenges.\",\n    \"There is a need to understand the complex interactions of urbanisation-driven factors and their impacts on land degradation.\"\n  ],\n  \"objectives\": [\n    \"Classify and synthesize the interactions of urbanisation-driven factors and their impacts on land degradation, with a focus on Southern Europe.\",\n    \"Identify the key socioeconomic drivers of land degradation in peri-urban areas.\",\n    \"Suggest measures to support future land management in Southern European peri-urban areas.\"\n  ],\n  \"methods\": [\n    \"Analyze the complex and multifaceted interactions among influencing factors of land degradation in peri-urban areas.\",\n    \"Identify and classify environmental 'syndromes' driven by urbanisation.\",\n    \"Propose key measures based on the classification to support future land management.\"\n  ],\n  \"results\": [\n    \"Highlight the significant contribution of socioeconomic drivers, particularly population growth and urban sprawl, to land degradation.\",\n    \"Provide a classification of the complex environmental 'syndromes' driven by urbanisation.\",\n    \"Suggest three key measures for future land management in Southern European peri-urban areas.\"\n  ],\n  \"research_subject\": \"Urbanisation-driven land degradation and socioeconomic challenges in Southern European peri-urban areas\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Climate change and landscape transformation have led to rapid expansion of peri-urban areas, creating new challenges for understanding human-nature relationships and land degradation management.\",\n    \"There is a need to understand how urbanisation-driven factors interact with natural processes to cause soil depletion and environmental degradation in peri-urban areas.\"\n  ],\n  \"objectives\": [\n    \"Classify and synthesise the interactions of urbanisation-driven factors with land degradation processes in peri-urban areas of Southern Europe.\",\n    \"Identify the direct/indirect, on-site/off-site, and short-term/long-term impacts of socioeconomic drivers on land degradation.\"\n  ],\n  \"methods\": [\n    \"Analysis of complex interactions among natural and socioeconomic factors influencing land degradation in peri-urban areas.\",\n    \"Classification of environmental 'syndromes' driven by urbanisation and their impacts on land degradation.\",\n    \"Case study approach focusing on Southern Europe as a paradigmatic example.\"\n  ],\n  \"results\": [\n    \"Population growth and urban sprawl were identified as the most important socioeconomic drivers contributing to land degradation in peri-urban areas.\",\n    \"Complex environmental 'syndromes' driven by urbanisation were identified as key factors in peri-urban land degradation.\",\n    \"Three key measures were proposed to support future land management in Southern European peri-urban areas.\"\n  ],\n  \"research_subject\": \"Urbanisation-driven land degradation and socioeconomic challenges in Southern European peri-urban areas\"\n}\n```"
+}

@@ -1,0 +1,66 @@
+{
+  "index": 63,
+  "title": "Path — Increasing capacity and improving the productive technologies of frozzen Food International",
+  "abstract": "The purpose of the project is to increase production capacity, enhance productive technologies and strengthen the regional competitiveness of frozfrozen Food International. The proposed activities will make it possible to bridge the company’s central problem — a lower competitiveness of the company due to limited production and technological capacity to meet the growing demand for a company’s product. By carrying out the project, the company will increase the production capacity by 600 %, improve the production process and develop new competences, thus strengthening its regional competitiveness, leading to a 95 % increase in sales revenue, an increase of exports revenue by 110 % and the creation of 12 new jobs. The project target groups are the firm itself and its employees.",
+  "llama_json": {
+    "motivations": [
+      "Frozzen Food International faces limited production and technological capacity, hindering its ability to meet growing demand and affecting its competitiveness."
+    ],
+    "objectives": [
+      "Increase production capacity by 600% to meet growing demand.",
+      "Enhance productive technologies and strengthen regional competitiveness.",
+      "Improve production processes and develop new competences."
+    ],
+    "methods": [
+      "Implement activities to upgrade production technologies and processes.",
+      "Develop new competences within the company."
+    ],
+    "results": [
+      "Increase sales revenue by 95% and exports revenue by 110%.",
+      "Create 12 new jobs and strengthen regional competitiveness."
+    ],
+    "research_subject": "Improving production capacity and technologies of Frozzen Food International"
+  },
+  "openai_json": {
+    "motivations": [
+      "Frozen Food International faces limited production and technological capacity, which hinders its competitiveness and ability to meet growing product demand."
+    ],
+    "objectives": [
+      "Increase the production capacity of Frozen Food International by 600%.",
+      "Enhance the company's productive technologies and develop new competences.",
+      "Strengthen the regional competitiveness of the company, leading to increased sales and export revenue, and job creation."
+    ],
+    "methods": [
+      "Implement a project to expand production capacity and improve production processes.",
+      "Develop new competences to enhance productivity and competitiveness."
+    ],
+    "results": [
+      "Achieve a 95% increase in sales revenue and a 110% increase in export revenue.",
+      "Create 12 new jobs within the company."
+    ],
+    "research_subject": "Increasing capacity and improving productive technologies of Frozen Food International"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The company faces limited production and technological capacity that prevents it from meeting growing market demand for its products.",
+      "Lower competitiveness due to insufficient production capabilities threatens the company's market position and growth potential."
+    ],
+    "objectives": [
+      "Increase production capacity and enhance productive technologies to meet growing market demand.",
+      "Strengthen regional competitiveness and expand market presence through improved production capabilities."
+    ],
+    "methods": [
+      "Implement technological upgrades and capacity expansion to increase production by 600%.",
+      "Develop new competences and improve production processes through modernization initiatives."
+    ],
+    "results": [
+      "Sales revenue will increase by 95% and export revenue will grow by 110%.",
+      "The project will create 12 new jobs and strengthen the company's regional market position.",
+      "Production capacity will increase by 600% enabling the company to meet growing demand."
+    ],
+    "research_subject": "Production capacity expansion and technological enhancement in frozen food manufacturing"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Frozzen Food International faces limited production and technological capacity, hindering its ability to meet growing demand and affecting its competitiveness.\"\n  ],\n  \"objectives\": [\n    \"Increase production capacity by 600% to meet growing demand.\",\n    \"Enhance productive technologies and strengthen regional competitiveness.\",\n    \"Improve production processes and develop new competences.\"\n  ],\n  \"methods\": [\n    \"Implement activities to upgrade production technologies and processes.\",\n    \"Develop new competences within the company.\"\n  ],\n  \"results\": [\n    \"Increase sales revenue by 95% and exports revenue by 110%.\",\n    \"Create 12 new jobs and strengthen regional competitiveness.\"\n  ],\n  \"research_subject\": \"Improving production capacity and technologies of Frozzen Food International\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Frozen Food International faces limited production and technological capacity, which hinders its competitiveness and ability to meet growing product demand.\"\n  ],\n  \"objectives\": [\n    \"Increase the production capacity of Frozen Food International by 600%.\",\n    \"Enhance the company's productive technologies and develop new competences.\",\n    \"Strengthen the regional competitiveness of the company, leading to increased sales and export revenue, and job creation.\"\n  ],\n  \"methods\": [\n    \"Implement a project to expand production capacity and improve production processes.\",\n    \"Develop new competences to enhance productivity and competitiveness.\"\n  ],\n  \"results\": [\n    \"Achieve a 95% increase in sales revenue and a 110% increase in export revenue.\",\n    \"Create 12 new jobs within the company.\"\n  ],\n  \"research_subject\": \"Increasing capacity and improving productive technologies of Frozen Food International\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The company faces limited production and technological capacity that prevents it from meeting growing market demand for its products.\",\n    \"Lower competitiveness due to insufficient production capabilities threatens the company's market position and growth potential.\"\n  ],\n  \"objectives\": [\n    \"Increase production capacity and enhance productive technologies to meet growing market demand.\",\n    \"Strengthen regional competitiveness and expand market presence through improved production capabilities.\"\n  ],\n  \"methods\": [\n    \"Implement technological upgrades and capacity expansion to increase production by 600%.\",\n    \"Develop new competences and improve production processes through modernization initiatives.\"\n  ],\n  \"results\": [\n    \"Sales revenue will increase by 95% and export revenue will grow by 110%.\",\n    \"The project will create 12 new jobs and strengthen the company's regional market position.\",\n    \"Production capacity will increase by 600% enabling the company to meet growing demand.\"\n  ],\n  \"research_subject\": \"Production capacity expansion and technological enhancement in frozen food manufacturing\"\n}\n```"
+}

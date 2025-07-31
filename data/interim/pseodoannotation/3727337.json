@@ -1,0 +1,74 @@
+{
+  "index": 181,
+  "title": "Big data processing and artificial intelligence at the network edge",
+  "abstract": "Edge computing offers many technical advantages, e.g., reduced latency, secure decentralized processing and storage, scalability at lower complexity, versatility to adapt the changes in resources and applications, and increased reliability. Edge computing can dramatically boost services and applications by supporting artificial intelligence (AI) natively, instead of relying on the cloud. Edge computing supporting AI is the only technology that will enable many of the long-awaited game changers: Industry4.0 and smart manufacturing, 5G, IoT, self-driving vehicles, remote robotics for healthcare, and machine vision among others. The BRAINE project’s overall aim is to boost the development of the Edge framework focusing on energy efficient hardware and AI empowered software, capable of processing Big Data at the Edge, supporting security, data privacy, and sovereignty. The approach is to build a seamless Edge MicroDataCenter interlinked with AI enabled network interface cards. BRAINE employs a visionary utilization method for edge resources management and network-edge workload distribution. Predicting resource availability and workload demand, identifying trends, and taking proactive actions are all aspects of these novel methods. The impact of BRAINE encompasses advances in the European video distribution ecosystem, improving data processing at the network edge, and proving integrated AI for applications. These will lead to unprecedented savings in performance and energy efficiency: 2x performance/Watt and 50% energy savings; 71% latency reduction for an acceleration centric EMDC; 80% space and maintenance reduction, 99.999% fault tolerance with level 5 autonomy (autonomous driving, robotics, mission-critical system); and significantly faster infrastructure installation and deployment. BRAINE boosts EU’s position in the intelligent edge computing field and enables growth across many sectors, e.g., manufacturing, smart healthcare, surveillance, satellite navigation.",
+  "llama_json": {
+    "motivations": [
+      "Traditional cloud-based computing models have limitations in terms of latency, security, and scalability, hindering the widespread adoption of artificial intelligence and big data processing applications.",
+      "There is a need for innovative edge computing solutions that can efficiently process big data and support AI-driven applications at the network edge."
+    ],
+    "objectives": [
+      "Develop an energy-efficient Edge framework that integrates AI-empowered software and hardware to process big data at the edge, ensuring security, data privacy, and sovereignty.",
+      "Design and implement a seamless Edge MicroDataCenter with AI-enabled network interface cards to support edge resources management and network-edge workload distribution.",
+      "Achieve significant improvements in performance, energy efficiency, and latency reduction for various applications, including video distribution, manufacturing, and smart healthcare."
+    ],
+    "methods": [
+      "Employ a visionary utilization method for edge resources management and network-edge workload distribution, leveraging predictive analytics and proactive actions.",
+      "Develop and integrate AI-enabled network interface cards with the Edge MicroDataCenter to support big data processing and AI-driven applications.",
+      "Implement a novel approach to edge computing that prioritizes energy efficiency, security, and data sovereignty."
+    ],
+    "results": [
+      "Deliver unprecedented savings in performance and energy efficiency, with expected outcomes including 2x performance/Watt, 50% energy savings, and 71% latency reduction.",
+      "Enable significant advancements in various sectors, such as manufacturing, smart healthcare, surveillance, and satellite navigation, through the adoption of intelligent edge computing.",
+      "Boost the EU's position in the intelligent edge computing field and drive growth across multiple industries."
+    ],
+    "research_subject": "Edge computing framework for big data processing and artificial intelligence at the network edge"
+  },
+  "openai_json": {
+    "motivations": [
+      "Edge computing offers technical advantages such as reduced latency and increased reliability, but there is a need to further enhance its capabilities with AI and big data processing.",
+      "There is a demand for technologies that can support game-changing applications such as Industry4.0, smart manufacturing, 5G, IoT, and autonomous vehicles.",
+      "There is a need for energy-efficient hardware and AI-empowered software that can support security, data privacy, and sovereignty at the network edge."
+    ],
+    "objectives": [
+      "Boost the development of the Edge framework with a focus on energy-efficient hardware and AI-empowered software capable of processing big data at the network edge.",
+      "Build a seamless Edge MicroDataCenter interlinked with AI-enabled network interface cards.",
+      "Employ a visionary method for edge resources management and network-edge workload distribution."
+    ],
+    "methods": [
+      "Develop an Edge framework that integrates AI and big data processing capabilities.",
+      "Construct an Edge MicroDataCenter linked with AI-enabled network interface cards.",
+      "Implement a novel method for managing edge resources and distributing network-edge workload, which includes predicting resource availability and workload demand."
+    ],
+    "results": [
+      "Achieve unprecedented savings in performance and energy efficiency, including 2x performance/Watt and 50% energy savings.",
+      "Significantly reduce latency, space and maintenance requirements, and improve fault tolerance.",
+      "Accelerate infrastructure installation and deployment, boosting EU's position in the intelligent edge computing field and enabling growth across various sectors."
+    ],
+    "research_subject": "Big data processing and artificial intelligence at the network edge"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current cloud-based AI processing faces limitations in latency, security, and scalability that hinder the deployment of critical applications like Industry 4.0, autonomous vehicles, and remote healthcare.",
+      "There is a need for energy-efficient edge computing solutions that can process big data locally while ensuring data privacy and sovereignty."
+    ],
+    "objectives": [
+      "Develop an energy-efficient Edge framework with AI-empowered software capable of processing Big Data at the Edge while supporting security, data privacy, and sovereignty.",
+      "Build a seamless Edge MicroDataCenter infrastructure interlinked with AI-enabled network interface cards for improved resource management and workload distribution."
+    ],
+    "methods": [
+      "Implement visionary edge resource management techniques that predict resource availability and workload demand to enable proactive actions.",
+      "Develop integrated AI capabilities at the network edge through specialized hardware and software frameworks.",
+      "Create an interconnected system of Edge MicroDataCenters with AI-enabled network interface cards."
+    ],
+    "results": [
+      "Achieve 2x performance per Watt improvement, 50% energy savings, 71% latency reduction, and 80% reduction in space and maintenance requirements.",
+      "Enable critical applications including autonomous driving, robotics, and mission-critical systems with 99.999% fault tolerance.",
+      "Strengthen EU's position in intelligent edge computing and drive growth across manufacturing, healthcare, surveillance, and satellite navigation sectors."
+    ],
+    "research_subject": "Energy-efficient edge computing framework with AI capabilities for big data processing"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional cloud-based computing models have limitations in terms of latency, security, and scalability, hindering the widespread adoption of artificial intelligence and big data processing applications.\",\n    \"There is a need for innovative edge computing solutions that can efficiently process big data and support AI-driven applications at the network edge.\"\n  ],\n  \"objectives\": [\n    \"Develop an energy-efficient Edge framework that integrates AI-empowered software and hardware to process big data at the edge, ensuring security, data privacy, and sovereignty.\",\n    \"Design and implement a seamless Edge MicroDataCenter with AI-enabled network interface cards to support edge resources management and network-edge workload distribution.\",\n    \"Achieve significant improvements in performance, energy efficiency, and latency reduction for various applications, including video distribution, manufacturing, and smart healthcare.\"\n  ],\n  \"methods\": [\n    \"Employ a visionary utilization method for edge resources management and network-edge workload distribution, leveraging predictive analytics and proactive actions.\",\n    \"Develop and integrate AI-enabled network interface cards with the Edge MicroDataCenter to support big data processing and AI-driven applications.\",\n    \"Implement a novel approach to edge computing that prioritizes energy efficiency, security, and data sovereignty.\"\n  ],\n  \"results\": [\n    \"Deliver unprecedented savings in performance and energy efficiency, with expected outcomes including 2x performance/Watt, 50% energy savings, and 71% latency reduction.\",\n    \"Enable significant advancements in various sectors, such as manufacturing, smart healthcare, surveillance, and satellite navigation, through the adoption of intelligent edge computing.\",\n    \"Boost the EU's position in the intelligent edge computing field and drive growth across multiple industries.\"\n  ],\n  \"research_subject\": \"Edge computing framework for big data processing and artificial intelligence at the network edge\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Edge computing offers technical advantages such as reduced latency and increased reliability, but there is a need to further enhance its capabilities with AI and big data processing.\",\n    \"There is a demand for technologies that can support game-changing applications such as Industry4.0, smart manufacturing, 5G, IoT, and autonomous vehicles.\",\n    \"There is a need for energy-efficient hardware and AI-empowered software that can support security, data privacy, and sovereignty at the network edge.\"\n  ],\n  \"objectives\": [\n    \"Boost the development of the Edge framework with a focus on energy-efficient hardware and AI-empowered software capable of processing big data at the network edge.\",\n    \"Build a seamless Edge MicroDataCenter interlinked with AI-enabled network interface cards.\",\n    \"Employ a visionary method for edge resources management and network-edge workload distribution.\"\n  ],\n  \"methods\": [\n    \"Develop an Edge framework that integrates AI and big data processing capabilities.\",\n    \"Construct an Edge MicroDataCenter linked with AI-enabled network interface cards.\",\n    \"Implement a novel method for managing edge resources and distributing network-edge workload, which includes predicting resource availability and workload demand.\"\n  ],\n  \"results\": [\n    \"Achieve unprecedented savings in performance and energy efficiency, including 2x performance/Watt and 50% energy savings.\",\n    \"Significantly reduce latency, space and maintenance requirements, and improve fault tolerance.\",\n    \"Accelerate infrastructure installation and deployment, boosting EU's position in the intelligent edge computing field and enabling growth across various sectors.\"\n  ],\n  \"research_subject\": \"Big data processing and artificial intelligence at the network edge\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current cloud-based AI processing faces limitations in latency, security, and scalability that hinder the deployment of critical applications like Industry 4.0, autonomous vehicles, and remote healthcare.\",\n    \"There is a need for energy-efficient edge computing solutions that can process big data locally while ensuring data privacy and sovereignty.\"\n  ],\n  \"objectives\": [\n    \"Develop an energy-efficient Edge framework with AI-empowered software capable of processing Big Data at the Edge while supporting security, data privacy, and sovereignty.\",\n    \"Build a seamless Edge MicroDataCenter infrastructure interlinked with AI-enabled network interface cards for improved resource management and workload distribution.\"\n  ],\n  \"methods\": [\n    \"Implement visionary edge resource management techniques that predict resource availability and workload demand to enable proactive actions.\",\n    \"Develop integrated AI capabilities at the network edge through specialized hardware and software frameworks.\",\n    \"Create an interconnected system of Edge MicroDataCenters with AI-enabled network interface cards.\"\n  ],\n  \"results\": [\n    \"Achieve 2x performance per Watt improvement, 50% energy savings, 71% latency reduction, and 80% reduction in space and maintenance requirements.\",\n    \"Enable critical applications including autonomous driving, robotics, and mission-critical systems with 99.999% fault tolerance.\",\n    \"Strengthen EU's position in intelligent edge computing and drive growth across manufacturing, healthcare, surveillance, and satellite navigation sectors.\"\n  ],\n  \"research_subject\": \"Energy-efficient edge computing framework with AI capabilities for big data processing\"\n}\n```"
+}

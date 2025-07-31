@@ -1,0 +1,62 @@
+{
+  "index": 130,
+  "title": "Submarine medial moraines in Hambergbukta, southeastern Spitsbergen",
+  "abstract": "Sediments are incorporated into glaciers mainly by basal erosion and freeze-on, and by debris-fall onto the ice surface along the slopes of adjacent mountainsides. Flow-parallel debris ridges formed at the confluence of glaciers are known as medial moraines (Benn & Evans 2010). Medial moraines have a number of different origins (Eyles & Rogerson 1978; Benn & Evans 2010), including ingestion of basal marginal debris in deep crevasses and redistribution of supra-, en- and subglacial debris in the shear zone between converging glaciers (e.g. Sharp 1988; Vere & Benn 1989; Hambrey & Glasser 2003). Medial moraines up to tens of kilometres long and tens of metres high can be preserved after glacier retreat, marking the former flow path of ice masses. Medial moraines have also been shown to exert significant control over surging glaciers by inhibiting and/or redirecting glacier flow. Locally persistent subglacial meltwater conduits located under the medial moraines can also inhibit glacier surges by draining subglacial meltwater efficiently and decreasing basal water pressure (Benn et al. 2009). Hambergbukta …",
+  "llama_json": {
+    "motivations": [
+      "Medial moraines play a significant role in controlling glacier flow and surging, but their formation and behavior are not fully understood.",
+      "Submarine medial moraines, in particular, are understudied, and their characteristics and impact on glacier dynamics need to be investigated."
+    ],
+    "objectives": [
+      "Investigate the formation and characteristics of submarine medial moraines in Hambergbukta, southeastern Spitsbergen.",
+      "Understand the role of medial moraines in controlling glacier flow and surging in this region."
+    ],
+    "methods": [
+      "Study the sediments and debris incorporated into glaciers through basal erosion, freeze-on, and debris-fall.",
+      "Analyze the flow-parallel debris ridges formed at the confluence of glaciers to understand medial moraine formation."
+    ],
+    "results": [
+      "Gain insights into the formation and behavior of submarine medial moraines and their impact on glacier dynamics.",
+      "Contribute to a better understanding of the role of medial moraines in controlling glacier surges and flow."
+    ],
+    "research_subject": "Submarine medial moraines in Hambergbukta, southeastern Spitsbergen"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the formation and impact of medial moraines on glacier dynamics is crucial for glacier studies.",
+      "There is a need to investigate the role of medial moraines in controlling surging glaciers and their influence on subglacial meltwater conduits."
+    ],
+    "objectives": [
+      "Examine the origins and formation of medial moraines in the context of glaciers.",
+      "Investigate the impact of medial moraines on glacier flow and surges.",
+      "Study the relationship between medial moraines and subglacial meltwater conduits."
+    ],
+    "methods": [
+      "Analyze the incorporation of sediments into glaciers and the formation of medial moraines.",
+      "Investigate the role of medial moraines in glacier dynamics, including their impact on glacier flow and surges.",
+      "Examine the relationship between medial moraines and subglacial meltwater conduits."
+    ],
+    "results": [
+      "Provide insights into the formation and impact of medial moraines on glacier dynamics.",
+      "Enhance understanding of the role of medial moraines in controlling surging glaciers.",
+      "Contribute to knowledge about the relationship between medial moraines and subglacial meltwater conduits."
+    ],
+    "research_subject": "Study of submarine medial moraines in Hambergbukta, southeastern Spitsbergen"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the formation and preservation of medial moraines is crucial for reconstructing past glacier dynamics and flow paths.",
+      "Medial moraines significantly influence glacier behavior, including their role in controlling surging glaciers and meltwater drainage systems."
+    ],
+    "objectives": [
+      "Investigate submarine medial moraines in Hambergbukta, southeastern Spitsbergen, to understand their formation and characteristics.",
+      "Examine the role of medial moraines in glacier dynamics and their preservation after glacier retreat."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Submarine medial moraines in Hambergbukta, southeastern Spitsbergen"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Medial moraines play a significant role in controlling glacier flow and surging, but their formation and behavior are not fully understood.\",\n    \"Submarine medial moraines, in particular, are understudied, and their characteristics and impact on glacier dynamics need to be investigated.\"\n  ],\n  \"objectives\": [\n    \"Investigate the formation and characteristics of submarine medial moraines in Hambergbukta, southeastern Spitsbergen.\",\n    \"Understand the role of medial moraines in controlling glacier flow and surging in this region.\"\n  ],\n  \"methods\": [\n    \"Study the sediments and debris incorporated into glaciers through basal erosion, freeze-on, and debris-fall.\",\n    \"Analyze the flow-parallel debris ridges formed at the confluence of glaciers to understand medial moraine formation.\"\n  ],\n  \"results\": [\n    \"Gain insights into the formation and behavior of submarine medial moraines and their impact on glacier dynamics.\",\n    \"Contribute to a better understanding of the role of medial moraines in controlling glacier surges and flow.\"\n  ],\n  \"research_subject\": \"Submarine medial moraines in Hambergbukta, southeastern Spitsbergen\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the formation and impact of medial moraines on glacier dynamics is crucial for glacier studies.\",\n    \"There is a need to investigate the role of medial moraines in controlling surging glaciers and their influence on subglacial meltwater conduits.\"\n  ],\n  \"objectives\": [\n    \"Examine the origins and formation of medial moraines in the context of glaciers.\",\n    \"Investigate the impact of medial moraines on glacier flow and surges.\",\n    \"Study the relationship between medial moraines and subglacial meltwater conduits.\"\n  ],\n  \"methods\": [\n    \"Analyze the incorporation of sediments into glaciers and the formation of medial moraines.\",\n    \"Investigate the role of medial moraines in glacier dynamics, including their impact on glacier flow and surges.\",\n    \"Examine the relationship between medial moraines and subglacial meltwater conduits.\"\n  ],\n  \"results\": [\n    \"Provide insights into the formation and impact of medial moraines on glacier dynamics.\",\n    \"Enhance understanding of the role of medial moraines in controlling surging glaciers.\",\n    \"Contribute to knowledge about the relationship between medial moraines and subglacial meltwater conduits.\"\n  ],\n  \"research_subject\": \"Study of submarine medial moraines in Hambergbukta, southeastern Spitsbergen\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the formation and preservation of medial moraines is crucial for reconstructing past glacier dynamics and flow paths.\",\n    \"Medial moraines significantly influence glacier behavior, including their role in controlling surging glaciers and meltwater drainage systems.\"\n  ],\n  \"objectives\": [\n    \"Investigate submarine medial moraines in Hambergbukta, southeastern Spitsbergen, to understand their formation and characteristics.\",\n    \"Examine the role of medial moraines in glacier dynamics and their preservation after glacier retreat.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Submarine medial moraines in Hambergbukta, southeastern Spitsbergen\"\n}\n```"
+}

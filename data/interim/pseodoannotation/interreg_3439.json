@@ -1,0 +1,75 @@
+{
+  "index": 456,
+  "title": "Sustainable Reuse Centres",
+  "abstract": "Re-use Centres are usually managed by SMEs, often social enterprises, that receive, prepare for re-use and distribute goods extending their product lifetimes with important social and environmental impacts, promoting a circular economy vision. They are a powerful vehicle to promote qualitative growth, help develop human capital and strengthen social cohesion. To fulfil this mission re-use centres need to have an economically sustainable business model, an issue that will be at the centre of the project. SUBTRACT will concentrate on the post start-up and scaling-up phases to render re-use centres effective and durable, i.e. to have a steady flow of incoming and outgoing goods well prepared for re-use, a professional management, a suitable financial strategy and an attractive image for the users. The project will research knowledge, exchange experiences, develop guidelines on how to develop the full potentials of re-use centres and render them competitive and will provide guidance to the ERDF managing authorities and other policy makers on how to assess and govern re-use centres in their territory. It will strengthen them in their capacity to enact efficient policies of sustaining re-use centres in becoming self-sustaining, evaluating their management, their investment and innovation readiness, measuring their impact. The elaboration of business principles and models will help actors along the reuse chain (regional and local governments, waste management authorities, NGOs, social enterprises) to collaborate effectively and strengthen networks. Measures will be identified and rendered operational that enforce waste prevention and preparation for re-use activities and favour citizens’ contributions. Efficient awareness strategies, campaign models and other suitable measures will be developed and tested to stimulate the supply and demand of reusable goods and render them attractive and desirable.",
+  "llama_json": {
+    "motivations": [
+      "Re-use Centres face challenges in achieving economic sustainability, hindering their ability to promote a circular economy and contribute to social and environmental impacts.",
+      "There is a need for effective business models and strategies to support the scaling-up and long-term viability of re-use centres."
+    ],
+    "objectives": [
+      "Develop guidelines and business principles to enhance the competitiveness and sustainability of re-use centres.",
+      "Strengthen the capacity of policy makers to assess, govern, and support re-use centres in becoming self-sustaining.",
+      "Promote collaboration and networking among actors in the reuse chain to foster efficient policies and practices."
+    ],
+    "methods": [
+      "Research knowledge and exchange experiences on re-use centre management, financial strategies, and image development.",
+      "Develop and test awareness strategies, campaign models, and measures to stimulate the supply and demand of reusable goods.",
+      "Elaborate business models and principles to support the scaling-up and sustainability of re-use centres."
+    ],
+    "results": [
+      "Enhance the economic sustainability and competitiveness of re-use centres.",
+      "Promote a circular economy vision and contribute to social and environmental impacts.",
+      "Strengthen social cohesion and develop human capital through the growth of re-use centres."
+    ],
+    "research_subject": "Sustainable business models and strategies for re-use centres"
+  },
+  "openai_json": {
+    "motivations": [
+      "Re-use Centres, which extend product lifetimes and promote a circular economy, need economically sustainable business models to fulfill their mission.",
+      "There is a need to make re-use centres more effective and durable, ensuring a steady flow of goods, professional management, and an attractive image for users.",
+      "There is a need for guidance on how to assess and govern re-use centres, and how to enact efficient policies to make them self-sustaining."
+    ],
+    "objectives": [
+      "Develop guidelines to unlock the full potential of re-use centres and make them competitive.",
+      "Provide guidance to ERDF managing authorities and other policymakers on how to assess and govern re-use centres.",
+      "Elaborate business principles and models to facilitate collaboration among actors in the reuse chain and strengthen networks."
+    ],
+    "methods": [
+      "Research knowledge and exchange experiences to develop guidelines for re-use centres.",
+      "Evaluate the management, investment, and innovation readiness of re-use centres to enact efficient policies.",
+      "Develop and test efficient awareness strategies, campaign models, and other measures to stimulate the supply and demand of reusable goods."
+    ],
+    "results": [
+      "Enhance the effectiveness and durability of re-use centres through improved business models and management strategies.",
+      "Strengthen the capacity of policymakers to assess and govern re-use centres, leading to more efficient policies.",
+      "Increase the supply and demand of reusable goods through effective awareness strategies and campaign models."
+    ],
+    "research_subject": "Sustainable business models and policies for Re-use Centres"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Re-use centres face challenges in achieving economic sustainability despite their significant social and environmental benefits in promoting circular economy.",
+      "There is a need for professional management, financial strategies, and improved public perception to ensure the long-term effectiveness and durability of re-use centres."
+    ],
+    "objectives": [
+      "Develop guidelines and business models to help re-use centres achieve economic sustainability and competitiveness during post start-up and scaling-up phases.",
+      "Provide guidance to ERDF managing authorities and policy makers on assessing and governing re-use centres effectively.",
+      "Strengthen collaboration among stakeholders in the reuse chain and develop measures to stimulate supply and demand of reusable goods."
+    ],
+    "methods": [
+      "Research and exchange experiences to develop guidelines for maximizing the potential of re-use centres.",
+      "Elaborate business principles and models to facilitate effective collaboration among regional governments, waste management authorities, NGOs, and social enterprises.",
+      "Develop and test awareness strategies and campaign models to promote the attractiveness of reusable goods."
+    ],
+    "results": [
+      "Enhanced capacity of re-use centres to become self-sustaining with improved management and investment readiness.",
+      "Strengthened networks and collaboration among actors in the reuse chain leading to more effective waste prevention and preparation for re-use.",
+      "Increased citizen participation and demand for reusable goods through effective awareness campaigns."
+    ],
+    "research_subject": "Economic sustainability and effectiveness of re-use centres in the circular economy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Re-use Centres face challenges in achieving economic sustainability, hindering their ability to promote a circular economy and contribute to social and environmental impacts.\",\n    \"There is a need for effective business models and strategies to support the scaling-up and long-term viability of re-use centres.\"\n  ],\n  \"objectives\": [\n    \"Develop guidelines and business principles to enhance the competitiveness and sustainability of re-use centres.\",\n    \"Strengthen the capacity of policy makers to assess, govern, and support re-use centres in becoming self-sustaining.\",\n    \"Promote collaboration and networking among actors in the reuse chain to foster efficient policies and practices.\"\n  ],\n  \"methods\": [\n    \"Research knowledge and exchange experiences on re-use centre management, financial strategies, and image development.\",\n    \"Develop and test awareness strategies, campaign models, and measures to stimulate the supply and demand of reusable goods.\",\n    \"Elaborate business models and principles to support the scaling-up and sustainability of re-use centres.\"\n  ],\n  \"results\": [\n    \"Enhance the economic sustainability and competitiveness of re-use centres.\",\n    \"Promote a circular economy vision and contribute to social and environmental impacts.\",\n    \"Strengthen social cohesion and develop human capital through the growth of re-use centres.\"\n  ],\n  \"research_subject\": \"Sustainable business models and strategies for re-use centres\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Re-use Centres, which extend product lifetimes and promote a circular economy, need economically sustainable business models to fulfill their mission.\",\n    \"There is a need to make re-use centres more effective and durable, ensuring a steady flow of goods, professional management, and an attractive image for users.\",\n    \"There is a need for guidance on how to assess and govern re-use centres, and how to enact efficient policies to make them self-sustaining.\"\n  ],\n  \"objectives\": [\n    \"Develop guidelines to unlock the full potential of re-use centres and make them competitive.\",\n    \"Provide guidance to ERDF managing authorities and other policymakers on how to assess and govern re-use centres.\",\n    \"Elaborate business principles and models to facilitate collaboration among actors in the reuse chain and strengthen networks.\"\n  ],\n  \"methods\": [\n    \"Research knowledge and exchange experiences to develop guidelines for re-use centres.\",\n    \"Evaluate the management, investment, and innovation readiness of re-use centres to enact efficient policies.\",\n    \"Develop and test efficient awareness strategies, campaign models, and other measures to stimulate the supply and demand of reusable goods.\"\n  ],\n  \"results\": [\n    \"Enhance the effectiveness and durability of re-use centres through improved business models and management strategies.\",\n    \"Strengthen the capacity of policymakers to assess and govern re-use centres, leading to more efficient policies.\",\n    \"Increase the supply and demand of reusable goods through effective awareness strategies and campaign models.\"\n  ],\n  \"research_subject\": \"Sustainable business models and policies for Re-use Centres\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Re-use centres face challenges in achieving economic sustainability despite their significant social and environmental benefits in promoting circular economy.\",\n    \"There is a need for professional management, financial strategies, and improved public perception to ensure the long-term effectiveness and durability of re-use centres.\"\n  ],\n  \"objectives\": [\n    \"Develop guidelines and business models to help re-use centres achieve economic sustainability and competitiveness during post start-up and scaling-up phases.\",\n    \"Provide guidance to ERDF managing authorities and policy makers on assessing and governing re-use centres effectively.\",\n    \"Strengthen collaboration among stakeholders in the reuse chain and develop measures to stimulate supply and demand of reusable goods.\"\n  ],\n  \"methods\": [\n    \"Research and exchange experiences to develop guidelines for maximizing the potential of re-use centres.\",\n    \"Elaborate business principles and models to facilitate effective collaboration among regional governments, waste management authorities, NGOs, and social enterprises.\",\n    \"Develop and test awareness strategies and campaign models to promote the attractiveness of reusable goods.\"\n  ],\n  \"results\": [\n    \"Enhanced capacity of re-use centres to become self-sustaining with improved management and investment readiness.\",\n    \"Strengthened networks and collaboration among actors in the reuse chain leading to more effective waste prevention and preparation for re-use.\",\n    \"Increased citizen participation and demand for reusable goods through effective awareness campaigns.\"\n  ],\n  \"research_subject\": \"Economic sustainability and effectiveness of re-use centres in the circular economy\"\n}\n```"
+}

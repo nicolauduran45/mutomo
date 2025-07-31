@@ -1,0 +1,75 @@
+{
+  "index": 387,
+  "title": "Investigation of an ultra compact reverse flow combustor",
+  "abstract": "The main objective of START project is to carry out a series of advanced investigations on a prototypical reverse flow, ultra compact, combustor designed and manufactured by GE-Avio for turboprop engine as a part of the SAT ITD MAESTRO. The aim is to support the validation of the developed technologies and design rules by means of full annular combustion tests and high fidelity numerical simulations. Goals of START project will be addressed with the following steps: Verify a full additive combustor at real engine conditions in terms of combustor performance, by the measurement of emissions, gas exit temperature and liner metal temperature, through extensive full annular tests. Data will also permit validation of numerical modelling results. Improve the knowledge of combustor metal temperature and validation of aero-thermal predictions by gathering 2D temperature maps using InfraRed techniques across dedicated optical access on the full annular rig. Improve and further validate existent aero-thermal CFD modelling based on a two-step approach: RANS based CHT calculations for metal temperature and flow split predictions and LES (or Hybrid RANS-LES) calculations of the flame domain for combustor performance evaluation. Development of an innovative CFD approach based on unsteady CHT based on Hybrid RANS-LES, to allow direct calculation of aero-thermal and combustion performance behavior of the combustor. The methodology will also exploit and further validate dedicated strategy to model multi-hole liners without requiring the explicit meshing of each hole. START will greatly contribute to the goals of SAT initiative in CS2. The validation of innovative high fidelity CFD will significantly help the design of innovative combustors for addressing the target of SFC reduction faced with the increase of engine cycle efficiency. The validation of innovative additive manufacturing components at TRL5 will positively contribute to reach the objectives of reducing costs and weights.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to validate the design rules and technologies of ultra compact reverse flow combustors for turboprop engines.",
+      "Current combustor designs face challenges in achieving reduced specific fuel consumption (SFC) while maintaining engine cycle efficiency."
+    ],
+    "objectives": [
+      "Validate the performance of a prototypical ultra compact reverse flow combustor through full annular combustion tests and high fidelity numerical simulations.",
+      "Improve the knowledge of combustor metal temperature and aero-thermal predictions using advanced measurement techniques and CFD modelling.",
+      "Develop and validate an innovative CFD approach for direct calculation of aero-thermal and combustion performance behavior of the combustor."
+    ],
+    "methods": [
+      "Conduct full annular combustion tests to measure emissions, gas exit temperature, and liner metal temperature.",
+      "Utilize InfraRed techniques to gather 2D temperature maps and validate aero-thermal predictions.",
+      "Employ a two-step CFD modelling approach combining RANS and LES calculations for combustor performance evaluation and metal temperature predictions."
+    ],
+    "results": [
+      "Enhanced understanding of ultra compact reverse flow combustor performance and metal temperature behavior.",
+      "Validation of innovative high fidelity CFD approaches for combustor design and optimization.",
+      "Contribution to the reduction of SFC and engine costs through the development of advanced combustor technologies."
+    ],
+    "research_subject": "Investigation of ultra compact reverse flow combustor performance and optimization using advanced CFD modelling and experimental techniques"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for advanced investigations on a prototypical reverse flow, ultra compact, combustor to validate developed technologies and design rules.",
+      "Improving the knowledge of combustor metal temperature and validating aero-thermal predictions is crucial for the design of innovative combustors.",
+      "There is a need for the development of an innovative CFD approach to allow direct calculation of aero-thermal and combustion performance behavior of the combustor."
+    ],
+    "objectives": [
+      "Carry out full annular combustion tests and high fidelity numerical simulations on a prototypical reverse flow, ultra compact, combustor.",
+      "Improve the knowledge of combustor metal temperature and validate aero-thermal predictions using InfraRed techniques.",
+      "Develop and validate an innovative CFD approach for direct calculation of aero-thermal and combustion performance behavior of the combustor."
+    ],
+    "methods": [
+      "Perform extensive full annular tests to measure emissions, gas exit temperature and liner metal temperature.",
+      "Use InfraRed techniques to gather 2D temperature maps across dedicated optical access on the full annular rig.",
+      "Implement a two-step approach for aero-thermal CFD modelling, including RANS based CHT calculations and LES (or Hybrid RANS-LES) calculations."
+    ],
+    "results": [
+      "Validate the performance of a prototypical reverse flow, ultra compact, combustor at real engine conditions.",
+      "Improve the understanding of combustor metal temperature and validate aero-thermal predictions.",
+      "Develop and validate an innovative CFD approach for direct calculation of aero-thermal and combustion performance behavior of the combustor."
+    ],
+    "research_subject": "Investigation and validation of an ultra compact reverse flow combustor"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to validate innovative reverse flow ultra-compact combustor technologies and design rules for turboprop engines to improve efficiency.",
+      "Current combustor designs require advanced validation methods to ensure performance, emissions, and thermal behavior meet engine requirements."
+    ],
+    "objectives": [
+      "Validate a full additive combustor at real engine conditions through comprehensive testing of combustor performance, emissions, gas exit temperature, and liner metal temperature.",
+      "Improve and validate computational fluid dynamics (CFD) modeling approaches for accurate prediction of aero-thermal and combustion performance.",
+      "Develop innovative unsteady conjugate heat transfer (CHT) methodologies based on Hybrid RANS-LES for direct calculation of combustor behavior."
+    ],
+    "methods": [
+      "Conduct full annular combustion tests with measurements of emissions, temperatures, and performance parameters.",
+      "Apply infrared techniques through optical access to obtain 2D temperature maps for metal temperature validation.",
+      "Implement a two-step CFD approach combining RANS-based CHT calculations and LES/Hybrid RANS-LES simulations, along with innovative modeling strategies for multi-hole liners."
+    ],
+    "results": [
+      "Validation of additive manufacturing combustor components at TRL5 level with verified performance under real engine conditions.",
+      "Enhanced CFD modeling capabilities enabling more accurate design of innovative combustors for improved specific fuel consumption.",
+      "Contribution to cost and weight reduction objectives through validated innovative manufacturing and design approaches."
+    ],
+    "research_subject": "Ultra-compact reverse flow combustor validation and advanced CFD modeling for turboprop engines"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to validate the design rules and technologies of ultra compact reverse flow combustors for turboprop engines.\",\n    \"Current combustor designs face challenges in achieving reduced specific fuel consumption (SFC) while maintaining engine cycle efficiency.\"\n  ],\n  \"objectives\": [\n    \"Validate the performance of a prototypical ultra compact reverse flow combustor through full annular combustion tests and high fidelity numerical simulations.\",\n    \"Improve the knowledge of combustor metal temperature and aero-thermal predictions using advanced measurement techniques and CFD modelling.\",\n    \"Develop and validate an innovative CFD approach for direct calculation of aero-thermal and combustion performance behavior of the combustor.\"\n  ],\n  \"methods\": [\n    \"Conduct full annular combustion tests to measure emissions, gas exit temperature, and liner metal temperature.\",\n    \"Utilize InfraRed techniques to gather 2D temperature maps and validate aero-thermal predictions.\",\n    \"Employ a two-step CFD modelling approach combining RANS and LES calculations for combustor performance evaluation and metal temperature predictions.\"\n  ],\n  \"results\": [\n    \"Enhanced understanding of ultra compact reverse flow combustor performance and metal temperature behavior.\",\n    \"Validation of innovative high fidelity CFD approaches for combustor design and optimization.\",\n    \"Contribution to the reduction of SFC and engine costs through the development of advanced combustor technologies.\"\n  ],\n  \"research_subject\": \"Investigation of ultra compact reverse flow combustor performance and optimization using advanced CFD modelling and experimental techniques\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for advanced investigations on a prototypical reverse flow, ultra compact, combustor to validate developed technologies and design rules.\",\n    \"Improving the knowledge of combustor metal temperature and validating aero-thermal predictions is crucial for the design of innovative combustors.\",\n    \"There is a need for the development of an innovative CFD approach to allow direct calculation of aero-thermal and combustion performance behavior of the combustor.\"\n  ],\n  \"objectives\": [\n    \"Carry out full annular combustion tests and high fidelity numerical simulations on a prototypical reverse flow, ultra compact, combustor.\",\n    \"Improve the knowledge of combustor metal temperature and validate aero-thermal predictions using InfraRed techniques.\",\n    \"Develop and validate an innovative CFD approach for direct calculation of aero-thermal and combustion performance behavior of the combustor.\"\n  ],\n  \"methods\": [\n    \"Perform extensive full annular tests to measure emissions, gas exit temperature and liner metal temperature.\",\n    \"Use InfraRed techniques to gather 2D temperature maps across dedicated optical access on the full annular rig.\",\n    \"Implement a two-step approach for aero-thermal CFD modelling, including RANS based CHT calculations and LES (or Hybrid RANS-LES) calculations.\"\n  ],\n  \"results\": [\n    \"Validate the performance of a prototypical reverse flow, ultra compact, combustor at real engine conditions.\",\n    \"Improve the understanding of combustor metal temperature and validate aero-thermal predictions.\",\n    \"Develop and validate an innovative CFD approach for direct calculation of aero-thermal and combustion performance behavior of the combustor.\"\n  ],\n  \"research_subject\": \"Investigation and validation of an ultra compact reverse flow combustor\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to validate innovative reverse flow ultra-compact combustor technologies and design rules for turboprop engines to improve efficiency.\",\n    \"Current combustor designs require advanced validation methods to ensure performance, emissions, and thermal behavior meet engine requirements.\"\n  ],\n  \"objectives\": [\n    \"Validate a full additive combustor at real engine conditions through comprehensive testing of combustor performance, emissions, gas exit temperature, and liner metal temperature.\",\n    \"Improve and validate computational fluid dynamics (CFD) modeling approaches for accurate prediction of aero-thermal and combustion performance.\",\n    \"Develop innovative unsteady conjugate heat transfer (CHT) methodologies based on Hybrid RANS-LES for direct calculation of combustor behavior.\"\n  ],\n  \"methods\": [\n    \"Conduct full annular combustion tests with measurements of emissions, temperatures, and performance parameters.\",\n    \"Apply infrared techniques through optical access to obtain 2D temperature maps for metal temperature validation.\",\n    \"Implement a two-step CFD approach combining RANS-based CHT calculations and LES/Hybrid RANS-LES simulations, along with innovative modeling strategies for multi-hole liners.\"\n  ],\n  \"results\": [\n    \"Validation of additive manufacturing combustor components at TRL5 level with verified performance under real engine conditions.\",\n    \"Enhanced CFD modeling capabilities enabling more accurate design of innovative combustors for improved specific fuel consumption.\",\n    \"Contribution to cost and weight reduction objectives through validated innovative manufacturing and design approaches.\"\n  ],\n  \"research_subject\": \"Ultra-compact reverse flow combustor validation and advanced CFD modeling for turboprop engines\"\n}\n```"
+}

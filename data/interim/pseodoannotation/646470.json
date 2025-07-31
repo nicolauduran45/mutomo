@@ -1,0 +1,77 @@
+{
+  "index": 265,
+  "title": "Land-Based solutions for plastics in the sea",
+  "abstract": "There are 5,250 billion plastic particles floating on the surface on the world's seas and oceans, equivalent to 268,940 metric tons of waste. These fragments move with the currents before washing up on beaches, islands, coral atolls or one of the five great ocean gyres. Because MP cannot be removed form oceans, proactive action regarding research on plastic alternatives and strategies to prevent plastic entering the environment should be taken promptly. Despite the research increasing, there is still a lack of suitable and validated analytical methods for detection and quantification of small micro- and nano plastics (SMNP) evidencing a huge obstacle for large-scale monitoring. There is also a lack of hazard and fate data which would allow their risk assessment. LABPLAS is a 48-months project whose vision is creating capacities (sampling, analysis and quantification techniques, new materials and new models) to evaluate rapidly and precisely the interactions of plastics with the environmental compartments and natural cycles leading to the development of effective mitigation and elimination measures, as well as, making management decisions. It will assess reliable identification methods for more accurate assessment of the abundance, distribution and toxicity determination of SMNP in the environment, giving the opportunity of new developments of cutting edge technologies. It will also develop practical computational tools that up-scaled should allow European agencies to map plastic-impacted hotspots. The project will have a multi-actor approach, creating scientific knowledge with a partnership of scientists, technicians, research organizations and enterprises, working together towards the recognition at different levels (society, industry, policy) of the main issues (sources, potential biodegradability, ecotoxicology, ingestion, environmental assessment) related to the presence of plastics in ecosystems.",
+  "llama_json": {
+    "motivations": [
+      "The massive amount of plastic particles in the world's seas and oceans poses a significant environmental problem, with 5,250 billion plastic particles equivalent to 268,940 metric tons of waste.",
+      "There is a lack of suitable and validated analytical methods for detecting and quantifying small micro- and nano plastics, hindering large-scale monitoring and risk assessment.",
+      "Proactive action is needed to research plastic alternatives and strategies to prevent plastic from entering the environment."
+    ],
+    "objectives": [
+      "Develop capacities for evaluating the interactions of plastics with environmental compartments and natural cycles to inform effective mitigation and elimination measures.",
+      "Create reliable identification methods for accurate assessment of the abundance, distribution, and toxicity of small micro- and nano plastics in the environment.",
+      "Develop practical computational tools to map plastic-impacted hotspots and support management decisions."
+    ],
+    "methods": [
+      "Develop and validate analytical methods for detecting and quantifying small micro- and nano plastics.",
+      "Assess the abundance, distribution, and toxicity of small micro- and nano plastics in the environment.",
+      "Create a multi-actor approach involving scientists, technicians, research organizations, and enterprises to address the main issues related to plastics in ecosystems."
+    ],
+    "results": [
+      "Enable accurate assessment and monitoring of small micro- and nano plastics in the environment.",
+      "Inform effective mitigation and elimination measures to reduce plastic pollution.",
+      "Support management decisions and policy development through the creation of practical computational tools and mapping of plastic-impacted hotspots."
+    ],
+    "research_subject": "Land-based solutions for reducing plastic pollution in the sea through advanced analytical methods and mitigation strategies"
+  },
+  "openai_json": {
+    "motivations": [
+      "The world's seas and oceans are heavily polluted with plastic particles, posing a significant environmental challenge.",
+      "There is a lack of suitable and validated methods for detecting and quantifying small micro- and nano plastics (SMNP), hindering large-scale monitoring.",
+      "There is a need for more data on the hazards and fate of plastics in the environment to enable effective risk assessment."
+    ],
+    "objectives": [
+      "Develop capacities for rapid and precise evaluation of the interactions of plastics with environmental compartments and natural cycles.",
+      "Create reliable identification methods for more accurate assessment of the abundance, distribution, and toxicity of SMNP in the environment.",
+      "Develop practical computational tools to allow European agencies to map plastic-impacted hotspots."
+    ],
+    "methods": [
+      "Develop sampling, analysis, and quantification techniques for evaluating the interactions of plastics with the environment.",
+      "Assess and develop identification methods for SMNP in the environment.",
+      "Create computational tools for mapping plastic-impacted hotspots."
+    ],
+    "results": [
+      "Enable more effective mitigation and elimination measures for plastic pollution.",
+      "Provide new developments of cutting-edge technologies for plastic detection and quantification.",
+      "Facilitate the recognition of the main issues related to the presence of plastics in ecosystems at different levels (society, industry, policy)."
+    ],
+    "research_subject": "Land-Based Solutions for Plastic Pollution in Seas and Oceans"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The presence of 5,250 billion plastic particles in the world's oceans poses a significant environmental threat that cannot be removed once dispersed.",
+      "Current analytical methods are inadequate for detecting and quantifying small micro- and nano plastics, hindering large-scale monitoring efforts.",
+      "Insufficient hazard and fate data prevents proper risk assessment of plastic pollution in environmental systems."
+    ],
+    "objectives": [
+      "Develop capacities including sampling, analysis, and quantification techniques to evaluate plastic interactions with environmental compartments and natural cycles.",
+      "Create reliable identification methods for accurate assessment of the abundance, distribution, and toxicity of small micro- and nano plastics in the environment.",
+      "Develop computational tools to enable European agencies to map plastic-impacted hotspots and support effective management decisions."
+    ],
+    "methods": [
+      "Develop and validate new analytical techniques for detection and quantification of small micro- and nano plastics.",
+      "Create practical computational tools for mapping and assessing plastic pollution hotspots.",
+      "Implement a multi-actor approach bringing together scientists, technicians, research organizations, and enterprises to address plastic pollution issues."
+    ],
+    "results": [
+      "Enable rapid and precise evaluation of plastic interactions with environmental systems leading to effective mitigation and elimination measures.",
+      "Provide European agencies with tools to identify and map plastic-impacted areas for better environmental management.",
+      "Increase recognition across society, industry, and policy sectors regarding the sources, biodegradability, ecotoxicology, and environmental impact of plastics."
+    ],
+    "research_subject": "Development of land-based solutions for detecting, quantifying, and mitigating plastic pollution in marine environments"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The massive amount of plastic particles in the world's seas and oceans poses a significant environmental problem, with 5,250 billion plastic particles equivalent to 268,940 metric tons of waste.\",\n    \"There is a lack of suitable and validated analytical methods for detecting and quantifying small micro- and nano plastics, hindering large-scale monitoring and risk assessment.\",\n    \"Proactive action is needed to research plastic alternatives and strategies to prevent plastic from entering the environment.\"\n  ],\n  \"objectives\": [\n    \"Develop capacities for evaluating the interactions of plastics with environmental compartments and natural cycles to inform effective mitigation and elimination measures.\",\n    \"Create reliable identification methods for accurate assessment of the abundance, distribution, and toxicity of small micro- and nano plastics in the environment.\",\n    \"Develop practical computational tools to map plastic-impacted hotspots and support management decisions.\"\n  ],\n  \"methods\": [\n    \"Develop and validate analytical methods for detecting and quantifying small micro- and nano plastics.\",\n    \"Assess the abundance, distribution, and toxicity of small micro- and nano plastics in the environment.\",\n    \"Create a multi-actor approach involving scientists, technicians, research organizations, and enterprises to address the main issues related to plastics in ecosystems.\"\n  ],\n  \"results\": [\n    \"Enable accurate assessment and monitoring of small micro- and nano plastics in the environment.\",\n    \"Inform effective mitigation and elimination measures to reduce plastic pollution.\",\n    \"Support management decisions and policy development through the creation of practical computational tools and mapping of plastic-impacted hotspots.\"\n  ],\n  \"research_subject\": \"Land-based solutions for reducing plastic pollution in the sea through advanced analytical methods and mitigation strategies\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The world's seas and oceans are heavily polluted with plastic particles, posing a significant environmental challenge.\",\n    \"There is a lack of suitable and validated methods for detecting and quantifying small micro- and nano plastics (SMNP), hindering large-scale monitoring.\",\n    \"There is a need for more data on the hazards and fate of plastics in the environment to enable effective risk assessment.\"\n  ],\n  \"objectives\": [\n    \"Develop capacities for rapid and precise evaluation of the interactions of plastics with environmental compartments and natural cycles.\",\n    \"Create reliable identification methods for more accurate assessment of the abundance, distribution, and toxicity of SMNP in the environment.\",\n    \"Develop practical computational tools to allow European agencies to map plastic-impacted hotspots.\"\n  ],\n  \"methods\": [\n    \"Develop sampling, analysis, and quantification techniques for evaluating the interactions of plastics with the environment.\",\n    \"Assess and develop identification methods for SMNP in the environment.\",\n    \"Create computational tools for mapping plastic-impacted hotspots.\"\n  ],\n  \"results\": [\n    \"Enable more effective mitigation and elimination measures for plastic pollution.\",\n    \"Provide new developments of cutting-edge technologies for plastic detection and quantification.\",\n    \"Facilitate the recognition of the main issues related to the presence of plastics in ecosystems at different levels (society, industry, policy).\"\n  ],\n  \"research_subject\": \"Land-Based Solutions for Plastic Pollution in Seas and Oceans\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The presence of 5,250 billion plastic particles in the world's oceans poses a significant environmental threat that cannot be removed once dispersed.\",\n    \"Current analytical methods are inadequate for detecting and quantifying small micro- and nano plastics, hindering large-scale monitoring efforts.\",\n    \"Insufficient hazard and fate data prevents proper risk assessment of plastic pollution in environmental systems.\"\n  ],\n  \"objectives\": [\n    \"Develop capacities including sampling, analysis, and quantification techniques to evaluate plastic interactions with environmental compartments and natural cycles.\",\n    \"Create reliable identification methods for accurate assessment of the abundance, distribution, and toxicity of small micro- and nano plastics in the environment.\",\n    \"Develop computational tools to enable European agencies to map plastic-impacted hotspots and support effective management decisions.\"\n  ],\n  \"methods\": [\n    \"Develop and validate new analytical techniques for detection and quantification of small micro- and nano plastics.\",\n    \"Create practical computational tools for mapping and assessing plastic pollution hotspots.\",\n    \"Implement a multi-actor approach bringing together scientists, technicians, research organizations, and enterprises to address plastic pollution issues.\"\n  ],\n  \"results\": [\n    \"Enable rapid and precise evaluation of plastic interactions with environmental systems leading to effective mitigation and elimination measures.\",\n    \"Provide European agencies with tools to identify and map plastic-impacted areas for better environmental management.\",\n    \"Increase recognition across society, industry, and policy sectors regarding the sources, biodegradability, ecotoxicology, and environmental impact of plastics.\"\n  ],\n  \"research_subject\": \"Development of land-based solutions for detecting, quantifying, and mitigating plastic pollution in marine environments\"\n}\n```"
+}

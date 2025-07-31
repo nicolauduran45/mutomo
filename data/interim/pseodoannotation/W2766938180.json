@@ -1,0 +1,71 @@
+{
+  "index": 313,
+  "title": "A Study on Camera Array and Its Applications * *This research is funded by the State Key Laboratory of Geo-information Engineering under grant agreement NO. SKLGIE2015-M-3-4 and is supported by National Science Foundation of China (Grant No. 61473230), National Science Foundation for Young Scholars of China (Grant No. 61603303) and Aviation Science Foundation(Grant No. 2014ZC53030).",
+  "abstract": "Abstract The reduced cost of cameras and the complex scenes make it possible and necessary to replace the monocular camera with camera array under certain situations. In this paper, we first provide a review on the existing camera arrays and sort them according to the array arrangement, and then give an overview of the imaging properties that are benefited from the camera array including dynamic range, resolution, seeing through occlusions and depth estimation. At last, a novel camera array-based airborne optical system is proposed to meet the intelligence, surveillance and reconnaissance (ISR) requirements for large field of view (FOV), high dynamic range and resolution, multi-view and multiple dimensions imaging. For the sake of onboard application of this system in practice, some key technologies are highlighted that need to be developed in the future research, such as the self-calibration and the synthetic aperture imaging by camera arrays on mobile platforms.",
+  "llama_json": {
+    "motivations": [
+      "Monocular cameras are insufficient for capturing complex scenes, necessitating the use of camera arrays.",
+      "There is a need for improved imaging capabilities, including dynamic range, resolution, and depth estimation, in applications such as intelligence, surveillance, and reconnaissance (ISR)."
+    ],
+    "objectives": [
+      "Review and categorize existing camera array arrangements and their imaging properties.",
+      "Propose a novel camera array-based airborne optical system for ISR applications.",
+      "Identify key technologies required for the onboard application of the proposed system."
+    ],
+    "methods": [
+      "Analyze and sort existing camera arrays according to their array arrangement.",
+      "Investigate the imaging properties of camera arrays, including dynamic range, resolution, and depth estimation.",
+      "Design a camera array-based airborne optical system for large field of view, high dynamic range, and multi-view imaging."
+    ],
+    "results": [
+      "Improved imaging capabilities for ISR applications, including enhanced dynamic range, resolution, and depth estimation.",
+      "Development of a novel camera array-based airborne optical system for practical onboard applications."
+    ],
+    "research_subject": "Camera array technology and its applications in airborne optical systems"
+  },
+  "openai_json": {
+    "motivations": [
+      "The reduced cost of cameras and the complexity of scenes necessitate the replacement of monocular cameras with camera arrays in certain situations.",
+      "There is a need for an airborne optical system that meets intelligence, surveillance, and reconnaissance requirements for large field of view, high dynamic range and resolution, multi-view, and multiple dimensions imaging."
+    ],
+    "objectives": [
+      "Review existing camera arrays and sort them according to the array arrangement.",
+      "Overview the imaging properties that benefit from the camera array, including dynamic range, resolution, seeing through occlusions, and depth estimation.",
+      "Propose a novel camera array-based airborne optical system to meet specific imaging requirements."
+    ],
+    "methods": [
+      "Review and categorize existing camera arrays based on their arrangement.",
+      "Analyze the imaging properties that are enhanced by the use of camera arrays.",
+      "Design a novel camera array-based airborne optical system."
+    ],
+    "results": [
+      "A comprehensive review and categorization of existing camera arrays.",
+      "An overview of the imaging properties that benefit from the use of camera arrays.",
+      "A proposed design for a novel camera array-based airborne optical system."
+    ],
+    "research_subject": "Study and application of camera arrays in imaging systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The reduced cost of cameras and complexity of scenes necessitate replacing monocular cameras with camera arrays in certain applications.",
+      "Current intelligence, surveillance and reconnaissance systems require enhanced imaging capabilities including large field of view, high dynamic range, and multi-dimensional imaging."
+    ],
+    "objectives": [
+      "Provide a comprehensive review and classification of existing camera arrays based on their arrangement.",
+      "Develop a novel camera array-based airborne optical system to meet intelligence, surveillance and reconnaissance requirements."
+    ],
+    "methods": [
+      "Review and categorize existing camera arrays according to their arrangement patterns.",
+      "Design an airborne optical system using camera arrays to achieve enhanced imaging properties.",
+      "Identify key technologies needed for practical implementation including self-calibration and synthetic aperture imaging."
+    ],
+    "results": [
+      "Enhanced imaging capabilities including improved dynamic range, resolution, ability to see through occlusions, and depth estimation.",
+      "A proposed airborne optical system capable of large field of view, high dynamic range, multi-view and multiple dimensions imaging for ISR applications."
+    ],
+    "research_subject": "Camera array systems and their applications in airborne intelligence, surveillance and reconnaissance"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Monocular cameras are insufficient for capturing complex scenes, necessitating the use of camera arrays.\",\n    \"There is a need for improved imaging capabilities, including dynamic range, resolution, and depth estimation, in applications such as intelligence, surveillance, and reconnaissance (ISR).\"\n  ],\n  \"objectives\": [\n    \"Review and categorize existing camera array arrangements and their imaging properties.\",\n    \"Propose a novel camera array-based airborne optical system for ISR applications.\",\n    \"Identify key technologies required for the onboard application of the proposed system.\"\n  ],\n  \"methods\": [\n    \"Analyze and sort existing camera arrays according to their array arrangement.\",\n    \"Investigate the imaging properties of camera arrays, including dynamic range, resolution, and depth estimation.\",\n    \"Design a camera array-based airborne optical system for large field of view, high dynamic range, and multi-view imaging.\"\n  ],\n  \"results\": [\n    \"Improved imaging capabilities for ISR applications, including enhanced dynamic range, resolution, and depth estimation.\",\n    \"Development of a novel camera array-based airborne optical system for practical onboard applications.\"\n  ],\n  \"research_subject\": \"Camera array technology and its applications in airborne optical systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The reduced cost of cameras and the complexity of scenes necessitate the replacement of monocular cameras with camera arrays in certain situations.\",\n    \"There is a need for an airborne optical system that meets intelligence, surveillance, and reconnaissance requirements for large field of view, high dynamic range and resolution, multi-view, and multiple dimensions imaging.\"\n  ],\n  \"objectives\": [\n    \"Review existing camera arrays and sort them according to the array arrangement.\",\n    \"Overview the imaging properties that benefit from the camera array, including dynamic range, resolution, seeing through occlusions, and depth estimation.\",\n    \"Propose a novel camera array-based airborne optical system to meet specific imaging requirements.\"\n  ],\n  \"methods\": [\n    \"Review and categorize existing camera arrays based on their arrangement.\",\n    \"Analyze the imaging properties that are enhanced by the use of camera arrays.\",\n    \"Design a novel camera array-based airborne optical system.\"\n  ],\n  \"results\": [\n    \"A comprehensive review and categorization of existing camera arrays.\",\n    \"An overview of the imaging properties that benefit from the use of camera arrays.\",\n    \"A proposed design for a novel camera array-based airborne optical system.\"\n  ],\n  \"research_subject\": \"Study and application of camera arrays in imaging systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The reduced cost of cameras and complexity of scenes necessitate replacing monocular cameras with camera arrays in certain applications.\",\n    \"Current intelligence, surveillance and reconnaissance systems require enhanced imaging capabilities including large field of view, high dynamic range, and multi-dimensional imaging.\"\n  ],\n  \"objectives\": [\n    \"Provide a comprehensive review and classification of existing camera arrays based on their arrangement.\",\n    \"Develop a novel camera array-based airborne optical system to meet intelligence, surveillance and reconnaissance requirements.\"\n  ],\n  \"methods\": [\n    \"Review and categorize existing camera arrays according to their arrangement patterns.\",\n    \"Design an airborne optical system using camera arrays to achieve enhanced imaging properties.\",\n    \"Identify key technologies needed for practical implementation including self-calibration and synthetic aperture imaging.\"\n  ],\n  \"results\": [\n    \"Enhanced imaging capabilities including improved dynamic range, resolution, ability to see through occlusions, and depth estimation.\",\n    \"A proposed airborne optical system capable of large field of view, high dynamic range, multi-view and multiple dimensions imaging for ISR applications.\"\n  ],\n  \"research_subject\": \"Camera array systems and their applications in airborne intelligence, surveillance and reconnaissance\"\n}\n```"
+}

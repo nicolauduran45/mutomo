@@ -1,0 +1,69 @@
+{
+  "index": 411,
+  "title": "Long-term changes in soil salinity as influenced by subsoil thickness in a reclaimed coal mine in east-central Alberta",
+  "abstract": "Olatuyi, S. O. and Leskiw, L. A. 2014. Long-term changes in soil salinity as influenced by subsoil thickness in a reclaimed coal mine in east-central Alberta. Can. J. Soil Sci. 94: 605–620. Elevated salinity and sodicity are major challenges to reclamation of surface-mined coal sites in the Alberta Plains region. Research plots were established in 1981 at the Battle River Coal Mine near Forestburg, AB, to determine an optimum depth of subsoil replacement over sodic mine spoil required to sustain agricultural capability. Subsoil thickness was varied at 0, 25, 65, 135, 165 and 335 cm, overlain with 15 cm topsoil. The plots were monitored annually from 1982 to 1986 and were seeded to forage from 1987. Plots were resampled in 2013 to examine long-term changes in soil quality by comparing the results with the historical means for the 1980s. Key soil parameters measured are pH, electrical conductivity (EC), total dissolved salts (TDS), sodium adsorption ratio (SAR) and soluble Na. The soil quality of the root zone (0–40 cm) improved over time in all treatments as EC, TDS, SAR and concentration of Na decreased significantly between the 1980s and 2013. Amounts of EC and soluble Na consistently increased with depth, suggesting salt accumulation was predominantly by downward leaching, but with contribution by upward migration of Na from the underlying spoil. Relative to the native soils in 2013, the root zone quality ratings for EC and SAR in the topsoil/spoil treatment were better than in the shallow-bedrock Solonetzic soil. Ratings for the 25-cm subsoil treatment were also comparable with the local Chernozemic soil, but better than the fine till Solonetzic soil. This study demonstrates that a minimum of 25 cm subsoil and 15 cm topsoil are required for mitigating salinity and sodicity in these reconstructed soils. The resampling in 2013 demonstrates that long-term monitoring is essential to obtain a better understanding of reclamation outcomes.",
+  "llama_json": {
+    "motivations": [
+      "Elevated salinity and sodicity pose significant challenges to the reclamation of surface-mined coal sites in the Alberta Plains region.",
+      "There is a need to determine the optimum depth of subsoil replacement to sustain agricultural capability in reclaimed coal mine sites."
+    ],
+    "objectives": [
+      "Investigate the long-term changes in soil salinity as influenced by subsoil thickness in a reclaimed coal mine.",
+      "Determine the minimum subsoil thickness required to mitigate salinity and sodicity in reconstructed soils."
+    ],
+    "methods": [
+      "Establish research plots with varying subsoil thicknesses and monitor soil parameters over time.",
+      "Compare historical means from the 1980s with resampled data from 2013 to examine long-term changes in soil quality."
+    ],
+    "results": [
+      "Soil quality in the root zone improved over time in all treatments, with significant decreases in EC, TDS, SAR, and Na concentration.",
+      "A minimum of 25 cm subsoil and 15 cm topsoil is required to mitigate salinity and sodicity in reconstructed soils."
+    ],
+    "research_subject": "Soil salinity and sodicity in reclaimed coal mine sites"
+  },
+  "openai_json": {
+    "motivations": [
+      "Elevated salinity and sodicity are major challenges to reclamation of surface-mined coal sites in the Alberta Plains region.",
+      "There is a need to determine an optimum depth of subsoil replacement over sodic mine spoil required to sustain agricultural capability."
+    ],
+    "objectives": [
+      "Establish research plots with varied subsoil thickness to monitor changes in soil quality over time.",
+      "Determine the minimum subsoil and topsoil thickness required for mitigating salinity and sodicity in reconstructed soils."
+    ],
+    "methods": [
+      "Established research plots at the Battle River Coal Mine with varied subsoil thickness, overlain with 15 cm topsoil.",
+      "Monitored key soil parameters such as pH, electrical conductivity, total dissolved salts, sodium adsorption ratio, and soluble Na over time.",
+      "Compared the soil quality results from 2013 with the historical means for the 1980s."
+    ],
+    "results": [
+      "The soil quality of the root zone improved over time in all treatments as key parameters decreased significantly between the 1980s and 2013.",
+      "Salt accumulation was predominantly by downward leaching, but with contribution by upward migration of Na from the underlying spoil.",
+      "A minimum of 25 cm subsoil and 15 cm topsoil are required for mitigating salinity and sodicity in these reconstructed soils."
+    ],
+    "research_subject": "Long-term changes in soil salinity in a reclaimed coal mine influenced by subsoil thickness"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Elevated salinity and sodicity pose major challenges to the reclamation of surface-mined coal sites in the Alberta Plains region.",
+      "There is a need to determine optimal subsoil replacement depths over sodic mine spoil to sustain agricultural capability in reclaimed areas."
+    ],
+    "objectives": [
+      "Determine the optimum depth of subsoil replacement over sodic mine spoil required to sustain agricultural capability.",
+      "Examine long-term changes in soil quality parameters including salinity and sodicity in reclaimed coal mine soils."
+    ],
+    "methods": [
+      "Established research plots with varying subsoil thickness treatments overlain with topsoil at a reclaimed coal mine site.",
+      "Monitored soil quality parameters including pH, electrical conductivity, total dissolved salts, sodium adsorption ratio, and soluble sodium over multiple decades.",
+      "Compared historical soil quality data from the 1980s with resampled data from 2013 to assess long-term changes."
+    ],
+    "results": [
+      "Root zone soil quality improved over time with significant decreases in electrical conductivity, total dissolved salts, sodium adsorption ratio, and sodium concentration.",
+      "Salt accumulation occurred predominantly through downward leaching with some contribution from upward migration of sodium from underlying spoil.",
+      "A minimum of 25 cm subsoil and 15 cm topsoil are required for effective mitigation of salinity and sodicity in reconstructed soils."
+    ],
+    "research_subject": "Long-term soil salinity and sodicity changes in reclaimed coal mine soils"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Elevated salinity and sodicity pose significant challenges to the reclamation of surface-mined coal sites in the Alberta Plains region.\",\n    \"There is a need to determine the optimum depth of subsoil replacement to sustain agricultural capability in reclaimed coal mine sites.\"\n  ],\n  \"objectives\": [\n    \"Investigate the long-term changes in soil salinity as influenced by subsoil thickness in a reclaimed coal mine.\",\n    \"Determine the minimum subsoil thickness required to mitigate salinity and sodicity in reconstructed soils.\"\n  ],\n  \"methods\": [\n    \"Establish research plots with varying subsoil thicknesses and monitor soil parameters over time.\",\n    \"Compare historical means from the 1980s with resampled data from 2013 to examine long-term changes in soil quality.\"\n  ],\n  \"results\": [\n    \"Soil quality in the root zone improved over time in all treatments, with significant decreases in EC, TDS, SAR, and Na concentration.\",\n    \"A minimum of 25 cm subsoil and 15 cm topsoil is required to mitigate salinity and sodicity in reconstructed soils.\"\n  ],\n  \"research_subject\": \"Soil salinity and sodicity in reclaimed coal mine sites\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Elevated salinity and sodicity are major challenges to reclamation of surface-mined coal sites in the Alberta Plains region.\",\n    \"There is a need to determine an optimum depth of subsoil replacement over sodic mine spoil required to sustain agricultural capability.\"\n  ],\n  \"objectives\": [\n    \"Establish research plots with varied subsoil thickness to monitor changes in soil quality over time.\",\n    \"Determine the minimum subsoil and topsoil thickness required for mitigating salinity and sodicity in reconstructed soils.\"\n  ],\n  \"methods\": [\n    \"Established research plots at the Battle River Coal Mine with varied subsoil thickness, overlain with 15 cm topsoil.\",\n    \"Monitored key soil parameters such as pH, electrical conductivity, total dissolved salts, sodium adsorption ratio, and soluble Na over time.\",\n    \"Compared the soil quality results from 2013 with the historical means for the 1980s.\"\n  ],\n  \"results\": [\n    \"The soil quality of the root zone improved over time in all treatments as key parameters decreased significantly between the 1980s and 2013.\",\n    \"Salt accumulation was predominantly by downward leaching, but with contribution by upward migration of Na from the underlying spoil.\",\n    \"A minimum of 25 cm subsoil and 15 cm topsoil are required for mitigating salinity and sodicity in these reconstructed soils.\"\n  ],\n  \"research_subject\": \"Long-term changes in soil salinity in a reclaimed coal mine influenced by subsoil thickness\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Elevated salinity and sodicity pose major challenges to the reclamation of surface-mined coal sites in the Alberta Plains region.\",\n    \"There is a need to determine optimal subsoil replacement depths over sodic mine spoil to sustain agricultural capability in reclaimed areas.\"\n  ],\n  \"objectives\": [\n    \"Determine the optimum depth of subsoil replacement over sodic mine spoil required to sustain agricultural capability.\",\n    \"Examine long-term changes in soil quality parameters including salinity and sodicity in reclaimed coal mine soils.\"\n  ],\n  \"methods\": [\n    \"Established research plots with varying subsoil thickness treatments overlain with topsoil at a reclaimed coal mine site.\",\n    \"Monitored soil quality parameters including pH, electrical conductivity, total dissolved salts, sodium adsorption ratio, and soluble sodium over multiple decades.\",\n    \"Compared historical soil quality data from the 1980s with resampled data from 2013 to assess long-term changes.\"\n  ],\n  \"results\": [\n    \"Root zone soil quality improved over time with significant decreases in electrical conductivity, total dissolved salts, sodium adsorption ratio, and sodium concentration.\",\n    \"Salt accumulation occurred predominantly through downward leaching with some contribution from upward migration of sodium from underlying spoil.\",\n    \"A minimum of 25 cm subsoil and 15 cm topsoil are required for effective mitigation of salinity and sodicity in reconstructed soils.\"\n  ],\n  \"research_subject\": \"Long-term soil salinity and sodicity changes in reclaimed coal mine soils\"\n}\n```"
+}

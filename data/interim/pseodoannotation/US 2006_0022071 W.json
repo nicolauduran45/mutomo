@@ -1,0 +1,43 @@
+{
+  "index": 97,
+  "title": "METHODS FOR DETERMINING RESISTANCE OR SUSCEPTIBILITY TO HIV ENTRY INHIBITORS",
+  "abstract": "The invention provides a method for determining whether a human immunodeficiency virus is likely to be more resistant to a viral entry inhibitor than a reference HIV. In certain aspects, the methods comprise comparing the length of one or more variable regions of an envelope protein of the HIV or a number of glycosylation sites on the envelope protein of the HIV to a length of one or more corresponding variable regions of an envelope protein of the reference HIV or a number of glycosylation sites on the envelope protein of the reference HIV, wherein the HIV is likely to be more resistant to the CD4 binding site entry inhibitor than the reference HIV when the HIV has longer variable regions than the reference HIV or the HIV has more glycosylation sites than the reference HIV.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to determine the resistance or susceptibility of HIV to viral entry inhibitors to effectively treat the disease.",
+      "Understanding the factors that contribute to HIV resistance to entry inhibitors can help in developing more effective treatments."
+    ],
+    "objectives": [
+      "Develop a method to determine whether a human immunodeficiency virus is likely to be more resistant to a viral entry inhibitor than a reference HIV."
+    ],
+    "methods": [
+      "Compare the length of variable regions of an envelope protein of the HIV to a reference HIV.",
+      "Compare the number of glycosylation sites on the envelope protein of the HIV to a reference HIV."
+    ],
+    "results": [
+      "Accurately predict the likelihood of HIV resistance to CD4 binding site entry inhibitors.",
+      "Enable more effective treatment of HIV by identifying viruses that are likely to be resistant to certain entry inhibitors."
+    ],
+    "research_subject": "Determining HIV resistance to viral entry inhibitors"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for methods to determine the resistance or susceptibility of HIV to viral entry inhibitors."
+    ],
+    "objectives": [
+      "Develop a method to determine if a human immunodeficiency virus (HIV) is likely to be more resistant to a viral entry inhibitor than a reference HIV."
+    ],
+    "methods": [
+      "Compare the length of one or more variable regions of an envelope protein of the HIV or the number of glycosylation sites on the envelope protein of the HIV to a reference HIV.",
+      "Determine the resistance of the HIV to the CD4 binding site entry inhibitor based on the comparison."
+    ],
+    "results": [
+      "Provide a method to predict the resistance of HIV to viral entry inhibitors, which can guide the selection of treatment strategies."
+    ],
+    "research_subject": "Methods for determining resistance or susceptibility to HIV entry inhibitors"
+  },
+  "anthropic_json": null,
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to determine the resistance or susceptibility of HIV to viral entry inhibitors to effectively treat the disease.\",\n    \"Understanding the factors that contribute to HIV resistance to entry inhibitors can help in developing more effective treatments.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to determine whether a human immunodeficiency virus is likely to be more resistant to a viral entry inhibitor than a reference HIV.\"\n  ],\n  \"methods\": [\n    \"Compare the length of variable regions of an envelope protein of the HIV to a reference HIV.\",\n    \"Compare the number of glycosylation sites on the envelope protein of the HIV to a reference HIV.\"\n  ],\n  \"results\": [\n    \"Accurately predict the likelihood of HIV resistance to CD4 binding site entry inhibitors.\",\n    \"Enable more effective treatment of HIV by identifying viruses that are likely to be resistant to certain entry inhibitors.\"\n  ],\n  \"research_subject\": \"Determining HIV resistance to viral entry inhibitors\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for methods to determine the resistance or susceptibility of HIV to viral entry inhibitors.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to determine if a human immunodeficiency virus (HIV) is likely to be more resistant to a viral entry inhibitor than a reference HIV.\"\n  ],\n  \"methods\": [\n    \"Compare the length of one or more variable regions of an envelope protein of the HIV or the number of glycosylation sites on the envelope protein of the HIV to a reference HIV.\",\n    \"Determine the resistance of the HIV to the CD4 binding site entry inhibitor based on the comparison.\"\n  ],\n  \"results\": [\n    \"Provide a method to predict the resistance of HIV to viral entry inhibitors, which can guide the selection of treatment strategies.\"\n  ],\n  \"research_subject\": \"Methods for determining resistance or susceptibility to HIV entry inhibitors\"\n}\n```",
+  "anthropic_raw": ""
+}

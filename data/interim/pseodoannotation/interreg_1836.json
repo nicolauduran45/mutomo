@@ -1,0 +1,73 @@
+{
+  "index": 425,
+  "title": "Integrated territorial strategies for Services of General Interest",
+  "abstract": "Services of general interest (SGI) are in the competence of authorities at different levels. Up to now, authorities and the service providers tend to have a strictly sectorial approach to SGI which leads to isolated solutions, neither taking benefit of potential synergies nor optimizing the expense of public money. Therefore there is a need for a better horizontal and vertical coordination of SGI and for their inclusion into integrated territorial strategies. _x000D_ _x000D_ The main objective of Intesi is to assure the delivery of SGI in the long run via integrated, territorial strategies and policies. The Intesi project includes the following steps: _x000D_ 1) collection and analysis of all SGI strategies in the entire alpine space that are relevant for SGI delivery _x000D_ 2) regional profiles of 10 test areas (TAs) will be established in order to assess the status quo of SGI delivery and to detect challenges, needs and potentials in relation to SGI _x000D_ 3) A selection of new pilot activities (PA) will be implemented or existing ones supported in order to test strategies in place and to improve the offer of SGI delivery according to stakeholder needs _x000D_ 4) on the base of the preceeding steps, recommendations will be elaborated on how combining existing sectoral strategies into integrated territorial SGI strategies. _x000D_ 5) Via the Intesi think tank, SGI service providers, authorities and other relevant stakeholders will come together and exchange on SGI issues. _x000D_ _x000D_ This way the project results are fed into the implementation level and the political, strategical level. An effect which is also supported by the integration of policy relevant institutions as observers._x000D_ _x000D_ Intesi goes, with its focus on strategy development and transfer to policies, beyond other SGI projects such as PUSEMOR and ACCESS which had the implementation of pilot activities in the center of their interest.",
+  "llama_json": {
+    "motivations": [
+      "Services of General Interest (SGI) are often managed in isolation, leading to inefficiencies and a lack of coordination between authorities and service providers.",
+      "There is a need for integrated territorial strategies to optimize the delivery of SGI and make the most of public resources."
+    ],
+    "objectives": [
+      "Develop and implement integrated territorial strategies for the delivery of Services of General Interest (SGI).",
+      "Improve the coordination and efficiency of SGI provision through better horizontal and vertical coordination.",
+      "Assure the long-term delivery of SGI through sustainable policies and strategies."
+    ],
+    "methods": [
+      "Collect and analyze existing SGI strategies across the Alpine space.",
+      "Establish regional profiles to assess the status quo of SGI delivery and identify challenges and needs.",
+      "Implement and test pilot activities to improve SGI delivery and inform strategy development."
+    ],
+    "results": [
+      "Improved coordination and efficiency in the delivery of Services of General Interest.",
+      "Enhanced sustainability and long-term provision of SGI through integrated territorial strategies.",
+      "Increased stakeholder engagement and cooperation through the Intesi think tank."
+    ],
+    "research_subject": "Integrated territorial strategies for Services of General Interest"
+  },
+  "openai_json": {
+    "motivations": [
+      "Services of general interest (SGI) are often managed with a sectorial approach, leading to isolated solutions and inefficient use of public funds.",
+      "There is a need for better horizontal and vertical coordination of SGI and their inclusion into integrated territorial strategies."
+    ],
+    "objectives": [
+      "Ensure long-term delivery of SGI through integrated territorial strategies and policies.",
+      "Collect and analyze existing SGI strategies across the alpine space, and establish regional profiles of test areas to assess the status quo of SGI delivery.",
+      "Implement new pilot activities to test strategies and improve SGI delivery, and develop recommendations for integrating existing sectoral strategies."
+    ],
+    "methods": [
+      "Collect and analyze all relevant SGI strategies across the alpine space.",
+      "Establish regional profiles of 10 test areas to assess the current state of SGI delivery and identify challenges, needs, and potentials.",
+      "Implement new pilot activities or support existing ones to test and improve SGI delivery strategies."
+    ],
+    "results": [
+      "Improved coordination and efficiency in the delivery of Services of General Interest.",
+      "Development of integrated territorial strategies for SGI, informed by comprehensive analysis and pilot activities.",
+      "Enhanced stakeholder engagement and policy integration through the Intesi think tank."
+    ],
+    "research_subject": "Integrated territorial strategies for Services of General Interest"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current sectorial approaches to Services of General Interest (SGI) result in isolated solutions that fail to leverage synergies and optimize public spending.",
+      "There is insufficient horizontal and vertical coordination among authorities and service providers responsible for SGI delivery."
+    ],
+    "objectives": [
+      "Ensure long-term delivery of SGI through integrated territorial strategies and policies.",
+      "Develop recommendations for combining existing sectoral strategies into comprehensive territorial SGI strategies."
+    ],
+    "methods": [
+      "Collect and analyze SGI strategies across the alpine space and establish regional profiles of test areas to assess current SGI delivery.",
+      "Implement and support pilot activities to test strategies and improve SGI delivery based on stakeholder needs.",
+      "Establish an Intesi think tank to facilitate exchange among SGI service providers, authorities, and stakeholders."
+    ],
+    "results": [
+      "Improved coordination and integration of SGI delivery through territorial strategies that optimize public resources.",
+      "Enhanced SGI service provision that better meets stakeholder needs through tested pilot activities.",
+      "Transfer of project findings to both implementation and policy levels through stakeholder engagement and institutional integration."
+    ],
+    "research_subject": "Integrated territorial strategies for Services of General Interest in the alpine space"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Services of General Interest (SGI) are often managed in isolation, leading to inefficiencies and a lack of coordination between authorities and service providers.\",\n    \"There is a need for integrated territorial strategies to optimize the delivery of SGI and make the most of public resources.\"\n  ],\n  \"objectives\": [\n    \"Develop and implement integrated territorial strategies for the delivery of Services of General Interest (SGI).\",\n    \"Improve the coordination and efficiency of SGI provision through better horizontal and vertical coordination.\",\n    \"Assure the long-term delivery of SGI through sustainable policies and strategies.\"\n  ],\n  \"methods\": [\n    \"Collect and analyze existing SGI strategies across the Alpine space.\",\n    \"Establish regional profiles to assess the status quo of SGI delivery and identify challenges and needs.\",\n    \"Implement and test pilot activities to improve SGI delivery and inform strategy development.\"\n  ],\n  \"results\": [\n    \"Improved coordination and efficiency in the delivery of Services of General Interest.\",\n    \"Enhanced sustainability and long-term provision of SGI through integrated territorial strategies.\",\n    \"Increased stakeholder engagement and cooperation through the Intesi think tank.\"\n  ],\n  \"research_subject\": \"Integrated territorial strategies for Services of General Interest\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Services of general interest (SGI) are often managed with a sectorial approach, leading to isolated solutions and inefficient use of public funds.\",\n    \"There is a need for better horizontal and vertical coordination of SGI and their inclusion into integrated territorial strategies.\"\n  ],\n  \"objectives\": [\n    \"Ensure long-term delivery of SGI through integrated territorial strategies and policies.\",\n    \"Collect and analyze existing SGI strategies across the alpine space, and establish regional profiles of test areas to assess the status quo of SGI delivery.\",\n    \"Implement new pilot activities to test strategies and improve SGI delivery, and develop recommendations for integrating existing sectoral strategies.\"\n  ],\n  \"methods\": [\n    \"Collect and analyze all relevant SGI strategies across the alpine space.\",\n    \"Establish regional profiles of 10 test areas to assess the current state of SGI delivery and identify challenges, needs, and potentials.\",\n    \"Implement new pilot activities or support existing ones to test and improve SGI delivery strategies.\"\n  ],\n  \"results\": [\n    \"Improved coordination and efficiency in the delivery of Services of General Interest.\",\n    \"Development of integrated territorial strategies for SGI, informed by comprehensive analysis and pilot activities.\",\n    \"Enhanced stakeholder engagement and policy integration through the Intesi think tank.\"\n  ],\n  \"research_subject\": \"Integrated territorial strategies for Services of General Interest\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current sectorial approaches to Services of General Interest (SGI) result in isolated solutions that fail to leverage synergies and optimize public spending.\",\n    \"There is insufficient horizontal and vertical coordination among authorities and service providers responsible for SGI delivery.\"\n  ],\n  \"objectives\": [\n    \"Ensure long-term delivery of SGI through integrated territorial strategies and policies.\",\n    \"Develop recommendations for combining existing sectoral strategies into comprehensive territorial SGI strategies.\"\n  ],\n  \"methods\": [\n    \"Collect and analyze SGI strategies across the alpine space and establish regional profiles of test areas to assess current SGI delivery.\",\n    \"Implement and support pilot activities to test strategies and improve SGI delivery based on stakeholder needs.\",\n    \"Establish an Intesi think tank to facilitate exchange among SGI service providers, authorities, and stakeholders.\"\n  ],\n  \"results\": [\n    \"Improved coordination and integration of SGI delivery through territorial strategies that optimize public resources.\",\n    \"Enhanced SGI service provision that better meets stakeholder needs through tested pilot activities.\",\n    \"Transfer of project findings to both implementation and policy levels through stakeholder engagement and institutional integration.\"\n  ],\n  \"research_subject\": \"Integrated territorial strategies for Services of General Interest in the alpine space\"\n}\n```"
+}

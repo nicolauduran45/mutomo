@@ -1,0 +1,68 @@
+{
+  "index": 309,
+  "title": "Ring-Opening Reactions of Methylcyclopentane over Metal Catalysts, M = Pt, Rh, Ir, and Pd: A Mechanistic Study from First-Principles Calculations",
+  "abstract": "Using density functional calculations we studied the conversion of methylcyclopentane to its various ring-opening products, branched and unbranched hexanes, that is, 2-methylpentane and 3-methylpentane, as well as n-hexane. We examined four metal catalysts, M = Pt, Rh, Ir, and Pd, using slab models of flat M(111) and stepped M(211) surfaces, to describe terrace-rich large and defect-rich small M particles, respectively. As C–H bond activation and formation is rather independent of the particle structure, we focused on C–C bond scission which is expected to be structure sensitive. The barriers of C–C bond scission indeed vary from ∼20 kJ mol–1 to ∼140 kJ mol–1 on various sites of these metal surfaces. In general, lower activation energies were calculated for Rh and Ir surfaces, in agreement with the higher experimental activity of these two metals compared to Pt and Pd. From the calculated C–C bond breaking barriers, we were able to rationalize the selectivity toward different ring-opening products, as obs...",
+  "llama_json": {
+    "motivations": [
+      "Understanding the mechanisms of ring-opening reactions of methylcyclopentane over metal catalysts is crucial for optimizing the production of specific hexane products.",
+      "There is a need to elucidate the role of metal catalysts and their surface structures in influencing the selectivity and activity of ring-opening reactions."
+    ],
+    "objectives": [
+      "Investigate the conversion of methylcyclopentane to various ring-opening products over different metal catalysts (Pt, Rh, Ir, and Pd) using first-principles calculations.",
+      "Examine the effects of metal surface structures (flat and stepped) on the activation energies of C–C bond scission and the resulting product selectivity."
+    ],
+    "methods": [
+      "Employ density functional calculations to study the reaction mechanisms and activation energies of C–C bond scission on different metal surfaces.",
+      "Use slab models of flat M(111) and stepped M(211) surfaces to represent terrace-rich large and defect-rich small metal particles, respectively."
+    ],
+    "results": [
+      "Determine the activation energies of C–C bond scission on various metal surfaces and rationalize the selectivity toward different ring-opening products.",
+      "Identify the metal catalysts (Rh and Ir) with lower activation energies and higher experimental activity compared to Pt and Pd."
+    ],
+    "research_subject": "Mechanistic study of ring-opening reactions of methylcyclopentane over metal catalysts using first-principles calculations"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the conversion of methylcyclopentane to its ring-opening products over different metal catalysts is crucial for optimizing chemical reactions.",
+      "There is a need to study the structure sensitivity of C-C bond scission in these reactions."
+    ],
+    "objectives": [
+      "Investigate the conversion of methylcyclopentane to branched and unbranched hexanes over four metal catalysts using density functional calculations.",
+      "Examine the effect of different metal surfaces on the activation energies and selectivity towards different ring-opening products."
+    ],
+    "methods": [
+      "Use density functional calculations to study the conversion of methylcyclopentane over different metal catalysts.",
+      "Employ slab models of flat M(111) and stepped M(211) surfaces to represent different particle structures.",
+      "Focus on C-C bond scission and its activation energy on different metal surfaces."
+    ],
+    "results": [
+      "Identified variation in C-C bond scission barriers across different metal surfaces.",
+      "Found lower activation energies for Rh and Ir surfaces, aligning with their higher experimental activity compared to Pt and Pd.",
+      "Rationalized the selectivity towards different ring-opening products based on calculated C-C bond breaking barriers."
+    ],
+    "research_subject": "Mechanistic study of ring-opening reactions of methylcyclopentane over different metal catalysts"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the mechanism of methylcyclopentane ring-opening reactions is crucial for optimizing catalytic processes in petroleum refining and fuel production.",
+      "The structure sensitivity of C-C bond scission in ring-opening reactions across different metal catalysts requires systematic investigation to improve catalyst design."
+    ],
+    "objectives": [
+      "Investigate the conversion mechanisms of methylcyclopentane to various ring-opening products including branched and unbranched hexanes using first-principles calculations.",
+      "Compare the catalytic performance and selectivity of Pt, Rh, Ir, and Pd metals for ring-opening reactions on different surface structures."
+    ],
+    "methods": [
+      "Employ density functional theory calculations to study reaction mechanisms on flat M(111) and stepped M(211) surfaces representing terrace-rich and defect-rich catalyst particles.",
+      "Calculate activation energy barriers for C-C bond scission on various metal surface sites to understand structure sensitivity."
+    ],
+    "results": [
+      "C-C bond scission barriers vary significantly from approximately 20 to 140 kJ/mol across different metal surfaces and sites.",
+      "Rh and Ir surfaces show lower activation energies compared to Pt and Pd, consistent with their higher experimental catalytic activity.",
+      "The calculated C-C bond breaking barriers successfully rationalize the selectivity toward different ring-opening products."
+    ],
+    "research_subject": "Mechanistic study of methylcyclopentane ring-opening reactions over metal catalysts using density functional theory"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the mechanisms of ring-opening reactions of methylcyclopentane over metal catalysts is crucial for optimizing the production of specific hexane products.\",\n    \"There is a need to elucidate the role of metal catalysts and their surface structures in influencing the selectivity and activity of ring-opening reactions.\"\n  ],\n  \"objectives\": [\n    \"Investigate the conversion of methylcyclopentane to various ring-opening products over different metal catalysts (Pt, Rh, Ir, and Pd) using first-principles calculations.\",\n    \"Examine the effects of metal surface structures (flat and stepped) on the activation energies of C–C bond scission and the resulting product selectivity.\"\n  ],\n  \"methods\": [\n    \"Employ density functional calculations to study the reaction mechanisms and activation energies of C–C bond scission on different metal surfaces.\",\n    \"Use slab models of flat M(111) and stepped M(211) surfaces to represent terrace-rich large and defect-rich small metal particles, respectively.\"\n  ],\n  \"results\": [\n    \"Determine the activation energies of C–C bond scission on various metal surfaces and rationalize the selectivity toward different ring-opening products.\",\n    \"Identify the metal catalysts (Rh and Ir) with lower activation energies and higher experimental activity compared to Pt and Pd.\"\n  ],\n  \"research_subject\": \"Mechanistic study of ring-opening reactions of methylcyclopentane over metal catalysts using first-principles calculations\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the conversion of methylcyclopentane to its ring-opening products over different metal catalysts is crucial for optimizing chemical reactions.\",\n    \"There is a need to study the structure sensitivity of C-C bond scission in these reactions.\"\n  ],\n  \"objectives\": [\n    \"Investigate the conversion of methylcyclopentane to branched and unbranched hexanes over four metal catalysts using density functional calculations.\",\n    \"Examine the effect of different metal surfaces on the activation energies and selectivity towards different ring-opening products.\"\n  ],\n  \"methods\": [\n    \"Use density functional calculations to study the conversion of methylcyclopentane over different metal catalysts.\",\n    \"Employ slab models of flat M(111) and stepped M(211) surfaces to represent different particle structures.\",\n    \"Focus on C-C bond scission and its activation energy on different metal surfaces.\"\n  ],\n  \"results\": [\n    \"Identified variation in C-C bond scission barriers across different metal surfaces.\",\n    \"Found lower activation energies for Rh and Ir surfaces, aligning with their higher experimental activity compared to Pt and Pd.\",\n    \"Rationalized the selectivity towards different ring-opening products based on calculated C-C bond breaking barriers.\"\n  ],\n  \"research_subject\": \"Mechanistic study of ring-opening reactions of methylcyclopentane over different metal catalysts\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the mechanism of methylcyclopentane ring-opening reactions is crucial for optimizing catalytic processes in petroleum refining and fuel production.\",\n    \"The structure sensitivity of C-C bond scission in ring-opening reactions across different metal catalysts requires systematic investigation to improve catalyst design.\"\n  ],\n  \"objectives\": [\n    \"Investigate the conversion mechanisms of methylcyclopentane to various ring-opening products including branched and unbranched hexanes using first-principles calculations.\",\n    \"Compare the catalytic performance and selectivity of Pt, Rh, Ir, and Pd metals for ring-opening reactions on different surface structures.\"\n  ],\n  \"methods\": [\n    \"Employ density functional theory calculations to study reaction mechanisms on flat M(111) and stepped M(211) surfaces representing terrace-rich and defect-rich catalyst particles.\",\n    \"Calculate activation energy barriers for C-C bond scission on various metal surface sites to understand structure sensitivity.\"\n  ],\n  \"results\": [\n    \"C-C bond scission barriers vary significantly from approximately 20 to 140 kJ/mol across different metal surfaces and sites.\",\n    \"Rh and Ir surfaces show lower activation energies compared to Pt and Pd, consistent with their higher experimental catalytic activity.\",\n    \"The calculated C-C bond breaking barriers successfully rationalize the selectivity toward different ring-opening products.\"\n  ],\n  \"research_subject\": \"Mechanistic study of methylcyclopentane ring-opening reactions over metal catalysts using density functional theory\"\n}\n```"
+}

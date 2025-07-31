@@ -1,0 +1,72 @@
+{
+  "index": 212,
+  "title": "Babyminder: automatic diagnosis of neurocognitive impairment in infants",
+  "abstract": "Each year, millions of infants are born with neurodevelopment disorders resulting in cognitive deficits. Although infants are tested for their low-level (visual and auditory) abilities in the health care system, no standard tools exist for evaluating the development of cognitive functions, due to the absence of verbal report and explicit behaviour. Converging evidence now suggests that neural markers obtained from electroencephalographic (EEG) offer a valid approach for tracking the development of cognitive functions in the infant brain. The BabyMinder provides a proof-of-concept for a novel EEG portable system combined with a sensory stimulation application to track normal and impaired neurocognitive processing in infants. Its main purpose will be to help the diagnosis of neurodevelopmental disorders. The BabyMinder will be fully embedded in a wearable system and will feature active electrodes, which provide reliable EEG signals, yet do not require any electrolyte gel or humidification. Although several low-cost and fully portable systems have recently been developed for adults, none of these portable systems has been adapted to infant populations. It will also consist of a functional localizer for the automatic tracking of neurocognitive components. This functional localizer will consist of a stimulation protocol with various types of stimuli presented every few seconds, tapping specific levels of representation while the EEG device will monitor the deployment of dedicated neurocognitive components in real-time. The whole procedure will be embedded in children-friendly animations to keep infants interested. In time, a large database of participants will be collected and combined with state-of-the-art machine learning algorithms using a big data approach, improving the classification of normal vs. impaired neurocognitive processes. We aim to make the BabyMinder a standard tool for the diagnosis of neurodevelopmental disorders in the future.",
+  "llama_json": {
+    "motivations": [
+      "Millions of infants are born with neurodevelopment disorders resulting in cognitive deficits, but there are no standard tools for evaluating cognitive function development in infants.",
+      "Current methods for assessing infant cognitive development are limited due to the absence of verbal report and explicit behavior."
+    ],
+    "objectives": [
+      "Develop a novel EEG portable system combined with a sensory stimulation application to track normal and impaired neurocognitive processing in infants.",
+      "Create a wearable system with active electrodes that provides reliable EEG signals without requiring electrolyte gel or humidification.",
+      "Establish a standard tool for the diagnosis of neurodevelopmental disorders in infants using the BabyMinder system."
+    ],
+    "methods": [
+      "Design a functional localizer with a stimulation protocol to automatically track neurocognitive components in infants.",
+      "Utilize machine learning algorithms and a big data approach to improve the classification of normal vs. impaired neurocognitive processes.",
+      "Embed the procedure in children-friendly animations to keep infants engaged during the assessment."
+    ],
+    "results": [
+      "Enable early diagnosis of neurodevelopmental disorders in infants using the BabyMinder system.",
+      "Improve the accuracy of neurocognitive impairment diagnosis through the use of neural markers obtained from EEG.",
+      "Establish a large database of participants to support the development of more effective diagnostic tools."
+    ],
+    "research_subject": "Automatic diagnosis of neurocognitive impairment in infants using EEG and machine learning"
+  },
+  "openai_json": {
+    "motivations": [
+      "Millions of infants are born with neurodevelopment disorders resulting in cognitive deficits, but no standard tools exist for evaluating the development of cognitive functions in infants.",
+      "Current EEG systems for tracking neurocognitive development are not adapted for infant populations and require inconvenient procedures like the use of electrolyte gel or humidification."
+    ],
+    "objectives": [
+      "Develop the BabyMinder, a novel, portable EEG system combined with a sensory stimulation application to track normal and impaired neurocognitive processing in infants.",
+      "Create a functional localizer for the automatic tracking of neurocognitive components, embedded in children-friendly animations to keep infants interested.",
+      "Collect a large database of participants and apply machine learning algorithms to improve the classification of normal vs. impaired neurocognitive processes."
+    ],
+    "methods": [
+      "Design and implement the BabyMinder, a wearable EEG system with active electrodes that do not require electrolyte gel or humidification.",
+      "Develop a stimulation protocol with various types of stimuli presented every few seconds, while the EEG device monitors the deployment of neurocognitive components in real-time.",
+      "Collect EEG data from a large number of infants and apply machine learning algorithms to classify normal and impaired neurocognitive processes."
+    ],
+    "results": [
+      "Provide a proof-of-concept for a novel, portable EEG system for tracking neurocognitive development in infants.",
+      "Enable automatic tracking of neurocognitive components in infants, making the diagnosis of neurodevelopmental disorders more efficient.",
+      "Establish a large database of infant EEG data, improving the understanding and classification of normal and impaired neurocognitive processes."
+    ],
+    "research_subject": "Automatic diagnosis of neurocognitive impairment in infants using a novel, portable EEG system"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Millions of infants are born annually with neurodevelopmental disorders causing cognitive deficits, yet no standard tools exist for evaluating cognitive function development in infants.",
+      "Current infant testing is limited to low-level sensory abilities due to the absence of verbal report and explicit behavior in infants."
+    ],
+    "objectives": [
+      "Develop a portable EEG system combined with sensory stimulation to track normal and impaired neurocognitive processing in infants.",
+      "Create a standard diagnostic tool for neurodevelopmental disorders in infants using neural markers from EEG recordings."
+    ],
+    "methods": [
+      "Design a wearable EEG system with active electrodes that don't require gel or humidification, adapted specifically for infant populations.",
+      "Implement a functional localizer with stimulation protocols presenting various stimuli to track neurocognitive components in real-time.",
+      "Apply machine learning algorithms and big data approaches to classify normal versus impaired neurocognitive processes."
+    ],
+    "results": [
+      "Enable early and accurate diagnosis of neurodevelopmental disorders in infants through automated EEG-based assessment.",
+      "Establish the BabyMinder as a standard diagnostic tool for infant neurocognitive evaluation in healthcare settings."
+    ],
+    "research_subject": "Portable EEG-based system for automatic diagnosis of neurocognitive impairment in infants"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Millions of infants are born with neurodevelopment disorders resulting in cognitive deficits, but there are no standard tools for evaluating cognitive function development in infants.\",\n    \"Current methods for assessing infant cognitive development are limited due to the absence of verbal report and explicit behavior.\"\n  ],\n  \"objectives\": [\n    \"Develop a novel EEG portable system combined with a sensory stimulation application to track normal and impaired neurocognitive processing in infants.\",\n    \"Create a wearable system with active electrodes that provides reliable EEG signals without requiring electrolyte gel or humidification.\",\n    \"Establish a standard tool for the diagnosis of neurodevelopmental disorders in infants using the BabyMinder system.\"\n  ],\n  \"methods\": [\n    \"Design a functional localizer with a stimulation protocol to automatically track neurocognitive components in infants.\",\n    \"Utilize machine learning algorithms and a big data approach to improve the classification of normal vs. impaired neurocognitive processes.\",\n    \"Embed the procedure in children-friendly animations to keep infants engaged during the assessment.\"\n  ],\n  \"results\": [\n    \"Enable early diagnosis of neurodevelopmental disorders in infants using the BabyMinder system.\",\n    \"Improve the accuracy of neurocognitive impairment diagnosis through the use of neural markers obtained from EEG.\",\n    \"Establish a large database of participants to support the development of more effective diagnostic tools.\"\n  ],\n  \"research_subject\": \"Automatic diagnosis of neurocognitive impairment in infants using EEG and machine learning\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Millions of infants are born with neurodevelopment disorders resulting in cognitive deficits, but no standard tools exist for evaluating the development of cognitive functions in infants.\",\n    \"Current EEG systems for tracking neurocognitive development are not adapted for infant populations and require inconvenient procedures like the use of electrolyte gel or humidification.\"\n  ],\n  \"objectives\": [\n    \"Develop the BabyMinder, a novel, portable EEG system combined with a sensory stimulation application to track normal and impaired neurocognitive processing in infants.\",\n    \"Create a functional localizer for the automatic tracking of neurocognitive components, embedded in children-friendly animations to keep infants interested.\",\n    \"Collect a large database of participants and apply machine learning algorithms to improve the classification of normal vs. impaired neurocognitive processes.\"\n  ],\n  \"methods\": [\n    \"Design and implement the BabyMinder, a wearable EEG system with active electrodes that do not require electrolyte gel or humidification.\",\n    \"Develop a stimulation protocol with various types of stimuli presented every few seconds, while the EEG device monitors the deployment of neurocognitive components in real-time.\",\n    \"Collect EEG data from a large number of infants and apply machine learning algorithms to classify normal and impaired neurocognitive processes.\"\n  ],\n  \"results\": [\n    \"Provide a proof-of-concept for a novel, portable EEG system for tracking neurocognitive development in infants.\",\n    \"Enable automatic tracking of neurocognitive components in infants, making the diagnosis of neurodevelopmental disorders more efficient.\",\n    \"Establish a large database of infant EEG data, improving the understanding and classification of normal and impaired neurocognitive processes.\"\n  ],\n  \"research_subject\": \"Automatic diagnosis of neurocognitive impairment in infants using a novel, portable EEG system\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Millions of infants are born annually with neurodevelopmental disorders causing cognitive deficits, yet no standard tools exist for evaluating cognitive function development in infants.\",\n    \"Current infant testing is limited to low-level sensory abilities due to the absence of verbal report and explicit behavior in infants.\"\n  ],\n  \"objectives\": [\n    \"Develop a portable EEG system combined with sensory stimulation to track normal and impaired neurocognitive processing in infants.\",\n    \"Create a standard diagnostic tool for neurodevelopmental disorders in infants using neural markers from EEG recordings.\"\n  ],\n  \"methods\": [\n    \"Design a wearable EEG system with active electrodes that don't require gel or humidification, adapted specifically for infant populations.\",\n    \"Implement a functional localizer with stimulation protocols presenting various stimuli to track neurocognitive components in real-time.\",\n    \"Apply machine learning algorithms and big data approaches to classify normal versus impaired neurocognitive processes.\"\n  ],\n  \"results\": [\n    \"Enable early and accurate diagnosis of neurodevelopmental disorders in infants through automated EEG-based assessment.\",\n    \"Establish the BabyMinder as a standard diagnostic tool for infant neurocognitive evaluation in healthcare settings.\"\n  ],\n  \"research_subject\": \"Portable EEG-based system for automatic diagnosis of neurocognitive impairment in infants\"\n}\n```"
+}

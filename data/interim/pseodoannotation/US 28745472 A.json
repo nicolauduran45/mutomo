@@ -1,0 +1,63 @@
+{
+  "index": 66,
+  "title": "FUEL TANK FOR VEHICLES",
+  "abstract": "A fuel tank for vehicles, especially for passenger motor vehicles, in which a container is provided on the inside of the tank within the highest area thereof and located at least partially above the maximum filling height; the container is closed except for at least one opening of small cross section located at its bottom side and is provided with a connection extending additionally to the tank by way of a dome mounted on the tank; the portion of the connection leading from the dome to the container is constituted by a channel with a channel opening on the side of the dome disposed near the apex of the dome; a vent and pressure-release line for the tank system which projects out of the dome in the upward direction protrudes into the channel under formation of an annular gap of relatively small cross section which permits the ready passage therethrough of gas but which permits the passage therethrough of fuel only in small droplets.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for improved fuel tank designs in vehicles to address issues related to fuel filling, pressure release, and safety."
+    ],
+    "objectives": [
+      "Design a fuel tank system that incorporates a container within the tank for efficient fuel management and pressure release."
+    ],
+    "methods": [
+      "Implement a container within the fuel tank with a small opening at the bottom and a connection to the tank via a dome-mounted channel.",
+      "Utilize a vent and pressure-release line that projects out of the dome, creating an annular gap for gas passage while restricting fuel flow."
+    ],
+    "results": [
+      "Enhance fuel tank safety and efficiency by controlling fuel flow and pressure release.",
+      "Improve the overall design and functionality of fuel tanks for vehicles."
+    ],
+    "research_subject": "Fuel tank design for vehicles with improved pressure release and fuel management system"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an improved design of fuel tanks for vehicles, especially passenger motor vehicles, to enhance safety and efficiency."
+    ],
+    "objectives": [
+      "Design a fuel tank with an internal container located within the highest area of the tank and partially above the maximum filling height.",
+      "Incorporate a vent and pressure-release line in the tank system to allow for the passage of gas and fuel in small droplets."
+    ],
+    "methods": [
+      "The internal container is closed except for at least one opening of small cross section located at its bottom side.",
+      "A connection extending to the tank via a dome mounted on the tank is provided.",
+      "The vent and pressure-release line for the tank system projects out of the dome in the upward direction and protrudes into a channel, forming an annular gap of relatively small cross section."
+    ],
+    "results": [
+      "The new fuel tank design allows for the ready passage of gas and the passage of fuel only in small droplets, enhancing safety and efficiency."
+    ],
+    "research_subject": "Design of a fuel tank for vehicles"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Fuel tanks in vehicles require effective venting and pressure release systems to manage vapor buildup while preventing fuel spillage.",
+      "There is a need for improved fuel tank designs that can separate liquid fuel from gas vapors during venting operations."
+    ],
+    "objectives": [
+      "Design a fuel tank system that effectively separates gas vapors from liquid fuel during venting and pressure release operations.",
+      "Develop a container system within the fuel tank that prevents liquid fuel from escaping while allowing gas to pass through freely."
+    ],
+    "methods": [
+      "Install a closed container in the highest area of the tank above maximum filling height with a small opening at its bottom.",
+      "Create a channel connection system with an annular gap that permits gas passage but restricts liquid fuel to small droplets.",
+      "Integrate a vent and pressure-release line through a dome-mounted system on the tank."
+    ],
+    "results": [
+      "The fuel tank system enables effective gas venting while minimizing liquid fuel escape.",
+      "The design provides improved safety and efficiency in vehicle fuel tank pressure management."
+    ],
+    "research_subject": "Vehicle fuel tank venting and pressure release system design"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved fuel tank designs in vehicles to address issues related to fuel filling, pressure release, and safety.\"\n  ],\n  \"objectives\": [\n    \"Design a fuel tank system that incorporates a container within the tank for efficient fuel management and pressure release.\"\n  ],\n  \"methods\": [\n    \"Implement a container within the fuel tank with a small opening at the bottom and a connection to the tank via a dome-mounted channel.\",\n    \"Utilize a vent and pressure-release line that projects out of the dome, creating an annular gap for gas passage while restricting fuel flow.\"\n  ],\n  \"results\": [\n    \"Enhance fuel tank safety and efficiency by controlling fuel flow and pressure release.\",\n    \"Improve the overall design and functionality of fuel tanks for vehicles.\"\n  ],\n  \"research_subject\": \"Fuel tank design for vehicles with improved pressure release and fuel management system\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved design of fuel tanks for vehicles, especially passenger motor vehicles, to enhance safety and efficiency.\"\n  ],\n  \"objectives\": [\n    \"Design a fuel tank with an internal container located within the highest area of the tank and partially above the maximum filling height.\",\n    \"Incorporate a vent and pressure-release line in the tank system to allow for the passage of gas and fuel in small droplets.\"\n  ],\n  \"methods\": [\n    \"The internal container is closed except for at least one opening of small cross section located at its bottom side.\",\n    \"A connection extending to the tank via a dome mounted on the tank is provided.\",\n    \"The vent and pressure-release line for the tank system projects out of the dome in the upward direction and protrudes into a channel, forming an annular gap of relatively small cross section.\"\n  ],\n  \"results\": [\n    \"The new fuel tank design allows for the ready passage of gas and the passage of fuel only in small droplets, enhancing safety and efficiency.\"\n  ],\n  \"research_subject\": \"Design of a fuel tank for vehicles\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Fuel tanks in vehicles require effective venting and pressure release systems to manage vapor buildup while preventing fuel spillage.\",\n    \"There is a need for improved fuel tank designs that can separate liquid fuel from gas vapors during venting operations.\"\n  ],\n  \"objectives\": [\n    \"Design a fuel tank system that effectively separates gas vapors from liquid fuel during venting and pressure release operations.\",\n    \"Develop a container system within the fuel tank that prevents liquid fuel from escaping while allowing gas to pass through freely.\"\n  ],\n  \"methods\": [\n    \"Install a closed container in the highest area of the tank above maximum filling height with a small opening at its bottom.\",\n    \"Create a channel connection system with an annular gap that permits gas passage but restricts liquid fuel to small droplets.\",\n    \"Integrate a vent and pressure-release line through a dome-mounted system on the tank.\"\n  ],\n  \"results\": [\n    \"The fuel tank system enables effective gas venting while minimizing liquid fuel escape.\",\n    \"The design provides improved safety and efficiency in vehicle fuel tank pressure management.\"\n  ],\n  \"research_subject\": \"Vehicle fuel tank venting and pressure release system design\"\n}\n```"
+}

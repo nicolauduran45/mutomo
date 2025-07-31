@@ -1,0 +1,67 @@
+{
+  "index": 252,
+  "title": "Inequality and Exclusion in the New Era of Capital",
+  "abstract": "The IDS 50th Anniversary Conference held in July 2016 revisited the age-old debate concerning the changing nature of the relationship between states, markets and society in relation to the problem of inequality. The deliberations at the conference made it clear that inequalities go beyond disparities between households in their income or asset ownership, to intersecting inequalities along the lines of age, gender, location and access to public services such as healthcare and education. This article addresses three areas of inequality that were given pre-eminence at the conference, namely, gender inequality, youth unemployment and social protection. The conclusion recaptures the main argument and suggests a rebalancing of power between states, markets and society because the key problem is that market forces have become too dominant.",
+  "llama_json": {
+    "motivations": [
+      "Inequality persists and goes beyond income disparities, intersecting with age, gender, location, and access to public services.",
+      "The dominance of market forces exacerbates inequality, necessitating a rebalancing of power between states, markets, and society."
+    ],
+    "objectives": [
+      "Address the complexities of inequality, focusing on intersecting disparities along age, gender, location, and access lines.",
+      "Explore specific areas of inequality, including gender inequality, youth unemployment, and social protection."
+    ],
+    "methods": [
+      "Draw on discussions and insights from the IDS 50th Anniversary Conference.",
+      "Analyze the relationship between states, markets, and society in relation to inequality."
+    ],
+    "results": [
+      "Highlight the need for a rebalancing of power to mitigate the dominance of market forces and address inequality.",
+      "Inform strategies for addressing intersecting inequalities in areas such as gender, youth unemployment, and social protection."
+    ],
+    "research_subject": "Inequality and exclusion in the context of state, market, and societal relationships"
+  },
+  "openai_json": {
+    "motivations": [
+      "Inequalities extend beyond income and asset disparities to intersecting inequalities such as age, gender, location, and access to public services.",
+      "There is a need to understand the changing relationship between states, markets, and society in relation to the problem of inequality.",
+      "Market forces have become too dominant, leading to a need for a rebalancing of power."
+    ],
+    "objectives": [
+      "Examine three areas of inequality: gender inequality, youth unemployment, and social protection.",
+      "Revisit the debate on the changing nature of the relationship between states, markets, and society in relation to inequality.",
+      "Suggest a rebalancing of power between states, markets, and society."
+    ],
+    "methods": [
+      "Analyze the deliberations from the IDS 50th Anniversary Conference.",
+      "Examine intersecting inequalities along the lines of age, gender, location, and access to public services."
+    ],
+    "results": [
+      "Provide insights into the nature and extent of gender inequality, youth unemployment, and social protection.",
+      "Offer suggestions for rebalancing power between states, markets, and society to address inequality."
+    ],
+    "research_subject": "Inequality and Exclusion in the New Era of Capital"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Inequalities extend beyond income and asset disparities to include intersecting inequalities based on age, gender, location, and access to public services.",
+      "Market forces have become excessively dominant in the relationship between states, markets, and society, exacerbating inequality problems."
+    ],
+    "objectives": [
+      "Examine the changing nature of the relationship between states, markets, and society in relation to inequality.",
+      "Address key areas of inequality including gender inequality, youth unemployment, and social protection."
+    ],
+    "methods": [
+      "Analysis of deliberations from the IDS 50th Anniversary Conference held in July 2016.",
+      "Examination of intersecting inequalities across multiple dimensions including age, gender, location, and access to public services."
+    ],
+    "results": [
+      "Identified that inequalities are multidimensional and intersecting, going beyond simple income or asset disparities.",
+      "Concluded that a rebalancing of power between states, markets, and society is necessary to address the dominance of market forces."
+    ],
+    "research_subject": "Multidimensional inequality and the relationship between states, markets, and society"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Inequality persists and goes beyond income disparities, intersecting with age, gender, location, and access to public services.\",\n    \"The dominance of market forces exacerbates inequality, necessitating a rebalancing of power between states, markets, and society.\"\n  ],\n  \"objectives\": [\n    \"Address the complexities of inequality, focusing on intersecting disparities along age, gender, location, and access lines.\",\n    \"Explore specific areas of inequality, including gender inequality, youth unemployment, and social protection.\"\n  ],\n  \"methods\": [\n    \"Draw on discussions and insights from the IDS 50th Anniversary Conference.\",\n    \"Analyze the relationship between states, markets, and society in relation to inequality.\"\n  ],\n  \"results\": [\n    \"Highlight the need for a rebalancing of power to mitigate the dominance of market forces and address inequality.\",\n    \"Inform strategies for addressing intersecting inequalities in areas such as gender, youth unemployment, and social protection.\"\n  ],\n  \"research_subject\": \"Inequality and exclusion in the context of state, market, and societal relationships\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Inequalities extend beyond income and asset disparities to intersecting inequalities such as age, gender, location, and access to public services.\",\n    \"There is a need to understand the changing relationship between states, markets, and society in relation to the problem of inequality.\",\n    \"Market forces have become too dominant, leading to a need for a rebalancing of power.\"\n  ],\n  \"objectives\": [\n    \"Examine three areas of inequality: gender inequality, youth unemployment, and social protection.\",\n    \"Revisit the debate on the changing nature of the relationship between states, markets, and society in relation to inequality.\",\n    \"Suggest a rebalancing of power between states, markets, and society.\"\n  ],\n  \"methods\": [\n    \"Analyze the deliberations from the IDS 50th Anniversary Conference.\",\n    \"Examine intersecting inequalities along the lines of age, gender, location, and access to public services.\"\n  ],\n  \"results\": [\n    \"Provide insights into the nature and extent of gender inequality, youth unemployment, and social protection.\",\n    \"Offer suggestions for rebalancing power between states, markets, and society to address inequality.\"\n  ],\n  \"research_subject\": \"Inequality and Exclusion in the New Era of Capital\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Inequalities extend beyond income and asset disparities to include intersecting inequalities based on age, gender, location, and access to public services.\",\n    \"Market forces have become excessively dominant in the relationship between states, markets, and society, exacerbating inequality problems.\"\n  ],\n  \"objectives\": [\n    \"Examine the changing nature of the relationship between states, markets, and society in relation to inequality.\",\n    \"Address key areas of inequality including gender inequality, youth unemployment, and social protection.\"\n  ],\n  \"methods\": [\n    \"Analysis of deliberations from the IDS 50th Anniversary Conference held in July 2016.\",\n    \"Examination of intersecting inequalities across multiple dimensions including age, gender, location, and access to public services.\"\n  ],\n  \"results\": [\n    \"Identified that inequalities are multidimensional and intersecting, going beyond simple income or asset disparities.\",\n    \"Concluded that a rebalancing of power between states, markets, and society is necessary to address the dominance of market forces.\"\n  ],\n  \"research_subject\": \"Multidimensional inequality and the relationship between states, markets, and society\"\n}\n```"
+}

@@ -1,0 +1,68 @@
+{
+  "index": 476,
+  "title": "Implementation of the new technology as an opportunity to develop innovative products",
+  "abstract": "The applicant, within the framework of this project, will implement a complete technological line for the production of a new type of pocket spring formats. The entrepreneur has great experience in developing modern furniture solutions – including pocket spring formats. As part of a previous EU project, it has made one of the most important implementations in this area in the country. Kerson can be considered, in many respects, as a precursor to new solutions and technologies. The project will be implemented in one step. The applicant will purchase a technological sequence – a digital device for the production of spring pocket formats using the unique and innovative country-wide two-head retractor technology with integrated assembly technology – also a digital device. The use of a two-headed solution will allow the Applicant to operate the retractor in parallel with the use of two different input materials – parallel production of a spring size pocket type using two different wires and the possibility of any configuration of the setting of individual springs. This solution is intended to respond to a very important problem at present – namely strengthening the rigidity of the format on its edges with the proper elasticity of the inner surface (it is easiest to illustrate this everyday problem of mattress users – sitting on the edge of the mattress with spring insert we feel discomfort associated with the extinction of the mattress and the loss of its rigidity/shape). The use of two different wires (plus the Applicant’s knowledge of modern solutions and results of previous projects) will allow the Applicant to create a more rigid format on the edges and standard in the rest of the area – the standard in this case means the latest solution available on the market, i.e. a zone insert.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to improve the rigidity of pocket spring formats on their edges while maintaining elasticity on the inner surface.",
+      "Current solutions for pocket spring formats have limitations in terms of comfort and durability."
+    ],
+    "objectives": [
+      "Implement a new technological line for producing innovative pocket spring formats using two-head retractor technology.",
+      "Develop a more rigid format on the edges and a standard zone insert in the rest of the area to enhance comfort and durability."
+    ],
+    "methods": [
+      "Purchase and integrate a digital device for producing spring pocket formats using two-head retractor technology with integrated assembly technology.",
+      "Utilize the two-headed solution to operate the retractor in parallel with two different input materials."
+    ],
+    "results": [
+      "Enhance the comfort and durability of pocket spring formats by strengthening the rigidity of the edges.",
+      "Develop innovative products that respond to current market needs and improve user experience."
+    ],
+    "research_subject": "Development of innovative pocket spring formats using two-head retractor technology"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for innovative solutions to improve the rigidity and comfort of pocket spring formats used in furniture.",
+      "The current problem in the industry is the loss of rigidity and shape, especially at the edges of mattresses with spring inserts."
+    ],
+    "objectives": [
+      "Implement a complete technological line for the production of a new type of pocket spring formats.",
+      "Utilize a unique two-head retractor technology with integrated assembly technology for the production of spring pocket formats.",
+      "Create a more rigid format on the edges and standard in the rest of the area of the spring pocket formats."
+    ],
+    "methods": [
+      "Use a digital device for the production of spring pocket formats using two-head retractor technology.",
+      "Operate the retractor in parallel with the use of two different input materials for parallel production of a spring size pocket type.",
+      "Leverage the applicant's knowledge of modern solutions and results of previous projects to improve the rigidity and comfort of the spring pocket formats."
+    ],
+    "results": [
+      "The implementation of the new technology will allow the production of innovative pocket spring formats.",
+      "The use of two different wires will enable the creation of a more rigid format on the edges and standard in the rest of the area.",
+      "The new technology will address the current problem of loss of rigidity and shape in mattresses with spring inserts."
+    ],
+    "research_subject": "Implementation of new technology for the development of innovative pocket spring formats"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current mattress spring formats suffer from inadequate edge support, causing discomfort when users sit on mattress edges due to loss of rigidity and shape.",
+      "There is a need for innovative manufacturing technologies that can produce differentiated spring configurations within a single pocket spring format."
+    ],
+    "objectives": [
+      "Implement a complete technological line for producing innovative pocket spring formats with differentiated rigidity zones.",
+      "Develop spring formats that combine rigid edges with properly elastic inner surfaces using dual-wire technology."
+    ],
+    "methods": [
+      "Deploy a digital production system featuring unique two-head retractor technology with integrated assembly capabilities.",
+      "Utilize parallel processing of two different wire types to create customized spring configurations within single formats."
+    ],
+    "results": [
+      "Production of innovative pocket spring formats with enhanced edge support while maintaining optimal inner surface elasticity.",
+      "Establishment of advanced manufacturing capabilities that enable flexible configuration of individual spring properties."
+    ],
+    "research_subject": "Implementation of dual-head retractor technology for innovative pocket spring format production"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to improve the rigidity of pocket spring formats on their edges while maintaining elasticity on the inner surface.\",\n    \"Current solutions for pocket spring formats have limitations in terms of comfort and durability.\"\n  ],\n  \"objectives\": [\n    \"Implement a new technological line for producing innovative pocket spring formats using two-head retractor technology.\",\n    \"Develop a more rigid format on the edges and a standard zone insert in the rest of the area to enhance comfort and durability.\"\n  ],\n  \"methods\": [\n    \"Purchase and integrate a digital device for producing spring pocket formats using two-head retractor technology with integrated assembly technology.\",\n    \"Utilize the two-headed solution to operate the retractor in parallel with two different input materials.\"\n  ],\n  \"results\": [\n    \"Enhance the comfort and durability of pocket spring formats by strengthening the rigidity of the edges.\",\n    \"Develop innovative products that respond to current market needs and improve user experience.\"\n  ],\n  \"research_subject\": \"Development of innovative pocket spring formats using two-head retractor technology\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for innovative solutions to improve the rigidity and comfort of pocket spring formats used in furniture.\",\n    \"The current problem in the industry is the loss of rigidity and shape, especially at the edges of mattresses with spring inserts.\"\n  ],\n  \"objectives\": [\n    \"Implement a complete technological line for the production of a new type of pocket spring formats.\",\n    \"Utilize a unique two-head retractor technology with integrated assembly technology for the production of spring pocket formats.\",\n    \"Create a more rigid format on the edges and standard in the rest of the area of the spring pocket formats.\"\n  ],\n  \"methods\": [\n    \"Use a digital device for the production of spring pocket formats using two-head retractor technology.\",\n    \"Operate the retractor in parallel with the use of two different input materials for parallel production of a spring size pocket type.\",\n    \"Leverage the applicant's knowledge of modern solutions and results of previous projects to improve the rigidity and comfort of the spring pocket formats.\"\n  ],\n  \"results\": [\n    \"The implementation of the new technology will allow the production of innovative pocket spring formats.\",\n    \"The use of two different wires will enable the creation of a more rigid format on the edges and standard in the rest of the area.\",\n    \"The new technology will address the current problem of loss of rigidity and shape in mattresses with spring inserts.\"\n  ],\n  \"research_subject\": \"Implementation of new technology for the development of innovative pocket spring formats\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current mattress spring formats suffer from inadequate edge support, causing discomfort when users sit on mattress edges due to loss of rigidity and shape.\",\n    \"There is a need for innovative manufacturing technologies that can produce differentiated spring configurations within a single pocket spring format.\"\n  ],\n  \"objectives\": [\n    \"Implement a complete technological line for producing innovative pocket spring formats with differentiated rigidity zones.\",\n    \"Develop spring formats that combine rigid edges with properly elastic inner surfaces using dual-wire technology.\"\n  ],\n  \"methods\": [\n    \"Deploy a digital production system featuring unique two-head retractor technology with integrated assembly capabilities.\",\n    \"Utilize parallel processing of two different wire types to create customized spring configurations within single formats.\"\n  ],\n  \"results\": [\n    \"Production of innovative pocket spring formats with enhanced edge support while maintaining optimal inner surface elasticity.\",\n    \"Establishment of advanced manufacturing capabilities that enable flexible configuration of individual spring properties.\"\n  ],\n  \"research_subject\": \"Implementation of dual-head retractor technology for innovative pocket spring format production\"\n}\n```"
+}

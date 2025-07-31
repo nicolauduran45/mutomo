@@ -1,0 +1,50 @@
+{
+  "index": 257,
+  "title": "Method: a single nucleotide polymorphism genotyping method for Wheat streak mosaic virus",
+  "abstract": "BackgroundThe September 11, 2001 attacks on the World Trade Center and the Pentagon increased the concern about the potential for terrorist attacks on many vulnerable sectors of the US, including agriculture. The concentrated nature of crops, easily obtainable biological agents, and highly detrimental impacts make agroterrorism a potential threat. Although procedures for an effective criminal investigation and attribution following such an attack are available, important enhancements are still needed, one of which is the capability for fine discrimination among pathogen strains. The purpose of this study was to develop a molecular typing assay for use in a forensic investigation, using Wheat streak mosaic virus (WSMV) as a model plant virus.MethodThis genotyping technique utilizes single base primer extension to generate a genetic fingerprint. Fifteen single nucleotide polymorphisms (SNPs) within the coat protein and helper component-protease genes were selected as the genetic markers for this assay. Assay optimization and sensitivity testing was conducted using synthetic targets. WSMV strains and field isolates were collected from regions around the world and used to evaluate the assay for discrimination. The assay specificity was tested against a panel of near-neighbors consisting of genetic and environmental near-neighbors.ResultEach WSMV strain or field isolate tested produced a unique SNP fingerprint, with the exception of three isolates collected within the same geographic location that produced indistinguishable fingerprints. The results were consistent among replicates, demonstrating the reproducibility of the assay. No SNP fingerprints were generated from organisms included in the near-neighbor panel, suggesting the assay is specific for WSMV. Using synthetic targets, a complete profile could be generated from as low as 7.15 fmoles of cDNA.ConclusionThe molecular typing method presented is one tool that could be incorporated into the forensic science tool box after a thorough validation study. This method incorporates molecular biology techniques that are already well established in research and diagnostic laboratories, allowing for an easy introduction of this method into existing laboratories. Keywords: single nucleotide polymorphisms, genotyping, plant pathology, viruses, microbial forensics, Single base primer extension, SNaPshot Multiplex Kit",
+  "llama_json": {
+    "motivations": [
+      "The threat of agroterrorism and the potential for attacks on the US agricultural sector highlights the need for effective tools for forensic investigation and attribution.",
+      "Current methods for pathogen strain discrimination are limited, and there is a need for a molecular typing assay that can provide fine discrimination among strains."
+    ],
+    "objectives": [
+      "Develop a molecular typing assay for use in forensic investigations of plant viruses, using Wheat streak mosaic virus (WSMV) as a model.",
+      "Evaluate the assay's sensitivity, specificity, and reproducibility for discriminating among WSMV strains and field isolates."
+    ],
+    "methods": [
+      "Utilize single base primer extension to generate a genetic fingerprint based on 15 single nucleotide polymorphisms (SNPs) within the coat protein and helper component-protease genes.",
+      "Conduct assay optimization and sensitivity testing using synthetic targets, and evaluate the assay using WSMV strains and field isolates from around the world."
+    ],
+    "results": [
+      "The assay produced unique SNP fingerprints for each WSMV strain or field isolate tested, with the exception of three isolates from the same geographic location.",
+      "The assay demonstrated high specificity and reproducibility, and was able to generate a complete profile from as low as 7.15 fmoles of cDNA."
+    ],
+    "research_subject": "Development of a single nucleotide polymorphism genotyping method for Wheat streak mosaic virus"
+  },
+  "openai_json": {
+    "motivations": [
+      "The potential threat of agroterrorism has highlighted the need for fine discrimination among pathogen strains for effective criminal investigation and attribution.",
+      "There is a need for a molecular typing assay that can be used in a forensic investigation, using Wheat streak mosaic virus (WSMV) as a model plant virus."
+    ],
+    "objectives": [
+      "Develop a genotyping technique that utilizes single base primer extension to generate a genetic fingerprint of Wheat streak mosaic virus (WSMV).",
+      "Evaluate the assay for discrimination among WSMV strains and field isolates collected from regions around the world.",
+      "Test the assay's specificity against a panel of near-neighbors consisting of genetic and environmental near-neighbors."
+    ],
+    "methods": [
+      "Use single base primer extension to generate a genetic fingerprint, selecting fifteen single nucleotide polymorphisms (SNPs) within the coat protein and helper component-protease genes as the genetic markers.",
+      "Optimize the assay and test its sensitivity using synthetic targets.",
+      "Evaluate the assay's discrimination and specificity using WSMV strains, field isolates, and a panel of near-neighbors."
+    ],
+    "results": [
+      "Each WSMV strain or field isolate tested produced a unique SNP fingerprint, except for three isolates from the same geographic location.",
+      "The assay demonstrated reproducibility and specificity for WSMV, with no SNP fingerprints generated from organisms in the near-neighbor panel.",
+      "A complete profile could be generated from as low as 7.15 fmoles of cDNA."
+    ],
+    "research_subject": "Development of a single nucleotide polymorphism genotyping method for Wheat streak mosaic virus"
+  },
+  "anthropic_json": null,
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The threat of agroterrorism and the potential for attacks on the US agricultural sector highlights the need for effective tools for forensic investigation and attribution.\",\n    \"Current methods for pathogen strain discrimination are limited, and there is a need for a molecular typing assay that can provide fine discrimination among strains.\"\n  ],\n  \"objectives\": [\n    \"Develop a molecular typing assay for use in forensic investigations of plant viruses, using Wheat streak mosaic virus (WSMV) as a model.\",\n    \"Evaluate the assay's sensitivity, specificity, and reproducibility for discriminating among WSMV strains and field isolates.\"\n  ],\n  \"methods\": [\n    \"Utilize single base primer extension to generate a genetic fingerprint based on 15 single nucleotide polymorphisms (SNPs) within the coat protein and helper component-protease genes.\",\n    \"Conduct assay optimization and sensitivity testing using synthetic targets, and evaluate the assay using WSMV strains and field isolates from around the world.\"\n  ],\n  \"results\": [\n    \"The assay produced unique SNP fingerprints for each WSMV strain or field isolate tested, with the exception of three isolates from the same geographic location.\",\n    \"The assay demonstrated high specificity and reproducibility, and was able to generate a complete profile from as low as 7.15 fmoles of cDNA.\"\n  ],\n  \"research_subject\": \"Development of a single nucleotide polymorphism genotyping method for Wheat streak mosaic virus\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The potential threat of agroterrorism has highlighted the need for fine discrimination among pathogen strains for effective criminal investigation and attribution.\",\n    \"There is a need for a molecular typing assay that can be used in a forensic investigation, using Wheat streak mosaic virus (WSMV) as a model plant virus.\"\n  ],\n  \"objectives\": [\n    \"Develop a genotyping technique that utilizes single base primer extension to generate a genetic fingerprint of Wheat streak mosaic virus (WSMV).\",\n    \"Evaluate the assay for discrimination among WSMV strains and field isolates collected from regions around the world.\",\n    \"Test the assay's specificity against a panel of near-neighbors consisting of genetic and environmental near-neighbors.\"\n  ],\n  \"methods\": [\n    \"Use single base primer extension to generate a genetic fingerprint, selecting fifteen single nucleotide polymorphisms (SNPs) within the coat protein and helper component-protease genes as the genetic markers.\",\n    \"Optimize the assay and test its sensitivity using synthetic targets.\",\n    \"Evaluate the assay's discrimination and specificity using WSMV strains, field isolates, and a panel of near-neighbors.\"\n  ],\n  \"results\": [\n    \"Each WSMV strain or field isolate tested produced a unique SNP fingerprint, except for three isolates from the same geographic location.\",\n    \"The assay demonstrated reproducibility and specificity for WSMV, with no SNP fingerprints generated from organisms in the near-neighbor panel.\",\n    \"A complete profile could be generated from as low as 7.15 fmoles of cDNA.\"\n  ],\n  \"research_subject\": \"Development of a single nucleotide polymorphism genotyping method for Wheat streak mosaic virus\"\n}\n```",
+  "anthropic_raw": ""
+}

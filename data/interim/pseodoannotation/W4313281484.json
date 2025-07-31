@@ -1,0 +1,66 @@
+{
+  "index": 449,
+  "title": "Fauna macrolepidotterologica notturna degli ambienti forestali della media valle dei fiumi Alli e Simeri (Calabria, Italia) (Lepidoptera)",
+  "abstract": "Si riporta l’elenco dei macrolepidotteri notturni raccolti nel territorio compreso fra i fiumi Alli e Simeri, sul versante sud-orientale del massiccio montuoso della Sila. A quote comprese fra i 650 e i 90 metri sul livello del mare, sono stati indagati 10 siti rappresentativi delle principali formazioni forestali del comprensorio, principalmente quercete termofile e boschi ripari. Con l’ausilio di trappole luminose a LED UV, attivate a cadenza mensile da giugno 2019 ad aprile 2021, sono stati catturati 20.366 esemplari appartenenti a 429 specie. Le più abbondanti sono strettamente legate alla copertura forestale (Eupithecia dodoneata, Cyclophora puppillaria, Watsonalla uncinula e diverse specie di Catocala) oppure hanno ampia valenza ecologica (Peribatodes rhomboidaria, Idaea filicata, I. degeneraria, Eilema caniola). Di particolare interesse biogeografico sono il rinvenimento di Cryphia receptricula, per la prima volta segnalata in Calabria, Aegle agatha, nota in Italia per tre località, Horisme exoletata, segnalata finora in Italia continentale soltanto in questa area, Denticucullus pygmina e Orectis proboscidata, note per una sola località calabrese. 44 specie vengono segnalate per la prima volta nel comprensorio silano e 7 per la costa ionica.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to investigate and document the nocturnal macrolepidoptera fauna in the forest environments of the middle valley of the Alli and Simeri rivers in Calabria, Italy."
+    ],
+    "objectives": [
+      "To catalog and identify the nocturnal macrolepidoptera species present in the forest environments of the middle valley of the Alli and Simeri rivers.",
+      "To analyze the distribution and abundance of these species in relation to the forest formations and ecological conditions of the area."
+    ],
+    "methods": [
+      "Conducted a field study using LED UV light traps to collect nocturnal macrolepidoptera specimens in 10 representative sites of the main forest formations in the area.",
+      "Collected and identified specimens over a period of 22 months, from June 2019 to April 2021."
+    ],
+    "results": [
+      "Collected 20,366 specimens belonging to 429 species of nocturnal macrolepidoptera.",
+      "Identified species with high abundance and ecological significance, including those linked to forest cover and those with broad ecological valence.",
+      "Reported several species of biogeographic interest, including some previously unrecorded in Calabria or Italy."
+    ],
+    "research_subject": "Nocturnal macrolepidoptera fauna in forest environments of the middle valley of the Alli and Simeri rivers in Calabria, Italy"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to document and understand the nocturnal macrolepidoptera fauna in the forest environments of the Alli and Simeri rivers in Calabria, Italy.",
+      "The study aims to contribute to the biogeographic knowledge of the species in the region."
+    ],
+    "objectives": [
+      "Investigate and document the species of nocturnal macrolepidoptera in the forest environments between the Alli and Simeri rivers.",
+      "Identify the most abundant species and their ecological significance."
+    ],
+    "methods": [
+      "Use LED UV light traps to collect specimens from June 2019 to April 2021.",
+      "Investigate 10 representative sites of the main forest formations in the area."
+    ],
+    "results": [
+      "Collected 20,366 specimens belonging to 429 species.",
+      "Identified several species of particular biogeographic interest, some of which are reported for the first time in the region."
+    ],
+    "research_subject": "Nocturnal macrolepidoptera fauna in the forest environments of the Alli and Simeri rivers"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is limited knowledge about the nocturnal macrolepidoptera fauna in the forest environments of the Alli and Simeri river valleys in Calabria.",
+      "Understanding the biodiversity and biogeographic distribution of moth species in this region is important for conservation and ecological studies."
+    ],
+    "objectives": [
+      "Document and catalog the nocturnal macrolepidoptera species present in the forest environments between the Alli and Simeri rivers.",
+      "Identify species of particular biogeographic interest and report new findings for the region."
+    ],
+    "methods": [
+      "Deploy UV LED light traps at 10 representative forest sites at elevations between 90 and 650 meters above sea level.",
+      "Conduct monthly sampling from June 2019 to April 2021 across various forest formations including thermophilic oak forests and riparian woodlands."
+    ],
+    "results": [
+      "Collected 20,366 specimens representing 429 species, with the most abundant being forest-associated species and those with broad ecological valence.",
+      "Discovered several species of biogeographic importance, including Cryphia receptricula reported for the first time in Calabria.",
+      "Recorded 44 species new to the Sila area and 7 species new to the Ionian coast."
+    ],
+    "research_subject": "Nocturnal macrolepidoptera fauna in the forest environments of the Alli and Simeri river valleys in Calabria, Italy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to investigate and document the nocturnal macrolepidoptera fauna in the forest environments of the middle valley of the Alli and Simeri rivers in Calabria, Italy.\"\n  ],\n  \"objectives\": [\n    \"To catalog and identify the nocturnal macrolepidoptera species present in the forest environments of the middle valley of the Alli and Simeri rivers.\",\n    \"To analyze the distribution and abundance of these species in relation to the forest formations and ecological conditions of the area.\"\n  ],\n  \"methods\": [\n    \"Conducted a field study using LED UV light traps to collect nocturnal macrolepidoptera specimens in 10 representative sites of the main forest formations in the area.\",\n    \"Collected and identified specimens over a period of 22 months, from June 2019 to April 2021.\"\n  ],\n  \"results\": [\n    \"Collected 20,366 specimens belonging to 429 species of nocturnal macrolepidoptera.\",\n    \"Identified species with high abundance and ecological significance, including those linked to forest cover and those with broad ecological valence.\",\n    \"Reported several species of biogeographic interest, including some previously unrecorded in Calabria or Italy.\"\n  ],\n  \"research_subject\": \"Nocturnal macrolepidoptera fauna in forest environments of the middle valley of the Alli and Simeri rivers in Calabria, Italy\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to document and understand the nocturnal macrolepidoptera fauna in the forest environments of the Alli and Simeri rivers in Calabria, Italy.\",\n    \"The study aims to contribute to the biogeographic knowledge of the species in the region.\"\n  ],\n  \"objectives\": [\n    \"Investigate and document the species of nocturnal macrolepidoptera in the forest environments between the Alli and Simeri rivers.\",\n    \"Identify the most abundant species and their ecological significance.\"\n  ],\n  \"methods\": [\n    \"Use LED UV light traps to collect specimens from June 2019 to April 2021.\",\n    \"Investigate 10 representative sites of the main forest formations in the area.\"\n  ],\n  \"results\": [\n    \"Collected 20,366 specimens belonging to 429 species.\",\n    \"Identified several species of particular biogeographic interest, some of which are reported for the first time in the region.\"\n  ],\n  \"research_subject\": \"Nocturnal macrolepidoptera fauna in the forest environments of the Alli and Simeri rivers\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is limited knowledge about the nocturnal macrolepidoptera fauna in the forest environments of the Alli and Simeri river valleys in Calabria.\",\n    \"Understanding the biodiversity and biogeographic distribution of moth species in this region is important for conservation and ecological studies.\"\n  ],\n  \"objectives\": [\n    \"Document and catalog the nocturnal macrolepidoptera species present in the forest environments between the Alli and Simeri rivers.\",\n    \"Identify species of particular biogeographic interest and report new findings for the region.\"\n  ],\n  \"methods\": [\n    \"Deploy UV LED light traps at 10 representative forest sites at elevations between 90 and 650 meters above sea level.\",\n    \"Conduct monthly sampling from June 2019 to April 2021 across various forest formations including thermophilic oak forests and riparian woodlands.\"\n  ],\n  \"results\": [\n    \"Collected 20,366 specimens representing 429 species, with the most abundant being forest-associated species and those with broad ecological valence.\",\n    \"Discovered several species of biogeographic importance, including Cryphia receptricula reported for the first time in Calabria.\",\n    \"Recorded 44 species new to the Sila area and 7 species new to the Ionian coast.\"\n  ],\n  \"research_subject\": \"Nocturnal macrolepidoptera fauna in the forest environments of the Alli and Simeri river valleys in Calabria, Italy\"\n}\n```"
+}

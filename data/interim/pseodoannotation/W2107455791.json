@@ -1,0 +1,71 @@
+{
+  "index": 133,
+  "title": "Price Stability and Central Bank Independence: Discipline, Credibility, and Democratic Institutions",
+  "abstract": "Abstract Despite mixed empirical evidence, in the past two decades central bank independence (CBI) has been on the rise under the assumption that it ensures price stability. Using an encompassing theoretical approach and new yearly data for de jure CBI (seventy-eight countries, 1973–2008), we reexamine this relationship, distinguishing the role of printing less money (discipline) from the public's beliefs about the central bank's likely actions (credibility). Democracies differ from dictatorships in the likelihood of political interference and changes to the law because of the presence of political opposition and the freedom to expose government actions. CBI in democracies should be directly reflected in lower money supply growth. Besides being more disciplinarian, it also ensures a more robust money demand by reducing inflation expectations and, therefore, inflation. Empirical results are robust and support a discipline effect conditioned by political institutions, as well as a credibility effect.",
+  "llama_json": {
+    "motivations": [
+      "The relationship between central bank independence (CBI) and price stability is not well understood despite its increasing adoption.",
+      "There is a need to distinguish between the discipline and credibility effects of CBI on price stability."
+    ],
+    "objectives": [
+      "Reexamine the relationship between CBI and price stability using a comprehensive theoretical approach and new data.",
+      "Investigate the role of discipline and credibility in the relationship between CBI and price stability.",
+      "Analyze how democratic institutions influence the effectiveness of CBI in achieving price stability."
+    ],
+    "methods": [
+      "Use an encompassing theoretical approach to analyze the relationship between CBI and price stability.",
+      "Employ new yearly data on de jure CBI for seventy-eight countries from 1973 to 2008.",
+      "Distinguish between the discipline and credibility effects of CBI on price stability."
+    ],
+    "results": [
+      "CBI is associated with lower money supply growth and inflation in democracies.",
+      "The discipline effect of CBI is conditioned by political institutions.",
+      "A credibility effect of CBI on price stability is also observed."
+    ],
+    "research_subject": "The relationship between central bank independence, price stability, and democratic institutions"
+  },
+  "openai_json": {
+    "motivations": [
+      "The assumption that central bank independence (CBI) ensures price stability has led to its rise despite mixed empirical evidence.",
+      "There is a need to distinguish the role of discipline (printing less money) from credibility (public's beliefs about the central bank's actions) in the context of CBI."
+    ],
+    "objectives": [
+      "Reexamine the relationship between CBI and price stability using a comprehensive theoretical approach and new yearly data.",
+      "Investigate the effects of political institutions on the discipline and credibility of CBI."
+    ],
+    "methods": [
+      "Use new yearly data for de jure CBI across seventy-eight countries from 1973 to 2008.",
+      "Distinguish the roles of discipline and credibility in the context of CBI.",
+      "Analyze the effects of political institutions on CBI."
+    ],
+    "results": [
+      "Findings support a discipline effect conditioned by political institutions and a credibility effect in the context of CBI.",
+      "CBI in democracies is directly reflected in lower money supply growth and ensures a more robust money demand by reducing inflation expectations."
+    ],
+    "research_subject": "The relationship between central bank independence, price stability, and political institutions"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Despite the widespread adoption of central bank independence, empirical evidence for its effectiveness in ensuring price stability remains mixed and inconclusive.",
+      "The mechanisms through which central bank independence affects inflation—whether through monetary discipline or public credibility—are not well understood across different political systems."
+    ],
+    "objectives": [
+      "Examine the relationship between central bank independence and price stability by distinguishing between discipline (printing less money) and credibility (public beliefs about central bank actions).",
+      "Investigate how political institutions, particularly the differences between democracies and dictatorships, condition the effectiveness of central bank independence."
+    ],
+    "methods": [
+      "Develop an encompassing theoretical approach that separates the discipline and credibility mechanisms of central bank independence.",
+      "Analyze new yearly data on de jure central bank independence across seventy-eight countries from 1973 to 2008.",
+      "Compare the effects of central bank independence in democracies versus dictatorships, considering political interference and institutional constraints."
+    ],
+    "results": [
+      "Central bank independence in democracies leads to lower money supply growth and more robust money demand by reducing inflation expectations.",
+      "The discipline effect of central bank independence is conditioned by political institutions, with stronger effects in democratic systems.",
+      "Both discipline and credibility mechanisms contribute to price stability, with empirical results supporting these distinct pathways."
+    ],
+    "research_subject": "The relationship between central bank independence and price stability across different political institutions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The relationship between central bank independence (CBI) and price stability is not well understood despite its increasing adoption.\",\n    \"There is a need to distinguish between the discipline and credibility effects of CBI on price stability.\"\n  ],\n  \"objectives\": [\n    \"Reexamine the relationship between CBI and price stability using a comprehensive theoretical approach and new data.\",\n    \"Investigate the role of discipline and credibility in the relationship between CBI and price stability.\",\n    \"Analyze how democratic institutions influence the effectiveness of CBI in achieving price stability.\"\n  ],\n  \"methods\": [\n    \"Use an encompassing theoretical approach to analyze the relationship between CBI and price stability.\",\n    \"Employ new yearly data on de jure CBI for seventy-eight countries from 1973 to 2008.\",\n    \"Distinguish between the discipline and credibility effects of CBI on price stability.\"\n  ],\n  \"results\": [\n    \"CBI is associated with lower money supply growth and inflation in democracies.\",\n    \"The discipline effect of CBI is conditioned by political institutions.\",\n    \"A credibility effect of CBI on price stability is also observed.\"\n  ],\n  \"research_subject\": \"The relationship between central bank independence, price stability, and democratic institutions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The assumption that central bank independence (CBI) ensures price stability has led to its rise despite mixed empirical evidence.\",\n    \"There is a need to distinguish the role of discipline (printing less money) from credibility (public's beliefs about the central bank's actions) in the context of CBI.\"\n  ],\n  \"objectives\": [\n    \"Reexamine the relationship between CBI and price stability using a comprehensive theoretical approach and new yearly data.\",\n    \"Investigate the effects of political institutions on the discipline and credibility of CBI.\"\n  ],\n  \"methods\": [\n    \"Use new yearly data for de jure CBI across seventy-eight countries from 1973 to 2008.\",\n    \"Distinguish the roles of discipline and credibility in the context of CBI.\",\n    \"Analyze the effects of political institutions on CBI.\"\n  ],\n  \"results\": [\n    \"Findings support a discipline effect conditioned by political institutions and a credibility effect in the context of CBI.\",\n    \"CBI in democracies is directly reflected in lower money supply growth and ensures a more robust money demand by reducing inflation expectations.\"\n  ],\n  \"research_subject\": \"The relationship between central bank independence, price stability, and political institutions\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Despite the widespread adoption of central bank independence, empirical evidence for its effectiveness in ensuring price stability remains mixed and inconclusive.\",\n    \"The mechanisms through which central bank independence affects inflation—whether through monetary discipline or public credibility—are not well understood across different political systems.\"\n  ],\n  \"objectives\": [\n    \"Examine the relationship between central bank independence and price stability by distinguishing between discipline (printing less money) and credibility (public beliefs about central bank actions).\",\n    \"Investigate how political institutions, particularly the differences between democracies and dictatorships, condition the effectiveness of central bank independence.\"\n  ],\n  \"methods\": [\n    \"Develop an encompassing theoretical approach that separates the discipline and credibility mechanisms of central bank independence.\",\n    \"Analyze new yearly data on de jure central bank independence across seventy-eight countries from 1973 to 2008.\",\n    \"Compare the effects of central bank independence in democracies versus dictatorships, considering political interference and institutional constraints.\"\n  ],\n  \"results\": [\n    \"Central bank independence in democracies leads to lower money supply growth and more robust money demand by reducing inflation expectations.\",\n    \"The discipline effect of central bank independence is conditioned by political institutions, with stronger effects in democratic systems.\",\n    \"Both discipline and credibility mechanisms contribute to price stability, with empirical results supporting these distinct pathways.\"\n  ],\n  \"research_subject\": \"The relationship between central bank independence and price stability across different political institutions\"\n}\n```"
+}

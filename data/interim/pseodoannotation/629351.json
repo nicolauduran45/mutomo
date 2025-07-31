@@ -1,0 +1,73 @@
+{
+  "index": 403,
+  "title": "Making terrestrial planets",
+  "abstract": "Understanding the formation and early evolution of terrestrial planets is one of the most important goals in sciences. The objectives of this proposal, METAL (Making tErresTriA pLanets), are to study the accretion and differentiation processes that have shaped the present composition of the Earth, Moon, Mars and differentiated asteroids including understanding the origin, and timing of delivery of their volatile and siderophile elements. To reach this goal we have identified the best-suited isotopic tools, which are sensitive to the different physico-chemical processes acting at different stages of planetary formation. This work will involve: 1) Development and use of new cutting-edge stable isotope systems for moderately volatile elements (e.g. In, Sb, Sn) in terrestrial, lunar and meteoritic materials, in order to constrain the origin of solar system’s volatile element depletion. 2) Quantifying experimentally the isotopic effects during metal/silicate partitioning and evaporation in all conditions relevant to planetary accretion and differentiation. 3) Building a physical model of volatile loss. 4) Studying the timing, proportions, fate and nature of the material that accreted to Earth and Mars after core formation (i.e. the late-veneer) by using a new method based on the stable isotopes of a highly siderophile element, Pt. This high-risk high-rewards approach seeks to link innovative novel isotopic systems, experiments under extreme conditions, and dynamical modelling, to solve long-standing major scientific questions related to the formation and evolution of the terrestrial planets.",
+  "llama_json": {
+    "motivations": [
+      "Understanding the formation and early evolution of terrestrial planets is a fundamental goal in sciences.",
+      "The origin and timing of delivery of volatile and siderophile elements to terrestrial planets remain unclear."
+    ],
+    "objectives": [
+      "Study the accretion and differentiation processes that shaped the composition of the Earth, Moon, Mars, and differentiated asteroids.",
+      "Investigate the origin and timing of delivery of volatile and siderophile elements to terrestrial planets.",
+      "Develop new isotopic tools to constrain the formation and evolution of terrestrial planets."
+    ],
+    "methods": [
+      "Develop and apply new stable isotope systems for moderately volatile elements in terrestrial, lunar, and meteoritic materials.",
+      "Conduct experimental studies to quantify isotopic effects during metal/silicate partitioning and evaporation.",
+      "Build a physical model of volatile loss and study the late-veneer material that accreted to Earth and Mars."
+    ],
+    "results": [
+      "Provide new insights into the formation and evolution of terrestrial planets.",
+      "Constrain the origin of solar system's volatile element depletion.",
+      "Improve understanding of the timing, proportions, fate, and nature of the material that accreted to Earth and Mars."
+    ],
+    "research_subject": "Formation and early evolution of terrestrial planets"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the formation and early evolution of terrestrial planets is a significant goal in sciences.",
+      "There is a need to study the accretion and differentiation processes that have shaped the present composition of terrestrial bodies."
+    ],
+    "objectives": [
+      "Investigate the origin and timing of delivery of volatile and siderophile elements in Earth, Moon, Mars and differentiated asteroids.",
+      "Develop and use new stable isotope systems for moderately volatile elements in terrestrial, lunar and meteoritic materials.",
+      "Quantify the isotopic effects during metal/silicate partitioning and evaporation in conditions relevant to planetary accretion and differentiation."
+    ],
+    "methods": [
+      "Use isotopic tools sensitive to different physico-chemical processes acting at different stages of planetary formation.",
+      "Conduct experiments to quantify isotopic effects during metal/silicate partitioning and evaporation.",
+      "Build a physical model of volatile loss and study the timing, proportions, fate and nature of the material that accreted to Earth and Mars after core formation."
+    ],
+    "results": [
+      "Provide insights into the origin of solar system’s volatile element depletion.",
+      "Develop a physical model of volatile loss during planetary formation.",
+      "Offer a new method to study the late-veneer of Earth and Mars based on the stable isotopes of a highly siderophile element, Pt."
+    ],
+    "research_subject": "Formation and early evolution of terrestrial planets"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the formation and early evolution of terrestrial planets is crucial for comprehending how Earth, Moon, Mars, and differentiated asteroids acquired their current compositions.",
+      "The origin, timing, and delivery mechanisms of volatile and siderophile elements to terrestrial planets remain poorly understood despite their importance for planetary habitability and evolution."
+    ],
+    "objectives": [
+      "Study the accretion and differentiation processes that shaped the composition of terrestrial planets and asteroids, including the origin and timing of volatile and siderophile element delivery.",
+      "Develop and apply new stable isotope systems to constrain volatile element depletion in the solar system and understand material accretion after core formation."
+    ],
+    "methods": [
+      "Develop cutting-edge stable isotope systems for moderately volatile elements in terrestrial, lunar, and meteoritic materials.",
+      "Conduct experiments to quantify isotopic effects during metal/silicate partitioning and evaporation under planetary formation conditions.",
+      "Integrate isotopic measurements, high-pressure experiments, and dynamical modeling to build a comprehensive physical model of volatile loss."
+    ],
+    "results": [
+      "Provide new constraints on the origin of volatile element depletion in the solar system and the processes that controlled it.",
+      "Determine the timing, proportions, and nature of late-accreted material to Earth and Mars using novel platinum isotope methods.",
+      "Advance understanding of terrestrial planet formation through an integrated approach linking isotopic systems, experiments, and modeling."
+    ],
+    "research_subject": "Formation and early evolution of terrestrial planets through isotopic and experimental studies"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the formation and early evolution of terrestrial planets is a fundamental goal in sciences.\",\n    \"The origin and timing of delivery of volatile and siderophile elements to terrestrial planets remain unclear.\"\n  ],\n  \"objectives\": [\n    \"Study the accretion and differentiation processes that shaped the composition of the Earth, Moon, Mars, and differentiated asteroids.\",\n    \"Investigate the origin and timing of delivery of volatile and siderophile elements to terrestrial planets.\",\n    \"Develop new isotopic tools to constrain the formation and evolution of terrestrial planets.\"\n  ],\n  \"methods\": [\n    \"Develop and apply new stable isotope systems for moderately volatile elements in terrestrial, lunar, and meteoritic materials.\",\n    \"Conduct experimental studies to quantify isotopic effects during metal/silicate partitioning and evaporation.\",\n    \"Build a physical model of volatile loss and study the late-veneer material that accreted to Earth and Mars.\"\n  ],\n  \"results\": [\n    \"Provide new insights into the formation and evolution of terrestrial planets.\",\n    \"Constrain the origin of solar system's volatile element depletion.\",\n    \"Improve understanding of the timing, proportions, fate, and nature of the material that accreted to Earth and Mars.\"\n  ],\n  \"research_subject\": \"Formation and early evolution of terrestrial planets\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the formation and early evolution of terrestrial planets is a significant goal in sciences.\",\n    \"There is a need to study the accretion and differentiation processes that have shaped the present composition of terrestrial bodies.\"\n  ],\n  \"objectives\": [\n    \"Investigate the origin and timing of delivery of volatile and siderophile elements in Earth, Moon, Mars and differentiated asteroids.\",\n    \"Develop and use new stable isotope systems for moderately volatile elements in terrestrial, lunar and meteoritic materials.\",\n    \"Quantify the isotopic effects during metal/silicate partitioning and evaporation in conditions relevant to planetary accretion and differentiation.\"\n  ],\n  \"methods\": [\n    \"Use isotopic tools sensitive to different physico-chemical processes acting at different stages of planetary formation.\",\n    \"Conduct experiments to quantify isotopic effects during metal/silicate partitioning and evaporation.\",\n    \"Build a physical model of volatile loss and study the timing, proportions, fate and nature of the material that accreted to Earth and Mars after core formation.\"\n  ],\n  \"results\": [\n    \"Provide insights into the origin of solar system’s volatile element depletion.\",\n    \"Develop a physical model of volatile loss during planetary formation.\",\n    \"Offer a new method to study the late-veneer of Earth and Mars based on the stable isotopes of a highly siderophile element, Pt.\"\n  ],\n  \"research_subject\": \"Formation and early evolution of terrestrial planets\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the formation and early evolution of terrestrial planets is crucial for comprehending how Earth, Moon, Mars, and differentiated asteroids acquired their current compositions.\",\n    \"The origin, timing, and delivery mechanisms of volatile and siderophile elements to terrestrial planets remain poorly understood despite their importance for planetary habitability and evolution.\"\n  ],\n  \"objectives\": [\n    \"Study the accretion and differentiation processes that shaped the composition of terrestrial planets and asteroids, including the origin and timing of volatile and siderophile element delivery.\",\n    \"Develop and apply new stable isotope systems to constrain volatile element depletion in the solar system and understand material accretion after core formation.\"\n  ],\n  \"methods\": [\n    \"Develop cutting-edge stable isotope systems for moderately volatile elements in terrestrial, lunar, and meteoritic materials.\",\n    \"Conduct experiments to quantify isotopic effects during metal/silicate partitioning and evaporation under planetary formation conditions.\",\n    \"Integrate isotopic measurements, high-pressure experiments, and dynamical modeling to build a comprehensive physical model of volatile loss.\"\n  ],\n  \"results\": [\n    \"Provide new constraints on the origin of volatile element depletion in the solar system and the processes that controlled it.\",\n    \"Determine the timing, proportions, and nature of late-accreted material to Earth and Mars using novel platinum isotope methods.\",\n    \"Advance understanding of terrestrial planet formation through an integrated approach linking isotopic systems, experiments, and modeling.\"\n  ],\n  \"research_subject\": \"Formation and early evolution of terrestrial planets through isotopic and experimental studies\"\n}\n```"
+}

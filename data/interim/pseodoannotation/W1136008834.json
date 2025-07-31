@@ -1,0 +1,63 @@
+{
+  "index": 429,
+  "title": "Embryonic Stem Cells and Induced Pluripotent Stem Cells for Skeletal Regeneration",
+  "abstract": "Tissue engineering for skeletal tissues including bone and cartilage have been focused on the use of adult stem cells. Although there are several pioneering researches on skeletal tissue regeneration from embryonic stem cells (ESCs), ethical issues and the possibility of immune rejection clouded further attention to the application of ESCs for nonlethal orthopedic conditions. However, the recent discovery of induced pluripotent stem cells (iPSCs) led to reconsider the use of these pluripotential cells for skeletal regeneration. The purpose of this review was to summarize the current knowledge of osteogenic and chondrogenic induction from ESCs and iPSCs and to provide a perspective on the application of iPSCs for skeletal regeneration.",
+  "llama_json": {
+    "motivations": [
+      "Ethical issues and the possibility of immune rejection have limited the application of embryonic stem cells (ESCs) for skeletal tissue regeneration.",
+      "There is a need for alternative stem cell sources for skeletal regeneration, particularly for non-lethal orthopedic conditions."
+    ],
+    "objectives": [
+      "Summarize the current knowledge of osteogenic and chondrogenic induction from ESCs and induced pluripotent stem cells (iPSCs).",
+      "Provide a perspective on the application of iPSCs for skeletal regeneration."
+    ],
+    "methods": [
+      "Review existing research on the use of ESCs and iPSCs for skeletal tissue regeneration."
+    ],
+    "results": [
+      "Enhance the understanding of the potential of iPSCs for skeletal regeneration.",
+      "Provide insights into the future application of iPSCs for treating orthopedic conditions."
+    ],
+    "research_subject": "Skeletal regeneration using embryonic stem cells and induced pluripotent stem cells"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current tissue engineering for skeletal tissues primarily uses adult stem cells, limiting the potential for regeneration.",
+      "Ethical issues and immune rejection concerns have hindered the use of embryonic stem cells (ESCs) in nonlethal orthopedic conditions.",
+      "The discovery of induced pluripotent stem cells (iPSCs) has opened up new possibilities for skeletal regeneration."
+    ],
+    "objectives": [
+      "Summarize the current knowledge of osteogenic and chondrogenic induction from ESCs and iPSCs.",
+      "Provide a perspective on the application of iPSCs for skeletal regeneration."
+    ],
+    "methods": [
+      "Review and summarize existing research on osteogenic and chondrogenic induction from ESCs and iPSCs."
+    ],
+    "results": [
+      "Expected to provide an updated understanding of the potential of ESCs and iPSCs in skeletal regeneration.",
+      "Expected to offer a perspective on the application of iPSCs for skeletal regeneration."
+    ],
+    "research_subject": "Use of Embryonic Stem Cells and Induced Pluripotent Stem Cells for Skeletal Regeneration"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Adult stem cells have limitations in skeletal tissue regeneration, and embryonic stem cells face ethical concerns and immune rejection risks.",
+      "The discovery of induced pluripotent stem cells offers new possibilities for skeletal regeneration without the ethical and immunological challenges of embryonic stem cells."
+    ],
+    "objectives": [
+      "Summarize current knowledge on osteogenic and chondrogenic differentiation from embryonic stem cells and induced pluripotent stem cells.",
+      "Provide perspectives on the application of induced pluripotent stem cells for skeletal tissue regeneration."
+    ],
+    "methods": [
+      "Review and synthesize existing research on skeletal tissue induction from embryonic stem cells and induced pluripotent stem cells."
+    ],
+    "results": [
+      "Provide comprehensive understanding of pluripotent stem cell applications in bone and cartilage regeneration.",
+      "Offer new perspectives on using induced pluripotent stem cells as an alternative to embryonic stem cells for orthopedic applications."
+    ],
+    "research_subject": "Pluripotent stem cells for skeletal tissue regeneration"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Ethical issues and the possibility of immune rejection have limited the application of embryonic stem cells (ESCs) for skeletal tissue regeneration.\",\n    \"There is a need for alternative stem cell sources for skeletal regeneration, particularly for non-lethal orthopedic conditions.\"\n  ],\n  \"objectives\": [\n    \"Summarize the current knowledge of osteogenic and chondrogenic induction from ESCs and induced pluripotent stem cells (iPSCs).\",\n    \"Provide a perspective on the application of iPSCs for skeletal regeneration.\"\n  ],\n  \"methods\": [\n    \"Review existing research on the use of ESCs and iPSCs for skeletal tissue regeneration.\"\n  ],\n  \"results\": [\n    \"Enhance the understanding of the potential of iPSCs for skeletal regeneration.\",\n    \"Provide insights into the future application of iPSCs for treating orthopedic conditions.\"\n  ],\n  \"research_subject\": \"Skeletal regeneration using embryonic stem cells and induced pluripotent stem cells\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current tissue engineering for skeletal tissues primarily uses adult stem cells, limiting the potential for regeneration.\",\n    \"Ethical issues and immune rejection concerns have hindered the use of embryonic stem cells (ESCs) in nonlethal orthopedic conditions.\",\n    \"The discovery of induced pluripotent stem cells (iPSCs) has opened up new possibilities for skeletal regeneration.\"\n  ],\n  \"objectives\": [\n    \"Summarize the current knowledge of osteogenic and chondrogenic induction from ESCs and iPSCs.\",\n    \"Provide a perspective on the application of iPSCs for skeletal regeneration.\"\n  ],\n  \"methods\": [\n    \"Review and summarize existing research on osteogenic and chondrogenic induction from ESCs and iPSCs.\"\n  ],\n  \"results\": [\n    \"Expected to provide an updated understanding of the potential of ESCs and iPSCs in skeletal regeneration.\",\n    \"Expected to offer a perspective on the application of iPSCs for skeletal regeneration.\"\n  ],\n  \"research_subject\": \"Use of Embryonic Stem Cells and Induced Pluripotent Stem Cells for Skeletal Regeneration\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Adult stem cells have limitations in skeletal tissue regeneration, and embryonic stem cells face ethical concerns and immune rejection risks.\",\n    \"The discovery of induced pluripotent stem cells offers new possibilities for skeletal regeneration without the ethical and immunological challenges of embryonic stem cells.\"\n  ],\n  \"objectives\": [\n    \"Summarize current knowledge on osteogenic and chondrogenic differentiation from embryonic stem cells and induced pluripotent stem cells.\",\n    \"Provide perspectives on the application of induced pluripotent stem cells for skeletal tissue regeneration.\"\n  ],\n  \"methods\": [\n    \"Review and synthesize existing research on skeletal tissue induction from embryonic stem cells and induced pluripotent stem cells.\"\n  ],\n  \"results\": [\n    \"Provide comprehensive understanding of pluripotent stem cell applications in bone and cartilage regeneration.\",\n    \"Offer new perspectives on using induced pluripotent stem cells as an alternative to embryonic stem cells for orthopedic applications.\"\n  ],\n  \"research_subject\": \"Pluripotent stem cells for skeletal tissue regeneration\"\n}\n```"
+}

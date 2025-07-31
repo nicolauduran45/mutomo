@@ -1,0 +1,67 @@
+{
+  "index": 151,
+  "title": "Retratos de San Félix",
+  "abstract": "Neste ensaio, procuro pôr em evidência imagens e memórias de alguns moradores de San Félix, pequeno vilarejo localizado na província de Santiago del Estero, ao norte da Argentina. Atualmente, a localidade tem uma população com cerca de 200 habitantes, distribuídos em 45 famílias e se caracteriza por ser o único povoado onde todos, homens e mulheres, são afrodescendentes. Existem muitas lacunas quando se conta a história desse lugarejo. De fato, se contava pouco e se ocultava muito, era parte do processo do branqueamento, cujo discurso era de negação e invisibilidade. Resta como testemunho depoimentos da história oral, um velho registro e as lápides no cemitério. Em 2020, San Félix foi declarado Patrimônio Histórico, Cultural, Educativo e Turístico da Nação, pela UNESCO, após uma longa luta em busca do reconhecimento. Este pequeno ensaio, longe de mostrar a riqueza cultural, procura construir narrativas distintas ao relato hegemônico da identidade euro branca argentina ao tornar visíveis alguns habitantes e sua comunidade.",
+  "llama_json": {
+    "motivations": [
+      "The history and cultural identity of San Félix, an Afrodescendant village in Argentina, have been largely hidden and denied due to the process of whitening and dominant Euro-Argentine narratives.",
+      "There is a need to recover and make visible the stories and memories of the inhabitants of San Félix to counterbalance the dominant narratives and recognize their cultural heritage."
+    ],
+    "objectives": [
+      "To highlight and make visible the images and memories of the inhabitants of San Félix through oral testimonies, historical records, and other sources.",
+      "To construct alternative narratives that challenge the dominant Euro-Argentine identity and recognize the cultural richness and diversity of San Félix."
+    ],
+    "methods": [
+      "Collect and analyze oral testimonies, historical records, and other sources to reconstruct the history and cultural identity of San Félix.",
+      "Use these sources to create narratives that counterbalance the dominant Euro-Argentine narratives and make visible the Afrodescendant community of San Félix."
+    ],
+    "results": [
+      "Contribute to the recognition and valorization of the cultural heritage of San Félix and its Afrodescendant community.",
+      "Challenge and subvert the dominant Euro-Argentine narratives and promote a more inclusive and diverse understanding of Argentine identity."
+    ],
+    "research_subject": "The cultural identity and history of San Félix, an Afrodescendant village in Argentina"
+  },
+  "openai_json": {
+    "motivations": [
+      "The history of San Félix, a small village in Argentina with a predominantly Afro-descendant population, has been largely obscured and neglected.",
+      "There is a need to challenge the dominant Euro-white narrative of Argentine identity and bring visibility to the diverse communities within the country."
+    ],
+    "objectives": [
+      "Highlight the images and memories of some residents of San Félix to shed light on the village's history and culture.",
+      "Contribute to the recognition and appreciation of San Félix's unique cultural heritage, following its declaration as a National Historic, Cultural, Educational, and Tourist Heritage by UNESCO."
+    ],
+    "methods": [
+      "Use oral history testimonies, old records, and cemetery tombstones as sources of information.",
+      "Construct narratives that challenge the hegemonic Euro-white identity narrative in Argentina."
+    ],
+    "results": [
+      "Provide a more nuanced understanding of Argentine identity by highlighting the experiences and histories of the Afro-descendant community in San Félix.",
+      "Contribute to the visibility and recognition of San Félix's cultural heritage."
+    ],
+    "research_subject": "Exploration of the history and cultural heritage of San Félix, Argentina"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The history of San Félix, an Afro-descendant village in Argentina, has been largely hidden and silenced as part of historical whitewashing processes.",
+      "There is a need to challenge the hegemonic Euro-white Argentine identity narrative by making visible the experiences and cultural heritage of Afro-Argentine communities."
+    ],
+    "objectives": [
+      "Document and highlight the images, memories, and experiences of San Félix residents to preserve their cultural heritage.",
+      "Construct alternative narratives that challenge the dominant Euro-white Argentine identity discourse by making visible the Afro-descendant community."
+    ],
+    "methods": [
+      "Collection and analysis of oral history testimonies from San Félix residents.",
+      "Documentation of material evidence including old records and cemetery headstones.",
+      "Ethnographic approach to capture images and memories of the community members."
+    ],
+    "results": [
+      "Preservation and visibility of the cultural heritage and memories of San Félix's Afro-descendant population.",
+      "Construction of counter-narratives that challenge the hegemonic Argentine identity discourse.",
+      "Contribution to the recognition of San Félix as a UNESCO Historical, Cultural, Educational and Tourist Heritage site."
+    ],
+    "research_subject": "Afro-descendant community heritage and identity in San Félix, Argentina"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The history and cultural identity of San Félix, an Afrodescendant village in Argentina, have been largely hidden and denied due to the process of whitening and dominant Euro-Argentine narratives.\",\n    \"There is a need to recover and make visible the stories and memories of the inhabitants of San Félix to counterbalance the dominant narratives and recognize their cultural heritage.\"\n  ],\n  \"objectives\": [\n    \"To highlight and make visible the images and memories of the inhabitants of San Félix through oral testimonies, historical records, and other sources.\",\n    \"To construct alternative narratives that challenge the dominant Euro-Argentine identity and recognize the cultural richness and diversity of San Félix.\"\n  ],\n  \"methods\": [\n    \"Collect and analyze oral testimonies, historical records, and other sources to reconstruct the history and cultural identity of San Félix.\",\n    \"Use these sources to create narratives that counterbalance the dominant Euro-Argentine narratives and make visible the Afrodescendant community of San Félix.\"\n  ],\n  \"results\": [\n    \"Contribute to the recognition and valorization of the cultural heritage of San Félix and its Afrodescendant community.\",\n    \"Challenge and subvert the dominant Euro-Argentine narratives and promote a more inclusive and diverse understanding of Argentine identity.\"\n  ],\n  \"research_subject\": \"The cultural identity and history of San Félix, an Afrodescendant village in Argentina\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The history of San Félix, a small village in Argentina with a predominantly Afro-descendant population, has been largely obscured and neglected.\",\n    \"There is a need to challenge the dominant Euro-white narrative of Argentine identity and bring visibility to the diverse communities within the country.\"\n  ],\n  \"objectives\": [\n    \"Highlight the images and memories of some residents of San Félix to shed light on the village's history and culture.\",\n    \"Contribute to the recognition and appreciation of San Félix's unique cultural heritage, following its declaration as a National Historic, Cultural, Educational, and Tourist Heritage by UNESCO.\"\n  ],\n  \"methods\": [\n    \"Use oral history testimonies, old records, and cemetery tombstones as sources of information.\",\n    \"Construct narratives that challenge the hegemonic Euro-white identity narrative in Argentina.\"\n  ],\n  \"results\": [\n    \"Provide a more nuanced understanding of Argentine identity by highlighting the experiences and histories of the Afro-descendant community in San Félix.\",\n    \"Contribute to the visibility and recognition of San Félix's cultural heritage.\"\n  ],\n  \"research_subject\": \"Exploration of the history and cultural heritage of San Félix, Argentina\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The history of San Félix, an Afro-descendant village in Argentina, has been largely hidden and silenced as part of historical whitewashing processes.\",\n    \"There is a need to challenge the hegemonic Euro-white Argentine identity narrative by making visible the experiences and cultural heritage of Afro-Argentine communities.\"\n  ],\n  \"objectives\": [\n    \"Document and highlight the images, memories, and experiences of San Félix residents to preserve their cultural heritage.\",\n    \"Construct alternative narratives that challenge the dominant Euro-white Argentine identity discourse by making visible the Afro-descendant community.\"\n  ],\n  \"methods\": [\n    \"Collection and analysis of oral history testimonies from San Félix residents.\",\n    \"Documentation of material evidence including old records and cemetery headstones.\",\n    \"Ethnographic approach to capture images and memories of the community members.\"\n  ],\n  \"results\": [\n    \"Preservation and visibility of the cultural heritage and memories of San Félix's Afro-descendant population.\",\n    \"Construction of counter-narratives that challenge the hegemonic Argentine identity discourse.\",\n    \"Contribution to the recognition of San Félix as a UNESCO Historical, Cultural, Educational and Tourist Heritage site.\"\n  ],\n  \"research_subject\": \"Afro-descendant community heritage and identity in San Félix, Argentina\"\n}\n```"
+}

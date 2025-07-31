@@ -1,0 +1,73 @@
+{
+  "index": 211,
+  "title": "Een-Innovationjouney pt",
+  "abstract": "The proposal presented by this consortium is a proposal based on the continuity of the work that has been provided within the framework of the EEN-Innovate Plus PT proposal, in 2019, and whose objectives remain and are intended to continue. It should be noted that during 2020/2021, we will initiate new approaches to cope with the challenges posed by the EIC - European Innovation Council – “From Idea to Investment” - which the EEN- InnovationJourney PT now incorporate into this proposal, under the “Consultation of Enterprise Europe Network on the Work Programmes for 2020-2021 COSME and H2020 activities”. Considering the challenges of the EIC, in addition to the SME Instrument there will be new competition schedules to consider, from FTI - Fast Track Innovation and FET - Future and Emerging Technologies, which will require more expertise and tools to accompany companies benefiting from these programs, insofar as each addresses the needs of a particular community in the innovation ecosystem. The challenges posed will require new approaches to the team, and therefore the reinforcement of stakeholders and partners (e.g. Clusters, Financial Institutions, etc.) - creating greater synergies and converting the Network into a \"\"hub and spoke\"\".  The envisaged outcome of this project in Portugal is to provide services to 179 SMEs in 2 years, giving priority to all the beneficiaries under the European Innovation Council - Horizon 2020 and its successors. The project will deliver “7-day service packages” to SMEs located in Portugal. The beneficiaries of EIC programs, SME Instrument, FET and FTI projects and its successors, will be supported by the partners, according to the geographical proximity of the companies. The KAM services will also cover the Portuguese Islands, Azores and Madeira, through the coordinator IAPMEI.",
+  "llama_json": {
+    "motivations": [
+      "Small and Medium-sized Enterprises (SMEs) in Portugal face challenges in accessing innovation support services and funding opportunities.",
+      "The European Innovation Council's (EIC) new approaches and competition schedules require enhanced expertise and tools to support SMEs."
+    ],
+    "objectives": [
+      "Provide services to 179 SMEs in Portugal over 2 years, prioritizing beneficiaries of the European Innovation Council and its successors.",
+      "Deliver '7-day service packages' to SMEs, supporting their innovation and growth.",
+      "Reinforce stakeholders and partners to create greater synergies and establish the Network as a 'hub and spoke'."
+    ],
+    "methods": [
+      "Build on the continuity of the EEN-Innovate Plus PT proposal and incorporate new approaches to address EIC challenges.",
+      "Strengthen partnerships with stakeholders, such as clusters and financial institutions, to support SMEs.",
+      "Provide Key Account Management (KAM) services to SMEs, including those located in the Portuguese Islands."
+    ],
+    "results": [
+      "Enhanced innovation support services for SMEs in Portugal, improving their access to funding opportunities and growth.",
+      "Increased synergies among stakeholders and partners, establishing the Network as a central hub for innovation support."
+    ],
+    "research_subject": "Innovation support services for Small and Medium-sized Enterprises (SMEs) in Portugal"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need to continue the work initiated under the EEN-Innovate Plus PT proposal in 2019.",
+      "The challenges posed by the European Innovation Council (EIC) require new approaches and tools to support companies benefiting from these programs.",
+      "The innovation ecosystem requires more expertise and tools to address the needs of different communities."
+    ],
+    "objectives": [
+      "Continue the work initiated under the EEN-Innovate Plus PT proposal.",
+      "Incorporate new approaches to cope with the challenges posed by the EIC.",
+      "Provide services to 179 SMEs in Portugal over 2 years, prioritizing beneficiaries under the European Innovation Council - Horizon 2020 and its successors."
+    ],
+    "methods": [
+      "Implement new competition schedules from FTI - Fast Track Innovation and FET - Future and Emerging Technologies.",
+      "Reinforce stakeholders and partners to create greater synergies and convert the Network into a 'hub and spoke'.",
+      "Deliver '7-day service packages' to SMEs located in Portugal, with support provided by partners based on geographical proximity."
+    ],
+    "results": [
+      "Enhanced support for companies benefiting from EIC programs, SME Instrument, FET and FTI projects and their successors.",
+      "Creation of a 'hub and spoke' network through the reinforcement of stakeholders and partners.",
+      "Provision of services to 179 SMEs in Portugal over 2 years."
+    ],
+    "research_subject": "Continuation and enhancement of the EEN-Innovate Plus PT proposal"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "SMEs face challenges in navigating and accessing European innovation funding programs, requiring specialized support to transition from idea to investment.",
+      "The emergence of new European Innovation Council programs creates a need for enhanced expertise and tools to support diverse innovation ecosystem communities."
+    ],
+    "objectives": [
+      "Provide comprehensive support services to SMEs benefiting from European Innovation Council programs including SME Instrument, FTI, and FET.",
+      "Strengthen the innovation ecosystem by creating synergies between stakeholders and transforming the network into a hub and spoke model."
+    ],
+    "methods": [
+      "Deliver 7-day service packages to SMEs with geographical proximity-based support from partners.",
+      "Reinforce partnerships with clusters and financial institutions to create greater synergies.",
+      "Implement Key Account Management services covering all Portuguese territories including the islands."
+    ],
+    "results": [
+      "Provide specialized innovation support services to 179 SMEs over 2 years.",
+      "Enable SMEs to successfully navigate and benefit from European Innovation Council funding opportunities.",
+      "Establish a more integrated and effective innovation support network across Portugal."
+    ],
+    "research_subject": "Innovation support services for Portuguese SMEs accessing European Innovation Council programs"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Small and Medium-sized Enterprises (SMEs) in Portugal face challenges in accessing innovation support services and funding opportunities.\",\n    \"The European Innovation Council's (EIC) new approaches and competition schedules require enhanced expertise and tools to support SMEs.\"\n  ],\n  \"objectives\": [\n    \"Provide services to 179 SMEs in Portugal over 2 years, prioritizing beneficiaries of the European Innovation Council and its successors.\",\n    \"Deliver '7-day service packages' to SMEs, supporting their innovation and growth.\",\n    \"Reinforce stakeholders and partners to create greater synergies and establish the Network as a 'hub and spoke'.\"\n  ],\n  \"methods\": [\n    \"Build on the continuity of the EEN-Innovate Plus PT proposal and incorporate new approaches to address EIC challenges.\",\n    \"Strengthen partnerships with stakeholders, such as clusters and financial institutions, to support SMEs.\",\n    \"Provide Key Account Management (KAM) services to SMEs, including those located in the Portuguese Islands.\"\n  ],\n  \"results\": [\n    \"Enhanced innovation support services for SMEs in Portugal, improving their access to funding opportunities and growth.\",\n    \"Increased synergies among stakeholders and partners, establishing the Network as a central hub for innovation support.\"\n  ],\n  \"research_subject\": \"Innovation support services for Small and Medium-sized Enterprises (SMEs) in Portugal\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need to continue the work initiated under the EEN-Innovate Plus PT proposal in 2019.\",\n    \"The challenges posed by the European Innovation Council (EIC) require new approaches and tools to support companies benefiting from these programs.\",\n    \"The innovation ecosystem requires more expertise and tools to address the needs of different communities.\"\n  ],\n  \"objectives\": [\n    \"Continue the work initiated under the EEN-Innovate Plus PT proposal.\",\n    \"Incorporate new approaches to cope with the challenges posed by the EIC.\",\n    \"Provide services to 179 SMEs in Portugal over 2 years, prioritizing beneficiaries under the European Innovation Council - Horizon 2020 and its successors.\"\n  ],\n  \"methods\": [\n    \"Implement new competition schedules from FTI - Fast Track Innovation and FET - Future and Emerging Technologies.\",\n    \"Reinforce stakeholders and partners to create greater synergies and convert the Network into a 'hub and spoke'.\",\n    \"Deliver '7-day service packages' to SMEs located in Portugal, with support provided by partners based on geographical proximity.\"\n  ],\n  \"results\": [\n    \"Enhanced support for companies benefiting from EIC programs, SME Instrument, FET and FTI projects and their successors.\",\n    \"Creation of a 'hub and spoke' network through the reinforcement of stakeholders and partners.\",\n    \"Provision of services to 179 SMEs in Portugal over 2 years.\"\n  ],\n  \"research_subject\": \"Continuation and enhancement of the EEN-Innovate Plus PT proposal\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs face challenges in navigating and accessing European innovation funding programs, requiring specialized support to transition from idea to investment.\",\n    \"The emergence of new European Innovation Council programs creates a need for enhanced expertise and tools to support diverse innovation ecosystem communities.\"\n  ],\n  \"objectives\": [\n    \"Provide comprehensive support services to SMEs benefiting from European Innovation Council programs including SME Instrument, FTI, and FET.\",\n    \"Strengthen the innovation ecosystem by creating synergies between stakeholders and transforming the network into a hub and spoke model.\"\n  ],\n  \"methods\": [\n    \"Deliver 7-day service packages to SMEs with geographical proximity-based support from partners.\",\n    \"Reinforce partnerships with clusters and financial institutions to create greater synergies.\",\n    \"Implement Key Account Management services covering all Portuguese territories including the islands.\"\n  ],\n  \"results\": [\n    \"Provide specialized innovation support services to 179 SMEs over 2 years.\",\n    \"Enable SMEs to successfully navigate and benefit from European Innovation Council funding opportunities.\",\n    \"Establish a more integrated and effective innovation support network across Portugal.\"\n  ],\n  \"research_subject\": \"Innovation support services for Portuguese SMEs accessing European Innovation Council programs\"\n}\n```"
+}

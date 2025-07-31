@@ -1,0 +1,75 @@
+{
+  "index": 87,
+  "title": "Self organization in competition and diversity",
+  "abstract": "At all scales, biology presents an astounding diversity of discrete states or species that coexist with each other long times. At the sub-cellular scale, molecular competition and positive feedback maintain cells in specialized epigenetic states over very long time, allowing for embryonic development of complex multicellular organisms. On larger length scales, stable yet dynamic ecosystems emerge from competition between different species. This general pattern calls for research with a focus on diversity, and how competition can act as its \"\"engine\"\". Statistical mechanics of complex systems provides a framework for studying universality of collective and cooperative phenomena, usually through repeated action of identical agents. I want to extend this methodology by allowing these agents to diversify. And I want to focus on the emerging diversity as a main measure of complexity. I will explore the origin and sustainability of diversity, using model systems from biology. The hypothesis is that competition is the main driver of diversity, with randomness and cooperation playing auxiliary roles. The research will be guided by agent based models of biologically relevant examples of competition and diversity:  - Patterns of Competitive Regulation - Competition as an Engine of Ecosystem Diversity - Diseases and host Immunity. These categories will include computational aspects of gene regulation, sustainable structures of ecosystems, mechanism of speciation facilitated by competition and defense systems including the interplay between diseases and host immune systems. My aim is both multidisciplinary and ambitious: To create a new paradigm that explicitly measures self organization in terms of its resulting diversity.",
+  "llama_json": {
+    "motivations": [
+      "Biology exhibits a vast diversity of discrete states or species that coexist over long periods, yet the underlying mechanisms driving this diversity are not fully understood.",
+      "Current statistical mechanics frameworks for studying complex systems focus on identical agents, neglecting the role of diversity and competition in shaping collective phenomena."
+    ],
+    "objectives": [
+      "Extend statistical mechanics frameworks to incorporate diverse agents and explore the emerging diversity as a measure of complexity.",
+      "Investigate the origin and sustainability of diversity in biological systems, with a focus on competition as the primary driver.",
+      "Develop a new paradigm that explicitly measures self-organization in terms of resulting diversity."
+    ],
+    "methods": [
+      "Utilize agent-based models of biologically relevant examples, including competitive regulation, ecosystem diversity, diseases, and host immunity.",
+      "Incorporate computational aspects of gene regulation, sustainable ecosystem structures, speciation mechanisms, and defense systems.",
+      "Explore the interplay between competition, randomness, and cooperation in shaping diversity."
+    ],
+    "results": [
+      "Gain insights into the mechanisms driving diversity in biological systems, with a focus on competition as the primary driver.",
+      "Develop a new framework for understanding self-organization in complex systems, with diversity as a key measure of complexity.",
+      "Provide a multidisciplinary understanding of the interplay between competition, cooperation, and randomness in shaping biological diversity."
+    ],
+    "research_subject": "Self-organization and diversity in complex biological systems driven by competition"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the astounding diversity of discrete states or species in biology that coexist for long periods.",
+      "The role of competition, randomness, and cooperation in driving diversity in biological systems is not fully understood.",
+      "There is a lack of a paradigm that measures self-organization in terms of its resulting diversity."
+    ],
+    "objectives": [
+      "Extend the methodology of statistical mechanics of complex systems by allowing agents to diversify.",
+      "Explore the origin and sustainability of diversity in biological systems, with a focus on competition as the main driver.",
+      "Create a new paradigm that measures self-organization in terms of its resulting diversity."
+    ],
+    "methods": [
+      "Use agent-based models of biologically relevant examples of competition and diversity.",
+      "Study patterns of competitive regulation, competition as an engine of ecosystem diversity, and diseases and host immunity.",
+      "Apply computational aspects of gene regulation, sustainable structures of ecosystems, mechanism of speciation facilitated by competition, and defense systems."
+    ],
+    "results": [
+      "Expected to gain insights into the role of competition, randomness, and cooperation in driving biological diversity.",
+      "Anticipate the development of a new paradigm that measures self-organization in terms of its resulting diversity.",
+      "Expected to enhance understanding of the origin and sustainability of diversity in biological systems."
+    ],
+    "research_subject": "Self-organization, competition, and diversity in biological systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Biology exhibits remarkable diversity at all scales, from molecular states to ecosystems, yet the mechanisms maintaining this diversity over long periods remain poorly understood.",
+      "Current statistical mechanics frameworks focus on identical agents and collective phenomena, lacking adequate tools to study how diversity emerges and persists in complex systems."
+    ],
+    "objectives": [
+      "Develop a new paradigm that measures self-organization in biological systems through the lens of emerging diversity.",
+      "Extend statistical mechanics methodology to incorporate agent diversification and establish diversity as a primary measure of complexity.",
+      "Investigate competition as the primary driver of diversity across multiple biological scales, with randomness and cooperation as auxiliary factors."
+    ],
+    "methods": [
+      "Develop agent-based models for biologically relevant systems including gene regulation patterns, ecosystem dynamics, and host-pathogen interactions.",
+      "Apply statistical mechanics frameworks modified to allow for agent diversification and diversity measurement.",
+      "Conduct computational studies across multiple biological scales to identify universal principles of competition-driven diversity."
+    ],
+    "results": [
+      "Establish a new theoretical framework that quantifies self-organization through diversity metrics.",
+      "Reveal universal principles governing how competition drives and maintains diversity across biological systems.",
+      "Provide insights into sustainable ecosystem structures, speciation mechanisms, and immune system dynamics."
+    ],
+    "research_subject": "Competition-driven diversity and self-organization in biological systems across multiple scales"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Biology exhibits a vast diversity of discrete states or species that coexist over long periods, yet the underlying mechanisms driving this diversity are not fully understood.\",\n    \"Current statistical mechanics frameworks for studying complex systems focus on identical agents, neglecting the role of diversity and competition in shaping collective phenomena.\"\n  ],\n  \"objectives\": [\n    \"Extend statistical mechanics frameworks to incorporate diverse agents and explore the emerging diversity as a measure of complexity.\",\n    \"Investigate the origin and sustainability of diversity in biological systems, with a focus on competition as the primary driver.\",\n    \"Develop a new paradigm that explicitly measures self-organization in terms of resulting diversity.\"\n  ],\n  \"methods\": [\n    \"Utilize agent-based models of biologically relevant examples, including competitive regulation, ecosystem diversity, diseases, and host immunity.\",\n    \"Incorporate computational aspects of gene regulation, sustainable ecosystem structures, speciation mechanisms, and defense systems.\",\n    \"Explore the interplay between competition, randomness, and cooperation in shaping diversity.\"\n  ],\n  \"results\": [\n    \"Gain insights into the mechanisms driving diversity in biological systems, with a focus on competition as the primary driver.\",\n    \"Develop a new framework for understanding self-organization in complex systems, with diversity as a key measure of complexity.\",\n    \"Provide a multidisciplinary understanding of the interplay between competition, cooperation, and randomness in shaping biological diversity.\"\n  ],\n  \"research_subject\": \"Self-organization and diversity in complex biological systems driven by competition\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the astounding diversity of discrete states or species in biology that coexist for long periods.\",\n    \"The role of competition, randomness, and cooperation in driving diversity in biological systems is not fully understood.\",\n    \"There is a lack of a paradigm that measures self-organization in terms of its resulting diversity.\"\n  ],\n  \"objectives\": [\n    \"Extend the methodology of statistical mechanics of complex systems by allowing agents to diversify.\",\n    \"Explore the origin and sustainability of diversity in biological systems, with a focus on competition as the main driver.\",\n    \"Create a new paradigm that measures self-organization in terms of its resulting diversity.\"\n  ],\n  \"methods\": [\n    \"Use agent-based models of biologically relevant examples of competition and diversity.\",\n    \"Study patterns of competitive regulation, competition as an engine of ecosystem diversity, and diseases and host immunity.\",\n    \"Apply computational aspects of gene regulation, sustainable structures of ecosystems, mechanism of speciation facilitated by competition, and defense systems.\"\n  ],\n  \"results\": [\n    \"Expected to gain insights into the role of competition, randomness, and cooperation in driving biological diversity.\",\n    \"Anticipate the development of a new paradigm that measures self-organization in terms of its resulting diversity.\",\n    \"Expected to enhance understanding of the origin and sustainability of diversity in biological systems.\"\n  ],\n  \"research_subject\": \"Self-organization, competition, and diversity in biological systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Biology exhibits remarkable diversity at all scales, from molecular states to ecosystems, yet the mechanisms maintaining this diversity over long periods remain poorly understood.\",\n    \"Current statistical mechanics frameworks focus on identical agents and collective phenomena, lacking adequate tools to study how diversity emerges and persists in complex systems.\"\n  ],\n  \"objectives\": [\n    \"Develop a new paradigm that measures self-organization in biological systems through the lens of emerging diversity.\",\n    \"Extend statistical mechanics methodology to incorporate agent diversification and establish diversity as a primary measure of complexity.\",\n    \"Investigate competition as the primary driver of diversity across multiple biological scales, with randomness and cooperation as auxiliary factors.\"\n  ],\n  \"methods\": [\n    \"Develop agent-based models for biologically relevant systems including gene regulation patterns, ecosystem dynamics, and host-pathogen interactions.\",\n    \"Apply statistical mechanics frameworks modified to allow for agent diversification and diversity measurement.\",\n    \"Conduct computational studies across multiple biological scales to identify universal principles of competition-driven diversity.\"\n  ],\n  \"results\": [\n    \"Establish a new theoretical framework that quantifies self-organization through diversity metrics.\",\n    \"Reveal universal principles governing how competition drives and maintains diversity across biological systems.\",\n    \"Provide insights into sustainable ecosystem structures, speciation mechanisms, and immune system dynamics.\"\n  ],\n  \"research_subject\": \"Competition-driven diversity and self-organization in biological systems across multiple scales\"\n}\n```"
+}

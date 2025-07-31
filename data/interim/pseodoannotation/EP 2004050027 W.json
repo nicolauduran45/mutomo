@@ -1,0 +1,54 @@
+{
+  "index": 375,
+  "title": "METHOD FOR CREATING A FIBROUS SUBSTANCE SUSPENSION USED FOR PRODUCING A TISSUE WEB OR HYGIENE WEB",
+  "abstract": "The invention relates to a method for creating a fibrous substance suspension used for producing a tissue web or hygiene web, during which the fibers obtained in the fiber suspension are, in an online process, directly loaded with a loading material in the tissue preparation line by a chemical precipitation reaction.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an efficient method to create a fibrous substance suspension for producing tissue or hygiene webs."
+    ],
+    "objectives": [
+      "Develop a method for creating a fibrous substance suspension through direct loading of fibers with a loading material in an online process."
+    ],
+    "methods": [
+      "Utilize a chemical precipitation reaction to load fibers with a loading material in the tissue preparation line."
+    ],
+    "results": [
+      "Enable the efficient production of tissue or hygiene webs through an optimized fibrous substance suspension creation process."
+    ],
+    "research_subject": "Method for creating a fibrous substance suspension for tissue or hygiene web production"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an efficient method to create a fibrous substance suspension used for producing a tissue web or hygiene web."
+    ],
+    "objectives": [
+      "Develop a method where fibers obtained in the fiber suspension are directly loaded with a loading material in the tissue preparation line by a chemical precipitation reaction."
+    ],
+    "methods": [
+      "Use an online process to directly load the fibers obtained in the fiber suspension with a loading material in the tissue preparation line.",
+      "Employ a chemical precipitation reaction for the loading process."
+    ],
+    "results": [
+      "Expected to create a more efficient process for producing a tissue web or hygiene web."
+    ],
+    "research_subject": "Method for creating a fibrous substance suspension for tissue or hygiene web production"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for improved methods to create fibrous substance suspensions for tissue and hygiene web production that allow for direct material loading during the manufacturing process."
+    ],
+    "objectives": [
+      "Develop a method for creating fibrous substance suspensions that enables direct loading of fibers with materials through chemical precipitation in an online process."
+    ],
+    "methods": [
+      "Implement an online chemical precipitation reaction process to directly load fibers with loading materials during tissue preparation."
+    ],
+    "results": [
+      "Enable the production of tissue and hygiene webs with fibers that are directly loaded with materials during the suspension creation process."
+    ],
+    "research_subject": "Online chemical loading of fibers in tissue and hygiene web production"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient method to create a fibrous substance suspension for producing tissue or hygiene webs.\"\n  ],\n  \"objectives\": [\n    \"Develop a method for creating a fibrous substance suspension through direct loading of fibers with a loading material in an online process.\"\n  ],\n  \"methods\": [\n    \"Utilize a chemical precipitation reaction to load fibers with a loading material in the tissue preparation line.\"\n  ],\n  \"results\": [\n    \"Enable the efficient production of tissue or hygiene webs through an optimized fibrous substance suspension creation process.\"\n  ],\n  \"research_subject\": \"Method for creating a fibrous substance suspension for tissue or hygiene web production\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient method to create a fibrous substance suspension used for producing a tissue web or hygiene web.\"\n  ],\n  \"objectives\": [\n    \"Develop a method where fibers obtained in the fiber suspension are directly loaded with a loading material in the tissue preparation line by a chemical precipitation reaction.\"\n  ],\n  \"methods\": [\n    \"Use an online process to directly load the fibers obtained in the fiber suspension with a loading material in the tissue preparation line.\",\n    \"Employ a chemical precipitation reaction for the loading process.\"\n  ],\n  \"results\": [\n    \"Expected to create a more efficient process for producing a tissue web or hygiene web.\"\n  ],\n  \"research_subject\": \"Method for creating a fibrous substance suspension for tissue or hygiene web production\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved methods to create fibrous substance suspensions for tissue and hygiene web production that allow for direct material loading during the manufacturing process.\"\n  ],\n  \"objectives\": [\n    \"Develop a method for creating fibrous substance suspensions that enables direct loading of fibers with materials through chemical precipitation in an online process.\"\n  ],\n  \"methods\": [\n    \"Implement an online chemical precipitation reaction process to directly load fibers with loading materials during tissue preparation.\"\n  ],\n  \"results\": [\n    \"Enable the production of tissue and hygiene webs with fibers that are directly loaded with materials during the suspension creation process.\"\n  ],\n  \"research_subject\": \"Online chemical loading of fibers in tissue and hygiene web production\"\n}\n```"
+}

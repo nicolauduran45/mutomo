@@ -1,0 +1,71 @@
+{
+  "index": 14,
+  "title": "An account of epistemic democracy: ignorant majorities and the better decision",
+  "abstract": "This thesis analyses traditional and contemporary democratic theory from an epistemic, instrumental angle. It argues that these theories depend too heavily on intrinsic values, such as equality of participation, which then sacrifice good decision outcomes. Using a reverse-contractarian tool, where social contracts can be prospective rather than retrospective, it is possible to argue that a free public would form government on the basis of services it provides and ergo, instrumental reasons. As such, legitimate decisions are those that are based upon an evidential diagnosis of a problem, and use evidence to help bring about the good provision of such problem-solving services. It uses the observation of topic-specific ignorant majorities, defined as being where each citizen has both areas of expertise and areas of ignorance, to criticise both fair-proceduralist accounts and non-democratic technocratic accounts. The former overstates the contribution that every citizen can have when designing and managing those services, whereas the latter understates the broader contribution knowledgeable minorities can have in governance. Overall, a tailored democracy is called for using the name service democracy, which is a theoretical response to the above observations.\r It concludes by offering epistemic policy proposals that could be implemented within the current governmental institutions and policy processes. It calls for state-funding of political parties to avoid undue influence over policy, committee oversight of ministerial appointments so that competence can be assessed and finally academic and professional crowd-sourcing to allow the wider knowledgeable minority in a given area to contribute to policy creation and development.",
+  "llama_json": {
+    "motivations": [
+      "Traditional and contemporary democratic theories prioritize intrinsic values over good decision outcomes, potentially leading to suboptimal governance.",
+      "The existence of topic-specific ignorant majorities challenges the effectiveness of both fair-proceduralist and technocratic approaches to decision-making."
+    ],
+    "objectives": [
+      "Develop an epistemic account of democracy that prioritizes instrumental reasons and good decision outcomes.",
+      "Critique existing democratic theories and propose an alternative approach, termed 'service democracy'.",
+      "Offer epistemic policy proposals to improve the decision-making process within current governmental institutions."
+    ],
+    "methods": [
+      "Apply a reverse-contractarian tool to argue for the formation of government based on instrumental reasons.",
+      "Analyze the implications of topic-specific ignorant majorities for democratic decision-making.",
+      "Propose policy reforms, including state-funding of political parties, committee oversight of ministerial appointments, and academic crowd-sourcing."
+    ],
+    "results": [
+      "Establish a theoretical framework for 'service democracy' that balances citizen participation with expert knowledge.",
+      "Improve the decision-making process by incorporating evidence-based diagnosis and problem-solving.",
+      "Enhance the contribution of knowledgeable minorities in governance through targeted policy reforms."
+    ],
+    "research_subject": "Epistemic democracy and decision-making in the presence of ignorant majorities"
+  },
+  "openai_json": {
+    "motivations": [
+      "Traditional and contemporary democratic theories often prioritize intrinsic values like equality of participation, potentially compromising the quality of decision outcomes.",
+      "There is a need to address the issue of topic-specific ignorant majorities in both democratic and technocratic governance models."
+    ],
+    "objectives": [
+      "Analyze democratic theory from an epistemic, instrumental perspective to highlight the importance of good decision outcomes.",
+      "Propose a new model of democracy, termed 'service democracy', that values evidential diagnosis and problem-solving services.",
+      "Offer epistemic policy proposals that can be implemented within current governmental institutions and policy processes."
+    ],
+    "methods": [
+      "Use a reverse-contractarian tool to argue that a free public would form government based on the services it provides.",
+      "Critique fair-proceduralist and non-democratic technocratic accounts using the concept of topic-specific ignorant majorities.",
+      "Propose policy changes such as state-funding of political parties, committee oversight of ministerial appointments, and academic and professional crowd-sourcing."
+    ],
+    "results": [
+      "Highlight the limitations of traditional democratic theories and the need for a more evidence-based, service-oriented approach.",
+      "Propose a new model of democracy that balances the contributions of all citizens and values good decision outcomes.",
+      "Suggest practical policy changes that could enhance the epistemic quality of democratic decision-making."
+    ],
+    "research_subject": "Epistemic analysis of democratic theory and proposal of 'service democracy'"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional democratic theories prioritize intrinsic values like equality of participation at the expense of good decision outcomes.",
+      "Both fair-proceduralist democratic accounts and technocratic approaches fail to adequately address the reality of topic-specific ignorant majorities where citizens have varying expertise across different domains."
+    ],
+    "objectives": [
+      "Develop a new democratic framework that prioritizes instrumental, evidence-based decision-making over purely intrinsic democratic values.",
+      "Create a theoretical model called 'service democracy' that better utilizes the expertise of knowledgeable minorities while acknowledging the limitations of ignorant majorities."
+    ],
+    "methods": [
+      "Apply a reverse-contractarian analytical tool where social contracts are viewed prospectively rather than retrospectively.",
+      "Conduct theoretical analysis of traditional and contemporary democratic theories from an epistemic, instrumental perspective."
+    ],
+    "results": [
+      "Proposes specific epistemic policy reforms including state-funding of political parties, committee oversight of ministerial appointments, and academic/professional crowd-sourcing for policy development.",
+      "Establishes a theoretical framework for 'service democracy' that balances expertise utilization with democratic participation."
+    ],
+    "research_subject": "Epistemic analysis of democratic theory and the development of service democracy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional and contemporary democratic theories prioritize intrinsic values over good decision outcomes, potentially leading to suboptimal governance.\",\n    \"The existence of topic-specific ignorant majorities challenges the effectiveness of both fair-proceduralist and technocratic approaches to decision-making.\"\n  ],\n  \"objectives\": [\n    \"Develop an epistemic account of democracy that prioritizes instrumental reasons and good decision outcomes.\",\n    \"Critique existing democratic theories and propose an alternative approach, termed 'service democracy'.\",\n    \"Offer epistemic policy proposals to improve the decision-making process within current governmental institutions.\"\n  ],\n  \"methods\": [\n    \"Apply a reverse-contractarian tool to argue for the formation of government based on instrumental reasons.\",\n    \"Analyze the implications of topic-specific ignorant majorities for democratic decision-making.\",\n    \"Propose policy reforms, including state-funding of political parties, committee oversight of ministerial appointments, and academic crowd-sourcing.\"\n  ],\n  \"results\": [\n    \"Establish a theoretical framework for 'service democracy' that balances citizen participation with expert knowledge.\",\n    \"Improve the decision-making process by incorporating evidence-based diagnosis and problem-solving.\",\n    \"Enhance the contribution of knowledgeable minorities in governance through targeted policy reforms.\"\n  ],\n  \"research_subject\": \"Epistemic democracy and decision-making in the presence of ignorant majorities\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional and contemporary democratic theories often prioritize intrinsic values like equality of participation, potentially compromising the quality of decision outcomes.\",\n    \"There is a need to address the issue of topic-specific ignorant majorities in both democratic and technocratic governance models.\"\n  ],\n  \"objectives\": [\n    \"Analyze democratic theory from an epistemic, instrumental perspective to highlight the importance of good decision outcomes.\",\n    \"Propose a new model of democracy, termed 'service democracy', that values evidential diagnosis and problem-solving services.\",\n    \"Offer epistemic policy proposals that can be implemented within current governmental institutions and policy processes.\"\n  ],\n  \"methods\": [\n    \"Use a reverse-contractarian tool to argue that a free public would form government based on the services it provides.\",\n    \"Critique fair-proceduralist and non-democratic technocratic accounts using the concept of topic-specific ignorant majorities.\",\n    \"Propose policy changes such as state-funding of political parties, committee oversight of ministerial appointments, and academic and professional crowd-sourcing.\"\n  ],\n  \"results\": [\n    \"Highlight the limitations of traditional democratic theories and the need for a more evidence-based, service-oriented approach.\",\n    \"Propose a new model of democracy that balances the contributions of all citizens and values good decision outcomes.\",\n    \"Suggest practical policy changes that could enhance the epistemic quality of democratic decision-making.\"\n  ],\n  \"research_subject\": \"Epistemic analysis of democratic theory and proposal of 'service democracy'\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional democratic theories prioritize intrinsic values like equality of participation at the expense of good decision outcomes.\",\n    \"Both fair-proceduralist democratic accounts and technocratic approaches fail to adequately address the reality of topic-specific ignorant majorities where citizens have varying expertise across different domains.\"\n  ],\n  \"objectives\": [\n    \"Develop a new democratic framework that prioritizes instrumental, evidence-based decision-making over purely intrinsic democratic values.\",\n    \"Create a theoretical model called 'service democracy' that better utilizes the expertise of knowledgeable minorities while acknowledging the limitations of ignorant majorities.\"\n  ],\n  \"methods\": [\n    \"Apply a reverse-contractarian analytical tool where social contracts are viewed prospectively rather than retrospectively.\",\n    \"Conduct theoretical analysis of traditional and contemporary democratic theories from an epistemic, instrumental perspective.\"\n  ],\n  \"results\": [\n    \"Proposes specific epistemic policy reforms including state-funding of political parties, committee oversight of ministerial appointments, and academic/professional crowd-sourcing for policy development.\",\n    \"Establishes a theoretical framework for 'service democracy' that balances expertise utilization with democratic participation.\"\n  ],\n  \"research_subject\": \"Epistemic analysis of democratic theory and the development of service democracy\"\n}\n```"
+}

@@ -1,0 +1,65 @@
+{
+  "index": 152,
+  "title": "Imitations and Transformations: On Side Effects of the ADHD Epidemic",
+  "abstract": "The attention deficit hyperactivity disorder epidemic has been the subject of much scrutiny, especially in relation to the medicalization of children, and, to a lesser degree, to the use of Ritalin as a performance enhancer or party drug (e.g., Keane 2008; Whitaker 2010; Bowden 2013). In this article, my focus is on non-investigated side effects of this epidemic, namely the use of (prescription) Ritalin among heavy drug users. Based on fieldwork conducted in one of the largest cities in Denmark, in this article I trace the spread of intravenous use of Ritalin, and examine how different ways of ingesting Ritalin transform the drug itself, and, with this, transform treatment practices, parts of the drug scene, and the bodies of users. In my analysis, I draw on insights from anthropological theories on imitation and from material semiotics.",
+  "llama_json": {
+    "motivations": [
+      "The ADHD epidemic has led to concerns about the medicalization of children and the misuse of Ritalin.",
+      "There is a need to investigate the non-examined side effects of the ADHD epidemic, particularly the use of Ritalin among heavy drug users."
+    ],
+    "objectives": [
+      "Examine the spread of intravenous Ritalin use among heavy drug users in a major Danish city.",
+      "Analyze how different methods of ingesting Ritalin transform the drug, treatment practices, the drug scene, and user bodies."
+    ],
+    "methods": [
+      "Conduct fieldwork in a major Danish city to gather data on Ritalin use among heavy drug users.",
+      "Apply anthropological theories on imitation and material semiotics to analyze the transformation of Ritalin and its effects."
+    ],
+    "results": [
+      "Gain insight into the unintended consequences of the ADHD epidemic, specifically the misuse of Ritalin among heavy drug users.",
+      "Understand how Ritalin is transformed through different ingestion methods and its impact on treatment practices and user bodies."
+    ],
+    "research_subject": "The misuse of Ritalin among heavy drug users and its transformation in the context of the ADHD epidemic"
+  },
+  "openai_json": {
+    "motivations": [
+      "The ADHD epidemic and the associated use of Ritalin has been widely studied, but the side effects and usage among heavy drug users have not been thoroughly investigated.",
+      "There is a need to understand how different methods of ingesting Ritalin transform the drug, treatment practices, parts of the drug scene, and the bodies of users."
+    ],
+    "objectives": [
+      "Trace the spread of intravenous use of Ritalin among heavy drug users in one of the largest cities in Denmark.",
+      "Examine how different ways of ingesting Ritalin transform the drug itself, treatment practices, parts of the drug scene, and the bodies of users."
+    ],
+    "methods": [
+      "Conduct fieldwork in one of the largest cities in Denmark to gather data on the use of Ritalin among heavy drug users.",
+      "Apply anthropological theories on imitation and material semiotics to analyze the transformation of the drug, treatment practices, drug scene, and user bodies."
+    ],
+    "results": [
+      "Provide insights into the non-investigated side effects of the ADHD epidemic, particularly the use of Ritalin among heavy drug users.",
+      "Offer a detailed understanding of how different methods of ingesting Ritalin transform the drug, treatment practices, parts of the drug scene, and the bodies of users."
+    ],
+    "research_subject": "Side effects of the ADHD epidemic and the transformational effects of Ritalin use among heavy drug users"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The ADHD epidemic and Ritalin use have been extensively studied in relation to medicalization and performance enhancement, but the use of prescription Ritalin among heavy drug users remains uninvestigated.",
+      "There is a need to understand how the ADHD epidemic has unintended consequences beyond its primary medical context, particularly in drug-using communities."
+    ],
+    "objectives": [
+      "Trace the spread of intravenous Ritalin use among heavy drug users in urban Denmark.",
+      "Examine how different methods of ingesting Ritalin transform the drug, treatment practices, the drug scene, and users' bodies."
+    ],
+    "methods": [
+      "Conduct ethnographic fieldwork in one of Denmark's largest cities focusing on heavy drug users.",
+      "Apply anthropological theories on imitation and material semiotics to analyze the transformation of Ritalin use."
+    ],
+    "results": [
+      "Different ingestion methods of Ritalin create transformations in the drug's effects, treatment practices, and the physical bodies of users.",
+      "The ADHD epidemic has produced unintended side effects that extend into drug-using communities through the repurposing of prescription medications."
+    ],
+    "research_subject": "Non-medical use of prescription Ritalin among heavy drug users as a side effect of the ADHD epidemic"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The ADHD epidemic has led to concerns about the medicalization of children and the misuse of Ritalin.\",\n    \"There is a need to investigate the non-examined side effects of the ADHD epidemic, particularly the use of Ritalin among heavy drug users.\"\n  ],\n  \"objectives\": [\n    \"Examine the spread of intravenous Ritalin use among heavy drug users in a major Danish city.\",\n    \"Analyze how different methods of ingesting Ritalin transform the drug, treatment practices, the drug scene, and user bodies.\"\n  ],\n  \"methods\": [\n    \"Conduct fieldwork in a major Danish city to gather data on Ritalin use among heavy drug users.\",\n    \"Apply anthropological theories on imitation and material semiotics to analyze the transformation of Ritalin and its effects.\"\n  ],\n  \"results\": [\n    \"Gain insight into the unintended consequences of the ADHD epidemic, specifically the misuse of Ritalin among heavy drug users.\",\n    \"Understand how Ritalin is transformed through different ingestion methods and its impact on treatment practices and user bodies.\"\n  ],\n  \"research_subject\": \"The misuse of Ritalin among heavy drug users and its transformation in the context of the ADHD epidemic\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The ADHD epidemic and the associated use of Ritalin has been widely studied, but the side effects and usage among heavy drug users have not been thoroughly investigated.\",\n    \"There is a need to understand how different methods of ingesting Ritalin transform the drug, treatment practices, parts of the drug scene, and the bodies of users.\"\n  ],\n  \"objectives\": [\n    \"Trace the spread of intravenous use of Ritalin among heavy drug users in one of the largest cities in Denmark.\",\n    \"Examine how different ways of ingesting Ritalin transform the drug itself, treatment practices, parts of the drug scene, and the bodies of users.\"\n  ],\n  \"methods\": [\n    \"Conduct fieldwork in one of the largest cities in Denmark to gather data on the use of Ritalin among heavy drug users.\",\n    \"Apply anthropological theories on imitation and material semiotics to analyze the transformation of the drug, treatment practices, drug scene, and user bodies.\"\n  ],\n  \"results\": [\n    \"Provide insights into the non-investigated side effects of the ADHD epidemic, particularly the use of Ritalin among heavy drug users.\",\n    \"Offer a detailed understanding of how different methods of ingesting Ritalin transform the drug, treatment practices, parts of the drug scene, and the bodies of users.\"\n  ],\n  \"research_subject\": \"Side effects of the ADHD epidemic and the transformational effects of Ritalin use among heavy drug users\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The ADHD epidemic and Ritalin use have been extensively studied in relation to medicalization and performance enhancement, but the use of prescription Ritalin among heavy drug users remains uninvestigated.\",\n    \"There is a need to understand how the ADHD epidemic has unintended consequences beyond its primary medical context, particularly in drug-using communities.\"\n  ],\n  \"objectives\": [\n    \"Trace the spread of intravenous Ritalin use among heavy drug users in urban Denmark.\",\n    \"Examine how different methods of ingesting Ritalin transform the drug, treatment practices, the drug scene, and users' bodies.\"\n  ],\n  \"methods\": [\n    \"Conduct ethnographic fieldwork in one of Denmark's largest cities focusing on heavy drug users.\",\n    \"Apply anthropological theories on imitation and material semiotics to analyze the transformation of Ritalin use.\"\n  ],\n  \"results\": [\n    \"Different ingestion methods of Ritalin create transformations in the drug's effects, treatment practices, and the physical bodies of users.\",\n    \"The ADHD epidemic has produced unintended side effects that extend into drug-using communities through the repurposing of prescription medications.\"\n  ],\n  \"research_subject\": \"Non-medical use of prescription Ritalin among heavy drug users as a side effect of the ADHD epidemic\"\n}\n```"
+}

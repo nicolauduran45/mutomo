@@ -1,0 +1,71 @@
+{
+  "index": 41,
+  "title": "Analysis of Medical Resource Utilization and Outcome of Inhaled Nitric Oxide in Patients Undergoing Mechanical Ventilation",
+  "abstract": "Inhaled nitric oxide (iNO) is a potent selective pulmonary vasodilator, which is used in critically ill patients to improve oxygenation. It avoids systemic hypotension and ventilator-induced lung injury in patients using ventilators. This study explored the medical resource utilization and outcome, and predicted risk factors for mortality in patients using ventilators with iNO. The database was from the National Health Insurance hospital claims data in Taiwan from 2004 to 2009. The patients using ventilators with iNO were collected and stratified by age to 20–44 years, 45–64 years, 65–74 years, and ≥ 75 years. Seven hundred and thirty ventilator patients with iNO were enrolled (63.15% male, mean age 60 years). Mechanical ventilation (MV) weaning rate was 18.25%, intensive care unit (ICU) readmission rate was 5.75%, and ICU mortality rate was 74.52%. ICU mortality rate was lower, case-mix index, MV weaning rate, and hospital costs were higher for patients aged 20–44 years and 45–64 years than in those aged 65–74 years and ≥ 75 years ( p < 0.05). Sex, case-mix index, Charlson comorbidity index, whether MV weaning ( p < 0.001), different age group, and implementation of tracheostomy ( p < 0.05) were all significant risk factors in predicting mortality of patients using ventilators with iNO. This study showed that the outcome differed with age in patients using ventilators with iNO.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the effectiveness and resource utilization of inhaled nitric oxide (iNO) in patients undergoing mechanical ventilation.",
+      "The impact of age on medical resource utilization and outcomes in patients using ventilators with iNO is not well understood."
+    ],
+    "objectives": [
+      "Analyze the medical resource utilization and outcomes of patients using ventilators with iNO.",
+      "Identify risk factors for mortality in patients using ventilators with iNO.",
+      "Examine the effect of age on outcomes in patients using ventilators with iNO."
+    ],
+    "methods": [
+      "Analyze data from the National Health Insurance hospital claims database in Taiwan.",
+      "Stratify patients by age and examine outcomes, including mechanical ventilation weaning rate, intensive care unit readmission rate, and mortality rate.",
+      "Use statistical analysis to identify significant risk factors for mortality."
+    ],
+    "results": [
+      "ICU mortality rate was lower and hospital costs were higher for younger patients (20-44 years and 45-64 years) compared to older patients (65-74 years and ≥ 75 years).",
+      "Significant risk factors for mortality included sex, case-mix index, Charlson comorbidity index, mechanical ventilation weaning, age group, and implementation of tracheostomy.",
+      "Outcomes differed significantly with age in patients using ventilators with iNO."
+    ],
+    "research_subject": "Analysis of medical resource utilization and outcomes of inhaled nitric oxide in patients undergoing mechanical ventilation"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the medical resource utilization and outcomes of using inhaled nitric oxide (iNO) in patients undergoing mechanical ventilation.",
+      "Identifying risk factors for mortality in patients using ventilators with iNO can help improve patient management and outcomes."
+    ],
+    "objectives": [
+      "Explore the medical resource utilization and outcomes in patients using ventilators with iNO.",
+      "Predict risk factors for mortality in patients using ventilators with iNO."
+    ],
+    "methods": [
+      "Analyze National Health Insurance hospital claims data in Taiwan from 2004 to 2009.",
+      "Stratify patients using ventilators with iNO by age groups.",
+      "Identify significant risk factors in predicting mortality of patients using ventilators with iNO."
+    ],
+    "results": [
+      "The outcome of using iNO in ventilator patients differs with age.",
+      "Identified sex, case-mix index, Charlson comorbidity index, mechanical ventilation weaning, age group, and implementation of tracheostomy as significant risk factors for mortality."
+    ],
+    "research_subject": "Analysis of medical resource utilization and outcome of inhaled nitric oxide in patients undergoing mechanical ventilation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Inhaled nitric oxide is used to improve oxygenation in critically ill patients on mechanical ventilation, but its impact on medical resource utilization and patient outcomes needs better understanding.",
+      "There is a need to identify risk factors for mortality in mechanically ventilated patients receiving inhaled nitric oxide therapy."
+    ],
+    "objectives": [
+      "Explore medical resource utilization and clinical outcomes in mechanically ventilated patients receiving inhaled nitric oxide therapy.",
+      "Identify and analyze risk factors for mortality in patients using ventilators with inhaled nitric oxide across different age groups."
+    ],
+    "methods": [
+      "Analyzed National Health Insurance hospital claims data from Taiwan to examine patients using mechanical ventilation with inhaled nitric oxide.",
+      "Stratified patients by age groups and compared outcomes including ICU mortality, ventilator weaning rates, and medical resource utilization.",
+      "Applied statistical analysis to identify significant risk factors predicting mortality."
+    ],
+    "results": [
+      "ICU mortality rate was 74.52%, with younger patients showing lower mortality rates and higher ventilator weaning rates compared to older patients.",
+      "Sex, case-mix index, Charlson comorbidity index, ventilator weaning status, age group, and tracheostomy implementation were significant predictors of mortality.",
+      "Medical resource utilization and clinical outcomes varied significantly across different age groups."
+    ],
+    "research_subject": "Medical resource utilization and mortality outcomes in mechanically ventilated patients receiving inhaled nitric oxide therapy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the effectiveness and resource utilization of inhaled nitric oxide (iNO) in patients undergoing mechanical ventilation.\",\n    \"The impact of age on medical resource utilization and outcomes in patients using ventilators with iNO is not well understood.\"\n  ],\n  \"objectives\": [\n    \"Analyze the medical resource utilization and outcomes of patients using ventilators with iNO.\",\n    \"Identify risk factors for mortality in patients using ventilators with iNO.\",\n    \"Examine the effect of age on outcomes in patients using ventilators with iNO.\"\n  ],\n  \"methods\": [\n    \"Analyze data from the National Health Insurance hospital claims database in Taiwan.\",\n    \"Stratify patients by age and examine outcomes, including mechanical ventilation weaning rate, intensive care unit readmission rate, and mortality rate.\",\n    \"Use statistical analysis to identify significant risk factors for mortality.\"\n  ],\n  \"results\": [\n    \"ICU mortality rate was lower and hospital costs were higher for younger patients (20-44 years and 45-64 years) compared to older patients (65-74 years and ≥ 75 years).\",\n    \"Significant risk factors for mortality included sex, case-mix index, Charlson comorbidity index, mechanical ventilation weaning, age group, and implementation of tracheostomy.\",\n    \"Outcomes differed significantly with age in patients using ventilators with iNO.\"\n  ],\n  \"research_subject\": \"Analysis of medical resource utilization and outcomes of inhaled nitric oxide in patients undergoing mechanical ventilation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the medical resource utilization and outcomes of using inhaled nitric oxide (iNO) in patients undergoing mechanical ventilation.\",\n    \"Identifying risk factors for mortality in patients using ventilators with iNO can help improve patient management and outcomes.\"\n  ],\n  \"objectives\": [\n    \"Explore the medical resource utilization and outcomes in patients using ventilators with iNO.\",\n    \"Predict risk factors for mortality in patients using ventilators with iNO.\"\n  ],\n  \"methods\": [\n    \"Analyze National Health Insurance hospital claims data in Taiwan from 2004 to 2009.\",\n    \"Stratify patients using ventilators with iNO by age groups.\",\n    \"Identify significant risk factors in predicting mortality of patients using ventilators with iNO.\"\n  ],\n  \"results\": [\n    \"The outcome of using iNO in ventilator patients differs with age.\",\n    \"Identified sex, case-mix index, Charlson comorbidity index, mechanical ventilation weaning, age group, and implementation of tracheostomy as significant risk factors for mortality.\"\n  ],\n  \"research_subject\": \"Analysis of medical resource utilization and outcome of inhaled nitric oxide in patients undergoing mechanical ventilation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Inhaled nitric oxide is used to improve oxygenation in critically ill patients on mechanical ventilation, but its impact on medical resource utilization and patient outcomes needs better understanding.\",\n    \"There is a need to identify risk factors for mortality in mechanically ventilated patients receiving inhaled nitric oxide therapy.\"\n  ],\n  \"objectives\": [\n    \"Explore medical resource utilization and clinical outcomes in mechanically ventilated patients receiving inhaled nitric oxide therapy.\",\n    \"Identify and analyze risk factors for mortality in patients using ventilators with inhaled nitric oxide across different age groups.\"\n  ],\n  \"methods\": [\n    \"Analyzed National Health Insurance hospital claims data from Taiwan to examine patients using mechanical ventilation with inhaled nitric oxide.\",\n    \"Stratified patients by age groups and compared outcomes including ICU mortality, ventilator weaning rates, and medical resource utilization.\",\n    \"Applied statistical analysis to identify significant risk factors predicting mortality.\"\n  ],\n  \"results\": [\n    \"ICU mortality rate was 74.52%, with younger patients showing lower mortality rates and higher ventilator weaning rates compared to older patients.\",\n    \"Sex, case-mix index, Charlson comorbidity index, ventilator weaning status, age group, and tracheostomy implementation were significant predictors of mortality.\",\n    \"Medical resource utilization and clinical outcomes varied significantly across different age groups.\"\n  ],\n  \"research_subject\": \"Medical resource utilization and mortality outcomes in mechanically ventilated patients receiving inhaled nitric oxide therapy\"\n}\n```"
+}

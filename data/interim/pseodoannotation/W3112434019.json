@@ -1,0 +1,72 @@
+{
+  "index": 25,
+  "title": "The strategy of shifting cultivators in West Kalimantan in adapting to the market economy: empirical evidence behind gaps in interdisciplinary communication",
+  "abstract": "Issues of climate change and expansion of large-scale land acquisition for industrial plantations continue to ravage the shifting cultivation system that 300–500 million subsistence farmer households depend on. In Indonesia, particularly in Kalimantan and Sumatera, village communities continue to practice shifting cultivation amidst the conversion of lands into industrial plantations. The rampant conversion of farmer's land by large scale companies based in the market economy has resulted in the decline of the shifting cultivation system, and compelled them to enter commercial production. I employed qualitative methods, conducting in-depth interviews and observations in West Kalimantan in 2018. Shifting cultivation today is not just for subsistence, but it is also a strategy to maintain claims to land that has been handed over to companies. Concurrently, people have been developing community plantations using industrial commodities such as rubber and oil palm, which still incorporate subsistence features. The changes occurring in villages have led to conflict since land availability has reduced, while the alternative of working for forestry and plantation companies is hampered by their lack of skills and knowledge. Theoretically, this study indicates the need for communication and synergy between the perspectives of political ecology and cultural ecology in order to understand the socio-politico-economic complexities haunting the village community's alterations in subsistence strategies. The practical implications are that land-based village development should open up communication among stakeholders and position village communities as the key beneficiary in the long run. Keywords: Shifting cultivation, land conversion, adaptation strategy, market economy, political ecology, Kalimantan, Indonesia",
+  "llama_json": {
+    "motivations": [
+      "Shifting cultivators face challenges due to climate change and large-scale land acquisition for industrial plantations, threatening their subsistence farming practices.",
+      "There is a need to understand the complexities of village communities adapting to the market economy and the impact on their subsistence strategies."
+    ],
+    "objectives": [
+      "Investigate the adaptation strategies of shifting cultivators in West Kalimantan in response to the market economy and land conversion.",
+      "Explore the socio-politico-economic complexities affecting village communities' subsistence strategies and identify the need for interdisciplinary communication."
+    ],
+    "methods": [
+      "Employ qualitative methods, including in-depth interviews and observations, to gather empirical evidence on the adaptation strategies of shifting cultivators."
+    ],
+    "results": [
+      "Shifting cultivators are developing community plantations using industrial commodities while maintaining subsistence features as a strategy to adapt to the market economy.",
+      "The study highlights the need for communication and synergy between political ecology and cultural ecology perspectives to understand the complexities of village community adaptations."
+    ],
+    "research_subject": "Adaptation strategies of shifting cultivators in West Kalimantan in response to the market economy"
+  },
+  "openai_json": {
+    "motivations": [
+      "Shifting cultivators in West Kalimantan are facing challenges due to climate change, large-scale land acquisition, and the expansion of industrial plantations.",
+      "The conversion of lands into industrial plantations has led to a decline in the shifting cultivation system and forced farmers into commercial production.",
+      "There is a lack of understanding and communication between different disciplinary perspectives on the socio-politico-economic complexities affecting these communities."
+    ],
+    "objectives": [
+      "Understand the strategies of shifting cultivators in West Kalimantan in adapting to the market economy.",
+      "Explore the implications of land conversion and the shift towards commercial production on these communities.",
+      "Highlight the need for communication and synergy between political ecology and cultural ecology perspectives to understand these complexities."
+    ],
+    "methods": [
+      "Conduct in-depth interviews and observations in West Kalimantan.",
+      "Analyze the changes in shifting cultivation practices and their implications on land claims and community plantations.",
+      "Examine the conflicts arising from reduced land availability and the challenges faced by communities in adapting to work for forestry and plantation companies."
+    ],
+    "results": [
+      "Shifting cultivation is not just for subsistence, but also a strategy to maintain land claims amidst land conversion.",
+      "Communities are developing community plantations using industrial commodities, which still incorporate subsistence features.",
+      "The changes in villages have led to conflict due to reduced land availability and lack of skills and knowledge to work for forestry and plantation companies."
+    ],
+    "research_subject": "Adaptation strategies of shifting cultivators in West Kalimantan to the market economy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Climate change and large-scale land acquisition for industrial plantations threaten the shifting cultivation system that supports 300-500 million subsistence farmer households.",
+      "The conversion of farmers' land by market-based companies has led to the decline of shifting cultivation and forced farmers to enter commercial production.",
+      "There is a gap in interdisciplinary communication between political ecology and cultural ecology perspectives in understanding village communities' adaptation strategies."
+    ],
+    "objectives": [
+      "Examine how shifting cultivators in West Kalimantan adapt their practices in response to market economy pressures and land conversion.",
+      "Analyze the transformation of shifting cultivation from a subsistence practice to a land claim maintenance strategy.",
+      "Bridge the theoretical gap between political ecology and cultural ecology perspectives to better understand socio-economic complexities in village communities."
+    ],
+    "methods": [
+      "Qualitative research approach using in-depth interviews and observations conducted in West Kalimantan.",
+      "Analysis of shifting cultivation practices and community plantation development strategies.",
+      "Examination of conflicts arising from reduced land availability and employment challenges."
+    ],
+    "results": [
+      "Shifting cultivation has evolved from purely subsistence farming to a strategy for maintaining land claims against company encroachment.",
+      "Communities have developed hybrid plantation systems incorporating both industrial commodities and subsistence features.",
+      "The study reveals the need for improved stakeholder communication and positioning village communities as key beneficiaries in land-based development."
+    ],
+    "research_subject": "Adaptation strategies of shifting cultivators in West Kalimantan to market economy pressures"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Shifting cultivators face challenges due to climate change and large-scale land acquisition for industrial plantations, threatening their subsistence farming practices.\",\n    \"There is a need to understand the complexities of village communities adapting to the market economy and the impact on their subsistence strategies.\"\n  ],\n  \"objectives\": [\n    \"Investigate the adaptation strategies of shifting cultivators in West Kalimantan in response to the market economy and land conversion.\",\n    \"Explore the socio-politico-economic complexities affecting village communities' subsistence strategies and identify the need for interdisciplinary communication.\"\n  ],\n  \"methods\": [\n    \"Employ qualitative methods, including in-depth interviews and observations, to gather empirical evidence on the adaptation strategies of shifting cultivators.\"\n  ],\n  \"results\": [\n    \"Shifting cultivators are developing community plantations using industrial commodities while maintaining subsistence features as a strategy to adapt to the market economy.\",\n    \"The study highlights the need for communication and synergy between political ecology and cultural ecology perspectives to understand the complexities of village community adaptations.\"\n  ],\n  \"research_subject\": \"Adaptation strategies of shifting cultivators in West Kalimantan in response to the market economy\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Shifting cultivators in West Kalimantan are facing challenges due to climate change, large-scale land acquisition, and the expansion of industrial plantations.\",\n    \"The conversion of lands into industrial plantations has led to a decline in the shifting cultivation system and forced farmers into commercial production.\",\n    \"There is a lack of understanding and communication between different disciplinary perspectives on the socio-politico-economic complexities affecting these communities.\"\n  ],\n  \"objectives\": [\n    \"Understand the strategies of shifting cultivators in West Kalimantan in adapting to the market economy.\",\n    \"Explore the implications of land conversion and the shift towards commercial production on these communities.\",\n    \"Highlight the need for communication and synergy between political ecology and cultural ecology perspectives to understand these complexities.\"\n  ],\n  \"methods\": [\n    \"Conduct in-depth interviews and observations in West Kalimantan.\",\n    \"Analyze the changes in shifting cultivation practices and their implications on land claims and community plantations.\",\n    \"Examine the conflicts arising from reduced land availability and the challenges faced by communities in adapting to work for forestry and plantation companies.\"\n  ],\n  \"results\": [\n    \"Shifting cultivation is not just for subsistence, but also a strategy to maintain land claims amidst land conversion.\",\n    \"Communities are developing community plantations using industrial commodities, which still incorporate subsistence features.\",\n    \"The changes in villages have led to conflict due to reduced land availability and lack of skills and knowledge to work for forestry and plantation companies.\"\n  ],\n  \"research_subject\": \"Adaptation strategies of shifting cultivators in West Kalimantan to the market economy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Climate change and large-scale land acquisition for industrial plantations threaten the shifting cultivation system that supports 300-500 million subsistence farmer households.\",\n    \"The conversion of farmers' land by market-based companies has led to the decline of shifting cultivation and forced farmers to enter commercial production.\",\n    \"There is a gap in interdisciplinary communication between political ecology and cultural ecology perspectives in understanding village communities' adaptation strategies.\"\n  ],\n  \"objectives\": [\n    \"Examine how shifting cultivators in West Kalimantan adapt their practices in response to market economy pressures and land conversion.\",\n    \"Analyze the transformation of shifting cultivation from a subsistence practice to a land claim maintenance strategy.\",\n    \"Bridge the theoretical gap between political ecology and cultural ecology perspectives to better understand socio-economic complexities in village communities.\"\n  ],\n  \"methods\": [\n    \"Qualitative research approach using in-depth interviews and observations conducted in West Kalimantan.\",\n    \"Analysis of shifting cultivation practices and community plantation development strategies.\",\n    \"Examination of conflicts arising from reduced land availability and employment challenges.\"\n  ],\n  \"results\": [\n    \"Shifting cultivation has evolved from purely subsistence farming to a strategy for maintaining land claims against company encroachment.\",\n    \"Communities have developed hybrid plantation systems incorporating both industrial commodities and subsistence features.\",\n    \"The study reveals the need for improved stakeholder communication and positioning village communities as key beneficiaries in land-based development.\"\n  ],\n  \"research_subject\": \"Adaptation strategies of shifting cultivators in West Kalimantan to market economy pressures\"\n}\n```"
+}

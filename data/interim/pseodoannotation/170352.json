@@ -1,0 +1,68 @@
+{
+  "index": 400,
+  "title": "Biopsy equivalent optical fiber multifunctional endoscope",
+  "abstract": "The BiOp-FibEnd project aims to develop a functional optical fiber for in-vivo examination of suspect tissues. The information obtained is equivalent to that of a biopsy without removing samples from the living body. The main contribution of this technique is to detect earlier, without bringing distress and discomfort to the patient, diseases such as cancer, coronary obstructions, and many others. To this purpose a hyper-lens providing super-resolved imaging in the mid-IR, mid-IR spectroscopy and optical coherence tomography (OCT) will be combined. A fiber endoscope, ready for in-vivo tests, able to observe and get spectroscopy information of living tissues will be realized.",
+  "llama_json": {
+    "motivations": [
+      "Current biopsy methods require removing tissue samples from the body, causing distress and discomfort to patients.",
+      "There is a need for earlier detection of diseases such as cancer and coronary obstructions without invasive procedures."
+    ],
+    "objectives": [
+      "Develop a functional optical fiber for in-vivo examination of suspect tissues, providing information equivalent to a biopsy.",
+      "Combine hyper-lens, mid-IR spectroscopy, and optical coherence tomography (OCT) for super-resolved imaging and spectroscopy."
+    ],
+    "methods": [
+      "Design and develop a hyper-lens for super-resolved imaging in the mid-IR range.",
+      "Integrate mid-IR spectroscopy and OCT into a fiber endoscope for in-vivo tissue examination."
+    ],
+    "results": [
+      "Enable earlier detection of diseases without invasive biopsy procedures.",
+      "Provide a more comfortable and distress-free diagnostic experience for patients."
+    ],
+    "research_subject": "Development of a biopsy-equivalent optical fiber multifunctional endoscope for in-vivo tissue examination"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for non-invasive in-vivo examination of suspect tissues that can provide information equivalent to a biopsy.",
+      "Current methods of tissue examination can cause distress and discomfort to the patient and may not detect diseases such as cancer and coronary obstructions early enough."
+    ],
+    "objectives": [
+      "Develop a functional optical fiber for in-vivo examination of suspect tissues that can provide biopsy-equivalent information.",
+      "Combine hyper-lens imaging, mid-IR spectroscopy, and optical coherence tomography (OCT) to enhance the examination technique.",
+      "Create a fiber endoscope ready for in-vivo tests that can observe and get spectroscopy information of living tissues."
+    ],
+    "methods": [
+      "Use a hyper-lens for super-resolved imaging in the mid-IR.",
+      "Apply mid-IR spectroscopy and optical coherence tomography (OCT) for detailed tissue examination.",
+      "Develop a fiber endoscope for in-vivo tests."
+    ],
+    "results": [
+      "Enable non-invasive, in-vivo examination of suspect tissues, reducing patient distress and discomfort.",
+      "Improve early detection of diseases such as cancer and coronary obstructions.",
+      "Provide detailed spectroscopy information of living tissues."
+    ],
+    "research_subject": "Development of a biopsy equivalent optical fiber multifunctional endoscope"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional biopsies cause patient distress and discomfort while requiring tissue removal from the body.",
+      "There is a need for earlier detection of diseases such as cancer and coronary obstructions through less invasive diagnostic methods."
+    ],
+    "objectives": [
+      "Develop a functional optical fiber endoscope that provides biopsy-equivalent information without tissue removal.",
+      "Enable early detection of diseases through in-vivo examination of suspect tissues using advanced optical techniques."
+    ],
+    "methods": [
+      "Combine hyper-lens technology for super-resolved imaging in the mid-IR spectrum with mid-IR spectroscopy and optical coherence tomography.",
+      "Develop a fiber endoscope system capable of observing and obtaining spectroscopic information from living tissues."
+    ],
+    "results": [
+      "Enable non-invasive, real-time tissue examination that provides diagnostic information equivalent to traditional biopsies.",
+      "Facilitate earlier disease detection while reducing patient discomfort and eliminating the need for tissue removal."
+    ],
+    "research_subject": "Non-invasive optical fiber endoscope for biopsy-equivalent tissue examination"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current biopsy methods require removing tissue samples from the body, causing distress and discomfort to patients.\",\n    \"There is a need for earlier detection of diseases such as cancer and coronary obstructions without invasive procedures.\"\n  ],\n  \"objectives\": [\n    \"Develop a functional optical fiber for in-vivo examination of suspect tissues, providing information equivalent to a biopsy.\",\n    \"Combine hyper-lens, mid-IR spectroscopy, and optical coherence tomography (OCT) for super-resolved imaging and spectroscopy.\"\n  ],\n  \"methods\": [\n    \"Design and develop a hyper-lens for super-resolved imaging in the mid-IR range.\",\n    \"Integrate mid-IR spectroscopy and OCT into a fiber endoscope for in-vivo tissue examination.\"\n  ],\n  \"results\": [\n    \"Enable earlier detection of diseases without invasive biopsy procedures.\",\n    \"Provide a more comfortable and distress-free diagnostic experience for patients.\"\n  ],\n  \"research_subject\": \"Development of a biopsy-equivalent optical fiber multifunctional endoscope for in-vivo tissue examination\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for non-invasive in-vivo examination of suspect tissues that can provide information equivalent to a biopsy.\",\n    \"Current methods of tissue examination can cause distress and discomfort to the patient and may not detect diseases such as cancer and coronary obstructions early enough.\"\n  ],\n  \"objectives\": [\n    \"Develop a functional optical fiber for in-vivo examination of suspect tissues that can provide biopsy-equivalent information.\",\n    \"Combine hyper-lens imaging, mid-IR spectroscopy, and optical coherence tomography (OCT) to enhance the examination technique.\",\n    \"Create a fiber endoscope ready for in-vivo tests that can observe and get spectroscopy information of living tissues.\"\n  ],\n  \"methods\": [\n    \"Use a hyper-lens for super-resolved imaging in the mid-IR.\",\n    \"Apply mid-IR spectroscopy and optical coherence tomography (OCT) for detailed tissue examination.\",\n    \"Develop a fiber endoscope for in-vivo tests.\"\n  ],\n  \"results\": [\n    \"Enable non-invasive, in-vivo examination of suspect tissues, reducing patient distress and discomfort.\",\n    \"Improve early detection of diseases such as cancer and coronary obstructions.\",\n    \"Provide detailed spectroscopy information of living tissues.\"\n  ],\n  \"research_subject\": \"Development of a biopsy equivalent optical fiber multifunctional endoscope\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional biopsies cause patient distress and discomfort while requiring tissue removal from the body.\",\n    \"There is a need for earlier detection of diseases such as cancer and coronary obstructions through less invasive diagnostic methods.\"\n  ],\n  \"objectives\": [\n    \"Develop a functional optical fiber endoscope that provides biopsy-equivalent information without tissue removal.\",\n    \"Enable early detection of diseases through in-vivo examination of suspect tissues using advanced optical techniques.\"\n  ],\n  \"methods\": [\n    \"Combine hyper-lens technology for super-resolved imaging in the mid-IR spectrum with mid-IR spectroscopy and optical coherence tomography.\",\n    \"Develop a fiber endoscope system capable of observing and obtaining spectroscopic information from living tissues.\"\n  ],\n  \"results\": [\n    \"Enable non-invasive, real-time tissue examination that provides diagnostic information equivalent to traditional biopsies.\",\n    \"Facilitate earlier disease detection while reducing patient discomfort and eliminating the need for tissue removal.\"\n  ],\n  \"research_subject\": \"Non-invasive optical fiber endoscope for biopsy-equivalent tissue examination\"\n}\n```"
+}

@@ -1,0 +1,71 @@
+{
+  "index": 369,
+  "title": "The age prospective memory paradox within the same sample in time-based and event-based tasks",
+  "abstract": "The present research investigated the age prospective memory (PM) paradox by testing the performance of the same participants on laboratory and naturalistic PM tasks. Younger, middle-aged, and older adults performed three tasks (time-based, event-based with focal cue, and event-based with nonfocal cue); first in the laboratory, then in the context of their everyday lives. Additionally, the social importance of PM tasks was manipulated in the laboratory. As expected, age-dependent declines on the laboratory tasks were reversed in the naturalistic tasks. Middle-aged adults performed as well as younger adults in the laboratory and as well as the elderly outside of the laboratory. When the social importance of laboratory tasks was stressed, the performance of younger adults fell. In addition, older adults showed higher self-reported commitment to the naturalistic tasks than both younger and middle-aged adults. Findings are discussed in the context of possible explanations for the age PM paradox.",
+  "llama_json": {
+    "motivations": [
+      "The age prospective memory paradox, where older adults perform poorly in laboratory tasks but excel in real-life tasks, is not well understood.",
+      "There is a need to investigate the impact of social importance on prospective memory performance across different age groups."
+    ],
+    "objectives": [
+      "Investigate the age prospective memory paradox by comparing laboratory and naturalistic task performance within the same sample.",
+      "Examine the effect of social importance on prospective memory performance across different age groups."
+    ],
+    "methods": [
+      "Conduct laboratory and naturalistic prospective memory tasks with younger, middle-aged, and older adults.",
+      "Manipulate the social importance of laboratory tasks to assess its impact on performance."
+    ],
+    "results": [
+      "Age-dependent declines in laboratory tasks are reversed in naturalistic tasks.",
+      "Middle-aged adults perform similarly to younger adults in laboratory tasks and to older adults in naturalistic tasks.",
+      "Stressing social importance in laboratory tasks negatively affects younger adults' performance."
+    ],
+    "research_subject": "The age prospective memory paradox and the impact of social importance on prospective memory performance"
+  },
+  "openai_json": {
+    "motivations": [
+      "The age prospective memory (PM) paradox, where older adults perform better in naturalistic tasks than in laboratory tasks, is not well understood.",
+      "There is a need to investigate the performance of different age groups on various types of PM tasks in both laboratory and naturalistic settings."
+    ],
+    "objectives": [
+      "Examine the performance of younger, middle-aged, and older adults on time-based and event-based PM tasks in both laboratory and naturalistic settings.",
+      "Investigate the impact of the social importance of tasks on the performance of different age groups.",
+      "Explore the self-reported commitment of different age groups to naturalistic tasks."
+    ],
+    "methods": [
+      "Conduct three PM tasks (time-based, event-based with focal cue, and event-based with nonfocal cue) with participants in a laboratory setting and in their everyday lives.",
+      "Manipulate the social importance of PM tasks in the laboratory.",
+      "Collect self-reported commitment data from participants for the naturalistic tasks."
+    ],
+    "results": [
+      "Age-dependent declines observed in laboratory tasks were reversed in naturalistic tasks, supporting the age PM paradox.",
+      "Middle-aged adults performed similarly to younger adults in the laboratory and to older adults in naturalistic settings.",
+      "When the social importance of tasks was emphasized, younger adults' performance declined, and older adults showed higher commitment to naturalistic tasks."
+    ],
+    "research_subject": "Investigation of the age prospective memory paradox in time-based and event-based tasks"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Previous research shows conflicting results regarding age-related changes in prospective memory, with older adults performing worse in laboratory settings but better in naturalistic settings.",
+      "The age prospective memory paradox has not been thoroughly investigated using the same participants across both laboratory and naturalistic contexts."
+    ],
+    "objectives": [
+      "Investigate the age prospective memory paradox by testing the same participants on both laboratory and naturalistic prospective memory tasks.",
+      "Examine how social importance manipulation affects prospective memory performance across different age groups."
+    ],
+    "methods": [
+      "Participants from three age groups performed time-based and event-based prospective memory tasks in both laboratory and naturalistic settings.",
+      "Social importance of tasks was manipulated in the laboratory setting to assess its impact on performance.",
+      "Self-reported commitment levels were measured to understand motivational differences across age groups."
+    ],
+    "results": [
+      "Age-related declines observed in laboratory tasks were reversed in naturalistic settings, with older adults outperforming younger adults.",
+      "Emphasizing social importance decreased younger adults' performance while older adults showed higher commitment to naturalistic tasks.",
+      "Middle-aged adults demonstrated intermediate performance patterns, performing similarly to younger adults in laboratory settings and to older adults in naturalistic contexts."
+    ],
+    "research_subject": "Age-related differences in prospective memory performance across laboratory and naturalistic settings"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The age prospective memory paradox, where older adults perform poorly in laboratory tasks but excel in real-life tasks, is not well understood.\",\n    \"There is a need to investigate the impact of social importance on prospective memory performance across different age groups.\"\n  ],\n  \"objectives\": [\n    \"Investigate the age prospective memory paradox by comparing laboratory and naturalistic task performance within the same sample.\",\n    \"Examine the effect of social importance on prospective memory performance across different age groups.\"\n  ],\n  \"methods\": [\n    \"Conduct laboratory and naturalistic prospective memory tasks with younger, middle-aged, and older adults.\",\n    \"Manipulate the social importance of laboratory tasks to assess its impact on performance.\"\n  ],\n  \"results\": [\n    \"Age-dependent declines in laboratory tasks are reversed in naturalistic tasks.\",\n    \"Middle-aged adults perform similarly to younger adults in laboratory tasks and to older adults in naturalistic tasks.\",\n    \"Stressing social importance in laboratory tasks negatively affects younger adults' performance.\"\n  ],\n  \"research_subject\": \"The age prospective memory paradox and the impact of social importance on prospective memory performance\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The age prospective memory (PM) paradox, where older adults perform better in naturalistic tasks than in laboratory tasks, is not well understood.\",\n    \"There is a need to investigate the performance of different age groups on various types of PM tasks in both laboratory and naturalistic settings.\"\n  ],\n  \"objectives\": [\n    \"Examine the performance of younger, middle-aged, and older adults on time-based and event-based PM tasks in both laboratory and naturalistic settings.\",\n    \"Investigate the impact of the social importance of tasks on the performance of different age groups.\",\n    \"Explore the self-reported commitment of different age groups to naturalistic tasks.\"\n  ],\n  \"methods\": [\n    \"Conduct three PM tasks (time-based, event-based with focal cue, and event-based with nonfocal cue) with participants in a laboratory setting and in their everyday lives.\",\n    \"Manipulate the social importance of PM tasks in the laboratory.\",\n    \"Collect self-reported commitment data from participants for the naturalistic tasks.\"\n  ],\n  \"results\": [\n    \"Age-dependent declines observed in laboratory tasks were reversed in naturalistic tasks, supporting the age PM paradox.\",\n    \"Middle-aged adults performed similarly to younger adults in the laboratory and to older adults in naturalistic settings.\",\n    \"When the social importance of tasks was emphasized, younger adults' performance declined, and older adults showed higher commitment to naturalistic tasks.\"\n  ],\n  \"research_subject\": \"Investigation of the age prospective memory paradox in time-based and event-based tasks\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Previous research shows conflicting results regarding age-related changes in prospective memory, with older adults performing worse in laboratory settings but better in naturalistic settings.\",\n    \"The age prospective memory paradox has not been thoroughly investigated using the same participants across both laboratory and naturalistic contexts.\"\n  ],\n  \"objectives\": [\n    \"Investigate the age prospective memory paradox by testing the same participants on both laboratory and naturalistic prospective memory tasks.\",\n    \"Examine how social importance manipulation affects prospective memory performance across different age groups.\"\n  ],\n  \"methods\": [\n    \"Participants from three age groups performed time-based and event-based prospective memory tasks in both laboratory and naturalistic settings.\",\n    \"Social importance of tasks was manipulated in the laboratory setting to assess its impact on performance.\",\n    \"Self-reported commitment levels were measured to understand motivational differences across age groups.\"\n  ],\n  \"results\": [\n    \"Age-related declines observed in laboratory tasks were reversed in naturalistic settings, with older adults outperforming younger adults.\",\n    \"Emphasizing social importance decreased younger adults' performance while older adults showed higher commitment to naturalistic tasks.\",\n    \"Middle-aged adults demonstrated intermediate performance patterns, performing similarly to younger adults in laboratory settings and to older adults in naturalistic contexts.\"\n  ],\n  \"research_subject\": \"Age-related differences in prospective memory performance across laboratory and naturalistic settings\"\n}\n```"
+}

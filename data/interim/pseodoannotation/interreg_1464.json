@@ -1,0 +1,72 @@
+{
+  "index": 104,
+  "title": "Action Plan: Joint European Connections / Transboundary Transport for the Islands",
+  "abstract": "Between Corsica and Sardinia, there are no regular maritime connections that allow to develop economic, cultural and cooperation relations with continuity and fair costs. The GEECCTT-Iles action project takes on this Programme challenge to optimise and enhance relations between the islands of the cooperation area by creating an inter-insular connection tool to meet the needs of Corsica, Sardinia and Elba, all historically linked. Through analysis, definition and constitution, GEECCTT creates an EGTC - European Territorial Cooperation Group, a legal EU entity for the shared management of cross-border transport services between the islands. The creation of the EGTC will define the conditions for the management of regular cross-border maritime links between the islands, as well as the legal and administrative procedures for resolving the implications of this management at the Member State and European Commission level. GEECCTT will thus create the conditions for the development of innovative sustainable services for cross-border mobility between the islands through port nodes, also by facilitating the conditions for integration with the multimodal transport system to improve connections with TEN-T networks. The result is the setting up of conditions to create and manage jointly the relationships between Corsica and Sardinia—linked to the TEN-T systems—with an innovative perspective of cross-border continuity. The general population, businesses (especially SMEs) and the island and cooperation area communities will benefit from the result of this link that completes the upper Tyrrhenian area.",
+  "llama_json": {
+    "motivations": [
+      "There is a lack of regular maritime connections between Corsica and Sardinia, hindering economic, cultural, and cooperation relations between the islands.",
+      "Existing transport options are not continuous and have unfair costs, limiting the development of relations between the islands."
+    ],
+    "objectives": [
+      "Create an inter-insular connection tool to meet the needs of Corsica, Sardinia, and Elba, enhancing relations between the islands.",
+      "Establish a European Territorial Cooperation Group (EGTC) for the shared management of cross-border transport services between the islands.",
+      "Develop innovative sustainable services for cross-border mobility between the islands through port nodes and integration with the multimodal transport system."
+    ],
+    "methods": [
+      "Conduct analysis and definition of the conditions for the management of regular cross-border maritime links between the islands.",
+      "Create an EGTC as a legal EU entity for the shared management of cross-border transport services.",
+      "Define the legal and administrative procedures for resolving the implications of this management at the Member State and European Commission level."
+    ],
+    "results": [
+      "Establish conditions for the development of innovative sustainable services for cross-border mobility between the islands.",
+      "Improve connections with TEN-T networks through port nodes and integration with the multimodal transport system.",
+      "Benefit the general population, businesses, and island communities by completing the upper Tyrrhenian area with a new link."
+    ],
+    "research_subject": "Development of joint European connections and transboundary transport for islands in the Mediterranean"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a lack of regular maritime connections between Corsica and Sardinia, hindering economic, cultural, and cooperation relations.",
+      "The need to optimize and enhance relations between the islands of Corsica, Sardinia, and Elba, which are historically linked."
+    ],
+    "objectives": [
+      "Create an inter-insular connection tool to meet the needs of Corsica, Sardinia, and Elba.",
+      "Establish an EGTC - European Territorial Cooperation Group for the shared management of cross-border transport services between the islands.",
+      "Develop innovative sustainable services for cross-border mobility between the islands through port nodes and improve connections with TEN-T networks."
+    ],
+    "methods": [
+      "Conduct analysis, definition, and constitution to create an EGTC for shared management of cross-border transport services.",
+      "Define the conditions for the management of regular cross-border maritime links and the legal and administrative procedures for resolving implications at the Member State and European Commission level.",
+      "Facilitate the conditions for integration with the multimodal transport system to improve connections with TEN-T networks."
+    ],
+    "results": [
+      "Establishment of conditions to create and manage jointly the relationships between Corsica and Sardinia with an innovative perspective of cross-border continuity.",
+      "Development of innovative sustainable services for cross-border mobility, benefiting the general population, businesses, and the island and cooperation area communities."
+    ],
+    "research_subject": "Optimization of inter-insular connections and cross-border transport services between Corsica, Sardinia, and Elba"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The lack of regular maritime connections between Corsica and Sardinia hinders the development of economic, cultural, and cooperation relations.",
+      "Current transport options between the islands are characterized by discontinuity and unfair costs, limiting cross-border mobility and integration."
+    ],
+    "objectives": [
+      "Create an inter-insular connection tool through the establishment of a European Territorial Cooperation Group (EGTC) to manage cross-border transport services between Corsica, Sardinia, and Elba.",
+      "Develop innovative sustainable services for cross-border mobility between the islands and facilitate integration with multimodal transport systems and TEN-T networks."
+    ],
+    "methods": [
+      "Analyze, define, and establish an EGTC as a legal EU entity for shared management of cross-border maritime transport services.",
+      "Define legal and administrative procedures for managing regular cross-border maritime links at Member State and European Commission levels.",
+      "Develop port nodes and facilitate conditions for integration with multimodal transport systems."
+    ],
+    "results": [
+      "Establishment of conditions for creating and jointly managing relationships between Corsica and Sardinia with cross-border continuity.",
+      "Improved connections between the islands and TEN-T networks, benefiting the general population, businesses, and island communities.",
+      "Development of innovative sustainable cross-border mobility services that complete the upper Tyrrhenian area transport network."
+    ],
+    "research_subject": "Cross-border maritime transport management between European islands through EGTC establishment"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of regular maritime connections between Corsica and Sardinia, hindering economic, cultural, and cooperation relations between the islands.\",\n    \"Existing transport options are not continuous and have unfair costs, limiting the development of relations between the islands.\"\n  ],\n  \"objectives\": [\n    \"Create an inter-insular connection tool to meet the needs of Corsica, Sardinia, and Elba, enhancing relations between the islands.\",\n    \"Establish a European Territorial Cooperation Group (EGTC) for the shared management of cross-border transport services between the islands.\",\n    \"Develop innovative sustainable services for cross-border mobility between the islands through port nodes and integration with the multimodal transport system.\"\n  ],\n  \"methods\": [\n    \"Conduct analysis and definition of the conditions for the management of regular cross-border maritime links between the islands.\",\n    \"Create an EGTC as a legal EU entity for the shared management of cross-border transport services.\",\n    \"Define the legal and administrative procedures for resolving the implications of this management at the Member State and European Commission level.\"\n  ],\n  \"results\": [\n    \"Establish conditions for the development of innovative sustainable services for cross-border mobility between the islands.\",\n    \"Improve connections with TEN-T networks through port nodes and integration with the multimodal transport system.\",\n    \"Benefit the general population, businesses, and island communities by completing the upper Tyrrhenian area with a new link.\"\n  ],\n  \"research_subject\": \"Development of joint European connections and transboundary transport for islands in the Mediterranean\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of regular maritime connections between Corsica and Sardinia, hindering economic, cultural, and cooperation relations.\",\n    \"The need to optimize and enhance relations between the islands of Corsica, Sardinia, and Elba, which are historically linked.\"\n  ],\n  \"objectives\": [\n    \"Create an inter-insular connection tool to meet the needs of Corsica, Sardinia, and Elba.\",\n    \"Establish an EGTC - European Territorial Cooperation Group for the shared management of cross-border transport services between the islands.\",\n    \"Develop innovative sustainable services for cross-border mobility between the islands through port nodes and improve connections with TEN-T networks.\"\n  ],\n  \"methods\": [\n    \"Conduct analysis, definition, and constitution to create an EGTC for shared management of cross-border transport services.\",\n    \"Define the conditions for the management of regular cross-border maritime links and the legal and administrative procedures for resolving implications at the Member State and European Commission level.\",\n    \"Facilitate the conditions for integration with the multimodal transport system to improve connections with TEN-T networks.\"\n  ],\n  \"results\": [\n    \"Establishment of conditions to create and manage jointly the relationships between Corsica and Sardinia with an innovative perspective of cross-border continuity.\",\n    \"Development of innovative sustainable services for cross-border mobility, benefiting the general population, businesses, and the island and cooperation area communities.\"\n  ],\n  \"research_subject\": \"Optimization of inter-insular connections and cross-border transport services between Corsica, Sardinia, and Elba\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The lack of regular maritime connections between Corsica and Sardinia hinders the development of economic, cultural, and cooperation relations.\",\n    \"Current transport options between the islands are characterized by discontinuity and unfair costs, limiting cross-border mobility and integration.\"\n  ],\n  \"objectives\": [\n    \"Create an inter-insular connection tool through the establishment of a European Territorial Cooperation Group (EGTC) to manage cross-border transport services between Corsica, Sardinia, and Elba.\",\n    \"Develop innovative sustainable services for cross-border mobility between the islands and facilitate integration with multimodal transport systems and TEN-T networks.\"\n  ],\n  \"methods\": [\n    \"Analyze, define, and establish an EGTC as a legal EU entity for shared management of cross-border maritime transport services.\",\n    \"Define legal and administrative procedures for managing regular cross-border maritime links at Member State and European Commission levels.\",\n    \"Develop port nodes and facilitate conditions for integration with multimodal transport systems.\"\n  ],\n  \"results\": [\n    \"Establishment of conditions for creating and jointly managing relationships between Corsica and Sardinia with cross-border continuity.\",\n    \"Improved connections between the islands and TEN-T networks, benefiting the general population, businesses, and island communities.\",\n    \"Development of innovative sustainable cross-border mobility services that complete the upper Tyrrhenian area transport network.\"\n  ],\n  \"research_subject\": \"Cross-border maritime transport management between European islands through EGTC establishment\"\n}\n```"
+}

@@ -1,0 +1,67 @@
+{
+  "index": 42,
+  "title": "ACTIVITÉS DE DÉMARRAGE DANS LE DOMAINE DES SOINS COMPLÉMENTAIRES AUX PERSONNES ÂGÉES ET AUX PERSONNES HANDICAPÉES À LEUR DOMICILE ET/OU AUX STRUCTURES D’HÉBERGEMENT",
+  "abstract": "LA SOCIÉTÉ CONSTITUÉE PAR ACTE A ÉTÉ ENREGISTRÉE AU POUVOIR LE 03/11/2017, A L’INTENTION D’OPÉRER DANS LE DOMAINE DES SOINS COMPLÉMENTAIRES DANS LA PRISE EN CHARGE DES PERSONNES ÂGÉES ET DES HANDICAPÉS À LEUR DOMICILE ET/OU DES STRUCTURES D’HÉBERGEMENT. LES MEMBRES SONT DES TRAVAILLEURS SOCIAUX, L’ENTREPRISE OFFRE DES SERVICES QUALIFIÉS ET DES SOINS À DOMICILE À AZIANI, MALADES ET HANDICAPÉS QUI ONT BESOIN D’UNE AIDE CONCRÈTE À LA MAISON ET À L’HÔPITAL. LE PLAN D’INVESTISSEMENT PRÉVOIT LA RÉALISATION DE TRAVAUX DE MAÇONNERIE POUR L’ACHÈVEMENT DES STRUCTURES À ALLOUER AUX BUREAUX, L’ACQUISITION D’ÉQUIPEMENTS, D’AMEUBLEMENT, DE MACHINES, DE COMPOSANTS MATÉRIELS FONCTIONNELS À LA RÉALISATION DU CYCLE DE PRODUCTION ET DU SITE WEB DE L’ENTREPRISE.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for complementary care services for elderly and disabled individuals in their homes and/or accommodation structures.",
+      "The existing care services may not be sufficient or tailored to meet the specific needs of these populations."
+    ],
+    "objectives": [
+      "Provide qualified care services and home care to elderly, sick, and disabled individuals who require concrete assistance at home and in hospitals.",
+      "Establish a social enterprise to operate in the domain of complementary care for elderly and disabled individuals."
+    ],
+    "methods": [
+      "Offer home care services through a team of social workers.",
+      "Invest in infrastructure development, including masonry work, equipment acquisition, and website creation to support the enterprise's operations."
+    ],
+    "results": [
+      "Enhance the quality of life for elderly and disabled individuals through tailored care services.",
+      "Provide concrete assistance to those in need, improving their overall well-being and independence."
+    ],
+    "research_subject": "Complementary care services for elderly and disabled individuals"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for additional care for the elderly and disabled individuals at their homes or in care facilities.",
+      "Qualified services and home care are required for sick and disabled individuals who need practical help at home and in the hospital."
+    ],
+    "objectives": [
+      "Operate in the field of complementary care for the elderly and disabled at their homes or care facilities.",
+      "Provide qualified services and home care for individuals in need."
+    ],
+    "methods": [
+      "Utilize social workers to deliver the services.",
+      "Implement an investment plan that includes construction work for office structures, acquisition of equipment, furniture, machines, and functional material components for production cycle and company website."
+    ],
+    "results": [
+      "Provide practical help and care for elderly and disabled individuals at home and in hospital.",
+      "Establish structures and resources necessary for the operation of the company."
+    ],
+    "research_subject": "Complementary care services for the elderly and disabled at home or in care facilities"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Elderly and disabled individuals require complementary care services at their homes and/or in residential facilities to support their daily living needs.",
+      "There is a need for qualified social workers to provide specialized home care services for the elderly, sick, and disabled who require concrete assistance."
+    ],
+    "objectives": [
+      "Establish and operate a company specializing in complementary care services for elderly and disabled individuals at their homes and in residential facilities.",
+      "Provide qualified home care services through trained social workers to support elderly, sick, and disabled individuals in their daily activities."
+    ],
+    "methods": [
+      "Complete construction work to establish office facilities and acquire necessary equipment, furniture, and machinery for service delivery.",
+      "Develop a company website and implement a production cycle for delivering care services.",
+      "Deploy qualified social workers to provide specialized care services at homes and hospitals."
+    ],
+    "results": [
+      "Establishment of a functional care service company with completed infrastructure and operational capacity.",
+      "Delivery of qualified complementary care services to elderly and disabled individuals in their homes and residential facilities.",
+      "Improved quality of life and support for elderly, sick, and disabled individuals through professional home care services."
+    ],
+    "research_subject": "Startup activities in complementary care services for elderly and disabled individuals"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for complementary care services for elderly and disabled individuals in their homes and/or accommodation structures.\",\n    \"The existing care services may not be sufficient or tailored to meet the specific needs of these populations.\"\n  ],\n  \"objectives\": [\n    \"Provide qualified care services and home care to elderly, sick, and disabled individuals who require concrete assistance at home and in hospitals.\",\n    \"Establish a social enterprise to operate in the domain of complementary care for elderly and disabled individuals.\"\n  ],\n  \"methods\": [\n    \"Offer home care services through a team of social workers.\",\n    \"Invest in infrastructure development, including masonry work, equipment acquisition, and website creation to support the enterprise's operations.\"\n  ],\n  \"results\": [\n    \"Enhance the quality of life for elderly and disabled individuals through tailored care services.\",\n    \"Provide concrete assistance to those in need, improving their overall well-being and independence.\"\n  ],\n  \"research_subject\": \"Complementary care services for elderly and disabled individuals\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for additional care for the elderly and disabled individuals at their homes or in care facilities.\",\n    \"Qualified services and home care are required for sick and disabled individuals who need practical help at home and in the hospital.\"\n  ],\n  \"objectives\": [\n    \"Operate in the field of complementary care for the elderly and disabled at their homes or care facilities.\",\n    \"Provide qualified services and home care for individuals in need.\"\n  ],\n  \"methods\": [\n    \"Utilize social workers to deliver the services.\",\n    \"Implement an investment plan that includes construction work for office structures, acquisition of equipment, furniture, machines, and functional material components for production cycle and company website.\"\n  ],\n  \"results\": [\n    \"Provide practical help and care for elderly and disabled individuals at home and in hospital.\",\n    \"Establish structures and resources necessary for the operation of the company.\"\n  ],\n  \"research_subject\": \"Complementary care services for the elderly and disabled at home or in care facilities\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Elderly and disabled individuals require complementary care services at their homes and/or in residential facilities to support their daily living needs.\",\n    \"There is a need for qualified social workers to provide specialized home care services for the elderly, sick, and disabled who require concrete assistance.\"\n  ],\n  \"objectives\": [\n    \"Establish and operate a company specializing in complementary care services for elderly and disabled individuals at their homes and in residential facilities.\",\n    \"Provide qualified home care services through trained social workers to support elderly, sick, and disabled individuals in their daily activities.\"\n  ],\n  \"methods\": [\n    \"Complete construction work to establish office facilities and acquire necessary equipment, furniture, and machinery for service delivery.\",\n    \"Develop a company website and implement a production cycle for delivering care services.\",\n    \"Deploy qualified social workers to provide specialized care services at homes and hospitals.\"\n  ],\n  \"results\": [\n    \"Establishment of a functional care service company with completed infrastructure and operational capacity.\",\n    \"Delivery of qualified complementary care services to elderly and disabled individuals in their homes and residential facilities.\",\n    \"Improved quality of life and support for elderly, sick, and disabled individuals through professional home care services.\"\n  ],\n  \"research_subject\": \"Startup activities in complementary care services for elderly and disabled individuals\"\n}\n```"
+}

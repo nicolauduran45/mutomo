@@ -1,0 +1,66 @@
+{
+  "index": 48,
+  "title": "Journal publishing in era of economic crisis",
+  "abstract": "Purpose – The purpose of this paper is to present findings from the research of aspects of journal publishing in the field of social sciences in Croatia in changing working conditions caused by the rapid development of information and communication technology.Design/methodology/approach – This paper is based on an online survey of 79 journals in the field of social sciences in Croatia.Findings – Findings indicate a dual publishing nature of the scientific journals as they exist both in the traditional paper based and in the electronic environment. In addition to slow shift towards publishing exclusively in the electronic environment, editorial teams cope with insufficient financial support for the publication of printed versions of their journals, low‐quality of article submissions, badly formatted articles, lack of help to the editor, etc. Researched journals use the internet for the improvement of the interaction with authors, reviewers and readers and digital repositories for long‐term storage of artic...",
+  "llama_json": {
+    "motivations": [
+      "Journal publishing in the social sciences faces challenges due to the rapid development of information and communication technology.",
+      "Economic crisis and insufficient financial support hinder the publication of printed versions of journals."
+    ],
+    "objectives": [
+      "Investigate the current state of journal publishing in the social sciences in Croatia.",
+      "Examine the impact of changing working conditions on journal publishing practices."
+    ],
+    "methods": [
+      "Conduct an online survey of social science journals in Croatia.",
+      "Analyze the findings to identify trends and challenges in journal publishing."
+    ],
+    "results": [
+      "Journal publishing in Croatia exhibits a dual nature, existing in both traditional print and electronic environments.",
+      "Journals face difficulties such as low-quality article submissions, formatting issues, and insufficient support for editors."
+    ],
+    "research_subject": "Journal publishing in the social sciences during times of economic crisis and technological change"
+  },
+  "openai_json": {
+    "motivations": [
+      "The rapid development of information and communication technology has significantly changed the working conditions in the field of journal publishing, particularly in social sciences in Croatia.",
+      "There is a need to understand the impact of economic crisis on journal publishing, including challenges such as insufficient financial support, low-quality article submissions, and lack of editorial help."
+    ],
+    "objectives": [
+      "Investigate the aspects of journal publishing in the field of social sciences in Croatia in the context of changing working conditions due to technological advancements.",
+      "Understand the dual publishing nature of scientific journals in both traditional paper-based and electronic environments."
+    ],
+    "methods": [
+      "Conduct an online survey of 79 journals in the field of social sciences in Croatia.",
+      "Analyze the use of internet and digital repositories by the researched journals for improving interaction with authors, reviewers, readers, and for long-term storage of articles."
+    ],
+    "results": [
+      "Identify the challenges faced by editorial teams such as insufficient financial support, low-quality article submissions, and lack of editorial help.",
+      "Highlight the slow shift towards publishing exclusively in the electronic environment and the use of internet for improving journal operations."
+    ],
+    "research_subject": "Impact of economic crisis on journal publishing in the field of social sciences in Croatia"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Journal publishers in social sciences face challenges from rapid technological changes and the transition between traditional and electronic publishing formats.",
+      "Economic constraints and insufficient financial support create difficulties for maintaining printed journal publications.",
+      "Editorial teams struggle with low-quality submissions, poor formatting, and lack of adequate support."
+    ],
+    "objectives": [
+      "Investigate the current state and challenges of journal publishing in social sciences in Croatia during economic crisis and technological transition.",
+      "Examine how journals adapt to changing working conditions caused by information and communication technology development."
+    ],
+    "methods": [
+      "Conduct an online survey of journals in the field of social sciences in Croatia."
+    ],
+    "results": [
+      "Journals exhibit a dual publishing nature, maintaining both traditional paper-based and electronic formats with slow transition to exclusively electronic publishing.",
+      "Editorial teams face multiple challenges including insufficient financial support, low-quality submissions, and inadequate assistance.",
+      "Journals utilize internet technologies to improve interactions with authors, reviewers, and readers, and employ digital repositories for long-term article storage."
+    ],
+    "research_subject": "Journal publishing challenges in social sciences during economic crisis and technological transition"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Journal publishing in the social sciences faces challenges due to the rapid development of information and communication technology.\",\n    \"Economic crisis and insufficient financial support hinder the publication of printed versions of journals.\"\n  ],\n  \"objectives\": [\n    \"Investigate the current state of journal publishing in the social sciences in Croatia.\",\n    \"Examine the impact of changing working conditions on journal publishing practices.\"\n  ],\n  \"methods\": [\n    \"Conduct an online survey of social science journals in Croatia.\",\n    \"Analyze the findings to identify trends and challenges in journal publishing.\"\n  ],\n  \"results\": [\n    \"Journal publishing in Croatia exhibits a dual nature, existing in both traditional print and electronic environments.\",\n    \"Journals face difficulties such as low-quality article submissions, formatting issues, and insufficient support for editors.\"\n  ],\n  \"research_subject\": \"Journal publishing in the social sciences during times of economic crisis and technological change\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The rapid development of information and communication technology has significantly changed the working conditions in the field of journal publishing, particularly in social sciences in Croatia.\",\n    \"There is a need to understand the impact of economic crisis on journal publishing, including challenges such as insufficient financial support, low-quality article submissions, and lack of editorial help.\"\n  ],\n  \"objectives\": [\n    \"Investigate the aspects of journal publishing in the field of social sciences in Croatia in the context of changing working conditions due to technological advancements.\",\n    \"Understand the dual publishing nature of scientific journals in both traditional paper-based and electronic environments.\"\n  ],\n  \"methods\": [\n    \"Conduct an online survey of 79 journals in the field of social sciences in Croatia.\",\n    \"Analyze the use of internet and digital repositories by the researched journals for improving interaction with authors, reviewers, readers, and for long-term storage of articles.\"\n  ],\n  \"results\": [\n    \"Identify the challenges faced by editorial teams such as insufficient financial support, low-quality article submissions, and lack of editorial help.\",\n    \"Highlight the slow shift towards publishing exclusively in the electronic environment and the use of internet for improving journal operations.\"\n  ],\n  \"research_subject\": \"Impact of economic crisis on journal publishing in the field of social sciences in Croatia\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Journal publishers in social sciences face challenges from rapid technological changes and the transition between traditional and electronic publishing formats.\",\n    \"Economic constraints and insufficient financial support create difficulties for maintaining printed journal publications.\",\n    \"Editorial teams struggle with low-quality submissions, poor formatting, and lack of adequate support.\"\n  ],\n  \"objectives\": [\n    \"Investigate the current state and challenges of journal publishing in social sciences in Croatia during economic crisis and technological transition.\",\n    \"Examine how journals adapt to changing working conditions caused by information and communication technology development.\"\n  ],\n  \"methods\": [\n    \"Conduct an online survey of journals in the field of social sciences in Croatia.\"\n  ],\n  \"results\": [\n    \"Journals exhibit a dual publishing nature, maintaining both traditional paper-based and electronic formats with slow transition to exclusively electronic publishing.\",\n    \"Editorial teams face multiple challenges including insufficient financial support, low-quality submissions, and inadequate assistance.\",\n    \"Journals utilize internet technologies to improve interactions with authors, reviewers, and readers, and employ digital repositories for long-term article storage.\"\n  ],\n  \"research_subject\": \"Journal publishing challenges in social sciences during economic crisis and technological transition\"\n}\n```"
+}

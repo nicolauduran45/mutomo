@@ -1,0 +1,53 @@
+{
+  "index": 421,
+  "title": "DISPOSITIVO DI INTERCETTAZIONE E DISTRIBUZIONE DI ACQUA MISCELATA A PIU' VIE IN PARTICOLARE PER BOX DOCCIA",
+  "abstract": "L'invenzione riguarda un dispositivo di intercettazione e distribuzione di acqua miscelata a più vie, in particolare per box doccia, e consiste nell'aver concepito un unico dispositivo avente la funzione sia di valvola di intercettazione che di distribuzione. Ciò si realizza con un dispositivo in cui i comandi di intercettazione e di distribuzione sono disposti in posizione coassiale, il condotto di arrivo dell'acqua miscelata in posizione centrale ed i vari condotti di uscita disposti a corona intorno al condotto di entrata.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a device that can both intercept and distribute mixed water in multiple directions, particularly for shower boxes."
+    ],
+    "objectives": [
+      "Design a single device that combines the functions of interception and distribution of mixed water."
+    ],
+    "methods": [
+      "Create a device with coaxial interception and distribution controls, a central mixed water inlet, and multiple outlets arranged around the inlet."
+    ],
+    "results": [
+      "Provide a device that efficiently intercepts and distributes mixed water in multiple directions for shower boxes."
+    ],
+    "research_subject": "Device for intercepting and distributing mixed water in multiple directions for shower boxes"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need for a single device that can both intercept and distribute mixed water, particularly for shower boxes."
+    ],
+    "objectives": [
+      "Design a device where the interception and distribution controls are arranged in a coaxial position, with the mixed water arrival duct in a central position and the various exit ducts arranged in a crown around the entrance duct."
+    ],
+    "methods": [
+      "The invention involves the conception of a unique device that functions both as an interception valve and a distributor."
+    ],
+    "results": [
+      "The creation of a device that simplifies the interception and distribution of mixed water in multi-way systems, particularly for shower boxes."
+    ],
+    "research_subject": "Interception and distribution device for mixed water in multi-way systems, particularly for shower boxes"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for a more efficient and compact water distribution system for shower enclosures that combines interception and distribution functions in a single device."
+    ],
+    "objectives": [
+      "Design and develop a single device that functions as both an interception valve and a water distribution system for mixed water in shower enclosures."
+    ],
+    "methods": [
+      "Implement a coaxial arrangement of interception and distribution controls with a central mixed water inlet conduit and outlet conduits arranged in a crown pattern around the inlet."
+    ],
+    "results": [
+      "A unified device that simplifies the water distribution system in shower enclosures by combining interception and distribution functions."
+    ],
+    "research_subject": "Multi-way mixed water interception and distribution device for shower enclosures"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a device that can both intercept and distribute mixed water in multiple directions, particularly for shower boxes.\"\n  ],\n  \"objectives\": [\n    \"Design a single device that combines the functions of interception and distribution of mixed water.\"\n  ],\n  \"methods\": [\n    \"Create a device with coaxial interception and distribution controls, a central mixed water inlet, and multiple outlets arranged around the inlet.\"\n  ],\n  \"results\": [\n    \"Provide a device that efficiently intercepts and distributes mixed water in multiple directions for shower boxes.\"\n  ],\n  \"research_subject\": \"Device for intercepting and distributing mixed water in multiple directions for shower boxes\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need for a single device that can both intercept and distribute mixed water, particularly for shower boxes.\"\n  ],\n  \"objectives\": [\n    \"Design a device where the interception and distribution controls are arranged in a coaxial position, with the mixed water arrival duct in a central position and the various exit ducts arranged in a crown around the entrance duct.\"\n  ],\n  \"methods\": [\n    \"The invention involves the conception of a unique device that functions both as an interception valve and a distributor.\"\n  ],\n  \"results\": [\n    \"The creation of a device that simplifies the interception and distribution of mixed water in multi-way systems, particularly for shower boxes.\"\n  ],\n  \"research_subject\": \"Interception and distribution device for mixed water in multi-way systems, particularly for shower boxes\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a more efficient and compact water distribution system for shower enclosures that combines interception and distribution functions in a single device.\"\n  ],\n  \"objectives\": [\n    \"Design and develop a single device that functions as both an interception valve and a water distribution system for mixed water in shower enclosures.\"\n  ],\n  \"methods\": [\n    \"Implement a coaxial arrangement of interception and distribution controls with a central mixed water inlet conduit and outlet conduits arranged in a crown pattern around the inlet.\"\n  ],\n  \"results\": [\n    \"A unified device that simplifies the water distribution system in shower enclosures by combining interception and distribution functions.\"\n  ],\n  \"research_subject\": \"Multi-way mixed water interception and distribution device for shower enclosures\"\n}\n```"
+}

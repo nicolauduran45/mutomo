@@ -1,0 +1,70 @@
+{
+  "index": 394,
+  "title": "Towards a deeper understanding of cooperative equilibrium: characterization and complexity",
+  "abstract": "Nash equilibrium (NE) assumes that players always make a best response. However, this is not always true; sometimes people cooperate even it is not a best response to do so. For example, in the Prisoner's Dilemma, people often cooperate. We consider two solution concepts that were introduced recently that try to capture such cooperation in two-player games: perfect cooperative equilibrium (PCE) (and an extension called maximum PCE (M-PCE)) [8] and the coco value [11]. We show that, despite their definitions being quite different, these notions are closely related, both in terms of axiomatization and algebraic characterization. We also consider the problem of computing how well players do when they cooperate according to these solution concepts, and show that in both cases in polynomial time. In the case of the coco value, this follows easily from the definition; in the case of the corresponding M-PCE value, it follows from a theorem showing that bilinear programming for a class of 2 X 2 matrices is in constant time, a result that may be of independent interest.",
+  "llama_json": {
+    "motivations": [
+      "Traditional Nash equilibrium (NE) does not accurately capture cooperative behavior in games, as it assumes players always make the best response.",
+      "There is a need to better understand and characterize cooperative equilibrium in games, as people often cooperate even when it's not the best response."
+    ],
+    "objectives": [
+      "Investigate and compare two cooperative equilibrium concepts: perfect cooperative equilibrium (PCE) and the coco value.",
+      "Develop an algebraic characterization and axiomatization of these solution concepts.",
+      "Analyze the computational complexity of computing the payoffs for players when they cooperate according to these concepts."
+    ],
+    "methods": [
+      "Analyze and compare the definitions and properties of PCE and the coco value.",
+      "Develop theorems and proofs to establish the relationships between these concepts.",
+      "Apply bilinear programming to compute the payoffs for players in cooperative equilibrium."
+    ],
+    "results": [
+      "Establish a close relationship between PCE and the coco value in terms of axiomatization and algebraic characterization.",
+      "Show that computing the payoffs for players in cooperative equilibrium can be done in polynomial time.",
+      "Obtain a result of independent interest: bilinear programming for a class of 2x2 matrices can be solved in constant time."
+    ],
+    "research_subject": "Characterization and complexity of cooperative equilibrium in games"
+  },
+  "openai_json": {
+    "motivations": [
+      "Traditional game theory models like Nash equilibrium assume players always make a best response, which does not always reflect real-world behavior where cooperation can occur even when it's not the best response.",
+      "There is a need to understand and characterize cooperative behavior in two-player games."
+    ],
+    "objectives": [
+      "Examine and compare two recently introduced solution concepts, perfect cooperative equilibrium (PCE) and the coco value, that aim to capture cooperative behavior in two-player games.",
+      "Investigate the computational complexity of determining player outcomes under these cooperative solution concepts."
+    ],
+    "methods": [
+      "Analyze the axiomatization and algebraic characterization of PCE and the coco value.",
+      "Compute player outcomes under these solution concepts using polynomial time algorithms."
+    ],
+    "results": [
+      "Identify a close relationship between PCE and the coco value, despite their differing definitions.",
+      "Demonstrate that player outcomes under these cooperative solution concepts can be computed in polynomial time."
+    ],
+    "research_subject": "Characterization and complexity of cooperative equilibrium in two-player games"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Nash equilibrium assumes players always make best responses, but in reality people often cooperate even when it is not optimal, as seen in games like the Prisoner's Dilemma.",
+      "There is a need to better understand and characterize solution concepts that capture cooperative behavior in game theory beyond traditional Nash equilibrium."
+    ],
+    "objectives": [
+      "Analyze and establish the relationship between perfect cooperative equilibrium (PCE), maximum PCE (M-PCE), and the coco value in two-player games.",
+      "Develop computational methods to determine player outcomes under cooperative solution concepts and analyze their complexity."
+    ],
+    "methods": [
+      "Provide axiomatization and algebraic characterization of cooperative solution concepts to demonstrate their relationships.",
+      "Develop polynomial-time algorithms for computing player outcomes under cooperative equilibria.",
+      "Prove that bilinear programming for a specific class of 2x2 matrices can be solved in constant time."
+    ],
+    "results": [
+      "Demonstrated that PCE, M-PCE, and the coco value are closely related despite their different definitions.",
+      "Showed that computing player outcomes under these cooperative solution concepts can be done in polynomial time.",
+      "Established that bilinear programming for certain 2x2 matrices is solvable in constant time, which has potential applications beyond game theory."
+    ],
+    "research_subject": "Cooperative equilibrium concepts in two-player game theory"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional Nash equilibrium (NE) does not accurately capture cooperative behavior in games, as it assumes players always make the best response.\",\n    \"There is a need to better understand and characterize cooperative equilibrium in games, as people often cooperate even when it's not the best response.\"\n  ],\n  \"objectives\": [\n    \"Investigate and compare two cooperative equilibrium concepts: perfect cooperative equilibrium (PCE) and the coco value.\",\n    \"Develop an algebraic characterization and axiomatization of these solution concepts.\",\n    \"Analyze the computational complexity of computing the payoffs for players when they cooperate according to these concepts.\"\n  ],\n  \"methods\": [\n    \"Analyze and compare the definitions and properties of PCE and the coco value.\",\n    \"Develop theorems and proofs to establish the relationships between these concepts.\",\n    \"Apply bilinear programming to compute the payoffs for players in cooperative equilibrium.\"\n  ],\n  \"results\": [\n    \"Establish a close relationship between PCE and the coco value in terms of axiomatization and algebraic characterization.\",\n    \"Show that computing the payoffs for players in cooperative equilibrium can be done in polynomial time.\",\n    \"Obtain a result of independent interest: bilinear programming for a class of 2x2 matrices can be solved in constant time.\"\n  ],\n  \"research_subject\": \"Characterization and complexity of cooperative equilibrium in games\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional game theory models like Nash equilibrium assume players always make a best response, which does not always reflect real-world behavior where cooperation can occur even when it's not the best response.\",\n    \"There is a need to understand and characterize cooperative behavior in two-player games.\"\n  ],\n  \"objectives\": [\n    \"Examine and compare two recently introduced solution concepts, perfect cooperative equilibrium (PCE) and the coco value, that aim to capture cooperative behavior in two-player games.\",\n    \"Investigate the computational complexity of determining player outcomes under these cooperative solution concepts.\"\n  ],\n  \"methods\": [\n    \"Analyze the axiomatization and algebraic characterization of PCE and the coco value.\",\n    \"Compute player outcomes under these solution concepts using polynomial time algorithms.\"\n  ],\n  \"results\": [\n    \"Identify a close relationship between PCE and the coco value, despite their differing definitions.\",\n    \"Demonstrate that player outcomes under these cooperative solution concepts can be computed in polynomial time.\"\n  ],\n  \"research_subject\": \"Characterization and complexity of cooperative equilibrium in two-player games\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Nash equilibrium assumes players always make best responses, but in reality people often cooperate even when it is not optimal, as seen in games like the Prisoner's Dilemma.\",\n    \"There is a need to better understand and characterize solution concepts that capture cooperative behavior in game theory beyond traditional Nash equilibrium.\"\n  ],\n  \"objectives\": [\n    \"Analyze and establish the relationship between perfect cooperative equilibrium (PCE), maximum PCE (M-PCE), and the coco value in two-player games.\",\n    \"Develop computational methods to determine player outcomes under cooperative solution concepts and analyze their complexity.\"\n  ],\n  \"methods\": [\n    \"Provide axiomatization and algebraic characterization of cooperative solution concepts to demonstrate their relationships.\",\n    \"Develop polynomial-time algorithms for computing player outcomes under cooperative equilibria.\",\n    \"Prove that bilinear programming for a specific class of 2x2 matrices can be solved in constant time.\"\n  ],\n  \"results\": [\n    \"Demonstrated that PCE, M-PCE, and the coco value are closely related despite their different definitions.\",\n    \"Showed that computing player outcomes under these cooperative solution concepts can be done in polynomial time.\",\n    \"Established that bilinear programming for certain 2x2 matrices is solvable in constant time, which has potential applications beyond game theory.\"\n  ],\n  \"research_subject\": \"Cooperative equilibrium concepts in two-player game theory\"\n}\n```"
+}

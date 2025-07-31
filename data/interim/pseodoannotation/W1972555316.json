@@ -1,0 +1,68 @@
+{
+  "index": 364,
+  "title": "General solutions to a class of time fractional partial differential equations",
+  "abstract": "A class of time fractional partial differential equations is considered, which includes a time fractional diffusion equation, a time fractional reaction-diffusion equation, a time fractional advection-diffusion equation, and their corresponding integer-order partial differential equations. The fundamental solutions to the Cauchy problem in a whole-space domain and the signaling problem in a half-space domain are obtained by using Fourier-Laplace transforms and their inverse transforms. The appropriate structures of the Green functions are provided. On the other hand, the solutions in the form of a series to the initial and boundary value problems in a bounded-space domain are derived by the sine-Laplace or cosine-Laplace transforms. Two examples are presented to show applications of the present technique.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for general solutions to time fractional partial differential equations, which are crucial in modeling various physical phenomena.",
+      "Existing methods may not be effective in solving these equations, particularly in different domains such as whole-space, half-space, and bounded-space domains."
+    ],
+    "objectives": [
+      "Derive fundamental solutions to the Cauchy problem and the signaling problem for a class of time fractional partial differential equations.",
+      "Develop series solutions to initial and boundary value problems in bounded-space domains using sine-Laplace or cosine-Laplace transforms."
+    ],
+    "methods": [
+      "Utilize Fourier-Laplace transforms and their inverse transforms to obtain fundamental solutions.",
+      "Apply sine-Laplace or cosine-Laplace transforms to derive series solutions for bounded-space domains."
+    ],
+    "results": [
+      "Obtain general solutions to time fractional partial differential equations, including diffusion, reaction-diffusion, and advection-diffusion equations.",
+      "Provide Green functions with appropriate structures for the considered class of equations."
+    ],
+    "research_subject": "General solutions to time fractional partial differential equations using transform methods"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to find solutions for a class of time fractional partial differential equations, which includes various types of equations."
+    ],
+    "objectives": [
+      "Obtain the fundamental solutions to the Cauchy problem in a whole-space domain and the signaling problem in a half-space domain.",
+      "Provide the appropriate structures of the Green functions.",
+      "Derive solutions in the form of a series to the initial and boundary value problems in a bounded-space domain."
+    ],
+    "methods": [
+      "Use Fourier-Laplace transforms and their inverse transforms to obtain solutions.",
+      "Apply sine-Laplace or cosine-Laplace transforms to derive solutions in a bounded-space domain."
+    ],
+    "results": [
+      "Obtained fundamental solutions to the Cauchy problem and the signaling problem.",
+      "Provided the structures of the Green functions.",
+      "Derived solutions to the initial and boundary value problems in a bounded-space domain."
+    ],
+    "research_subject": "Solutions to a class of time fractional partial differential equations"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Time fractional partial differential equations are important for modeling anomalous diffusion and transport phenomena in complex systems.",
+      "There is a need for general analytical solutions to various types of time fractional partial differential equations in different spatial domains."
+    ],
+    "objectives": [
+      "Derive fundamental solutions for time fractional partial differential equations in whole-space and half-space domains.",
+      "Obtain series solutions for initial and boundary value problems in bounded-space domains for this class of equations."
+    ],
+    "methods": [
+      "Apply Fourier-Laplace transforms and their inverse transforms to solve Cauchy and signaling problems.",
+      "Use sine-Laplace and cosine-Laplace transforms to derive series solutions for bounded-space problems.",
+      "Construct appropriate Green functions for the different problem types."
+    ],
+    "results": [
+      "Fundamental solutions are obtained for time fractional diffusion, reaction-diffusion, and advection-diffusion equations in various spatial domains.",
+      "Series solutions are derived for initial and boundary value problems in bounded domains.",
+      "The developed techniques provide a unified approach for solving a broad class of time fractional partial differential equations."
+    ],
+    "research_subject": "Analytical solutions to time fractional partial differential equations"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for general solutions to time fractional partial differential equations, which are crucial in modeling various physical phenomena.\",\n    \"Existing methods may not be effective in solving these equations, particularly in different domains such as whole-space, half-space, and bounded-space domains.\"\n  ],\n  \"objectives\": [\n    \"Derive fundamental solutions to the Cauchy problem and the signaling problem for a class of time fractional partial differential equations.\",\n    \"Develop series solutions to initial and boundary value problems in bounded-space domains using sine-Laplace or cosine-Laplace transforms.\"\n  ],\n  \"methods\": [\n    \"Utilize Fourier-Laplace transforms and their inverse transforms to obtain fundamental solutions.\",\n    \"Apply sine-Laplace or cosine-Laplace transforms to derive series solutions for bounded-space domains.\"\n  ],\n  \"results\": [\n    \"Obtain general solutions to time fractional partial differential equations, including diffusion, reaction-diffusion, and advection-diffusion equations.\",\n    \"Provide Green functions with appropriate structures for the considered class of equations.\"\n  ],\n  \"research_subject\": \"General solutions to time fractional partial differential equations using transform methods\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to find solutions for a class of time fractional partial differential equations, which includes various types of equations.\"\n  ],\n  \"objectives\": [\n    \"Obtain the fundamental solutions to the Cauchy problem in a whole-space domain and the signaling problem in a half-space domain.\",\n    \"Provide the appropriate structures of the Green functions.\",\n    \"Derive solutions in the form of a series to the initial and boundary value problems in a bounded-space domain.\"\n  ],\n  \"methods\": [\n    \"Use Fourier-Laplace transforms and their inverse transforms to obtain solutions.\",\n    \"Apply sine-Laplace or cosine-Laplace transforms to derive solutions in a bounded-space domain.\"\n  ],\n  \"results\": [\n    \"Obtained fundamental solutions to the Cauchy problem and the signaling problem.\",\n    \"Provided the structures of the Green functions.\",\n    \"Derived solutions to the initial and boundary value problems in a bounded-space domain.\"\n  ],\n  \"research_subject\": \"Solutions to a class of time fractional partial differential equations\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Time fractional partial differential equations are important for modeling anomalous diffusion and transport phenomena in complex systems.\",\n    \"There is a need for general analytical solutions to various types of time fractional partial differential equations in different spatial domains.\"\n  ],\n  \"objectives\": [\n    \"Derive fundamental solutions for time fractional partial differential equations in whole-space and half-space domains.\",\n    \"Obtain series solutions for initial and boundary value problems in bounded-space domains for this class of equations.\"\n  ],\n  \"methods\": [\n    \"Apply Fourier-Laplace transforms and their inverse transforms to solve Cauchy and signaling problems.\",\n    \"Use sine-Laplace and cosine-Laplace transforms to derive series solutions for bounded-space problems.\",\n    \"Construct appropriate Green functions for the different problem types.\"\n  ],\n  \"results\": [\n    \"Fundamental solutions are obtained for time fractional diffusion, reaction-diffusion, and advection-diffusion equations in various spatial domains.\",\n    \"Series solutions are derived for initial and boundary value problems in bounded domains.\",\n    \"The developed techniques provide a unified approach for solving a broad class of time fractional partial differential equations.\"\n  ],\n  \"research_subject\": \"Analytical solutions to time fractional partial differential equations\"\n}\n```"
+}

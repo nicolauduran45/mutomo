@@ -1,0 +1,70 @@
+{
+  "index": 367,
+  "title": "On adaptive procedures controlling the familywise error rate",
+  "abstract": "Abstract The idea of modifying, and potentially improving, classical multiple testing methods controlling the familywise error rate (FWER) via an estimate of the unknown number of true null hypotheses has been around for a long time without a formal answer to the question whether or not such adaptive methods ultimately maintain the strong control of FWER, until Finner and Gontscharuk (2009) and Guo (2009) have offered some answers. A class of adaptive Bonferroni and S˘idak methods larger than considered in those papers is introduced, with the FWER control now proved under a weaker distributional setup. Numerical results show that there are versions of adaptive Bonferroni and S˘idak methods that can perform better under certain positive dependence situations than those previously considered. A different adaptive Holm method and its stepup analog, referred to as an adaptive Hochberg method, are also introduced, and their FWER control is proved asymptotically, as in those papers. These adaptive Holm and Hochberg methods are numerically seen to often outperform the previously considered adaptive Holm method.",
+  "llama_json": {
+    "motivations": [
+      "Classical multiple testing methods controlling the familywise error rate (FWER) may be improved by estimating the unknown number of true null hypotheses.",
+      "There is a need to determine whether adaptive methods maintain strong control of FWER."
+    ],
+    "objectives": [
+      "Develop and evaluate adaptive Bonferroni and S˘idak methods for controlling FWER.",
+      "Introduce and assess adaptive Holm and Hochberg methods for multiple testing.",
+      "Investigate the performance of these adaptive methods under various dependence situations."
+    ],
+    "methods": [
+      "Introduce a class of adaptive Bonferroni and S˘idak methods and prove FWER control under a weaker distributional setup.",
+      "Develop and evaluate adaptive Holm and Hochberg methods, including stepup analogs.",
+      "Conduct numerical simulations to compare the performance of these adaptive methods."
+    ],
+    "results": [
+      "Adaptive Bonferroni and S˘idak methods can perform better under certain positive dependence situations.",
+      "Adaptive Holm and Hochberg methods often outperform previously considered adaptive Holm methods.",
+      "FWER control is maintained asymptotically for the introduced adaptive methods."
+    ],
+    "research_subject": "Adaptive procedures for controlling the familywise error rate in multiple testing"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need to improve classical multiple testing methods controlling the familywise error rate (FWER) by estimating the unknown number of true null hypotheses.",
+      "The lack of formal answers on whether adaptive methods maintain strong control of FWER."
+    ],
+    "objectives": [
+      "Introduce a larger class of adaptive Bonferroni and Sidak methods with proven FWER control under a weaker distributional setup.",
+      "Present a different adaptive Holm method and its stepup analog, referred to as an adaptive Hochberg method, with proven asymptotic FWER control."
+    ],
+    "methods": [
+      "Modify classical multiple testing methods by estimating the unknown number of true null hypotheses.",
+      "Introduce and prove the FWER control of a larger class of adaptive Bonferroni and Sidak methods.",
+      "Introduce and prove the asymptotic FWER control of a different adaptive Holm method and its stepup analog, an adaptive Hochberg method."
+    ],
+    "results": [
+      "Adaptive Bonferroni and Sidak methods can perform better under certain positive dependence situations than previously considered methods.",
+      "Adaptive Holm and Hochberg methods often outperform the previously considered adaptive Holm method."
+    ],
+    "research_subject": "Adaptive procedures controlling the familywise error rate in multiple testing methods"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Classical multiple testing methods controlling the familywise error rate (FWER) may be improved by incorporating estimates of the unknown number of true null hypotheses.",
+      "Previous adaptive methods lacked formal proof of maintaining strong FWER control under general conditions."
+    ],
+    "objectives": [
+      "Introduce and analyze a broader class of adaptive Bonferroni and Šidák methods with proven FWER control under weaker distributional assumptions.",
+      "Develop new adaptive versions of Holm and Hochberg methods and establish their asymptotic FWER control."
+    ],
+    "methods": [
+      "Develop adaptive modifications of classical multiple testing procedures by incorporating estimates of true null hypotheses.",
+      "Prove FWER control for the proposed methods under weaker distributional setups and asymptotic conditions.",
+      "Conduct numerical simulations to evaluate performance under various dependence structures."
+    ],
+    "results": [
+      "The proposed adaptive Bonferroni and Šidák methods maintain FWER control and show improved performance under positive dependence situations.",
+      "The new adaptive Holm and Hochberg methods demonstrate superior performance compared to previously considered adaptive methods in numerical studies."
+    ],
+    "research_subject": "Adaptive multiple testing procedures for familywise error rate control"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Classical multiple testing methods controlling the familywise error rate (FWER) may be improved by estimating the unknown number of true null hypotheses.\",\n    \"There is a need to determine whether adaptive methods maintain strong control of FWER.\"\n  ],\n  \"objectives\": [\n    \"Develop and evaluate adaptive Bonferroni and S˘idak methods for controlling FWER.\",\n    \"Introduce and assess adaptive Holm and Hochberg methods for multiple testing.\",\n    \"Investigate the performance of these adaptive methods under various dependence situations.\"\n  ],\n  \"methods\": [\n    \"Introduce a class of adaptive Bonferroni and S˘idak methods and prove FWER control under a weaker distributional setup.\",\n    \"Develop and evaluate adaptive Holm and Hochberg methods, including stepup analogs.\",\n    \"Conduct numerical simulations to compare the performance of these adaptive methods.\"\n  ],\n  \"results\": [\n    \"Adaptive Bonferroni and S˘idak methods can perform better under certain positive dependence situations.\",\n    \"Adaptive Holm and Hochberg methods often outperform previously considered adaptive Holm methods.\",\n    \"FWER control is maintained asymptotically for the introduced adaptive methods.\"\n  ],\n  \"research_subject\": \"Adaptive procedures for controlling the familywise error rate in multiple testing\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need to improve classical multiple testing methods controlling the familywise error rate (FWER) by estimating the unknown number of true null hypotheses.\",\n    \"The lack of formal answers on whether adaptive methods maintain strong control of FWER.\"\n  ],\n  \"objectives\": [\n    \"Introduce a larger class of adaptive Bonferroni and Sidak methods with proven FWER control under a weaker distributional setup.\",\n    \"Present a different adaptive Holm method and its stepup analog, referred to as an adaptive Hochberg method, with proven asymptotic FWER control.\"\n  ],\n  \"methods\": [\n    \"Modify classical multiple testing methods by estimating the unknown number of true null hypotheses.\",\n    \"Introduce and prove the FWER control of a larger class of adaptive Bonferroni and Sidak methods.\",\n    \"Introduce and prove the asymptotic FWER control of a different adaptive Holm method and its stepup analog, an adaptive Hochberg method.\"\n  ],\n  \"results\": [\n    \"Adaptive Bonferroni and Sidak methods can perform better under certain positive dependence situations than previously considered methods.\",\n    \"Adaptive Holm and Hochberg methods often outperform the previously considered adaptive Holm method.\"\n  ],\n  \"research_subject\": \"Adaptive procedures controlling the familywise error rate in multiple testing methods\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Classical multiple testing methods controlling the familywise error rate (FWER) may be improved by incorporating estimates of the unknown number of true null hypotheses.\",\n    \"Previous adaptive methods lacked formal proof of maintaining strong FWER control under general conditions.\"\n  ],\n  \"objectives\": [\n    \"Introduce and analyze a broader class of adaptive Bonferroni and Šidák methods with proven FWER control under weaker distributional assumptions.\",\n    \"Develop new adaptive versions of Holm and Hochberg methods and establish their asymptotic FWER control.\"\n  ],\n  \"methods\": [\n    \"Develop adaptive modifications of classical multiple testing procedures by incorporating estimates of true null hypotheses.\",\n    \"Prove FWER control for the proposed methods under weaker distributional setups and asymptotic conditions.\",\n    \"Conduct numerical simulations to evaluate performance under various dependence structures.\"\n  ],\n  \"results\": [\n    \"The proposed adaptive Bonferroni and Šidák methods maintain FWER control and show improved performance under positive dependence situations.\",\n    \"The new adaptive Holm and Hochberg methods demonstrate superior performance compared to previously considered adaptive methods in numerical studies.\"\n  ],\n  \"research_subject\": \"Adaptive multiple testing procedures for familywise error rate control\"\n}\n```"
+}

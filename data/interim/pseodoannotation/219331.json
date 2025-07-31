@@ -1,0 +1,76 @@
+{
+  "index": 12,
+  "title": "Conservation genomics of endangered indigenous european horse breeds",
+  "abstract": "The European continent encompasses about half the total number of horse breeds on the planet. According to the Food and Agriculture Organization of the United Nations, about a quarter of those breeds are currently endangered as they have been disused since the mechanization of farming and transportation, and have suffered massive losses during the first and second World Wars. These breeds were developed over long historical periods, in a variety of ecological and socio-cultural contexts. As such, they represent an invaluable component of our common genetic and cultural heritage and the living incarnation of European terroirs. Our proposal aims at undertaking the first genetic monitoring of ~120 endangered and autochthonous European breeds at a genome-wide level. Our extensive genetic dataset will enable a precise reconstruction of the horse breeding history in Europe, revealing the long-debated origins of iconic breeds and the genetic impact of different management strategies and environments. Additionally, it will open for an identification of breed-specific Ancestry Informative Markers and an estimation of key genetic parameters and population structure, allowing the development of informed conservation guidelines, aimed at maximizing the genetic potential of endangered breeds and minimizing mixing between breeds of unrelated history. Importantly, ENDANGEREDHORSES will showcase the potential of genome-wide approaches in helping preserve the genetic diversity of livestock resources, which is currently of concern for horses and all other domestic animals worldwide.",
+  "llama_json": {
+    "motivations": [
+      "Many indigenous European horse breeds are endangered due to disuse and historical losses, threatening the preservation of genetic and cultural heritage.",
+      "There is a need for genetic monitoring and informed conservation guidelines to protect the genetic diversity of these endangered breeds."
+    ],
+    "objectives": [
+      "Conduct the first genome-wide genetic monitoring of approximately 120 endangered and autochthonous European horse breeds.",
+      "Reconstruct the horse breeding history in Europe, revealing breed origins and the genetic impact of management strategies and environments.",
+      "Develop informed conservation guidelines to maximize the genetic potential of endangered breeds and minimize mixing between breeds of unrelated history."
+    ],
+    "methods": [
+      "Generate an extensive genetic dataset through genome-wide analysis of endangered European horse breeds.",
+      "Identify breed-specific Ancestry Informative Markers and estimate key genetic parameters and population structure.",
+      "Apply genome-wide approaches to develop conservation strategies for preserving genetic diversity in livestock resources."
+    ],
+    "results": [
+      "Precise reconstruction of European horse breeding history and the genetic origins of iconic breeds.",
+      "Development of effective conservation guidelines to protect the genetic diversity of endangered horse breeds.",
+      "Demonstration of the potential of genome-wide approaches in preserving livestock genetic resources."
+    ],
+    "research_subject": "Conservation genomics of endangered indigenous European horse breeds"
+  },
+  "openai_json": {
+    "motivations": [
+      "Many indigenous European horse breeds are endangered due to mechanization of farming and transportation, and losses during the World Wars.",
+      "These breeds, developed over long historical periods in diverse ecological and socio-cultural contexts, represent a valuable part of genetic and cultural heritage.",
+      "There is a need for informed conservation guidelines to maximize the genetic potential of these endangered breeds and minimize mixing between unrelated breeds."
+    ],
+    "objectives": [
+      "Undertake the first genetic monitoring of approximately 120 endangered and autochthonous European horse breeds at a genome-wide level.",
+      "Reconstruct the horse breeding history in Europe, revealing the origins of iconic breeds and the genetic impact of different management strategies and environments.",
+      "Identify breed-specific Ancestry Informative Markers and estimate key genetic parameters and population structure to develop informed conservation guidelines."
+    ],
+    "methods": [
+      "Perform genome-wide genetic monitoring of endangered and autochthonous European horse breeds.",
+      "Use the extensive genetic dataset to reconstruct the horse breeding history in Europe and identify breed-specific Ancestry Informative Markers.",
+      "Estimate key genetic parameters and population structure to develop conservation guidelines."
+    ],
+    "results": [
+      "Provide a precise reconstruction of the horse breeding history in Europe.",
+      "Identify breed-specific Ancestry Informative Markers and estimate key genetic parameters and population structure.",
+      "Develop informed conservation guidelines to preserve the genetic diversity of endangered European horse breeds."
+    ],
+    "research_subject": "Conservation genomics of endangered indigenous European horse breeds"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "About a quarter of European horse breeds are endangered due to mechanization of farming and transportation and losses during World Wars.",
+      "These indigenous breeds represent invaluable genetic and cultural heritage developed over long historical periods in diverse ecological and socio-cultural contexts.",
+      "There is a need for genetic monitoring and conservation strategies to preserve the genetic diversity of these endangered livestock resources."
+    ],
+    "objectives": [
+      "Conduct the first genome-wide genetic monitoring of approximately 120 endangered and autochthonous European horse breeds.",
+      "Reconstruct the breeding history of European horses and identify breed-specific genetic markers and population structures.",
+      "Develop informed conservation guidelines to maximize genetic potential and minimize unintended mixing between historically unrelated breeds."
+    ],
+    "methods": [
+      "Perform genome-wide genetic analysis across endangered European horse breeds.",
+      "Identify Ancestry Informative Markers and estimate key genetic parameters and population structures.",
+      "Apply genomic approaches to develop conservation strategies for preserving genetic diversity."
+    ],
+    "results": [
+      "Reveal the origins of iconic European horse breeds and the genetic impact of different management strategies and environments.",
+      "Provide conservation guidelines that maximize genetic potential while preserving breed integrity.",
+      "Demonstrate the effectiveness of genome-wide approaches for preserving genetic diversity in livestock resources globally."
+    ],
+    "research_subject": "Conservation genomics of endangered indigenous European horse breeds"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Many indigenous European horse breeds are endangered due to disuse and historical losses, threatening the preservation of genetic and cultural heritage.\",\n    \"There is a need for genetic monitoring and informed conservation guidelines to protect the genetic diversity of these endangered breeds.\"\n  ],\n  \"objectives\": [\n    \"Conduct the first genome-wide genetic monitoring of approximately 120 endangered and autochthonous European horse breeds.\",\n    \"Reconstruct the horse breeding history in Europe, revealing breed origins and the genetic impact of management strategies and environments.\",\n    \"Develop informed conservation guidelines to maximize the genetic potential of endangered breeds and minimize mixing between breeds of unrelated history.\"\n  ],\n  \"methods\": [\n    \"Generate an extensive genetic dataset through genome-wide analysis of endangered European horse breeds.\",\n    \"Identify breed-specific Ancestry Informative Markers and estimate key genetic parameters and population structure.\",\n    \"Apply genome-wide approaches to develop conservation strategies for preserving genetic diversity in livestock resources.\"\n  ],\n  \"results\": [\n    \"Precise reconstruction of European horse breeding history and the genetic origins of iconic breeds.\",\n    \"Development of effective conservation guidelines to protect the genetic diversity of endangered horse breeds.\",\n    \"Demonstration of the potential of genome-wide approaches in preserving livestock genetic resources.\"\n  ],\n  \"research_subject\": \"Conservation genomics of endangered indigenous European horse breeds\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Many indigenous European horse breeds are endangered due to mechanization of farming and transportation, and losses during the World Wars.\",\n    \"These breeds, developed over long historical periods in diverse ecological and socio-cultural contexts, represent a valuable part of genetic and cultural heritage.\",\n    \"There is a need for informed conservation guidelines to maximize the genetic potential of these endangered breeds and minimize mixing between unrelated breeds.\"\n  ],\n  \"objectives\": [\n    \"Undertake the first genetic monitoring of approximately 120 endangered and autochthonous European horse breeds at a genome-wide level.\",\n    \"Reconstruct the horse breeding history in Europe, revealing the origins of iconic breeds and the genetic impact of different management strategies and environments.\",\n    \"Identify breed-specific Ancestry Informative Markers and estimate key genetic parameters and population structure to develop informed conservation guidelines.\"\n  ],\n  \"methods\": [\n    \"Perform genome-wide genetic monitoring of endangered and autochthonous European horse breeds.\",\n    \"Use the extensive genetic dataset to reconstruct the horse breeding history in Europe and identify breed-specific Ancestry Informative Markers.\",\n    \"Estimate key genetic parameters and population structure to develop conservation guidelines.\"\n  ],\n  \"results\": [\n    \"Provide a precise reconstruction of the horse breeding history in Europe.\",\n    \"Identify breed-specific Ancestry Informative Markers and estimate key genetic parameters and population structure.\",\n    \"Develop informed conservation guidelines to preserve the genetic diversity of endangered European horse breeds.\"\n  ],\n  \"research_subject\": \"Conservation genomics of endangered indigenous European horse breeds\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"About a quarter of European horse breeds are endangered due to mechanization of farming and transportation and losses during World Wars.\",\n    \"These indigenous breeds represent invaluable genetic and cultural heritage developed over long historical periods in diverse ecological and socio-cultural contexts.\",\n    \"There is a need for genetic monitoring and conservation strategies to preserve the genetic diversity of these endangered livestock resources.\"\n  ],\n  \"objectives\": [\n    \"Conduct the first genome-wide genetic monitoring of approximately 120 endangered and autochthonous European horse breeds.\",\n    \"Reconstruct the breeding history of European horses and identify breed-specific genetic markers and population structures.\",\n    \"Develop informed conservation guidelines to maximize genetic potential and minimize unintended mixing between historically unrelated breeds.\"\n  ],\n  \"methods\": [\n    \"Perform genome-wide genetic analysis across endangered European horse breeds.\",\n    \"Identify Ancestry Informative Markers and estimate key genetic parameters and population structures.\",\n    \"Apply genomic approaches to develop conservation strategies for preserving genetic diversity.\"\n  ],\n  \"results\": [\n    \"Reveal the origins of iconic European horse breeds and the genetic impact of different management strategies and environments.\",\n    \"Provide conservation guidelines that maximize genetic potential while preserving breed integrity.\",\n    \"Demonstrate the effectiveness of genome-wide approaches for preserving genetic diversity in livestock resources globally.\"\n  ],\n  \"research_subject\": \"Conservation genomics of endangered indigenous European horse breeds\"\n}\n```"
+}

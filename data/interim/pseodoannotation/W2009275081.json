@@ -1,0 +1,72 @@
+{
+  "index": 392,
+  "title": "Mystical Dimensions of Islam, Past and Present (Keynote 4)",
+  "abstract": "This paper focuses on Sufism, the still little-known mystical tradition of Islam. It examines the early development of Sufism, beginning with the model conduct of the Prophet Muhammad himself and highlighting some famous Sufi figures in early Islam. The crucial relationship between Sufism and the Shari‘a, as well as the development of Sufi theosophy, are then examined. The discussion moves to the emergence of the Sufi brotherhoods (tariqas) and their key role in medieval Muslim society. Finally, the ongoing importance of Sufism right across the Muslim world and its growth in Europe and America in recent times are addressed. This article was first delivered as a keynote speech at the Third International Conference of the British Association for the Study of Spirituality, Spirituality in a Challenging World.",
+  "llama_json": {
+    "motivations": [
+      "Sufism, the mystical tradition of Islam, remains little-known and warrants further examination.",
+      "There is a need to understand the historical development and ongoing importance of Sufism within the Muslim world."
+    ],
+    "objectives": [
+      "Examine the early development of Sufism, including its roots in the Prophet Muhammad's conduct and its relationship with the Shari‘a.",
+      "Discuss the emergence and significance of Sufi brotherhoods in medieval Muslim society.",
+      "Highlight the continued relevance and growth of Sufism globally, including in Europe and America."
+    ],
+    "methods": [
+      "Historical analysis of Sufism's development, focusing on key figures and events.",
+      "Examination of Sufi theosophy and its relationship with Islamic law and tradition.",
+      "Discussion of the role of Sufi brotherhoods in shaping Muslim society."
+    ],
+    "results": [
+      "Enhanced understanding of Sufism's history, principles, and ongoing significance within Islam.",
+      "Greater appreciation for the diversity and richness of Muslim spiritual traditions."
+    ],
+    "research_subject": "Sufism and its mystical dimensions within Islam"
+  },
+  "openai_json": {
+    "motivations": [
+      "Sufism, the mystical tradition of Islam, is still little-known and under-studied.",
+      "There is a need to understand the historical development and contemporary relevance of Sufism in Muslim societies and beyond."
+    ],
+    "objectives": [
+      "Examine the early development of Sufism, beginning with the conduct of the Prophet Muhammad and highlighting key Sufi figures.",
+      "Discuss the relationship between Sufism and the Shari‘a, and the development of Sufi theosophy.",
+      "Explore the emergence of Sufi brotherhoods and their role in medieval Muslim society, and the contemporary importance of Sufism globally."
+    ],
+    "methods": [
+      "Conduct a historical analysis of the development of Sufism from its early stages to the present.",
+      "Examine the role of Sufi brotherhoods in medieval Muslim society.",
+      "Discuss the contemporary relevance and growth of Sufism in Europe and America."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of the development and role of Sufism in Islam.",
+      "Highlight the ongoing importance of Sufism in the Muslim world and its growth in Europe and America."
+    ],
+    "research_subject": "Historical and contemporary analysis of Sufism, the mystical tradition of Islam"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Sufism, the mystical tradition of Islam, remains little-known despite its significant role in Islamic history and contemporary Muslim societies.",
+      "There is a need to understand the relationship between Sufism and Islamic law (Shari'a) and the development of Sufi philosophical thought."
+    ],
+    "objectives": [
+      "Examine the historical development of Sufism from its origins in early Islam through the emergence of Sufi brotherhoods.",
+      "Analyze the relationship between Sufism and Shari'a and explore the development of Sufi theosophy.",
+      "Assess the contemporary significance of Sufism across the Muslim world and its expansion in Europe and America."
+    ],
+    "methods": [
+      "Historical analysis of early Sufi figures and the Prophet Muhammad's influence on Sufi practices.",
+      "Examination of the evolution of Sufi brotherhoods (tariqas) and their societal roles in medieval Muslim society.",
+      "Assessment of contemporary Sufi movements and their global spread."
+    ],
+    "results": [
+      "Provides comprehensive understanding of Sufism's historical development and its foundational relationship with Islamic tradition.",
+      "Demonstrates the ongoing relevance and growth of Sufism in both traditional Muslim societies and Western contexts.",
+      "Contributes to broader knowledge of Islamic mysticism and spirituality in academic discourse."
+    ],
+    "research_subject": "The historical development and contemporary significance of Sufism in Islam"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Sufism, the mystical tradition of Islam, remains little-known and warrants further examination.\",\n    \"There is a need to understand the historical development and ongoing importance of Sufism within the Muslim world.\"\n  ],\n  \"objectives\": [\n    \"Examine the early development of Sufism, including its roots in the Prophet Muhammad's conduct and its relationship with the Shari‘a.\",\n    \"Discuss the emergence and significance of Sufi brotherhoods in medieval Muslim society.\",\n    \"Highlight the continued relevance and growth of Sufism globally, including in Europe and America.\"\n  ],\n  \"methods\": [\n    \"Historical analysis of Sufism's development, focusing on key figures and events.\",\n    \"Examination of Sufi theosophy and its relationship with Islamic law and tradition.\",\n    \"Discussion of the role of Sufi brotherhoods in shaping Muslim society.\"\n  ],\n  \"results\": [\n    \"Enhanced understanding of Sufism's history, principles, and ongoing significance within Islam.\",\n    \"Greater appreciation for the diversity and richness of Muslim spiritual traditions.\"\n  ],\n  \"research_subject\": \"Sufism and its mystical dimensions within Islam\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Sufism, the mystical tradition of Islam, is still little-known and under-studied.\",\n    \"There is a need to understand the historical development and contemporary relevance of Sufism in Muslim societies and beyond.\"\n  ],\n  \"objectives\": [\n    \"Examine the early development of Sufism, beginning with the conduct of the Prophet Muhammad and highlighting key Sufi figures.\",\n    \"Discuss the relationship between Sufism and the Shari‘a, and the development of Sufi theosophy.\",\n    \"Explore the emergence of Sufi brotherhoods and their role in medieval Muslim society, and the contemporary importance of Sufism globally.\"\n  ],\n  \"methods\": [\n    \"Conduct a historical analysis of the development of Sufism from its early stages to the present.\",\n    \"Examine the role of Sufi brotherhoods in medieval Muslim society.\",\n    \"Discuss the contemporary relevance and growth of Sufism in Europe and America.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of the development and role of Sufism in Islam.\",\n    \"Highlight the ongoing importance of Sufism in the Muslim world and its growth in Europe and America.\"\n  ],\n  \"research_subject\": \"Historical and contemporary analysis of Sufism, the mystical tradition of Islam\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Sufism, the mystical tradition of Islam, remains little-known despite its significant role in Islamic history and contemporary Muslim societies.\",\n    \"There is a need to understand the relationship between Sufism and Islamic law (Shari'a) and the development of Sufi philosophical thought.\"\n  ],\n  \"objectives\": [\n    \"Examine the historical development of Sufism from its origins in early Islam through the emergence of Sufi brotherhoods.\",\n    \"Analyze the relationship between Sufism and Shari'a and explore the development of Sufi theosophy.\",\n    \"Assess the contemporary significance of Sufism across the Muslim world and its expansion in Europe and America.\"\n  ],\n  \"methods\": [\n    \"Historical analysis of early Sufi figures and the Prophet Muhammad's influence on Sufi practices.\",\n    \"Examination of the evolution of Sufi brotherhoods (tariqas) and their societal roles in medieval Muslim society.\",\n    \"Assessment of contemporary Sufi movements and their global spread.\"\n  ],\n  \"results\": [\n    \"Provides comprehensive understanding of Sufism's historical development and its foundational relationship with Islamic tradition.\",\n    \"Demonstrates the ongoing relevance and growth of Sufism in both traditional Muslim societies and Western contexts.\",\n    \"Contributes to broader knowledge of Islamic mysticism and spirituality in academic discourse.\"\n  ],\n  \"research_subject\": \"The historical development and contemporary significance of Sufism in Islam\"\n}\n```"
+}

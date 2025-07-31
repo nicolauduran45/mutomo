@@ -1,0 +1,60 @@
+{
+  "index": 46,
+  "title": "PROCESS FOR PRODUCTION OF PAPER",
+  "abstract": "The invention relates to a process for the production of paper or board comprising: adding a retention system to a stream of stock entering a paper machine head box, directing the stream of stock to a wire, de watering the stream of stock on the wire to form a paper web, and drying the paper web, wherein the retention system comprises a water-soluble cationic polymer, and nanocellulose acting like a micro particle, wherein the nanocellulose is added in an amount of less than 1% as active substance based on dry solids weight of the stock.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an improved process in the production of paper or board, specifically in terms of retention and drainage."
+    ],
+    "objectives": [
+      "Develop a process for producing paper or board with enhanced retention and drainage properties."
+    ],
+    "methods": [
+      "Utilize a retention system comprising a water-soluble cationic polymer and nanocellulose in the paper production process.",
+      "Add the retention system to the stock entering the paper machine head box."
+    ],
+    "results": [
+      "Improve the retention and drainage properties of the paper production process."
+    ],
+    "research_subject": "Improved paper production process using nanocellulose and cationic polymer retention system"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an improved process for the production of paper or board that enhances the quality and efficiency of the process."
+    ],
+    "objectives": [
+      "Develop a process for paper or board production that involves the use of a retention system comprising a water-soluble cationic polymer and nanocellulose."
+    ],
+    "methods": [
+      "Add a retention system to a stream of stock entering a paper machine head box.",
+      "Direct the stream of stock to a wire and de-water it to form a paper web.",
+      "Dry the paper web after de-watering."
+    ],
+    "results": [
+      "Expected to result in an improved process for the production of paper or board."
+    ],
+    "research_subject": "Process for the production of paper or board"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional paper production processes require optimization of retention systems to improve efficiency and product quality.",
+      "There is a need for sustainable and effective micro-particle alternatives in paper manufacturing retention systems."
+    ],
+    "objectives": [
+      "Develop an improved paper production process using nanocellulose as a micro-particle component in the retention system.",
+      "Optimize the retention system by combining water-soluble cationic polymer with minimal amounts of nanocellulose."
+    ],
+    "methods": [
+      "Add a retention system containing water-soluble cationic polymer and nanocellulose to the stock stream entering the paper machine head box.",
+      "Direct the treated stock stream through wire dewatering and subsequent drying processes to form the final paper product."
+    ],
+    "results": [
+      "Achieve effective paper or board production using less than 1% nanocellulose as active substance based on dry solids weight.",
+      "Demonstrate that nanocellulose can function as an effective micro-particle in paper retention systems."
+    ],
+    "research_subject": "Paper production process using nanocellulose-based retention system"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved process in the production of paper or board, specifically in terms of retention and drainage.\"\n  ],\n  \"objectives\": [\n    \"Develop a process for producing paper or board with enhanced retention and drainage properties.\"\n  ],\n  \"methods\": [\n    \"Utilize a retention system comprising a water-soluble cationic polymer and nanocellulose in the paper production process.\",\n    \"Add the retention system to the stock entering the paper machine head box.\"\n  ],\n  \"results\": [\n    \"Improve the retention and drainage properties of the paper production process.\"\n  ],\n  \"research_subject\": \"Improved paper production process using nanocellulose and cationic polymer retention system\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved process for the production of paper or board that enhances the quality and efficiency of the process.\"\n  ],\n  \"objectives\": [\n    \"Develop a process for paper or board production that involves the use of a retention system comprising a water-soluble cationic polymer and nanocellulose.\"\n  ],\n  \"methods\": [\n    \"Add a retention system to a stream of stock entering a paper machine head box.\",\n    \"Direct the stream of stock to a wire and de-water it to form a paper web.\",\n    \"Dry the paper web after de-watering.\"\n  ],\n  \"results\": [\n    \"Expected to result in an improved process for the production of paper or board.\"\n  ],\n  \"research_subject\": \"Process for the production of paper or board\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional paper production processes require optimization of retention systems to improve efficiency and product quality.\",\n    \"There is a need for sustainable and effective micro-particle alternatives in paper manufacturing retention systems.\"\n  ],\n  \"objectives\": [\n    \"Develop an improved paper production process using nanocellulose as a micro-particle component in the retention system.\",\n    \"Optimize the retention system by combining water-soluble cationic polymer with minimal amounts of nanocellulose.\"\n  ],\n  \"methods\": [\n    \"Add a retention system containing water-soluble cationic polymer and nanocellulose to the stock stream entering the paper machine head box.\",\n    \"Direct the treated stock stream through wire dewatering and subsequent drying processes to form the final paper product.\"\n  ],\n  \"results\": [\n    \"Achieve effective paper or board production using less than 1% nanocellulose as active substance based on dry solids weight.\",\n    \"Demonstrate that nanocellulose can function as an effective micro-particle in paper retention systems.\"\n  ],\n  \"research_subject\": \"Paper production process using nanocellulose-based retention system\"\n}\n```"
+}

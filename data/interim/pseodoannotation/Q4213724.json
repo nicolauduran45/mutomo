@@ -1,0 +1,49 @@
+{
+  "index": 336,
+  "title": "SUBVENÇÃO PARA OS CUSTOS DE GESTÃO DA COVID-19",
+  "abstract": "PEDIDO DE FACILITAÇÃO REFERIDO NO ANÚNCIO PÚBLICO DE PEQUENAS SUBVENÇÕES A PME SUSPENSAS OU COM UMA DIMINUIÇÃO GRAVE DO VOLUME DE NEGÓCIOS",
+  "llama_json": {
+    "motivations": [
+      "Small and medium-sized enterprises (SMEs) face significant challenges due to the COVID-19 pandemic, including business suspension or severe decline in business volume."
+    ],
+    "objectives": [
+      "Provide financial support to SMEs affected by the COVID-19 pandemic to help manage their costs."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Financial support for SMEs affected by COVID-19"
+  },
+  "openai_json": {
+    "motivations": [
+      "Small and medium-sized enterprises (SMEs) are experiencing severe business volume reduction or suspension due to the COVID-19 pandemic."
+    ],
+    "objectives": [
+      "Provide financial support to SMEs affected by the COVID-19 pandemic."
+    ],
+    "methods": [
+      "Implement a public announcement for small grants to SMEs."
+    ],
+    "results": [
+      "Financial relief for SMEs experiencing business disruptions due to COVID-19."
+    ],
+    "research_subject": "Subsidy for COVID-19 management costs"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Small and medium enterprises face suspension or severe reduction in business volume due to COVID-19 pandemic."
+    ],
+    "objectives": [
+      "Provide financial support to SMEs affected by COVID-19 through management cost subsidies."
+    ],
+    "methods": [
+      "Implementation of a public grant program for eligible SMEs experiencing business disruption."
+    ],
+    "results": [
+      "Financial relief for SMEs to manage COVID-19 related costs and business continuity challenges."
+    ],
+    "research_subject": "COVID-19 management cost subsidies for small and medium enterprises"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Small and medium-sized enterprises (SMEs) face significant challenges due to the COVID-19 pandemic, including business suspension or severe decline in business volume.\"\n  ],\n  \"objectives\": [\n    \"Provide financial support to SMEs affected by the COVID-19 pandemic to help manage their costs.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Financial support for SMEs affected by COVID-19\"\n}\n```",
+  "openai_raw": "Output:\n\n```json\n{\n  \"motivations\": [\n    \"Small and medium-sized enterprises (SMEs) are experiencing severe business volume reduction or suspension due to the COVID-19 pandemic.\"\n  ],\n  \"objectives\": [\n    \"Provide financial support to SMEs affected by the COVID-19 pandemic.\"\n  ],\n  \"methods\": [\n    \"Implement a public announcement for small grants to SMEs.\"\n  ],\n  \"results\": [\n    \"Financial relief for SMEs experiencing business disruptions due to COVID-19.\"\n  ],\n  \"research_subject\": \"Subsidy for COVID-19 management costs\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Small and medium enterprises face suspension or severe reduction in business volume due to COVID-19 pandemic.\"\n  ],\n  \"objectives\": [\n    \"Provide financial support to SMEs affected by COVID-19 through management cost subsidies.\"\n  ],\n  \"methods\": [\n    \"Implementation of a public grant program for eligible SMEs experiencing business disruption.\"\n  ],\n  \"results\": [\n    \"Financial relief for SMEs to manage COVID-19 related costs and business continuity challenges.\"\n  ],\n  \"research_subject\": \"COVID-19 management cost subsidies for small and medium enterprises\"\n}\n```"
+}

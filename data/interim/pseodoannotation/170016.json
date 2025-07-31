@@ -1,0 +1,74 @@
+{
+  "index": 408,
+  "title": "Robott-Net - a shared infrastructure to sustainably optimise technology transfer throughout europe",
+  "abstract": "The main objective of the TT-Net initiative is to create a sustainable European infrastructure to support novel robotic technologies on their path to market. TT-Net will develop and test mechanisms for sharing expertise and physical research infrastructures, and a unique multidisciplinary approach that enhances cross-fertilisation of ideas between academia and industry. We transform successful national structures and mechanisms used by Research and Technology Organisations (RTOs) in Denmark, Germany, Spain and the UK; merging them into a Europe-wide, composite, technology transfer system.  Together we will test and improve a four-stage process to accelerate the path to market for new robotic technologies. The first stage involves promoting state-of-the-art industrial and professional service robot technologies to over 1,200 end-users and robot developers (from industry and academia) in a bidirectional exchange of views and opinions about robotic research trends, needs and technology developments, and soliciting participation in TT-Net. The second stage involves technical and business feasibility studies for both end-users and robot developers at about TRL 5. The third stage implements first field trials at TRL 6 for a novel technology and then produces complete TRL 7+ robotic automation solutions at end-user sites. The fourth stage is the completion to TRL 9, facilitated within TT-Net but happening outside project control.  Accelerating the path to market of new robot technologies will increase Europe’s market share in both industrial and professional service robotics. Installing European-standard robotic automation at end-user sites instead of the present national-standard automation will contribute substantially to increasing the competitiveness of Europe's manufacturing sector and in particular SMEs.",
+  "llama_json": {
+    "motivations": [
+      "Novel robotic technologies face challenges in reaching the market due to a lack of effective technology transfer mechanisms.",
+      "Europe's manufacturing sector, particularly SMEs, struggles with competitiveness due to the use of national-standard automation instead of European-standard robotic automation."
+    ],
+    "objectives": [
+      "Create a sustainable European infrastructure to support the development and market introduction of novel robotic technologies.",
+      "Develop and test mechanisms for sharing expertise and physical research infrastructures to enhance cross-fertilisation of ideas between academia and industry.",
+      "Accelerate the path to market for new robotic technologies through a four-stage process."
+    ],
+    "methods": [
+      "Transform successful national structures and mechanisms into a Europe-wide, composite, technology transfer system.",
+      "Implement a four-stage process involving promotion, feasibility studies, field trials, and completion to TRL 9 to accelerate the path to market for new robotic technologies.",
+      "Foster collaboration between academia and industry through a multidisciplinary approach."
+    ],
+    "results": [
+      "Increase Europe's market share in both industrial and professional service robotics.",
+      "Enhance the competitiveness of Europe's manufacturing sector, particularly SMEs, through the adoption of European-standard robotic automation.",
+      "Accelerate the development and deployment of novel robotic technologies."
+    ],
+    "research_subject": "Sustainable optimisation of technology transfer for robotic technologies in Europe"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a sustainable European infrastructure to support novel robotic technologies on their path to market.",
+      "Cross-fertilisation of ideas between academia and industry is essential for the development and implementation of new robotic technologies.",
+      "There is a need to accelerate the path to market for new robotic technologies to increase Europe's market share in both industrial and professional service robotics."
+    ],
+    "objectives": [
+      "Create a sustainable European infrastructure to support novel robotic technologies on their path to market.",
+      "Develop and test mechanisms for sharing expertise and physical research infrastructures.",
+      "Transform successful national structures and mechanisms used by Research and Technology Organisations into a Europe-wide, composite, technology transfer system."
+    ],
+    "methods": [
+      "Promote state-of-the-art industrial and professional service robot technologies to end-users and robot developers.",
+      "Conduct technical and business feasibility studies for both end-users and robot developers at about TRL 5.",
+      "Implement first field trials at TRL 6 for a novel technology and then produce complete TRL 7+ robotic automation solutions at end-user sites."
+    ],
+    "results": [
+      "Accelerate the path to market of new robot technologies, increasing Europe's market share in both industrial and professional service robotics.",
+      "Enhance the competitiveness of Europe's manufacturing sector and in particular SMEs by installing European-standard robotic automation at end-user sites."
+    ],
+    "research_subject": "Creation of a shared infrastructure for technology transfer of robotic technologies in Europe"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Novel robotic technologies face significant barriers in transitioning from research to market, limiting their commercial potential and adoption.",
+      "Europe lacks a unified infrastructure to support technology transfer for robotics, resulting in fragmented national approaches that hinder competitiveness."
+    ],
+    "objectives": [
+      "Create a sustainable European infrastructure to accelerate the market adoption of novel robotic technologies through shared expertise and research facilities.",
+      "Transform and merge successful national technology transfer mechanisms into a unified Europe-wide system for robotics.",
+      "Enhance cross-fertilisation between academia and industry to improve the competitiveness of European manufacturing and robotics sectors."
+    ],
+    "methods": [
+      "Implement a four-stage technology transfer process progressing from technology promotion through feasibility studies to field trials and market readiness.",
+      "Facilitate bidirectional exchange between end-users and robot developers to align research trends with market needs.",
+      "Leverage existing Research and Technology Organisation structures from Denmark, Germany, Spain, and the UK to create a composite European system."
+    ],
+    "results": [
+      "Accelerate the path to market for new robotic technologies, increasing Europe's market share in industrial and professional service robotics.",
+      "Enable European-standard robotic automation implementation across end-user sites, particularly benefiting SMEs.",
+      "Establish a sustainable infrastructure supporting over 1,200 end-users and developers in advancing robotic technologies from research to commercialization."
+    ],
+    "research_subject": "European infrastructure for robotic technology transfer and market acceleration"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Novel robotic technologies face challenges in reaching the market due to a lack of effective technology transfer mechanisms.\",\n    \"Europe's manufacturing sector, particularly SMEs, struggles with competitiveness due to the use of national-standard automation instead of European-standard robotic automation.\"\n  ],\n  \"objectives\": [\n    \"Create a sustainable European infrastructure to support the development and market introduction of novel robotic technologies.\",\n    \"Develop and test mechanisms for sharing expertise and physical research infrastructures to enhance cross-fertilisation of ideas between academia and industry.\",\n    \"Accelerate the path to market for new robotic technologies through a four-stage process.\"\n  ],\n  \"methods\": [\n    \"Transform successful national structures and mechanisms into a Europe-wide, composite, technology transfer system.\",\n    \"Implement a four-stage process involving promotion, feasibility studies, field trials, and completion to TRL 9 to accelerate the path to market for new robotic technologies.\",\n    \"Foster collaboration between academia and industry through a multidisciplinary approach.\"\n  ],\n  \"results\": [\n    \"Increase Europe's market share in both industrial and professional service robotics.\",\n    \"Enhance the competitiveness of Europe's manufacturing sector, particularly SMEs, through the adoption of European-standard robotic automation.\",\n    \"Accelerate the development and deployment of novel robotic technologies.\"\n  ],\n  \"research_subject\": \"Sustainable optimisation of technology transfer for robotic technologies in Europe\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a sustainable European infrastructure to support novel robotic technologies on their path to market.\",\n    \"Cross-fertilisation of ideas between academia and industry is essential for the development and implementation of new robotic technologies.\",\n    \"There is a need to accelerate the path to market for new robotic technologies to increase Europe's market share in both industrial and professional service robotics.\"\n  ],\n  \"objectives\": [\n    \"Create a sustainable European infrastructure to support novel robotic technologies on their path to market.\",\n    \"Develop and test mechanisms for sharing expertise and physical research infrastructures.\",\n    \"Transform successful national structures and mechanisms used by Research and Technology Organisations into a Europe-wide, composite, technology transfer system.\"\n  ],\n  \"methods\": [\n    \"Promote state-of-the-art industrial and professional service robot technologies to end-users and robot developers.\",\n    \"Conduct technical and business feasibility studies for both end-users and robot developers at about TRL 5.\",\n    \"Implement first field trials at TRL 6 for a novel technology and then produce complete TRL 7+ robotic automation solutions at end-user sites.\"\n  ],\n  \"results\": [\n    \"Accelerate the path to market of new robot technologies, increasing Europe's market share in both industrial and professional service robotics.\",\n    \"Enhance the competitiveness of Europe's manufacturing sector and in particular SMEs by installing European-standard robotic automation at end-user sites.\"\n  ],\n  \"research_subject\": \"Creation of a shared infrastructure for technology transfer of robotic technologies in Europe\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Novel robotic technologies face significant barriers in transitioning from research to market, limiting their commercial potential and adoption.\",\n    \"Europe lacks a unified infrastructure to support technology transfer for robotics, resulting in fragmented national approaches that hinder competitiveness.\"\n  ],\n  \"objectives\": [\n    \"Create a sustainable European infrastructure to accelerate the market adoption of novel robotic technologies through shared expertise and research facilities.\",\n    \"Transform and merge successful national technology transfer mechanisms into a unified Europe-wide system for robotics.\",\n    \"Enhance cross-fertilisation between academia and industry to improve the competitiveness of European manufacturing and robotics sectors.\"\n  ],\n  \"methods\": [\n    \"Implement a four-stage technology transfer process progressing from technology promotion through feasibility studies to field trials and market readiness.\",\n    \"Facilitate bidirectional exchange between end-users and robot developers to align research trends with market needs.\",\n    \"Leverage existing Research and Technology Organisation structures from Denmark, Germany, Spain, and the UK to create a composite European system.\"\n  ],\n  \"results\": [\n    \"Accelerate the path to market for new robotic technologies, increasing Europe's market share in industrial and professional service robotics.\",\n    \"Enable European-standard robotic automation implementation across end-user sites, particularly benefiting SMEs.\",\n    \"Establish a sustainable infrastructure supporting over 1,200 end-users and developers in advancing robotic technologies from research to commercialization.\"\n  ],\n  \"research_subject\": \"European infrastructure for robotic technology transfer and market acceleration\"\n}\n```"
+}

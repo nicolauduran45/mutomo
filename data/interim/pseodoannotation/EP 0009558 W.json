@@ -1,0 +1,62 @@
+{
+  "index": 484,
+  "title": "BIODEGRADABLE EXCIPIENT SYSTEMS FOR THERAPEUTICALLY ACTIVE SUBSTANCES AND METHOD FOR PRODUCING THE SAME",
+  "abstract": "The invention relates to a formulation for a sustained-release biodegradable medicament that contains an excipient system. Said excipient system consists of biodegradable blood plasma products that have been dried in a fluidized bed while maintaining their properties and an active substance to be applied as a sustained-release substance or a combination of active substances.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for biodegradable excipient systems that can effectively deliver therapeutically active substances in a sustained-release manner."
+    ],
+    "objectives": [
+      "Develop a biodegradable excipient system for sustained-release medicaments using blood plasma products."
+    ],
+    "methods": [
+      "Utilize a fluidized bed drying process to preserve the properties of biodegradable blood plasma products."
+    ],
+    "results": [
+      "Create a formulation for sustained-release biodegradable medicaments that can effectively deliver therapeutically active substances."
+    ],
+    "research_subject": "Biodegradable excipient systems for sustained-release delivery of therapeutically active substances"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a formulation for a sustained-release biodegradable medicament that contains an excipient system.",
+      "The current methods of producing such formulations may not maintain the properties of biodegradable blood plasma products."
+    ],
+    "objectives": [
+      "Develop a formulation for a sustained-release biodegradable medicament that contains an excipient system.",
+      "Ensure the excipient system consists of biodegradable blood plasma products that maintain their properties after being dried in a fluidized bed."
+    ],
+    "methods": [
+      "Use biodegradable blood plasma products as the excipient system in the formulation.",
+      "Dry the biodegradable blood plasma products in a fluidized bed to maintain their properties.",
+      "Include an active substance or a combination of active substances to be applied as a sustained-release substance in the formulation."
+    ],
+    "results": [
+      "Produce a formulation for a sustained-release biodegradable medicament that contains an excipient system.",
+      "Ensure the excipient system maintains the properties of biodegradable blood plasma products after being dried in a fluidized bed."
+    ],
+    "research_subject": "Biodegradable excipient systems for therapeutically active substances"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for sustained-release drug delivery systems that can provide controlled release of therapeutic substances over extended periods.",
+      "Current excipient systems may lack biodegradability and biocompatibility, limiting their safety and environmental sustainability."
+    ],
+    "objectives": [
+      "Develop a biodegradable excipient system using blood plasma products for sustained-release drug delivery.",
+      "Create a formulation that maintains the properties of biodegradable materials while enabling controlled release of active substances."
+    ],
+    "methods": [
+      "Utilize fluidized bed drying technology to process biodegradable blood plasma products while preserving their properties.",
+      "Combine dried blood plasma products with therapeutic active substances to create sustained-release formulations."
+    ],
+    "results": [
+      "A biodegradable excipient system that enables sustained release of therapeutic substances.",
+      "Improved biocompatibility and environmental sustainability compared to conventional excipient systems."
+    ],
+    "research_subject": "Biodegradable excipient systems using blood plasma products for sustained-release drug delivery"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for biodegradable excipient systems that can effectively deliver therapeutically active substances in a sustained-release manner.\"\n  ],\n  \"objectives\": [\n    \"Develop a biodegradable excipient system for sustained-release medicaments using blood plasma products.\"\n  ],\n  \"methods\": [\n    \"Utilize a fluidized bed drying process to preserve the properties of biodegradable blood plasma products.\"\n  ],\n  \"results\": [\n    \"Create a formulation for sustained-release biodegradable medicaments that can effectively deliver therapeutically active substances.\"\n  ],\n  \"research_subject\": \"Biodegradable excipient systems for sustained-release delivery of therapeutically active substances\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a formulation for a sustained-release biodegradable medicament that contains an excipient system.\",\n    \"The current methods of producing such formulations may not maintain the properties of biodegradable blood plasma products.\"\n  ],\n  \"objectives\": [\n    \"Develop a formulation for a sustained-release biodegradable medicament that contains an excipient system.\",\n    \"Ensure the excipient system consists of biodegradable blood plasma products that maintain their properties after being dried in a fluidized bed.\"\n  ],\n  \"methods\": [\n    \"Use biodegradable blood plasma products as the excipient system in the formulation.\",\n    \"Dry the biodegradable blood plasma products in a fluidized bed to maintain their properties.\",\n    \"Include an active substance or a combination of active substances to be applied as a sustained-release substance in the formulation.\"\n  ],\n  \"results\": [\n    \"Produce a formulation for a sustained-release biodegradable medicament that contains an excipient system.\",\n    \"Ensure the excipient system maintains the properties of biodegradable blood plasma products after being dried in a fluidized bed.\"\n  ],\n  \"research_subject\": \"Biodegradable excipient systems for therapeutically active substances\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for sustained-release drug delivery systems that can provide controlled release of therapeutic substances over extended periods.\",\n    \"Current excipient systems may lack biodegradability and biocompatibility, limiting their safety and environmental sustainability.\"\n  ],\n  \"objectives\": [\n    \"Develop a biodegradable excipient system using blood plasma products for sustained-release drug delivery.\",\n    \"Create a formulation that maintains the properties of biodegradable materials while enabling controlled release of active substances.\"\n  ],\n  \"methods\": [\n    \"Utilize fluidized bed drying technology to process biodegradable blood plasma products while preserving their properties.\",\n    \"Combine dried blood plasma products with therapeutic active substances to create sustained-release formulations.\"\n  ],\n  \"results\": [\n    \"A biodegradable excipient system that enables sustained release of therapeutic substances.\",\n    \"Improved biocompatibility and environmental sustainability compared to conventional excipient systems.\"\n  ],\n  \"research_subject\": \"Biodegradable excipient systems using blood plasma products for sustained-release drug delivery\"\n}\n```"
+}

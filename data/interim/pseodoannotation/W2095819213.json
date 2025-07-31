@@ -1,0 +1,65 @@
+{
+  "index": 59,
+  "title": "Using a symptom diary to investigate work-related urticaria",
+  "abstract": "The strategy of keeping a diary may not be considered by many treating clinicians, but this approach has been recommended for occupational asthma and proved useful in this case of chronic urticaria associated with work.To report a case of a health care worker who had significant allergic reactions that were found to be associated with exposure to test allergens while working in an asthma clinic.The patient, a nurse working in a paediatric asthma clinic, was known to be allergic to common allergens that were used to test patients in the clinic. She developed reactions including swelling of the eyelids and urticarial reactions on the forehead, torso and upper and lower limbs on different occasions. A symptom diary was used to collect information on the reactions and the activity performed at the time they occurred.She recorded symptoms that were mainly urticarial, with additional rhinitis or wheeze on occasion, on 20 (74%) working days and only 5 (28%) non-work days, indicating a significant association (P < 0.01) between her symptoms and working days.Medical management had not controlled her symptoms, which improved on removal from the work activity and was confirmed by further diary recording.",
+  "llama_json": {
+    "motivations": [
+      "Work-related urticaria poses a significant challenge for healthcare workers, particularly those exposed to allergens in their work environment.",
+      "Traditional medical management may not effectively control symptoms of work-related urticaria, necessitating alternative approaches to diagnosis and management."
+    ],
+    "objectives": [
+      "Investigate the association between work activities and symptoms of urticaria in a healthcare worker using a symptom diary.",
+      "Evaluate the effectiveness of a symptom diary in identifying and managing work-related urticaria."
+    ],
+    "methods": [
+      "Utilize a symptom diary to collect information on reactions and activities performed by the patient.",
+      "Analyze the association between symptoms and working days to determine the likelihood of work-related urticaria."
+    ],
+    "results": [
+      "The symptom diary revealed a significant association between the patient's symptoms and working days, indicating work-related urticaria.",
+      "Removal from the work activity led to improvement in symptoms, confirming the diagnosis and effectiveness of the diary approach."
+    ],
+    "research_subject": "Using a symptom diary to investigate and manage work-related urticaria in a healthcare worker"
+  },
+  "openai_json": {
+    "motivations": [
+      "The use of symptom diaries in investigating work-related allergies is not widely considered by clinicians.",
+      "There is a need to explore effective methods for diagnosing and managing occupational allergies, such as urticaria."
+    ],
+    "objectives": [
+      "Investigate the case of a health care worker experiencing allergic reactions associated with exposure to test allergens at work.",
+      "Use a symptom diary to collect information on the reactions and the activities performed when they occurred."
+    ],
+    "methods": [
+      "Employ a symptom diary to track the occurrence of allergic reactions and associated activities.",
+      "Analyze the correlation between the worker's symptoms and her working days."
+    ],
+    "results": [
+      "The symptom diary revealed a significant association between the worker's symptoms and her working days.",
+      "The worker's symptoms improved upon removal from the work activity, as confirmed by further diary recording."
+    ],
+    "research_subject": "Investigation of work-related urticaria using a symptom diary"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Healthcare workers exposed to allergens in clinical settings may experience work-related allergic reactions that are difficult to diagnose and manage.",
+      "Traditional medical management approaches may be insufficient for controlling work-related urticaria without identifying the occupational trigger."
+    ],
+    "objectives": [
+      "Investigate the association between work activities and chronic urticaria symptoms in a healthcare worker using a symptom diary approach.",
+      "Demonstrate the utility of symptom diaries as a diagnostic tool for work-related allergic conditions."
+    ],
+    "methods": [
+      "Implementation of a symptom diary to systematically record allergic reactions and associated work activities.",
+      "Statistical analysis comparing symptom occurrence between working days and non-work days."
+    ],
+    "results": [
+      "Symptoms occurred on 74% of working days compared to 28% of non-work days, demonstrating a significant association between work exposure and allergic reactions.",
+      "Removal from the work environment resulted in symptom improvement, confirming the occupational nature of the condition."
+    ],
+    "research_subject": "Work-related urticaria in healthcare workers exposed to allergens"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Work-related urticaria poses a significant challenge for healthcare workers, particularly those exposed to allergens in their work environment.\",\n    \"Traditional medical management may not effectively control symptoms of work-related urticaria, necessitating alternative approaches to diagnosis and management.\"\n  ],\n  \"objectives\": [\n    \"Investigate the association between work activities and symptoms of urticaria in a healthcare worker using a symptom diary.\",\n    \"Evaluate the effectiveness of a symptom diary in identifying and managing work-related urticaria.\"\n  ],\n  \"methods\": [\n    \"Utilize a symptom diary to collect information on reactions and activities performed by the patient.\",\n    \"Analyze the association between symptoms and working days to determine the likelihood of work-related urticaria.\"\n  ],\n  \"results\": [\n    \"The symptom diary revealed a significant association between the patient's symptoms and working days, indicating work-related urticaria.\",\n    \"Removal from the work activity led to improvement in symptoms, confirming the diagnosis and effectiveness of the diary approach.\"\n  ],\n  \"research_subject\": \"Using a symptom diary to investigate and manage work-related urticaria in a healthcare worker\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The use of symptom diaries in investigating work-related allergies is not widely considered by clinicians.\",\n    \"There is a need to explore effective methods for diagnosing and managing occupational allergies, such as urticaria.\"\n  ],\n  \"objectives\": [\n    \"Investigate the case of a health care worker experiencing allergic reactions associated with exposure to test allergens at work.\",\n    \"Use a symptom diary to collect information on the reactions and the activities performed when they occurred.\"\n  ],\n  \"methods\": [\n    \"Employ a symptom diary to track the occurrence of allergic reactions and associated activities.\",\n    \"Analyze the correlation between the worker's symptoms and her working days.\"\n  ],\n  \"results\": [\n    \"The symptom diary revealed a significant association between the worker's symptoms and her working days.\",\n    \"The worker's symptoms improved upon removal from the work activity, as confirmed by further diary recording.\"\n  ],\n  \"research_subject\": \"Investigation of work-related urticaria using a symptom diary\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Healthcare workers exposed to allergens in clinical settings may experience work-related allergic reactions that are difficult to diagnose and manage.\",\n    \"Traditional medical management approaches may be insufficient for controlling work-related urticaria without identifying the occupational trigger.\"\n  ],\n  \"objectives\": [\n    \"Investigate the association between work activities and chronic urticaria symptoms in a healthcare worker using a symptom diary approach.\",\n    \"Demonstrate the utility of symptom diaries as a diagnostic tool for work-related allergic conditions.\"\n  ],\n  \"methods\": [\n    \"Implementation of a symptom diary to systematically record allergic reactions and associated work activities.\",\n    \"Statistical analysis comparing symptom occurrence between working days and non-work days.\"\n  ],\n  \"results\": [\n    \"Symptoms occurred on 74% of working days compared to 28% of non-work days, demonstrating a significant association between work exposure and allergic reactions.\",\n    \"Removal from the work environment resulted in symptom improvement, confirming the occupational nature of the condition.\"\n  ],\n  \"research_subject\": \"Work-related urticaria in healthcare workers exposed to allergens\"\n}\n```"
+}

@@ -1,0 +1,73 @@
+{
+  "index": 280,
+  "title": "Establishing services enhancing the innovation management capacity of smes in the enterprise europe network",
+  "abstract": "A lack of innovation management capacity represents an important barrier to creating economic impact from innovation activities in SMEs. The Horizon 2020 Work Programme “Innovation in SMEs” therefore foresees support services for SMEs via the Enterprise Europe Network addressing this specific issue. The Austrian consortium will support SMEs in addressing factors hindering successful innovation cycles. Activities will be targeted at (1) providing substantial consulting and support services in the form of key account management (KAM) to beneficiaries of the Horizon 2020 SME instrument and at (2) enhancing the innovation management capacity (EIMC) of SMEs. Services will be provided in close cooperation and coordination with the National Contact Points and major regional and national stakeholders, guaranteeing a holistic approach and a high quality of services. (1) Within the frame of the SME instrument, partners will conduct company assessments, identify weaknesses in the SMEs’ innovation strategies and subsequently help SMEs to assign professional coaches. These coaches will then jointly develop a coaching plan with the SME and address these weaknesses. This process will be facilitated and accompanied by the Enterprise Europe Network expert. Further support (e.g. the link to additional financial resources) will be provided and the SME thereby receives a vital consulting service free of charge throughout the SME instrument project. (2) In addition to the SME instrument, the partners will directly support a selected number of high-potential SMEs in improving their innovation management. This will be achieved through targeted innovation management consulting by senior staff members of the consortium. Thereby, SMEs in need of this specific type of consulting will be reached, which may not benefit from the H2020 SME instrument while still showing a high potential for successful market introduction of innovations and international growth.",
+  "llama_json": {
+    "motivations": [
+      "SMEs often lack innovation management capacity, hindering their ability to create economic impact from innovation activities.",
+      "There is a need for targeted support services to help SMEs overcome barriers to successful innovation cycles."
+    ],
+    "objectives": [
+      "Provide key account management (KAM) services to beneficiaries of the Horizon 2020 SME instrument.",
+      "Enhance the innovation management capacity (EIMC) of SMEs through targeted consulting and support services.",
+      "Support high-potential SMEs in improving their innovation management and achieving successful market introduction of innovations."
+    ],
+    "methods": [
+      "Conduct company assessments to identify weaknesses in SMEs' innovation strategies and assign professional coaches to address these weaknesses.",
+      "Provide targeted innovation management consulting by senior staff members to selected high-potential SMEs.",
+      "Collaborate with National Contact Points and regional stakeholders to ensure a holistic approach and high-quality services."
+    ],
+    "results": [
+      "Improve the innovation management capacity of SMEs, enabling them to create economic impact from innovation activities.",
+      "Support the successful market introduction of innovations and international growth of high-potential SMEs.",
+      "Provide vital consulting services to SMEs, enhancing their competitiveness and innovation potential."
+    ],
+    "research_subject": "Enhancing innovation management capacity of SMEs through targeted support services"
+  },
+  "openai_json": {
+    "motivations": [
+      "SMEs often lack the innovation management capacity, which hinders their ability to create economic impact from their innovation activities.",
+      "There is a need for support services to help SMEs overcome barriers to successful innovation cycles."
+    ],
+    "objectives": [
+      "Provide substantial consulting and support services to beneficiaries of the Horizon 2020 SME instrument.",
+      "Enhance the innovation management capacity of SMEs through targeted consulting and support.",
+      "Facilitate the process of identifying weaknesses in SMEs' innovation strategies and help them assign professional coaches."
+    ],
+    "methods": [
+      "Conduct company assessments to identify weaknesses in the SMEs' innovation strategies.",
+      "Assign professional coaches to help SMEs address these weaknesses and develop a coaching plan.",
+      "Provide targeted innovation management consulting by senior staff members of the consortium."
+    ],
+    "results": [
+      "Improve the innovation management capacity of SMEs, enabling them to create economic impact from their innovation activities.",
+      "Help SMEs overcome barriers to successful innovation cycles through substantial consulting and support services.",
+      "Enable SMEs to identify and address weaknesses in their innovation strategies through professional coaching."
+    ],
+    "research_subject": "Enhancing the innovation management capacity of SMEs in the Enterprise Europe Network"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "SMEs face significant barriers in creating economic impact from innovation activities due to insufficient innovation management capacity.",
+      "There is a need for targeted support services to help SMEs overcome weaknesses in their innovation strategies and management processes."
+    ],
+    "objectives": [
+      "Provide substantial consulting and key account management services to SMEs, particularly beneficiaries of the Horizon 2020 SME instrument.",
+      "Enhance the innovation management capacity of SMEs through targeted support and coaching services."
+    ],
+    "methods": [
+      "Conduct company assessments to identify weaknesses in SMEs' innovation strategies and facilitate the assignment of professional coaches.",
+      "Provide direct innovation management consulting by senior consortium staff members to selected high-potential SMEs.",
+      "Coordinate services with National Contact Points and regional/national stakeholders to ensure a holistic approach."
+    ],
+    "results": [
+      "SMEs will receive vital consulting services that address specific weaknesses in their innovation management processes.",
+      "High-potential SMEs will improve their capacity for successful market introduction of innovations and international growth.",
+      "Enhanced innovation management capacity will enable SMEs to create greater economic impact from their innovation activities."
+    ],
+    "research_subject": "Innovation management support services for SMEs through the Enterprise Europe Network"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs often lack innovation management capacity, hindering their ability to create economic impact from innovation activities.\",\n    \"There is a need for targeted support services to help SMEs overcome barriers to successful innovation cycles.\"\n  ],\n  \"objectives\": [\n    \"Provide key account management (KAM) services to beneficiaries of the Horizon 2020 SME instrument.\",\n    \"Enhance the innovation management capacity (EIMC) of SMEs through targeted consulting and support services.\",\n    \"Support high-potential SMEs in improving their innovation management and achieving successful market introduction of innovations.\"\n  ],\n  \"methods\": [\n    \"Conduct company assessments to identify weaknesses in SMEs' innovation strategies and assign professional coaches to address these weaknesses.\",\n    \"Provide targeted innovation management consulting by senior staff members to selected high-potential SMEs.\",\n    \"Collaborate with National Contact Points and regional stakeholders to ensure a holistic approach and high-quality services.\"\n  ],\n  \"results\": [\n    \"Improve the innovation management capacity of SMEs, enabling them to create economic impact from innovation activities.\",\n    \"Support the successful market introduction of innovations and international growth of high-potential SMEs.\",\n    \"Provide vital consulting services to SMEs, enhancing their competitiveness and innovation potential.\"\n  ],\n  \"research_subject\": \"Enhancing innovation management capacity of SMEs through targeted support services\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs often lack the innovation management capacity, which hinders their ability to create economic impact from their innovation activities.\",\n    \"There is a need for support services to help SMEs overcome barriers to successful innovation cycles.\"\n  ],\n  \"objectives\": [\n    \"Provide substantial consulting and support services to beneficiaries of the Horizon 2020 SME instrument.\",\n    \"Enhance the innovation management capacity of SMEs through targeted consulting and support.\",\n    \"Facilitate the process of identifying weaknesses in SMEs' innovation strategies and help them assign professional coaches.\"\n  ],\n  \"methods\": [\n    \"Conduct company assessments to identify weaknesses in the SMEs' innovation strategies.\",\n    \"Assign professional coaches to help SMEs address these weaknesses and develop a coaching plan.\",\n    \"Provide targeted innovation management consulting by senior staff members of the consortium.\"\n  ],\n  \"results\": [\n    \"Improve the innovation management capacity of SMEs, enabling them to create economic impact from their innovation activities.\",\n    \"Help SMEs overcome barriers to successful innovation cycles through substantial consulting and support services.\",\n    \"Enable SMEs to identify and address weaknesses in their innovation strategies through professional coaching.\"\n  ],\n  \"research_subject\": \"Enhancing the innovation management capacity of SMEs in the Enterprise Europe Network\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs face significant barriers in creating economic impact from innovation activities due to insufficient innovation management capacity.\",\n    \"There is a need for targeted support services to help SMEs overcome weaknesses in their innovation strategies and management processes.\"\n  ],\n  \"objectives\": [\n    \"Provide substantial consulting and key account management services to SMEs, particularly beneficiaries of the Horizon 2020 SME instrument.\",\n    \"Enhance the innovation management capacity of SMEs through targeted support and coaching services.\"\n  ],\n  \"methods\": [\n    \"Conduct company assessments to identify weaknesses in SMEs' innovation strategies and facilitate the assignment of professional coaches.\",\n    \"Provide direct innovation management consulting by senior consortium staff members to selected high-potential SMEs.\",\n    \"Coordinate services with National Contact Points and regional/national stakeholders to ensure a holistic approach.\"\n  ],\n  \"results\": [\n    \"SMEs will receive vital consulting services that address specific weaknesses in their innovation management processes.\",\n    \"High-potential SMEs will improve their capacity for successful market introduction of innovations and international growth.\",\n    \"Enhanced innovation management capacity will enable SMEs to create greater economic impact from their innovation activities.\"\n  ],\n  \"research_subject\": \"Innovation management support services for SMEs through the Enterprise Europe Network\"\n}\n```"
+}

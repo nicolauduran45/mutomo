@@ -1,0 +1,71 @@
+{
+  "index": 98,
+  "title": "Multiwalled carbon nanotubes/cryogel composite, a new sorbent for determination of trace polycyclic aromatic hydrocarbons",
+  "abstract": "Abstract A new cost-effective sorbent, multiwalled carbon nanotubes/poly (vinyl alcohol) cryogel composite (MWCNTs/PVA), was prepared under frozen conditions for the extraction and preconcentration of trace polycyclic aromatic hydrocarbons (PAHs) in water samples. This was followed by high performance liquid chromatography (HPLC) with fluorescence detection. The proposed method provided a high enrichment factor with an extremely high extraction efficiency (89–98%) of three spiked levels of three standard PAHs with relative standard deviations of less than 8%. The low detection limits of the method were 5, 8 and 5 ng L− 1 for benzo(a)anthracene, benzo(b)fluoranthene and benzo(a)pyrene, respectively. This method was successfully applied for the determination of the three PAHs in real water samples where they were found in the range of 7 to 22 ng L− 1. The major advantages of MWCNTs/PVA over the commercial C18 is that it can be operated at a higher loading flow rate without sorbent clogging and requires a shorter time for completion without any loss of extraction efficiency.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for cost-effective and efficient methods for the extraction and preconcentration of trace polycyclic aromatic hydrocarbons (PAHs) in water samples.",
+      "Existing sorbents, such as commercial C18, have limitations including clogging and time-consuming extraction processes."
+    ],
+    "objectives": [
+      "Develop a new sorbent material, multiwalled carbon nanotubes/poly (vinyl alcohol) cryogel composite (MWCNTs/PVA), for the extraction and preconcentration of PAHs.",
+      "Evaluate the performance of the proposed method in terms of enrichment factor, extraction efficiency, and detection limits."
+    ],
+    "methods": [
+      "Prepare MWCNTs/PVA composite under frozen conditions.",
+      "Use high performance liquid chromatography (HPLC) with fluorescence detection for the analysis of PAHs.",
+      "Apply the proposed method to real water samples for the determination of PAHs."
+    ],
+    "results": [
+      "Achieve high enrichment factor and extraction efficiency (89–98%) for PAHs with low detection limits (5-8 ng L−1).",
+      "Demonstrate the applicability of the proposed method for the determination of PAHs in real water samples.",
+      "Show the advantages of MWCNTs/PVA over commercial C18, including higher loading flow rate and shorter extraction time."
+    ],
+    "research_subject": "Development of a new sorbent material for the determination of trace polycyclic aromatic hydrocarbons in water samples"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for cost-effective sorbents for the extraction and preconcentration of trace polycyclic aromatic hydrocarbons (PAHs) in water samples.",
+      "Current commercial sorbents have limitations such as clogging and loss of extraction efficiency at higher loading flow rates."
+    ],
+    "objectives": [
+      "Prepare a new sorbent, multiwalled carbon nanotubes/poly (vinyl alcohol) cryogel composite (MWCNTs/PVA), under frozen conditions for the extraction and preconcentration of PAHs.",
+      "Evaluate the extraction efficiency of the new sorbent and compare it with commercial C18."
+    ],
+    "methods": [
+      "Prepare MWCNTs/PVA under frozen conditions.",
+      "Use high performance liquid chromatography (HPLC) with fluorescence detection to analyze the extracted PAHs.",
+      "Evaluate the extraction efficiency of MWCNTs/PVA by testing it on three standard PAHs and real water samples."
+    ],
+    "results": [
+      "The new sorbent MWCNTs/PVA showed extremely high extraction efficiency (89–98%) for three standard PAHs.",
+      "MWCNTs/PVA can be operated at a higher loading flow rate without sorbent clogging and requires a shorter time for completion without any loss of extraction efficiency.",
+      "The method was successfully applied for the determination of the three PAHs in real water samples."
+    ],
+    "research_subject": "Development and evaluation of a new sorbent for the extraction and preconcentration of trace polycyclic aromatic hydrocarbons"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for cost-effective and efficient sorbent materials for extracting and preconcentrating trace polycyclic aromatic hydrocarbons (PAHs) from water samples.",
+      "Commercial sorbents like C18 have limitations including clogging at high flow rates and longer processing times."
+    ],
+    "objectives": [
+      "Develop a new multiwalled carbon nanotubes/poly(vinyl alcohol) cryogel composite sorbent for efficient extraction and preconcentration of trace PAHs in water samples.",
+      "Demonstrate the superior performance of the new sorbent compared to commercial alternatives in terms of flow rate, processing time, and extraction efficiency."
+    ],
+    "methods": [
+      "Prepare multiwalled carbon nanotubes/poly(vinyl alcohol) cryogel composite under frozen conditions.",
+      "Use the composite for solid-phase extraction of PAHs followed by high performance liquid chromatography with fluorescence detection.",
+      "Evaluate the sorbent's performance through extraction efficiency, enrichment factor, and detection limit measurements."
+    ],
+    "results": [
+      "Achieved high extraction efficiency (89-98%) for three PAHs with detection limits of 5-8 ng L⁻¹.",
+      "Successfully detected PAHs in real water samples at concentrations ranging from 7 to 22 ng L⁻¹.",
+      "Demonstrated advantages over commercial C18 sorbent including higher loading flow rates without clogging and shorter processing times."
+    ],
+    "research_subject": "Development of multiwalled carbon nanotubes/cryogel composite sorbent for trace PAH determination"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for cost-effective and efficient methods for the extraction and preconcentration of trace polycyclic aromatic hydrocarbons (PAHs) in water samples.\",\n    \"Existing sorbents, such as commercial C18, have limitations including clogging and time-consuming extraction processes.\"\n  ],\n  \"objectives\": [\n    \"Develop a new sorbent material, multiwalled carbon nanotubes/poly (vinyl alcohol) cryogel composite (MWCNTs/PVA), for the extraction and preconcentration of PAHs.\",\n    \"Evaluate the performance of the proposed method in terms of enrichment factor, extraction efficiency, and detection limits.\"\n  ],\n  \"methods\": [\n    \"Prepare MWCNTs/PVA composite under frozen conditions.\",\n    \"Use high performance liquid chromatography (HPLC) with fluorescence detection for the analysis of PAHs.\",\n    \"Apply the proposed method to real water samples for the determination of PAHs.\"\n  ],\n  \"results\": [\n    \"Achieve high enrichment factor and extraction efficiency (89–98%) for PAHs with low detection limits (5-8 ng L−1).\",\n    \"Demonstrate the applicability of the proposed method for the determination of PAHs in real water samples.\",\n    \"Show the advantages of MWCNTs/PVA over commercial C18, including higher loading flow rate and shorter extraction time.\"\n  ],\n  \"research_subject\": \"Development of a new sorbent material for the determination of trace polycyclic aromatic hydrocarbons in water samples\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for cost-effective sorbents for the extraction and preconcentration of trace polycyclic aromatic hydrocarbons (PAHs) in water samples.\",\n    \"Current commercial sorbents have limitations such as clogging and loss of extraction efficiency at higher loading flow rates.\"\n  ],\n  \"objectives\": [\n    \"Prepare a new sorbent, multiwalled carbon nanotubes/poly (vinyl alcohol) cryogel composite (MWCNTs/PVA), under frozen conditions for the extraction and preconcentration of PAHs.\",\n    \"Evaluate the extraction efficiency of the new sorbent and compare it with commercial C18.\"\n  ],\n  \"methods\": [\n    \"Prepare MWCNTs/PVA under frozen conditions.\",\n    \"Use high performance liquid chromatography (HPLC) with fluorescence detection to analyze the extracted PAHs.\",\n    \"Evaluate the extraction efficiency of MWCNTs/PVA by testing it on three standard PAHs and real water samples.\"\n  ],\n  \"results\": [\n    \"The new sorbent MWCNTs/PVA showed extremely high extraction efficiency (89–98%) for three standard PAHs.\",\n    \"MWCNTs/PVA can be operated at a higher loading flow rate without sorbent clogging and requires a shorter time for completion without any loss of extraction efficiency.\",\n    \"The method was successfully applied for the determination of the three PAHs in real water samples.\"\n  ],\n  \"research_subject\": \"Development and evaluation of a new sorbent for the extraction and preconcentration of trace polycyclic aromatic hydrocarbons\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for cost-effective and efficient sorbent materials for extracting and preconcentrating trace polycyclic aromatic hydrocarbons (PAHs) from water samples.\",\n    \"Commercial sorbents like C18 have limitations including clogging at high flow rates and longer processing times.\"\n  ],\n  \"objectives\": [\n    \"Develop a new multiwalled carbon nanotubes/poly(vinyl alcohol) cryogel composite sorbent for efficient extraction and preconcentration of trace PAHs in water samples.\",\n    \"Demonstrate the superior performance of the new sorbent compared to commercial alternatives in terms of flow rate, processing time, and extraction efficiency.\"\n  ],\n  \"methods\": [\n    \"Prepare multiwalled carbon nanotubes/poly(vinyl alcohol) cryogel composite under frozen conditions.\",\n    \"Use the composite for solid-phase extraction of PAHs followed by high performance liquid chromatography with fluorescence detection.\",\n    \"Evaluate the sorbent's performance through extraction efficiency, enrichment factor, and detection limit measurements.\"\n  ],\n  \"results\": [\n    \"Achieved high extraction efficiency (89-98%) for three PAHs with detection limits of 5-8 ng L⁻¹.\",\n    \"Successfully detected PAHs in real water samples at concentrations ranging from 7 to 22 ng L⁻¹.\",\n    \"Demonstrated advantages over commercial C18 sorbent including higher loading flow rates without clogging and shorter processing times.\"\n  ],\n  \"research_subject\": \"Development of multiwalled carbon nanotubes/cryogel composite sorbent for trace PAH determination\"\n}\n```"
+}

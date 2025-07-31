@@ -1,0 +1,72 @@
+{
+  "index": 356,
+  "title": "Artificial intelligence in colonoscopy for cancer prevention",
+  "abstract": "Removal precancerous polyps (so-called adenomas) during colonoscopy reduces colorectal cancer incidence and mortality. We have recently developed artificial intelligence (AI) systems which optimise colonoscopy quality by aiming at increasing the detection of adenomas. However, it is unknown if this benefit of AI translates into improved cancer prevention. To establish the role of AI in colorectal cancer prevention, we here propose a three-step research portfolio targeting individuals in the national colorectal cancer screening programmes in Norway and Poland. 1) A 1-year observational study to clarify the superiority of AI in adenoma detection in the average-risk population. 2) A cost-effectiveness analysis for cancer prevention, using real-world data obtained from the part 1 study. 3) Establishment of an infrastructure for long-term (10 years) follow-up of 40,000 individuals to quantify the effect of AI on colorectal cancer incidence. We use propensity score matching to balance the background characteristics of the two comparing arms; AI-assisted colonoscopy and standard colonoscopy. Participants are followed through national cancer registries for ten years after cancer screening. Our project is the first of its kind and made possible by the unique collaboration of world-class environments in clinical epidemiology and medical device assessment with world-leading AI developers. The project will enable evidence-based implementation of AI technologies into nationwide cancer screening programmes in Europe and the world. The project’s achievement will be maximised through detailed plans for training, monitoring, management, exploitation, dissemination, and communication. While adding essential competence to the host institution, this project will increase the applicant’s skill, especially in epidemiologic aspects, helping him obtain an independent academic position in translational research of AI for medicine.",
+  "llama_json": {
+    "motivations": [
+      "Colorectal cancer incidence and mortality can be reduced by improving adenoma detection during colonoscopy.",
+      "The effectiveness of artificial intelligence (AI) in colonoscopy for cancer prevention is unknown and needs to be established."
+    ],
+    "objectives": [
+      "Evaluate the superiority of AI in adenoma detection in the average-risk population.",
+      "Assess the cost-effectiveness of AI-assisted colonoscopy for cancer prevention.",
+      "Quantify the long-term effect of AI on colorectal cancer incidence."
+    ],
+    "methods": [
+      "Conduct a 1-year observational study comparing AI-assisted colonoscopy with standard colonoscopy.",
+      "Perform a cost-effectiveness analysis using real-world data from the observational study.",
+      "Establish a 10-year follow-up infrastructure to track colorectal cancer incidence in 40,000 individuals."
+    ],
+    "results": [
+      "Provide evidence for the implementation of AI technologies in nationwide cancer screening programmes.",
+      "Improve colorectal cancer prevention through enhanced adenoma detection.",
+      "Inform healthcare policy and decision-making with data on the cost-effectiveness of AI-assisted colonoscopy."
+    ],
+    "research_subject": "Evaluating the effectiveness of artificial intelligence in colonoscopy for colorectal cancer prevention"
+  },
+  "openai_json": {
+    "motivations": [
+      "While AI systems have been developed to optimize colonoscopy quality by increasing the detection of adenomas, it is unclear if this translates into improved cancer prevention.",
+      "There is a need to establish the role of AI in colorectal cancer prevention, particularly in national screening programs."
+    ],
+    "objectives": [
+      "Conduct a 1-year observational study to clarify the superiority of AI in adenoma detection in the average-risk population.",
+      "Perform a cost-effectiveness analysis for cancer prevention using real-world data from the observational study.",
+      "Establish an infrastructure for long-term follow-up of individuals to quantify the effect of AI on colorectal cancer incidence."
+    ],
+    "methods": [
+      "Use propensity score matching to balance the background characteristics of the two comparing arms; AI-assisted colonoscopy and standard colonoscopy.",
+      "Follow participants through national cancer registries for ten years after cancer screening."
+    ],
+    "results": [
+      "Provide evidence-based implementation of AI technologies into nationwide cancer screening programs.",
+      "Increase the applicant's skill in epidemiologic aspects, aiding in obtaining an independent academic position in translational research of AI for medicine."
+    ],
+    "research_subject": "Role of artificial intelligence in colonoscopy for colorectal cancer prevention"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "While AI systems have shown promise in improving adenoma detection during colonoscopy, their actual impact on colorectal cancer prevention remains unknown.",
+      "There is a need for evidence-based implementation of AI technologies in nationwide cancer screening programmes to optimize cancer prevention outcomes."
+    ],
+    "objectives": [
+      "Establish the superiority of AI-assisted colonoscopy in adenoma detection within average-risk populations through observational studies.",
+      "Evaluate the cost-effectiveness of AI implementation for cancer prevention and quantify its long-term impact on colorectal cancer incidence.",
+      "Create an infrastructure for evidence-based implementation of AI technologies in national cancer screening programmes."
+    ],
+    "methods": [
+      "Conduct a 1-year observational study comparing AI-assisted colonoscopy with standard colonoscopy in national screening programmes.",
+      "Perform cost-effectiveness analysis using real-world data and establish a 10-year follow-up infrastructure through national cancer registries.",
+      "Apply propensity score matching to balance background characteristics between AI-assisted and standard colonoscopy groups."
+    ],
+    "results": [
+      "Provide evidence for the effectiveness of AI in improving adenoma detection and reducing colorectal cancer incidence in screening populations.",
+      "Enable evidence-based implementation of AI technologies in cancer screening programmes across Europe and globally.",
+      "Establish the cost-effectiveness and long-term cancer prevention benefits of AI-assisted colonoscopy."
+    ],
+    "research_subject": "Artificial intelligence in colonoscopy for colorectal cancer prevention"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Colorectal cancer incidence and mortality can be reduced by improving adenoma detection during colonoscopy.\",\n    \"The effectiveness of artificial intelligence (AI) in colonoscopy for cancer prevention is unknown and needs to be established.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the superiority of AI in adenoma detection in the average-risk population.\",\n    \"Assess the cost-effectiveness of AI-assisted colonoscopy for cancer prevention.\",\n    \"Quantify the long-term effect of AI on colorectal cancer incidence.\"\n  ],\n  \"methods\": [\n    \"Conduct a 1-year observational study comparing AI-assisted colonoscopy with standard colonoscopy.\",\n    \"Perform a cost-effectiveness analysis using real-world data from the observational study.\",\n    \"Establish a 10-year follow-up infrastructure to track colorectal cancer incidence in 40,000 individuals.\"\n  ],\n  \"results\": [\n    \"Provide evidence for the implementation of AI technologies in nationwide cancer screening programmes.\",\n    \"Improve colorectal cancer prevention through enhanced adenoma detection.\",\n    \"Inform healthcare policy and decision-making with data on the cost-effectiveness of AI-assisted colonoscopy.\"\n  ],\n  \"research_subject\": \"Evaluating the effectiveness of artificial intelligence in colonoscopy for colorectal cancer prevention\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"While AI systems have been developed to optimize colonoscopy quality by increasing the detection of adenomas, it is unclear if this translates into improved cancer prevention.\",\n    \"There is a need to establish the role of AI in colorectal cancer prevention, particularly in national screening programs.\"\n  ],\n  \"objectives\": [\n    \"Conduct a 1-year observational study to clarify the superiority of AI in adenoma detection in the average-risk population.\",\n    \"Perform a cost-effectiveness analysis for cancer prevention using real-world data from the observational study.\",\n    \"Establish an infrastructure for long-term follow-up of individuals to quantify the effect of AI on colorectal cancer incidence.\"\n  ],\n  \"methods\": [\n    \"Use propensity score matching to balance the background characteristics of the two comparing arms; AI-assisted colonoscopy and standard colonoscopy.\",\n    \"Follow participants through national cancer registries for ten years after cancer screening.\"\n  ],\n  \"results\": [\n    \"Provide evidence-based implementation of AI technologies into nationwide cancer screening programs.\",\n    \"Increase the applicant's skill in epidemiologic aspects, aiding in obtaining an independent academic position in translational research of AI for medicine.\"\n  ],\n  \"research_subject\": \"Role of artificial intelligence in colonoscopy for colorectal cancer prevention\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"While AI systems have shown promise in improving adenoma detection during colonoscopy, their actual impact on colorectal cancer prevention remains unknown.\",\n    \"There is a need for evidence-based implementation of AI technologies in nationwide cancer screening programmes to optimize cancer prevention outcomes.\"\n  ],\n  \"objectives\": [\n    \"Establish the superiority of AI-assisted colonoscopy in adenoma detection within average-risk populations through observational studies.\",\n    \"Evaluate the cost-effectiveness of AI implementation for cancer prevention and quantify its long-term impact on colorectal cancer incidence.\",\n    \"Create an infrastructure for evidence-based implementation of AI technologies in national cancer screening programmes.\"\n  ],\n  \"methods\": [\n    \"Conduct a 1-year observational study comparing AI-assisted colonoscopy with standard colonoscopy in national screening programmes.\",\n    \"Perform cost-effectiveness analysis using real-world data and establish a 10-year follow-up infrastructure through national cancer registries.\",\n    \"Apply propensity score matching to balance background characteristics between AI-assisted and standard colonoscopy groups.\"\n  ],\n  \"results\": [\n    \"Provide evidence for the effectiveness of AI in improving adenoma detection and reducing colorectal cancer incidence in screening populations.\",\n    \"Enable evidence-based implementation of AI technologies in cancer screening programmes across Europe and globally.\",\n    \"Establish the cost-effectiveness and long-term cancer prevention benefits of AI-assisted colonoscopy.\"\n  ],\n  \"research_subject\": \"Artificial intelligence in colonoscopy for colorectal cancer prevention\"\n}\n```"
+}

@@ -1,0 +1,75 @@
+{
+  "index": 198,
+  "title": "Enhancing research and innovation capacity of tubitak mrc food institute on dietary polyphenols and bioavailability/ bioefficacy",
+  "abstract": "The main objective of the PhenolAcTwin project is to enhance the scientific and technological capacity of TUBITAK MRC Food Institute (FI) and to raise the research profile of the Institute and its staff in the field of dietary polyphenols and bioavailability/bioefficacy via networking with three leading European institutions such as CSIC, QIB, and INRAE. FI is a leading research center in the area of functional foods/nutraceuticals in Turkey. Our networking and collaboration with global leaders in this research field will help us in developing an European-wide known center with increasing research and innovation contributions and achievements on dietary polyphenols and bioavailability/bioefficacy. Such achievements will increase the participation of FI in European and international projects and promote higher performance of other research institutions in Turkey. The partners from research-intensive institutions have high international reputation and expertise in the various aspects of polyphenols, bioavailability, and bioefficacy as well as omics. Additional advantage for the FI is that the leading research partners have complementary competences ranging from various fields: identification of dietary polyphenols, in-vivo, in-vitro analysis, and human clinical trials. Based on the expertise and achievements of FI, PhenolAcTwin will contribute to “Vision Document” of Joint Programming Initiative (JPI): “A Healthy Diet for a Healthy Life” and 11th Development Plan of Turkey with relevant thematic priorities. The work program of the project is distributed in six work packages including the main activities, envisaged in the work programme of the Call. PhenolAcTwin project gives specific importance on improving the research profile of human resources especially the young researchers by enhancing the research and innovation capacity and networking, as well as improving proposal preparation and project management/administration skills.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to enhance the scientific and technological capacity of TUBITAK MRC Food Institute in the field of dietary polyphenols and bioavailability/bioefficacy.",
+      "Limited research and innovation contributions from Turkey in the field of dietary polyphenols and bioavailability/bioefficacy hinder the country's participation in European and international projects."
+    ],
+    "objectives": [
+      "Enhance the research profile of TUBITAK MRC Food Institute and its staff in the field of dietary polyphenols and bioavailability/bioefficacy.",
+      "Develop a European-wide known center with increasing research and innovation contributions and achievements on dietary polyphenols and bioavailability/bioefficacy.",
+      "Improve the research profile of human resources, especially young researchers, through enhanced research and innovation capacity and networking."
+    ],
+    "methods": [
+      "Network and collaborate with leading European institutions to leverage their expertise and reputation in the field of dietary polyphenols and bioavailability/bioefficacy.",
+      "Implement a work program distributed across six work packages to achieve the project's objectives.",
+      "Provide training and development opportunities to improve proposal preparation and project management/administration skills."
+    ],
+    "results": [
+      "Increased research and innovation contributions from TUBITAK MRC Food Institute in the field of dietary polyphenols and bioavailability/bioefficacy.",
+      "Enhanced participation of the Institute in European and international projects.",
+      "Improved research profile and capacity of human resources, especially young researchers, in the field of dietary polyphenols and bioavailability/bioefficacy."
+    ],
+    "research_subject": "Enhancing research and innovation capacity in dietary polyphenols and bioavailability/bioefficacy"
+  },
+  "openai_json": {
+    "motivations": [
+      "TUBITAK MRC Food Institute (FI) seeks to enhance its scientific and technological capacity and raise its research profile in the field of dietary polyphenols and bioavailability/bioefficacy.",
+      "There is a need to increase the participation of FI in European and international projects and promote higher performance of other research institutions in Turkey.",
+      "Improving the research profile of human resources, especially young researchers, by enhancing research and innovation capacity and networking is a priority."
+    ],
+    "objectives": [
+      "Enhance the scientific and technological capacity of TUBITAK MRC Food Institute and raise its research profile in the field of dietary polyphenols and bioavailability/bioefficacy.",
+      "Develop an European-wide known center with increasing research and innovation contributions and achievements on dietary polyphenols and bioavailability/bioefficacy.",
+      "Improve the research profile of human resources, especially young researchers, by enhancing research and innovation capacity and networking."
+    ],
+    "methods": [
+      "Network and collaborate with leading European institutions such as CSIC, QIB, and INRAE to enhance the research capacity of FI.",
+      "Leverage the complementary competences of the research partners in various fields such as identification of dietary polyphenols, in-vivo, in-vitro analysis, and human clinical trials.",
+      "Implement a work program distributed in six work packages including the main activities envisaged in the work programme of the Call."
+    ],
+    "results": [
+      "Enhanced scientific and technological capacity of TUBITAK MRC Food Institute in the field of dietary polyphenols and bioavailability/bioefficacy.",
+      "Increased participation of FI in European and international projects and improved performance of other research institutions in Turkey.",
+      "Improved research profile of human resources, especially young researchers, through enhanced research and innovation capacity and networking."
+    ],
+    "research_subject": "Enhancing research and innovation capacity on dietary polyphenols and bioavailability/bioefficacy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "TUBITAK MRC Food Institute needs to enhance its scientific and technological capacity in the field of dietary polyphenols and bioavailability/bioefficacy to achieve European-wide recognition.",
+      "There is a need to increase the participation of Turkish research institutions in European and international projects through improved research capabilities and networking."
+    ],
+    "objectives": [
+      "Enhance the scientific and technological capacity of TUBITAK MRC Food Institute through networking with leading European institutions (CSIC, QIB, and INRAE).",
+      "Develop a European-wide recognized research center with increased contributions in dietary polyphenols and bioavailability/bioefficacy research.",
+      "Improve the research profile and skills of human resources, particularly young researchers, in proposal preparation and project management."
+    ],
+    "methods": [
+      "Establish networking and collaboration partnerships with three leading European research institutions with complementary expertise in polyphenols research.",
+      "Implement a work program distributed across six work packages focusing on capacity building and knowledge transfer.",
+      "Leverage partners' expertise in identification of dietary polyphenols, in-vivo and in-vitro analysis, human clinical trials, and omics approaches."
+    ],
+    "results": [
+      "Increased participation of TUBITAK MRC Food Institute in European and international research projects.",
+      "Enhanced research and innovation capacity leading to higher performance of Turkish research institutions in the field.",
+      "Improved research profile and skills of young researchers in dietary polyphenols research and project management."
+    ],
+    "research_subject": "Dietary polyphenols and their bioavailability/bioefficacy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to enhance the scientific and technological capacity of TUBITAK MRC Food Institute in the field of dietary polyphenols and bioavailability/bioefficacy.\",\n    \"Limited research and innovation contributions from Turkey in the field of dietary polyphenols and bioavailability/bioefficacy hinder the country's participation in European and international projects.\"\n  ],\n  \"objectives\": [\n    \"Enhance the research profile of TUBITAK MRC Food Institute and its staff in the field of dietary polyphenols and bioavailability/bioefficacy.\",\n    \"Develop a European-wide known center with increasing research and innovation contributions and achievements on dietary polyphenols and bioavailability/bioefficacy.\",\n    \"Improve the research profile of human resources, especially young researchers, through enhanced research and innovation capacity and networking.\"\n  ],\n  \"methods\": [\n    \"Network and collaborate with leading European institutions to leverage their expertise and reputation in the field of dietary polyphenols and bioavailability/bioefficacy.\",\n    \"Implement a work program distributed across six work packages to achieve the project's objectives.\",\n    \"Provide training and development opportunities to improve proposal preparation and project management/administration skills.\"\n  ],\n  \"results\": [\n    \"Increased research and innovation contributions from TUBITAK MRC Food Institute in the field of dietary polyphenols and bioavailability/bioefficacy.\",\n    \"Enhanced participation of the Institute in European and international projects.\",\n    \"Improved research profile and capacity of human resources, especially young researchers, in the field of dietary polyphenols and bioavailability/bioefficacy.\"\n  ],\n  \"research_subject\": \"Enhancing research and innovation capacity in dietary polyphenols and bioavailability/bioefficacy\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"TUBITAK MRC Food Institute (FI) seeks to enhance its scientific and technological capacity and raise its research profile in the field of dietary polyphenols and bioavailability/bioefficacy.\",\n    \"There is a need to increase the participation of FI in European and international projects and promote higher performance of other research institutions in Turkey.\",\n    \"Improving the research profile of human resources, especially young researchers, by enhancing research and innovation capacity and networking is a priority.\"\n  ],\n  \"objectives\": [\n    \"Enhance the scientific and technological capacity of TUBITAK MRC Food Institute and raise its research profile in the field of dietary polyphenols and bioavailability/bioefficacy.\",\n    \"Develop an European-wide known center with increasing research and innovation contributions and achievements on dietary polyphenols and bioavailability/bioefficacy.\",\n    \"Improve the research profile of human resources, especially young researchers, by enhancing research and innovation capacity and networking.\"\n  ],\n  \"methods\": [\n    \"Network and collaborate with leading European institutions such as CSIC, QIB, and INRAE to enhance the research capacity of FI.\",\n    \"Leverage the complementary competences of the research partners in various fields such as identification of dietary polyphenols, in-vivo, in-vitro analysis, and human clinical trials.\",\n    \"Implement a work program distributed in six work packages including the main activities envisaged in the work programme of the Call.\"\n  ],\n  \"results\": [\n    \"Enhanced scientific and technological capacity of TUBITAK MRC Food Institute in the field of dietary polyphenols and bioavailability/bioefficacy.\",\n    \"Increased participation of FI in European and international projects and improved performance of other research institutions in Turkey.\",\n    \"Improved research profile of human resources, especially young researchers, through enhanced research and innovation capacity and networking.\"\n  ],\n  \"research_subject\": \"Enhancing research and innovation capacity on dietary polyphenols and bioavailability/bioefficacy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"TUBITAK MRC Food Institute needs to enhance its scientific and technological capacity in the field of dietary polyphenols and bioavailability/bioefficacy to achieve European-wide recognition.\",\n    \"There is a need to increase the participation of Turkish research institutions in European and international projects through improved research capabilities and networking.\"\n  ],\n  \"objectives\": [\n    \"Enhance the scientific and technological capacity of TUBITAK MRC Food Institute through networking with leading European institutions (CSIC, QIB, and INRAE).\",\n    \"Develop a European-wide recognized research center with increased contributions in dietary polyphenols and bioavailability/bioefficacy research.\",\n    \"Improve the research profile and skills of human resources, particularly young researchers, in proposal preparation and project management.\"\n  ],\n  \"methods\": [\n    \"Establish networking and collaboration partnerships with three leading European research institutions with complementary expertise in polyphenols research.\",\n    \"Implement a work program distributed across six work packages focusing on capacity building and knowledge transfer.\",\n    \"Leverage partners' expertise in identification of dietary polyphenols, in-vivo and in-vitro analysis, human clinical trials, and omics approaches.\"\n  ],\n  \"results\": [\n    \"Increased participation of TUBITAK MRC Food Institute in European and international research projects.\",\n    \"Enhanced research and innovation capacity leading to higher performance of Turkish research institutions in the field.\",\n    \"Improved research profile and skills of young researchers in dietary polyphenols research and project management.\"\n  ],\n  \"research_subject\": \"Dietary polyphenols and their bioavailability/bioefficacy\"\n}\n```"
+}

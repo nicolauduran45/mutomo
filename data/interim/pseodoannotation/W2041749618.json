@@ -1,0 +1,71 @@
+{
+  "index": 163,
+  "title": "Identifying Optimal Vaccination Strategies for Serogroup A Neisseria meningitidis Conjugate Vaccine in the African Meningitis Belt",
+  "abstract": "The optimal long-term vaccination strategies to provide population-level protection against serogroup A Neisseria meningitidis (MenA) are unknown. We developed an age-structured mathematical model of MenA transmission, colonization, and disease in the African meningitis belt, and used this model to explore the impact of various vaccination strategies.The model stratifies the simulated population into groups based on age, infection status, and MenA antibody levels. We defined the model parameters (such as birth and death rates, age-specific incidence rates, and age-specific duration of protection) using published data and maximum likelihood estimation. We assessed the validity of the model by comparing simulated incidence of invasive MenA and prevalence of MenA carriage to observed incidence and carriage data.The model fit well to observed age- and season-specific prevalence of carriage (mean pseudo-R2 0.84) and incidence of invasive disease (mean R2 0.89). The model is able to reproduce the observed dynamics of MenA epidemics in the African meningitis belt, including seasonal increases in incidence, with large epidemics occurring every eight to twelve years. Following a mass vaccination campaign of all persons 1-29 years of age, the most effective modeled vaccination strategy is to conduct mass vaccination campaigns every 5 years for children 1-5 years of age. Less frequent campaigns covering broader age groups would also be effective, although somewhat less so. Introducing conjugate MenA vaccine into the EPI vaccination schedule at 9 months of age results in higher predicted incidence than periodic mass campaigns.We have developed the first mathematical model of MenA in Africa to incorporate age structures and progressively waning protection over time. Our model accurately reproduces key features of MenA epidemiology in the African meningitis belt. This model can help policy makers consider vaccine program effectiveness when determining the feasibility and benefits of MenA vaccination strategies.",
+  "llama_json": {
+    "motivations": [
+      "The optimal long-term vaccination strategies for serogroup A Neisseria meningitidis (MenA) in the African meningitis belt are unknown, hindering effective disease control.",
+      "Current vaccination approaches may not provide sufficient population-level protection against MenA, necessitating the exploration of alternative strategies."
+    ],
+    "objectives": [
+      "Develop an age-structured mathematical model of MenA transmission, colonization, and disease to simulate the impact of various vaccination strategies.",
+      "Identify the most effective vaccination strategies for MenA in the African meningitis belt, considering factors such as age, antibody levels, and vaccine schedule."
+    ],
+    "methods": [
+      "Create a mathematical model that stratifies the population by age, infection status, and MenA antibody levels, using published data and maximum likelihood estimation to define model parameters.",
+      "Validate the model by comparing simulated incidence and prevalence data to observed data.",
+      "Use the model to assess the effectiveness of different vaccination strategies, including mass campaigns and introducing conjugate MenA vaccine into the EPI schedule."
+    ],
+    "results": [
+      "The model accurately reproduces key features of MenA epidemiology in the African meningitis belt, including seasonal increases in incidence and large epidemics every 8-12 years.",
+      "The most effective vaccination strategy is to conduct mass campaigns every 5 years for children 1-5 years of age, with less frequent campaigns covering broader age groups also being effective.",
+      "Introducing conjugate MenA vaccine into the EPI schedule at 9 months of age results in higher predicted incidence than periodic mass campaigns."
+    ],
+    "research_subject": "Optimal vaccination strategies for serogroup A Neisseria meningitidis in the African meningitis belt"
+  },
+  "openai_json": {
+    "motivations": [
+      "The optimal long-term vaccination strategies to provide population-level protection against serogroup A Neisseria meningitidis (MenA) are unknown.",
+      "There is a need for a mathematical model to understand the dynamics of MenA transmission, colonization, and disease in the African meningitis belt."
+    ],
+    "objectives": [
+      "Develop an age-structured mathematical model of MenA transmission, colonization, and disease in the African meningitis belt.",
+      "Explore the impact of various vaccination strategies using the developed model."
+    ],
+    "methods": [
+      "Develop a mathematical model stratifying the simulated population into groups based on age, infection status, and MenA antibody levels.",
+      "Define model parameters using published data and maximum likelihood estimation.",
+      "Validate the model by comparing simulated incidence of invasive MenA and prevalence of MenA carriage to observed data."
+    ],
+    "results": [
+      "The model accurately reproduces key features of MenA epidemiology in the African meningitis belt.",
+      "The most effective modeled vaccination strategy is to conduct mass vaccination campaigns every 5 years for children 1-5 years of age.",
+      "Introducing conjugate MenA vaccine into the EPI vaccination schedule at 9 months of age results in higher predicted incidence than periodic mass campaigns."
+    ],
+    "research_subject": "Identifying optimal vaccination strategies for serogroup A Neisseria meningitidis in the African meningitis belt"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The optimal long-term vaccination strategies to provide population-level protection against serogroup A Neisseria meningitidis in the African meningitis belt are unknown.",
+      "There is a need to understand how different vaccination approaches can effectively control MenA epidemics and reduce disease burden in Africa."
+    ],
+    "objectives": [
+      "Develop an age-structured mathematical model of MenA transmission, colonization, and disease in the African meningitis belt.",
+      "Explore and compare the impact of various vaccination strategies to identify optimal approaches for long-term population protection."
+    ],
+    "methods": [
+      "Created an age-structured mathematical model stratifying the population by age, infection status, and MenA antibody levels.",
+      "Defined model parameters using published data and maximum likelihood estimation.",
+      "Validated the model by comparing simulated incidence and carriage prevalence to observed epidemiological data."
+    ],
+    "results": [
+      "The model accurately reproduced observed MenA epidemics dynamics, including seasonal patterns and 8-12 year epidemic cycles.",
+      "Mass vaccination campaigns every 5 years targeting children aged 1-5 years proved most effective following initial mass campaigns.",
+      "Routine EPI vaccination at 9 months resulted in higher predicted disease incidence compared to periodic mass campaigns."
+    ],
+    "research_subject": "Mathematical modeling of MenA vaccination strategies in the African meningitis belt"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The optimal long-term vaccination strategies for serogroup A Neisseria meningitidis (MenA) in the African meningitis belt are unknown, hindering effective disease control.\",\n    \"Current vaccination approaches may not provide sufficient population-level protection against MenA, necessitating the exploration of alternative strategies.\"\n  ],\n  \"objectives\": [\n    \"Develop an age-structured mathematical model of MenA transmission, colonization, and disease to simulate the impact of various vaccination strategies.\",\n    \"Identify the most effective vaccination strategies for MenA in the African meningitis belt, considering factors such as age, antibody levels, and vaccine schedule.\"\n  ],\n  \"methods\": [\n    \"Create a mathematical model that stratifies the population by age, infection status, and MenA antibody levels, using published data and maximum likelihood estimation to define model parameters.\",\n    \"Validate the model by comparing simulated incidence and prevalence data to observed data.\",\n    \"Use the model to assess the effectiveness of different vaccination strategies, including mass campaigns and introducing conjugate MenA vaccine into the EPI schedule.\"\n  ],\n  \"results\": [\n    \"The model accurately reproduces key features of MenA epidemiology in the African meningitis belt, including seasonal increases in incidence and large epidemics every 8-12 years.\",\n    \"The most effective vaccination strategy is to conduct mass campaigns every 5 years for children 1-5 years of age, with less frequent campaigns covering broader age groups also being effective.\",\n    \"Introducing conjugate MenA vaccine into the EPI schedule at 9 months of age results in higher predicted incidence than periodic mass campaigns.\"\n  ],\n  \"research_subject\": \"Optimal vaccination strategies for serogroup A Neisseria meningitidis in the African meningitis belt\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The optimal long-term vaccination strategies to provide population-level protection against serogroup A Neisseria meningitidis (MenA) are unknown.\",\n    \"There is a need for a mathematical model to understand the dynamics of MenA transmission, colonization, and disease in the African meningitis belt.\"\n  ],\n  \"objectives\": [\n    \"Develop an age-structured mathematical model of MenA transmission, colonization, and disease in the African meningitis belt.\",\n    \"Explore the impact of various vaccination strategies using the developed model.\"\n  ],\n  \"methods\": [\n    \"Develop a mathematical model stratifying the simulated population into groups based on age, infection status, and MenA antibody levels.\",\n    \"Define model parameters using published data and maximum likelihood estimation.\",\n    \"Validate the model by comparing simulated incidence of invasive MenA and prevalence of MenA carriage to observed data.\"\n  ],\n  \"results\": [\n    \"The model accurately reproduces key features of MenA epidemiology in the African meningitis belt.\",\n    \"The most effective modeled vaccination strategy is to conduct mass vaccination campaigns every 5 years for children 1-5 years of age.\",\n    \"Introducing conjugate MenA vaccine into the EPI vaccination schedule at 9 months of age results in higher predicted incidence than periodic mass campaigns.\"\n  ],\n  \"research_subject\": \"Identifying optimal vaccination strategies for serogroup A Neisseria meningitidis in the African meningitis belt\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The optimal long-term vaccination strategies to provide population-level protection against serogroup A Neisseria meningitidis in the African meningitis belt are unknown.\",\n    \"There is a need to understand how different vaccination approaches can effectively control MenA epidemics and reduce disease burden in Africa.\"\n  ],\n  \"objectives\": [\n    \"Develop an age-structured mathematical model of MenA transmission, colonization, and disease in the African meningitis belt.\",\n    \"Explore and compare the impact of various vaccination strategies to identify optimal approaches for long-term population protection.\"\n  ],\n  \"methods\": [\n    \"Created an age-structured mathematical model stratifying the population by age, infection status, and MenA antibody levels.\",\n    \"Defined model parameters using published data and maximum likelihood estimation.\",\n    \"Validated the model by comparing simulated incidence and carriage prevalence to observed epidemiological data.\"\n  ],\n  \"results\": [\n    \"The model accurately reproduced observed MenA epidemics dynamics, including seasonal patterns and 8-12 year epidemic cycles.\",\n    \"Mass vaccination campaigns every 5 years targeting children aged 1-5 years proved most effective following initial mass campaigns.\",\n    \"Routine EPI vaccination at 9 months resulted in higher predicted disease incidence compared to periodic mass campaigns.\"\n  ],\n  \"research_subject\": \"Mathematical modeling of MenA vaccination strategies in the African meningitis belt\"\n}\n```"
+}

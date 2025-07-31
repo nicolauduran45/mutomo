@@ -1,0 +1,70 @@
+{
+  "index": 175,
+  "title": "Effects of preoperative ketamine on the endocrine-metabolic and inflammatory response to laparoscopic surgery.",
+  "abstract": "Ketamine is hypothesized to reduce perioperative endocrine-metabolic and inflammatory responses in cardiac surgery patients. This randomized, placebo-controlled, double-blind study was performed to determine whether perioperative endocrine-metabolic and inflammatory responses are attenuated by preoperative administration of ketamine to healthy females receiving elective laparoscopic surgery.Forty female patients with American Society of Anesthesiologist classification I or II who elected to receive gynecological laparoscopic surgery were randomly assigned to the ketamine-treated (group K; n = 20) or control (group C; n = 20) group. At 2 minutes prior to induction patients in group K received ketamine (0.25 mg/kg) whereas those in group C received normal saline. All patients received standardized general anesthesia. Serum glucose and cortisol values were measured before ketamine administration (T0), 2 minutes after tracheal intubation (T1), 30 minutes after skin incision (T2), 2 minutes after tracheal extubation (T3) and 1 hour postoperatively (T4). Serum interleukin-6 and tumor necrosis factor-α values were determined at T0 and T4. Postoperative analgesic efficacy, side effects of administered drugs, and time to discharge were recorded.Compared with subjects in group C, those in group K had lower serum glucose values at T1, T2, T3 and T4 and lower serum cortisol values at T4 (P < 0.05). Postoperative interleukin-6 and tumor necrosis factor-α concentrations for group K were lower than those for group C (P < 0.05). Postoperative visual analog scale scores at rest, cumulative fentanyl consumption, and time to discharge were lower in group K as compared to group C (P < 0.05). No significant differences in drug side effects were observed postoperatively between the two groups.Endocrine-metabolic and inflammatory responses to laparoscopic surgery are attenuated in part by pre-incisional administration of ketamine.",
+  "llama_json": {
+    "motivations": [
+      "Perioperative endocrine-metabolic and inflammatory responses can have negative effects on patients undergoing surgery.",
+      "There is a need to explore effective methods to reduce these responses and improve postoperative outcomes."
+    ],
+    "objectives": [
+      "Determine whether preoperative administration of ketamine attenuates perioperative endocrine-metabolic and inflammatory responses in patients undergoing laparoscopic surgery.",
+      "Evaluate the effects of ketamine on postoperative analgesic efficacy, side effects, and time to discharge."
+    ],
+    "methods": [
+      "Conduct a randomized, placebo-controlled, double-blind study comparing ketamine-treated and control groups.",
+      "Measure serum glucose, cortisol, interleukin-6, and tumor necrosis factor-α values at various time points during and after surgery.",
+      "Assess postoperative analgesic efficacy, side effects, and time to discharge."
+    ],
+    "results": [
+      "Preoperative ketamine administration reduces serum glucose and cortisol values, as well as postoperative interleukin-6 and tumor necrosis factor-α concentrations.",
+      "Ketamine treatment also improves postoperative analgesic efficacy, reduces cumulative fentanyl consumption, and shortens time to discharge."
+    ],
+    "research_subject": "Effects of preoperative ketamine on endocrine-metabolic and inflammatory responses to laparoscopic surgery"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a hypothesis that ketamine can reduce perioperative endocrine-metabolic and inflammatory responses in cardiac surgery patients.",
+      "The effects of preoperative ketamine on these responses in patients undergoing laparoscopic surgery are not well understood."
+    ],
+    "objectives": [
+      "Determine whether preoperative administration of ketamine can attenuate perioperative endocrine-metabolic and inflammatory responses in healthy females undergoing elective laparoscopic surgery.",
+      "Compare the postoperative analgesic efficacy, side effects, and time to discharge between ketamine-treated patients and a control group."
+    ],
+    "methods": [
+      "Conduct a randomized, placebo-controlled, double-blind study with female patients undergoing gynecological laparoscopic surgery.",
+      "Measure serum glucose, cortisol, interleukin-6, and tumor necrosis factor-α values at various stages of the surgery and postoperatively.",
+      "Record postoperative analgesic efficacy, side effects of administered drugs, and time to discharge."
+    ],
+    "results": [
+      "Ketamine-treated patients had lower serum glucose and cortisol values at various stages postoperatively, and lower postoperative interleukin-6 and tumor necrosis factor-α concentrations.",
+      "Postoperative visual analog scale scores at rest, cumulative fentanyl consumption, and time to discharge were lower in the ketamine-treated group.",
+      "No significant differences in drug side effects were observed postoperatively between the two groups."
+    ],
+    "research_subject": "Effects of preoperative ketamine on endocrine-metabolic and inflammatory responses to laparoscopic surgery"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Perioperative endocrine-metabolic and inflammatory responses can negatively impact patient recovery and outcomes following surgery.",
+      "There is a need to identify effective interventions that can attenuate stress responses during laparoscopic surgery."
+    ],
+    "objectives": [
+      "Determine whether preoperative ketamine administration reduces endocrine-metabolic and inflammatory responses in patients undergoing laparoscopic surgery.",
+      "Evaluate the effects of ketamine on postoperative pain, recovery time, and side effects."
+    ],
+    "methods": [
+      "Conduct a randomized, placebo-controlled, double-blind study comparing ketamine administration versus placebo before surgery.",
+      "Measure serum glucose, cortisol, interleukin-6, and tumor necrosis factor-α at multiple time points throughout the perioperative period.",
+      "Assess postoperative pain scores, analgesic consumption, and time to discharge."
+    ],
+    "results": [
+      "Ketamine administration resulted in lower serum glucose and cortisol levels, as well as reduced inflammatory markers compared to placebo.",
+      "Patients receiving ketamine experienced improved postoperative pain control, reduced analgesic consumption, and shorter discharge times.",
+      "No significant differences in side effects were observed between the ketamine and control groups."
+    ],
+    "research_subject": "Effects of preoperative ketamine on perioperative stress responses in laparoscopic surgery"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Perioperative endocrine-metabolic and inflammatory responses can have negative effects on patients undergoing surgery.\",\n    \"There is a need to explore effective methods to reduce these responses and improve postoperative outcomes.\"\n  ],\n  \"objectives\": [\n    \"Determine whether preoperative administration of ketamine attenuates perioperative endocrine-metabolic and inflammatory responses in patients undergoing laparoscopic surgery.\",\n    \"Evaluate the effects of ketamine on postoperative analgesic efficacy, side effects, and time to discharge.\"\n  ],\n  \"methods\": [\n    \"Conduct a randomized, placebo-controlled, double-blind study comparing ketamine-treated and control groups.\",\n    \"Measure serum glucose, cortisol, interleukin-6, and tumor necrosis factor-α values at various time points during and after surgery.\",\n    \"Assess postoperative analgesic efficacy, side effects, and time to discharge.\"\n  ],\n  \"results\": [\n    \"Preoperative ketamine administration reduces serum glucose and cortisol values, as well as postoperative interleukin-6 and tumor necrosis factor-α concentrations.\",\n    \"Ketamine treatment also improves postoperative analgesic efficacy, reduces cumulative fentanyl consumption, and shortens time to discharge.\"\n  ],\n  \"research_subject\": \"Effects of preoperative ketamine on endocrine-metabolic and inflammatory responses to laparoscopic surgery\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a hypothesis that ketamine can reduce perioperative endocrine-metabolic and inflammatory responses in cardiac surgery patients.\",\n    \"The effects of preoperative ketamine on these responses in patients undergoing laparoscopic surgery are not well understood.\"\n  ],\n  \"objectives\": [\n    \"Determine whether preoperative administration of ketamine can attenuate perioperative endocrine-metabolic and inflammatory responses in healthy females undergoing elective laparoscopic surgery.\",\n    \"Compare the postoperative analgesic efficacy, side effects, and time to discharge between ketamine-treated patients and a control group.\"\n  ],\n  \"methods\": [\n    \"Conduct a randomized, placebo-controlled, double-blind study with female patients undergoing gynecological laparoscopic surgery.\",\n    \"Measure serum glucose, cortisol, interleukin-6, and tumor necrosis factor-α values at various stages of the surgery and postoperatively.\",\n    \"Record postoperative analgesic efficacy, side effects of administered drugs, and time to discharge.\"\n  ],\n  \"results\": [\n    \"Ketamine-treated patients had lower serum glucose and cortisol values at various stages postoperatively, and lower postoperative interleukin-6 and tumor necrosis factor-α concentrations.\",\n    \"Postoperative visual analog scale scores at rest, cumulative fentanyl consumption, and time to discharge were lower in the ketamine-treated group.\",\n    \"No significant differences in drug side effects were observed postoperatively between the two groups.\"\n  ],\n  \"research_subject\": \"Effects of preoperative ketamine on endocrine-metabolic and inflammatory responses to laparoscopic surgery\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Perioperative endocrine-metabolic and inflammatory responses can negatively impact patient recovery and outcomes following surgery.\",\n    \"There is a need to identify effective interventions that can attenuate stress responses during laparoscopic surgery.\"\n  ],\n  \"objectives\": [\n    \"Determine whether preoperative ketamine administration reduces endocrine-metabolic and inflammatory responses in patients undergoing laparoscopic surgery.\",\n    \"Evaluate the effects of ketamine on postoperative pain, recovery time, and side effects.\"\n  ],\n  \"methods\": [\n    \"Conduct a randomized, placebo-controlled, double-blind study comparing ketamine administration versus placebo before surgery.\",\n    \"Measure serum glucose, cortisol, interleukin-6, and tumor necrosis factor-α at multiple time points throughout the perioperative period.\",\n    \"Assess postoperative pain scores, analgesic consumption, and time to discharge.\"\n  ],\n  \"results\": [\n    \"Ketamine administration resulted in lower serum glucose and cortisol levels, as well as reduced inflammatory markers compared to placebo.\",\n    \"Patients receiving ketamine experienced improved postoperative pain control, reduced analgesic consumption, and shorter discharge times.\",\n    \"No significant differences in side effects were observed between the ketamine and control groups.\"\n  ],\n  \"research_subject\": \"Effects of preoperative ketamine on perioperative stress responses in laparoscopic surgery\"\n}\n```"
+}

@@ -1,0 +1,64 @@
+{
+  "index": 493,
+  "title": "Dynamic Monitoring of Dark IP Address Space (Poster)",
+  "abstract": "Abstractnumber of security-related research topics are based on the monitoring of dark IP address space. Unfortunately there is large administrative overhead associated with the dynamic assignment of a specific subnet for monitoring purposes, such as the deployment of a honeypot farm or a distributed intrusion detection system. In this paper, we propose a system that enables the dynamic allocation of an unadvertised IP address subnet for use by a monitoring sensor. The system dynamically selects network subnets that have been allocated to the organization but are not being advertised, advertises them, and subsequently forwards all received traffic destined to the selected subnet to a monitoring sensor.KeywordsIntrusion Detection SystemMonitoring SensorBorder RouterDynamic PacketRout Table EntryThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+  "llama_json": {
+    "motivations": [
+      "Monitoring dark IP address space is crucial for various security-related research topics, but it involves significant administrative overhead.",
+      "Dynamic assignment of IP address subnets for monitoring purposes is challenging due to the need for manual deployment and configuration."
+    ],
+    "objectives": [
+      "Develop a system that enables the dynamic allocation of unadvertised IP address subnets for use by monitoring sensors.",
+      "Reduce the administrative overhead associated with deploying and managing monitoring systems such as honeypot farms or distributed intrusion detection systems."
+    ],
+    "methods": [
+      "Design a system that dynamically selects unadvertised network subnets allocated to an organization.",
+      "Implement a mechanism to advertise the selected subnets and forward received traffic to a monitoring sensor."
+    ],
+    "results": [
+      "Enable efficient and dynamic monitoring of dark IP address space with reduced administrative overhead.",
+      "Improve the effectiveness of security-related research and intrusion detection systems."
+    ],
+    "research_subject": "Dynamic allocation of dark IP address space for security monitoring"
+  },
+  "openai_json": {
+    "motivations": [
+      "Monitoring of dark IP address space is crucial for several security-related research topics, but it involves significant administrative overhead.",
+      "The dynamic assignment of a specific subnet for monitoring purposes, such as deploying a honeypot farm or a distributed intrusion detection system, is challenging."
+    ],
+    "objectives": [
+      "Propose a system that enables the dynamic allocation of an unadvertised IP address subnet for use by a monitoring sensor."
+    ],
+    "methods": [
+      "The system dynamically selects network subnets that have been allocated to the organization but are not being advertised, advertises them, and subsequently forwards all received traffic destined to the selected subnet to a monitoring sensor."
+    ],
+    "results": [
+      "The proposed system can reduce the administrative overhead associated with the dynamic assignment of a specific subnet for monitoring purposes."
+    ],
+    "research_subject": "Dynamic Monitoring of Dark IP Address Space"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Security research based on monitoring dark IP address space faces significant administrative overhead when dynamically assigning specific subnets for monitoring purposes.",
+      "Current approaches to deploying honeypot farms or distributed intrusion detection systems require complex manual configuration and management."
+    ],
+    "objectives": [
+      "Enable dynamic allocation of unadvertised IP address subnets for use by monitoring sensors without manual administrative intervention.",
+      "Develop a system that automatically identifies, advertises, and redirects traffic from unused organizational IP subnets to security monitoring infrastructure."
+    ],
+    "methods": [
+      "Dynamically select network subnets that are allocated to the organization but not currently advertised.",
+      "Automatically advertise selected subnets and forward all received traffic to designated monitoring sensors.",
+      "Implement automated routing table management to enable seamless redirection of dark IP space traffic."
+    ],
+    "results": [
+      "Reduced administrative overhead for security monitoring infrastructure deployment.",
+      "Enhanced capability for organizations to monitor and analyze traffic directed to their dark IP address space.",
+      "Improved efficiency in deploying honeypot farms and distributed intrusion detection systems."
+    ],
+    "research_subject": "Dynamic monitoring system for dark IP address space"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Monitoring dark IP address space is crucial for various security-related research topics, but it involves significant administrative overhead.\",\n    \"Dynamic assignment of IP address subnets for monitoring purposes is challenging due to the need for manual deployment and configuration.\"\n  ],\n  \"objectives\": [\n    \"Develop a system that enables the dynamic allocation of unadvertised IP address subnets for use by monitoring sensors.\",\n    \"Reduce the administrative overhead associated with deploying and managing monitoring systems such as honeypot farms or distributed intrusion detection systems.\"\n  ],\n  \"methods\": [\n    \"Design a system that dynamically selects unadvertised network subnets allocated to an organization.\",\n    \"Implement a mechanism to advertise the selected subnets and forward received traffic to a monitoring sensor.\"\n  ],\n  \"results\": [\n    \"Enable efficient and dynamic monitoring of dark IP address space with reduced administrative overhead.\",\n    \"Improve the effectiveness of security-related research and intrusion detection systems.\"\n  ],\n  \"research_subject\": \"Dynamic allocation of dark IP address space for security monitoring\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Monitoring of dark IP address space is crucial for several security-related research topics, but it involves significant administrative overhead.\",\n    \"The dynamic assignment of a specific subnet for monitoring purposes, such as deploying a honeypot farm or a distributed intrusion detection system, is challenging.\"\n  ],\n  \"objectives\": [\n    \"Propose a system that enables the dynamic allocation of an unadvertised IP address subnet for use by a monitoring sensor.\"\n  ],\n  \"methods\": [\n    \"The system dynamically selects network subnets that have been allocated to the organization but are not being advertised, advertises them, and subsequently forwards all received traffic destined to the selected subnet to a monitoring sensor.\"\n  ],\n  \"results\": [\n    \"The proposed system can reduce the administrative overhead associated with the dynamic assignment of a specific subnet for monitoring purposes.\"\n  ],\n  \"research_subject\": \"Dynamic Monitoring of Dark IP Address Space\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Security research based on monitoring dark IP address space faces significant administrative overhead when dynamically assigning specific subnets for monitoring purposes.\",\n    \"Current approaches to deploying honeypot farms or distributed intrusion detection systems require complex manual configuration and management.\"\n  ],\n  \"objectives\": [\n    \"Enable dynamic allocation of unadvertised IP address subnets for use by monitoring sensors without manual administrative intervention.\",\n    \"Develop a system that automatically identifies, advertises, and redirects traffic from unused organizational IP subnets to security monitoring infrastructure.\"\n  ],\n  \"methods\": [\n    \"Dynamically select network subnets that are allocated to the organization but not currently advertised.\",\n    \"Automatically advertise selected subnets and forward all received traffic to designated monitoring sensors.\",\n    \"Implement automated routing table management to enable seamless redirection of dark IP space traffic.\"\n  ],\n  \"results\": [\n    \"Reduced administrative overhead for security monitoring infrastructure deployment.\",\n    \"Enhanced capability for organizations to monitor and analyze traffic directed to their dark IP address space.\",\n    \"Improved efficiency in deploying honeypot farms and distributed intrusion detection systems.\"\n  ],\n  \"research_subject\": \"Dynamic monitoring system for dark IP address space\"\n}\n```"
+}

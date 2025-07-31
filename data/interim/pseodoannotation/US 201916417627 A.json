@@ -1,0 +1,65 @@
+{
+  "index": 376,
+  "title": "UPDATING SOFTWARE COMPONENTS THROUGH ONLINE STORES",
+  "abstract": "The present invention extends to methods, systems, and computer program products for updating software components through online stores. A computing device interacts with an online store to download applications and frameworks that are distributed from the online store. The computer system includes an operating system configured to keep distributed applications and frameworks updated. The operating system can, automatically and without user intervention, intelligently schedule and attempt application and framework updates in a manner that minimizes user disruptions. The operating system can manage application and framework updating for any and/or all user accounts on a computing device. The operating system can manage updates even when each application and/or framework is to be separately installed for different user accounts that have the application and/or framework installed.",
+  "llama_json": {
+    "motivations": [
+      "Users face disruptions and difficulties in keeping software components up-to-date, which can lead to security vulnerabilities and performance issues.",
+      "There is a need for an efficient and automated system to manage software updates across multiple user accounts and minimize user disruptions."
+    ],
+    "objectives": [
+      "Develop a system that enables seamless and automated updates of software components through online stores.",
+      "Minimize user disruptions by intelligently scheduling and attempting application and framework updates."
+    ],
+    "methods": [
+      "Implement an operating system that interacts with online stores to download and update applications and frameworks.",
+      "Utilize automated scheduling and updating mechanisms to manage software updates across multiple user accounts."
+    ],
+    "results": [
+      "Provide users with a convenient and disruption-free experience when updating software components.",
+      "Ensure that software components are kept up-to-date, reducing security vulnerabilities and performance issues."
+    ],
+    "research_subject": "Automated software component updates through online stores"
+  },
+  "openai_json": {
+    "motivations": [
+      "Updating software components manually can be disruptive and time-consuming for users.",
+      "There is a need for an intelligent system that can manage and schedule updates for applications and frameworks across multiple user accounts without user intervention."
+    ],
+    "objectives": [
+      "Develop methods, systems, and computer program products that can automatically update software components through online stores.",
+      "Design an operating system that can intelligently schedule and manage updates for applications and frameworks across multiple user accounts."
+    ],
+    "methods": [
+      "Implement an operating system that interacts with an online store to download and update applications and frameworks.",
+      "Design the operating system to automatically schedule and manage updates in a way that minimizes user disruptions."
+    ],
+    "results": [
+      "Enable automatic and intelligent updating of software components through online stores.",
+      "Minimize user disruptions during software updates and manage updates across multiple user accounts."
+    ],
+    "research_subject": "Automatic updating of software components through online stores"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Software components require frequent updates to maintain functionality and security, but manual update processes can be disruptive and inefficient for users.",
+      "Managing software updates across multiple user accounts on a single device presents challenges in coordination and resource management."
+    ],
+    "objectives": [
+      "Develop an automated system for updating software components through online stores that minimizes user disruption.",
+      "Enable intelligent scheduling and management of application and framework updates across multiple user accounts on a computing device."
+    ],
+    "methods": [
+      "Implement an operating system-level update mechanism that automatically schedules and executes software updates without user intervention.",
+      "Design a system that manages updates for applications and frameworks distributed through online stores across all user accounts on a device."
+    ],
+    "results": [
+      "Users experience minimal disruption from software updates through intelligent automatic scheduling.",
+      "Software components remain current across all user accounts on a device without requiring manual intervention."
+    ],
+    "research_subject": "Automated software update management through online distribution platforms"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Users face disruptions and difficulties in keeping software components up-to-date, which can lead to security vulnerabilities and performance issues.\",\n    \"There is a need for an efficient and automated system to manage software updates across multiple user accounts and minimize user disruptions.\"\n  ],\n  \"objectives\": [\n    \"Develop a system that enables seamless and automated updates of software components through online stores.\",\n    \"Minimize user disruptions by intelligently scheduling and attempting application and framework updates.\"\n  ],\n  \"methods\": [\n    \"Implement an operating system that interacts with online stores to download and update applications and frameworks.\",\n    \"Utilize automated scheduling and updating mechanisms to manage software updates across multiple user accounts.\"\n  ],\n  \"results\": [\n    \"Provide users with a convenient and disruption-free experience when updating software components.\",\n    \"Ensure that software components are kept up-to-date, reducing security vulnerabilities and performance issues.\"\n  ],\n  \"research_subject\": \"Automated software component updates through online stores\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Updating software components manually can be disruptive and time-consuming for users.\",\n    \"There is a need for an intelligent system that can manage and schedule updates for applications and frameworks across multiple user accounts without user intervention.\"\n  ],\n  \"objectives\": [\n    \"Develop methods, systems, and computer program products that can automatically update software components through online stores.\",\n    \"Design an operating system that can intelligently schedule and manage updates for applications and frameworks across multiple user accounts.\"\n  ],\n  \"methods\": [\n    \"Implement an operating system that interacts with an online store to download and update applications and frameworks.\",\n    \"Design the operating system to automatically schedule and manage updates in a way that minimizes user disruptions.\"\n  ],\n  \"results\": [\n    \"Enable automatic and intelligent updating of software components through online stores.\",\n    \"Minimize user disruptions during software updates and manage updates across multiple user accounts.\"\n  ],\n  \"research_subject\": \"Automatic updating of software components through online stores\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Software components require frequent updates to maintain functionality and security, but manual update processes can be disruptive and inefficient for users.\",\n    \"Managing software updates across multiple user accounts on a single device presents challenges in coordination and resource management.\"\n  ],\n  \"objectives\": [\n    \"Develop an automated system for updating software components through online stores that minimizes user disruption.\",\n    \"Enable intelligent scheduling and management of application and framework updates across multiple user accounts on a computing device.\"\n  ],\n  \"methods\": [\n    \"Implement an operating system-level update mechanism that automatically schedules and executes software updates without user intervention.\",\n    \"Design a system that manages updates for applications and frameworks distributed through online stores across all user accounts on a device.\"\n  ],\n  \"results\": [\n    \"Users experience minimal disruption from software updates through intelligent automatic scheduling.\",\n    \"Software components remain current across all user accounts on a device without requiring manual intervention.\"\n  ],\n  \"research_subject\": \"Automated software update management through online distribution platforms\"\n}\n```"
+}

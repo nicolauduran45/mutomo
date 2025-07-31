@@ -1,0 +1,68 @@
+{
+  "index": 199,
+  "title": "The impact of raters' level and type of sports experiences on inferences drawn from resumes",
+  "abstract": "Approximately 420,000 students annually participate in collegiate sports in the United States (Zgonc, 2010); the majority of these athletes do not continue to play at a professional level. Retirement from collegiate athletics typically occurs upon graduation and then collegiate athletes attempt to make their transition to full-time employment, most often competing for the same opportunities as their peers in the job market. They frequently lack work experiences--such as internships--that are typically highly valued by the people who review their resumes (Wilkin and Connelly, 2012). Even if they are able to participate in an internship or other direct professional experiences during their college careers, the time and effort required of collegiate athletics likely puts them at a disadvantage--they may lack both depth and breadth of experiences compared to others in the job market. If other college graduates who do not play sports are viewed as having deeper or broader direct work experiences, it may lead to a variety of negative outcomes for college athletes in the job search process. For example, the job search process may take longer or the candidate may be offered jobs below his or her true skill level. In addition, the applicant may not be hired (or even considered for) a job for which he or she is well qualified. This issue can have an impact during the first step in the employment process, which typically involves some member of the hiring organization reviewing the candidate's resume and deciding whether or not to pass it on and move the candidate to the next step in the selection process. The backgrounds and experiences of the individuals conducting these initial reviews can vary widely. For some organizations, this person might be an experienced HR professional. For others it might be the hiring manager that the candidate will report to or some other representative responsible for screening candidates. Whoever is charged with this task, often the person making selection decisions relies heavily on his/her intuition in forming a judgment. Lodato et al. (2011) have noted that both HR professionals and line managers often resist a more standardized selection process, preferring instead to rely on their intuition. Several researchers (Fumham, 2008; Rynes et al, 2002) have also noted that HR practitioners often lack an understanding of state of the art staffing techniques (e.g., behavioral-based interviewing techniques and cognitive ability tests). The evidence above suggests that the ability of the collegiate athlete to advance from the resume submission stage to further steps in the selection process will depend on the intuitive approach of the initial reviewer. One might assume that these approaches might vary depending on the relevant life experiences of the reviewer to the task at hand, which should contribute to formulating the reviewer's intuitive approach. While a great deal of recent research has focused on how different types of resume items --including participation in collegiate athletics--are perceived by reviewers (Tanguay et al., 2012), to the authors' knowledge, there is a lack of evidence on how one's life experiences impact perceptions of the resumes of collegiate athletes. This paper attempts to fill that void by examining how the level and type of sports experiences of resume reviewers impact their perceptions of the resumes of collegiate athletes. Psychological Basis There are a variety of well-developed psychological theories to explain how reviewers' sports experiences might impact their intuitive approach to screening the resumes of collegiate athletes. One such approach is the similar-attraction effect (Byrne, 1971). This is the idea that reviewers will react more positively to resumes of candidates with similar characteristics and experiences to their own. Research supports the idea that recruiters are more favorable to candidates similar to themselves (Anderson and Shackleton, 1990). …",
+  "llama_json": {
+    "motivations": [
+      "Collegiate athletes often struggle to transition to full-time employment due to a lack of work experiences, such as internships, which are highly valued by resume reviewers.",
+      "The job search process for collegiate athletes may be negatively impacted by the subjective and intuitive approaches of resume reviewers, which can lead to biases and unfair judgments."
+    ],
+    "objectives": [
+      "Examine how the level and type of sports experiences of resume reviewers impact their perceptions of the resumes of collegiate athletes.",
+      "Investigate the role of the similar-attraction effect in shaping reviewers' intuitive approaches to screening resumes."
+    ],
+    "methods": [
+      "Conduct a study to analyze the impact of reviewers' sports experiences on their perceptions of collegiate athletes' resumes.",
+      "Apply psychological theories, such as the similar-attraction effect, to explain the findings and provide insights into the decision-making processes of resume reviewers."
+    ],
+    "results": [
+      "Gain a better understanding of how reviewers' sports experiences influence their judgments of collegiate athletes' resumes.",
+      "Provide insights into the potential biases and unfair judgments that may occur during the resume screening process."
+    ],
+    "research_subject": "The impact of raters' level and type of sports experiences on inferences drawn from resumes of collegiate athletes"
+  },
+  "openai_json": {
+    "motivations": [
+      "Collegiate athletes often face challenges in transitioning to full-time employment due to perceived lack of work experiences.",
+      "The intuitive approach of the initial resume reviewer, influenced by their own life experiences, can significantly impact the employment prospects of collegiate athletes.",
+      "There is a lack of research on how the level and type of sports experiences of resume reviewers impact their perceptions of the resumes of collegiate athletes."
+    ],
+    "objectives": [
+      "Investigate how the level and type of sports experiences of resume reviewers impact their perceptions of the resumes of collegiate athletes.",
+      "Examine the potential influence of psychological theories such as the similar-attraction effect on the resume screening process."
+    ],
+    "methods": [
+      "Analyze the impact of reviewers' sports experiences on their intuitive approach to screening the resumes of collegiate athletes.",
+      "Apply psychological theories such as the similar-attraction effect to understand the potential biases in the resume screening process."
+    ],
+    "results": [
+      "Provide insights into how the sports experiences of resume reviewers influence their perceptions of collegiate athletes' resumes.",
+      "Contribute to a better understanding of the potential biases in the resume screening process and their impact on the employment prospects of collegiate athletes."
+    ],
+    "research_subject": "Impact of raters' sports experiences on their perceptions of collegiate athletes' resumes"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Collegiate athletes often lack traditional work experiences like internships that are valued by resume reviewers, potentially disadvantaging them in the job market.",
+      "Resume reviewers rely heavily on intuition rather than standardized selection processes, which may lead to biased evaluations of collegiate athletes.",
+      "There is insufficient research on how reviewers' own sports experiences influence their perceptions of collegiate athletes' resumes."
+    ],
+    "objectives": [
+      "Examine how the level and type of sports experiences of resume reviewers impact their perceptions of collegiate athletes' resumes.",
+      "Investigate the role of psychological factors, such as the similarity-attraction effect, in resume evaluation processes."
+    ],
+    "methods": [
+      "Analyze how different reviewers with varying sports backgrounds evaluate resumes of collegiate athletes.",
+      "Apply psychological theories including the similarity-attraction effect to understand reviewer bias patterns."
+    ],
+    "results": [
+      "Provide insights into how reviewers' sports experiences influence their evaluation of collegiate athletes' resumes.",
+      "Identify potential biases in the resume screening process that may disadvantage collegiate athletes.",
+      "Contribute to understanding of intuitive decision-making in hiring processes."
+    ],
+    "research_subject": "Impact of resume reviewers' sports experiences on evaluation of collegiate athletes' job applications"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Collegiate athletes often struggle to transition to full-time employment due to a lack of work experiences, such as internships, which are highly valued by resume reviewers.\",\n    \"The job search process for collegiate athletes may be negatively impacted by the subjective and intuitive approaches of resume reviewers, which can lead to biases and unfair judgments.\"\n  ],\n  \"objectives\": [\n    \"Examine how the level and type of sports experiences of resume reviewers impact their perceptions of the resumes of collegiate athletes.\",\n    \"Investigate the role of the similar-attraction effect in shaping reviewers' intuitive approaches to screening resumes.\"\n  ],\n  \"methods\": [\n    \"Conduct a study to analyze the impact of reviewers' sports experiences on their perceptions of collegiate athletes' resumes.\",\n    \"Apply psychological theories, such as the similar-attraction effect, to explain the findings and provide insights into the decision-making processes of resume reviewers.\"\n  ],\n  \"results\": [\n    \"Gain a better understanding of how reviewers' sports experiences influence their judgments of collegiate athletes' resumes.\",\n    \"Provide insights into the potential biases and unfair judgments that may occur during the resume screening process.\"\n  ],\n  \"research_subject\": \"The impact of raters' level and type of sports experiences on inferences drawn from resumes of collegiate athletes\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Collegiate athletes often face challenges in transitioning to full-time employment due to perceived lack of work experiences.\",\n    \"The intuitive approach of the initial resume reviewer, influenced by their own life experiences, can significantly impact the employment prospects of collegiate athletes.\",\n    \"There is a lack of research on how the level and type of sports experiences of resume reviewers impact their perceptions of the resumes of collegiate athletes.\"\n  ],\n  \"objectives\": [\n    \"Investigate how the level and type of sports experiences of resume reviewers impact their perceptions of the resumes of collegiate athletes.\",\n    \"Examine the potential influence of psychological theories such as the similar-attraction effect on the resume screening process.\"\n  ],\n  \"methods\": [\n    \"Analyze the impact of reviewers' sports experiences on their intuitive approach to screening the resumes of collegiate athletes.\",\n    \"Apply psychological theories such as the similar-attraction effect to understand the potential biases in the resume screening process.\"\n  ],\n  \"results\": [\n    \"Provide insights into how the sports experiences of resume reviewers influence their perceptions of collegiate athletes' resumes.\",\n    \"Contribute to a better understanding of the potential biases in the resume screening process and their impact on the employment prospects of collegiate athletes.\"\n  ],\n  \"research_subject\": \"Impact of raters' sports experiences on their perceptions of collegiate athletes' resumes\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Collegiate athletes often lack traditional work experiences like internships that are valued by resume reviewers, potentially disadvantaging them in the job market.\",\n    \"Resume reviewers rely heavily on intuition rather than standardized selection processes, which may lead to biased evaluations of collegiate athletes.\",\n    \"There is insufficient research on how reviewers' own sports experiences influence their perceptions of collegiate athletes' resumes.\"\n  ],\n  \"objectives\": [\n    \"Examine how the level and type of sports experiences of resume reviewers impact their perceptions of collegiate athletes' resumes.\",\n    \"Investigate the role of psychological factors, such as the similarity-attraction effect, in resume evaluation processes.\"\n  ],\n  \"methods\": [\n    \"Analyze how different reviewers with varying sports backgrounds evaluate resumes of collegiate athletes.\",\n    \"Apply psychological theories including the similarity-attraction effect to understand reviewer bias patterns.\"\n  ],\n  \"results\": [\n    \"Provide insights into how reviewers' sports experiences influence their evaluation of collegiate athletes' resumes.\",\n    \"Identify potential biases in the resume screening process that may disadvantage collegiate athletes.\",\n    \"Contribute to understanding of intuitive decision-making in hiring processes.\"\n  ],\n  \"research_subject\": \"Impact of resume reviewers' sports experiences on evaluation of collegiate athletes' job applications\"\n}\n```"
+}

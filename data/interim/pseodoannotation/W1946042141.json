@@ -1,0 +1,68 @@
+{
+  "index": 426,
+  "title": "Research on yield estimation of rice based on remote sensing using moderate-resolution imaging spectroradiometer(MODIS) data: a case study of Jiangsu Province, China.",
+  "abstract": "Based on the unique characteristic of high soil moisture in the flooding and transplanting period of rice, rice pixels in Jiangsu Province, China were extracted by vegetation index algorithm. The unique characteristic could be reflected by relationship between different vegetation indexes derived from MODIS09 data. Then, the relationship between statistical yield data and vegetation index of rice extracted previously in 2004-2006 was analyzed. Finally, rice yield in 2007 was predicted. The results showed that the method based on MODIS data can estimate yield effectively. The accuracy of predicted yield of each city in 2007 was about 95% and the relative error was 0.38% at the provincial level.",
+  "llama_json": {
+    "motivations": [
+      "Accurate estimation of rice yield is crucial for agricultural planning and management, but traditional methods may be time-consuming and labor-intensive.",
+      "Remote sensing technologies offer a potential solution for efficient and large-scale crop yield estimation."
+    ],
+    "objectives": [
+      "Develop a method for estimating rice yield using MODIS data and vegetation index algorithms.",
+      "Evaluate the accuracy of the proposed method for predicting rice yield in Jiangsu Province, China."
+    ],
+    "methods": [
+      "Extract rice pixels using vegetation index algorithms based on MODIS09 data.",
+      "Analyze the relationship between statistical yield data and vegetation index of rice.",
+      "Predict rice yield using the developed method and validate its accuracy."
+    ],
+    "results": [
+      "The proposed method can estimate rice yield effectively with high accuracy.",
+      "The predicted yield for 2007 showed an accuracy of about 95% at the city level and a relative error of 0.38% at the provincial level."
+    ],
+    "research_subject": "Rice yield estimation using remote sensing and MODIS data"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective methods to estimate rice yield, which is crucial for agricultural planning and management.",
+      "Remote sensing data, such as MODIS data, has potential for yield estimation but its effectiveness needs to be evaluated."
+    ],
+    "objectives": [
+      "Extract rice pixels in Jiangsu Province, China using vegetation index algorithm based on MODIS09 data.",
+      "Analyze the relationship between statistical yield data and vegetation index of rice from 2004-2006.",
+      "Predict rice yield in 2007 based on the established relationship."
+    ],
+    "methods": [
+      "Use vegetation index algorithm to extract rice pixels from MODIS09 data.",
+      "Analyze the relationship between statistical yield data and vegetation index of rice.",
+      "Predict rice yield based on the established relationship."
+    ],
+    "results": [
+      "The method based on MODIS data can effectively estimate rice yield.",
+      "The accuracy of predicted yield of each city in 2007 was about 95% and the relative error was 0.38% at the provincial level."
+    ],
+    "research_subject": "Yield estimation of rice using remote sensing and MODIS data"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Rice yield estimation is crucial for agricultural planning and food security, requiring accurate and efficient remote sensing methods.",
+      "The unique flooding and transplanting characteristics of rice cultivation provide an opportunity for improved crop identification and yield prediction using vegetation indices."
+    ],
+    "objectives": [
+      "Develop a method to extract rice pixels and estimate rice yield using MODIS remote sensing data and vegetation indices.",
+      "Validate the accuracy of yield predictions at both city and provincial levels in Jiangsu Province, China."
+    ],
+    "methods": [
+      "Extract rice pixels using vegetation index algorithms that leverage the high soil moisture characteristics during rice flooding and transplanting periods.",
+      "Analyze relationships between vegetation indices derived from MODIS09 data and statistical yield data to develop a yield estimation model."
+    ],
+    "results": [
+      "The method achieved approximately 95% accuracy in predicting rice yield at the city level.",
+      "The relative error for provincial-level yield estimation was 0.38%, demonstrating high prediction accuracy."
+    ],
+    "research_subject": "Rice yield estimation using MODIS remote sensing data and vegetation indices"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Accurate estimation of rice yield is crucial for agricultural planning and management, but traditional methods may be time-consuming and labor-intensive.\",\n    \"Remote sensing technologies offer a potential solution for efficient and large-scale crop yield estimation.\"\n  ],\n  \"objectives\": [\n    \"Develop a method for estimating rice yield using MODIS data and vegetation index algorithms.\",\n    \"Evaluate the accuracy of the proposed method for predicting rice yield in Jiangsu Province, China.\"\n  ],\n  \"methods\": [\n    \"Extract rice pixels using vegetation index algorithms based on MODIS09 data.\",\n    \"Analyze the relationship between statistical yield data and vegetation index of rice.\",\n    \"Predict rice yield using the developed method and validate its accuracy.\"\n  ],\n  \"results\": [\n    \"The proposed method can estimate rice yield effectively with high accuracy.\",\n    \"The predicted yield for 2007 showed an accuracy of about 95% at the city level and a relative error of 0.38% at the provincial level.\"\n  ],\n  \"research_subject\": \"Rice yield estimation using remote sensing and MODIS data\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective methods to estimate rice yield, which is crucial for agricultural planning and management.\",\n    \"Remote sensing data, such as MODIS data, has potential for yield estimation but its effectiveness needs to be evaluated.\"\n  ],\n  \"objectives\": [\n    \"Extract rice pixels in Jiangsu Province, China using vegetation index algorithm based on MODIS09 data.\",\n    \"Analyze the relationship between statistical yield data and vegetation index of rice from 2004-2006.\",\n    \"Predict rice yield in 2007 based on the established relationship.\"\n  ],\n  \"methods\": [\n    \"Use vegetation index algorithm to extract rice pixels from MODIS09 data.\",\n    \"Analyze the relationship between statistical yield data and vegetation index of rice.\",\n    \"Predict rice yield based on the established relationship.\"\n  ],\n  \"results\": [\n    \"The method based on MODIS data can effectively estimate rice yield.\",\n    \"The accuracy of predicted yield of each city in 2007 was about 95% and the relative error was 0.38% at the provincial level.\"\n  ],\n  \"research_subject\": \"Yield estimation of rice using remote sensing and MODIS data\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Rice yield estimation is crucial for agricultural planning and food security, requiring accurate and efficient remote sensing methods.\",\n    \"The unique flooding and transplanting characteristics of rice cultivation provide an opportunity for improved crop identification and yield prediction using vegetation indices.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to extract rice pixels and estimate rice yield using MODIS remote sensing data and vegetation indices.\",\n    \"Validate the accuracy of yield predictions at both city and provincial levels in Jiangsu Province, China.\"\n  ],\n  \"methods\": [\n    \"Extract rice pixels using vegetation index algorithms that leverage the high soil moisture characteristics during rice flooding and transplanting periods.\",\n    \"Analyze relationships between vegetation indices derived from MODIS09 data and statistical yield data to develop a yield estimation model.\"\n  ],\n  \"results\": [\n    \"The method achieved approximately 95% accuracy in predicting rice yield at the city level.\",\n    \"The relative error for provincial-level yield estimation was 0.38%, demonstrating high prediction accuracy.\"\n  ],\n  \"research_subject\": \"Rice yield estimation using MODIS remote sensing data and vegetation indices\"\n}\n```"
+}

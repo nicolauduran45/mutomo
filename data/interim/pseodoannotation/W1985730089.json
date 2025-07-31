@@ -1,0 +1,67 @@
+{
+  "index": 416,
+  "title": "Which is false: Oxaliplatin or fluoropyrimidine? An analysis of patients with KRAS wild-type metastatic colorectal cancer treated with first-line epidermal growth factor receptor monoclonal antibody",
+  "abstract": "This meta-analysis was performed to determine whether the addition of monoclonal antibodies (mAbs) of epidermal growth factor receptor (EGFR) to oxaliplatin-based chemotherapy treatment improves efficacy in KRAS wild-type metastatic colorectal cancer (mCRC), and whether infusional 5-fluorouracil (5-FU) and oxaliplatin is a preferred combination for EGFR mAbs. Oxaliplatin (including treatment), EGFR mAbs, first-line treatment, KRAS wild-type, and mCRC were used as key words. The PRIME, OPUS, COIN, and NORDIC VII trials were identified by two independent authors. Time-to-event outcomes of overall survival (OS) and progression-free survival (PFS) were analyzed using HRs (hazard ratios) with fixed effect, and response rate (RR) using odd ratios (OR) with fixed effect. A total of 1767 patients who were KRAS wild-type were included in this meta-analysis, with 866 patients in the mAbs and chemotherapy combination group and 901 patients in the chemotherapy alone group. The addition of mAbs to oxaliplatin-based chemotherapy in patients with KRAS wild-type mCRC as first-line treatment resulted in significant improvements in PFS (HR = 0.88; 95% confidence interval (CI), 0.79-0.99; P = 0.03) and response rate (RR) (OR = 1.38; 95% CI, 1.14-1.66; P = 0.009) compared with chemotherapy alone, but the difference in OS was not significant (HR = 0.96; 95% CI, 0.85-1.08; P = 0.48). However, the differences in OS and PFS were not significant when mAbs were added to bolus 5-FU or capecitabine-based regimens compared with chemotherapy alone, whereas PFS improved with an infusional 5-FU and oxaliplatin combination (P = 0.06; PFS, HR = 0.76; 95% CI, 0.65-0.86; P = 0.0002), and even OS was marginally significant, which was consistent with the subgroup analysis of cetuximab and panitumumab. EGFR mAbs combined with oxaliplatin and an infusional 5-FU regimen was associated with significantly improved RR, PFS and OS as first-line treatment in KRAS wild-type mCRC.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to determine whether adding epidermal growth factor receptor monoclonal antibodies to oxaliplatin-based chemotherapy improves efficacy in KRAS wild-type metastatic colorectal cancer.",
+      "The optimal combination of chemotherapy and monoclonal antibodies for treating metastatic colorectal cancer is unclear."
+    ],
+    "objectives": [
+      "Evaluate the efficacy of adding epidermal growth factor receptor monoclonal antibodies to oxaliplatin-based chemotherapy in KRAS wild-type metastatic colorectal cancer.",
+      "Determine whether infusional 5-fluorouracil and oxaliplatin is a preferred combination for epidermal growth factor receptor monoclonal antibodies."
+    ],
+    "methods": [
+      "Conduct a meta-analysis of existing trials, including PRIME, OPUS, COIN, and NORDIC VII.",
+      "Analyze time-to-event outcomes of overall survival and progression-free survival using hazard ratios with fixed effect.",
+      "Analyze response rate using odd ratios with fixed effect."
+    ],
+    "results": [
+      "The addition of monoclonal antibodies to oxaliplatin-based chemotherapy improves progression-free survival and response rate in KRAS wild-type metastatic colorectal cancer.",
+      "Infusional 5-fluorouracil and oxaliplatin is a preferred combination for epidermal growth factor receptor monoclonal antibodies, associated with improved response rate, progression-free survival, and overall survival."
+    ],
+    "research_subject": "Efficacy of epidermal growth factor receptor monoclonal antibodies with oxaliplatin-based chemotherapy in KRAS wild-type metastatic colorectal cancer"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is uncertainty about the efficacy of adding monoclonal antibodies (mAbs) of epidermal growth factor receptor (EGFR) to oxaliplatin-based chemotherapy in treating KRAS wild-type metastatic colorectal cancer (mCRC).",
+      "The optimal combination of chemotherapy drugs to use with EGFR mAbs for this type of cancer is unclear."
+    ],
+    "objectives": [
+      "Determine whether the addition of EGFR mAbs to oxaliplatin-based chemotherapy improves efficacy in KRAS wild-type mCRC.",
+      "Assess whether infusional 5-fluorouracil (5-FU) and oxaliplatin is a preferred combination for EGFR mAbs."
+    ],
+    "methods": [
+      "Perform a meta-analysis of trials using key words related to the research question.",
+      "Analyze time-to-event outcomes of overall survival (OS) and progression-free survival (PFS) using hazard ratios (HRs) with fixed effect, and response rate (RR) using odd ratios (OR) with fixed effect."
+    ],
+    "results": [
+      "The addition of mAbs to oxaliplatin-based chemotherapy in patients with KRAS wild-type mCRC as first-line treatment resulted in significant improvements in PFS and RR compared with chemotherapy alone.",
+      "The differences in OS and PFS were not significant when mAbs were added to bolus 5-FU or capecitabine-based regimens compared with chemotherapy alone.",
+      "PFS improved with an infusional 5-FU and oxaliplatin combination, and even OS was marginally significant."
+    ],
+    "research_subject": "Efficacy of adding EGFR mAbs to oxaliplatin-based chemotherapy in treating KRAS wild-type mCRC"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The optimal combination of EGFR monoclonal antibodies with chemotherapy for KRAS wild-type metastatic colorectal cancer remains unclear.",
+      "There is uncertainty about whether oxaliplatin-based chemotherapy benefits from the addition of EGFR monoclonal antibodies and which fluoropyrimidine formulation is most effective."
+    ],
+    "objectives": [
+      "Determine whether adding EGFR monoclonal antibodies to oxaliplatin-based chemotherapy improves efficacy in KRAS wild-type metastatic colorectal cancer.",
+      "Evaluate whether infusional 5-fluorouracil combined with oxaliplatin is the preferred chemotherapy backbone for EGFR monoclonal antibodies."
+    ],
+    "methods": [
+      "Conducted a meta-analysis of four randomized controlled trials (PRIME, OPUS, COIN, and NORDIC VII) comparing EGFR monoclonal antibodies plus chemotherapy versus chemotherapy alone.",
+      "Analyzed time-to-event outcomes using hazard ratios with fixed effect models and response rates using odds ratios with fixed effect models."
+    ],
+    "results": [
+      "Addition of EGFR monoclonal antibodies to oxaliplatin-based chemotherapy significantly improved progression-free survival and response rate but not overall survival in KRAS wild-type patients.",
+      "The combination of EGFR monoclonal antibodies with infusional 5-fluorouracil and oxaliplatin showed superior outcomes compared to combinations with bolus 5-fluorouracil or capecitabine."
+    ],
+    "research_subject": "Efficacy of EGFR monoclonal antibodies combined with different chemotherapy regimens in KRAS wild-type metastatic colorectal cancer"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to determine whether adding epidermal growth factor receptor monoclonal antibodies to oxaliplatin-based chemotherapy improves efficacy in KRAS wild-type metastatic colorectal cancer.\",\n    \"The optimal combination of chemotherapy and monoclonal antibodies for treating metastatic colorectal cancer is unclear.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the efficacy of adding epidermal growth factor receptor monoclonal antibodies to oxaliplatin-based chemotherapy in KRAS wild-type metastatic colorectal cancer.\",\n    \"Determine whether infusional 5-fluorouracil and oxaliplatin is a preferred combination for epidermal growth factor receptor monoclonal antibodies.\"\n  ],\n  \"methods\": [\n    \"Conduct a meta-analysis of existing trials, including PRIME, OPUS, COIN, and NORDIC VII.\",\n    \"Analyze time-to-event outcomes of overall survival and progression-free survival using hazard ratios with fixed effect.\",\n    \"Analyze response rate using odd ratios with fixed effect.\"\n  ],\n  \"results\": [\n    \"The addition of monoclonal antibodies to oxaliplatin-based chemotherapy improves progression-free survival and response rate in KRAS wild-type metastatic colorectal cancer.\",\n    \"Infusional 5-fluorouracil and oxaliplatin is a preferred combination for epidermal growth factor receptor monoclonal antibodies, associated with improved response rate, progression-free survival, and overall survival.\"\n  ],\n  \"research_subject\": \"Efficacy of epidermal growth factor receptor monoclonal antibodies with oxaliplatin-based chemotherapy in KRAS wild-type metastatic colorectal cancer\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is uncertainty about the efficacy of adding monoclonal antibodies (mAbs) of epidermal growth factor receptor (EGFR) to oxaliplatin-based chemotherapy in treating KRAS wild-type metastatic colorectal cancer (mCRC).\",\n    \"The optimal combination of chemotherapy drugs to use with EGFR mAbs for this type of cancer is unclear.\"\n  ],\n  \"objectives\": [\n    \"Determine whether the addition of EGFR mAbs to oxaliplatin-based chemotherapy improves efficacy in KRAS wild-type mCRC.\",\n    \"Assess whether infusional 5-fluorouracil (5-FU) and oxaliplatin is a preferred combination for EGFR mAbs.\"\n  ],\n  \"methods\": [\n    \"Perform a meta-analysis of trials using key words related to the research question.\",\n    \"Analyze time-to-event outcomes of overall survival (OS) and progression-free survival (PFS) using hazard ratios (HRs) with fixed effect, and response rate (RR) using odd ratios (OR) with fixed effect.\"\n  ],\n  \"results\": [\n    \"The addition of mAbs to oxaliplatin-based chemotherapy in patients with KRAS wild-type mCRC as first-line treatment resulted in significant improvements in PFS and RR compared with chemotherapy alone.\",\n    \"The differences in OS and PFS were not significant when mAbs were added to bolus 5-FU or capecitabine-based regimens compared with chemotherapy alone.\",\n    \"PFS improved with an infusional 5-FU and oxaliplatin combination, and even OS was marginally significant.\"\n  ],\n  \"research_subject\": \"Efficacy of adding EGFR mAbs to oxaliplatin-based chemotherapy in treating KRAS wild-type mCRC\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The optimal combination of EGFR monoclonal antibodies with chemotherapy for KRAS wild-type metastatic colorectal cancer remains unclear.\",\n    \"There is uncertainty about whether oxaliplatin-based chemotherapy benefits from the addition of EGFR monoclonal antibodies and which fluoropyrimidine formulation is most effective.\"\n  ],\n  \"objectives\": [\n    \"Determine whether adding EGFR monoclonal antibodies to oxaliplatin-based chemotherapy improves efficacy in KRAS wild-type metastatic colorectal cancer.\",\n    \"Evaluate whether infusional 5-fluorouracil combined with oxaliplatin is the preferred chemotherapy backbone for EGFR monoclonal antibodies.\"\n  ],\n  \"methods\": [\n    \"Conducted a meta-analysis of four randomized controlled trials (PRIME, OPUS, COIN, and NORDIC VII) comparing EGFR monoclonal antibodies plus chemotherapy versus chemotherapy alone.\",\n    \"Analyzed time-to-event outcomes using hazard ratios with fixed effect models and response rates using odds ratios with fixed effect models.\"\n  ],\n  \"results\": [\n    \"Addition of EGFR monoclonal antibodies to oxaliplatin-based chemotherapy significantly improved progression-free survival and response rate but not overall survival in KRAS wild-type patients.\",\n    \"The combination of EGFR monoclonal antibodies with infusional 5-fluorouracil and oxaliplatin showed superior outcomes compared to combinations with bolus 5-fluorouracil or capecitabine.\"\n  ],\n  \"research_subject\": \"Efficacy of EGFR monoclonal antibodies combined with different chemotherapy regimens in KRAS wild-type metastatic colorectal cancer\"\n}\n```"
+}

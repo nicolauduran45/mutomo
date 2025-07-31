@@ -1,0 +1,72 @@
+{
+  "index": 383,
+  "title": "LAVADO DE COCHES EN AUTOSERVICIO 24/24",
+  "abstract": "LAVADO DE COCHES EN AUTOSERVICIO ABIERTO 24/24 TAMBIÉN CON CONDICIONES INVERNALES (CONGELAR) YA QUE FUNCIONA EN AMBIENTE CERRADO Y VIDEOVIGILANCIA CALENTADA Y GESTIONADA A DISTANCIA. GESTIÓN AUTOMÁTICA DE LA APERTURA DE LAS PUERTAS DENTRO Y FUERA DEL COCHE. RECUPERACIÓN Y RECICLAJE DEL AGUA DE PROCESAMIENTO. POSIBILIDAD DE VARIOS TIPOS DE PAGO (EN EFECTIVO, FICHAS, TARJETAS DE FIDELIDAD, ETIQUETAS CONTACTLEES).",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a car wash service that operates 24/7, even in harsh winter conditions.",
+      "Traditional car wash services may not be efficient or environmentally friendly."
+    ],
+    "objectives": [
+      "Provide a 24/7 self-service car wash facility that can operate in various weather conditions.",
+      "Implement an automated and efficient car wash system with advanced features such as remote management and water recycling."
+    ],
+    "methods": [
+      "Design and build an enclosed car wash facility with climate control and video surveillance.",
+      "Implement automated door opening and payment systems for a seamless user experience.",
+      "Incorporate water recycling and recovery systems to minimize environmental impact."
+    ],
+    "results": [
+      "Offer a convenient and efficient car wash service that is accessible 24/7, regardless of weather conditions.",
+      "Reduce environmental impact through water recycling and energy-efficient systems."
+    ],
+    "research_subject": "Development of a 24/7 self-service car wash facility with advanced automation and environmental features"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a car wash service that operates 24/7, even in winter conditions.",
+      "The management of car wash services can be improved with remote and automated systems.",
+      "Water used in car wash processes needs to be recovered and recycled to promote sustainability."
+    ],
+    "objectives": [
+      "Provide a self-service car wash that operates 24/7, even in freezing conditions.",
+      "Implement a remote management system with video surveillance and automatic door opening.",
+      "Incorporate a water recovery and recycling system in the car wash process."
+    ],
+    "methods": [
+      "Use a closed and heated environment to allow the car wash to operate in winter conditions.",
+      "Implement remote management and video surveillance for security and efficiency.",
+      "Introduce various payment options including cash, tokens, loyalty cards, and contactless tags."
+    ],
+    "results": [
+      "Provide a reliable and accessible car wash service that operates under various conditions.",
+      "Improve the efficiency and security of car wash services through remote management and surveillance.",
+      "Promote sustainability by recovering and recycling water used in the car wash process."
+    ],
+    "research_subject": "24/7 self-service car wash with remote management and water recycling"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional car wash services have limited operating hours and are often unavailable during winter conditions due to freezing temperatures.",
+      "There is a need for environmentally sustainable car washing solutions that minimize water waste through recycling systems."
+    ],
+    "objectives": [
+      "Develop a 24/7 self-service car wash system that operates reliably in all weather conditions, including freezing temperatures.",
+      "Implement water recovery and recycling systems to reduce environmental impact and resource consumption."
+    ],
+    "methods": [
+      "Design an enclosed, heated environment with remote video surveillance and automated door management systems.",
+      "Integrate multiple payment options including cash, tokens, loyalty cards, and contactless payment methods.",
+      "Implement water recovery and recycling technology for processing water reuse."
+    ],
+    "results": [
+      "Provide continuous car wash service availability regardless of weather conditions or time of day.",
+      "Achieve sustainable water usage through effective recycling and recovery systems.",
+      "Offer convenient and flexible payment options to enhance customer accessibility and satisfaction."
+    ],
+    "research_subject": "24/7 self-service car wash system with winter operation capability and water recycling"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a car wash service that operates 24/7, even in harsh winter conditions.\",\n    \"Traditional car wash services may not be efficient or environmentally friendly.\"\n  ],\n  \"objectives\": [\n    \"Provide a 24/7 self-service car wash facility that can operate in various weather conditions.\",\n    \"Implement an automated and efficient car wash system with advanced features such as remote management and water recycling.\"\n  ],\n  \"methods\": [\n    \"Design and build an enclosed car wash facility with climate control and video surveillance.\",\n    \"Implement automated door opening and payment systems for a seamless user experience.\",\n    \"Incorporate water recycling and recovery systems to minimize environmental impact.\"\n  ],\n  \"results\": [\n    \"Offer a convenient and efficient car wash service that is accessible 24/7, regardless of weather conditions.\",\n    \"Reduce environmental impact through water recycling and energy-efficient systems.\"\n  ],\n  \"research_subject\": \"Development of a 24/7 self-service car wash facility with advanced automation and environmental features\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a car wash service that operates 24/7, even in winter conditions.\",\n    \"The management of car wash services can be improved with remote and automated systems.\",\n    \"Water used in car wash processes needs to be recovered and recycled to promote sustainability.\"\n  ],\n  \"objectives\": [\n    \"Provide a self-service car wash that operates 24/7, even in freezing conditions.\",\n    \"Implement a remote management system with video surveillance and automatic door opening.\",\n    \"Incorporate a water recovery and recycling system in the car wash process.\"\n  ],\n  \"methods\": [\n    \"Use a closed and heated environment to allow the car wash to operate in winter conditions.\",\n    \"Implement remote management and video surveillance for security and efficiency.\",\n    \"Introduce various payment options including cash, tokens, loyalty cards, and contactless tags.\"\n  ],\n  \"results\": [\n    \"Provide a reliable and accessible car wash service that operates under various conditions.\",\n    \"Improve the efficiency and security of car wash services through remote management and surveillance.\",\n    \"Promote sustainability by recovering and recycling water used in the car wash process.\"\n  ],\n  \"research_subject\": \"24/7 self-service car wash with remote management and water recycling\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional car wash services have limited operating hours and are often unavailable during winter conditions due to freezing temperatures.\",\n    \"There is a need for environmentally sustainable car washing solutions that minimize water waste through recycling systems.\"\n  ],\n  \"objectives\": [\n    \"Develop a 24/7 self-service car wash system that operates reliably in all weather conditions, including freezing temperatures.\",\n    \"Implement water recovery and recycling systems to reduce environmental impact and resource consumption.\"\n  ],\n  \"methods\": [\n    \"Design an enclosed, heated environment with remote video surveillance and automated door management systems.\",\n    \"Integrate multiple payment options including cash, tokens, loyalty cards, and contactless payment methods.\",\n    \"Implement water recovery and recycling technology for processing water reuse.\"\n  ],\n  \"results\": [\n    \"Provide continuous car wash service availability regardless of weather conditions or time of day.\",\n    \"Achieve sustainable water usage through effective recycling and recovery systems.\",\n    \"Offer convenient and flexible payment options to enhance customer accessibility and satisfaction.\"\n  ],\n  \"research_subject\": \"24/7 self-service car wash system with winter operation capability and water recycling\"\n}\n```"
+}

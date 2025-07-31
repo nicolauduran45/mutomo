@@ -1,0 +1,71 @@
+{
+  "index": 226,
+  "title": "Nature Based Solutions for Domestic Water Reuse in Mediterranean Countries",
+  "abstract": "In Mediterranean countries, domestic water use accounts for a minor part of water consumption - a much larger quantity is used for irrigation - but it requires the best quality and its demand is continuously growing, along with improving lifestyle and increasing urban population. Moreover, urban water is still the main cause of pollution of rivers and groundwater, even when treated before being discharged. Per capita domestic water use can be drastically reduced by using non-conventional water (NCW) resources for not potable purposes: greywater (and rainwater when available) can be reused for WC flushing and irrigation but requires the implementation of decentralised treatment systems, serving one or a few buildings. NAWAMED aims at changing the urban water management practice by mean of innovative, sustainable, and low-cost treatment technologies, applicable in a decentralised way, to replace the use of potable water with good quality of NCW.",
+  "llama_json": {
+    "motivations": [
+      "Domestic water use in Mediterranean countries demands high-quality water, yet contributes significantly to pollution of rivers and groundwater.",
+      "There is a growing need to reduce per capita domestic water use due to increasing urban population and improving lifestyles."
+    ],
+    "objectives": [
+      "Implement innovative, sustainable, and low-cost treatment technologies for decentralized domestic water reuse.",
+      "Replace the use of potable water with non-conventional water resources for non-potable purposes."
+    ],
+    "methods": [
+      "Develop and apply decentralized treatment systems for greywater and rainwater reuse.",
+      "Promote the use of non-conventional water resources for WC flushing and irrigation."
+    ],
+    "results": [
+      "Significantly reduce per capita domestic water use in Mediterranean countries.",
+      "Decrease pollution of rivers and groundwater by utilizing non-conventional water resources."
+    ],
+    "research_subject": "Decentralized domestic water reuse using nature-based solutions in Mediterranean countries"
+  },
+  "openai_json": {
+    "motivations": [
+      "In Mediterranean countries, the demand for high-quality domestic water is growing due to improving lifestyles and increasing urban populations.",
+      "Urban water is a major cause of pollution in rivers and groundwater, even when treated before being discharged.",
+      "There is a need to reduce per capita domestic water use by utilizing non-conventional water resources for non-potable purposes."
+    ],
+    "objectives": [
+      "Implement decentralized treatment systems to enable the reuse of greywater and rainwater for WC flushing and irrigation.",
+      "Change urban water management practices through innovative, sustainable, and low-cost treatment technologies.",
+      "Replace the use of potable water with good quality non-conventional water."
+    ],
+    "methods": [
+      "Use non-conventional water resources such as greywater and rainwater for non-potable purposes.",
+      "Implement decentralized treatment systems serving one or a few buildings.",
+      "Apply innovative, sustainable, and low-cost treatment technologies."
+    ],
+    "results": [
+      "Drastically reduce per capita domestic water use in Mediterranean countries.",
+      "Minimize the pollution of rivers and groundwater caused by urban water.",
+      "Improve the quality of non-conventional water for non-potable uses."
+    ],
+    "research_subject": "Nature-based solutions for domestic water reuse in Mediterranean countries"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Domestic water demand in Mediterranean countries is continuously growing due to improving lifestyles and increasing urban populations, requiring high-quality water resources.",
+      "Urban water remains a major source of pollution for rivers and groundwater, even after conventional treatment processes.",
+      "There is significant potential to reduce per capita domestic water consumption by utilizing non-conventional water resources for non-potable purposes."
+    ],
+    "objectives": [
+      "Transform urban water management practices through the implementation of innovative, sustainable, and low-cost decentralized treatment technologies.",
+      "Enable the reuse of greywater and rainwater for non-potable purposes such as toilet flushing and irrigation to reduce potable water consumption."
+    ],
+    "methods": [
+      "Develop and implement decentralized treatment systems serving individual or small groups of buildings.",
+      "Apply nature-based solutions and sustainable technologies for treating non-conventional water resources."
+    ],
+    "results": [
+      "Reduction in per capita domestic potable water consumption through the substitution with treated non-conventional water.",
+      "Decreased pollution of rivers and groundwater from urban water discharge.",
+      "Implementation of cost-effective and sustainable water management practices in Mediterranean urban areas."
+    ],
+    "research_subject": "Nature-based solutions for decentralized domestic water reuse in Mediterranean countries"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Domestic water use in Mediterranean countries demands high-quality water, yet contributes significantly to pollution of rivers and groundwater.\",\n    \"There is a growing need to reduce per capita domestic water use due to increasing urban population and improving lifestyles.\"\n  ],\n  \"objectives\": [\n    \"Implement innovative, sustainable, and low-cost treatment technologies for decentralized domestic water reuse.\",\n    \"Replace the use of potable water with non-conventional water resources for non-potable purposes.\"\n  ],\n  \"methods\": [\n    \"Develop and apply decentralized treatment systems for greywater and rainwater reuse.\",\n    \"Promote the use of non-conventional water resources for WC flushing and irrigation.\"\n  ],\n  \"results\": [\n    \"Significantly reduce per capita domestic water use in Mediterranean countries.\",\n    \"Decrease pollution of rivers and groundwater by utilizing non-conventional water resources.\"\n  ],\n  \"research_subject\": \"Decentralized domestic water reuse using nature-based solutions in Mediterranean countries\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"In Mediterranean countries, the demand for high-quality domestic water is growing due to improving lifestyles and increasing urban populations.\",\n    \"Urban water is a major cause of pollution in rivers and groundwater, even when treated before being discharged.\",\n    \"There is a need to reduce per capita domestic water use by utilizing non-conventional water resources for non-potable purposes.\"\n  ],\n  \"objectives\": [\n    \"Implement decentralized treatment systems to enable the reuse of greywater and rainwater for WC flushing and irrigation.\",\n    \"Change urban water management practices through innovative, sustainable, and low-cost treatment technologies.\",\n    \"Replace the use of potable water with good quality non-conventional water.\"\n  ],\n  \"methods\": [\n    \"Use non-conventional water resources such as greywater and rainwater for non-potable purposes.\",\n    \"Implement decentralized treatment systems serving one or a few buildings.\",\n    \"Apply innovative, sustainable, and low-cost treatment technologies.\"\n  ],\n  \"results\": [\n    \"Drastically reduce per capita domestic water use in Mediterranean countries.\",\n    \"Minimize the pollution of rivers and groundwater caused by urban water.\",\n    \"Improve the quality of non-conventional water for non-potable uses.\"\n  ],\n  \"research_subject\": \"Nature-based solutions for domestic water reuse in Mediterranean countries\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Domestic water demand in Mediterranean countries is continuously growing due to improving lifestyles and increasing urban populations, requiring high-quality water resources.\",\n    \"Urban water remains a major source of pollution for rivers and groundwater, even after conventional treatment processes.\",\n    \"There is significant potential to reduce per capita domestic water consumption by utilizing non-conventional water resources for non-potable purposes.\"\n  ],\n  \"objectives\": [\n    \"Transform urban water management practices through the implementation of innovative, sustainable, and low-cost decentralized treatment technologies.\",\n    \"Enable the reuse of greywater and rainwater for non-potable purposes such as toilet flushing and irrigation to reduce potable water consumption.\"\n  ],\n  \"methods\": [\n    \"Develop and implement decentralized treatment systems serving individual or small groups of buildings.\",\n    \"Apply nature-based solutions and sustainable technologies for treating non-conventional water resources.\"\n  ],\n  \"results\": [\n    \"Reduction in per capita domestic potable water consumption through the substitution with treated non-conventional water.\",\n    \"Decreased pollution of rivers and groundwater from urban water discharge.\",\n    \"Implementation of cost-effective and sustainable water management practices in Mediterranean urban areas.\"\n  ],\n  \"research_subject\": \"Nature-based solutions for decentralized domestic water reuse in Mediterranean countries\"\n}\n```"
+}

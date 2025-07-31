@@ -1,0 +1,76 @@
+{
+  "index": 128,
+  "title": "Raising eu productivity: lessons from improved micro data",
+  "abstract": "MICROPROD will examine the empirical observation that productivity growth in the developed world has slowed down in the past decade despite both technological innovation continuing as well as greater openness to trade. Our objective is to provide explanations to this puzzle, improving our understanding of productivity and its drivers in general as well as the way that we measure it. In bringing together top micro and macro-economists from highly reputable research institutions in both the academic and policy communities with experts from statistical agencies, MICROPROD will provide the building blocks for next generation economic policy thinking and attempts to answer the following four set of questions: 1) Do we measure productivity correctly? We will gather relevant data and improve the methodologies used to measure productivity. This will be done in a comparative European perspective and with the help of statistical authorities. 2) Do we understand all the mechanisms at work, from intangible investments to integrating into global value chains? We will increase our understanding of how these mechanisms lead to new methods of production, in the way that inputs are combined to produce outputs. 3) What are the combined effects of globalisation and technological change in terms of their distributional impacts? Newly available micro-level data will allow us to provide evidence on the channels through which globalisation and technological change interact with financial and labour market imperfections and impact on the distributions of productivity and income, with an analysis spanning both within and across countries. 4) Is the policy environment conducive to the new productivity environment? Are policies in place designed to support the new mechanisms at work and how can they be adapted in the EU context? We will examine how the general macroeconomic environment can ensure that demand meets supply and that there is adequate financing to promote investment and growth.",
+  "llama_json": {
+    "motivations": [
+      "Productivity growth in the developed world has slowed down despite technological innovation and increased openness to trade, creating a puzzle that needs to be addressed.",
+      "There is a need to improve the understanding and measurement of productivity and its drivers to inform next-generation economic policy thinking."
+    ],
+    "objectives": [
+      "Examine the empirical observation of slowed productivity growth and provide explanations for this phenomenon.",
+      "Improve the methodologies used to measure productivity and gather relevant data in a comparative European perspective.",
+      "Increase understanding of the mechanisms at work in productivity growth, including intangible investments and integration into global value chains."
+    ],
+    "methods": [
+      "Bring together top micro and macro-economists from research institutions and statistical agencies to provide a comprehensive analysis.",
+      "Gather and analyze micro-level data to provide evidence on the channels through which globalisation and technological change impact productivity and income distributions.",
+      "Examine the policy environment and its conduciveness to the new productivity environment, and identify areas for adaptation in the EU context."
+    ],
+    "results": [
+      "Provide explanations for the slowed productivity growth and improve understanding of productivity and its drivers.",
+      "Inform next-generation economic policy thinking and provide recommendations for adapting policies to support the new productivity environment.",
+      "Contribute to the development of more effective policies to promote investment, growth, and productivity in the EU."
+    ],
+    "research_subject": "Understanding and addressing the slowdown in productivity growth in the developed world"
+  },
+  "openai_json": {
+    "motivations": [
+      "Productivity growth in the developed world has slowed down in the past decade despite ongoing technological innovation and increased trade openness.",
+      "There is a need to improve understanding of productivity and its drivers, as well as the methodologies used to measure it."
+    ],
+    "objectives": [
+      "Provide explanations for the observed slowdown in productivity growth and improve understanding of productivity and its drivers.",
+      "Improve methodologies used to measure productivity in a comparative European perspective.",
+      "Understand the mechanisms at work, from intangible investments to integration into global value chains, and how they lead to new methods of production.",
+      "Examine the combined effects of globalization and technological change on the distributions of productivity and income.",
+      "Assess the policy environment and its suitability to the new productivity environment, and suggest adaptations in the EU context."
+    ],
+    "methods": [
+      "Gather relevant data and improve productivity measurement methodologies with the help of statistical authorities.",
+      "Use newly available micro-level data to analyze the channels through which globalization and technological change interact with financial and labour market imperfections.",
+      "Examine the general macroeconomic environment to ensure that demand meets supply and that there is adequate financing to promote investment and growth."
+    ],
+    "results": [
+      "Improved understanding and measurement of productivity and its drivers.",
+      "Insights into the mechanisms leading to new methods of production and the effects of globalization and technological change on productivity and income distributions.",
+      "Policy recommendations for supporting the new productivity environment in the EU."
+    ],
+    "research_subject": "Understanding and improving productivity in the EU"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Productivity growth in developed countries has slowed down over the past decade despite continued technological innovation and increased trade openness.",
+      "Current understanding and measurement of productivity may be inadequate to explain this paradox and guide effective policy responses."
+    ],
+    "objectives": [
+      "Improve the measurement methodologies and understanding of productivity and its drivers through comparative European analysis.",
+      "Examine the mechanisms through which intangible investments, global value chains, technological change, and globalization affect productivity and income distribution.",
+      "Assess whether current policy environments are conducive to the new productivity landscape and provide recommendations for EU policy adaptation."
+    ],
+    "methods": [
+      "Collaborate with statistical agencies to gather relevant micro-level data and develop improved productivity measurement methodologies.",
+      "Analyze the interactions between globalization, technological change, and market imperfections using newly available micro-economic data.",
+      "Conduct comparative analysis across European countries to understand productivity mechanisms and their distributional impacts."
+    ],
+    "results": [
+      "Provide improved methodologies for measuring productivity and understanding its drivers in the modern economy.",
+      "Generate evidence on how globalization and technological change impact productivity and income distributions within and across countries.",
+      "Deliver building blocks for next-generation economic policy thinking adapted to the new productivity environment in the EU context."
+    ],
+    "research_subject": "Productivity growth slowdown in developed economies and its measurement, drivers, and policy implications"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Productivity growth in the developed world has slowed down despite technological innovation and increased openness to trade, creating a puzzle that needs to be addressed.\",\n    \"There is a need to improve the understanding and measurement of productivity and its drivers to inform next-generation economic policy thinking.\"\n  ],\n  \"objectives\": [\n    \"Examine the empirical observation of slowed productivity growth and provide explanations for this phenomenon.\",\n    \"Improve the methodologies used to measure productivity and gather relevant data in a comparative European perspective.\",\n    \"Increase understanding of the mechanisms at work in productivity growth, including intangible investments and integration into global value chains.\"\n  ],\n  \"methods\": [\n    \"Bring together top micro and macro-economists from research institutions and statistical agencies to provide a comprehensive analysis.\",\n    \"Gather and analyze micro-level data to provide evidence on the channels through which globalisation and technological change impact productivity and income distributions.\",\n    \"Examine the policy environment and its conduciveness to the new productivity environment, and identify areas for adaptation in the EU context.\"\n  ],\n  \"results\": [\n    \"Provide explanations for the slowed productivity growth and improve understanding of productivity and its drivers.\",\n    \"Inform next-generation economic policy thinking and provide recommendations for adapting policies to support the new productivity environment.\",\n    \"Contribute to the development of more effective policies to promote investment, growth, and productivity in the EU.\"\n  ],\n  \"research_subject\": \"Understanding and addressing the slowdown in productivity growth in the developed world\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Productivity growth in the developed world has slowed down in the past decade despite ongoing technological innovation and increased trade openness.\",\n    \"There is a need to improve understanding of productivity and its drivers, as well as the methodologies used to measure it.\"\n  ],\n  \"objectives\": [\n    \"Provide explanations for the observed slowdown in productivity growth and improve understanding of productivity and its drivers.\",\n    \"Improve methodologies used to measure productivity in a comparative European perspective.\",\n    \"Understand the mechanisms at work, from intangible investments to integration into global value chains, and how they lead to new methods of production.\",\n    \"Examine the combined effects of globalization and technological change on the distributions of productivity and income.\",\n    \"Assess the policy environment and its suitability to the new productivity environment, and suggest adaptations in the EU context.\"\n  ],\n  \"methods\": [\n    \"Gather relevant data and improve productivity measurement methodologies with the help of statistical authorities.\",\n    \"Use newly available micro-level data to analyze the channels through which globalization and technological change interact with financial and labour market imperfections.\",\n    \"Examine the general macroeconomic environment to ensure that demand meets supply and that there is adequate financing to promote investment and growth.\"\n  ],\n  \"results\": [\n    \"Improved understanding and measurement of productivity and its drivers.\",\n    \"Insights into the mechanisms leading to new methods of production and the effects of globalization and technological change on productivity and income distributions.\",\n    \"Policy recommendations for supporting the new productivity environment in the EU.\"\n  ],\n  \"research_subject\": \"Understanding and improving productivity in the EU\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Productivity growth in developed countries has slowed down over the past decade despite continued technological innovation and increased trade openness.\",\n    \"Current understanding and measurement of productivity may be inadequate to explain this paradox and guide effective policy responses.\"\n  ],\n  \"objectives\": [\n    \"Improve the measurement methodologies and understanding of productivity and its drivers through comparative European analysis.\",\n    \"Examine the mechanisms through which intangible investments, global value chains, technological change, and globalization affect productivity and income distribution.\",\n    \"Assess whether current policy environments are conducive to the new productivity landscape and provide recommendations for EU policy adaptation.\"\n  ],\n  \"methods\": [\n    \"Collaborate with statistical agencies to gather relevant micro-level data and develop improved productivity measurement methodologies.\",\n    \"Analyze the interactions between globalization, technological change, and market imperfections using newly available micro-economic data.\",\n    \"Conduct comparative analysis across European countries to understand productivity mechanisms and their distributional impacts.\"\n  ],\n  \"results\": [\n    \"Provide improved methodologies for measuring productivity and understanding its drivers in the modern economy.\",\n    \"Generate evidence on how globalization and technological change impact productivity and income distributions within and across countries.\",\n    \"Deliver building blocks for next-generation economic policy thinking adapted to the new productivity environment in the EU context.\"\n  ],\n  \"research_subject\": \"Productivity growth slowdown in developed economies and its measurement, drivers, and policy implications\"\n}\n```"
+}

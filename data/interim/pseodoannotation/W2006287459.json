@@ -1,0 +1,69 @@
+{
+  "index": 404,
+  "title": "Treatment and outcome of stage Ia1 squamous cell carcinoma of the uterine cervix",
+  "abstract": "To evaluate the treatment and clinical outcome of patients with FIGO stage IA1 cervical squamous cell carcinoma (SCC).Medical records, including 5-year follow-up, were reviewed for 276 patients with stage IA1 SCC.As definitive surgery, 152 (55.1%), 72 (26.1%), 40 (14.5%), and 12 (4.3%) patients underwent conization, hysterectomy, hysterectomy with pelvic lymphadenectomy (PL), and radical hysterectomy with PL, respectively. Among these groups, the 5-year recurrence-free rate was 94.1%, 98.6%, 95%, and 100%, respectively, and the survival rate was 98.7%, 98.6%, 100%, and 100%, respectively. Recurrent disease was identified among 12 (4.3%) patients, and was related to the depth of invasion (P<0.001). Eleven (4.0%) of 276 patients were found to have lymph vascular space invasion (LVSI). There were no positive lymph nodes among 52 patients who underwent PL, including those with LVSI. Conization was followed by hysterectomy in 49 patients. In these patients, residual intraepithelial neoplasia was found in 18 women, 3 of whom had no involved margins on previous conization. In the group of patients treated by conization, recurrence correlated with the status of the endocervical and lateral cone margin (P<0.001).As a conservative approach, conization is an effective and reasonable treatment option for stage IA1 SCC, especially in actively reproductive women.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to evaluate the effectiveness of different treatment options for stage IA1 cervical squamous cell carcinoma (SCC).",
+      "The optimal treatment approach for stage IA1 SCC, particularly in relation to fertility preservation, is not well established."
+    ],
+    "objectives": [
+      "Assess the clinical outcomes of patients with stage IA1 SCC treated with different surgical approaches.",
+      "Determine the efficacy of conization as a conservative treatment option for stage IA1 SCC, especially in reproductive women."
+    ],
+    "methods": [
+      "Retrospective review of medical records, including 5-year follow-up, for patients with stage IA1 SCC.",
+      "Comparison of treatment outcomes among patients undergoing conization, hysterectomy, hysterectomy with pelvic lymphadenectomy, and radical hysterectomy with pelvic lymphadenectomy."
+    ],
+    "results": [
+      "Conization is an effective treatment option for stage IA1 SCC, with a 5-year recurrence-free rate of 94.1%.",
+      "The depth of invasion and lymph vascular space invasion are significant factors associated with recurrence.",
+      "Conization followed by hysterectomy may be necessary in cases with residual intraepithelial neoplasia or involved margins."
+    ],
+    "research_subject": "Treatment outcomes of stage IA1 squamous cell carcinoma of the uterine cervix"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the treatment and clinical outcomes of patients with FIGO stage IA1 cervical squamous cell carcinoma (SCC).",
+      "The effectiveness of different treatment options, including conization, hysterectomy, and pelvic lymphadenectomy, for stage IA1 SCC is not well established."
+    ],
+    "objectives": [
+      "Evaluate the treatment and clinical outcomes of patients with stage IA1 SCC over a 5-year follow-up period.",
+      "Assess the relationship between treatment type, recurrence rate, survival rate, and other clinical factors such as depth of invasion and lymph vascular space invasion."
+    ],
+    "methods": [
+      "Review medical records of 276 patients with stage IA1 SCC, including their 5-year follow-up data.",
+      "Analyze the outcomes of different treatment options, including conization, hysterectomy, and pelvic lymphadenectomy."
+    ],
+    "results": [
+      "Conization is an effective and reasonable treatment option for stage IA1 SCC, especially in actively reproductive women.",
+      "Recurrent disease was identified among 4.3% of patients and was related to the depth of invasion.",
+      "No positive lymph nodes were found among patients who underwent pelvic lymphadenectomy, including those with lymph vascular space invasion."
+    ],
+    "research_subject": "Treatment and outcome of stage Ia1 squamous cell carcinoma of the uterine cervix"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to evaluate optimal treatment strategies and clinical outcomes for patients with stage IA1 cervical squamous cell carcinoma.",
+      "Understanding the factors associated with recurrence in early-stage cervical cancer can improve treatment decision-making."
+    ],
+    "objectives": [
+      "Evaluate the treatment approaches and clinical outcomes of patients with FIGO stage IA1 cervical squamous cell carcinoma.",
+      "Identify factors associated with disease recurrence and survival rates in this patient population."
+    ],
+    "methods": [
+      "Retrospective review of medical records including 5-year follow-up data for patients with stage IA1 SCC.",
+      "Analysis of different surgical treatment approaches including conization, hysterectomy, and radical hysterectomy with lymphadenectomy.",
+      "Statistical evaluation of factors associated with recurrence and survival outcomes."
+    ],
+    "results": [
+      "Five-year recurrence-free rates ranged from 94.1% to 100% across different surgical approaches, with survival rates between 98.6% and 100%.",
+      "Recurrence was significantly associated with depth of invasion and cone margin status in conization patients.",
+      "Conization demonstrated effectiveness as a conservative treatment option, particularly suitable for women of reproductive age."
+    ],
+    "research_subject": "Treatment and outcomes of stage IA1 cervical squamous cell carcinoma"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to evaluate the effectiveness of different treatment options for stage IA1 cervical squamous cell carcinoma (SCC).\",\n    \"The optimal treatment approach for stage IA1 SCC, particularly in relation to fertility preservation, is not well established.\"\n  ],\n  \"objectives\": [\n    \"Assess the clinical outcomes of patients with stage IA1 SCC treated with different surgical approaches.\",\n    \"Determine the efficacy of conization as a conservative treatment option for stage IA1 SCC, especially in reproductive women.\"\n  ],\n  \"methods\": [\n    \"Retrospective review of medical records, including 5-year follow-up, for patients with stage IA1 SCC.\",\n    \"Comparison of treatment outcomes among patients undergoing conization, hysterectomy, hysterectomy with pelvic lymphadenectomy, and radical hysterectomy with pelvic lymphadenectomy.\"\n  ],\n  \"results\": [\n    \"Conization is an effective treatment option for stage IA1 SCC, with a 5-year recurrence-free rate of 94.1%.\",\n    \"The depth of invasion and lymph vascular space invasion are significant factors associated with recurrence.\",\n    \"Conization followed by hysterectomy may be necessary in cases with residual intraepithelial neoplasia or involved margins.\"\n  ],\n  \"research_subject\": \"Treatment outcomes of stage IA1 squamous cell carcinoma of the uterine cervix\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the treatment and clinical outcomes of patients with FIGO stage IA1 cervical squamous cell carcinoma (SCC).\",\n    \"The effectiveness of different treatment options, including conization, hysterectomy, and pelvic lymphadenectomy, for stage IA1 SCC is not well established.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the treatment and clinical outcomes of patients with stage IA1 SCC over a 5-year follow-up period.\",\n    \"Assess the relationship between treatment type, recurrence rate, survival rate, and other clinical factors such as depth of invasion and lymph vascular space invasion.\"\n  ],\n  \"methods\": [\n    \"Review medical records of 276 patients with stage IA1 SCC, including their 5-year follow-up data.\",\n    \"Analyze the outcomes of different treatment options, including conization, hysterectomy, and pelvic lymphadenectomy.\"\n  ],\n  \"results\": [\n    \"Conization is an effective and reasonable treatment option for stage IA1 SCC, especially in actively reproductive women.\",\n    \"Recurrent disease was identified among 4.3% of patients and was related to the depth of invasion.\",\n    \"No positive lymph nodes were found among patients who underwent pelvic lymphadenectomy, including those with lymph vascular space invasion.\"\n  ],\n  \"research_subject\": \"Treatment and outcome of stage Ia1 squamous cell carcinoma of the uterine cervix\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to evaluate optimal treatment strategies and clinical outcomes for patients with stage IA1 cervical squamous cell carcinoma.\",\n    \"Understanding the factors associated with recurrence in early-stage cervical cancer can improve treatment decision-making.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the treatment approaches and clinical outcomes of patients with FIGO stage IA1 cervical squamous cell carcinoma.\",\n    \"Identify factors associated with disease recurrence and survival rates in this patient population.\"\n  ],\n  \"methods\": [\n    \"Retrospective review of medical records including 5-year follow-up data for patients with stage IA1 SCC.\",\n    \"Analysis of different surgical treatment approaches including conization, hysterectomy, and radical hysterectomy with lymphadenectomy.\",\n    \"Statistical evaluation of factors associated with recurrence and survival outcomes.\"\n  ],\n  \"results\": [\n    \"Five-year recurrence-free rates ranged from 94.1% to 100% across different surgical approaches, with survival rates between 98.6% and 100%.\",\n    \"Recurrence was significantly associated with depth of invasion and cone margin status in conization patients.\",\n    \"Conization demonstrated effectiveness as a conservative treatment option, particularly suitable for women of reproductive age.\"\n  ],\n  \"research_subject\": \"Treatment and outcomes of stage IA1 cervical squamous cell carcinoma\"\n}\n```"
+}

@@ -1,0 +1,58 @@
+{
+  "index": 366,
+  "title": "Manifestações precoces da fibrose cística em paciente prematuro com íleo meconial complexo ao nascimento",
+  "abstract": "To report a case of a preterm infant with complex meconium ileus at birth and cystic fibrosis.A male infant was born by vaginal delivery at 33 weeks and 5 days of gestational age with respiratory distress and severe abdominal distension. The exploratory laparotomy in the first day of life identified meconium ileus and secondary peritonitis. Ileal resection and ileostomy were performed, followed by reconstruction of the bowel transit at 20 days of life. At 11 days of life, the first immunoreactive trypsinogen (IRT) was 154 ng/mL (reference value=70), and oral pancreatic enzymes replacement therapy was started. After 23 days, the second IRT was 172 ng/mL (reference value=70). At 35 days of age he was discharged with referrals to primary care and to a special clinic for CF for the determination of sweat chloride. He was received in the outpatient clinic for neonatal screening for CF at 65 days of life presenting malnutrition and respiratory distress. The sweat chloride test was performed, with a positive result (126mEq/L).This case illustrates the rapid evolution of CF in a premature patient with complex Meconium ileus as the first clinical manifestation.",
+  "llama_json": {
+    "motivations": [
+      "Cystic fibrosis (CF) can manifest early in life, particularly in premature infants, and requires prompt diagnosis and treatment.",
+      "Complex meconium ileus at birth can be an early indicator of CF, necessitating further investigation and management."
+    ],
+    "objectives": [
+      "Report a case of a preterm infant with complex meconium ileus at birth and cystic fibrosis, highlighting the importance of early diagnosis and intervention."
+    ],
+    "methods": [
+      "Conduct a case study of a preterm infant with complex meconium ileus, including surgical intervention, laboratory tests, and follow-up care.",
+      "Perform immunoreactive trypsinogen (IRT) tests and sweat chloride tests to confirm the diagnosis of cystic fibrosis."
+    ],
+    "results": [
+      "Early diagnosis and treatment of cystic fibrosis can significantly impact the patient's outcome and quality of life.",
+      "Complex meconium ileus at birth can be a presenting feature of cystic fibrosis in premature infants, emphasizing the need for prompt evaluation and management."
+    ],
+    "research_subject": "Early manifestation of cystic fibrosis in a premature infant with complex meconium ileus"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the early manifestations of cystic fibrosis in preterm infants with complex meconium ileus."
+    ],
+    "objectives": [
+      "To report a case of a preterm infant with complex meconium ileus at birth and cystic fibrosis."
+    ],
+    "methods": [
+      "The case study method was used, focusing on a preterm infant with complex meconium ileus and cystic fibrosis."
+    ],
+    "results": [
+      "The case study illustrates the rapid evolution of cystic fibrosis in a premature patient with complex Meconium ileus as the first clinical manifestation."
+    ],
+    "research_subject": "Early manifestations of cystic fibrosis in preterm infants with complex meconium ileus"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Early manifestations of cystic fibrosis in premature infants with complex meconium ileus are not well documented, creating challenges for timely diagnosis and treatment."
+    ],
+    "objectives": [
+      "Report and document a case of a preterm infant presenting with complex meconium ileus at birth who was subsequently diagnosed with cystic fibrosis."
+    ],
+    "methods": [
+      "Clinical case report documenting the patient's presentation, surgical interventions, diagnostic tests, and follow-up care.",
+      "Laboratory assessments including immunoreactive trypsinogen measurements and sweat chloride testing for cystic fibrosis diagnosis."
+    ],
+    "results": [
+      "The case demonstrated rapid progression of cystic fibrosis in a premature infant, with complex meconium ileus as the initial clinical manifestation.",
+      "Positive diagnosis of cystic fibrosis was confirmed through elevated immunoreactive trypsinogen levels and sweat chloride test."
+    ],
+    "research_subject": "Early manifestations of cystic fibrosis in a premature infant with complex meconium ileus"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Cystic fibrosis (CF) can manifest early in life, particularly in premature infants, and requires prompt diagnosis and treatment.\",\n    \"Complex meconium ileus at birth can be an early indicator of CF, necessitating further investigation and management.\"\n  ],\n  \"objectives\": [\n    \"Report a case of a preterm infant with complex meconium ileus at birth and cystic fibrosis, highlighting the importance of early diagnosis and intervention.\"\n  ],\n  \"methods\": [\n    \"Conduct a case study of a preterm infant with complex meconium ileus, including surgical intervention, laboratory tests, and follow-up care.\",\n    \"Perform immunoreactive trypsinogen (IRT) tests and sweat chloride tests to confirm the diagnosis of cystic fibrosis.\"\n  ],\n  \"results\": [\n    \"Early diagnosis and treatment of cystic fibrosis can significantly impact the patient's outcome and quality of life.\",\n    \"Complex meconium ileus at birth can be a presenting feature of cystic fibrosis in premature infants, emphasizing the need for prompt evaluation and management.\"\n  ],\n  \"research_subject\": \"Early manifestation of cystic fibrosis in a premature infant with complex meconium ileus\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the early manifestations of cystic fibrosis in preterm infants with complex meconium ileus.\"\n  ],\n  \"objectives\": [\n    \"To report a case of a preterm infant with complex meconium ileus at birth and cystic fibrosis.\"\n  ],\n  \"methods\": [\n    \"The case study method was used, focusing on a preterm infant with complex meconium ileus and cystic fibrosis.\"\n  ],\n  \"results\": [\n    \"The case study illustrates the rapid evolution of cystic fibrosis in a premature patient with complex Meconium ileus as the first clinical manifestation.\"\n  ],\n  \"research_subject\": \"Early manifestations of cystic fibrosis in preterm infants with complex meconium ileus\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Early manifestations of cystic fibrosis in premature infants with complex meconium ileus are not well documented, creating challenges for timely diagnosis and treatment.\"\n  ],\n  \"objectives\": [\n    \"Report and document a case of a preterm infant presenting with complex meconium ileus at birth who was subsequently diagnosed with cystic fibrosis.\"\n  ],\n  \"methods\": [\n    \"Clinical case report documenting the patient's presentation, surgical interventions, diagnostic tests, and follow-up care.\",\n    \"Laboratory assessments including immunoreactive trypsinogen measurements and sweat chloride testing for cystic fibrosis diagnosis.\"\n  ],\n  \"results\": [\n    \"The case demonstrated rapid progression of cystic fibrosis in a premature infant, with complex meconium ileus as the initial clinical manifestation.\",\n    \"Positive diagnosis of cystic fibrosis was confirmed through elevated immunoreactive trypsinogen levels and sweat chloride test.\"\n  ],\n  \"research_subject\": \"Early manifestations of cystic fibrosis in a premature infant with complex meconium ileus\"\n}\n```"
+}

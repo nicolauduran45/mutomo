@@ -1,0 +1,73 @@
+{
+  "index": 243,
+  "title": "Commercialisation of neuronal cell co-cultures",
+  "abstract": "Development of various human stem cell derived cell types will be carried out to see the completion of the FETOPEN MESO-BRAIN project. Based on immortal pluripotent stem cells (iPSCs), FETOPEN MESO-BRAIN will see the development of techniques for growth of a variety of neural cell types. This provides a unique opportunity for the creation of a marketable product stemming from already intended work. Co-cultured in vitro cell models have the capacity to retain neuronal maturity and functionality for long time periods. Such co-cultures, featuring only two or three different cell types have already been demonstrated as effective models for researching the mechanisms of conditions such as Alzheimer’s disease, indicating consistent and reproducible results. As such, complex and consistently reproducible ready-made co-cultures could be easily directed towards pharmaceutical and biotech companies seeking to use iPSC-derived cells as a basis for building cell-based assays and drug screening based on the validated cells. As the FETOPEN MESO-BRAIN project already intends to grow major neuronal cell types, complex, physiologically relevant 2D and 3D co-cultures featuring cortical neurones, astrocytes, interneurons and microglia can be developed within COMMER-CELL and made available for sale. Creation and mass-availability of a 4-cell-type co-culture in an easy-to-use and premade form could not only allow for improved research into CNS-affecting conditions and drug testing, but also expedite such research by circumventing the need for research institutions and industrial organisation to create their own time-consuming cell models.  The proposed COMMER-CELL project harnesses results from MESO-BRAIN to deliver concrete added value by raising the technological maturity of the cells to demonstrator level. The fulfilment of the proposition, based upon anticipated positive feedback from the market, will lead to the commercialisation of an innovation derived from FETOPEN MESO-BRAIN.",
+  "llama_json": {
+    "motivations": [
+      "Current methods for researching CNS-affecting conditions and drug testing are time-consuming and require institutions to create their own cell models.",
+      "There is a need for marketable, ready-made co-cultures that can retain neuronal maturity and functionality for long periods."
+    ],
+    "objectives": [
+      "Develop complex and consistently reproducible co-cultures featuring multiple neuronal cell types, including cortical neurones, astrocytes, interneurons, and microglia.",
+      "Commercialize the co-cultures as an easy-to-use and premade product for pharmaceutical and biotech companies.",
+      "Harness the results from the MESO-BRAIN project to deliver concrete added value by raising the technological maturity of the cells to demonstrator level."
+    ],
+    "methods": [
+      "Build on the development of human stem cell-derived cell types from the MESO-BRAIN project.",
+      "Create co-cultures featuring multiple neuronal cell types using immortal pluripotent stem cells (iPSCs).",
+      "Validate the co-cultures through testing and feedback from the market."
+    ],
+    "results": [
+      "Improve research into CNS-affecting conditions and drug testing by providing a readily available and reproducible co-culture model.",
+      "Expedite research by circumventing the need for institutions to create their own cell models.",
+      "Commercialize an innovation derived from the MESO-BRAIN project."
+    ],
+    "research_subject": "Commercialisation of neuronal cell co-cultures for research and drug testing"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for complex and consistently reproducible co-cultures for researching conditions like Alzheimer's disease and for drug testing.",
+      "Creating and making available ready-made co-cultures can expedite research by eliminating the need for research institutions and industrial organizations to create their own time-consuming cell models."
+    ],
+    "objectives": [
+      "Develop techniques for the growth of a variety of neural cell types using immortal pluripotent stem cells (iPSCs).",
+      "Create complex, physiologically relevant 2D and 3D co-cultures featuring cortical neurons, astrocytes, interneurons, and microglia.",
+      "Commercialize the developed co-cultures and make them available for sale to pharmaceutical and biotech companies."
+    ],
+    "methods": [
+      "Use iPSCs to develop various human stem cell-derived cell types.",
+      "Develop complex co-cultures featuring multiple neuronal cell types.",
+      "Leverage the results from the FETOPEN MESO-BRAIN project to raise the technological maturity of the cells to demonstrator level."
+    ],
+    "results": [
+      "Provide ready-made co-cultures for improved research into CNS-affecting conditions and drug testing.",
+      "Expedite research by providing pre-made cell models, eliminating the need for time-consuming cell model creation by research institutions and industrial organizations.",
+      "Commercialize the developed co-cultures, providing a marketable product for pharmaceutical and biotech companies."
+    ],
+    "research_subject": "Commercialization of neuronal cell co-cultures derived from human stem cells"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Complex and reproducible neuronal co-culture models are needed for pharmaceutical and biotech companies to develop effective cell-based assays and drug screening platforms.",
+      "Research institutions and industrial organizations currently face time-consuming processes in creating their own cell models for studying CNS-affecting conditions."
+    ],
+    "objectives": [
+      "Develop and commercialize ready-made, complex neuronal co-cultures featuring multiple cell types derived from human stem cells.",
+      "Create marketable 2D and 3D co-culture products that provide consistent and reproducible models for pharmaceutical research and drug testing."
+    ],
+    "methods": [
+      "Utilize immortal pluripotent stem cells (iPSCs) to develop various neural cell types including cortical neurons, astrocytes, interneurons, and microglia.",
+      "Create complex co-cultures featuring two to four different cell types in both 2D and 3D configurations.",
+      "Build upon techniques and results from the FETOPEN MESO-BRAIN project to raise technological maturity to demonstrator level."
+    ],
+    "results": [
+      "Enable improved research into CNS-affecting conditions through readily available, physiologically relevant neuronal co-culture models.",
+      "Expedite pharmaceutical research by eliminating the need for institutions to create their own time-consuming cell models.",
+      "Achieve commercialization of stem cell-derived neuronal co-cultures as a marketable innovation."
+    ],
+    "research_subject": "Commercialization of human stem cell-derived neuronal co-cultures for pharmaceutical research"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current methods for researching CNS-affecting conditions and drug testing are time-consuming and require institutions to create their own cell models.\",\n    \"There is a need for marketable, ready-made co-cultures that can retain neuronal maturity and functionality for long periods.\"\n  ],\n  \"objectives\": [\n    \"Develop complex and consistently reproducible co-cultures featuring multiple neuronal cell types, including cortical neurones, astrocytes, interneurons, and microglia.\",\n    \"Commercialize the co-cultures as an easy-to-use and premade product for pharmaceutical and biotech companies.\",\n    \"Harness the results from the MESO-BRAIN project to deliver concrete added value by raising the technological maturity of the cells to demonstrator level.\"\n  ],\n  \"methods\": [\n    \"Build on the development of human stem cell-derived cell types from the MESO-BRAIN project.\",\n    \"Create co-cultures featuring multiple neuronal cell types using immortal pluripotent stem cells (iPSCs).\",\n    \"Validate the co-cultures through testing and feedback from the market.\"\n  ],\n  \"results\": [\n    \"Improve research into CNS-affecting conditions and drug testing by providing a readily available and reproducible co-culture model.\",\n    \"Expedite research by circumventing the need for institutions to create their own cell models.\",\n    \"Commercialize an innovation derived from the MESO-BRAIN project.\"\n  ],\n  \"research_subject\": \"Commercialisation of neuronal cell co-cultures for research and drug testing\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for complex and consistently reproducible co-cultures for researching conditions like Alzheimer's disease and for drug testing.\",\n    \"Creating and making available ready-made co-cultures can expedite research by eliminating the need for research institutions and industrial organizations to create their own time-consuming cell models.\"\n  ],\n  \"objectives\": [\n    \"Develop techniques for the growth of a variety of neural cell types using immortal pluripotent stem cells (iPSCs).\",\n    \"Create complex, physiologically relevant 2D and 3D co-cultures featuring cortical neurons, astrocytes, interneurons, and microglia.\",\n    \"Commercialize the developed co-cultures and make them available for sale to pharmaceutical and biotech companies.\"\n  ],\n  \"methods\": [\n    \"Use iPSCs to develop various human stem cell-derived cell types.\",\n    \"Develop complex co-cultures featuring multiple neuronal cell types.\",\n    \"Leverage the results from the FETOPEN MESO-BRAIN project to raise the technological maturity of the cells to demonstrator level.\"\n  ],\n  \"results\": [\n    \"Provide ready-made co-cultures for improved research into CNS-affecting conditions and drug testing.\",\n    \"Expedite research by providing pre-made cell models, eliminating the need for time-consuming cell model creation by research institutions and industrial organizations.\",\n    \"Commercialize the developed co-cultures, providing a marketable product for pharmaceutical and biotech companies.\"\n  ],\n  \"research_subject\": \"Commercialization of neuronal cell co-cultures derived from human stem cells\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Complex and reproducible neuronal co-culture models are needed for pharmaceutical and biotech companies to develop effective cell-based assays and drug screening platforms.\",\n    \"Research institutions and industrial organizations currently face time-consuming processes in creating their own cell models for studying CNS-affecting conditions.\"\n  ],\n  \"objectives\": [\n    \"Develop and commercialize ready-made, complex neuronal co-cultures featuring multiple cell types derived from human stem cells.\",\n    \"Create marketable 2D and 3D co-culture products that provide consistent and reproducible models for pharmaceutical research and drug testing.\"\n  ],\n  \"methods\": [\n    \"Utilize immortal pluripotent stem cells (iPSCs) to develop various neural cell types including cortical neurons, astrocytes, interneurons, and microglia.\",\n    \"Create complex co-cultures featuring two to four different cell types in both 2D and 3D configurations.\",\n    \"Build upon techniques and results from the FETOPEN MESO-BRAIN project to raise technological maturity to demonstrator level.\"\n  ],\n  \"results\": [\n    \"Enable improved research into CNS-affecting conditions through readily available, physiologically relevant neuronal co-culture models.\",\n    \"Expedite pharmaceutical research by eliminating the need for institutions to create their own time-consuming cell models.\",\n    \"Achieve commercialization of stem cell-derived neuronal co-cultures as a marketable innovation.\"\n  ],\n  \"research_subject\": \"Commercialization of human stem cell-derived neuronal co-cultures for pharmaceutical research\"\n}\n```"
+}

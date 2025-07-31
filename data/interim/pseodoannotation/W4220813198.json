@@ -1,0 +1,56 @@
+{
+  "index": 347,
+  "title": "Rochas carbonatadas",
+  "abstract": "Calcários e mármores são rochas carbonatadas amplamente utilizadas no património construído Português e que se caracterizam por possuírem composição química e mineralógica similares apesar de apresentarem texturas e propriedades diversas. O presente artigo aborda este recurso mineral do ponto de vista da sua utilização como material de construção em bens de elevado valor cultural e foca dois casos com relevância histórica no panorama nacional: o mármore de Trigaches que aflora perto de Beja, no Baixo-Alentejo e a Pedra de Ançã outrora explorada em Cantanhede, Coimbra.",
+  "llama_json": {
+    "motivations": [
+      "Rochas carbonatadas, such as calcários and mármores, are widely used in Portuguese built heritage, but their properties and behaviors are not well understood."
+    ],
+    "objectives": [
+      "Characterize the composition, properties, and uses of rochas carbonatadas as construction materials in culturally significant buildings."
+    ],
+    "methods": [
+      "Analyze the chemical and mineralogical composition of calcários and mármores.",
+      "Examine the textures and properties of these rocks."
+    ],
+    "results": [
+      "Provide a better understanding of the properties and behaviors of rochas carbonatadas as construction materials."
+    ],
+    "research_subject": "Characterization and use of rochas carbonatadas in Portuguese built heritage"
+  },
+  "openai_json": {
+    "motivations": [
+      "Calcários e mármores, rochas carbonatadas, are widely used in Portuguese built heritage, but they have diverse textures and properties despite similar chemical and mineralogical composition.",
+      "There is a need to understand these rocks from the perspective of their use as construction material in high cultural value goods."
+    ],
+    "objectives": [
+      "Examine the use of calcários and mármores as construction materials in high cultural value goods.",
+      "Focus on two historically relevant cases: the mármore de Trigaches near Beja, in Baixo-Alentejo, and the Pedra de Ançã formerly explored in Cantanhede, Coimbra."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Study of the use of calcários and mármores, rochas carbonatadas, in Portuguese built heritage"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Carbonate rocks such as limestones and marbles are widely used in Portuguese built heritage and require better understanding of their properties and applications.",
+      "There is a need to document and study historically significant carbonate rocks used in culturally valuable construction materials in Portugal."
+    ],
+    "objectives": [
+      "Analyze carbonate rocks from the perspective of their use as construction materials in culturally significant buildings.",
+      "Study two historically relevant cases in Portugal: Trigaches marble from Beja and Ançã Stone from Cantanhede."
+    ],
+    "methods": [
+      "Examine the chemical and mineralogical composition of carbonate rocks and their diverse textures and properties.",
+      "Conduct case studies focusing on Trigaches marble and Ançã Stone as construction materials."
+    ],
+    "results": [
+      "Provide insights into the characteristics and historical significance of Portuguese carbonate rocks used in heritage construction.",
+      "Document the properties and applications of Trigaches marble and Ançã Stone in Portuguese cultural heritage."
+    ],
+    "research_subject": "Carbonate rocks as construction materials in Portuguese cultural heritage"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Rochas carbonatadas, such as calcários and mármores, are widely used in Portuguese built heritage, but their properties and behaviors are not well understood.\"\n  ],\n  \"objectives\": [\n    \"Characterize the composition, properties, and uses of rochas carbonatadas as construction materials in culturally significant buildings.\"\n  ],\n  \"methods\": [\n    \"Analyze the chemical and mineralogical composition of calcários and mármores.\",\n    \"Examine the textures and properties of these rocks.\"\n  ],\n  \"results\": [\n    \"Provide a better understanding of the properties and behaviors of rochas carbonatadas as construction materials.\"\n  ],\n  \"research_subject\": \"Characterization and use of rochas carbonatadas in Portuguese built heritage\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Calcários e mármores, rochas carbonatadas, are widely used in Portuguese built heritage, but they have diverse textures and properties despite similar chemical and mineralogical composition.\",\n    \"There is a need to understand these rocks from the perspective of their use as construction material in high cultural value goods.\"\n  ],\n  \"objectives\": [\n    \"Examine the use of calcários and mármores as construction materials in high cultural value goods.\",\n    \"Focus on two historically relevant cases: the mármore de Trigaches near Beja, in Baixo-Alentejo, and the Pedra de Ançã formerly explored in Cantanhede, Coimbra.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Study of the use of calcários and mármores, rochas carbonatadas, in Portuguese built heritage\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Carbonate rocks such as limestones and marbles are widely used in Portuguese built heritage and require better understanding of their properties and applications.\",\n    \"There is a need to document and study historically significant carbonate rocks used in culturally valuable construction materials in Portugal.\"\n  ],\n  \"objectives\": [\n    \"Analyze carbonate rocks from the perspective of their use as construction materials in culturally significant buildings.\",\n    \"Study two historically relevant cases in Portugal: Trigaches marble from Beja and Ançã Stone from Cantanhede.\"\n  ],\n  \"methods\": [\n    \"Examine the chemical and mineralogical composition of carbonate rocks and their diverse textures and properties.\",\n    \"Conduct case studies focusing on Trigaches marble and Ançã Stone as construction materials.\"\n  ],\n  \"results\": [\n    \"Provide insights into the characteristics and historical significance of Portuguese carbonate rocks used in heritage construction.\",\n    \"Document the properties and applications of Trigaches marble and Ançã Stone in Portuguese cultural heritage.\"\n  ],\n  \"research_subject\": \"Carbonate rocks as construction materials in Portuguese cultural heritage\"\n}\n```"
+}

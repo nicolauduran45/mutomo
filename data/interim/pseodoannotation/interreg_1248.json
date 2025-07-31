@@ -1,0 +1,76 @@
+{
+  "index": 294,
+  "title": "Green management plans for European urban and peri-urban Landscapes",
+  "abstract": "EUROSCAPES is a shared vision of 14 partners coming from 13 EU Member States on the necessity to tackle natural and cultural landscapes' management issues in urban and peri-urban areas at an interregional level and in a sustainable way. In dense and contrasting urban environments, tackling the concept of landscapes and its related issues will prevent their loss of specificity and identity, and help to make best use of these areas. In urban and peri-urban areas facing demographic changes, climate change issues, increasing economic constraints, environmental challenges… exchanges of good practices and expertise will help regional and local authorities to be more efficient in protecting, maintaining and enhancing their natural and cultural landscapes in a sustainable way. Partners of EUROSCAPES have the ambitious objective of offering a new management model for these landscapes, as a milestone policy instrument to implement the European Landscape Convention treaty objectives. Partners of the project have identified complementarities in their tools, practices and policy instruments to deal with landscape management. They will refine these complementarities, exchange and transfer good practices with a scientific support and use these good practices to feed the Landscapes Management Plan (LMP) they will develop: new approach meabt to become a real public policy at the regional/local level. These LMP are based on an environmental, quality and economical approach in the maintenance and management of our natural and cultural landscapes. They will integrate important education and sensitization dimensions and take into account the territorial strategy, urban master plans etc. The Project will produce a Handbook of good practices and a Policy recommendation paper on the LMP approach as main outputs. The main results of the project will be improved local/regional landscapes management practices & policy instruments and a more sustainable living environment. The project rests on three main innovative aspects. The areas concerned – natural and cultural landscapes in urban and peri-urban areas (green spaces like gardens, parks, squares… but also paths, riversides, deprived landscapes etc.) – are not well taken into account in planning and protecting instruments today and not in a coherent and sustainable way. Secondly the approach is based on a global strategic plan using the differentiated management methodology (to be environmentally responsible, different kinds of management are defined for different kinds of landscapes identified based on their use and quality). Thirdly partners have all committed to jointly develop a Landscapes Management Plan, as a new model of sustainable and integrated management strategy, which will be based on the good practices analysed and exchanged.",
+  "llama_json": {
+    "motivations": [
+      "Urban and peri-urban landscapes in Europe face management issues due to demographic changes, climate change, economic constraints, and environmental challenges.",
+      "Current planning and protection instruments do not adequately address the needs of natural and cultural landscapes in a coherent and sustainable way."
+    ],
+    "objectives": [
+      "Develop a new management model for urban and peri-urban landscapes that implements the European Landscape Convention treaty objectives.",
+      "Improve local and regional landscape management practices and policy instruments through the exchange of good practices and expertise.",
+      "Create a more sustainable living environment by integrating environmental, quality, and economic approaches in landscape management."
+    ],
+    "methods": [
+      "Refine and exchange good practices in landscape management among partners with scientific support.",
+      "Develop a Landscapes Management Plan (LMP) that incorporates a differentiated management methodology and integrates education and sensitization dimensions.",
+      "Produce a Handbook of good practices and a Policy recommendation paper on the LMP approach."
+    ],
+    "results": [
+      "Improved local and regional landscape management practices and policy instruments.",
+      "A more sustainable living environment through the adoption of environmentally responsible management strategies.",
+      "A new model of sustainable and integrated management strategy for urban and peri-urban landscapes."
+    ],
+    "research_subject": "Sustainable management of European urban and peri-urban landscapes"
+  },
+  "openai_json": {
+    "motivations": [
+      "Urban and peri-urban landscapes face challenges related to demographic changes, climate change, economic constraints, and environmental issues, leading to a loss of specificity and identity.",
+      "There is a need for efficient and sustainable management of natural and cultural landscapes in urban and peri-urban areas.",
+      "Current planning and protection instruments do not adequately address the needs of these landscapes."
+    ],
+    "objectives": [
+      "Develop a new management model for urban and peri-urban landscapes, in line with the European Landscape Convention treaty objectives.",
+      "Refine, exchange, and transfer good practices in landscape management with scientific support.",
+      "Develop a Landscapes Management Plan (LMP) that integrates environmental, quality, and economic approaches, as well as education and sensitization dimensions."
+    ],
+    "methods": [
+      "Collaborate with partners from 13 EU Member States to share visions, tools, practices, and policy instruments for landscape management.",
+      "Use a differentiated management methodology to define different kinds of management for different kinds of landscapes based on their use and quality.",
+      "Produce a Handbook of good practices and a Policy recommendation paper on the LMP approach."
+    ],
+    "results": [
+      "Improved local/regional landscapes management practices and policy instruments.",
+      "A more sustainable living environment in urban and peri-urban areas.",
+      "A new model of sustainable and integrated management strategy for landscapes."
+    ],
+    "research_subject": "Sustainable management of urban and peri-urban landscapes in the European Union"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Urban and peri-urban landscapes face loss of specificity and identity due to demographic changes, climate change, and environmental challenges.",
+      "Current planning and protection instruments inadequately address natural and cultural landscapes in urban areas in a coherent and sustainable manner.",
+      "Regional and local authorities need more efficient approaches to protect, maintain, and enhance their landscapes while facing increasing economic constraints."
+    ],
+    "objectives": [
+      "Develop a new Landscape Management Plan model as a policy instrument to implement the European Landscape Convention objectives.",
+      "Exchange and transfer good practices among 14 partners from 13 EU Member States to improve landscape management in urban and peri-urban areas.",
+      "Create sustainable management strategies that integrate environmental, quality, and economic approaches with education and sensitization dimensions."
+    ],
+    "methods": [
+      "Apply differentiated management methodology that defines specific management approaches for different landscape types based on their use and quality.",
+      "Collaborate with scientific support to refine complementarities in tools, practices, and policy instruments across partner regions.",
+      "Develop a comprehensive approach addressing various urban green spaces including gardens, parks, riversides, and deprived landscapes."
+    ],
+    "results": [
+      "Production of a Handbook of good practices and Policy recommendation paper on the Landscape Management Plan approach.",
+      "Improved local and regional landscape management practices and policy instruments leading to more sustainable living environments.",
+      "Implementation of a new integrated management model that prevents loss of landscape identity while optimizing area utilization."
+    ],
+    "research_subject": "Sustainable management of natural and cultural landscapes in European urban and peri-urban areas"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Urban and peri-urban landscapes in Europe face management issues due to demographic changes, climate change, economic constraints, and environmental challenges.\",\n    \"Current planning and protection instruments do not adequately address the needs of natural and cultural landscapes in a coherent and sustainable way.\"\n  ],\n  \"objectives\": [\n    \"Develop a new management model for urban and peri-urban landscapes that implements the European Landscape Convention treaty objectives.\",\n    \"Improve local and regional landscape management practices and policy instruments through the exchange of good practices and expertise.\",\n    \"Create a more sustainable living environment by integrating environmental, quality, and economic approaches in landscape management.\"\n  ],\n  \"methods\": [\n    \"Refine and exchange good practices in landscape management among partners with scientific support.\",\n    \"Develop a Landscapes Management Plan (LMP) that incorporates a differentiated management methodology and integrates education and sensitization dimensions.\",\n    \"Produce a Handbook of good practices and a Policy recommendation paper on the LMP approach.\"\n  ],\n  \"results\": [\n    \"Improved local and regional landscape management practices and policy instruments.\",\n    \"A more sustainable living environment through the adoption of environmentally responsible management strategies.\",\n    \"A new model of sustainable and integrated management strategy for urban and peri-urban landscapes.\"\n  ],\n  \"research_subject\": \"Sustainable management of European urban and peri-urban landscapes\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Urban and peri-urban landscapes face challenges related to demographic changes, climate change, economic constraints, and environmental issues, leading to a loss of specificity and identity.\",\n    \"There is a need for efficient and sustainable management of natural and cultural landscapes in urban and peri-urban areas.\",\n    \"Current planning and protection instruments do not adequately address the needs of these landscapes.\"\n  ],\n  \"objectives\": [\n    \"Develop a new management model for urban and peri-urban landscapes, in line with the European Landscape Convention treaty objectives.\",\n    \"Refine, exchange, and transfer good practices in landscape management with scientific support.\",\n    \"Develop a Landscapes Management Plan (LMP) that integrates environmental, quality, and economic approaches, as well as education and sensitization dimensions.\"\n  ],\n  \"methods\": [\n    \"Collaborate with partners from 13 EU Member States to share visions, tools, practices, and policy instruments for landscape management.\",\n    \"Use a differentiated management methodology to define different kinds of management for different kinds of landscapes based on their use and quality.\",\n    \"Produce a Handbook of good practices and a Policy recommendation paper on the LMP approach.\"\n  ],\n  \"results\": [\n    \"Improved local/regional landscapes management practices and policy instruments.\",\n    \"A more sustainable living environment in urban and peri-urban areas.\",\n    \"A new model of sustainable and integrated management strategy for landscapes.\"\n  ],\n  \"research_subject\": \"Sustainable management of urban and peri-urban landscapes in the European Union\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Urban and peri-urban landscapes face loss of specificity and identity due to demographic changes, climate change, and environmental challenges.\",\n    \"Current planning and protection instruments inadequately address natural and cultural landscapes in urban areas in a coherent and sustainable manner.\",\n    \"Regional and local authorities need more efficient approaches to protect, maintain, and enhance their landscapes while facing increasing economic constraints.\"\n  ],\n  \"objectives\": [\n    \"Develop a new Landscape Management Plan model as a policy instrument to implement the European Landscape Convention objectives.\",\n    \"Exchange and transfer good practices among 14 partners from 13 EU Member States to improve landscape management in urban and peri-urban areas.\",\n    \"Create sustainable management strategies that integrate environmental, quality, and economic approaches with education and sensitization dimensions.\"\n  ],\n  \"methods\": [\n    \"Apply differentiated management methodology that defines specific management approaches for different landscape types based on their use and quality.\",\n    \"Collaborate with scientific support to refine complementarities in tools, practices, and policy instruments across partner regions.\",\n    \"Develop a comprehensive approach addressing various urban green spaces including gardens, parks, riversides, and deprived landscapes.\"\n  ],\n  \"results\": [\n    \"Production of a Handbook of good practices and Policy recommendation paper on the Landscape Management Plan approach.\",\n    \"Improved local and regional landscape management practices and policy instruments leading to more sustainable living environments.\",\n    \"Implementation of a new integrated management model that prevents loss of landscape identity while optimizing area utilization.\"\n  ],\n  \"research_subject\": \"Sustainable management of natural and cultural landscapes in European urban and peri-urban areas\"\n}\n```"
+}

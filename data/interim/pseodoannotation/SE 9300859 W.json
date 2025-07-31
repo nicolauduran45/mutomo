@@ -1,0 +1,63 @@
+{
+  "index": 496,
+  "title": "REGULATING VALVE",
+  "abstract": "Thermomechanical regulating valve comprising a valve housing (4) provided with a first and second fluid inlet (10; 12) and a fluid outlet (14), with a chamber (6) which is connected to the inlets and outlet, in which chamber a valve closing body (8) is displaceably arranged for regulating the connection between the inlets and outlet. For comparing the temperatures of the fluid flows fed to the chamber (6) via the inlets, a temperature sensing adjusting device (16; 18) is inserted in each inlet, with a motion transmitting element (20; 22) articulated to the valve closing body, the movement of which elements, caused by the respective adjusting devices, gives rise to displacement and rotation of the valve closing body in the chamber to a position in contact with a seat, in which position the respective inlet is closed.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a thermomechanical regulating valve that can effectively compare the temperatures of fluid flows and regulate the connection between inlets and outlets."
+    ],
+    "objectives": [
+      "Design a thermomechanical regulating valve that can accurately compare temperatures of fluid flows and adjust the valve closing body accordingly."
+    ],
+    "methods": [
+      "Utilize temperature sensing adjusting devices in each inlet to compare temperatures of fluid flows.",
+      "Employ motion transmitting elements articulated to the valve closing body to facilitate displacement and rotation of the valve closing body."
+    ],
+    "results": [
+      "Achieve precise regulation of the connection between inlets and outlets based on temperature differences.",
+      "Enable efficient control of fluid flows through the valve."
+    ],
+    "research_subject": "Thermomechanical regulating valve for temperature-based fluid flow control"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a valve that can regulate the connection between fluid inlets and outlets based on the comparison of fluid temperatures."
+    ],
+    "objectives": [
+      "Design a thermomechanical regulating valve with a displaceable valve closing body to regulate the connection between fluid inlets and outlets.",
+      "Incorporate a temperature sensing adjusting device in each inlet to compare the temperatures of the fluid flows."
+    ],
+    "methods": [
+      "Use a valve housing with a chamber connected to the inlets and outlet, where a displaceable valve closing body is arranged.",
+      "Insert a temperature sensing adjusting device in each inlet, which is articulated to the valve closing body, causing its displacement and rotation."
+    ],
+    "results": [
+      "Achieve regulation of fluid flow based on temperature comparison, leading to displacement and rotation of the valve closing body to a position where the respective inlet is closed."
+    ],
+    "research_subject": "Design and operation of a thermomechanical regulating valve"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for precise temperature-based flow control in fluid systems to maintain optimal operating conditions.",
+      "Existing valve systems lack effective mechanisms for comparing and responding to temperature differences between multiple fluid inputs."
+    ],
+    "objectives": [
+      "Develop a thermomechanical regulating valve that can automatically adjust fluid flow based on temperature differences between multiple inlets.",
+      "Create a valve mechanism that can selectively close specific inlets based on temperature sensing to regulate fluid mixing and flow."
+    ],
+    "methods": [
+      "Integrate temperature sensing adjusting devices in each fluid inlet to monitor temperature variations.",
+      "Employ motion transmitting elements connected to a displaceable valve closing body that responds to temperature changes.",
+      "Design a valve chamber system where the closing body can rotate and displace to selectively block inlets based on temperature readings."
+    ],
+    "results": [
+      "Enable automatic regulation of fluid flow based on real-time temperature comparison between multiple inlet streams.",
+      "Achieve selective inlet closure through temperature-driven mechanical displacement of the valve closing body.",
+      "Provide improved control over fluid mixing and temperature regulation in multi-inlet valve systems."
+    ],
+    "research_subject": "Thermomechanical regulating valve with temperature-based flow control"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a thermomechanical regulating valve that can effectively compare the temperatures of fluid flows and regulate the connection between inlets and outlets.\"\n  ],\n  \"objectives\": [\n    \"Design a thermomechanical regulating valve that can accurately compare temperatures of fluid flows and adjust the valve closing body accordingly.\"\n  ],\n  \"methods\": [\n    \"Utilize temperature sensing adjusting devices in each inlet to compare temperatures of fluid flows.\",\n    \"Employ motion transmitting elements articulated to the valve closing body to facilitate displacement and rotation of the valve closing body.\"\n  ],\n  \"results\": [\n    \"Achieve precise regulation of the connection between inlets and outlets based on temperature differences.\",\n    \"Enable efficient control of fluid flows through the valve.\"\n  ],\n  \"research_subject\": \"Thermomechanical regulating valve for temperature-based fluid flow control\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a valve that can regulate the connection between fluid inlets and outlets based on the comparison of fluid temperatures.\"\n  ],\n  \"objectives\": [\n    \"Design a thermomechanical regulating valve with a displaceable valve closing body to regulate the connection between fluid inlets and outlets.\",\n    \"Incorporate a temperature sensing adjusting device in each inlet to compare the temperatures of the fluid flows.\"\n  ],\n  \"methods\": [\n    \"Use a valve housing with a chamber connected to the inlets and outlet, where a displaceable valve closing body is arranged.\",\n    \"Insert a temperature sensing adjusting device in each inlet, which is articulated to the valve closing body, causing its displacement and rotation.\"\n  ],\n  \"results\": [\n    \"Achieve regulation of fluid flow based on temperature comparison, leading to displacement and rotation of the valve closing body to a position where the respective inlet is closed.\"\n  ],\n  \"research_subject\": \"Design and operation of a thermomechanical regulating valve\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for precise temperature-based flow control in fluid systems to maintain optimal operating conditions.\",\n    \"Existing valve systems lack effective mechanisms for comparing and responding to temperature differences between multiple fluid inputs.\"\n  ],\n  \"objectives\": [\n    \"Develop a thermomechanical regulating valve that can automatically adjust fluid flow based on temperature differences between multiple inlets.\",\n    \"Create a valve mechanism that can selectively close specific inlets based on temperature sensing to regulate fluid mixing and flow.\"\n  ],\n  \"methods\": [\n    \"Integrate temperature sensing adjusting devices in each fluid inlet to monitor temperature variations.\",\n    \"Employ motion transmitting elements connected to a displaceable valve closing body that responds to temperature changes.\",\n    \"Design a valve chamber system where the closing body can rotate and displace to selectively block inlets based on temperature readings.\"\n  ],\n  \"results\": [\n    \"Enable automatic regulation of fluid flow based on real-time temperature comparison between multiple inlet streams.\",\n    \"Achieve selective inlet closure through temperature-driven mechanical displacement of the valve closing body.\",\n    \"Provide improved control over fluid mixing and temperature regulation in multi-inlet valve systems.\"\n  ],\n  \"research_subject\": \"Thermomechanical regulating valve with temperature-based flow control\"\n}\n```"
+}

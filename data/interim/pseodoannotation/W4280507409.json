@@ -1,0 +1,61 @@
+{
+  "index": 162,
+  "title": "Avaliação da bioequivalência entre duas formulações de rivaroxabana – 20 mg comprimido revestido – administradas em jejum e pós-prandial em voluntários sadios",
+  "abstract": "Objetivo: O objetivo deste trabalho foi avaliar a bioequivalência entre duas formulações de rivaroxabana 20 mg comprimido revestido, sendo a formulação teste produzida por Sanofi Medley, Brasil e a formulação referência (Xarelto®) comercializada por Bayer S/A. Métodos: Os estudos foram conduzidos em voluntários sadios de ambos os sexos e as formulações foram administradas em dose única, sob o estado de jejum e pós-prandial. Cada estudo foi conduzido de maneira independente, sendo ambos do tipo aberto, randomizado e com intervalo (washout) de sete dias entre os períodos. O estudo em jejum foi realizado em quatro períodos, com 48 voluntários, enquanto o pós-prandial foi realizado em dois períodos, com 36 voluntários. Resultados: Na administração em jejum, a razão entre a média geométrica da formulação teste e referência (T/R) de Cmáx foi de 100,77%, com intervalo de confiança de 90% (IC 90%) de 94,24% a 107,76%. Para ASC0-t, a razão T/R foi de 100,65%, com IC 90% de 96,13% a 105,39%. Na administração pós-prandial, a razão T/R de Cmáx foi de 110,63%, com IC 90% de 102,39% a 119,54%. Para ASC0-t, a razão T/R foi de 104,65%, com IC 90% de 98,44% a 109,12%. Conclusões: As formulações teste e referência foram consideradas estatisticamente bioequivalentes em ambas as condições de administração, de acordo com os critérios exigidos pela Agência Nacional de Vigilância Sanitária (Anvisa). A formulação teste foi registrada na Anvisa e disponibilizada para comercialização, contribuindo, assim, para a ampliação da disponibilidade do tratamento para doenças tromboembólicas e para a redução de custos ao paciente e ao Sistema Único de Saúde.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to evaluate the bioequivalence of different formulations of rivaroxaban to ensure their efficacy and safety in treating thromboembolic diseases.",
+      "The availability of more affordable and bioequivalent formulations can contribute to reducing healthcare costs and increasing access to treatment."
+    ],
+    "objectives": [
+      "Evaluate the bioequivalence between two formulations of rivaroxaban 20 mg coated tablets, one produced by Sanofi Medley and the other being the reference formulation Xarelto.",
+      "Assess the bioequivalence of the two formulations under fasting and postprandial conditions in healthy volunteers."
+    ],
+    "methods": [
+      "Conduct open-label, randomized studies with healthy volunteers of both sexes, administering single doses of the test and reference formulations under fasting and postprandial conditions.",
+      "Use a washout period of seven days between study periods and evaluate the pharmacokinetic parameters Cmax and AUC0-t."
+    ],
+    "results": [
+      "The test and reference formulations were found to be statistically bioequivalent under both fasting and postprandial conditions, meeting the criteria set by the Brazilian National Health Surveillance Agency (Anvisa).",
+      "The bioequivalence of the test formulation allows for its registration and commercialization, increasing the availability of treatment options for thromboembolic diseases and reducing costs for patients and the healthcare system."
+    ],
+    "research_subject": "Bioequivalence evaluation of rivaroxaban formulations"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to evaluate the bioequivalence of two formulations of rivaroxaban 20 mg coated tablet, one being the test formulation produced by Sanofi Medley, Brazil and the other being the reference formulation (Xarelto®) marketed by Bayer S/A."
+    ],
+    "objectives": [
+      "The objective of this work was to assess the bioequivalence between the test and reference formulations of rivaroxaban 20 mg coated tablet, under fasting and postprandial states."
+    ],
+    "methods": [
+      "The studies were conducted on healthy volunteers of both sexes, with the formulations administered in a single dose, under fasting and postprandial states.",
+      "Each study was conducted independently, both being open, randomized, and with a seven-day washout interval between periods."
+    ],
+    "results": [
+      "The test and reference formulations were considered statistically bioequivalent in both administration conditions, according to the criteria required by the National Health Surveillance Agency (Anvisa).",
+      "The test formulation was registered with Anvisa and made available for marketing, thus contributing to the expansion of treatment availability for thromboembolic diseases and to the reduction of costs to the patient and the Unified Health System."
+    ],
+    "research_subject": "Bioequivalence evaluation between two formulations of rivaroxaban 20 mg coated tablet"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to expand the availability of rivaroxaban treatment for thromboembolic diseases while reducing costs for patients and the public health system."
+    ],
+    "objectives": [
+      "Evaluate the bioequivalence between two formulations of rivaroxaban 20 mg coated tablets under fasting and fed conditions."
+    ],
+    "methods": [
+      "Conduct open-label, randomized studies with healthy volunteers of both sexes receiving single doses of test and reference formulations.",
+      "Perform independent studies under fasting and fed conditions with a seven-day washout period between administrations."
+    ],
+    "results": [
+      "Both formulations were statistically bioequivalent under fasting and fed conditions according to regulatory criteria.",
+      "The test formulation was registered and made available for commercialization, expanding treatment availability and reducing healthcare costs."
+    ],
+    "research_subject": "Bioequivalence assessment of rivaroxaban 20 mg tablet formulations"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to evaluate the bioequivalence of different formulations of rivaroxaban to ensure their efficacy and safety in treating thromboembolic diseases.\",\n    \"The availability of more affordable and bioequivalent formulations can contribute to reducing healthcare costs and increasing access to treatment.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the bioequivalence between two formulations of rivaroxaban 20 mg coated tablets, one produced by Sanofi Medley and the other being the reference formulation Xarelto.\",\n    \"Assess the bioequivalence of the two formulations under fasting and postprandial conditions in healthy volunteers.\"\n  ],\n  \"methods\": [\n    \"Conduct open-label, randomized studies with healthy volunteers of both sexes, administering single doses of the test and reference formulations under fasting and postprandial conditions.\",\n    \"Use a washout period of seven days between study periods and evaluate the pharmacokinetic parameters Cmax and AUC0-t.\"\n  ],\n  \"results\": [\n    \"The test and reference formulations were found to be statistically bioequivalent under both fasting and postprandial conditions, meeting the criteria set by the Brazilian National Health Surveillance Agency (Anvisa).\",\n    \"The bioequivalence of the test formulation allows for its registration and commercialization, increasing the availability of treatment options for thromboembolic diseases and reducing costs for patients and the healthcare system.\"\n  ],\n  \"research_subject\": \"Bioequivalence evaluation of rivaroxaban formulations\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to evaluate the bioequivalence of two formulations of rivaroxaban 20 mg coated tablet, one being the test formulation produced by Sanofi Medley, Brazil and the other being the reference formulation (Xarelto®) marketed by Bayer S/A.\"\n  ],\n  \"objectives\": [\n    \"The objective of this work was to assess the bioequivalence between the test and reference formulations of rivaroxaban 20 mg coated tablet, under fasting and postprandial states.\"\n  ],\n  \"methods\": [\n    \"The studies were conducted on healthy volunteers of both sexes, with the formulations administered in a single dose, under fasting and postprandial states.\",\n    \"Each study was conducted independently, both being open, randomized, and with a seven-day washout interval between periods.\"\n  ],\n  \"results\": [\n    \"The test and reference formulations were considered statistically bioequivalent in both administration conditions, according to the criteria required by the National Health Surveillance Agency (Anvisa).\",\n    \"The test formulation was registered with Anvisa and made available for marketing, thus contributing to the expansion of treatment availability for thromboembolic diseases and to the reduction of costs to the patient and the Unified Health System.\"\n  ],\n  \"research_subject\": \"Bioequivalence evaluation between two formulations of rivaroxaban 20 mg coated tablet\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to expand the availability of rivaroxaban treatment for thromboembolic diseases while reducing costs for patients and the public health system.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the bioequivalence between two formulations of rivaroxaban 20 mg coated tablets under fasting and fed conditions.\"\n  ],\n  \"methods\": [\n    \"Conduct open-label, randomized studies with healthy volunteers of both sexes receiving single doses of test and reference formulations.\",\n    \"Perform independent studies under fasting and fed conditions with a seven-day washout period between administrations.\"\n  ],\n  \"results\": [\n    \"Both formulations were statistically bioequivalent under fasting and fed conditions according to regulatory criteria.\",\n    \"The test formulation was registered and made available for commercialization, expanding treatment availability and reducing healthcare costs.\"\n  ],\n  \"research_subject\": \"Bioequivalence assessment of rivaroxaban 20 mg tablet formulations\"\n}\n```"
+}

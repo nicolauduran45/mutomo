@@ -1,0 +1,74 @@
+{
+  "index": 119,
+  "title": "Expanding the product spectrum of value added chemicals in microbial electrosynthesis through integrated process design—A review",
+  "abstract": "Microbial electrosynthesis (MES) is a novel microbial electrochemical technology proposed for chemicals production with the storage of sustainable energy. However, the practical application of MES is currently restricted by the limited low market value of products in one-step conversion process, mostly acetate. A theme that is pervasive throughout this review is the challenges associated with the expanded product spectrum. Several recent research efforts to improve acetate production, using novel reactor configuration, renewable power supply, and various 3-D cathode are summarized. The importance of genetic modification, two-step hybrid process, as well as input substrates other than CO2 are highlighted in this review as the future research paths for higher value chemicals production. At last, how to integrate MES with existing biochemicals processes is proposed. Definitely, more studies are encouraged to evaluate the overall performances and economic efficiency of these integrated process designs to make MES more competitive.",
+  "llama_json": {
+    "motivations": [
+      "The practical application of Microbial Electrosynthesis (MES) is limited by the low market value of products, primarily acetate, produced through one-step conversion processes.",
+      "There is a need to expand the product spectrum of value-added chemicals in MES to increase its competitiveness."
+    ],
+    "objectives": [
+      "Review recent research efforts to improve acetate production in MES through novel reactor configurations, renewable power supplies, and 3D cathodes.",
+      "Explore future research paths for producing higher-value chemicals through genetic modification, two-step hybrid processes, and alternative input substrates.",
+      "Propose integrated process designs that combine MES with existing biochemical processes."
+    ],
+    "methods": [
+      "Summarize and analyze recent studies on MES reactor configurations, power supplies, and cathode designs.",
+      "Highlight the importance of genetic modification, hybrid processes, and alternative substrates for expanding the product spectrum.",
+      "Propose integration strategies for combining MES with existing biochemical processes."
+    ],
+    "results": [
+      "Identification of key challenges and opportunities for expanding the product spectrum in MES.",
+      "Development of novel integrated process designs that enhance the competitiveness of MES.",
+      "Encouragement of further studies to evaluate the performance and economic efficiency of these designs."
+    ],
+    "research_subject": "Expanding the product spectrum of value-added chemicals in microbial electrosynthesis through integrated process design"
+  },
+  "openai_json": {
+    "motivations": [
+      "Microbial electrosynthesis (MES) is limited by the low market value of products in one-step conversion process, mostly acetate.",
+      "There is a need to expand the product spectrum in MES for higher value chemicals production.",
+      "The integration of MES with existing biochemical processes is necessary to improve its competitiveness."
+    ],
+    "objectives": [
+      "Summarize recent research efforts to improve acetate production in MES using novel reactor configuration, renewable power supply, and various 3-D cathode.",
+      "Highlight the importance of genetic modification, two-step hybrid process, and input substrates other than CO2 for higher value chemicals production.",
+      "Propose ways to integrate MES with existing biochemical processes."
+    ],
+    "methods": [
+      "Review and summarize recent research efforts in improving acetate production in MES.",
+      "Discuss the potential of genetic modification, two-step hybrid process, and alternative input substrates in MES.",
+      "Propose integrated process designs for MES and existing biochemical processes."
+    ],
+    "results": [
+      "Provide a comprehensive review of recent advancements in MES for chemicals production.",
+      "Identify potential research paths for higher value chemicals production in MES.",
+      "Propose integrated process designs for MES to improve its competitiveness."
+    ],
+    "research_subject": "Expanding the product spectrum in microbial electrosynthesis through integrated process design"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Microbial electrosynthesis (MES) has potential for sustainable chemical production but is limited by low market value products, primarily acetate.",
+      "There is a need to expand the product spectrum of MES beyond acetate to higher value chemicals for practical application."
+    ],
+    "objectives": [
+      "Review and evaluate strategies to expand the product spectrum in microbial electrosynthesis beyond low-value chemicals.",
+      "Identify and propose integrated process designs that can enhance the economic viability and competitiveness of MES technology."
+    ],
+    "methods": [
+      "Analyze recent research on improved reactor configurations, renewable power supplies, and 3-D cathode designs for enhanced acetate production.",
+      "Examine genetic modification approaches, two-step hybrid processes, and alternative input substrates beyond CO2.",
+      "Evaluate integration strategies of MES with existing biochemical processes."
+    ],
+    "results": [
+      "Identification of promising pathways for producing higher value chemicals through MES using integrated process designs.",
+      "Highlight of key technological advances and future research directions needed to make MES economically competitive.",
+      "Framework for evaluating overall performance and economic efficiency of integrated MES processes."
+    ],
+    "research_subject": "Expanding product spectrum in microbial electrosynthesis through integrated process design"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The practical application of Microbial Electrosynthesis (MES) is limited by the low market value of products, primarily acetate, produced through one-step conversion processes.\",\n    \"There is a need to expand the product spectrum of value-added chemicals in MES to increase its competitiveness.\"\n  ],\n  \"objectives\": [\n    \"Review recent research efforts to improve acetate production in MES through novel reactor configurations, renewable power supplies, and 3D cathodes.\",\n    \"Explore future research paths for producing higher-value chemicals through genetic modification, two-step hybrid processes, and alternative input substrates.\",\n    \"Propose integrated process designs that combine MES with existing biochemical processes.\"\n  ],\n  \"methods\": [\n    \"Summarize and analyze recent studies on MES reactor configurations, power supplies, and cathode designs.\",\n    \"Highlight the importance of genetic modification, hybrid processes, and alternative substrates for expanding the product spectrum.\",\n    \"Propose integration strategies for combining MES with existing biochemical processes.\"\n  ],\n  \"results\": [\n    \"Identification of key challenges and opportunities for expanding the product spectrum in MES.\",\n    \"Development of novel integrated process designs that enhance the competitiveness of MES.\",\n    \"Encouragement of further studies to evaluate the performance and economic efficiency of these designs.\"\n  ],\n  \"research_subject\": \"Expanding the product spectrum of value-added chemicals in microbial electrosynthesis through integrated process design\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Microbial electrosynthesis (MES) is limited by the low market value of products in one-step conversion process, mostly acetate.\",\n    \"There is a need to expand the product spectrum in MES for higher value chemicals production.\",\n    \"The integration of MES with existing biochemical processes is necessary to improve its competitiveness.\"\n  ],\n  \"objectives\": [\n    \"Summarize recent research efforts to improve acetate production in MES using novel reactor configuration, renewable power supply, and various 3-D cathode.\",\n    \"Highlight the importance of genetic modification, two-step hybrid process, and input substrates other than CO2 for higher value chemicals production.\",\n    \"Propose ways to integrate MES with existing biochemical processes.\"\n  ],\n  \"methods\": [\n    \"Review and summarize recent research efforts in improving acetate production in MES.\",\n    \"Discuss the potential of genetic modification, two-step hybrid process, and alternative input substrates in MES.\",\n    \"Propose integrated process designs for MES and existing biochemical processes.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive review of recent advancements in MES for chemicals production.\",\n    \"Identify potential research paths for higher value chemicals production in MES.\",\n    \"Propose integrated process designs for MES to improve its competitiveness.\"\n  ],\n  \"research_subject\": \"Expanding the product spectrum in microbial electrosynthesis through integrated process design\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Microbial electrosynthesis (MES) has potential for sustainable chemical production but is limited by low market value products, primarily acetate.\",\n    \"There is a need to expand the product spectrum of MES beyond acetate to higher value chemicals for practical application.\"\n  ],\n  \"objectives\": [\n    \"Review and evaluate strategies to expand the product spectrum in microbial electrosynthesis beyond low-value chemicals.\",\n    \"Identify and propose integrated process designs that can enhance the economic viability and competitiveness of MES technology.\"\n  ],\n  \"methods\": [\n    \"Analyze recent research on improved reactor configurations, renewable power supplies, and 3-D cathode designs for enhanced acetate production.\",\n    \"Examine genetic modification approaches, two-step hybrid processes, and alternative input substrates beyond CO2.\",\n    \"Evaluate integration strategies of MES with existing biochemical processes.\"\n  ],\n  \"results\": [\n    \"Identification of promising pathways for producing higher value chemicals through MES using integrated process designs.\",\n    \"Highlight of key technological advances and future research directions needed to make MES economically competitive.\",\n    \"Framework for evaluating overall performance and economic efficiency of integrated MES processes.\"\n  ],\n  \"research_subject\": \"Expanding product spectrum in microbial electrosynthesis through integrated process design\"\n}\n```"
+}

@@ -1,0 +1,56 @@
+{
+  "index": 499,
+  "title": "5-imino-13-deoxy anthracycline derivatives, their uses, and processes for preparing them",
+  "abstract": "5-imino-13-deoxy anthracycline derivatives, medical uses of 5-imino-13-deoxy anthracycline derivatives and methods for preparing 5-imino-13-deoxy anthracycline derivatives.",
+  "llama_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [
+      "Methods for preparing 5-imino-13-deoxy anthracycline derivatives."
+    ],
+    "results": [
+      "Medical uses of 5-imino-13-deoxy anthracycline derivatives."
+    ],
+    "research_subject": "5-imino-13-deoxy anthracycline derivatives"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for new derivatives of anthracycline for medical uses."
+    ],
+    "objectives": [
+      "To create 5-imino-13-deoxy anthracycline derivatives.",
+      "To explore the medical uses of these anthracycline derivatives.",
+      "To develop methods for preparing these anthracycline derivatives."
+    ],
+    "methods": [
+      "The research involves the synthesis of 5-imino-13-deoxy anthracycline derivatives.",
+      "The medical uses of these derivatives will be explored."
+    ],
+    "results": [
+      "New 5-imino-13-deoxy anthracycline derivatives are created.",
+      "Potential medical uses for these derivatives are identified."
+    ],
+    "research_subject": "Creation and medical uses of 5-imino-13-deoxy anthracycline derivatives"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for new anthracycline derivatives with potentially improved therapeutic properties or reduced side effects compared to existing compounds."
+    ],
+    "objectives": [
+      "Develop and characterize 5-imino-13-deoxy anthracycline derivatives for potential medical applications.",
+      "Establish efficient synthetic methods for preparing these novel anthracycline compounds."
+    ],
+    "methods": [
+      "Chemical synthesis and modification of anthracycline structures to create 5-imino-13-deoxy derivatives.",
+      "Development of preparative processes for the production of these compounds."
+    ],
+    "results": [
+      "Novel 5-imino-13-deoxy anthracycline derivatives with potential medical applications.",
+      "Established methods for the synthesis and preparation of these compounds."
+    ],
+    "research_subject": "5-imino-13-deoxy anthracycline derivatives"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [\n    \"Methods for preparing 5-imino-13-deoxy anthracycline derivatives.\"\n  ],\n  \"results\": [\n    \"Medical uses of 5-imino-13-deoxy anthracycline derivatives.\"\n  ],\n  \"research_subject\": \"5-imino-13-deoxy anthracycline derivatives\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for new derivatives of anthracycline for medical uses.\"\n  ],\n  \"objectives\": [\n    \"To create 5-imino-13-deoxy anthracycline derivatives.\",\n    \"To explore the medical uses of these anthracycline derivatives.\",\n    \"To develop methods for preparing these anthracycline derivatives.\"\n  ],\n  \"methods\": [\n    \"The research involves the synthesis of 5-imino-13-deoxy anthracycline derivatives.\",\n    \"The medical uses of these derivatives will be explored.\"\n  ],\n  \"results\": [\n    \"New 5-imino-13-deoxy anthracycline derivatives are created.\",\n    \"Potential medical uses for these derivatives are identified.\"\n  ],\n  \"research_subject\": \"Creation and medical uses of 5-imino-13-deoxy anthracycline derivatives\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for new anthracycline derivatives with potentially improved therapeutic properties or reduced side effects compared to existing compounds.\"\n  ],\n  \"objectives\": [\n    \"Develop and characterize 5-imino-13-deoxy anthracycline derivatives for potential medical applications.\",\n    \"Establish efficient synthetic methods for preparing these novel anthracycline compounds.\"\n  ],\n  \"methods\": [\n    \"Chemical synthesis and modification of anthracycline structures to create 5-imino-13-deoxy derivatives.\",\n    \"Development of preparative processes for the production of these compounds.\"\n  ],\n  \"results\": [\n    \"Novel 5-imino-13-deoxy anthracycline derivatives with potential medical applications.\",\n    \"Established methods for the synthesis and preparation of these compounds.\"\n  ],\n  \"research_subject\": \"5-imino-13-deoxy anthracycline derivatives\"\n}\n```"
+}

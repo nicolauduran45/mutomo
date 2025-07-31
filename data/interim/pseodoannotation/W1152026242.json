@@ -1,0 +1,70 @@
+{
+  "index": 123,
+  "title": "Parallel-Plate Waveguide Terahertz Time Domain Spectroscopy for Ultrathin Conductive Films",
+  "abstract": "Development of techniques for characterization of extremely thin films is an important challenge in terahertz (THz) science and applications. Spectroscopic measurements of materials on the nanometer scale or of atomic layer thickness (2D materials) require a sufficient terahertz wave–matter interaction length, which is challenging to achieve in conventional transmission geometry. Waveguide-based THz spectroscopy offers an alternative method to overcome this problem. In this paper, we investigate a new parallel-plate waveguide (PPWG) technique for measuring dielectric properties of ultrathin gold films, in which we mount the thin film sample at the center of the waveguide. We discuss a model of THz dielectric parameter extraction based on waveguide theory and analyze the response of thin films for both transverse magnetic (TM) and transverse electric (TE) waveguide modes. In contrast to other waveguide methods, our approach enables comparison of the material response with different electromagnetic field distributions without significantly changing the experimental setup. As a result, we demonstrate that TE modes have a better sensitivity to the properties of the thin film. For prototype test samples, optical parameters extracted using our method are in good agreement with literature values.",
+  "llama_json": {
+    "motivations": [
+      "Characterizing extremely thin films is a significant challenge in terahertz science and applications due to insufficient terahertz wave–matter interaction length.",
+      "Conventional transmission geometry is limited in measuring materials on the nanometer scale or of atomic layer thickness."
+    ],
+    "objectives": [
+      "Develop a parallel-plate waveguide technique for measuring dielectric properties of ultrathin conductive films.",
+      "Investigate the sensitivity of transverse magnetic and transverse electric waveguide modes to thin film properties."
+    ],
+    "methods": [
+      "Mount the thin film sample at the center of a parallel-plate waveguide to enhance terahertz wave–matter interaction.",
+      "Apply waveguide theory to extract dielectric parameters of the thin film.",
+      "Analyze the response of thin films for both transverse magnetic and transverse electric waveguide modes."
+    ],
+    "results": [
+      "Demonstrate that transverse electric modes have better sensitivity to the properties of the thin film.",
+      "Extract optical parameters of prototype test samples that are in good agreement with literature values."
+    ],
+    "research_subject": "Terahertz time domain spectroscopy of ultrathin conductive films using parallel-plate waveguides"
+  },
+  "openai_json": {
+    "motivations": [
+      "Characterizing extremely thin films is a significant challenge in terahertz (THz) science and applications due to the need for sufficient wave-matter interaction length.",
+      "Current methods, such as conventional transmission geometry, struggle to provide adequate interaction length for nanometer scale or atomic layer thickness materials."
+    ],
+    "objectives": [
+      "Investigate a new parallel-plate waveguide (PPWG) technique for measuring dielectric properties of ultrathin gold films.",
+      "Develop a model of THz dielectric parameter extraction based on waveguide theory and analyze the response of thin films for both transverse magnetic (TM) and transverse electric (TE) waveguide modes."
+    ],
+    "methods": [
+      "Mount the thin film sample at the center of the waveguide to implement the PPWG technique.",
+      "Analyze the response of thin films for both TM and TE waveguide modes using a model based on waveguide theory.",
+      "Compare the material response with different electromagnetic field distributions without significantly changing the experimental setup."
+    ],
+    "results": [
+      "The new PPWG technique enables effective characterization of ultrathin films.",
+      "TE modes demonstrate better sensitivity to the properties of the thin film compared to other methods.",
+      "The optical parameters extracted using the proposed method align well with literature values."
+    ],
+    "research_subject": "Parallel-Plate Waveguide Terahertz Time Domain Spectroscopy for Ultrathin Conductive Films"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Characterization of extremely thin films and 2D materials at the nanometer scale requires sufficient terahertz wave-matter interaction length, which is difficult to achieve using conventional transmission geometry.",
+      "There is a need for improved techniques to measure dielectric properties of ultrathin conductive films in the terahertz frequency range."
+    ],
+    "objectives": [
+      "Develop and investigate a parallel-plate waveguide technique for measuring dielectric properties of ultrathin gold films in the terahertz range.",
+      "Compare the material response between transverse magnetic and transverse electric waveguide modes to determine optimal measurement configurations."
+    ],
+    "methods": [
+      "Mount thin film samples at the center of a parallel-plate waveguide for terahertz time domain spectroscopy measurements.",
+      "Develop a model for dielectric parameter extraction based on waveguide theory for both TM and TE modes.",
+      "Analyze and compare the electromagnetic field distributions and sensitivities of different waveguide modes."
+    ],
+    "results": [
+      "TE modes demonstrate better sensitivity to thin film properties compared to TM modes.",
+      "Optical parameters extracted using the developed method show good agreement with literature values for prototype test samples.",
+      "The technique enables comparison of material response with different electromagnetic field distributions without significant changes to the experimental setup."
+    ],
+    "research_subject": "Terahertz spectroscopy of ultrathin conductive films using parallel-plate waveguide technique"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Characterizing extremely thin films is a significant challenge in terahertz science and applications due to insufficient terahertz wave–matter interaction length.\",\n    \"Conventional transmission geometry is limited in measuring materials on the nanometer scale or of atomic layer thickness.\"\n  ],\n  \"objectives\": [\n    \"Develop a parallel-plate waveguide technique for measuring dielectric properties of ultrathin conductive films.\",\n    \"Investigate the sensitivity of transverse magnetic and transverse electric waveguide modes to thin film properties.\"\n  ],\n  \"methods\": [\n    \"Mount the thin film sample at the center of a parallel-plate waveguide to enhance terahertz wave–matter interaction.\",\n    \"Apply waveguide theory to extract dielectric parameters of the thin film.\",\n    \"Analyze the response of thin films for both transverse magnetic and transverse electric waveguide modes.\"\n  ],\n  \"results\": [\n    \"Demonstrate that transverse electric modes have better sensitivity to the properties of the thin film.\",\n    \"Extract optical parameters of prototype test samples that are in good agreement with literature values.\"\n  ],\n  \"research_subject\": \"Terahertz time domain spectroscopy of ultrathin conductive films using parallel-plate waveguides\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Characterizing extremely thin films is a significant challenge in terahertz (THz) science and applications due to the need for sufficient wave-matter interaction length.\",\n    \"Current methods, such as conventional transmission geometry, struggle to provide adequate interaction length for nanometer scale or atomic layer thickness materials.\"\n  ],\n  \"objectives\": [\n    \"Investigate a new parallel-plate waveguide (PPWG) technique for measuring dielectric properties of ultrathin gold films.\",\n    \"Develop a model of THz dielectric parameter extraction based on waveguide theory and analyze the response of thin films for both transverse magnetic (TM) and transverse electric (TE) waveguide modes.\"\n  ],\n  \"methods\": [\n    \"Mount the thin film sample at the center of the waveguide to implement the PPWG technique.\",\n    \"Analyze the response of thin films for both TM and TE waveguide modes using a model based on waveguide theory.\",\n    \"Compare the material response with different electromagnetic field distributions without significantly changing the experimental setup.\"\n  ],\n  \"results\": [\n    \"The new PPWG technique enables effective characterization of ultrathin films.\",\n    \"TE modes demonstrate better sensitivity to the properties of the thin film compared to other methods.\",\n    \"The optical parameters extracted using the proposed method align well with literature values.\"\n  ],\n  \"research_subject\": \"Parallel-Plate Waveguide Terahertz Time Domain Spectroscopy for Ultrathin Conductive Films\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Characterization of extremely thin films and 2D materials at the nanometer scale requires sufficient terahertz wave-matter interaction length, which is difficult to achieve using conventional transmission geometry.\",\n    \"There is a need for improved techniques to measure dielectric properties of ultrathin conductive films in the terahertz frequency range.\"\n  ],\n  \"objectives\": [\n    \"Develop and investigate a parallel-plate waveguide technique for measuring dielectric properties of ultrathin gold films in the terahertz range.\",\n    \"Compare the material response between transverse magnetic and transverse electric waveguide modes to determine optimal measurement configurations.\"\n  ],\n  \"methods\": [\n    \"Mount thin film samples at the center of a parallel-plate waveguide for terahertz time domain spectroscopy measurements.\",\n    \"Develop a model for dielectric parameter extraction based on waveguide theory for both TM and TE modes.\",\n    \"Analyze and compare the electromagnetic field distributions and sensitivities of different waveguide modes.\"\n  ],\n  \"results\": [\n    \"TE modes demonstrate better sensitivity to thin film properties compared to TM modes.\",\n    \"Optical parameters extracted using the developed method show good agreement with literature values for prototype test samples.\",\n    \"The technique enables comparison of material response with different electromagnetic field distributions without significant changes to the experimental setup.\"\n  ],\n  \"research_subject\": \"Terahertz spectroscopy of ultrathin conductive films using parallel-plate waveguide technique\"\n}\n```"
+}

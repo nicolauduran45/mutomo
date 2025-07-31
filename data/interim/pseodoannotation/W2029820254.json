@@ -1,0 +1,66 @@
+{
+  "index": 283,
+  "title": "A pharmacogenetic study of vorinostat glucuronidation",
+  "abstract": "High interindividual pharmacokinetic variability was observed in phase 1 studies of vorinostat (suberoylanilide hydroxamic acid), an oral histone deacetylase inhibitor. Thus, we hypothesized that the variability can be explained by genetic variants of the uridine 5'-diphosphate-glucuronosyltransferases (UGTs) involved in vorinostat metabolism. Baculosomes expressing human UGTs and 52 human liver microsomes were screened for vorinostat glucuronidation activity to identify the potential enzymes and functional variants. UGT2B17 had the largest activity. Human liver microsomes with at least one copy of UGT2B17 showed significantly greater enzymatic activity than those with UGT2B17 null genotype (P<0.004). UGT2B17 plays an important role in vorinostat hepatic glucuronidation and the gene deletion polymorphism may influence vorinostat biotransformation and clearance. The clinical impact of this UGT2B17 genetic variant on vorinostat metabolism and drug effect is unknown.",
+  "llama_json": {
+    "motivations": [
+      "High interindividual variability in vorinostat pharmacokinetics may lead to inconsistent treatment outcomes.",
+      "Understanding the genetic basis of this variability can help optimize vorinostat therapy."
+    ],
+    "objectives": [
+      "Identify the uridine 5'-diphosphate-glucuronosyltransferases (UGTs) involved in vorinostat metabolism.",
+      "Determine the impact of genetic variants of UGTs on vorinostat glucuronidation activity."
+    ],
+    "methods": [
+      "Screen baculosomes expressing human UGTs and human liver microsomes for vorinostat glucuronidation activity.",
+      "Compare enzymatic activity between liver microsomes with and without the UGT2B17 gene."
+    ],
+    "results": [
+      "UGT2B17 plays a significant role in vorinostat hepatic glucuronidation.",
+      "The UGT2B17 gene deletion polymorphism may influence vorinostat biotransformation and clearance."
+    ],
+    "research_subject": "Pharmacogenetics of vorinostat glucuronidation and the role of UGT2B17"
+  },
+  "openai_json": {
+    "motivations": [
+      "High interindividual pharmacokinetic variability was observed in phase 1 studies of vorinostat, an oral histone deacetylase inhibitor.",
+      "The researchers hypothesized that this variability can be explained by genetic variants of the uridine 5'-diphosphate-glucuronosyltransferases (UGTs) involved in vorinostat metabolism."
+    ],
+    "objectives": [
+      "Identify the potential enzymes and functional variants involved in vorinostat glucuronidation.",
+      "Determine the role of UGT2B17 in vorinostat hepatic glucuronidation and how its gene deletion polymorphism may influence vorinostat biotransformation and clearance."
+    ],
+    "methods": [
+      "Screened baculosomes expressing human UGTs and 52 human liver microsomes for vorinostat glucuronidation activity.",
+      "Compared enzymatic activity between human liver microsomes with at least one copy of UGT2B17 and those with UGT2B17 null genotype."
+    ],
+    "results": [
+      "UGT2B17 was found to have the largest activity in vorinostat glucuronidation.",
+      "Human liver microsomes with at least one copy of UGT2B17 showed significantly greater enzymatic activity than those with UGT2B17 null genotype."
+    ],
+    "research_subject": "Pharmacogenetic study of vorinostat glucuronidation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "High interindividual pharmacokinetic variability was observed in phase 1 studies of vorinostat, which may impact drug efficacy and safety.",
+      "Understanding the genetic basis of vorinostat metabolism could help explain the observed pharmacokinetic variability among patients."
+    ],
+    "objectives": [
+      "Identify the uridine 5'-diphosphate-glucuronosyltransferases (UGTs) involved in vorinostat metabolism and determine their functional variants.",
+      "Investigate whether genetic variants of UGTs, particularly UGT2B17, contribute to the interindividual variability in vorinostat pharmacokinetics."
+    ],
+    "methods": [
+      "Screen baculosomes expressing human UGTs and human liver microsomes for vorinostat glucuronidation activity.",
+      "Compare enzymatic activity between liver microsomes with different UGT2B17 genotypes to assess the impact of gene deletion polymorphism."
+    ],
+    "results": [
+      "UGT2B17 showed the largest vorinostat glucuronidation activity among the tested enzymes.",
+      "Human liver microsomes with at least one copy of UGT2B17 demonstrated significantly greater enzymatic activity than those with UGT2B17 null genotype.",
+      "The UGT2B17 gene deletion polymorphism may influence vorinostat biotransformation and clearance, though clinical impact remains unknown."
+    ],
+    "research_subject": "Pharmacogenetic analysis of vorinostat glucuronidation and UGT2B17 polymorphism"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"High interindividual variability in vorinostat pharmacokinetics may lead to inconsistent treatment outcomes.\",\n    \"Understanding the genetic basis of this variability can help optimize vorinostat therapy.\"\n  ],\n  \"objectives\": [\n    \"Identify the uridine 5'-diphosphate-glucuronosyltransferases (UGTs) involved in vorinostat metabolism.\",\n    \"Determine the impact of genetic variants of UGTs on vorinostat glucuronidation activity.\"\n  ],\n  \"methods\": [\n    \"Screen baculosomes expressing human UGTs and human liver microsomes for vorinostat glucuronidation activity.\",\n    \"Compare enzymatic activity between liver microsomes with and without the UGT2B17 gene.\"\n  ],\n  \"results\": [\n    \"UGT2B17 plays a significant role in vorinostat hepatic glucuronidation.\",\n    \"The UGT2B17 gene deletion polymorphism may influence vorinostat biotransformation and clearance.\"\n  ],\n  \"research_subject\": \"Pharmacogenetics of vorinostat glucuronidation and the role of UGT2B17\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"High interindividual pharmacokinetic variability was observed in phase 1 studies of vorinostat, an oral histone deacetylase inhibitor.\",\n    \"The researchers hypothesized that this variability can be explained by genetic variants of the uridine 5'-diphosphate-glucuronosyltransferases (UGTs) involved in vorinostat metabolism.\"\n  ],\n  \"objectives\": [\n    \"Identify the potential enzymes and functional variants involved in vorinostat glucuronidation.\",\n    \"Determine the role of UGT2B17 in vorinostat hepatic glucuronidation and how its gene deletion polymorphism may influence vorinostat biotransformation and clearance.\"\n  ],\n  \"methods\": [\n    \"Screened baculosomes expressing human UGTs and 52 human liver microsomes for vorinostat glucuronidation activity.\",\n    \"Compared enzymatic activity between human liver microsomes with at least one copy of UGT2B17 and those with UGT2B17 null genotype.\"\n  ],\n  \"results\": [\n    \"UGT2B17 was found to have the largest activity in vorinostat glucuronidation.\",\n    \"Human liver microsomes with at least one copy of UGT2B17 showed significantly greater enzymatic activity than those with UGT2B17 null genotype.\"\n  ],\n  \"research_subject\": \"Pharmacogenetic study of vorinostat glucuronidation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"High interindividual pharmacokinetic variability was observed in phase 1 studies of vorinostat, which may impact drug efficacy and safety.\",\n    \"Understanding the genetic basis of vorinostat metabolism could help explain the observed pharmacokinetic variability among patients.\"\n  ],\n  \"objectives\": [\n    \"Identify the uridine 5'-diphosphate-glucuronosyltransferases (UGTs) involved in vorinostat metabolism and determine their functional variants.\",\n    \"Investigate whether genetic variants of UGTs, particularly UGT2B17, contribute to the interindividual variability in vorinostat pharmacokinetics.\"\n  ],\n  \"methods\": [\n    \"Screen baculosomes expressing human UGTs and human liver microsomes for vorinostat glucuronidation activity.\",\n    \"Compare enzymatic activity between liver microsomes with different UGT2B17 genotypes to assess the impact of gene deletion polymorphism.\"\n  ],\n  \"results\": [\n    \"UGT2B17 showed the largest vorinostat glucuronidation activity among the tested enzymes.\",\n    \"Human liver microsomes with at least one copy of UGT2B17 demonstrated significantly greater enzymatic activity than those with UGT2B17 null genotype.\",\n    \"The UGT2B17 gene deletion polymorphism may influence vorinostat biotransformation and clearance, though clinical impact remains unknown.\"\n  ],\n  \"research_subject\": \"Pharmacogenetic analysis of vorinostat glucuronidation and UGT2B17 polymorphism\"\n}\n```"
+}

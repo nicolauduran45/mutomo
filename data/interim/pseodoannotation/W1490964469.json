@@ -1,0 +1,67 @@
+{
+  "index": 26,
+  "title": "Spatiotemporal variability of the precipitation dipole transition zone in the western United States",
+  "abstract": "[1] El Nino-Southern Oscillation-related hydroclimatic variability in the western United States is characterized by a north–south dipole pattern of precipitation anomalies with opposing signs. Here I use a high-resolution dataset to analyze spatiotemporal patterns in the transition zone between the centers of opposite association. Results indicate that the transition zone is spatially limited west of the continental divide, consisting of a narrow zone within the 40–42°N latitude band and portions of eastern Washington, eastern Oregon, and western Colorado. The transition zone was narrower when the Southern Oscillation Index and the Pacific Decadal Oscillation (PDO) were in a constructive phase and during the negative Atlantic Multidecadal Oscillation phase. Although the transition zone has remained remarkably stationary across the Great Basin, shifts (likely PDO-related) have occurred over time in the West Coast states. Implications for water resource planning in river basins underlying the transition zone vary by region.",
+  "llama_json": {
+    "motivations": [
+      "Understanding the spatiotemporal variability of the precipitation dipole transition zone in the western United States is crucial for effective water resource planning.",
+      "The El Nino-Southern Oscillation-related hydroclimatic variability has significant implications for regional precipitation patterns."
+    ],
+    "objectives": [
+      "Analyze the spatiotemporal patterns in the transition zone between the centers of opposite precipitation anomalies association in the western United States.",
+      "Investigate the impact of climate indices such as the Southern Oscillation Index, Pacific Decadal Oscillation, and Atlantic Multidecadal Oscillation on the transition zone."
+    ],
+    "methods": [
+      "Utilize a high-resolution dataset to examine the spatial and temporal characteristics of the transition zone.",
+      "Assess the relationship between climate indices and the transition zone's spatial extent and variability."
+    ],
+    "results": [
+      "The transition zone is spatially limited and exhibits variations in width depending on the phase of climate indices.",
+      "Regional shifts in the transition zone have occurred over time, particularly in the West Coast states, with implications for water resource planning."
+    ],
+    "research_subject": "Spatiotemporal variability of the precipitation dipole transition zone in the western United States"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the spatiotemporal variability of the precipitation dipole transition zone in the western United States is crucial for predicting hydroclimatic changes.",
+      "There is a need to analyze the influence of climate oscillations on the spatial extent and location of the transition zone."
+    ],
+    "objectives": [
+      "Analyze the spatiotemporal patterns in the transition zone between the centers of opposite precipitation anomalies in the western United States.",
+      "Investigate the influence of the Southern Oscillation Index, the Pacific Decadal Oscillation, and the Atlantic Multidecadal Oscillation on the transition zone."
+    ],
+    "methods": [
+      "Use a high-resolution dataset to analyze spatiotemporal patterns in the precipitation dipole transition zone.",
+      "Examine the relationship between the transition zone and various climate oscillations."
+    ],
+    "results": [
+      "Identify the spatial limitations of the transition zone, particularly west of the continental divide.",
+      "Reveal the influence of various climate oscillations on the spatial extent and location of the transition zone.",
+      "Highlight potential implications for water resource planning in river basins underlying the transition zone."
+    ],
+    "research_subject": "Spatiotemporal variability of the precipitation dipole transition zone in the western United States"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding El Niño-Southern Oscillation-related hydroclimatic variability in the western United States is crucial for water resource management.",
+      "The precipitation dipole pattern creates a transition zone between opposing anomalies that needs to be characterized for improved regional climate understanding."
+    ],
+    "objectives": [
+      "Analyze spatiotemporal patterns in the precipitation dipole transition zone between centers of opposite association in the western United States.",
+      "Examine how climate oscillations influence the characteristics and location of the transition zone over time."
+    ],
+    "methods": [
+      "Use high-resolution datasets to analyze spatiotemporal patterns of the precipitation transition zone.",
+      "Examine relationships between the transition zone characteristics and climate indices including the Southern Oscillation Index, Pacific Decadal Oscillation, and Atlantic Multidecadal Oscillation."
+    ],
+    "results": [
+      "The transition zone is spatially limited west of the continental divide, primarily within the 40-42°N latitude band and portions of eastern Washington, Oregon, and western Colorado.",
+      "The transition zone width varies with climate oscillation phases and has remained stationary in the Great Basin while shifting in West Coast states.",
+      "Water resource planning implications vary by region depending on the transition zone characteristics."
+    ],
+    "research_subject": "Precipitation dipole transition zone variability in the western United States"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the spatiotemporal variability of the precipitation dipole transition zone in the western United States is crucial for effective water resource planning.\",\n    \"The El Nino-Southern Oscillation-related hydroclimatic variability has significant implications for regional precipitation patterns.\"\n  ],\n  \"objectives\": [\n    \"Analyze the spatiotemporal patterns in the transition zone between the centers of opposite precipitation anomalies association in the western United States.\",\n    \"Investigate the impact of climate indices such as the Southern Oscillation Index, Pacific Decadal Oscillation, and Atlantic Multidecadal Oscillation on the transition zone.\"\n  ],\n  \"methods\": [\n    \"Utilize a high-resolution dataset to examine the spatial and temporal characteristics of the transition zone.\",\n    \"Assess the relationship between climate indices and the transition zone's spatial extent and variability.\"\n  ],\n  \"results\": [\n    \"The transition zone is spatially limited and exhibits variations in width depending on the phase of climate indices.\",\n    \"Regional shifts in the transition zone have occurred over time, particularly in the West Coast states, with implications for water resource planning.\"\n  ],\n  \"research_subject\": \"Spatiotemporal variability of the precipitation dipole transition zone in the western United States\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the spatiotemporal variability of the precipitation dipole transition zone in the western United States is crucial for predicting hydroclimatic changes.\",\n    \"There is a need to analyze the influence of climate oscillations on the spatial extent and location of the transition zone.\"\n  ],\n  \"objectives\": [\n    \"Analyze the spatiotemporal patterns in the transition zone between the centers of opposite precipitation anomalies in the western United States.\",\n    \"Investigate the influence of the Southern Oscillation Index, the Pacific Decadal Oscillation, and the Atlantic Multidecadal Oscillation on the transition zone.\"\n  ],\n  \"methods\": [\n    \"Use a high-resolution dataset to analyze spatiotemporal patterns in the precipitation dipole transition zone.\",\n    \"Examine the relationship between the transition zone and various climate oscillations.\"\n  ],\n  \"results\": [\n    \"Identify the spatial limitations of the transition zone, particularly west of the continental divide.\",\n    \"Reveal the influence of various climate oscillations on the spatial extent and location of the transition zone.\",\n    \"Highlight potential implications for water resource planning in river basins underlying the transition zone.\"\n  ],\n  \"research_subject\": \"Spatiotemporal variability of the precipitation dipole transition zone in the western United States\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding El Niño-Southern Oscillation-related hydroclimatic variability in the western United States is crucial for water resource management.\",\n    \"The precipitation dipole pattern creates a transition zone between opposing anomalies that needs to be characterized for improved regional climate understanding.\"\n  ],\n  \"objectives\": [\n    \"Analyze spatiotemporal patterns in the precipitation dipole transition zone between centers of opposite association in the western United States.\",\n    \"Examine how climate oscillations influence the characteristics and location of the transition zone over time.\"\n  ],\n  \"methods\": [\n    \"Use high-resolution datasets to analyze spatiotemporal patterns of the precipitation transition zone.\",\n    \"Examine relationships between the transition zone characteristics and climate indices including the Southern Oscillation Index, Pacific Decadal Oscillation, and Atlantic Multidecadal Oscillation.\"\n  ],\n  \"results\": [\n    \"The transition zone is spatially limited west of the continental divide, primarily within the 40-42°N latitude band and portions of eastern Washington, Oregon, and western Colorado.\",\n    \"The transition zone width varies with climate oscillation phases and has remained stationary in the Great Basin while shifting in West Coast states.\",\n    \"Water resource planning implications vary by region depending on the transition zone characteristics.\"\n  ],\n  \"research_subject\": \"Precipitation dipole transition zone variability in the western United States\"\n}\n```"
+}

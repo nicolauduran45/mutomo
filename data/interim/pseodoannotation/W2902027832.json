@@ -1,0 +1,72 @@
+{
+  "index": 341,
+  "title": "M2 Tidal Current Estimation from One-day Observation Data off the Western and Southern Coasts of Korea",
+  "abstract": "A practical method to estimate the M2 tidal current is proposed based on one-day current observations. In this method, the semi-diurnal constituent, composed of several constituents within the semi-diurnal frequency band that cannot be resolved from one-day observations, is corrected to the M2 constituent using the amplitude ratio and phase difference between each constituent. The dominant M2 constituent is accurately estimated from the semi-diurnal constituents. However, this method is not always successful for application to diurnal constituents that are much weaker than the M2 constituent. The accuracy of the method depends on the signal-to-noise ratio and the time of observation. Observations conducted during the spring tide period are highly recommended to reduce calculation error. This method was applied along the western and southern coasts of Korea, where the semi-diurnal tidal current is the most predominant component of water circulation. In this study, six major constituents (M2, S2, N2, K2, O2, and 2N2) that are dominant in the semi-diurnal frequency are used for correction of the M2 tidal current. Correction coefficients for S2 and N2 used were the average values from 122 sets of one-month current observations, which have a relatively uniform spatial distribution in the study area. For correction coefficients of K2, v2, and 2N2, we used wellknown constant values determined from the relationships among astronomical forcing factors. The M2 tidal currents after correction are generally well matched to those calculated with the numerical model. The discrepancy between results is mainly due to the complex bathymetry and coastline in the study area, which cannot be fully resolved with a numerical model. A spatial distribution map of the M2 tidal current based on observations in this area is presented for the first time. The method proposed in this study can be used for planning efficient observation of tidal currents.",
+  "llama_json": {
+    "motivations": [
+      "Accurate estimation of M2 tidal currents is challenging due to the limitations of one-day observation data.",
+      "Existing methods may not effectively resolve semi-diurnal constituents, leading to inaccuracies in M2 tidal current estimation."
+    ],
+    "objectives": [
+      "Develop a practical method to estimate M2 tidal currents from one-day observation data.",
+      "Improve the accuracy of M2 tidal current estimation by correcting semi-diurnal constituents using amplitude ratios and phase differences."
+    ],
+    "methods": [
+      "Use a correction method based on amplitude ratios and phase differences between semi-diurnal constituents to estimate M2 tidal currents.",
+      "Apply the method to observation data from the western and southern coasts of Korea, utilizing six major constituents (M2, S2, N2, K2, O2, and 2N2) for correction.",
+      "Validate the results by comparing them with numerical model calculations."
+    ],
+    "results": [
+      "The proposed method accurately estimates M2 tidal currents from one-day observation data.",
+      "The corrected M2 tidal currents show good agreement with numerical model results, despite some discrepancies due to complex bathymetry and coastline.",
+      "A spatial distribution map of M2 tidal currents is presented for the study area, providing valuable information for planning efficient observation of tidal currents."
+    ],
+    "research_subject": "M2 tidal current estimation from one-day observation data"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a practical method to estimate the M2 tidal current based on one-day current observations.",
+      "The accuracy of current methods depends on the signal-to-noise ratio and the time of observation, which can lead to calculation errors."
+    ],
+    "objectives": [
+      "Propose a method to estimate the M2 tidal current using one-day current observations, correcting the semi-diurnal constituent to the M2 constituent.",
+      "Apply the proposed method to the western and southern coasts of Korea, where the semi-diurnal tidal current is the most predominant component of water circulation.",
+      "Present a spatial distribution map of the M2 tidal current based on observations in the study area for the first time."
+    ],
+    "methods": [
+      "Use the amplitude ratio and phase difference between each constituent to correct the semi-diurnal constituent to the M2 constituent.",
+      "Apply the method during the spring tide period to reduce calculation error.",
+      "Use correction coefficients from one-month current observations and constant values determined from the relationships among astronomical forcing factors."
+    ],
+    "results": [
+      "The proposed method accurately estimates the M2 tidal current from one-day observations.",
+      "The M2 tidal currents after correction generally match those calculated with the numerical model, with discrepancies mainly due to complex bathymetry and coastline.",
+      "The method can be used for planning efficient observation of tidal currents."
+    ],
+    "research_subject": "Estimation of M2 tidal current from one-day observation data"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional methods for estimating M2 tidal currents require long-term observations, which are time-consuming and resource-intensive.",
+      "The semi-diurnal tidal current is the most predominant component of water circulation along the western and southern coasts of Korea, necessitating accurate estimation methods."
+    ],
+    "objectives": [
+      "Develop a practical method to accurately estimate M2 tidal currents using only one-day observation data.",
+      "Create a spatial distribution map of M2 tidal currents for the western and southern coasts of Korea based on observational data."
+    ],
+    "methods": [
+      "Correct semi-diurnal constituents to M2 constituent using amplitude ratios and phase differences between constituents.",
+      "Apply correction coefficients derived from multiple observation sets and well-known astronomical forcing relationships.",
+      "Validate the method by comparing results with numerical model calculations."
+    ],
+    "results": [
+      "The corrected M2 tidal currents show good agreement with numerical model results, with discrepancies mainly due to complex bathymetry and coastline features.",
+      "Successfully produced the first observation-based spatial distribution map of M2 tidal currents for the study area.",
+      "The method performs best when observations are conducted during spring tide periods to minimize calculation errors."
+    ],
+    "research_subject": "M2 tidal current estimation from short-term observations"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Accurate estimation of M2 tidal currents is challenging due to the limitations of one-day observation data.\",\n    \"Existing methods may not effectively resolve semi-diurnal constituents, leading to inaccuracies in M2 tidal current estimation.\"\n  ],\n  \"objectives\": [\n    \"Develop a practical method to estimate M2 tidal currents from one-day observation data.\",\n    \"Improve the accuracy of M2 tidal current estimation by correcting semi-diurnal constituents using amplitude ratios and phase differences.\"\n  ],\n  \"methods\": [\n    \"Use a correction method based on amplitude ratios and phase differences between semi-diurnal constituents to estimate M2 tidal currents.\",\n    \"Apply the method to observation data from the western and southern coasts of Korea, utilizing six major constituents (M2, S2, N2, K2, O2, and 2N2) for correction.\",\n    \"Validate the results by comparing them with numerical model calculations.\"\n  ],\n  \"results\": [\n    \"The proposed method accurately estimates M2 tidal currents from one-day observation data.\",\n    \"The corrected M2 tidal currents show good agreement with numerical model results, despite some discrepancies due to complex bathymetry and coastline.\",\n    \"A spatial distribution map of M2 tidal currents is presented for the study area, providing valuable information for planning efficient observation of tidal currents.\"\n  ],\n  \"research_subject\": \"M2 tidal current estimation from one-day observation data\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a practical method to estimate the M2 tidal current based on one-day current observations.\",\n    \"The accuracy of current methods depends on the signal-to-noise ratio and the time of observation, which can lead to calculation errors.\"\n  ],\n  \"objectives\": [\n    \"Propose a method to estimate the M2 tidal current using one-day current observations, correcting the semi-diurnal constituent to the M2 constituent.\",\n    \"Apply the proposed method to the western and southern coasts of Korea, where the semi-diurnal tidal current is the most predominant component of water circulation.\",\n    \"Present a spatial distribution map of the M2 tidal current based on observations in the study area for the first time.\"\n  ],\n  \"methods\": [\n    \"Use the amplitude ratio and phase difference between each constituent to correct the semi-diurnal constituent to the M2 constituent.\",\n    \"Apply the method during the spring tide period to reduce calculation error.\",\n    \"Use correction coefficients from one-month current observations and constant values determined from the relationships among astronomical forcing factors.\"\n  ],\n  \"results\": [\n    \"The proposed method accurately estimates the M2 tidal current from one-day observations.\",\n    \"The M2 tidal currents after correction generally match those calculated with the numerical model, with discrepancies mainly due to complex bathymetry and coastline.\",\n    \"The method can be used for planning efficient observation of tidal currents.\"\n  ],\n  \"research_subject\": \"Estimation of M2 tidal current from one-day observation data\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional methods for estimating M2 tidal currents require long-term observations, which are time-consuming and resource-intensive.\",\n    \"The semi-diurnal tidal current is the most predominant component of water circulation along the western and southern coasts of Korea, necessitating accurate estimation methods.\"\n  ],\n  \"objectives\": [\n    \"Develop a practical method to accurately estimate M2 tidal currents using only one-day observation data.\",\n    \"Create a spatial distribution map of M2 tidal currents for the western and southern coasts of Korea based on observational data.\"\n  ],\n  \"methods\": [\n    \"Correct semi-diurnal constituents to M2 constituent using amplitude ratios and phase differences between constituents.\",\n    \"Apply correction coefficients derived from multiple observation sets and well-known astronomical forcing relationships.\",\n    \"Validate the method by comparing results with numerical model calculations.\"\n  ],\n  \"results\": [\n    \"The corrected M2 tidal currents show good agreement with numerical model results, with discrepancies mainly due to complex bathymetry and coastline features.\",\n    \"Successfully produced the first observation-based spatial distribution map of M2 tidal currents for the study area.\",\n    \"The method performs best when observations are conducted during spring tide periods to minimize calculation errors.\"\n  ],\n  \"research_subject\": \"M2 tidal current estimation from short-term observations\"\n}\n```"
+}

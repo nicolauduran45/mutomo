@@ -1,0 +1,65 @@
+{
+  "index": 142,
+  "title": "Antifungal activity of extracts of Ocimum gratissimum and Aframomum danielli against moulds isolated from stored rice",
+  "abstract": "The fungitoxic effect of extracts of Ocimum gratissimum and Aframomum danielli on some moulds isolated from rice grains were determined in vitro. Aqueous extracts of Aframomum danielli inhibited the radial growth of the moulds at different levels between 46.4 - 56.7%. Aspergillus niger (56.7%) was the most sensitive to Aframomum danielli while Cladosporium sphaerospermum (46.4%) was the least sensitive. Ocimum gratissimum extract inhibited the radial growth of the moulds between 46.4 – 59.7% with Penicillium citrinum showing the highest sensitivity and C. sphaerospermum being the least sensitive. There was no significant difference (p>0.05) in the effect of Ocimum gratissimum and Aframomum danielli on all the moulds. Ocimum gratissimum showed the greater antifungal activity against the storage fungi (mean = 53.4%) compared to Aframomum danielli (mean = 51.9%). However, there was no significant difference (p>0.05) in the effect  of Ocimum gratissimum and Aframomum danielli on the storage fungi. Both plant products showed varying levels of fungitoxic activities and could be potentially used in the storage of Ofada and Abakaliki rice against moulds. Keywords : Plant extracts, Antifungal activity, Storage fungi, Moulds, Rice",
+  "llama_json": {
+    "motivations": [
+      "Mould growth on stored rice is a significant problem that can lead to spoilage and contamination.",
+      "There is a need for effective and natural antifungal agents to control mould growth on stored rice."
+    ],
+    "objectives": [
+      "Evaluate the antifungal activity of extracts of Ocimum gratissimum and Aframomum danielli against moulds isolated from stored rice.",
+      "Compare the effectiveness of the two plant extracts in inhibiting mould growth."
+    ],
+    "methods": [
+      "Conduct in vitro experiments to determine the fungitoxic effect of aqueous extracts of Ocimum gratissimum and Aframomum danielli on moulds isolated from rice grains.",
+      "Measure the radial growth inhibition of moulds by the plant extracts."
+    ],
+    "results": [
+      "Both Ocimum gratissimum and Aframomum danielli extracts showed significant antifungal activity against the moulds, with varying levels of inhibition.",
+      "Ocimum gratissimum extract showed slightly higher antifungal activity than Aframomum danielli extract, but the difference was not statistically significant."
+    ],
+    "research_subject": "Antifungal activity of plant extracts against moulds isolated from stored rice"
+  },
+  "openai_json": {
+    "motivations": [
+      "Moulds on stored rice grains pose a significant problem, affecting the quality and safety of the rice.",
+      "There is a need to explore natural, plant-based solutions for their potential antifungal activity against these moulds."
+    ],
+    "objectives": [
+      "Determine the fungitoxic effect of extracts from Ocimum gratissimum and Aframomum danielli on moulds isolated from rice grains.",
+      "Compare the antifungal activity of Ocimum gratissimum and Aframomum danielli."
+    ],
+    "methods": [
+      "Conduct in vitro tests to measure the inhibition of radial growth of moulds by aqueous extracts of Aframomum danielli and Ocimum gratissimum."
+    ],
+    "results": [
+      "Aframomum danielli and Ocimum gratissimum extracts showed varying levels of fungitoxic activities against moulds isolated from rice grains.",
+      "Ocimum gratissimum showed slightly greater antifungal activity against the storage fungi compared to Aframomum danielli, but the difference was not statistically significant."
+    ],
+    "research_subject": "Antifungal activity of Ocimum gratissimum and Aframomum danielli extracts against moulds on stored rice"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Moulds contaminating stored rice grains pose significant threats to food security and quality.",
+      "There is a need for natural, eco-friendly alternatives to synthetic fungicides for protecting stored agricultural products."
+    ],
+    "objectives": [
+      "Evaluate the antifungal activity of Ocimum gratissimum and Aframomum danielli extracts against moulds isolated from stored rice grains.",
+      "Determine the potential of these plant extracts as natural preservatives for rice storage."
+    ],
+    "methods": [
+      "In vitro assessment of aqueous plant extracts' fungitoxic effects on isolated moulds by measuring radial growth inhibition.",
+      "Comparative analysis of the antifungal efficacy of Ocimum gratissimum and Aframomum danielli extracts against various storage fungi."
+    ],
+    "results": [
+      "Both plant extracts demonstrated significant antifungal activity, with Ocimum gratissimum showing slightly higher mean inhibition (53.4%) compared to Aframomum danielli (51.9%).",
+      "Aspergillus niger and Penicillium citrinum showed the highest sensitivity to the extracts, while Cladosporium sphaerospermum was the least sensitive to both treatments.",
+      "No significant difference was found between the antifungal effects of the two plant extracts, suggesting both could be used as natural preservatives for rice storage."
+    ],
+    "research_subject": "Antifungal activity of plant extracts against rice storage moulds"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Mould growth on stored rice is a significant problem that can lead to spoilage and contamination.\",\n    \"There is a need for effective and natural antifungal agents to control mould growth on stored rice.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the antifungal activity of extracts of Ocimum gratissimum and Aframomum danielli against moulds isolated from stored rice.\",\n    \"Compare the effectiveness of the two plant extracts in inhibiting mould growth.\"\n  ],\n  \"methods\": [\n    \"Conduct in vitro experiments to determine the fungitoxic effect of aqueous extracts of Ocimum gratissimum and Aframomum danielli on moulds isolated from rice grains.\",\n    \"Measure the radial growth inhibition of moulds by the plant extracts.\"\n  ],\n  \"results\": [\n    \"Both Ocimum gratissimum and Aframomum danielli extracts showed significant antifungal activity against the moulds, with varying levels of inhibition.\",\n    \"Ocimum gratissimum extract showed slightly higher antifungal activity than Aframomum danielli extract, but the difference was not statistically significant.\"\n  ],\n  \"research_subject\": \"Antifungal activity of plant extracts against moulds isolated from stored rice\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Moulds on stored rice grains pose a significant problem, affecting the quality and safety of the rice.\",\n    \"There is a need to explore natural, plant-based solutions for their potential antifungal activity against these moulds.\"\n  ],\n  \"objectives\": [\n    \"Determine the fungitoxic effect of extracts from Ocimum gratissimum and Aframomum danielli on moulds isolated from rice grains.\",\n    \"Compare the antifungal activity of Ocimum gratissimum and Aframomum danielli.\"\n  ],\n  \"methods\": [\n    \"Conduct in vitro tests to measure the inhibition of radial growth of moulds by aqueous extracts of Aframomum danielli and Ocimum gratissimum.\"\n  ],\n  \"results\": [\n    \"Aframomum danielli and Ocimum gratissimum extracts showed varying levels of fungitoxic activities against moulds isolated from rice grains.\",\n    \"Ocimum gratissimum showed slightly greater antifungal activity against the storage fungi compared to Aframomum danielli, but the difference was not statistically significant.\"\n  ],\n  \"research_subject\": \"Antifungal activity of Ocimum gratissimum and Aframomum danielli extracts against moulds on stored rice\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Moulds contaminating stored rice grains pose significant threats to food security and quality.\",\n    \"There is a need for natural, eco-friendly alternatives to synthetic fungicides for protecting stored agricultural products.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the antifungal activity of Ocimum gratissimum and Aframomum danielli extracts against moulds isolated from stored rice grains.\",\n    \"Determine the potential of these plant extracts as natural preservatives for rice storage.\"\n  ],\n  \"methods\": [\n    \"In vitro assessment of aqueous plant extracts' fungitoxic effects on isolated moulds by measuring radial growth inhibition.\",\n    \"Comparative analysis of the antifungal efficacy of Ocimum gratissimum and Aframomum danielli extracts against various storage fungi.\"\n  ],\n  \"results\": [\n    \"Both plant extracts demonstrated significant antifungal activity, with Ocimum gratissimum showing slightly higher mean inhibition (53.4%) compared to Aframomum danielli (51.9%).\",\n    \"Aspergillus niger and Penicillium citrinum showed the highest sensitivity to the extracts, while Cladosporium sphaerospermum was the least sensitive to both treatments.\",\n    \"No significant difference was found between the antifungal effects of the two plant extracts, suggesting both could be used as natural preservatives for rice storage.\"\n  ],\n  \"research_subject\": \"Antifungal activity of plant extracts against rice storage moulds\"\n}\n```"
+}

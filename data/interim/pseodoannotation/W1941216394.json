@@ -1,0 +1,65 @@
+{
+  "index": 497,
+  "title": "Solubility of Polyethers in Hydrocarbons at Low Temperatures. A Model for Potential Genetic Backbones on Warm Titans",
+  "abstract": "Ethers are proposed here as the repeating backbone linking units in linear genetic biopolymers that might support Darwinian evolution in hydrocarbon oceans. Hydrocarbon oceans are found in our own solar system as methane mixtures on Titan. They may be found as mixtures of higher alkanes (propane, for example) on warmer hydrocarbon-rich planets in exosolar systems (\"warm Titans\"). We report studies on the solubility of several short polyethers in propane over its liquid range (from 85 to 231 K, or -188 °C to -42 °C). These show that polyethers are reasonably soluble in propane at temperatures down to ca. 200 K. However, their solubilities drop dramatically at still lower temperatures and become immeasurably low below 170 K, still well above the ∼ 95 K in Titan's oceans. Assuming that a liquid phase is essential for any living system, and genetic biopolymers must dissolve in that biosolvent to support Darwinism, these data suggest that we must look elsewhere to identify linear biopolymers that might support genetics in Titan's surface oceans. However, genetic molecules with polyether backbones may be suitable to support life in hydrocarbon oceans on warm Titans, where abundant organics and environments lacking corrosive water might make it easier for life to originate.",
+  "llama_json": {
+    "motivations": [
+      "The search for potential genetic backbones that can support Darwinian evolution in hydrocarbon oceans, such as those found on Titan and other exoplanets.",
+      "The need to identify linear biopolymers that can dissolve in hydrocarbon solvents at low temperatures to support life in these environments."
+    ],
+    "objectives": [
+      "Investigate the solubility of polyethers in hydrocarbons at low temperatures as a potential genetic backbone for life on Titan and other hydrocarbon-rich planets.",
+      "Determine the suitability of polyethers as a genetic backbone for life in hydrocarbon oceans on warm Titans."
+    ],
+    "methods": [
+      "Measure the solubility of short polyethers in propane over its liquid range (85-231 K).",
+      "Analyze the temperature-dependent solubility of polyethers in propane to assess their potential as genetic backbones."
+    ],
+    "results": [
+      "Polyethers are reasonably soluble in propane at temperatures down to 200 K, but their solubility drops dramatically at lower temperatures.",
+      "Polyethers may be suitable as genetic backbones for life in hydrocarbon oceans on warm Titans, but not in Titan's surface oceans due to their low solubility at very low temperatures."
+    ],
+    "research_subject": "Solubility of polyethers in hydrocarbons at low temperatures as a model for potential genetic backbones on warm Titans"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the potential for life-supporting genetic biopolymers in hydrocarbon oceans, such as those found on Titan and potentially on 'warm Titans' in exosolar systems.",
+      "The solubility of polyethers, proposed as potential backbone units in genetic biopolymers, in hydrocarbon environments at low temperatures is not well understood."
+    ],
+    "objectives": [
+      "Investigate the solubility of several short polyethers in propane over its liquid range to assess their potential as genetic biopolymers in hydrocarbon oceans.",
+      "Explore the implications of the solubility data for the potential of life-supporting genetic biopolymers in Titan's oceans and on 'warm Titans'."
+    ],
+    "methods": [
+      "Conduct solubility studies of short polyethers in propane over a temperature range from 85 to 231 K.",
+      "Analyze the implications of the solubility data for the potential of polyether-based genetic biopolymers in hydrocarbon oceans."
+    ],
+    "results": [
+      "Polyethers are reasonably soluble in propane at temperatures down to about 200 K, but their solubilities drop dramatically at lower temperatures.",
+      "The data suggest that polyether-based genetic biopolymers may not be suitable for supporting life in Titan's oceans, but could potentially support life in hydrocarbon oceans on 'warm Titans'."
+    ],
+    "research_subject": "Solubility of polyethers in hydrocarbons and implications for potential genetic biopolymers on Titan and 'warm Titans'"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding potential genetic biopolymers that could support Darwinian evolution in non-aqueous environments like hydrocarbon oceans on Titan and exoplanets.",
+      "The need to identify molecular structures that remain soluble in liquid hydrocarbons at various temperatures to support potential life forms."
+    ],
+    "objectives": [
+      "Investigate the solubility of polyethers in hydrocarbons across different temperature ranges to assess their viability as genetic backbone materials.",
+      "Determine whether polyethers could serve as repeating backbone units for genetic biopolymers in hydrocarbon-rich environments."
+    ],
+    "methods": [
+      "Experimental measurement of polyether solubility in propane across its liquid temperature range.",
+      "Analysis of solubility patterns at temperatures ranging from those found on Titan to warmer exoplanetary conditions."
+    ],
+    "results": [
+      "Polyethers show reasonable solubility in propane at temperatures down to 200 K but become essentially insoluble below 170 K.",
+      "Polyether-based genetic molecules are unsuitable for Titan's surface oceans but may support life in warmer hydrocarbon environments on exoplanets."
+    ],
+    "research_subject": "Polyether solubility in hydrocarbons as potential genetic biopolymer backbones for extraterrestrial life"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The search for potential genetic backbones that can support Darwinian evolution in hydrocarbon oceans, such as those found on Titan and other exoplanets.\",\n    \"The need to identify linear biopolymers that can dissolve in hydrocarbon solvents at low temperatures to support life in these environments.\"\n  ],\n  \"objectives\": [\n    \"Investigate the solubility of polyethers in hydrocarbons at low temperatures as a potential genetic backbone for life on Titan and other hydrocarbon-rich planets.\",\n    \"Determine the suitability of polyethers as a genetic backbone for life in hydrocarbon oceans on warm Titans.\"\n  ],\n  \"methods\": [\n    \"Measure the solubility of short polyethers in propane over its liquid range (85-231 K).\",\n    \"Analyze the temperature-dependent solubility of polyethers in propane to assess their potential as genetic backbones.\"\n  ],\n  \"results\": [\n    \"Polyethers are reasonably soluble in propane at temperatures down to 200 K, but their solubility drops dramatically at lower temperatures.\",\n    \"Polyethers may be suitable as genetic backbones for life in hydrocarbon oceans on warm Titans, but not in Titan's surface oceans due to their low solubility at very low temperatures.\"\n  ],\n  \"research_subject\": \"Solubility of polyethers in hydrocarbons at low temperatures as a model for potential genetic backbones on warm Titans\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the potential for life-supporting genetic biopolymers in hydrocarbon oceans, such as those found on Titan and potentially on 'warm Titans' in exosolar systems.\",\n    \"The solubility of polyethers, proposed as potential backbone units in genetic biopolymers, in hydrocarbon environments at low temperatures is not well understood.\"\n  ],\n  \"objectives\": [\n    \"Investigate the solubility of several short polyethers in propane over its liquid range to assess their potential as genetic biopolymers in hydrocarbon oceans.\",\n    \"Explore the implications of the solubility data for the potential of life-supporting genetic biopolymers in Titan's oceans and on 'warm Titans'.\"\n  ],\n  \"methods\": [\n    \"Conduct solubility studies of short polyethers in propane over a temperature range from 85 to 231 K.\",\n    \"Analyze the implications of the solubility data for the potential of polyether-based genetic biopolymers in hydrocarbon oceans.\"\n  ],\n  \"results\": [\n    \"Polyethers are reasonably soluble in propane at temperatures down to about 200 K, but their solubilities drop dramatically at lower temperatures.\",\n    \"The data suggest that polyether-based genetic biopolymers may not be suitable for supporting life in Titan's oceans, but could potentially support life in hydrocarbon oceans on 'warm Titans'.\"\n  ],\n  \"research_subject\": \"Solubility of polyethers in hydrocarbons and implications for potential genetic biopolymers on Titan and 'warm Titans'\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding potential genetic biopolymers that could support Darwinian evolution in non-aqueous environments like hydrocarbon oceans on Titan and exoplanets.\",\n    \"The need to identify molecular structures that remain soluble in liquid hydrocarbons at various temperatures to support potential life forms.\"\n  ],\n  \"objectives\": [\n    \"Investigate the solubility of polyethers in hydrocarbons across different temperature ranges to assess their viability as genetic backbone materials.\",\n    \"Determine whether polyethers could serve as repeating backbone units for genetic biopolymers in hydrocarbon-rich environments.\"\n  ],\n  \"methods\": [\n    \"Experimental measurement of polyether solubility in propane across its liquid temperature range.\",\n    \"Analysis of solubility patterns at temperatures ranging from those found on Titan to warmer exoplanetary conditions.\"\n  ],\n  \"results\": [\n    \"Polyethers show reasonable solubility in propane at temperatures down to 200 K but become essentially insoluble below 170 K.\",\n    \"Polyether-based genetic molecules are unsuitable for Titan's surface oceans but may support life in warmer hydrocarbon environments on exoplanets.\"\n  ],\n  \"research_subject\": \"Polyether solubility in hydrocarbons as potential genetic biopolymer backbones for extraterrestrial life\"\n}\n```"
+}

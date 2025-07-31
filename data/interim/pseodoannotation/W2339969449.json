@@ -1,0 +1,67 @@
+{
+  "index": 381,
+  "title": "The Public Sector Accounting, Accountability and Auditing in Emerging Economies: Insights, Gaps and Some New Ways Forward",
+  "abstract": "Abstract\r Purpose\r The purpose of this paper is to introduce and synthesise insights from the papers contained in this special issue on accounting, accountability and auditing in emerging economies.\r \r \r Methodology/approach\r This paper draws upon general desk research and the papers in this special edition.\r \r \r Findings\r This paper shows that the rapid development of public sector accounting, accountability and auditing in emerging economies presents theoretical and empirical challenges because of the different ways in which public sector reforms and changes are understood and enacted within institutions.\r \r \r Practical implications\r This paper provides academics, regulators and reporting organisations with robust evidence to help inform improvements in policy and practice. It is concluded that public sector accounting, accountability and auditing reforms in emerging economies are more likely to achieve set objectives if there is a high degree of local-level involvement in their implementation.\r \r \r Originality/value\r Drawing together a collection of papers in this emerging research field, this paper highlights many areas where further academic research is needed as well as indicating some new ways forward.",
+  "llama_json": {
+    "motivations": [
+      "The rapid development of public sector accounting, accountability, and auditing in emerging economies presents theoretical and empirical challenges.",
+      "There is a need for improvements in policy and practice to support effective public sector reforms in emerging economies."
+    ],
+    "objectives": [
+      "Synthesize insights from research on accounting, accountability, and auditing in emerging economies.",
+      "Identify gaps and areas for further research in public sector accounting, accountability, and auditing in emerging economies.",
+      "Inform improvements in policy and practice for public sector reforms in emerging economies."
+    ],
+    "methods": [
+      "Conduct general desk research on public sector accounting, accountability, and auditing in emerging economies.",
+      "Draw upon papers in a special edition to synthesize insights and identify gaps in research."
+    ],
+    "results": [
+      "Provide robust evidence to inform improvements in policy and practice for public sector accounting, accountability, and auditing in emerging economies.",
+      "Highlight the importance of local-level involvement in implementing public sector reforms in emerging economies."
+    ],
+    "research_subject": "Public sector accounting, accountability, and auditing in emerging economies"
+  },
+  "openai_json": {
+    "motivations": [
+      "The rapid development of public sector accounting, accountability, and auditing in emerging economies presents theoretical and empirical challenges due to varying interpretations and implementations of public sector reforms.",
+      "There is a need for robust evidence to inform improvements in policy and practice in public sector accounting, accountability, and auditing in emerging economies."
+    ],
+    "objectives": [
+      "Synthesize insights from various papers on accounting, accountability, and auditing in emerging economies.",
+      "Identify gaps and suggest new directions for academic research in the field of public sector accounting, accountability, and auditing in emerging economies."
+    ],
+    "methods": [
+      "Conduct general desk research and review papers included in the special issue.",
+      "Analyze the different ways in which public sector reforms and changes are understood and enacted within institutions in emerging economies."
+    ],
+    "results": [
+      "Provide academics, regulators, and reporting organizations with evidence to inform policy and practice improvements.",
+      "Highlight areas where further academic research is needed and suggest new directions for research."
+    ],
+    "research_subject": "Public sector accounting, accountability, and auditing in emerging economies"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The rapid development of public sector accounting, accountability and auditing in emerging economies presents theoretical and empirical challenges due to varying interpretations and implementations of reforms.",
+      "There is a need to understand how public sector reforms are enacted within institutions in emerging economies and their effectiveness in achieving intended objectives."
+    ],
+    "objectives": [
+      "Introduce and synthesize insights from research on public sector accounting, accountability and auditing in emerging economies.",
+      "Identify gaps in current knowledge and propose new directions for future research in this field."
+    ],
+    "methods": [
+      "Conduct desk research and analyze papers from a special issue on accounting, accountability and auditing in emerging economies.",
+      "Synthesize findings across multiple studies to identify common themes and challenges."
+    ],
+    "results": [
+      "Public sector reforms in emerging economies are more likely to succeed when there is high local-level involvement in implementation.",
+      "The research provides evidence to inform improvements in policy and practice for academics, regulators and reporting organizations.",
+      "Multiple areas requiring further academic research are identified along with new potential research directions."
+    ],
+    "research_subject": "Public sector accounting, accountability and auditing reforms in emerging economies"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The rapid development of public sector accounting, accountability, and auditing in emerging economies presents theoretical and empirical challenges.\",\n    \"There is a need for improvements in policy and practice to support effective public sector reforms in emerging economies.\"\n  ],\n  \"objectives\": [\n    \"Synthesize insights from research on accounting, accountability, and auditing in emerging economies.\",\n    \"Identify gaps and areas for further research in public sector accounting, accountability, and auditing in emerging economies.\",\n    \"Inform improvements in policy and practice for public sector reforms in emerging economies.\"\n  ],\n  \"methods\": [\n    \"Conduct general desk research on public sector accounting, accountability, and auditing in emerging economies.\",\n    \"Draw upon papers in a special edition to synthesize insights and identify gaps in research.\"\n  ],\n  \"results\": [\n    \"Provide robust evidence to inform improvements in policy and practice for public sector accounting, accountability, and auditing in emerging economies.\",\n    \"Highlight the importance of local-level involvement in implementing public sector reforms in emerging economies.\"\n  ],\n  \"research_subject\": \"Public sector accounting, accountability, and auditing in emerging economies\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The rapid development of public sector accounting, accountability, and auditing in emerging economies presents theoretical and empirical challenges due to varying interpretations and implementations of public sector reforms.\",\n    \"There is a need for robust evidence to inform improvements in policy and practice in public sector accounting, accountability, and auditing in emerging economies.\"\n  ],\n  \"objectives\": [\n    \"Synthesize insights from various papers on accounting, accountability, and auditing in emerging economies.\",\n    \"Identify gaps and suggest new directions for academic research in the field of public sector accounting, accountability, and auditing in emerging economies.\"\n  ],\n  \"methods\": [\n    \"Conduct general desk research and review papers included in the special issue.\",\n    \"Analyze the different ways in which public sector reforms and changes are understood and enacted within institutions in emerging economies.\"\n  ],\n  \"results\": [\n    \"Provide academics, regulators, and reporting organizations with evidence to inform policy and practice improvements.\",\n    \"Highlight areas where further academic research is needed and suggest new directions for research.\"\n  ],\n  \"research_subject\": \"Public sector accounting, accountability, and auditing in emerging economies\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The rapid development of public sector accounting, accountability and auditing in emerging economies presents theoretical and empirical challenges due to varying interpretations and implementations of reforms.\",\n    \"There is a need to understand how public sector reforms are enacted within institutions in emerging economies and their effectiveness in achieving intended objectives.\"\n  ],\n  \"objectives\": [\n    \"Introduce and synthesize insights from research on public sector accounting, accountability and auditing in emerging economies.\",\n    \"Identify gaps in current knowledge and propose new directions for future research in this field.\"\n  ],\n  \"methods\": [\n    \"Conduct desk research and analyze papers from a special issue on accounting, accountability and auditing in emerging economies.\",\n    \"Synthesize findings across multiple studies to identify common themes and challenges.\"\n  ],\n  \"results\": [\n    \"Public sector reforms in emerging economies are more likely to succeed when there is high local-level involvement in implementation.\",\n    \"The research provides evidence to inform improvements in policy and practice for academics, regulators and reporting organizations.\",\n    \"Multiple areas requiring further academic research are identified along with new potential research directions.\"\n  ],\n  \"research_subject\": \"Public sector accounting, accountability and auditing reforms in emerging economies\"\n}\n```"
+}

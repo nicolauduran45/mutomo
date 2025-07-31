@@ -1,0 +1,29 @@
+{
+  "index": 277,
+  "title": "Kristina Lepold: Ambivalente Anerkennung",
+  "abstract": "Rezension von Kristina Lepold: Ambivalente Anerkennung. Frankfurt am Main/New York: Campus Verlag 2021.",
+  "llama_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": "Kristina Lepold's Ambivalente Anerkennung"
+  },
+  "openai_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": "Review of Kristina Lepold's book 'Ambivalente Anerkennung'"
+  },
+  "anthropic_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": "Book review of 'Ambivalente Anerkennung' by Kristina Lepold"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Kristina Lepold's Ambivalente Anerkennung\"\n}\n```",
+  "openai_raw": "Output:\n\n```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Review of Kristina Lepold's book 'Ambivalente Anerkennung'\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Book review of 'Ambivalente Anerkennung' by Kristina Lepold\"\n}\n```"
+}

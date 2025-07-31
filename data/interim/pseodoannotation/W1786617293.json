@@ -1,0 +1,65 @@
+{
+  "index": 314,
+  "title": "Alternative Technique reducing complexity of Maximum Attribute Relation",
+  "abstract": "Clustering refers to the method grouping the large data into the smaller groups based on the similarity measure. Clustering techniques have been applied on numerical, categorical and mix data. One of the categorical data clustering technique based on the soft set theory is Maximum Attribute Relation (MAR). The MAR technique allows calculating all of pair multi soft set made. However, the computational complexity is still an issue of the technique. To overcome the drawback, the paper proposes the alternative algorithm to decrease the complexity so get the faster response time. In this paper, to get the similar results as MAR without calculating all pair of soft set is proved. The alternative algorithm is implemented in MATLAB Software, and then experimental is run on the 10 benchmark datasets. The results show that the alternative algorithm improves the computational complexity in term of response time up to 36.46%",
+  "llama_json": {
+    "motivations": [
+      "The Maximum Attribute Relation (MAR) technique for categorical data clustering has high computational complexity, leading to slow response times.",
+      "There is a need for an alternative technique that can reduce the complexity of MAR while achieving similar results."
+    ],
+    "objectives": [
+      "Develop an alternative algorithm to decrease the computational complexity of MAR.",
+      "Improve the response time of MAR without compromising its effectiveness."
+    ],
+    "methods": [
+      "Propose an alternative algorithm that avoids calculating all pairs of soft sets.",
+      "Implement the alternative algorithm in MATLAB Software and conduct experiments on benchmark datasets."
+    ],
+    "results": [
+      "The alternative algorithm achieves similar results to MAR with reduced computational complexity.",
+      "The response time is improved by up to 36.46% compared to the original MAR technique."
+    ],
+    "research_subject": "Reducing the complexity of Maximum Attribute Relation (MAR) technique for categorical data clustering"
+  },
+  "openai_json": {
+    "motivations": [
+      "Clustering large data into smaller groups based on similarity is a common technique, but computational complexity remains a challenge, particularly for the Maximum Attribute Relation (MAR) technique.",
+      "There is a need for an alternative algorithm that can reduce the complexity and improve the response time of the MAR technique."
+    ],
+    "objectives": [
+      "Propose an alternative algorithm to decrease the computational complexity of the MAR technique and achieve faster response times.",
+      "Prove that the alternative algorithm can achieve similar results to MAR without calculating all pairs of soft sets."
+    ],
+    "methods": [
+      "Develop an alternative algorithm based on the soft set theory to reduce the complexity of the MAR technique.",
+      "Implement the alternative algorithm in MATLAB software and run experiments on 10 benchmark datasets."
+    ],
+    "results": [
+      "The alternative algorithm improves the computational complexity of the MAR technique in terms of response time by up to 36.46%.",
+      "The alternative algorithm achieves similar results to the MAR technique without the need to calculate all pairs of soft sets."
+    ],
+    "research_subject": "Reducing the complexity of the Maximum Attribute Relation technique using an alternative algorithm"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Maximum Attribute Relation (MAR) clustering technique for categorical data suffers from high computational complexity due to the need to calculate all pairs of multi soft sets.",
+      "There is a need for more efficient clustering algorithms that can handle categorical data without compromising accuracy."
+    ],
+    "objectives": [
+      "Develop an alternative algorithm that reduces the computational complexity of the Maximum Attribute Relation clustering technique while maintaining similar clustering results.",
+      "Improve the response time of categorical data clustering without calculating all pairs of soft sets."
+    ],
+    "methods": [
+      "Design an alternative algorithm that avoids calculating all pairs of soft sets while achieving similar clustering results as MAR.",
+      "Implement the proposed algorithm in MATLAB and conduct experiments on benchmark datasets to evaluate performance."
+    ],
+    "results": [
+      "The alternative algorithm achieves up to 36.46% improvement in response time compared to the original MAR technique.",
+      "The proposed method maintains similar clustering results while significantly reducing computational complexity."
+    ],
+    "research_subject": "Computational complexity reduction in categorical data clustering using soft set theory"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The Maximum Attribute Relation (MAR) technique for categorical data clustering has high computational complexity, leading to slow response times.\",\n    \"There is a need for an alternative technique that can reduce the complexity of MAR while achieving similar results.\"\n  ],\n  \"objectives\": [\n    \"Develop an alternative algorithm to decrease the computational complexity of MAR.\",\n    \"Improve the response time of MAR without compromising its effectiveness.\"\n  ],\n  \"methods\": [\n    \"Propose an alternative algorithm that avoids calculating all pairs of soft sets.\",\n    \"Implement the alternative algorithm in MATLAB Software and conduct experiments on benchmark datasets.\"\n  ],\n  \"results\": [\n    \"The alternative algorithm achieves similar results to MAR with reduced computational complexity.\",\n    \"The response time is improved by up to 36.46% compared to the original MAR technique.\"\n  ],\n  \"research_subject\": \"Reducing the complexity of Maximum Attribute Relation (MAR) technique for categorical data clustering\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Clustering large data into smaller groups based on similarity is a common technique, but computational complexity remains a challenge, particularly for the Maximum Attribute Relation (MAR) technique.\",\n    \"There is a need for an alternative algorithm that can reduce the complexity and improve the response time of the MAR technique.\"\n  ],\n  \"objectives\": [\n    \"Propose an alternative algorithm to decrease the computational complexity of the MAR technique and achieve faster response times.\",\n    \"Prove that the alternative algorithm can achieve similar results to MAR without calculating all pairs of soft sets.\"\n  ],\n  \"methods\": [\n    \"Develop an alternative algorithm based on the soft set theory to reduce the complexity of the MAR technique.\",\n    \"Implement the alternative algorithm in MATLAB software and run experiments on 10 benchmark datasets.\"\n  ],\n  \"results\": [\n    \"The alternative algorithm improves the computational complexity of the MAR technique in terms of response time by up to 36.46%.\",\n    \"The alternative algorithm achieves similar results to the MAR technique without the need to calculate all pairs of soft sets.\"\n  ],\n  \"research_subject\": \"Reducing the complexity of the Maximum Attribute Relation technique using an alternative algorithm\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The Maximum Attribute Relation (MAR) clustering technique for categorical data suffers from high computational complexity due to the need to calculate all pairs of multi soft sets.\",\n    \"There is a need for more efficient clustering algorithms that can handle categorical data without compromising accuracy.\"\n  ],\n  \"objectives\": [\n    \"Develop an alternative algorithm that reduces the computational complexity of the Maximum Attribute Relation clustering technique while maintaining similar clustering results.\",\n    \"Improve the response time of categorical data clustering without calculating all pairs of soft sets.\"\n  ],\n  \"methods\": [\n    \"Design an alternative algorithm that avoids calculating all pairs of soft sets while achieving similar clustering results as MAR.\",\n    \"Implement the proposed algorithm in MATLAB and conduct experiments on benchmark datasets to evaluate performance.\"\n  ],\n  \"results\": [\n    \"The alternative algorithm achieves up to 36.46% improvement in response time compared to the original MAR technique.\",\n    \"The proposed method maintains similar clustering results while significantly reducing computational complexity.\"\n  ],\n  \"research_subject\": \"Computational complexity reduction in categorical data clustering using soft set theory\"\n}\n```"
+}

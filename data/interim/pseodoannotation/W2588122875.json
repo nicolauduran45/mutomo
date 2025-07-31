@@ -1,0 +1,68 @@
+{
+  "index": 293,
+  "title": "Can economic incentives enhance adoption and use of a household energy technology? Evidence from a pilot study in Cambodia",
+  "abstract": "While much work has examined approaches to increase uptake of a variety of household environmental, health and energy technologies, researchers and policymakers alike have struggled to ensure long-term use. Drawing on a pilot-scale experiment conducted in rural Cambodia, this study evaluates whether economic incentives enhance continued use of—and fuel savings from—improved cookstoves (ICS). Capital-cost subsidies that have been traditionally employed to enhance ICS adoption were augmented with rebates linked to stated and objectively measured use in order to investigate impacts on both initial and sustained adoption in the treatment group. Results show that households do respond to these rebates by adopting the intervention ICS at significantly higher rates, and by using it more frequently and for longer periods. Consistent with these stove-use patterns, solid-fuel use and time spent collecting or preparing fuels also decline. However, this effect appears to diminish over time. Thus, while economic inducements may significantly increase adoption and use of new environmental health technologies, corresponding reductions in environmental or livelihood burdens are not guaranteed. Additional research on the design and implementation of incentive-based interventions targeting households directly—such as carbon financing or other forms of results-based financing (RBF) for improved cookstoves—therefore seems warranted prior to wider implementation of such solutions.",
+  "llama_json": {
+    "motivations": [
+      "Researchers and policymakers struggle to ensure long-term use of household environmental, health, and energy technologies despite efforts to increase uptake.",
+      "There is a need to investigate the effectiveness of economic incentives in enhancing the adoption and sustained use of such technologies."
+    ],
+    "objectives": [
+      "Evaluate the impact of economic incentives on the adoption and continued use of improved cookstoves in rural Cambodia.",
+      "Assess the effect of rebates linked to stove use on fuel savings and environmental or livelihood burdens."
+    ],
+    "methods": [
+      "Conduct a pilot-scale experiment with a treatment group receiving capital-cost subsidies and rebates linked to stove use.",
+      "Measure stove use and fuel savings through stated and objectively measured data."
+    ],
+    "results": [
+      "Economic incentives significantly increase adoption and use of improved cookstoves, leading to reduced solid-fuel use and time spent collecting or preparing fuels.",
+      "However, the effect of incentives appears to diminish over time, suggesting that corresponding reductions in environmental or livelihood burdens are not guaranteed."
+    ],
+    "research_subject": "Effectiveness of economic incentives in promoting adoption and sustained use of household energy technologies"
+  },
+  "openai_json": {
+    "motivations": [
+      "Researchers and policymakers have struggled to ensure long-term use of household environmental, health and energy technologies.",
+      "There is a need to understand the impact of economic incentives on the sustained adoption and use of improved cookstoves (ICS)."
+    ],
+    "objectives": [
+      "Evaluate whether economic incentives can enhance the continued use of and fuel savings from improved cookstoves.",
+      "Investigate the impacts of capital-cost subsidies and rebates on both initial and sustained adoption of ICS."
+    ],
+    "methods": [
+      "Conduct a pilot-scale experiment in rural Cambodia, providing subsidies and rebates linked to the use of ICS.",
+      "Measure the adoption rates, usage frequency, and duration of use of ICS in response to the economic incentives.",
+      "Assess changes in solid-fuel use and time spent on fuel collection or preparation."
+    ],
+    "results": [
+      "Economic incentives significantly increase the adoption and use of ICS, and reduce solid-fuel use and time spent on fuel-related tasks.",
+      "The effect of economic incentives appears to diminish over time, suggesting that sustained reductions in environmental or livelihood burdens are not guaranteed.",
+      "The findings warrant further research on incentive-based interventions such as carbon financing or results-based financing for improved cookstoves."
+    ],
+    "research_subject": "Impact of economic incentives on the adoption and use of improved cookstoves"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Researchers and policymakers struggle to ensure long-term use of household environmental, health and energy technologies despite efforts to increase initial uptake.",
+      "Traditional capital-cost subsidies for improved cookstoves may not be sufficient to sustain adoption and use over time."
+    ],
+    "objectives": [
+      "Evaluate whether economic incentives, specifically rebates linked to usage, can enhance continued use of improved cookstoves and increase fuel savings.",
+      "Investigate the impacts of combining capital-cost subsidies with usage-based rebates on both initial and sustained adoption of improved cookstoves."
+    ],
+    "methods": [
+      "Conduct a pilot-scale experiment in rural Cambodia comparing traditional subsidies with augmented rebates linked to stated and objectively measured cookstove use.",
+      "Measure adoption rates, usage frequency and duration, solid-fuel consumption, and time spent on fuel collection or preparation."
+    ],
+    "results": [
+      "Households receiving usage-based rebates adopted improved cookstoves at significantly higher rates and used them more frequently and for longer periods.",
+      "Solid-fuel use and time spent collecting or preparing fuels declined, but these effects appeared to diminish over time.",
+      "Economic inducements can increase adoption and use of environmental health technologies, but do not guarantee sustained reductions in environmental or livelihood burdens."
+    ],
+    "research_subject": "Economic incentives for sustained adoption and use of improved cookstoves in rural Cambodia"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Researchers and policymakers struggle to ensure long-term use of household environmental, health, and energy technologies despite efforts to increase uptake.\",\n    \"There is a need to investigate the effectiveness of economic incentives in enhancing the adoption and sustained use of such technologies.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the impact of economic incentives on the adoption and continued use of improved cookstoves in rural Cambodia.\",\n    \"Assess the effect of rebates linked to stove use on fuel savings and environmental or livelihood burdens.\"\n  ],\n  \"methods\": [\n    \"Conduct a pilot-scale experiment with a treatment group receiving capital-cost subsidies and rebates linked to stove use.\",\n    \"Measure stove use and fuel savings through stated and objectively measured data.\"\n  ],\n  \"results\": [\n    \"Economic incentives significantly increase adoption and use of improved cookstoves, leading to reduced solid-fuel use and time spent collecting or preparing fuels.\",\n    \"However, the effect of incentives appears to diminish over time, suggesting that corresponding reductions in environmental or livelihood burdens are not guaranteed.\"\n  ],\n  \"research_subject\": \"Effectiveness of economic incentives in promoting adoption and sustained use of household energy technologies\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Researchers and policymakers have struggled to ensure long-term use of household environmental, health and energy technologies.\",\n    \"There is a need to understand the impact of economic incentives on the sustained adoption and use of improved cookstoves (ICS).\"\n  ],\n  \"objectives\": [\n    \"Evaluate whether economic incentives can enhance the continued use of and fuel savings from improved cookstoves.\",\n    \"Investigate the impacts of capital-cost subsidies and rebates on both initial and sustained adoption of ICS.\"\n  ],\n  \"methods\": [\n    \"Conduct a pilot-scale experiment in rural Cambodia, providing subsidies and rebates linked to the use of ICS.\",\n    \"Measure the adoption rates, usage frequency, and duration of use of ICS in response to the economic incentives.\",\n    \"Assess changes in solid-fuel use and time spent on fuel collection or preparation.\"\n  ],\n  \"results\": [\n    \"Economic incentives significantly increase the adoption and use of ICS, and reduce solid-fuel use and time spent on fuel-related tasks.\",\n    \"The effect of economic incentives appears to diminish over time, suggesting that sustained reductions in environmental or livelihood burdens are not guaranteed.\",\n    \"The findings warrant further research on incentive-based interventions such as carbon financing or results-based financing for improved cookstoves.\"\n  ],\n  \"research_subject\": \"Impact of economic incentives on the adoption and use of improved cookstoves\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Researchers and policymakers struggle to ensure long-term use of household environmental, health and energy technologies despite efforts to increase initial uptake.\",\n    \"Traditional capital-cost subsidies for improved cookstoves may not be sufficient to sustain adoption and use over time.\"\n  ],\n  \"objectives\": [\n    \"Evaluate whether economic incentives, specifically rebates linked to usage, can enhance continued use of improved cookstoves and increase fuel savings.\",\n    \"Investigate the impacts of combining capital-cost subsidies with usage-based rebates on both initial and sustained adoption of improved cookstoves.\"\n  ],\n  \"methods\": [\n    \"Conduct a pilot-scale experiment in rural Cambodia comparing traditional subsidies with augmented rebates linked to stated and objectively measured cookstove use.\",\n    \"Measure adoption rates, usage frequency and duration, solid-fuel consumption, and time spent on fuel collection or preparation.\"\n  ],\n  \"results\": [\n    \"Households receiving usage-based rebates adopted improved cookstoves at significantly higher rates and used them more frequently and for longer periods.\",\n    \"Solid-fuel use and time spent collecting or preparing fuels declined, but these effects appeared to diminish over time.\",\n    \"Economic inducements can increase adoption and use of environmental health technologies, but do not guarantee sustained reductions in environmental or livelihood burdens.\"\n  ],\n  \"research_subject\": \"Economic incentives for sustained adoption and use of improved cookstoves in rural Cambodia\"\n}\n```"
+}

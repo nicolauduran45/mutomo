@@ -1,0 +1,62 @@
+{
+  "index": 177,
+  "title": "A QUICK LOCK WIRELINE VALVE/BLOW-OUT PREVENTOR AND METHODS FOR MAKING AND USING SAME",
+  "abstract": "A blow out preventor (BOP) apparatus is disclosed that includes a BOP body including a quick connection system including one female connector or a plurality of female connectors, disposed in each actuator receiving aperture, each female connector having a female engaging profile and one male connector or a plurality of male connectors, disposed on an outer surface of an actuator cylinder, one for each female connector, each male connector having a male engaging profile, where the male engaging profile is adapted to register with the female engaging profile upon insertion of an actuator into its corresponding receiving aperture and upon rotation of the actuator through a rotational angle, the male profile engages the female profile in at least one contacting zone, and where the rotational angle depends on the profiles.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a more efficient and reliable blow out preventor (BOP) apparatus to improve safety and performance in drilling operations."
+    ],
+    "objectives": [
+      "Design and develop a BOP apparatus with a quick connection system for easy and secure installation of actuators.",
+      "Create a reliable and efficient method for connecting and disconnecting actuators from the BOP body."
+    ],
+    "methods": [
+      "Implement a quick connection system using female and male connectors with engaging profiles.",
+      "Utilize a rotational angle to secure the connection between the male and female profiles."
+    ],
+    "results": [
+      "Improve the safety and efficiency of drilling operations by providing a reliable and easy-to-use BOP apparatus."
+    ],
+    "research_subject": "Development of a quick lock wireline valve/blow-out preventor"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an improved blow out preventor (BOP) apparatus that includes a quick connection system."
+    ],
+    "objectives": [
+      "Design a BOP apparatus with a quick connection system that includes one or more female connectors and corresponding male connectors.",
+      "Ensure that the male connector engages with the female connector upon insertion and rotation of the actuator."
+    ],
+    "methods": [
+      "Develop a BOP body with a quick connection system that includes female connectors in each actuator receiving aperture.",
+      "Design male connectors on the outer surface of an actuator cylinder, each corresponding to a female connector.",
+      "Ensure the male connector engages with the female connector upon rotation of the actuator through a specific rotational angle."
+    ],
+    "results": [
+      "A BOP apparatus with a quick connection system that allows for efficient and secure connection between the actuator and the BOP body."
+    ],
+    "research_subject": "Design and use of a quick lock wireline valve/blow-out preventor"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional blow out preventors require time-consuming connection methods that can be problematic in emergency situations where rapid deployment is critical.",
+      "There is a need for improved connection systems in blow out preventors that allow for faster installation and removal of actuators."
+    ],
+    "objectives": [
+      "Develop a blow out preventor with a quick connection system that enables rapid engagement and disengagement of actuators through rotational movement.",
+      "Create a reliable connection mechanism using male and female connector profiles that securely engage upon rotation."
+    ],
+    "methods": [
+      "Design a quick connection system using female connectors in actuator receiving apertures and corresponding male connectors on actuator cylinders.",
+      "Implement engaging profiles that register and lock through rotational movement at specific angles."
+    ],
+    "results": [
+      "Enable faster installation and removal of blow out preventor actuators through a quick-lock rotational connection system.",
+      "Improve safety and efficiency in well control operations by reducing connection time."
+    ],
+    "research_subject": "Quick-lock connection system for blow out preventor actuators"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a more efficient and reliable blow out preventor (BOP) apparatus to improve safety and performance in drilling operations.\"\n  ],\n  \"objectives\": [\n    \"Design and develop a BOP apparatus with a quick connection system for easy and secure installation of actuators.\",\n    \"Create a reliable and efficient method for connecting and disconnecting actuators from the BOP body.\"\n  ],\n  \"methods\": [\n    \"Implement a quick connection system using female and male connectors with engaging profiles.\",\n    \"Utilize a rotational angle to secure the connection between the male and female profiles.\"\n  ],\n  \"results\": [\n    \"Improve the safety and efficiency of drilling operations by providing a reliable and easy-to-use BOP apparatus.\"\n  ],\n  \"research_subject\": \"Development of a quick lock wireline valve/blow-out preventor\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved blow out preventor (BOP) apparatus that includes a quick connection system.\"\n  ],\n  \"objectives\": [\n    \"Design a BOP apparatus with a quick connection system that includes one or more female connectors and corresponding male connectors.\",\n    \"Ensure that the male connector engages with the female connector upon insertion and rotation of the actuator.\"\n  ],\n  \"methods\": [\n    \"Develop a BOP body with a quick connection system that includes female connectors in each actuator receiving aperture.\",\n    \"Design male connectors on the outer surface of an actuator cylinder, each corresponding to a female connector.\",\n    \"Ensure the male connector engages with the female connector upon rotation of the actuator through a specific rotational angle.\"\n  ],\n  \"results\": [\n    \"A BOP apparatus with a quick connection system that allows for efficient and secure connection between the actuator and the BOP body.\"\n  ],\n  \"research_subject\": \"Design and use of a quick lock wireline valve/blow-out preventor\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional blow out preventors require time-consuming connection methods that can be problematic in emergency situations where rapid deployment is critical.\",\n    \"There is a need for improved connection systems in blow out preventors that allow for faster installation and removal of actuators.\"\n  ],\n  \"objectives\": [\n    \"Develop a blow out preventor with a quick connection system that enables rapid engagement and disengagement of actuators through rotational movement.\",\n    \"Create a reliable connection mechanism using male and female connector profiles that securely engage upon rotation.\"\n  ],\n  \"methods\": [\n    \"Design a quick connection system using female connectors in actuator receiving apertures and corresponding male connectors on actuator cylinders.\",\n    \"Implement engaging profiles that register and lock through rotational movement at specific angles.\"\n  ],\n  \"results\": [\n    \"Enable faster installation and removal of blow out preventor actuators through a quick-lock rotational connection system.\",\n    \"Improve safety and efficiency in well control operations by reducing connection time.\"\n  ],\n  \"research_subject\": \"Quick-lock connection system for blow out preventor actuators\"\n}\n```"
+}

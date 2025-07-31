@@ -1,0 +1,57 @@
+{
+  "index": 334,
+  "title": "European drug agency extends review of safety of pioglitazone",
+  "abstract": "The European Medicines Agency will decide the fate of the type 2 diabetes treatment pioglitazone later in July, after the release of new data indicating that long term use is associated with a slightly raised risk of bladder cancer. New warnings have been issued in the United States, while French authorities have suspended use of drugs containing pioglitazone, which is sold under brand names including Actos, Glustin, Competact, Glubrava, and Tandemact. Marketed for more than a decade, pioglitazone had total sales last year of almost £3bn (€3.4bn; $4.8bn) and is an important earner for the Japanese company Takeda. A competitor drug, rosiglitazone (sold as Avandia), was withdrawn from the European market last year after evidence …",
+  "llama_json": {
+    "motivations": [
+      "New data indicates that long-term use of pioglitazone is associated with a slightly raised risk of bladder cancer, prompting a review of its safety.",
+      "Concerns over the safety of pioglitazone have led to new warnings in the United States and suspension of use in France."
+    ],
+    "objectives": [
+      "Determine the fate of pioglitazone as a treatment for type 2 diabetes in light of new safety concerns."
+    ],
+    "methods": [],
+    "results": [
+      "The European Medicines Agency will decide on the continued use of pioglitazone in the European market."
+    ],
+    "research_subject": "Safety review of pioglitazone and its association with bladder cancer risk"
+  },
+  "openai_json": {
+    "motivations": [
+      "New data suggests that long-term use of the type 2 diabetes treatment pioglitazone is associated with a slightly increased risk of bladder cancer.",
+      "Different reactions from authorities across the globe to the new data necessitate a review of the safety of pioglitazone."
+    ],
+    "objectives": [
+      "The European Medicines Agency aims to review and decide the fate of pioglitazone in light of the new data."
+    ],
+    "methods": [
+      "The European Medicines Agency will conduct a review of the safety of pioglitazone."
+    ],
+    "results": [
+      "The outcome of the review will determine the future use of pioglitazone in the European market."
+    ],
+    "research_subject": "Safety review of the type 2 diabetes treatment pioglitazone"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Long-term use of pioglitazone has been associated with a slightly raised risk of bladder cancer, raising safety concerns.",
+      "Different regulatory authorities have taken varying approaches to managing the safety risks of pioglitazone, creating uncertainty about its continued use."
+    ],
+    "objectives": [
+      "Review and determine the safety profile of pioglitazone in light of new data on bladder cancer risk.",
+      "Decide on appropriate regulatory action for pioglitazone-containing drugs in the European market."
+    ],
+    "methods": [
+      "Conduct a comprehensive review of new safety data regarding pioglitazone and its association with bladder cancer.",
+      "Evaluate regulatory responses from different authorities including the United States and France."
+    ],
+    "results": [
+      "The European Medicines Agency will make a decision on pioglitazone's market authorization in July.",
+      "New safety warnings have been implemented in the United States while France has suspended the use of pioglitazone-containing drugs."
+    ],
+    "research_subject": "Safety review of pioglitazone diabetes treatment and its association with bladder cancer risk"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"New data indicates that long-term use of pioglitazone is associated with a slightly raised risk of bladder cancer, prompting a review of its safety.\",\n    \"Concerns over the safety of pioglitazone have led to new warnings in the United States and suspension of use in France.\"\n  ],\n  \"objectives\": [\n    \"Determine the fate of pioglitazone as a treatment for type 2 diabetes in light of new safety concerns.\"\n  ],\n  \"methods\": [],\n  \"results\": [\n    \"The European Medicines Agency will decide on the continued use of pioglitazone in the European market.\"\n  ],\n  \"research_subject\": \"Safety review of pioglitazone and its association with bladder cancer risk\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"New data suggests that long-term use of the type 2 diabetes treatment pioglitazone is associated with a slightly increased risk of bladder cancer.\",\n    \"Different reactions from authorities across the globe to the new data necessitate a review of the safety of pioglitazone.\"\n  ],\n  \"objectives\": [\n    \"The European Medicines Agency aims to review and decide the fate of pioglitazone in light of the new data.\"\n  ],\n  \"methods\": [\n    \"The European Medicines Agency will conduct a review of the safety of pioglitazone.\"\n  ],\n  \"results\": [\n    \"The outcome of the review will determine the future use of pioglitazone in the European market.\"\n  ],\n  \"research_subject\": \"Safety review of the type 2 diabetes treatment pioglitazone\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Long-term use of pioglitazone has been associated with a slightly raised risk of bladder cancer, raising safety concerns.\",\n    \"Different regulatory authorities have taken varying approaches to managing the safety risks of pioglitazone, creating uncertainty about its continued use.\"\n  ],\n  \"objectives\": [\n    \"Review and determine the safety profile of pioglitazone in light of new data on bladder cancer risk.\",\n    \"Decide on appropriate regulatory action for pioglitazone-containing drugs in the European market.\"\n  ],\n  \"methods\": [\n    \"Conduct a comprehensive review of new safety data regarding pioglitazone and its association with bladder cancer.\",\n    \"Evaluate regulatory responses from different authorities including the United States and France.\"\n  ],\n  \"results\": [\n    \"The European Medicines Agency will make a decision on pioglitazone's market authorization in July.\",\n    \"New safety warnings have been implemented in the United States while France has suspended the use of pioglitazone-containing drugs.\"\n  ],\n  \"research_subject\": \"Safety review of pioglitazone diabetes treatment and its association with bladder cancer risk\"\n}\n```"
+}

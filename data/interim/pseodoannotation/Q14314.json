@@ -1,0 +1,60 @@
+{
+  "index": 202,
+  "title": "Immobilier pour rénovation — Hall B",
+  "abstract": "L’objet de ce projet est la reconstruction d’une propriété délabrée — une salle de production à partir de 1962 sur un atelier de réparation pour le service et la modernisation des machines à façonner. Grâce à la reconstruction de la salle, nos capacités d’atelier seront augmentées, ce qui nous permettra de servir un plus grand nombre de commandes et de clients chaque année.",
+  "llama_json": {
+    "motivations": [
+      "A property used for production and repair services is in a state of disrepair and requires reconstruction to maintain operations."
+    ],
+    "objectives": [
+      "Reconstruct and modernize the dilapidated property to increase workshop capacity."
+    ],
+    "methods": [
+      "Renovate the existing production hall to enhance its functionality and efficiency."
+    ],
+    "results": [
+      "Increase the workshop's capacity to serve a greater number of orders and clients annually."
+    ],
+    "research_subject": "Reconstruction and renovation of a production hall"
+  },
+  "openai_json": {
+    "motivations": [
+      "The current production hall, built in 1962, is in a state of disrepair and needs renovation.",
+      "There is a need to increase workshop capacities to serve a larger number of orders and clients annually."
+    ],
+    "objectives": [
+      "Reconstruct the dilapidated property into a repair workshop for servicing and modernizing shaping machines.",
+      "Increase the workshop's capacity to handle a larger volume of orders and clients."
+    ],
+    "methods": [
+      "Undertake the reconstruction of the existing production hall from 1962.",
+      "Expand the workshop's capabilities through the renovated infrastructure."
+    ],
+    "results": [
+      "A renovated and modernized repair workshop for shaping machines.",
+      "Increased capacity to serve a larger number of orders and clients annually."
+    ],
+    "research_subject": "Reconstruction and modernization of a dilapidated production hall"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The existing production hall from 1962 is in a dilapidated state and requires reconstruction to maintain operational capacity.",
+      "Current workshop capacity is insufficient to meet the growing demand for machine shaping services and modernization."
+    ],
+    "objectives": [
+      "Reconstruct the deteriorated production hall into a modern repair workshop for servicing and modernizing shaping machines.",
+      "Increase workshop capacity to serve more orders and customers annually."
+    ],
+    "methods": [
+      "Reconstruction of the existing 1962 production hall structure into a functional repair workshop facility."
+    ],
+    "results": [
+      "Expanded workshop capacity enabling the company to handle a greater volume of orders and serve more customers each year.",
+      "Modernized facility for machine shaping services and equipment modernization."
+    ],
+    "research_subject": "Reconstruction of a production hall for machine shaping workshop expansion"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"A property used for production and repair services is in a state of disrepair and requires reconstruction to maintain operations.\"\n  ],\n  \"objectives\": [\n    \"Reconstruct and modernize the dilapidated property to increase workshop capacity.\"\n  ],\n  \"methods\": [\n    \"Renovate the existing production hall to enhance its functionality and efficiency.\"\n  ],\n  \"results\": [\n    \"Increase the workshop's capacity to serve a greater number of orders and clients annually.\"\n  ],\n  \"research_subject\": \"Reconstruction and renovation of a production hall\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The current production hall, built in 1962, is in a state of disrepair and needs renovation.\",\n    \"There is a need to increase workshop capacities to serve a larger number of orders and clients annually.\"\n  ],\n  \"objectives\": [\n    \"Reconstruct the dilapidated property into a repair workshop for servicing and modernizing shaping machines.\",\n    \"Increase the workshop's capacity to handle a larger volume of orders and clients.\"\n  ],\n  \"methods\": [\n    \"Undertake the reconstruction of the existing production hall from 1962.\",\n    \"Expand the workshop's capabilities through the renovated infrastructure.\"\n  ],\n  \"results\": [\n    \"A renovated and modernized repair workshop for shaping machines.\",\n    \"Increased capacity to serve a larger number of orders and clients annually.\"\n  ],\n  \"research_subject\": \"Reconstruction and modernization of a dilapidated production hall\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The existing production hall from 1962 is in a dilapidated state and requires reconstruction to maintain operational capacity.\",\n    \"Current workshop capacity is insufficient to meet the growing demand for machine shaping services and modernization.\"\n  ],\n  \"objectives\": [\n    \"Reconstruct the deteriorated production hall into a modern repair workshop for servicing and modernizing shaping machines.\",\n    \"Increase workshop capacity to serve more orders and customers annually.\"\n  ],\n  \"methods\": [\n    \"Reconstruction of the existing 1962 production hall structure into a functional repair workshop facility.\"\n  ],\n  \"results\": [\n    \"Expanded workshop capacity enabling the company to handle a greater volume of orders and serve more customers each year.\",\n    \"Modernized facility for machine shaping services and equipment modernization.\"\n  ],\n  \"research_subject\": \"Reconstruction of a production hall for machine shaping workshop expansion\"\n}\n```"
+}

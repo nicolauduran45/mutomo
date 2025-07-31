@@ -1,0 +1,71 @@
+{
+  "index": 224,
+  "title": "Do acoustic cues mediate host finding by Syngaster lepidus (Hymenoptera: Braconidae)?",
+  "abstract": "Syngaster lepidus Brulle is a braconid solitary ectoparasitoid that attacks the larvae of the cerambycid beetles Phoracantha semipunctata and Phoracantha recurva. The beetle larvae are concealed under the bark of their Eucalyptus host trees feeding at the interface of the inner bark and the wood. Ovipositing female parasitoids search the bark surface and must first locate a host larva accurately, drill through as much as 1 cm of the bark in order to paralyze the larva beneath, and lay a single egg on the paralyzed larva. Female wasps were provided with logs infested with host larvae, in which the positions of the host larvae had been determined by X-ray imaging. The sequence of behaviors following the landing of a female wasp on an infested log was recorded on videotape and subsequently analyzed to provide a detailed description of the processes of host location and oviposition. Female wasps searched significantly more on log sections with active host larvae than inactive larvae. They also turned toward and moved in the direction of active larvae in response to sounds produced by feeding. While searching for hosts, female wasps stand on the log surface and walk towards the location of the larvae; while it is possible that they perceive both airborne sound and associated surface vibration, the vibration signals are probably more important in indicating direction and possibly distance to the host.",
+  "llama_json": {
+    "motivations": [
+      "The mechanism by which the parasitoid Syngaster lepidus locates its host larvae concealed under the bark of Eucalyptus trees is not well understood.",
+      "Understanding the cues used by S. lepidus for host finding is crucial for elucidating the complex interactions between the parasitoid and its host."
+    ],
+    "objectives": [
+      "Determine whether acoustic cues produced by the host larvae play a role in mediating host finding by S. lepidus.",
+      "Describe the behavioral processes involved in host location and oviposition by female S. lepidus wasps."
+    ],
+    "methods": [
+      "Use X-ray imaging to determine the positions of host larvae in infested logs.",
+      "Record and analyze the sequence of behaviors exhibited by female wasps on infested logs to identify potential cues used for host finding.",
+      "Investigate the response of female wasps to sounds produced by feeding host larvae."
+    ],
+    "results": [
+      "Female S. lepidus wasps use acoustic cues, likely in the form of surface vibrations, to locate and orient towards active host larvae.",
+      "The wasps search more intensively on log sections with active host larvae and adjust their movement in response to sounds produced by the larvae."
+    ],
+    "research_subject": "The role of acoustic cues in host finding by the parasitoid Syngaster lepidus"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding how Syngaster lepidus, a parasitoid wasp, locates its concealed beetle larvae hosts is crucial for understanding its behavior and ecology.",
+      "There is a need to explore whether acoustic cues play a role in the host-finding process of these wasps."
+    ],
+    "objectives": [
+      "Investigate the behaviors of female Syngaster lepidus wasps when they land on logs infested with host larvae.",
+      "Determine whether the wasps show a preference for active larvae and if they respond to sounds produced by feeding larvae.",
+      "Explore the potential role of airborne sound and surface vibration in the host-finding process of these wasps."
+    ],
+    "methods": [
+      "Provide female wasps with logs infested with host larvae, whose positions have been determined by X-ray imaging.",
+      "Record and analyze the sequence of behaviors following the landing of a female wasp on an infested log.",
+      "Compare the wasps' search behavior on log sections with active and inactive larvae."
+    ],
+    "results": [
+      "Female wasps search significantly more on log sections with active host larvae than inactive larvae.",
+      "Wasps turn toward and move in the direction of active larvae in response to sounds produced by feeding.",
+      "While searching for hosts, female wasps may perceive both airborne sound and associated surface vibration, with vibration signals likely indicating direction and possibly distance to the host."
+    ],
+    "research_subject": "Role of acoustic cues in host finding by Syngaster lepidus"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding how parasitoid wasps locate concealed host larvae is crucial for biological control strategies.",
+      "The mechanisms by which Syngaster lepidus locates its cerambycid beetle larvae hosts hidden under bark remain unclear."
+    ],
+    "objectives": [
+      "Determine whether acoustic cues produced by feeding beetle larvae mediate host finding by the parasitoid wasp Syngaster lepidus.",
+      "Characterize the behavioral sequence and sensory mechanisms used by female wasps during host location and oviposition."
+    ],
+    "methods": [
+      "Used X-ray imaging to map positions of host larvae within infested logs before exposing them to female wasps.",
+      "Recorded and analyzed wasp behavior on videotape to document the host location and oviposition process.",
+      "Compared wasp searching behavior on log sections containing active versus inactive host larvae."
+    ],
+    "results": [
+      "Female wasps searched significantly more on log sections containing active host larvae compared to inactive larvae.",
+      "Wasps turned toward and moved in the direction of sounds produced by feeding larvae, suggesting acoustic cues guide host location.",
+      "Vibration signals transmitted through the log surface appear to be more important than airborne sound for indicating host direction and distance."
+    ],
+    "research_subject": "Acoustic and vibrational cues in parasitoid host-finding behavior"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The mechanism by which the parasitoid Syngaster lepidus locates its host larvae concealed under the bark of Eucalyptus trees is not well understood.\",\n    \"Understanding the cues used by S. lepidus for host finding is crucial for elucidating the complex interactions between the parasitoid and its host.\"\n  ],\n  \"objectives\": [\n    \"Determine whether acoustic cues produced by the host larvae play a role in mediating host finding by S. lepidus.\",\n    \"Describe the behavioral processes involved in host location and oviposition by female S. lepidus wasps.\"\n  ],\n  \"methods\": [\n    \"Use X-ray imaging to determine the positions of host larvae in infested logs.\",\n    \"Record and analyze the sequence of behaviors exhibited by female wasps on infested logs to identify potential cues used for host finding.\",\n    \"Investigate the response of female wasps to sounds produced by feeding host larvae.\"\n  ],\n  \"results\": [\n    \"Female S. lepidus wasps use acoustic cues, likely in the form of surface vibrations, to locate and orient towards active host larvae.\",\n    \"The wasps search more intensively on log sections with active host larvae and adjust their movement in response to sounds produced by the larvae.\"\n  ],\n  \"research_subject\": \"The role of acoustic cues in host finding by the parasitoid Syngaster lepidus\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how Syngaster lepidus, a parasitoid wasp, locates its concealed beetle larvae hosts is crucial for understanding its behavior and ecology.\",\n    \"There is a need to explore whether acoustic cues play a role in the host-finding process of these wasps.\"\n  ],\n  \"objectives\": [\n    \"Investigate the behaviors of female Syngaster lepidus wasps when they land on logs infested with host larvae.\",\n    \"Determine whether the wasps show a preference for active larvae and if they respond to sounds produced by feeding larvae.\",\n    \"Explore the potential role of airborne sound and surface vibration in the host-finding process of these wasps.\"\n  ],\n  \"methods\": [\n    \"Provide female wasps with logs infested with host larvae, whose positions have been determined by X-ray imaging.\",\n    \"Record and analyze the sequence of behaviors following the landing of a female wasp on an infested log.\",\n    \"Compare the wasps' search behavior on log sections with active and inactive larvae.\"\n  ],\n  \"results\": [\n    \"Female wasps search significantly more on log sections with active host larvae than inactive larvae.\",\n    \"Wasps turn toward and move in the direction of active larvae in response to sounds produced by feeding.\",\n    \"While searching for hosts, female wasps may perceive both airborne sound and associated surface vibration, with vibration signals likely indicating direction and possibly distance to the host.\"\n  ],\n  \"research_subject\": \"Role of acoustic cues in host finding by Syngaster lepidus\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how parasitoid wasps locate concealed host larvae is crucial for biological control strategies.\",\n    \"The mechanisms by which Syngaster lepidus locates its cerambycid beetle larvae hosts hidden under bark remain unclear.\"\n  ],\n  \"objectives\": [\n    \"Determine whether acoustic cues produced by feeding beetle larvae mediate host finding by the parasitoid wasp Syngaster lepidus.\",\n    \"Characterize the behavioral sequence and sensory mechanisms used by female wasps during host location and oviposition.\"\n  ],\n  \"methods\": [\n    \"Used X-ray imaging to map positions of host larvae within infested logs before exposing them to female wasps.\",\n    \"Recorded and analyzed wasp behavior on videotape to document the host location and oviposition process.\",\n    \"Compared wasp searching behavior on log sections containing active versus inactive host larvae.\"\n  ],\n  \"results\": [\n    \"Female wasps searched significantly more on log sections containing active host larvae compared to inactive larvae.\",\n    \"Wasps turned toward and moved in the direction of sounds produced by feeding larvae, suggesting acoustic cues guide host location.\",\n    \"Vibration signals transmitted through the log surface appear to be more important than airborne sound for indicating host direction and distance.\"\n  ],\n  \"research_subject\": \"Acoustic and vibrational cues in parasitoid host-finding behavior\"\n}\n```"
+}

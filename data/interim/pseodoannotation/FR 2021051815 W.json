@@ -1,0 +1,59 @@
+{
+  "index": 469,
+  "title": "DEVICE FOR FASTENING A POSITION-ADJUSTABLE LOCK, AND ASSEMBLY COMPRISING THE DEVICE AND THE LOCK",
+  "abstract": "Lock-fastening device (1) for a motor vehicle, comprising a support member (2) having an interface portion (21) comprising through-holes, characterised in that it comprises a plate (3) arranged on a first face of the interface portion (21), a means (31, 24) for holding the plate (21) on the support member (2), the means being capable of allowing the plate (3) to be moved for adjustment relative to the interface portion (21) at least in a direction parallel to the plane (P), the plate (3) comprising a fastening means (4) for fastening the lock (5) to the fastening device by passing through the through-holes (23).",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a lock-fastening device that allows for position-adjustable locking in motor vehicles."
+    ],
+    "objectives": [
+      "Design a lock-fastening device that enables adjustable positioning of a lock in a motor vehicle."
+    ],
+    "methods": [
+      "Develop a device with a support member and a plate that can be moved for adjustment relative to the interface portion.",
+      "Incorporate a holding means to secure the plate to the support member while allowing for movement."
+    ],
+    "results": [
+      "Provide a lock-fastening device that enables flexible and adjustable positioning of a lock in a motor vehicle."
+    ],
+    "research_subject": "Position-adjustable lock-fastening device for motor vehicles"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a device that allows for position-adjustable fastening of a lock in a motor vehicle."
+    ],
+    "objectives": [
+      "Design a lock-fastening device for a motor vehicle that allows for adjustment of the lock's position."
+    ],
+    "methods": [
+      "The device includes a support member with an interface portion comprising through-holes.",
+      "A plate is arranged on a first face of the interface portion, with a means for holding the plate on the support member.",
+      "The holding means allows the plate to be moved for adjustment relative to the interface portion in a direction parallel to the plane.",
+      "The plate includes a fastening means for fastening the lock to the fastening device by passing through the through-holes."
+    ],
+    "results": [
+      "The device allows for position-adjustable fastening of a lock in a motor vehicle."
+    ],
+    "research_subject": "Device for fastening a position-adjustable lock in a motor vehicle"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for adjustable positioning of locks in motor vehicles to accommodate manufacturing tolerances and assembly variations."
+    ],
+    "objectives": [
+      "Develop a fastening device that allows position adjustment of a lock relative to a support member in motor vehicles."
+    ],
+    "methods": [
+      "Design a device with a support member, adjustable plate, and holding means that permits movement parallel to the mounting plane.",
+      "Implement a fastening system using through-holes and fastening means to secure the lock while maintaining adjustability."
+    ],
+    "results": [
+      "Enable precise positioning and adjustment of locks during motor vehicle assembly.",
+      "Provide a reliable fastening solution that accommodates manufacturing variations."
+    ],
+    "research_subject": "Position-adjustable lock fastening device for motor vehicles"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a lock-fastening device that allows for position-adjustable locking in motor vehicles.\"\n  ],\n  \"objectives\": [\n    \"Design a lock-fastening device that enables adjustable positioning of a lock in a motor vehicle.\"\n  ],\n  \"methods\": [\n    \"Develop a device with a support member and a plate that can be moved for adjustment relative to the interface portion.\",\n    \"Incorporate a holding means to secure the plate to the support member while allowing for movement.\"\n  ],\n  \"results\": [\n    \"Provide a lock-fastening device that enables flexible and adjustable positioning of a lock in a motor vehicle.\"\n  ],\n  \"research_subject\": \"Position-adjustable lock-fastening device for motor vehicles\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a device that allows for position-adjustable fastening of a lock in a motor vehicle.\"\n  ],\n  \"objectives\": [\n    \"Design a lock-fastening device for a motor vehicle that allows for adjustment of the lock's position.\"\n  ],\n  \"methods\": [\n    \"The device includes a support member with an interface portion comprising through-holes.\",\n    \"A plate is arranged on a first face of the interface portion, with a means for holding the plate on the support member.\",\n    \"The holding means allows the plate to be moved for adjustment relative to the interface portion in a direction parallel to the plane.\",\n    \"The plate includes a fastening means for fastening the lock to the fastening device by passing through the through-holes.\"\n  ],\n  \"results\": [\n    \"The device allows for position-adjustable fastening of a lock in a motor vehicle.\"\n  ],\n  \"research_subject\": \"Device for fastening a position-adjustable lock in a motor vehicle\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for adjustable positioning of locks in motor vehicles to accommodate manufacturing tolerances and assembly variations.\"\n  ],\n  \"objectives\": [\n    \"Develop a fastening device that allows position adjustment of a lock relative to a support member in motor vehicles.\"\n  ],\n  \"methods\": [\n    \"Design a device with a support member, adjustable plate, and holding means that permits movement parallel to the mounting plane.\",\n    \"Implement a fastening system using through-holes and fastening means to secure the lock while maintaining adjustability.\"\n  ],\n  \"results\": [\n    \"Enable precise positioning and adjustment of locks during motor vehicle assembly.\",\n    \"Provide a reliable fastening solution that accommodates manufacturing variations.\"\n  ],\n  \"research_subject\": \"Position-adjustable lock fastening device for motor vehicles\"\n}\n```"
+}

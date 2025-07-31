@@ -1,0 +1,70 @@
+{
+  "index": 478,
+  "title": "The minimum required muscle force for a sit-to-stand task",
+  "abstract": "The purpose of this study was to reveal the minimum required muscle force for a sit-to-stand task. Combining experimental procedures and computational processing, movements of various sit-to-stand patterns were obtained. Muscle forces and activations during a movement were calculated with an inverse dynamics method and a static numerical optimization method. The required muscle force for each movement was calculated with peak muscle activation, muscle physiological cross sectional area and specific tension. The robustness of the results was quantitatively evaluated with sensitivity analyses. From the results, a distinct threshold was found for the total required muscle force of the hip and knee extensors. Specifically, two findings were revealed: (1) the total force of hip and knee extensors is appropriate as the index of minimum required muscle force for a sit-to-stand task and (2) the minimum required total force is within the range of 35.3-49.2 N/kg. A muscle is not mechanically independent from other muscles, since each muscle has some synergetic or antagonistic muscles. This means that the mechanical threshold of one muscle varies with the force exertion abilities of other muscles and cannot be evaluated independently. At the same time, some kinds of mechanical threshold necessarily exist in the sit-to-stand task, since a muscle force is an only force to drive the body and people cannot stand up from a chair without muscles. These indicate that the existence of the distinct threshold in the result of the total required muscle force is reasonable.",
+  "llama_json": {
+    "motivations": [
+      "Understanding the minimum required muscle force for a sit-to-stand task is essential for evaluating human movement capabilities.",
+      "Current methods may not accurately assess the mechanical threshold of individual muscles due to their interdependence with other muscles."
+    ],
+    "objectives": [
+      "Determine the minimum required muscle force for a sit-to-stand task using a combination of experimental and computational approaches.",
+      "Identify a reliable index for evaluating the minimum required muscle force."
+    ],
+    "methods": [
+      "Combine experimental procedures with computational processing to analyze movements and calculate muscle forces.",
+      "Utilize inverse dynamics and static numerical optimization methods to estimate muscle activations and forces.",
+      "Conduct sensitivity analyses to evaluate the robustness of the results."
+    ],
+    "results": [
+      "A distinct threshold for the total required muscle force of hip and knee extensors was identified.",
+      "The minimum required total force for a sit-to-stand task was found to be within the range of 35.3-49.2 N/kg.",
+      "The total force of hip and knee extensors is a suitable index for evaluating the minimum required muscle force."
+    ],
+    "research_subject": "Minimum required muscle force for a sit-to-stand task"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the minimum required muscle force for a sit-to-stand task is crucial for various applications, including rehabilitation and physical therapy.",
+      "There is a lack of clarity on the specific muscle forces required for sit-to-stand tasks, and how these forces interact."
+    ],
+    "objectives": [
+      "Determine the minimum required muscle force for a sit-to-stand task.",
+      "Identify the total force of hip and knee extensors as the index of minimum required muscle force for a sit-to-stand task."
+    ],
+    "methods": [
+      "Use experimental procedures and computational processing to obtain movements of various sit-to-stand patterns.",
+      "Calculate muscle forces and activations during a movement using an inverse dynamics method and a static numerical optimization method.",
+      "Evaluate the robustness of the results with sensitivity analyses."
+    ],
+    "results": [
+      "Identified a distinct threshold for the total required muscle force of the hip and knee extensors for a sit-to-stand task.",
+      "Established that the minimum required total force is within the range of 35.3-49.2 N/kg."
+    ],
+    "research_subject": "Minimum required muscle force for a sit-to-stand task"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the minimum muscle force requirements for sit-to-stand tasks is essential for assessing physical function and mobility.",
+      "The mechanical interdependence of muscles during movement makes it challenging to determine individual muscle force thresholds independently."
+    ],
+    "objectives": [
+      "Determine the minimum required muscle force for performing a sit-to-stand task.",
+      "Identify an appropriate index for assessing the minimum muscle force requirements focusing on hip and knee extensors."
+    ],
+    "methods": [
+      "Combined experimental procedures with computational processing to analyze various sit-to-stand movement patterns.",
+      "Applied inverse dynamics and static numerical optimization methods to calculate muscle forces and activations.",
+      "Conducted sensitivity analyses to evaluate the robustness of the results."
+    ],
+    "results": [
+      "The total force of hip and knee extensors serves as an appropriate index for minimum required muscle force in sit-to-stand tasks.",
+      "The minimum required total force for hip and knee extensors ranges from 35.3 to 49.2 N/kg.",
+      "A distinct mechanical threshold exists for the total required muscle force due to the interdependence of muscle functions."
+    ],
+    "research_subject": "Minimum muscle force requirements for sit-to-stand tasks"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the minimum required muscle force for a sit-to-stand task is essential for evaluating human movement capabilities.\",\n    \"Current methods may not accurately assess the mechanical threshold of individual muscles due to their interdependence with other muscles.\"\n  ],\n  \"objectives\": [\n    \"Determine the minimum required muscle force for a sit-to-stand task using a combination of experimental and computational approaches.\",\n    \"Identify a reliable index for evaluating the minimum required muscle force.\"\n  ],\n  \"methods\": [\n    \"Combine experimental procedures with computational processing to analyze movements and calculate muscle forces.\",\n    \"Utilize inverse dynamics and static numerical optimization methods to estimate muscle activations and forces.\",\n    \"Conduct sensitivity analyses to evaluate the robustness of the results.\"\n  ],\n  \"results\": [\n    \"A distinct threshold for the total required muscle force of hip and knee extensors was identified.\",\n    \"The minimum required total force for a sit-to-stand task was found to be within the range of 35.3-49.2 N/kg.\",\n    \"The total force of hip and knee extensors is a suitable index for evaluating the minimum required muscle force.\"\n  ],\n  \"research_subject\": \"Minimum required muscle force for a sit-to-stand task\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the minimum required muscle force for a sit-to-stand task is crucial for various applications, including rehabilitation and physical therapy.\",\n    \"There is a lack of clarity on the specific muscle forces required for sit-to-stand tasks, and how these forces interact.\"\n  ],\n  \"objectives\": [\n    \"Determine the minimum required muscle force for a sit-to-stand task.\",\n    \"Identify the total force of hip and knee extensors as the index of minimum required muscle force for a sit-to-stand task.\"\n  ],\n  \"methods\": [\n    \"Use experimental procedures and computational processing to obtain movements of various sit-to-stand patterns.\",\n    \"Calculate muscle forces and activations during a movement using an inverse dynamics method and a static numerical optimization method.\",\n    \"Evaluate the robustness of the results with sensitivity analyses.\"\n  ],\n  \"results\": [\n    \"Identified a distinct threshold for the total required muscle force of the hip and knee extensors for a sit-to-stand task.\",\n    \"Established that the minimum required total force is within the range of 35.3-49.2 N/kg.\"\n  ],\n  \"research_subject\": \"Minimum required muscle force for a sit-to-stand task\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the minimum muscle force requirements for sit-to-stand tasks is essential for assessing physical function and mobility.\",\n    \"The mechanical interdependence of muscles during movement makes it challenging to determine individual muscle force thresholds independently.\"\n  ],\n  \"objectives\": [\n    \"Determine the minimum required muscle force for performing a sit-to-stand task.\",\n    \"Identify an appropriate index for assessing the minimum muscle force requirements focusing on hip and knee extensors.\"\n  ],\n  \"methods\": [\n    \"Combined experimental procedures with computational processing to analyze various sit-to-stand movement patterns.\",\n    \"Applied inverse dynamics and static numerical optimization methods to calculate muscle forces and activations.\",\n    \"Conducted sensitivity analyses to evaluate the robustness of the results.\"\n  ],\n  \"results\": [\n    \"The total force of hip and knee extensors serves as an appropriate index for minimum required muscle force in sit-to-stand tasks.\",\n    \"The minimum required total force for hip and knee extensors ranges from 35.3 to 49.2 N/kg.\",\n    \"A distinct mechanical threshold exists for the total required muscle force due to the interdependence of muscle functions.\"\n  ],\n  \"research_subject\": \"Minimum muscle force requirements for sit-to-stand tasks\"\n}\n```"
+}

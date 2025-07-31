@@ -1,0 +1,76 @@
+{
+  "index": 258,
+  "title": "The nexus: an experimental system to study marine larval dispersal",
+  "abstract": "Dispersal is a fundamental trait for the ecological and evolutionary dynamics of any given species. In marine systems, the primary means of connectivity among fragmented habitats is pelagic larval dispersal (LD). Due to the inherent difficulty of tracking minute larvae in the ocean, we are still lacking critical insights into the internal and external causes and consequences of LD. Here, we propose the development of an experimental infrastructure, the Nexus, composed of 25 interconnected larval rearing/settlement tanks, designed to study larval movements as a model of dispersal. We aim to use the Nexus framework to investigate central questions in LD theory that, up to this point, have been difficult to assess: (1) Do marine organisms exhibit condition-dependent dispersal strategies? (2) If so, how does the interaction of phenotype and environment affect dispersal behaviours (context-dependence)? (3) How will climate change affect condition- and context-dependent dispersal in offspring via parental effects? These are timely issues to address, as a better understanding of the underlying mechanisms regulating LD will help predict species’ responses to rapid environmental change. The intended framework will facilitate the holistic assessment and controlled manipulation of the entire LD process, from the natal environment to post-settlement selection, thereby paving the way for novel research avenues in aquatic dispersal ecology. Each tank in the network can independently be controlled for the type of habitat it provides and corridors can flexibly be opened, closed or made directionally permeable. The versatility of the Nexus offers a high degree of experimental flexibility and control to address key issues in spatial meta-population ecology.",
+  "llama_json": {
+    "motivations": [
+      "There is a lack of critical insights into the causes and consequences of pelagic larval dispersal (LD) in marine systems due to the difficulty of tracking larvae in the ocean.",
+      "Understanding the mechanisms regulating LD is essential to predict species' responses to rapid environmental change."
+    ],
+    "objectives": [
+      "Investigate condition-dependent dispersal strategies in marine organisms.",
+      "Examine how the interaction of phenotype and environment affects dispersal behaviors (context-dependence).",
+      "Assess how climate change affects condition- and context-dependent dispersal in offspring via parental effects."
+    ],
+    "methods": [
+      "Develop an experimental infrastructure, the Nexus, composed of interconnected larval rearing/settlement tanks to study larval movements.",
+      "Use the Nexus framework to manipulate and assess the entire larval dispersal process, from the natal environment to post-settlement selection.",
+      "Control and manipulate tank habitats and corridors to simulate various environmental conditions and dispersal scenarios."
+    ],
+    "results": [
+      "Gain a better understanding of the underlying mechanisms regulating larval dispersal.",
+      "Predict species' responses to rapid environmental change.",
+      "Pave the way for novel research avenues in aquatic dispersal ecology."
+    ],
+    "research_subject": "Experimental study of marine larval dispersal using the Nexus system"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding marine larval dispersal (LD) is crucial for ecological and evolutionary dynamics, but tracking larvae in the ocean is challenging, leaving gaps in knowledge about LD causes and consequences.",
+      "There is a need to investigate whether marine organisms exhibit condition-dependent dispersal strategies and how phenotype-environment interactions affect dispersal behaviors.",
+      "Understanding how climate change will affect condition- and context-dependent dispersal in offspring via parental effects is important for predicting species' responses to rapid environmental change."
+    ],
+    "objectives": [
+      "Develop an experimental infrastructure, the Nexus, to study larval movements as a model of dispersal.",
+      "Use the Nexus to investigate central questions in LD theory, including condition-dependent dispersal strategies, context-dependence, and the impact of climate change on dispersal.",
+      "Facilitate holistic assessment and controlled manipulation of the entire LD process, from the natal environment to post-settlement selection."
+    ],
+    "methods": [
+      "Construct the Nexus, an infrastructure of 25 interconnected larval rearing/settlement tanks, to study larval movements.",
+      "Independently control each tank in the Nexus for the type of habitat it provides and flexibly manage corridors for directionality and permeability.",
+      "Use the Nexus to conduct controlled experiments addressing key issues in spatial meta-population ecology."
+    ],
+    "results": [
+      "Provide critical insights into the internal and external causes and consequences of LD.",
+      "Advance understanding of condition- and context-dependent dispersal strategies and their implications for species' responses to environmental change.",
+      "Open new research avenues in aquatic dispersal ecology through the holistic assessment and manipulation of the LD process."
+    ],
+    "research_subject": "Experimental study of marine larval dispersal using the Nexus system"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Marine larval dispersal is critical for connectivity among fragmented habitats, but tracking minute larvae in the ocean remains extremely challenging.",
+      "Current understanding of the internal and external factors influencing larval dispersal and their ecological consequences is limited.",
+      "Climate change impacts on larval dispersal mechanisms need to be better understood to predict species' responses to environmental change."
+    ],
+    "objectives": [
+      "Develop an experimental infrastructure to study marine larval movements as a model of dispersal under controlled conditions.",
+      "Investigate whether marine organisms exhibit condition-dependent and context-dependent dispersal strategies.",
+      "Assess how climate change affects larval dispersal through parental effects and environmental interactions."
+    ],
+    "methods": [
+      "Construct the Nexus system consisting of 25 interconnected larval rearing and settlement tanks with independently controlled habitats and flexible corridors.",
+      "Enable holistic assessment and controlled manipulation of the entire larval dispersal process from natal environment to post-settlement selection.",
+      "Implement experimental designs that allow for the study of phenotype-environment interactions and their effects on dispersal behaviors."
+    ],
+    "results": [
+      "Provide novel insights into the mechanisms regulating marine larval dispersal and connectivity patterns.",
+      "Enable predictions of species' responses to rapid environmental change through improved understanding of dispersal strategies.",
+      "Advance spatial meta-population ecology research through controlled experimental approaches to studying aquatic dispersal."
+    ],
+    "research_subject": "Marine larval dispersal mechanisms and their ecological implications under environmental change"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of critical insights into the causes and consequences of pelagic larval dispersal (LD) in marine systems due to the difficulty of tracking larvae in the ocean.\",\n    \"Understanding the mechanisms regulating LD is essential to predict species' responses to rapid environmental change.\"\n  ],\n  \"objectives\": [\n    \"Investigate condition-dependent dispersal strategies in marine organisms.\",\n    \"Examine how the interaction of phenotype and environment affects dispersal behaviors (context-dependence).\",\n    \"Assess how climate change affects condition- and context-dependent dispersal in offspring via parental effects.\"\n  ],\n  \"methods\": [\n    \"Develop an experimental infrastructure, the Nexus, composed of interconnected larval rearing/settlement tanks to study larval movements.\",\n    \"Use the Nexus framework to manipulate and assess the entire larval dispersal process, from the natal environment to post-settlement selection.\",\n    \"Control and manipulate tank habitats and corridors to simulate various environmental conditions and dispersal scenarios.\"\n  ],\n  \"results\": [\n    \"Gain a better understanding of the underlying mechanisms regulating larval dispersal.\",\n    \"Predict species' responses to rapid environmental change.\",\n    \"Pave the way for novel research avenues in aquatic dispersal ecology.\"\n  ],\n  \"research_subject\": \"Experimental study of marine larval dispersal using the Nexus system\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding marine larval dispersal (LD) is crucial for ecological and evolutionary dynamics, but tracking larvae in the ocean is challenging, leaving gaps in knowledge about LD causes and consequences.\",\n    \"There is a need to investigate whether marine organisms exhibit condition-dependent dispersal strategies and how phenotype-environment interactions affect dispersal behaviors.\",\n    \"Understanding how climate change will affect condition- and context-dependent dispersal in offspring via parental effects is important for predicting species' responses to rapid environmental change.\"\n  ],\n  \"objectives\": [\n    \"Develop an experimental infrastructure, the Nexus, to study larval movements as a model of dispersal.\",\n    \"Use the Nexus to investigate central questions in LD theory, including condition-dependent dispersal strategies, context-dependence, and the impact of climate change on dispersal.\",\n    \"Facilitate holistic assessment and controlled manipulation of the entire LD process, from the natal environment to post-settlement selection.\"\n  ],\n  \"methods\": [\n    \"Construct the Nexus, an infrastructure of 25 interconnected larval rearing/settlement tanks, to study larval movements.\",\n    \"Independently control each tank in the Nexus for the type of habitat it provides and flexibly manage corridors for directionality and permeability.\",\n    \"Use the Nexus to conduct controlled experiments addressing key issues in spatial meta-population ecology.\"\n  ],\n  \"results\": [\n    \"Provide critical insights into the internal and external causes and consequences of LD.\",\n    \"Advance understanding of condition- and context-dependent dispersal strategies and their implications for species' responses to environmental change.\",\n    \"Open new research avenues in aquatic dispersal ecology through the holistic assessment and manipulation of the LD process.\"\n  ],\n  \"research_subject\": \"Experimental study of marine larval dispersal using the Nexus system\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Marine larval dispersal is critical for connectivity among fragmented habitats, but tracking minute larvae in the ocean remains extremely challenging.\",\n    \"Current understanding of the internal and external factors influencing larval dispersal and their ecological consequences is limited.\",\n    \"Climate change impacts on larval dispersal mechanisms need to be better understood to predict species' responses to environmental change.\"\n  ],\n  \"objectives\": [\n    \"Develop an experimental infrastructure to study marine larval movements as a model of dispersal under controlled conditions.\",\n    \"Investigate whether marine organisms exhibit condition-dependent and context-dependent dispersal strategies.\",\n    \"Assess how climate change affects larval dispersal through parental effects and environmental interactions.\"\n  ],\n  \"methods\": [\n    \"Construct the Nexus system consisting of 25 interconnected larval rearing and settlement tanks with independently controlled habitats and flexible corridors.\",\n    \"Enable holistic assessment and controlled manipulation of the entire larval dispersal process from natal environment to post-settlement selection.\",\n    \"Implement experimental designs that allow for the study of phenotype-environment interactions and their effects on dispersal behaviors.\"\n  ],\n  \"results\": [\n    \"Provide novel insights into the mechanisms regulating marine larval dispersal and connectivity patterns.\",\n    \"Enable predictions of species' responses to rapid environmental change through improved understanding of dispersal strategies.\",\n    \"Advance spatial meta-population ecology research through controlled experimental approaches to studying aquatic dispersal.\"\n  ],\n  \"research_subject\": \"Marine larval dispersal mechanisms and their ecological implications under environmental change\"\n}\n```"
+}

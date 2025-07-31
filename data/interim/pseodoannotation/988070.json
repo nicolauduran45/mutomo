@@ -1,0 +1,73 @@
+{
+  "index": 301,
+  "title": "Investigating the role of attention in reading",
+  "abstract": "Reading is undoubtedly one of the most important cognitive skills in modern societies; yet, despite decades of reading research, some critical issues remain poorly understood. Given that the reading process is cognitively multi-faceted (involving linguistic processing, oculo-motor processing, memory and attention), getting to understand the reading process in full is by definition an interdisciplinary endeavour.   Therefore, striking an interdisciplinary alliance between the fields of reading and attention, this project's mission is to increase understanding of the role of attention in reading (ROAR). Specifically, this project aims to answer the question of how attention is distributed across the visual field during reading, and how attention is used to organize incoming linguistic information. Moreover, this project offers a novel attention-based perspective on reading problems and dyslexia, along with a practical application to help remedy such problems. In short, getting to grips with how attention operates in reading may be key to solving several long-standing questions.   This project comprises state-of-the-art electro-encephalography and eye-tracking techniques that will provide novel means to investigate attention in reading. Moreover, a recently developed reading interface, geared at facilitating word recognition by reducing interference from surrounding words, will be upgraded and tested with dyslexic readers. Thus, this project is perfectly placed in the Goldilocks zone between fundamental research and practical applicability.",
+  "llama_json": {
+    "motivations": [
+      "Despite decades of research, the reading process remains poorly understood, particularly the role of attention in reading.",
+      "Reading problems and dyslexia persist, and a deeper understanding of attention's role in reading could help address these issues."
+    ],
+    "objectives": [
+      "Investigate how attention is distributed across the visual field during reading.",
+      "Examine how attention is used to organize incoming linguistic information during reading.",
+      "Develop a novel attention-based perspective on reading problems and dyslexia, and create a practical application to help remedy these issues."
+    ],
+    "methods": [
+      "Utilize state-of-the-art electro-encephalography and eye-tracking techniques to investigate attention in reading.",
+      "Upgrade and test a reading interface designed to facilitate word recognition by reducing interference from surrounding words, specifically with dyslexic readers."
+    ],
+    "results": [
+      "Gain a deeper understanding of the role of attention in reading, shedding light on long-standing questions in the field.",
+      "Develop a practical application to help remedy reading problems and dyslexia, improving reading abilities for individuals with these challenges."
+    ],
+    "research_subject": "The role of attention in reading and its implications for reading problems and dyslexia"
+  },
+  "openai_json": {
+    "motivations": [
+      "Despite extensive research, the role of attention in the reading process remains poorly understood.",
+      "There is a need for an interdisciplinary approach to understand the multi-faceted cognitive aspects of reading, including attention.",
+      "Understanding how attention operates in reading could provide insights into reading problems and dyslexia."
+    ],
+    "objectives": [
+      "Investigate how attention is distributed across the visual field during reading and how it is used to organize incoming linguistic information.",
+      "Offer a novel attention-based perspective on reading problems and dyslexia.",
+      "Test and upgrade a recently developed reading interface designed to facilitate word recognition by reducing interference from surrounding words."
+    ],
+    "methods": [
+      "Use state-of-the-art electro-encephalography and eye-tracking techniques to investigate attention in reading.",
+      "Upgrade and test a novel reading interface with dyslexic readers."
+    ],
+    "results": [
+      "Increase understanding of the role of attention in reading.",
+      "Provide a new perspective on reading problems and dyslexia based on attention.",
+      "Improve word recognition and reading ability through an upgraded reading interface."
+    ],
+    "research_subject": "Role of attention in reading"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Despite decades of research, critical aspects of the reading process remain poorly understood, particularly regarding how attention operates during reading.",
+      "There is a need for an interdisciplinary approach to understand the multi-faceted cognitive processes involved in reading, including linguistic processing, oculo-motor processing, memory, and attention.",
+      "Current understanding of reading problems and dyslexia lacks an attention-based perspective that could provide new insights and solutions."
+    ],
+    "objectives": [
+      "Investigate how attention is distributed across the visual field during reading and how it organizes incoming linguistic information.",
+      "Develop a novel attention-based perspective on reading problems and dyslexia.",
+      "Create and test practical applications to help remedy reading difficulties based on attention mechanisms."
+    ],
+    "methods": [
+      "Employ state-of-the-art electro-encephalography and eye-tracking techniques to investigate attention during reading.",
+      "Upgrade and test a reading interface designed to facilitate word recognition by reducing interference from surrounding words.",
+      "Apply an interdisciplinary approach combining insights from reading research and attention studies."
+    ],
+    "results": [
+      "Provide new understanding of how attention operates during the reading process and its role in organizing linguistic information.",
+      "Offer novel insights into reading problems and dyslexia from an attention-based perspective.",
+      "Develop practical tools to help dyslexic readers improve their reading abilities."
+    ],
+    "research_subject": "The role of attention in reading processes and dyslexia"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Despite decades of research, the reading process remains poorly understood, particularly the role of attention in reading.\",\n    \"Reading problems and dyslexia persist, and a deeper understanding of attention's role in reading could help address these issues.\"\n  ],\n  \"objectives\": [\n    \"Investigate how attention is distributed across the visual field during reading.\",\n    \"Examine how attention is used to organize incoming linguistic information during reading.\",\n    \"Develop a novel attention-based perspective on reading problems and dyslexia, and create a practical application to help remedy these issues.\"\n  ],\n  \"methods\": [\n    \"Utilize state-of-the-art electro-encephalography and eye-tracking techniques to investigate attention in reading.\",\n    \"Upgrade and test a reading interface designed to facilitate word recognition by reducing interference from surrounding words, specifically with dyslexic readers.\"\n  ],\n  \"results\": [\n    \"Gain a deeper understanding of the role of attention in reading, shedding light on long-standing questions in the field.\",\n    \"Develop a practical application to help remedy reading problems and dyslexia, improving reading abilities for individuals with these challenges.\"\n  ],\n  \"research_subject\": \"The role of attention in reading and its implications for reading problems and dyslexia\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Despite extensive research, the role of attention in the reading process remains poorly understood.\",\n    \"There is a need for an interdisciplinary approach to understand the multi-faceted cognitive aspects of reading, including attention.\",\n    \"Understanding how attention operates in reading could provide insights into reading problems and dyslexia.\"\n  ],\n  \"objectives\": [\n    \"Investigate how attention is distributed across the visual field during reading and how it is used to organize incoming linguistic information.\",\n    \"Offer a novel attention-based perspective on reading problems and dyslexia.\",\n    \"Test and upgrade a recently developed reading interface designed to facilitate word recognition by reducing interference from surrounding words.\"\n  ],\n  \"methods\": [\n    \"Use state-of-the-art electro-encephalography and eye-tracking techniques to investigate attention in reading.\",\n    \"Upgrade and test a novel reading interface with dyslexic readers.\"\n  ],\n  \"results\": [\n    \"Increase understanding of the role of attention in reading.\",\n    \"Provide a new perspective on reading problems and dyslexia based on attention.\",\n    \"Improve word recognition and reading ability through an upgraded reading interface.\"\n  ],\n  \"research_subject\": \"Role of attention in reading\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Despite decades of research, critical aspects of the reading process remain poorly understood, particularly regarding how attention operates during reading.\",\n    \"There is a need for an interdisciplinary approach to understand the multi-faceted cognitive processes involved in reading, including linguistic processing, oculo-motor processing, memory, and attention.\",\n    \"Current understanding of reading problems and dyslexia lacks an attention-based perspective that could provide new insights and solutions.\"\n  ],\n  \"objectives\": [\n    \"Investigate how attention is distributed across the visual field during reading and how it organizes incoming linguistic information.\",\n    \"Develop a novel attention-based perspective on reading problems and dyslexia.\",\n    \"Create and test practical applications to help remedy reading difficulties based on attention mechanisms.\"\n  ],\n  \"methods\": [\n    \"Employ state-of-the-art electro-encephalography and eye-tracking techniques to investigate attention during reading.\",\n    \"Upgrade and test a reading interface designed to facilitate word recognition by reducing interference from surrounding words.\",\n    \"Apply an interdisciplinary approach combining insights from reading research and attention studies.\"\n  ],\n  \"results\": [\n    \"Provide new understanding of how attention operates during the reading process and its role in organizing linguistic information.\",\n    \"Offer novel insights into reading problems and dyslexia from an attention-based perspective.\",\n    \"Develop practical tools to help dyslexic readers improve their reading abilities.\"\n  ],\n  \"research_subject\": \"The role of attention in reading processes and dyslexia\"\n}\n```"
+}

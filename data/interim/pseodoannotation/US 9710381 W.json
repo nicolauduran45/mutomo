@@ -1,0 +1,64 @@
+{
+  "index": 9,
+  "title": "RAPID NON-INVASIVE BLOOD PRESSURE MEASURING DEVICE",
+  "abstract": "A blood pressure can be obtained by supplying an external pressure to a portion of an artery. The external pressure is preferably between the systolic and diastolic pressure. An event which occurs at least once a cycle can then be identified. This event can be, for example, a peak in the arterial compliance that occurs at a transmural pressure approximately equal to zero. A pair of signals, one that is an arterial volume-indicating signal, and one that is an arterial pressure-indicating signal can be used to identify this event. Alternately, a small signal high-frequency exciter component can be placed upon the pressure or volume of the artery and detected to determine the time that the transmural pressure is equal to zero.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a rapid and non-invasive method to measure blood pressure accurately."
+    ],
+    "objectives": [
+      "Develop a device that can measure blood pressure non-invasively by applying external pressure to an artery and detecting specific events in the arterial cycle."
+    ],
+    "methods": [
+      "Apply external pressure to an artery and identify events such as peaks in arterial compliance that occur at a transmural pressure approximately equal to zero.",
+      "Use a pair of signals, one for arterial volume and one for arterial pressure, to identify the desired event.",
+      "Employ a small signal high-frequency exciter component to detect the time when the transmural pressure is equal to zero."
+    ],
+    "results": [
+      "Enable rapid and accurate non-invasive measurement of blood pressure."
+    ],
+    "research_subject": "Non-invasive blood pressure measurement using external pressure and arterial signal analysis"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a non-invasive method to measure blood pressure accurately and rapidly."
+    ],
+    "objectives": [
+      "Develop a device that can measure blood pressure by applying an external pressure to a portion of an artery.",
+      "Identify a recurring event, such as a peak in arterial compliance, that can be used to determine blood pressure."
+    ],
+    "methods": [
+      "Apply an external pressure to an artery, preferably between the systolic and diastolic pressure.",
+      "Use a pair of signals, one indicating arterial volume and the other indicating arterial pressure, to identify a specific event related to blood pressure.",
+      "Optionally, use a high-frequency exciter component to determine the time when the transmural pressure equals zero."
+    ],
+    "results": [
+      "Enable rapid, non-invasive measurement of blood pressure.",
+      "Improve the accuracy of blood pressure measurements by identifying specific arterial events."
+    ],
+    "research_subject": "Non-invasive blood pressure measurement device"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional blood pressure measurement methods can be invasive, time-consuming, or uncomfortable for patients.",
+      "There is a need for rapid, non-invasive techniques to accurately measure blood pressure in clinical and home settings."
+    ],
+    "objectives": [
+      "Develop a non-invasive device that can rapidly and accurately measure blood pressure by detecting arterial compliance changes.",
+      "Identify specific arterial events that occur during cardiac cycles to determine blood pressure values without invasive procedures."
+    ],
+    "methods": [
+      "Apply external pressure to an artery between systolic and diastolic levels and monitor arterial compliance peaks.",
+      "Use arterial volume-indicating and pressure-indicating signals to identify when transmural pressure equals zero.",
+      "Employ a high-frequency exciter component to detect the timing of zero transmural pressure events."
+    ],
+    "results": [
+      "Enable rapid, non-invasive blood pressure measurement through detection of arterial compliance events.",
+      "Provide accurate blood pressure readings by identifying specific points in the cardiac cycle where transmural pressure equals zero."
+    ],
+    "research_subject": "Non-invasive blood pressure measurement using arterial compliance detection"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a rapid and non-invasive method to measure blood pressure accurately.\"\n  ],\n  \"objectives\": [\n    \"Develop a device that can measure blood pressure non-invasively by applying external pressure to an artery and detecting specific events in the arterial cycle.\"\n  ],\n  \"methods\": [\n    \"Apply external pressure to an artery and identify events such as peaks in arterial compliance that occur at a transmural pressure approximately equal to zero.\",\n    \"Use a pair of signals, one for arterial volume and one for arterial pressure, to identify the desired event.\",\n    \"Employ a small signal high-frequency exciter component to detect the time when the transmural pressure is equal to zero.\"\n  ],\n  \"results\": [\n    \"Enable rapid and accurate non-invasive measurement of blood pressure.\"\n  ],\n  \"research_subject\": \"Non-invasive blood pressure measurement using external pressure and arterial signal analysis\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a non-invasive method to measure blood pressure accurately and rapidly.\"\n  ],\n  \"objectives\": [\n    \"Develop a device that can measure blood pressure by applying an external pressure to a portion of an artery.\",\n    \"Identify a recurring event, such as a peak in arterial compliance, that can be used to determine blood pressure.\"\n  ],\n  \"methods\": [\n    \"Apply an external pressure to an artery, preferably between the systolic and diastolic pressure.\",\n    \"Use a pair of signals, one indicating arterial volume and the other indicating arterial pressure, to identify a specific event related to blood pressure.\",\n    \"Optionally, use a high-frequency exciter component to determine the time when the transmural pressure equals zero.\"\n  ],\n  \"results\": [\n    \"Enable rapid, non-invasive measurement of blood pressure.\",\n    \"Improve the accuracy of blood pressure measurements by identifying specific arterial events.\"\n  ],\n  \"research_subject\": \"Non-invasive blood pressure measurement device\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional blood pressure measurement methods can be invasive, time-consuming, or uncomfortable for patients.\",\n    \"There is a need for rapid, non-invasive techniques to accurately measure blood pressure in clinical and home settings.\"\n  ],\n  \"objectives\": [\n    \"Develop a non-invasive device that can rapidly and accurately measure blood pressure by detecting arterial compliance changes.\",\n    \"Identify specific arterial events that occur during cardiac cycles to determine blood pressure values without invasive procedures.\"\n  ],\n  \"methods\": [\n    \"Apply external pressure to an artery between systolic and diastolic levels and monitor arterial compliance peaks.\",\n    \"Use arterial volume-indicating and pressure-indicating signals to identify when transmural pressure equals zero.\",\n    \"Employ a high-frequency exciter component to detect the timing of zero transmural pressure events.\"\n  ],\n  \"results\": [\n    \"Enable rapid, non-invasive blood pressure measurement through detection of arterial compliance events.\",\n    \"Provide accurate blood pressure readings by identifying specific points in the cardiac cycle where transmural pressure equals zero.\"\n  ],\n  \"research_subject\": \"Non-invasive blood pressure measurement using arterial compliance detection\"\n}\n```"
+}

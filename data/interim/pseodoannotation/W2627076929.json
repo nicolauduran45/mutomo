@@ -1,0 +1,63 @@
+{
+  "index": 236,
+  "title": "Outcomes of IVF cycles coupled with PGS by aCGH of embryos from donor and autologous oocytes, transferred after vitrification to women of advanced maternal age",
+  "abstract": "It is well documented that aneuploidy rate in preimplantation embryos increases with the mother's age, and at the same time the number of oocytes diminishes. Consequently, for patients of advanced maternal age two options are available to overcome these limitations: use of oocytes from young donors, or use of own oocytes coupled with preimplantation genetic screening (PGS) for 24 chromosomes. However, it is not clear which strategy might be more effective. The aim of this retrospective study was to evaluate outcomes of IVF cycles coupled with transfer of vitrified embryos from donor or autologous oocytes, both with or without PGS. Our results demonstrate that while after PGS clinical pregnancy, twin pregnancy and spontaneous abortion rates are similar for embryos from donor and autologous oocytes, these rates are dramatically worse in all cycles without PGS. Therefore, PGS can be recommended as a screening method to all patients of advanced maternal age even when donor oocytes are used.",
+  "llama_json": {
+    "motivations": [
+      "Women of advanced maternal age face challenges in IVF due to increased aneuploidy rates and decreased oocyte numbers.",
+      "There is a need to determine the most effective strategy for IVF in women of advanced maternal age, considering the use of donor oocytes or autologous oocytes with preimplantation genetic screening (PGS)."
+    ],
+    "objectives": [
+      "Evaluate the outcomes of IVF cycles using vitrified embryos from donor or autologous oocytes, with or without PGS, in women of advanced maternal age.",
+      "Compare the effectiveness of using donor oocytes versus autologous oocytes with PGS in IVF cycles for women of advanced maternal age."
+    ],
+    "methods": [
+      "Conduct a retrospective study of IVF cycles with vitrified embryo transfer from donor or autologous oocytes, with or without PGS.",
+      "Analyze clinical pregnancy, twin pregnancy, and spontaneous abortion rates in the different study groups."
+    ],
+    "results": [
+      "PGS improves IVF outcomes in women of advanced maternal age, regardless of whether donor or autologous oocytes are used.",
+      "Similar clinical pregnancy, twin pregnancy, and spontaneous abortion rates are observed when using PGS with donor or autologous oocytes."
+    ],
+    "research_subject": "Comparison of IVF outcomes using donor or autologous oocytes with or without PGS in women of advanced maternal age"
+  },
+  "openai_json": {
+    "motivations": [
+      "Aneuploidy rate in preimplantation embryos increases with the mother's age, and the number of oocytes diminishes, posing challenges for patients of advanced maternal age.",
+      "There is uncertainty about the most effective strategy to overcome these limitations: use of oocytes from young donors, or use of own oocytes coupled with preimplantation genetic screening (PGS) for 24 chromosomes."
+    ],
+    "objectives": [
+      "Evaluate the outcomes of IVF cycles coupled with transfer of vitrified embryos from donor or autologous oocytes, both with or without PGS."
+    ],
+    "methods": [
+      "Conduct a retrospective study to compare the outcomes of IVF cycles with different combinations of donor or autologous oocytes and PGS."
+    ],
+    "results": [
+      "Clinical pregnancy, twin pregnancy and spontaneous abortion rates are similar for embryos from donor and autologous oocytes after PGS.",
+      "These rates are dramatically worse in all cycles without PGS, suggesting that PGS can be recommended as a screening method to all patients of advanced maternal age even when donor oocytes are used."
+    ],
+    "research_subject": "Outcomes of IVF cycles with PGS and donor or autologous oocytes for women of advanced maternal age"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Advanced maternal age leads to increased aneuploidy rates in embryos and diminished oocyte numbers, creating challenges for successful IVF outcomes.",
+      "There is uncertainty about whether using donor oocytes or autologous oocytes with preimplantation genetic screening is more effective for women of advanced maternal age."
+    ],
+    "objectives": [
+      "Compare the effectiveness of IVF cycles using donor versus autologous oocytes, both with and without preimplantation genetic screening, in women of advanced maternal age.",
+      "Evaluate clinical outcomes including pregnancy rates, twin pregnancy rates, and spontaneous abortion rates across different treatment strategies."
+    ],
+    "methods": [
+      "Conduct a retrospective analysis of IVF cycles with vitrified embryo transfers from both donor and autologous oocytes.",
+      "Compare outcomes between cycles with and without preimplantation genetic screening using array comparative genomic hybridization for 24 chromosomes."
+    ],
+    "results": [
+      "Clinical pregnancy, twin pregnancy, and spontaneous abortion rates were similar between donor and autologous oocytes when PGS was performed.",
+      "Cycles without PGS showed dramatically worse outcomes regardless of oocyte source, supporting PGS as a recommended screening method for all advanced maternal age patients."
+    ],
+    "research_subject": "IVF outcomes with preimplantation genetic screening in advanced maternal age patients"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Women of advanced maternal age face challenges in IVF due to increased aneuploidy rates and decreased oocyte numbers.\",\n    \"There is a need to determine the most effective strategy for IVF in women of advanced maternal age, considering the use of donor oocytes or autologous oocytes with preimplantation genetic screening (PGS).\"\n  ],\n  \"objectives\": [\n    \"Evaluate the outcomes of IVF cycles using vitrified embryos from donor or autologous oocytes, with or without PGS, in women of advanced maternal age.\",\n    \"Compare the effectiveness of using donor oocytes versus autologous oocytes with PGS in IVF cycles for women of advanced maternal age.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective study of IVF cycles with vitrified embryo transfer from donor or autologous oocytes, with or without PGS.\",\n    \"Analyze clinical pregnancy, twin pregnancy, and spontaneous abortion rates in the different study groups.\"\n  ],\n  \"results\": [\n    \"PGS improves IVF outcomes in women of advanced maternal age, regardless of whether donor or autologous oocytes are used.\",\n    \"Similar clinical pregnancy, twin pregnancy, and spontaneous abortion rates are observed when using PGS with donor or autologous oocytes.\"\n  ],\n  \"research_subject\": \"Comparison of IVF outcomes using donor or autologous oocytes with or without PGS in women of advanced maternal age\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Aneuploidy rate in preimplantation embryos increases with the mother's age, and the number of oocytes diminishes, posing challenges for patients of advanced maternal age.\",\n    \"There is uncertainty about the most effective strategy to overcome these limitations: use of oocytes from young donors, or use of own oocytes coupled with preimplantation genetic screening (PGS) for 24 chromosomes.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the outcomes of IVF cycles coupled with transfer of vitrified embryos from donor or autologous oocytes, both with or without PGS.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective study to compare the outcomes of IVF cycles with different combinations of donor or autologous oocytes and PGS.\"\n  ],\n  \"results\": [\n    \"Clinical pregnancy, twin pregnancy and spontaneous abortion rates are similar for embryos from donor and autologous oocytes after PGS.\",\n    \"These rates are dramatically worse in all cycles without PGS, suggesting that PGS can be recommended as a screening method to all patients of advanced maternal age even when donor oocytes are used.\"\n  ],\n  \"research_subject\": \"Outcomes of IVF cycles with PGS and donor or autologous oocytes for women of advanced maternal age\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Advanced maternal age leads to increased aneuploidy rates in embryos and diminished oocyte numbers, creating challenges for successful IVF outcomes.\",\n    \"There is uncertainty about whether using donor oocytes or autologous oocytes with preimplantation genetic screening is more effective for women of advanced maternal age.\"\n  ],\n  \"objectives\": [\n    \"Compare the effectiveness of IVF cycles using donor versus autologous oocytes, both with and without preimplantation genetic screening, in women of advanced maternal age.\",\n    \"Evaluate clinical outcomes including pregnancy rates, twin pregnancy rates, and spontaneous abortion rates across different treatment strategies.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective analysis of IVF cycles with vitrified embryo transfers from both donor and autologous oocytes.\",\n    \"Compare outcomes between cycles with and without preimplantation genetic screening using array comparative genomic hybridization for 24 chromosomes.\"\n  ],\n  \"results\": [\n    \"Clinical pregnancy, twin pregnancy, and spontaneous abortion rates were similar between donor and autologous oocytes when PGS was performed.\",\n    \"Cycles without PGS showed dramatically worse outcomes regardless of oocyte source, supporting PGS as a recommended screening method for all advanced maternal age patients.\"\n  ],\n  \"research_subject\": \"IVF outcomes with preimplantation genetic screening in advanced maternal age patients\"\n}\n```"
+}

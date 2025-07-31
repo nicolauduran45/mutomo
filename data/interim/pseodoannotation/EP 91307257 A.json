@@ -1,0 +1,64 @@
+{
+  "index": 4,
+  "title": "Moisture-permeable waterproof fabric and process for production thereof.",
+  "abstract": "A moisture-permeable waterproof fabric has a resin layer formed on at least one surface thereof, wherein the resin layer is composed of a mixture comprising a product obtained by reacting a urethane prepolymer having isocyanate terminals with an N-carboxyamino acid anhydride and an amine, and a polyurethane having a 100% modulus of at least 40 kg/cm<2>, the amount of the resin product in the resin layer is 12.9 to 85.3 wt% of total solid resin, and the amount of the urethane/amino acid copolymer contained in the resin layer is 0.9 to 9.0% wt of total solid resin. The fabric has both an excellent moisture permeability and waterproofness, as well as an excellent abrasion resistance and washing fastness.",
+  "llama_json": {
+    "motivations": [
+      "Existing waterproof fabrics often lack sufficient moisture permeability, leading to discomfort and reduced performance.",
+      "There is a need for waterproof fabrics that also exhibit excellent abrasion resistance and washing fastness."
+    ],
+    "objectives": [
+      "Develop a moisture-permeable waterproof fabric with improved performance characteristics.",
+      "Create a production process for the fabric that achieves the desired properties."
+    ],
+    "methods": [
+      "Form a resin layer on the fabric surface using a mixture of a urethane prepolymer reaction product and a polyurethane.",
+      "Control the composition of the resin layer to achieve optimal moisture permeability, waterproofness, and durability."
+    ],
+    "results": [
+      "Produce a fabric with excellent moisture permeability, waterproofness, abrasion resistance, and washing fastness.",
+      "Achieve a balance of properties that enhances the overall performance and comfort of the fabric."
+    ],
+    "research_subject": "Development of moisture-permeable waterproof fabric with improved durability"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a fabric that is both moisture-permeable and waterproof, while also being resistant to abrasion and washing."
+    ],
+    "objectives": [
+      "Develop a moisture-permeable waterproof fabric with a specific resin layer composition.",
+      "Ensure the fabric has excellent moisture permeability, waterproofness, abrasion resistance, and washing fastness."
+    ],
+    "methods": [
+      "Form a resin layer on at least one surface of the fabric, composed of a specific mixture obtained by reacting a urethane prepolymer with an N-carboxyamino acid anhydride and an amine, and a polyurethane."
+    ],
+    "results": [
+      "The developed fabric exhibits excellent moisture permeability and waterproofness.",
+      "The fabric also shows excellent abrasion resistance and washing fastness."
+    ],
+    "research_subject": "Production of a moisture-permeable waterproof fabric with excellent abrasion resistance and washing fastness"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional waterproof fabrics often lack adequate moisture permeability, leading to discomfort during wear.",
+      "Existing moisture-permeable waterproof fabrics suffer from poor durability, including low abrasion resistance and washing fastness."
+    ],
+    "objectives": [
+      "Develop a moisture-permeable waterproof fabric that combines excellent moisture permeability with waterproofness.",
+      "Create a fabric with enhanced durability characteristics including abrasion resistance and washing fastness."
+    ],
+    "methods": [
+      "Form a resin layer on fabric surfaces using a mixture of urethane prepolymer reacted with N-carboxyamino acid anhydride and amine.",
+      "Incorporate polyurethane with specific modulus properties into the resin layer composition.",
+      "Control the proportions of resin product and urethane/amino acid copolymer within defined ranges."
+    ],
+    "results": [
+      "Achieved a fabric with both excellent moisture permeability and waterproofness.",
+      "Demonstrated improved abrasion resistance and washing fastness compared to conventional waterproof fabrics."
+    ],
+    "research_subject": "Development of moisture-permeable waterproof fabric with enhanced durability"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing waterproof fabrics often lack sufficient moisture permeability, leading to discomfort and reduced performance.\",\n    \"There is a need for waterproof fabrics that also exhibit excellent abrasion resistance and washing fastness.\"\n  ],\n  \"objectives\": [\n    \"Develop a moisture-permeable waterproof fabric with improved performance characteristics.\",\n    \"Create a production process for the fabric that achieves the desired properties.\"\n  ],\n  \"methods\": [\n    \"Form a resin layer on the fabric surface using a mixture of a urethane prepolymer reaction product and a polyurethane.\",\n    \"Control the composition of the resin layer to achieve optimal moisture permeability, waterproofness, and durability.\"\n  ],\n  \"results\": [\n    \"Produce a fabric with excellent moisture permeability, waterproofness, abrasion resistance, and washing fastness.\",\n    \"Achieve a balance of properties that enhances the overall performance and comfort of the fabric.\"\n  ],\n  \"research_subject\": \"Development of moisture-permeable waterproof fabric with improved durability\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a fabric that is both moisture-permeable and waterproof, while also being resistant to abrasion and washing.\"\n  ],\n  \"objectives\": [\n    \"Develop a moisture-permeable waterproof fabric with a specific resin layer composition.\",\n    \"Ensure the fabric has excellent moisture permeability, waterproofness, abrasion resistance, and washing fastness.\"\n  ],\n  \"methods\": [\n    \"Form a resin layer on at least one surface of the fabric, composed of a specific mixture obtained by reacting a urethane prepolymer with an N-carboxyamino acid anhydride and an amine, and a polyurethane.\"\n  ],\n  \"results\": [\n    \"The developed fabric exhibits excellent moisture permeability and waterproofness.\",\n    \"The fabric also shows excellent abrasion resistance and washing fastness.\"\n  ],\n  \"research_subject\": \"Production of a moisture-permeable waterproof fabric with excellent abrasion resistance and washing fastness\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional waterproof fabrics often lack adequate moisture permeability, leading to discomfort during wear.\",\n    \"Existing moisture-permeable waterproof fabrics suffer from poor durability, including low abrasion resistance and washing fastness.\"\n  ],\n  \"objectives\": [\n    \"Develop a moisture-permeable waterproof fabric that combines excellent moisture permeability with waterproofness.\",\n    \"Create a fabric with enhanced durability characteristics including abrasion resistance and washing fastness.\"\n  ],\n  \"methods\": [\n    \"Form a resin layer on fabric surfaces using a mixture of urethane prepolymer reacted with N-carboxyamino acid anhydride and amine.\",\n    \"Incorporate polyurethane with specific modulus properties into the resin layer composition.\",\n    \"Control the proportions of resin product and urethane/amino acid copolymer within defined ranges.\"\n  ],\n  \"results\": [\n    \"Achieved a fabric with both excellent moisture permeability and waterproofness.\",\n    \"Demonstrated improved abrasion resistance and washing fastness compared to conventional waterproof fabrics.\"\n  ],\n  \"research_subject\": \"Development of moisture-permeable waterproof fabric with enhanced durability\"\n}\n```"
+}

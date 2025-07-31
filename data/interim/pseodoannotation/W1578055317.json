@@ -1,0 +1,71 @@
+{
+  "index": 457,
+  "title": "The health consequences of injecting tablet preparations: foreign body pulmonary embolization and pulmonary hypertension among deceased injecting drug users",
+  "abstract": "To determine: (1) the characteristics of cases presenting to the Department of Forensic Medicine Sydney (1997-2013) with foreign body pulmonary embolization; (2) the extent and locations of embolization; and (3) the relationship between extent, and use of other injection sites, with pathology.Analysis of consecutive case presentations with foreign body pulmonary embolization.Sydney, Australia, with a total of 373 cases (271 males, 102 females).Full autopsy reports, microscopy of tissue samples, and full toxicology. The extent and locations of embolization, inflammatory responses, clinical signs of pulmonary hypertension and signs of right-sided heart failure were examined.Cases increased from three (1997) to 58 (2013). In 43.4%, foreign particles were moderate-abundant in extent. Cases with moderate-abundant emboli were more likely to have injection sites other than the cubital fossa [odds ratio (OR) = 2.4]. In 6.9% of cases emboli were also found in other organs. A foreign body inflammatory response was present in 45.3%, vascular scarring in 8.0%, signs of pulmonary hypertension in 10.2% and signs of right-sided heart pathology in 5.4%. Cases with moderate-abundant deposition were more likely to have emboli in other organs (OR = 7.9), a foreign body inflammatory response (OR = 5.3), vascular scarring (OR = 3.4), signs of pulmonary hypertension (OR = 5.4) and right-sided heart pathology (OR = 5.3).Cases of foreign body pulmonary embolization (resulting from injecting crushed tablets meant for oral use, such as benzodiazepines and pharmaceutical opioids) in Sydney, Australia increased markedly from 1997 to 2013. In a large proportion there were clinical consequences. More extensive embolization was associated with higher levels of pulmonary hypertension and right-sided heart pathology.",
+  "llama_json": {
+    "motivations": [
+      "There is a growing concern about the health consequences of injecting tablet preparations, particularly foreign body pulmonary embolization and pulmonary hypertension among injecting drug users.",
+      "The increasing number of cases presenting with foreign body pulmonary embolization necessitates a comprehensive analysis of the characteristics, extent, and locations of embolization, as well as the associated pathology."
+    ],
+    "objectives": [
+      "Determine the characteristics of cases presenting with foreign body pulmonary embolization.",
+      "Examine the extent and locations of embolization and their relationship with pathology.",
+      "Investigate the association between the extent of embolization and the use of other injection sites with clinical signs of pulmonary hypertension and right-sided heart failure."
+    ],
+    "methods": [
+      "Analyze consecutive case presentations with foreign body pulmonary embolization through full autopsy reports, microscopy of tissue samples, and full toxicology.",
+      "Examine the extent and locations of embolization, inflammatory responses, and clinical signs of pulmonary hypertension and right-sided heart failure."
+    ],
+    "results": [
+      "The number of cases with foreign body pulmonary embolization increased significantly from 1997 to 2013, with a substantial proportion showing clinical consequences.",
+      "More extensive embolization was associated with higher levels of pulmonary hypertension and right-sided heart pathology.",
+      "The study highlights the importance of addressing the health consequences of injecting tablet preparations and the need for targeted interventions."
+    ],
+    "research_subject": "Health consequences of injecting tablet preparations, specifically foreign body pulmonary embolization and pulmonary hypertension among injecting drug users"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the characteristics and health consequences of foreign body pulmonary embolization among injecting drug users.",
+      "The increase in cases of foreign body pulmonary embolization in Sydney, Australia from 1997 to 2013 necessitates a comprehensive study."
+    ],
+    "objectives": [
+      "Determine the characteristics of cases with foreign body pulmonary embolization presenting to the Department of Forensic Medicine Sydney from 1997 to 2013.",
+      "Examine the extent and locations of embolization and its relationship with the use of other injection sites and pathology."
+    ],
+    "methods": [
+      "Analyze consecutive case presentations with foreign body pulmonary embolization.",
+      "Examine full autopsy reports, microscopy of tissue samples, and full toxicology."
+    ],
+    "results": [
+      "Cases of foreign body pulmonary embolization increased from three in 1997 to 58 in 2013.",
+      "Moderate-abundant emboli were found in 43.4% of cases, and these were more likely to have injection sites other than the cubital fossa.",
+      "Clinical consequences were observed in a large proportion of cases, with more extensive embolization associated with higher levels of pulmonary hypertension and right-sided heart pathology."
+    ],
+    "research_subject": "Health consequences of foreign body pulmonary embolization among injecting drug users"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The injection of crushed tablets meant for oral use can lead to foreign body pulmonary embolization, a potentially serious health consequence among injecting drug users.",
+      "There is limited understanding of the extent, clinical consequences, and pathological impacts of foreign body pulmonary embolization in this population."
+    ],
+    "objectives": [
+      "Determine the characteristics and trends of foreign body pulmonary embolization cases among deceased injecting drug users in Sydney from 1997-2013.",
+      "Examine the extent and anatomical distribution of embolization and its relationship with injection site usage.",
+      "Investigate the association between embolization extent and pathological consequences including pulmonary hypertension and right-sided heart failure."
+    ],
+    "methods": [
+      "Analyzed consecutive autopsy cases presenting with foreign body pulmonary embolization at the Department of Forensic Medicine Sydney.",
+      "Conducted comprehensive examinations including full autopsy reports, microscopic tissue analysis, and complete toxicology assessments.",
+      "Evaluated the extent of embolization, inflammatory responses, and clinical signs of cardiovascular pathology."
+    ],
+    "results": [
+      "Cases increased dramatically from 3 in 1997 to 58 in 2013, with moderate-abundant emboli found in 43.4% of cases.",
+      "More extensive embolization was significantly associated with foreign body inflammatory response, vascular scarring, pulmonary hypertension, and right-sided heart pathology.",
+      "Cases with moderate-abundant emboli were more likely to use injection sites other than the cubital fossa and have emboli in other organs."
+    ],
+    "research_subject": "Foreign body pulmonary embolization from injecting crushed tablets among deceased drug users"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a growing concern about the health consequences of injecting tablet preparations, particularly foreign body pulmonary embolization and pulmonary hypertension among injecting drug users.\",\n    \"The increasing number of cases presenting with foreign body pulmonary embolization necessitates a comprehensive analysis of the characteristics, extent, and locations of embolization, as well as the associated pathology.\"\n  ],\n  \"objectives\": [\n    \"Determine the characteristics of cases presenting with foreign body pulmonary embolization.\",\n    \"Examine the extent and locations of embolization and their relationship with pathology.\",\n    \"Investigate the association between the extent of embolization and the use of other injection sites with clinical signs of pulmonary hypertension and right-sided heart failure.\"\n  ],\n  \"methods\": [\n    \"Analyze consecutive case presentations with foreign body pulmonary embolization through full autopsy reports, microscopy of tissue samples, and full toxicology.\",\n    \"Examine the extent and locations of embolization, inflammatory responses, and clinical signs of pulmonary hypertension and right-sided heart failure.\"\n  ],\n  \"results\": [\n    \"The number of cases with foreign body pulmonary embolization increased significantly from 1997 to 2013, with a substantial proportion showing clinical consequences.\",\n    \"More extensive embolization was associated with higher levels of pulmonary hypertension and right-sided heart pathology.\",\n    \"The study highlights the importance of addressing the health consequences of injecting tablet preparations and the need for targeted interventions.\"\n  ],\n  \"research_subject\": \"Health consequences of injecting tablet preparations, specifically foreign body pulmonary embolization and pulmonary hypertension among injecting drug users\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the characteristics and health consequences of foreign body pulmonary embolization among injecting drug users.\",\n    \"The increase in cases of foreign body pulmonary embolization in Sydney, Australia from 1997 to 2013 necessitates a comprehensive study.\"\n  ],\n  \"objectives\": [\n    \"Determine the characteristics of cases with foreign body pulmonary embolization presenting to the Department of Forensic Medicine Sydney from 1997 to 2013.\",\n    \"Examine the extent and locations of embolization and its relationship with the use of other injection sites and pathology.\"\n  ],\n  \"methods\": [\n    \"Analyze consecutive case presentations with foreign body pulmonary embolization.\",\n    \"Examine full autopsy reports, microscopy of tissue samples, and full toxicology.\"\n  ],\n  \"results\": [\n    \"Cases of foreign body pulmonary embolization increased from three in 1997 to 58 in 2013.\",\n    \"Moderate-abundant emboli were found in 43.4% of cases, and these were more likely to have injection sites other than the cubital fossa.\",\n    \"Clinical consequences were observed in a large proportion of cases, with more extensive embolization associated with higher levels of pulmonary hypertension and right-sided heart pathology.\"\n  ],\n  \"research_subject\": \"Health consequences of foreign body pulmonary embolization among injecting drug users\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The injection of crushed tablets meant for oral use can lead to foreign body pulmonary embolization, a potentially serious health consequence among injecting drug users.\",\n    \"There is limited understanding of the extent, clinical consequences, and pathological impacts of foreign body pulmonary embolization in this population.\"\n  ],\n  \"objectives\": [\n    \"Determine the characteristics and trends of foreign body pulmonary embolization cases among deceased injecting drug users in Sydney from 1997-2013.\",\n    \"Examine the extent and anatomical distribution of embolization and its relationship with injection site usage.\",\n    \"Investigate the association between embolization extent and pathological consequences including pulmonary hypertension and right-sided heart failure.\"\n  ],\n  \"methods\": [\n    \"Analyzed consecutive autopsy cases presenting with foreign body pulmonary embolization at the Department of Forensic Medicine Sydney.\",\n    \"Conducted comprehensive examinations including full autopsy reports, microscopic tissue analysis, and complete toxicology assessments.\",\n    \"Evaluated the extent of embolization, inflammatory responses, and clinical signs of cardiovascular pathology.\"\n  ],\n  \"results\": [\n    \"Cases increased dramatically from 3 in 1997 to 58 in 2013, with moderate-abundant emboli found in 43.4% of cases.\",\n    \"More extensive embolization was significantly associated with foreign body inflammatory response, vascular scarring, pulmonary hypertension, and right-sided heart pathology.\",\n    \"Cases with moderate-abundant emboli were more likely to use injection sites other than the cubital fossa and have emboli in other organs.\"\n  ],\n  \"research_subject\": \"Foreign body pulmonary embolization from injecting crushed tablets among deceased drug users\"\n}\n```"
+}

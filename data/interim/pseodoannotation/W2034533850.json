@@ -1,0 +1,70 @@
+{
+  "index": 357,
+  "title": "Centralized heart rate monitoring telemetry system using ZigBee wireless sensor network",
+  "abstract": "Recent advances in wireless communication standards and medical monitoring system have made it possible to effectively combine mesh networking with Non-Invasive medical application which is Pulse Oximeter in order to create reliable, large-scale wireless Network. This Mesh networking will enable doctors and nurses to observe and monitor a number of patients simultaneously from one location without being with the patient's physically. This project is mainly concerned about monitoring patient's condition simultaneously via Wireless Mesh Network. Wireless Mesh Network is a network that allows data transmitted to the node's nearest neighbors and it can be easily maintained as each node are self configuring and self healing. Data obtained from multiple pulse oximeters will be stored and processed using Arduino-Nano, then transmitted to a centralized unit, where the information for multiple oximeter will be displayed simultaneously. The efficiency of data transmission was monitored and verified. Mesh networking for pulse oximeter had been successfully design to show the active pulse oximeter. Besides, the data transmit and received by the XBee were accurate and it had been proved through several observations.",
+  "llama_json": {
+    "motivations": [
+      "Current medical monitoring systems require physical presence of doctors and nurses to observe patients' conditions.",
+      "There is a need for a reliable and large-scale wireless network to enable simultaneous monitoring of multiple patients."
+    ],
+    "objectives": [
+      "Design a centralized heart rate monitoring telemetry system using ZigBee wireless sensor network.",
+      "Enable doctors and nurses to monitor multiple patients simultaneously from one location using a wireless mesh network."
+    ],
+    "methods": [
+      "Implement a wireless mesh network using ZigBee protocol to transmit data from pulse oximeters to a centralized unit.",
+      "Use Arduino-Nano to store and process data from multiple pulse oximeters.",
+      "Utilize XBee modules for data transmission and reception."
+    ],
+    "results": [
+      "Successfully designed a mesh networking system for pulse oximeter to display active pulse oximeter data.",
+      "Verified the accuracy of data transmission and reception using XBee modules.",
+      "Enabled simultaneous monitoring of multiple patients' conditions using a centralized unit."
+    ],
+    "research_subject": "Centralized heart rate monitoring using ZigBee wireless sensor network"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a reliable, large-scale wireless network that allows medical professionals to monitor multiple patients simultaneously from a single location.",
+      "Current patient monitoring systems require physical presence, limiting the number of patients that can be observed at once."
+    ],
+    "objectives": [
+      "Develop a wireless mesh network for monitoring patient's conditions using pulse oximeters.",
+      "Design a system where data from multiple pulse oximeters is stored, processed, and transmitted to a centralized unit for simultaneous display."
+    ],
+    "methods": [
+      "Use Arduino-Nano for storing and processing data obtained from multiple pulse oximeters.",
+      "Implement a wireless mesh network where data is transmitted to the nearest nodes, with each node being self-configuring and self-healing.",
+      "Monitor and verify the efficiency of data transmission within the network."
+    ],
+    "results": [
+      "Successfully designed a mesh network for pulse oximeters that displays active pulse oximeters.",
+      "Verified the accuracy of data transmitted and received by the XBee through several observations."
+    ],
+    "research_subject": "Centralized heart rate monitoring using a ZigBee wireless sensor network"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Healthcare providers need efficient systems to monitor multiple patients simultaneously without requiring physical presence at each patient's location.",
+      "Traditional patient monitoring systems lack the flexibility and scalability offered by modern wireless communication technologies."
+    ],
+    "objectives": [
+      "Develop a centralized heart rate monitoring system using ZigBee wireless sensor network technology to enable simultaneous monitoring of multiple patients.",
+      "Implement a reliable mesh networking solution that allows self-configuring and self-healing capabilities for medical monitoring applications."
+    ],
+    "methods": [
+      "Integrate pulse oximeters with Arduino-Nano microcontrollers for data processing and storage.",
+      "Implement ZigBee-based wireless mesh network using XBee modules for data transmission between nodes.",
+      "Design a centralized monitoring unit to display and manage data from multiple pulse oximeters simultaneously."
+    ],
+    "results": [
+      "Successfully designed and implemented a mesh networking system for pulse oximeter monitoring with accurate data transmission.",
+      "Demonstrated the ability to monitor multiple patients simultaneously from a centralized location.",
+      "Verified the efficiency and accuracy of data transmission through the wireless mesh network."
+    ],
+    "research_subject": "Wireless sensor network-based centralized patient monitoring system using ZigBee technology"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current medical monitoring systems require physical presence of doctors and nurses to observe patients' conditions.\",\n    \"There is a need for a reliable and large-scale wireless network to enable simultaneous monitoring of multiple patients.\"\n  ],\n  \"objectives\": [\n    \"Design a centralized heart rate monitoring telemetry system using ZigBee wireless sensor network.\",\n    \"Enable doctors and nurses to monitor multiple patients simultaneously from one location using a wireless mesh network.\"\n  ],\n  \"methods\": [\n    \"Implement a wireless mesh network using ZigBee protocol to transmit data from pulse oximeters to a centralized unit.\",\n    \"Use Arduino-Nano to store and process data from multiple pulse oximeters.\",\n    \"Utilize XBee modules for data transmission and reception.\"\n  ],\n  \"results\": [\n    \"Successfully designed a mesh networking system for pulse oximeter to display active pulse oximeter data.\",\n    \"Verified the accuracy of data transmission and reception using XBee modules.\",\n    \"Enabled simultaneous monitoring of multiple patients' conditions using a centralized unit.\"\n  ],\n  \"research_subject\": \"Centralized heart rate monitoring using ZigBee wireless sensor network\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a reliable, large-scale wireless network that allows medical professionals to monitor multiple patients simultaneously from a single location.\",\n    \"Current patient monitoring systems require physical presence, limiting the number of patients that can be observed at once.\"\n  ],\n  \"objectives\": [\n    \"Develop a wireless mesh network for monitoring patient's conditions using pulse oximeters.\",\n    \"Design a system where data from multiple pulse oximeters is stored, processed, and transmitted to a centralized unit for simultaneous display.\"\n  ],\n  \"methods\": [\n    \"Use Arduino-Nano for storing and processing data obtained from multiple pulse oximeters.\",\n    \"Implement a wireless mesh network where data is transmitted to the nearest nodes, with each node being self-configuring and self-healing.\",\n    \"Monitor and verify the efficiency of data transmission within the network.\"\n  ],\n  \"results\": [\n    \"Successfully designed a mesh network for pulse oximeters that displays active pulse oximeters.\",\n    \"Verified the accuracy of data transmitted and received by the XBee through several observations.\"\n  ],\n  \"research_subject\": \"Centralized heart rate monitoring using a ZigBee wireless sensor network\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Healthcare providers need efficient systems to monitor multiple patients simultaneously without requiring physical presence at each patient's location.\",\n    \"Traditional patient monitoring systems lack the flexibility and scalability offered by modern wireless communication technologies.\"\n  ],\n  \"objectives\": [\n    \"Develop a centralized heart rate monitoring system using ZigBee wireless sensor network technology to enable simultaneous monitoring of multiple patients.\",\n    \"Implement a reliable mesh networking solution that allows self-configuring and self-healing capabilities for medical monitoring applications.\"\n  ],\n  \"methods\": [\n    \"Integrate pulse oximeters with Arduino-Nano microcontrollers for data processing and storage.\",\n    \"Implement ZigBee-based wireless mesh network using XBee modules for data transmission between nodes.\",\n    \"Design a centralized monitoring unit to display and manage data from multiple pulse oximeters simultaneously.\"\n  ],\n  \"results\": [\n    \"Successfully designed and implemented a mesh networking system for pulse oximeter monitoring with accurate data transmission.\",\n    \"Demonstrated the ability to monitor multiple patients simultaneously from a centralized location.\",\n    \"Verified the efficiency and accuracy of data transmission through the wireless mesh network.\"\n  ],\n  \"research_subject\": \"Wireless sensor network-based centralized patient monitoring system using ZigBee technology\"\n}\n```"
+}

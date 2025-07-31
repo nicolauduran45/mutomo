@@ -1,0 +1,39 @@
+{
+  "index": 105,
+  "title": "CÓDIGO DEL PROYECTO: 57204 — POR MARCHE FEDER 2014-2020 — EJE 3 — OS8 — ACCIÓN 8.2.ITI.AI — ESTRATEGIA NACIONAL ÁREAS INTERNAS — ALTA MACERACIÓN DEL ESPACIO INTERIOR Â LLAMADA PARA APOYAR LA COMPETITIVIDAD DE LAS EMPRESAS, A TRAVÉS DE INTERVENCIONES PARA CALIFICAR LA OFERTA Y LA INNOVACIÓN DE PRODUCTO/SERVICIO, TRAS LA EMERGENCIA COVID 19",
+  "abstract": "CÓDIGO DEL PROYECTO: 57204 — POR MARCHE FEDER 2014-2020 — EJE 3 — OS8 — ACCIÓN 8.2.ITI.AI — ESTRATEGIA NACIONAL ÁREAS INTERNAS — ALTA MACERACIÓN DEL ESPACIO INTERIOR Â LLAMADA PARA APOYAR LA COMPETITIVIDAD DE LAS EMPRESAS, A TRAVÉS DE INTERVENCIONES PARA CALIFICAR LA OFERTA Y LA INNOVACIÓN DE PRODUCTO/SERVICIO, TRAS LA EMERGENCIA COVID 19",
+  "llama_json": {
+    "motivations": [
+      "The COVID-19 pandemic has negatively impacted the competitiveness of businesses, requiring interventions to enhance their product/service offerings and innovation."
+    ],
+    "objectives": [
+      "Support the competitiveness of businesses by qualifying their product/service offerings and innovation capabilities in the aftermath of the COVID-19 pandemic."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Enhancing business competitiveness through product/service innovation and qualification post-COVID-19"
+  },
+  "openai_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": ""
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The COVID-19 emergency has created challenges for business competitiveness that require targeted interventions.",
+      "There is a need to support companies in internal areas through qualification of their offerings and innovation capabilities."
+    ],
+    "objectives": [
+      "Support business competitiveness through interventions that qualify product and service offerings.",
+      "Promote innovation in products and services in response to the COVID-19 emergency."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Business competitiveness support through product/service innovation interventions in internal areas following COVID-19"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The COVID-19 pandemic has negatively impacted the competitiveness of businesses, requiring interventions to enhance their product/service offerings and innovation.\"\n  ],\n  \"objectives\": [\n    \"Support the competitiveness of businesses by qualifying their product/service offerings and innovation capabilities in the aftermath of the COVID-19 pandemic.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Enhancing business competitiveness through product/service innovation and qualification post-COVID-19\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The COVID-19 emergency has created challenges for business competitiveness that require targeted interventions.\",\n    \"There is a need to support companies in internal areas through qualification of their offerings and innovation capabilities.\"\n  ],\n  \"objectives\": [\n    \"Support business competitiveness through interventions that qualify product and service offerings.\",\n    \"Promote innovation in products and services in response to the COVID-19 emergency.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Business competitiveness support through product/service innovation interventions in internal areas following COVID-19\"\n}\n```"
+}

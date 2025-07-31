@@ -1,0 +1,62 @@
+{
+  "index": 346,
+  "title": "SYSTEMS AND METHODS FOR DIAGNOSING KIDNEY CANCER",
+  "abstract": "Systems, methods, and computer readable media for diagnosing or characterizing kidney cancer based on serum amino acid profiles are provided. Serum amino acid concentrations, and optionally also serum creatinine concentration, are determined in serum obtained from a subject and compared against reference concentration profiles. The condition or prognosis of the subject may be determined based on comparisons of patient samples with reference profiles.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective methods to diagnose and characterize kidney cancer."
+    ],
+    "objectives": [
+      "Develop a system to diagnose or characterize kidney cancer based on serum amino acid profiles."
+    ],
+    "methods": [
+      "Determine serum amino acid concentrations and optionally serum creatinine concentration in a subject's serum.",
+      "Compare the subject's serum concentrations against reference concentration profiles."
+    ],
+    "results": [
+      "Accurately diagnose or characterize kidney cancer in subjects based on serum amino acid profiles."
+    ],
+    "research_subject": "Diagnosis of kidney cancer using serum amino acid profiles"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for improved systems and methods for diagnosing or characterizing kidney cancer.",
+      "Current diagnostic methods could benefit from the incorporation of serum amino acid profiles."
+    ],
+    "objectives": [
+      "Develop systems and methods for diagnosing or characterizing kidney cancer based on serum amino acid profiles.",
+      "Compare patient serum amino acid and creatinine concentrations against reference concentration profiles to determine the condition or prognosis."
+    ],
+    "methods": [
+      "Determine serum amino acid concentrations, and optionally serum creatinine concentration, in serum obtained from a subject.",
+      "Compare these concentrations against reference concentration profiles."
+    ],
+    "results": [
+      "Improved diagnosis or characterization of kidney cancer based on serum amino acid profiles.",
+      "Potential to determine the condition or prognosis of a subject based on comparisons of patient samples with reference profiles."
+    ],
+    "research_subject": "Diagnosing kidney cancer using serum amino acid profiles"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current methods for diagnosing and characterizing kidney cancer may be invasive, costly, or lack sufficient accuracy.",
+      "There is a need for non-invasive biomarker-based approaches to improve early detection and prognosis assessment of kidney cancer."
+    ],
+    "objectives": [
+      "Develop a diagnostic system for kidney cancer based on serum amino acid profiles and optionally serum creatinine concentrations.",
+      "Enable accurate characterization and prognosis assessment of kidney cancer through comparison with reference concentration profiles."
+    ],
+    "methods": [
+      "Measure serum amino acid concentrations and optionally serum creatinine levels in patient samples.",
+      "Compare patient serum profiles against established reference concentration profiles to determine diagnostic outcomes."
+    ],
+    "results": [
+      "Enable non-invasive diagnosis and characterization of kidney cancer through serum biomarker analysis.",
+      "Provide clinicians with a tool for assessing patient condition and prognosis based on metabolic profiles."
+    ],
+    "research_subject": "Serum amino acid profile-based diagnosis and characterization of kidney cancer"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective methods to diagnose and characterize kidney cancer.\"\n  ],\n  \"objectives\": [\n    \"Develop a system to diagnose or characterize kidney cancer based on serum amino acid profiles.\"\n  ],\n  \"methods\": [\n    \"Determine serum amino acid concentrations and optionally serum creatinine concentration in a subject's serum.\",\n    \"Compare the subject's serum concentrations against reference concentration profiles.\"\n  ],\n  \"results\": [\n    \"Accurately diagnose or characterize kidney cancer in subjects based on serum amino acid profiles.\"\n  ],\n  \"research_subject\": \"Diagnosis of kidney cancer using serum amino acid profiles\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved systems and methods for diagnosing or characterizing kidney cancer.\",\n    \"Current diagnostic methods could benefit from the incorporation of serum amino acid profiles.\"\n  ],\n  \"objectives\": [\n    \"Develop systems and methods for diagnosing or characterizing kidney cancer based on serum amino acid profiles.\",\n    \"Compare patient serum amino acid and creatinine concentrations against reference concentration profiles to determine the condition or prognosis.\"\n  ],\n  \"methods\": [\n    \"Determine serum amino acid concentrations, and optionally serum creatinine concentration, in serum obtained from a subject.\",\n    \"Compare these concentrations against reference concentration profiles.\"\n  ],\n  \"results\": [\n    \"Improved diagnosis or characterization of kidney cancer based on serum amino acid profiles.\",\n    \"Potential to determine the condition or prognosis of a subject based on comparisons of patient samples with reference profiles.\"\n  ],\n  \"research_subject\": \"Diagnosing kidney cancer using serum amino acid profiles\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current methods for diagnosing and characterizing kidney cancer may be invasive, costly, or lack sufficient accuracy.\",\n    \"There is a need for non-invasive biomarker-based approaches to improve early detection and prognosis assessment of kidney cancer.\"\n  ],\n  \"objectives\": [\n    \"Develop a diagnostic system for kidney cancer based on serum amino acid profiles and optionally serum creatinine concentrations.\",\n    \"Enable accurate characterization and prognosis assessment of kidney cancer through comparison with reference concentration profiles.\"\n  ],\n  \"methods\": [\n    \"Measure serum amino acid concentrations and optionally serum creatinine levels in patient samples.\",\n    \"Compare patient serum profiles against established reference concentration profiles to determine diagnostic outcomes.\"\n  ],\n  \"results\": [\n    \"Enable non-invasive diagnosis and characterization of kidney cancer through serum biomarker analysis.\",\n    \"Provide clinicians with a tool for assessing patient condition and prognosis based on metabolic profiles.\"\n  ],\n  \"research_subject\": \"Serum amino acid profile-based diagnosis and characterization of kidney cancer\"\n}\n```"
+}

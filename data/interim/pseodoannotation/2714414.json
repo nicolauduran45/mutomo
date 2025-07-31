@@ -1,0 +1,71 @@
+{
+  "index": 327,
+  "title": "A disruptive magnetically enhanced library preparation platform for next generation sequencing",
+  "abstract": "Inorevia is a spin-off from the Institut Curie/CNRS (Paris) that leverages over ten years of research in microfluidics to tackle challenges of modern Biology and Medicine with faster, cheaper, miniaturised sample preparation. Inorevia’s ground-breaking biology platform, the MAGELIA, will provide Biologists and Clinicians with a unique tool to efficiently process raw biological samples upstream of advanced analysis methods such as Next-Generation Sequencing (NGS) in volumes 100 to 1000 times smaller, in an entirely automated platform. After over 2 years of R&D and a first TRL6 prototype of the MAGELIA platform, Inorevia is ready to accelerate its development to reach TRL8, finish the development of the MAGELIA and initiate its commercialization by 2021. Aiming for the NGS sample preparation market, this first generation of the MAGELIA platform will meet the needs of low to medium throughput labs, sequencing platforms, biotech and pharmacy companies, who struggle with low-reproducibility manual library preparations, expensive reagents, and scarce biological samples. The MAGELIA platform will democratise NGS to ignite a revolution in genomics on a fast-growing 8 Billion € market. To succeed, Inorevia has put together an 8 persons’ team of recognized scientists, engineers, and confirmed business talents, backed by a renowned advisory board. The company holds exclusive rights on 4 key patents and large know-how. Since its inception in 2016, Inorevia has won several renowned awards in France and Europe, secured over 1.3 M€ in grants and a seed round. The MAGELIA SME Instrument Phase 2 project specifically aims at accelerating Inorevia’s go-to market through faster development, earlier pre-series and larger market reach in Europe. With the objective to reach over 400 customers and 15% of the European market within five years, with a turnover of 30 M€, INOREVIA will become the European leader in miniaturized samples preparation for modern biology and medicine.",
+  "llama_json": {
+    "motivations": [
+      "Current next-generation sequencing (NGS) sample preparation methods are labor-intensive, expensive, and suffer from low reproducibility, limiting the accessibility and efficiency of genomics research.",
+      "There is a need for miniaturized and automated sample preparation solutions to address the challenges of scarce biological samples and high reagent costs."
+    ],
+    "objectives": [
+      "Develop and commercialize the MAGELIA platform, a magnetically enhanced library preparation platform for NGS, to provide faster, cheaper, and miniaturized sample preparation.",
+      "Democratize NGS by making it more accessible to low-to-medium throughput labs, sequencing platforms, biotech, and pharma companies.",
+      "Accelerate Inorevia's go-to-market strategy through faster development, earlier pre-series, and larger market reach in Europe."
+    ],
+    "methods": [
+      "Leverage microfluidics research and ground-breaking biology platform to develop an entirely automated sample preparation platform.",
+      "Utilize exclusive patents and large know-how to create a unique tool for efficiently processing raw biological samples upstream of NGS.",
+      "Accelerate development to reach TRL8 and initiate commercialization of the MAGELIA platform."
+    ],
+    "results": [
+      "Provide Biologists and Clinicians with a unique tool to efficiently process raw biological samples, enabling faster and cheaper analysis.",
+      "Ignite a revolution in genomics by democratizing NGS and making it more accessible to a wider range of researchers and organizations.",
+      "Establish Inorevia as the European leader in miniaturized sample preparation for modern biology and medicine, with a projected turnover of 30 M€ within five years."
+    ],
+    "research_subject": "Development of a disruptive magnetically enhanced library preparation platform for next-generation sequencing"
+  },
+  "openai_json": {
+    "motivations": [
+      "Modern biology and medicine face challenges in efficiently processing raw biological samples for advanced analysis methods such as Next-Generation Sequencing (NGS).",
+      "Current methods of NGS sample preparation are often manual, expensive, and suffer from low reproducibility, especially when dealing with scarce biological samples."
+    ],
+    "objectives": [
+      "Develop and commercialize the MAGELIA platform, a tool for automated, miniaturized sample preparation for NGS.",
+      "Accelerate the development of the MAGELIA platform to reach a higher technology readiness level and initiate its commercialization.",
+      "Capture a significant share of the European market for miniaturized sample preparation in biology and medicine."
+    ],
+    "methods": [
+      "Leverage over ten years of research in microfluidics to develop the MAGELIA platform, capable of processing samples in volumes 100 to 1000 times smaller.",
+      "Accelerate the development of the MAGELIA platform to reach TRL8 and initiate its commercialization by 2021.",
+      "Target the NGS sample preparation market, focusing on low to medium throughput labs, sequencing platforms, biotech and pharmacy companies."
+    ],
+    "results": [
+      "Provide an efficient, automated solution for NGS sample preparation, addressing issues of reproducibility and cost.",
+      "Democratize NGS by making it more accessible to a wider range of labs and companies.",
+      "Establish INOREVIA as the European leader in miniaturized sample preparation for modern biology and medicine."
+    ],
+    "research_subject": "Development and commercialization of a magnetically enhanced library preparation platform for next generation sequencing"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current biological sample preparation methods for Next-Generation Sequencing suffer from low reproducibility, high reagent costs, and limitations when working with scarce biological samples.",
+      "Low to medium throughput laboratories lack access to automated, miniaturized sample preparation tools that can efficiently process raw biological samples."
+    ],
+    "objectives": [
+      "Develop and commercialize the MAGELIA platform, an automated, miniaturized sample preparation system for Next-Generation Sequencing that operates with 100-1000 times smaller volumes.",
+      "Accelerate the platform's development from TRL6 to TRL8 and initiate commercialization to democratize NGS technology across European laboratories."
+    ],
+    "methods": [
+      "Leverage microfluidics technology and magnetic enhancement to create an automated biological sample preparation platform.",
+      "Utilize over ten years of research from Institut Curie/CNRS to develop miniaturized sample processing capabilities."
+    ],
+    "results": [
+      "Enable laboratories to achieve higher reproducibility and lower costs in NGS sample preparation while working with scarce biological samples.",
+      "Position Inorevia as the European leader in miniaturized sample preparation with projected revenues of 30M€ and 15% European market share within five years."
+    ],
+    "research_subject": "Magnetically enhanced microfluidic platform for automated Next-Generation Sequencing sample preparation"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current next-generation sequencing (NGS) sample preparation methods are labor-intensive, expensive, and suffer from low reproducibility, limiting the accessibility and efficiency of genomics research.\",\n    \"There is a need for miniaturized and automated sample preparation solutions to address the challenges of scarce biological samples and high reagent costs.\"\n  ],\n  \"objectives\": [\n    \"Develop and commercialize the MAGELIA platform, a magnetically enhanced library preparation platform for NGS, to provide faster, cheaper, and miniaturized sample preparation.\",\n    \"Democratize NGS by making it more accessible to low-to-medium throughput labs, sequencing platforms, biotech, and pharma companies.\",\n    \"Accelerate Inorevia's go-to-market strategy through faster development, earlier pre-series, and larger market reach in Europe.\"\n  ],\n  \"methods\": [\n    \"Leverage microfluidics research and ground-breaking biology platform to develop an entirely automated sample preparation platform.\",\n    \"Utilize exclusive patents and large know-how to create a unique tool for efficiently processing raw biological samples upstream of NGS.\",\n    \"Accelerate development to reach TRL8 and initiate commercialization of the MAGELIA platform.\"\n  ],\n  \"results\": [\n    \"Provide Biologists and Clinicians with a unique tool to efficiently process raw biological samples, enabling faster and cheaper analysis.\",\n    \"Ignite a revolution in genomics by democratizing NGS and making it more accessible to a wider range of researchers and organizations.\",\n    \"Establish Inorevia as the European leader in miniaturized sample preparation for modern biology and medicine, with a projected turnover of 30 M€ within five years.\"\n  ],\n  \"research_subject\": \"Development of a disruptive magnetically enhanced library preparation platform for next-generation sequencing\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Modern biology and medicine face challenges in efficiently processing raw biological samples for advanced analysis methods such as Next-Generation Sequencing (NGS).\",\n    \"Current methods of NGS sample preparation are often manual, expensive, and suffer from low reproducibility, especially when dealing with scarce biological samples.\"\n  ],\n  \"objectives\": [\n    \"Develop and commercialize the MAGELIA platform, a tool for automated, miniaturized sample preparation for NGS.\",\n    \"Accelerate the development of the MAGELIA platform to reach a higher technology readiness level and initiate its commercialization.\",\n    \"Capture a significant share of the European market for miniaturized sample preparation in biology and medicine.\"\n  ],\n  \"methods\": [\n    \"Leverage over ten years of research in microfluidics to develop the MAGELIA platform, capable of processing samples in volumes 100 to 1000 times smaller.\",\n    \"Accelerate the development of the MAGELIA platform to reach TRL8 and initiate its commercialization by 2021.\",\n    \"Target the NGS sample preparation market, focusing on low to medium throughput labs, sequencing platforms, biotech and pharmacy companies.\"\n  ],\n  \"results\": [\n    \"Provide an efficient, automated solution for NGS sample preparation, addressing issues of reproducibility and cost.\",\n    \"Democratize NGS by making it more accessible to a wider range of labs and companies.\",\n    \"Establish INOREVIA as the European leader in miniaturized sample preparation for modern biology and medicine.\"\n  ],\n  \"research_subject\": \"Development and commercialization of a magnetically enhanced library preparation platform for next generation sequencing\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current biological sample preparation methods for Next-Generation Sequencing suffer from low reproducibility, high reagent costs, and limitations when working with scarce biological samples.\",\n    \"Low to medium throughput laboratories lack access to automated, miniaturized sample preparation tools that can efficiently process raw biological samples.\"\n  ],\n  \"objectives\": [\n    \"Develop and commercialize the MAGELIA platform, an automated, miniaturized sample preparation system for Next-Generation Sequencing that operates with 100-1000 times smaller volumes.\",\n    \"Accelerate the platform's development from TRL6 to TRL8 and initiate commercialization to democratize NGS technology across European laboratories.\"\n  ],\n  \"methods\": [\n    \"Leverage microfluidics technology and magnetic enhancement to create an automated biological sample preparation platform.\",\n    \"Utilize over ten years of research from Institut Curie/CNRS to develop miniaturized sample processing capabilities.\"\n  ],\n  \"results\": [\n    \"Enable laboratories to achieve higher reproducibility and lower costs in NGS sample preparation while working with scarce biological samples.\",\n    \"Position Inorevia as the European leader in miniaturized sample preparation with projected revenues of 30M€ and 15% European market share within five years.\"\n  ],\n  \"research_subject\": \"Magnetically enhanced microfluidic platform for automated Next-Generation Sequencing sample preparation\"\n}\n```"
+}

@@ -1,0 +1,33 @@
+{
+  "index": 439,
+  "title": "CÓDIGO DEL PROYECTO: 18654 — POR MARCAS FEDER 2014/2020 EJE 8¿INTERVENCIÓN 23.1.2 — APOYO A LA INNOVACIÓN Y LA AGREGACIÓN EN LOS SECTORES DE LAS PYME CULTURALES Y CREATIVAS, LA INDUSTRIA MANUFACTURERA Y EL TURISMO CON EL FIN DE MEJORAR LA COMPETITIVIDAD INTERNACIONAL Y EL EMPLEO — ÁREA SÍSMICA — EMPRESAS ÚNICAS",
+  "abstract": "CÓDIGO DEL PROYECTO: 18654 — POR MARCAS FEDER 2014/2020 EJE 8¿INTERVENCIÓN 23.1.2 — APOYO A LA INNOVACIÓN Y LA AGREGACIÓN EN LOS SECTORES DE LAS PYME CULTURALES Y CREATIVAS, LA INDUSTRIA MANUFACTURERA Y EL TURISMO CON EL FIN DE MEJORAR LA COMPETITIVIDAD INTERNACIONAL Y EL EMPLEO — ÁREA SÍSMICA — EMPRESAS ÚNICAS",
+  "llama_json": {
+    "motivations": [
+      "There is a need to improve international competitiveness and employment in the cultural and creative SMEs, manufacturing industry, and tourism sectors."
+    ],
+    "objectives": [
+      "Support innovation and aggregation in the cultural and creative SMEs, manufacturing industry, and tourism sectors to enhance international competitiveness and employment."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Improving competitiveness and employment in cultural and creative SMEs, manufacturing, and tourism sectors"
+  },
+  "openai_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": ""
+  },
+  "anthropic_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": "Support for innovation and aggregation in cultural, creative, manufacturing and tourism SMEs"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to improve international competitiveness and employment in the cultural and creative SMEs, manufacturing industry, and tourism sectors.\"\n  ],\n  \"objectives\": [\n    \"Support innovation and aggregation in the cultural and creative SMEs, manufacturing industry, and tourism sectors to enhance international competitiveness and employment.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Improving competitiveness and employment in cultural and creative SMEs, manufacturing, and tourism sectors\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Support for innovation and aggregation in cultural, creative, manufacturing and tourism SMEs\"\n}\n```"
+}

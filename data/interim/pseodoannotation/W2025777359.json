@@ -1,0 +1,72 @@
+{
+  "index": 84,
+  "title": "“The True Meaning of the Word Restoration”: Architecture and Obsolescence in <em>Jude the Obscure</em>",
+  "abstract": "This essay situates Jude the Obscure (1895) in the context of the Victorian architectural restoration debate, a pitched battle of ideas in which Thomas Hardy (a former architect and preservation activist) was deeply involved. For Hardy, architec - tural restoration threatens historical continuity by approaching history as a traumatic process that must be reversed. In Jude this restorationist vision is disastrously trium - phant, trapping the novel's characters in cycles of meaningless repetition. In response, Hardy explores how the novel might serve as a compensatory medium, emplacing and connecting its characters in ways that material architecture no longer can. At the same time, Hardy imagines the printed text as a material object not unlike architecture, potentially opening up his work to contingent and unanticipated meanings.",
+  "llama_json": {
+    "motivations": [
+      "Thomas Hardy's novel Jude the Obscure reflects his concerns about the Victorian architectural restoration debate and its impact on historical continuity.",
+      "Hardy seeks to explore the potential of the novel as a medium to compensate for the failures of material architecture in preserving historical meaning."
+    ],
+    "objectives": [
+      "Analyze Jude the Obscure in the context of the Victorian architectural restoration debate and Hardy's involvement in it.",
+      "Examine how Hardy uses the novel to critique the restorationist vision and its effects on historical continuity.",
+      "Investigate how Hardy imagines the printed text as a material object that can convey meaning in ways similar to architecture."
+    ],
+    "methods": [
+      "Situate Jude the Obscure within the historical context of the Victorian architectural restoration debate.",
+      "Conduct a literary analysis of the novel to explore Hardy's critique of restorationism and his use of the novel as a compensatory medium.",
+      "Examine the materiality of the printed text and its potential for conveying meaning in ways similar to architecture."
+    ],
+    "results": [
+      "A deeper understanding of Jude the Obscure as a response to the Victorian architectural restoration debate and its implications for historical continuity.",
+      "Insights into Hardy's use of the novel as a medium to compensate for the failures of material architecture in preserving historical meaning.",
+      "A nuanced understanding of the relationship between literature, architecture, and historical meaning in the context of the novel."
+    ],
+    "research_subject": "The intersection of architecture, literature, and historical meaning in Thomas Hardy's Jude the Obscure"
+  },
+  "openai_json": {
+    "motivations": [
+      "The Victorian architectural restoration debate, in which Thomas Hardy was deeply involved, has not been thoroughly examined in the context of his novel, Jude the Obscure.",
+      "There is a need to understand how Hardy's views on architectural restoration, which he saw as a threat to historical continuity, influenced his literary work."
+    ],
+    "objectives": [
+      "Situate Jude the Obscure in the context of the Victorian architectural restoration debate.",
+      "Explore how Hardy uses the novel as a compensatory medium, connecting characters in ways that material architecture no longer can.",
+      "Analyze Hardy's view of the printed text as a material object, similar to architecture, that can open up to contingent and unanticipated meanings."
+    ],
+    "methods": [
+      "Analyze the novel Jude the Obscure in the context of the Victorian architectural restoration debate.",
+      "Examine the novel's characters and their interactions in relation to Hardy's views on architectural restoration.",
+      "Interpret the novel's text as a material object, drawing parallels with architecture."
+    ],
+    "results": [
+      "Provide a new understanding of Jude the Obscure in the context of the Victorian architectural restoration debate.",
+      "Reveal how Hardy uses the novel to compensate for the perceived failures of architectural restoration.",
+      "Uncover potential contingent and unanticipated meanings in Hardy's work."
+    ],
+    "research_subject": "Interpretation of Thomas Hardy's Jude the Obscure in the context of the Victorian architectural restoration debate"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Victorian architectural restoration practices threatened historical continuity by treating history as a traumatic process that needed to be reversed.",
+      "The debate over architectural restoration in the Victorian era raised questions about how material culture and literature could preserve or disrupt historical meaning."
+    ],
+    "objectives": [
+      "Analyze how Thomas Hardy's Jude the Obscure engages with and critiques Victorian architectural restoration debates.",
+      "Explore how Hardy positions the novel as a compensatory medium that can provide the historical continuity and connection that restored architecture fails to offer."
+    ],
+    "methods": [
+      "Contextual analysis of Jude the Obscure within the Victorian architectural restoration debate and Hardy's involvement as a former architect and preservation activist.",
+      "Literary analysis examining how the novel represents restoration as creating cycles of meaningless repetition and how the text itself functions as a material object."
+    ],
+    "results": [
+      "The analysis reveals that Hardy presents architectural restoration as a destructive force that traps characters in meaningless repetition.",
+      "The novel emerges as an alternative medium for preserving historical continuity and human connection that material architecture can no longer provide.",
+      "Hardy's treatment of the printed text as a material object opens his work to contingent and unanticipated meanings."
+    ],
+    "research_subject": "Thomas Hardy's critique of Victorian architectural restoration in Jude the Obscure"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Thomas Hardy's novel Jude the Obscure reflects his concerns about the Victorian architectural restoration debate and its impact on historical continuity.\",\n    \"Hardy seeks to explore the potential of the novel as a medium to compensate for the failures of material architecture in preserving historical meaning.\"\n  ],\n  \"objectives\": [\n    \"Analyze Jude the Obscure in the context of the Victorian architectural restoration debate and Hardy's involvement in it.\",\n    \"Examine how Hardy uses the novel to critique the restorationist vision and its effects on historical continuity.\",\n    \"Investigate how Hardy imagines the printed text as a material object that can convey meaning in ways similar to architecture.\"\n  ],\n  \"methods\": [\n    \"Situate Jude the Obscure within the historical context of the Victorian architectural restoration debate.\",\n    \"Conduct a literary analysis of the novel to explore Hardy's critique of restorationism and his use of the novel as a compensatory medium.\",\n    \"Examine the materiality of the printed text and its potential for conveying meaning in ways similar to architecture.\"\n  ],\n  \"results\": [\n    \"A deeper understanding of Jude the Obscure as a response to the Victorian architectural restoration debate and its implications for historical continuity.\",\n    \"Insights into Hardy's use of the novel as a medium to compensate for the failures of material architecture in preserving historical meaning.\",\n    \"A nuanced understanding of the relationship between literature, architecture, and historical meaning in the context of the novel.\"\n  ],\n  \"research_subject\": \"The intersection of architecture, literature, and historical meaning in Thomas Hardy's Jude the Obscure\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The Victorian architectural restoration debate, in which Thomas Hardy was deeply involved, has not been thoroughly examined in the context of his novel, Jude the Obscure.\",\n    \"There is a need to understand how Hardy's views on architectural restoration, which he saw as a threat to historical continuity, influenced his literary work.\"\n  ],\n  \"objectives\": [\n    \"Situate Jude the Obscure in the context of the Victorian architectural restoration debate.\",\n    \"Explore how Hardy uses the novel as a compensatory medium, connecting characters in ways that material architecture no longer can.\",\n    \"Analyze Hardy's view of the printed text as a material object, similar to architecture, that can open up to contingent and unanticipated meanings.\"\n  ],\n  \"methods\": [\n    \"Analyze the novel Jude the Obscure in the context of the Victorian architectural restoration debate.\",\n    \"Examine the novel's characters and their interactions in relation to Hardy's views on architectural restoration.\",\n    \"Interpret the novel's text as a material object, drawing parallels with architecture.\"\n  ],\n  \"results\": [\n    \"Provide a new understanding of Jude the Obscure in the context of the Victorian architectural restoration debate.\",\n    \"Reveal how Hardy uses the novel to compensate for the perceived failures of architectural restoration.\",\n    \"Uncover potential contingent and unanticipated meanings in Hardy's work.\"\n  ],\n  \"research_subject\": \"Interpretation of Thomas Hardy's Jude the Obscure in the context of the Victorian architectural restoration debate\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Victorian architectural restoration practices threatened historical continuity by treating history as a traumatic process that needed to be reversed.\",\n    \"The debate over architectural restoration in the Victorian era raised questions about how material culture and literature could preserve or disrupt historical meaning.\"\n  ],\n  \"objectives\": [\n    \"Analyze how Thomas Hardy's Jude the Obscure engages with and critiques Victorian architectural restoration debates.\",\n    \"Explore how Hardy positions the novel as a compensatory medium that can provide the historical continuity and connection that restored architecture fails to offer.\"\n  ],\n  \"methods\": [\n    \"Contextual analysis of Jude the Obscure within the Victorian architectural restoration debate and Hardy's involvement as a former architect and preservation activist.\",\n    \"Literary analysis examining how the novel represents restoration as creating cycles of meaningless repetition and how the text itself functions as a material object.\"\n  ],\n  \"results\": [\n    \"The analysis reveals that Hardy presents architectural restoration as a destructive force that traps characters in meaningless repetition.\",\n    \"The novel emerges as an alternative medium for preserving historical continuity and human connection that material architecture can no longer provide.\",\n    \"Hardy's treatment of the printed text as a material object opens his work to contingent and unanticipated meanings.\"\n  ],\n  \"research_subject\": \"Thomas Hardy's critique of Victorian architectural restoration in Jude the Obscure\"\n}\n```"
+}

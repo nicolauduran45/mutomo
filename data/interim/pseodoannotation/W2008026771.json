@@ -1,0 +1,71 @@
+{
+  "index": 52,
+  "title": "Maximum probability reaction sequences in stochastic chemical kinetic systems",
+  "abstract": "The detailed behavior of many molecular processes in the cell, such as protein folding, protein complex assembly, and gene regulation, transcription and translation, can often be accurately captured by stochastic chemical kinetic models. We investigate a novel computational problem involving these models - that of finding the most-probable sequence of reactions that connects two or more states of the system observed at different times. We describe an efficient method for computing the probability of a given reaction sequence, but argue that computing most-probable reaction sequences is EXPSPACE-hard. We develop exact (exhaustive) and approximate algorithms for finding most-probable reaction sequences. We evaluate these methods on test problems relating to a recently-proposed stochastic model of folding of the Trp-cage peptide. Our results provide new computational tools for analyzing stochastic chemical models, and demonstrate their utility in illuminating the behavior of real-world systems.",
+  "llama_json": {
+    "motivations": [
+      "Understanding the detailed behavior of molecular processes in cells, such as protein folding and gene regulation, is crucial but challenging.",
+      "Current methods lack the capability to identify the most probable sequence of reactions connecting different states in stochastic chemical kinetic systems."
+    ],
+    "objectives": [
+      "Develop a method to compute the probability of a given reaction sequence in stochastic chemical kinetic systems.",
+      "Design algorithms to find the most probable sequence of reactions connecting two or more states of the system.",
+      "Evaluate the effectiveness of these methods on real-world test problems, such as protein folding models."
+    ],
+    "methods": [
+      "Develop an efficient method for computing the probability of a given reaction sequence.",
+      "Design exact (exhaustive) and approximate algorithms for finding most-probable reaction sequences.",
+      "Apply these methods to test problems, including a stochastic model of Trp-cage peptide folding."
+    ],
+    "results": [
+      "Provide new computational tools for analyzing stochastic chemical kinetic models.",
+      "Demonstrate the utility of these tools in understanding the behavior of real-world molecular systems.",
+      "Enable researchers to identify the most probable reaction sequences in complex biochemical processes."
+    ],
+    "research_subject": "Computing maximum probability reaction sequences in stochastic chemical kinetic systems"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding molecular processes in the cell such as protein folding and gene regulation requires accurate stochastic chemical kinetic models.",
+      "There is a need for computational tools to find the most probable sequence of reactions connecting different states of a system."
+    ],
+    "objectives": [
+      "Investigate the computational problem of finding the most probable sequence of reactions in stochastic chemical kinetic models.",
+      "Develop both exact and approximate algorithms for finding these sequences."
+    ],
+    "methods": [
+      "Develop an efficient method for computing the probability of a given reaction sequence.",
+      "Argue the computational complexity of finding most-probable reaction sequences.",
+      "Evaluate the developed methods on test problems related to a stochastic model of the folding of the Trp-cage peptide."
+    ],
+    "results": [
+      "Provide new computational tools for analyzing stochastic chemical models.",
+      "Demonstrate the utility of these tools in understanding the behavior of real-world systems."
+    ],
+    "research_subject": "Computational analysis of most probable reaction sequences in stochastic chemical kinetic systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Many molecular processes in cells exhibit stochastic behavior that requires specialized computational methods to analyze and understand.",
+      "There is a need to identify the most probable pathways connecting different observed states in stochastic chemical systems to better understand molecular mechanisms."
+    ],
+    "objectives": [
+      "Develop computational methods to find the most-probable sequence of reactions connecting different states in stochastic chemical kinetic systems.",
+      "Create efficient algorithms for computing reaction sequence probabilities and demonstrate their applicability to real molecular systems."
+    ],
+    "methods": [
+      "Develop an efficient method for computing the probability of given reaction sequences in stochastic chemical systems.",
+      "Design both exact exhaustive algorithms and approximate algorithms for finding most-probable reaction sequences.",
+      "Apply and evaluate the methods using a stochastic model of Trp-cage peptide folding."
+    ],
+    "results": [
+      "Demonstrated that computing most-probable reaction sequences is EXPSPACE-hard.",
+      "Successfully developed computational tools that can analyze stochastic chemical models and illuminate the behavior of real-world molecular systems.",
+      "Validated the utility of the methods through application to protein folding problems."
+    ],
+    "research_subject": "Most-probable reaction sequences in stochastic chemical kinetic systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the detailed behavior of molecular processes in cells, such as protein folding and gene regulation, is crucial but challenging.\",\n    \"Current methods lack the capability to identify the most probable sequence of reactions connecting different states in stochastic chemical kinetic systems.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to compute the probability of a given reaction sequence in stochastic chemical kinetic systems.\",\n    \"Design algorithms to find the most probable sequence of reactions connecting two or more states of the system.\",\n    \"Evaluate the effectiveness of these methods on real-world test problems, such as protein folding models.\"\n  ],\n  \"methods\": [\n    \"Develop an efficient method for computing the probability of a given reaction sequence.\",\n    \"Design exact (exhaustive) and approximate algorithms for finding most-probable reaction sequences.\",\n    \"Apply these methods to test problems, including a stochastic model of Trp-cage peptide folding.\"\n  ],\n  \"results\": [\n    \"Provide new computational tools for analyzing stochastic chemical kinetic models.\",\n    \"Demonstrate the utility of these tools in understanding the behavior of real-world molecular systems.\",\n    \"Enable researchers to identify the most probable reaction sequences in complex biochemical processes.\"\n  ],\n  \"research_subject\": \"Computing maximum probability reaction sequences in stochastic chemical kinetic systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding molecular processes in the cell such as protein folding and gene regulation requires accurate stochastic chemical kinetic models.\",\n    \"There is a need for computational tools to find the most probable sequence of reactions connecting different states of a system.\"\n  ],\n  \"objectives\": [\n    \"Investigate the computational problem of finding the most probable sequence of reactions in stochastic chemical kinetic models.\",\n    \"Develop both exact and approximate algorithms for finding these sequences.\"\n  ],\n  \"methods\": [\n    \"Develop an efficient method for computing the probability of a given reaction sequence.\",\n    \"Argue the computational complexity of finding most-probable reaction sequences.\",\n    \"Evaluate the developed methods on test problems related to a stochastic model of the folding of the Trp-cage peptide.\"\n  ],\n  \"results\": [\n    \"Provide new computational tools for analyzing stochastic chemical models.\",\n    \"Demonstrate the utility of these tools in understanding the behavior of real-world systems.\"\n  ],\n  \"research_subject\": \"Computational analysis of most probable reaction sequences in stochastic chemical kinetic systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Many molecular processes in cells exhibit stochastic behavior that requires specialized computational methods to analyze and understand.\",\n    \"There is a need to identify the most probable pathways connecting different observed states in stochastic chemical systems to better understand molecular mechanisms.\"\n  ],\n  \"objectives\": [\n    \"Develop computational methods to find the most-probable sequence of reactions connecting different states in stochastic chemical kinetic systems.\",\n    \"Create efficient algorithms for computing reaction sequence probabilities and demonstrate their applicability to real molecular systems.\"\n  ],\n  \"methods\": [\n    \"Develop an efficient method for computing the probability of given reaction sequences in stochastic chemical systems.\",\n    \"Design both exact exhaustive algorithms and approximate algorithms for finding most-probable reaction sequences.\",\n    \"Apply and evaluate the methods using a stochastic model of Trp-cage peptide folding.\"\n  ],\n  \"results\": [\n    \"Demonstrated that computing most-probable reaction sequences is EXPSPACE-hard.\",\n    \"Successfully developed computational tools that can analyze stochastic chemical models and illuminate the behavior of real-world molecular systems.\",\n    \"Validated the utility of the methods through application to protein folding problems.\"\n  ],\n  \"research_subject\": \"Most-probable reaction sequences in stochastic chemical kinetic systems\"\n}\n```"
+}

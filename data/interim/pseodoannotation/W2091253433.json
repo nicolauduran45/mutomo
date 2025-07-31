@@ -1,0 +1,66 @@
+{
+  "index": 197,
+  "title": "ADHA",
+  "abstract": "Data layouts play a crucial role in determining the performance of a given application running on a given architecture. Existing parallel programming frameworks for both multicore and heterogeneous systems leave the onus of selecting a data layout to the programmer. Therefore, shifting the burden of data layout selection to optimizing compilers can greatly enhance programmer productivity and application performance. In this work, we introduce ADHA: a two-level hierarchal formulation of the data layout problem for modern heterogeneous architectures. We have created a reference implementation of ADHA in the Heterogeneous Habanero-C (H2C) parallel programming system. ADHA shows significant performance benefits of up to 6.92× compared to manually specified layouts for two benchmark programs running on a CPU+GPU heterogeneous platform.",
+  "llama_json": {
+    "motivations": [
+      "Existing parallel programming frameworks require manual selection of data layouts, which can be time-consuming and impact application performance.",
+      "Programmer productivity and application performance can be improved by automating the selection of optimal data layouts."
+    ],
+    "objectives": [
+      "Develop a formulation to automate the selection of optimal data layouts for heterogeneous architectures.",
+      "Integrate the formulation into a parallel programming system to enhance programmer productivity and application performance."
+    ],
+    "methods": [
+      "Design a two-level hierarchical formulation of the data layout problem for modern heterogeneous architectures.",
+      "Implement the formulation in a parallel programming system, specifically Heterogeneous Habanero-C (H2C)."
+    ],
+    "results": [
+      "Achieve significant performance benefits by automating the selection of optimal data layouts.",
+      "Demonstrate the effectiveness of the formulation using benchmark programs on a CPU+GPU heterogeneous platform."
+    ],
+    "research_subject": "Automating data layout selection for heterogeneous architectures"
+  },
+  "openai_json": {
+    "motivations": [
+      "The selection of data layouts significantly impacts the performance of applications on multicore and heterogeneous systems, but current frameworks leave this task to the programmer.",
+      "Shifting the burden of data layout selection to optimizing compilers can enhance both programmer productivity and application performance."
+    ],
+    "objectives": [
+      "Introduce ADHA, a two-level hierarchal formulation of the data layout problem for modern heterogeneous architectures.",
+      "Implement ADHA in the Heterogeneous Habanero-C (H2C) parallel programming system and evaluate its performance."
+    ],
+    "methods": [
+      "Develop a two-level hierarchal formulation of the data layout problem, ADHA, for heterogeneous architectures.",
+      "Implement ADHA in the H2C parallel programming system.",
+      "Evaluate the performance of ADHA by comparing it to manually specified layouts for benchmark programs on a CPU+GPU platform."
+    ],
+    "results": [
+      "ADHA shows significant performance benefits, with improvements of up to 6.92× compared to manually specified layouts for benchmark programs."
+    ],
+    "research_subject": "Optimizing data layout selection for heterogeneous architectures"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Data layout selection significantly impacts application performance on modern architectures, but current parallel programming frameworks require programmers to manually specify layouts.",
+      "The burden of selecting optimal data layouts reduces programmer productivity and may lead to suboptimal performance on heterogeneous systems."
+    ],
+    "objectives": [
+      "Develop an automated approach to shift the burden of data layout selection from programmers to optimizing compilers for heterogeneous architectures.",
+      "Create a two-level hierarchical formulation to solve the data layout problem for modern heterogeneous systems."
+    ],
+    "methods": [
+      "Implement ADHA, a two-level hierarchical formulation for automatic data layout selection.",
+      "Integrate the approach into the Heterogeneous Habanero-C (H2C) parallel programming system.",
+      "Evaluate performance on CPU+GPU heterogeneous platforms using benchmark programs."
+    ],
+    "results": [
+      "ADHA achieves performance improvements of up to 6.92× compared to manually specified data layouts.",
+      "The approach successfully automates data layout selection while maintaining or improving application performance on heterogeneous platforms."
+    ],
+    "research_subject": "Automatic data layout selection for heterogeneous architectures"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing parallel programming frameworks require manual selection of data layouts, which can be time-consuming and impact application performance.\",\n    \"Programmer productivity and application performance can be improved by automating the selection of optimal data layouts.\"\n  ],\n  \"objectives\": [\n    \"Develop a formulation to automate the selection of optimal data layouts for heterogeneous architectures.\",\n    \"Integrate the formulation into a parallel programming system to enhance programmer productivity and application performance.\"\n  ],\n  \"methods\": [\n    \"Design a two-level hierarchical formulation of the data layout problem for modern heterogeneous architectures.\",\n    \"Implement the formulation in a parallel programming system, specifically Heterogeneous Habanero-C (H2C).\"\n  ],\n  \"results\": [\n    \"Achieve significant performance benefits by automating the selection of optimal data layouts.\",\n    \"Demonstrate the effectiveness of the formulation using benchmark programs on a CPU+GPU heterogeneous platform.\"\n  ],\n  \"research_subject\": \"Automating data layout selection for heterogeneous architectures\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The selection of data layouts significantly impacts the performance of applications on multicore and heterogeneous systems, but current frameworks leave this task to the programmer.\",\n    \"Shifting the burden of data layout selection to optimizing compilers can enhance both programmer productivity and application performance.\"\n  ],\n  \"objectives\": [\n    \"Introduce ADHA, a two-level hierarchal formulation of the data layout problem for modern heterogeneous architectures.\",\n    \"Implement ADHA in the Heterogeneous Habanero-C (H2C) parallel programming system and evaluate its performance.\"\n  ],\n  \"methods\": [\n    \"Develop a two-level hierarchal formulation of the data layout problem, ADHA, for heterogeneous architectures.\",\n    \"Implement ADHA in the H2C parallel programming system.\",\n    \"Evaluate the performance of ADHA by comparing it to manually specified layouts for benchmark programs on a CPU+GPU platform.\"\n  ],\n  \"results\": [\n    \"ADHA shows significant performance benefits, with improvements of up to 6.92× compared to manually specified layouts for benchmark programs.\"\n  ],\n  \"research_subject\": \"Optimizing data layout selection for heterogeneous architectures\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Data layout selection significantly impacts application performance on modern architectures, but current parallel programming frameworks require programmers to manually specify layouts.\",\n    \"The burden of selecting optimal data layouts reduces programmer productivity and may lead to suboptimal performance on heterogeneous systems.\"\n  ],\n  \"objectives\": [\n    \"Develop an automated approach to shift the burden of data layout selection from programmers to optimizing compilers for heterogeneous architectures.\",\n    \"Create a two-level hierarchical formulation to solve the data layout problem for modern heterogeneous systems.\"\n  ],\n  \"methods\": [\n    \"Implement ADHA, a two-level hierarchical formulation for automatic data layout selection.\",\n    \"Integrate the approach into the Heterogeneous Habanero-C (H2C) parallel programming system.\",\n    \"Evaluate performance on CPU+GPU heterogeneous platforms using benchmark programs.\"\n  ],\n  \"results\": [\n    \"ADHA achieves performance improvements of up to 6.92× compared to manually specified data layouts.\",\n    \"The approach successfully automates data layout selection while maintaining or improving application performance on heterogeneous platforms.\"\n  ],\n  \"research_subject\": \"Automatic data layout selection for heterogeneous architectures\"\n}\n```"
+}

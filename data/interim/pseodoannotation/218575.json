@@ -1,0 +1,75 @@
+{
+  "index": 466,
+  "title": "Converged wireless access for reliable 5g mtc for factories of the future",
+  "abstract": "Clear5G’s objective is to design, develop, validate, and demonstrate an integrated convergent wireless network for Machine Type and Mission Critical Communication (MTC/MCC) services for Factories of the Future (FoF). Clear5G will deliver technical solutions addressing the challenges of massive deployment of connected devices, security, ultra-low latency and ultra-high reliability in FoF applications, like remote maintenance and closed loop control systems. The requirements of these complex scenarios will be met through the convergence of different wireless technologies, enabled by protocol and architecture enhancements proposed by Clear5G. Clear5G will focus on providing PHY, MAC, and architectural enhancements to meet the strict requirements of FoF applications in terms of KPIs: latency, reliability, connection density, spectrum, and energy efficiency, thus contributing to the ITU-R objectives (e.g. 1000 fold connection density) for the next generation mobile network. The Clear5G team comprises a combination of European and Taiwanese successful, innovative, and well known major corporations, SMEs, as well as research and academic institutions. The partners have proven know-how in architecture, resource management, protocol enhancements, standardization, prototyping, and demonstration. Proof of concepts will be tested on the 5GIC testbed in Europe, while the final system demonstration, showing the tight integration and cooperation of manufacturing and the Clear5G enhanced network, will be implemented on the III testbed in Taiwan. Clear5G brings together a strong and diverse set of European and Taiwanese partners, including partners from the FoF sector; the complementarity of team, skills and expertise will bring added value to 5G research on both sides and will deepen international cooperation, serving as a showcase of 5G empowering vertical industries. The partners will contribute to relevant standardisation in both the communication and the manufacturing domains.",
+  "llama_json": {
+    "motivations": [
+      "Factories of the Future (FoF) require reliable, low-latency, and high-density wireless communication networks to support massive deployment of connected devices and mission-critical applications.",
+      "Current wireless technologies face challenges in meeting the strict requirements of FoF applications, such as remote maintenance and closed-loop control systems."
+    ],
+    "objectives": [
+      "Design, develop, and demonstrate an integrated convergent wireless network for Machine Type and Mission Critical Communication (MTC/MCC) services in FoF.",
+      "Deliver technical solutions addressing the challenges of massive deployment, security, ultra-low latency, and ultra-high reliability in FoF applications.",
+      "Contribute to the ITU-R objectives for the next generation mobile network, including 1000-fold connection density."
+    ],
+    "methods": [
+      "Propose protocol and architecture enhancements to converge different wireless technologies and meet the requirements of FoF applications.",
+      "Develop PHY, MAC, and architectural enhancements to improve latency, reliability, connection density, spectrum, and energy efficiency.",
+      "Test proof of concepts on the 5GIC testbed in Europe and demonstrate the final system on the III testbed in Taiwan."
+    ],
+    "results": [
+      "Enable reliable, low-latency, and high-density wireless communication networks for FoF applications.",
+      "Meet the strict requirements of FoF applications, such as remote maintenance and closed-loop control systems.",
+      "Contribute to relevant standardization in both the communication and manufacturing domains."
+    ],
+    "research_subject": "Converged wireless access for reliable 5G Machine Type and Mission Critical Communication in Factories of the Future"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need for reliable, low-latency, and high-density wireless communication in Factories of the Future (FoF) applications, such as remote maintenance and closed-loop control systems.",
+      "The challenge of massive deployment of connected devices and ensuring security in FoF applications.",
+      "The requirement to meet the ITU-R objectives for the next generation mobile network in the context of FoF."
+    ],
+    "objectives": [
+      "Design, develop, validate, and demonstrate an integrated convergent wireless network for Machine Type and Mission Critical Communication (MTC/MCC) services for FoF.",
+      "Provide PHY, MAC, and architectural enhancements to meet the strict requirements of FoF applications in terms of latency, reliability, connection density, spectrum, and energy efficiency.",
+      "Contribute to relevant standardisation in both the communication and the manufacturing domains."
+    ],
+    "methods": [
+      "Converge different wireless technologies through protocol and architecture enhancements.",
+      "Test proof of concepts on the 5GIC testbed in Europe and implement the final system demonstration on the III testbed in Taiwan.",
+      "Leverage the expertise of a diverse team of European and Taiwanese corporations, SMEs, research and academic institutions."
+    ],
+    "results": [
+      "Achieve an integrated convergent wireless network capable of supporting FoF applications.",
+      "Meet the strict KPIs of FoF applications, contributing to the ITU-R objectives for the next generation mobile network.",
+      "Enhance international cooperation in 5G research and contribute to standardisation in the communication and manufacturing domains."
+    ],
+    "research_subject": "Convergent wireless access for reliable 5G Machine Type and Mission Critical Communication for Factories of the Future"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Factories of the Future require wireless networks capable of handling massive device deployments while meeting stringent requirements for security, ultra-low latency, and ultra-high reliability.",
+      "Current wireless technologies cannot adequately support critical industrial applications such as remote maintenance and closed-loop control systems in manufacturing environments."
+    ],
+    "objectives": [
+      "Design and develop an integrated convergent wireless network that combines multiple wireless technologies to support Machine Type and Mission Critical Communication services in industrial settings.",
+      "Deliver technical solutions that meet ITU-R objectives for next-generation mobile networks, including achieving 1000-fold connection density improvements.",
+      "Validate and demonstrate the proposed system through real-world implementations in factory environments."
+    ],
+    "methods": [
+      "Develop PHY, MAC, and architectural enhancements to improve key performance indicators including latency, reliability, connection density, spectrum, and energy efficiency.",
+      "Enable convergence of different wireless technologies through protocol and architecture enhancements.",
+      "Conduct proof of concept testing on the 5GIC testbed in Europe and final system demonstrations on the III testbed in Taiwan."
+    ],
+    "results": [
+      "Enhanced wireless network capabilities that meet the strict requirements of Factory of the Future applications for remote maintenance and closed-loop control systems.",
+      "Contributions to relevant standardization in both communication and manufacturing domains.",
+      "Strengthened international cooperation between European and Taiwanese partners, showcasing 5G's potential to empower vertical industries."
+    ],
+    "research_subject": "Convergent wireless network technologies for reliable 5G machine-type and mission-critical communications in industrial manufacturing"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Factories of the Future (FoF) require reliable, low-latency, and high-density wireless communication networks to support massive deployment of connected devices and mission-critical applications.\",\n    \"Current wireless technologies face challenges in meeting the strict requirements of FoF applications, such as remote maintenance and closed-loop control systems.\"\n  ],\n  \"objectives\": [\n    \"Design, develop, and demonstrate an integrated convergent wireless network for Machine Type and Mission Critical Communication (MTC/MCC) services in FoF.\",\n    \"Deliver technical solutions addressing the challenges of massive deployment, security, ultra-low latency, and ultra-high reliability in FoF applications.\",\n    \"Contribute to the ITU-R objectives for the next generation mobile network, including 1000-fold connection density.\"\n  ],\n  \"methods\": [\n    \"Propose protocol and architecture enhancements to converge different wireless technologies and meet the requirements of FoF applications.\",\n    \"Develop PHY, MAC, and architectural enhancements to improve latency, reliability, connection density, spectrum, and energy efficiency.\",\n    \"Test proof of concepts on the 5GIC testbed in Europe and demonstrate the final system on the III testbed in Taiwan.\"\n  ],\n  \"results\": [\n    \"Enable reliable, low-latency, and high-density wireless communication networks for FoF applications.\",\n    \"Meet the strict requirements of FoF applications, such as remote maintenance and closed-loop control systems.\",\n    \"Contribute to relevant standardization in both the communication and manufacturing domains.\"\n  ],\n  \"research_subject\": \"Converged wireless access for reliable 5G Machine Type and Mission Critical Communication in Factories of the Future\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need for reliable, low-latency, and high-density wireless communication in Factories of the Future (FoF) applications, such as remote maintenance and closed-loop control systems.\",\n    \"The challenge of massive deployment of connected devices and ensuring security in FoF applications.\",\n    \"The requirement to meet the ITU-R objectives for the next generation mobile network in the context of FoF.\"\n  ],\n  \"objectives\": [\n    \"Design, develop, validate, and demonstrate an integrated convergent wireless network for Machine Type and Mission Critical Communication (MTC/MCC) services for FoF.\",\n    \"Provide PHY, MAC, and architectural enhancements to meet the strict requirements of FoF applications in terms of latency, reliability, connection density, spectrum, and energy efficiency.\",\n    \"Contribute to relevant standardisation in both the communication and the manufacturing domains.\"\n  ],\n  \"methods\": [\n    \"Converge different wireless technologies through protocol and architecture enhancements.\",\n    \"Test proof of concepts on the 5GIC testbed in Europe and implement the final system demonstration on the III testbed in Taiwan.\",\n    \"Leverage the expertise of a diverse team of European and Taiwanese corporations, SMEs, research and academic institutions.\"\n  ],\n  \"results\": [\n    \"Achieve an integrated convergent wireless network capable of supporting FoF applications.\",\n    \"Meet the strict KPIs of FoF applications, contributing to the ITU-R objectives for the next generation mobile network.\",\n    \"Enhance international cooperation in 5G research and contribute to standardisation in the communication and manufacturing domains.\"\n  ],\n  \"research_subject\": \"Convergent wireless access for reliable 5G Machine Type and Mission Critical Communication for Factories of the Future\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Factories of the Future require wireless networks capable of handling massive device deployments while meeting stringent requirements for security, ultra-low latency, and ultra-high reliability.\",\n    \"Current wireless technologies cannot adequately support critical industrial applications such as remote maintenance and closed-loop control systems in manufacturing environments.\"\n  ],\n  \"objectives\": [\n    \"Design and develop an integrated convergent wireless network that combines multiple wireless technologies to support Machine Type and Mission Critical Communication services in industrial settings.\",\n    \"Deliver technical solutions that meet ITU-R objectives for next-generation mobile networks, including achieving 1000-fold connection density improvements.\",\n    \"Validate and demonstrate the proposed system through real-world implementations in factory environments.\"\n  ],\n  \"methods\": [\n    \"Develop PHY, MAC, and architectural enhancements to improve key performance indicators including latency, reliability, connection density, spectrum, and energy efficiency.\",\n    \"Enable convergence of different wireless technologies through protocol and architecture enhancements.\",\n    \"Conduct proof of concept testing on the 5GIC testbed in Europe and final system demonstrations on the III testbed in Taiwan.\"\n  ],\n  \"results\": [\n    \"Enhanced wireless network capabilities that meet the strict requirements of Factory of the Future applications for remote maintenance and closed-loop control systems.\",\n    \"Contributions to relevant standardization in both communication and manufacturing domains.\",\n    \"Strengthened international cooperation between European and Taiwanese partners, showcasing 5G's potential to empower vertical industries.\"\n  ],\n  \"research_subject\": \"Convergent wireless network technologies for reliable 5G machine-type and mission-critical communications in industrial manufacturing\"\n}\n```"
+}

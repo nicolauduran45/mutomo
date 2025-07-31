@@ -1,0 +1,67 @@
+{
+  "index": 343,
+  "title": "Direct evidence to support the restriction of intramolecular rotation hypothesis for the mechanism of aggregation-induced emission: temperature resolved terahertz spectra of tetraphenylethene",
+  "abstract": "In contrast to the traditional fluorescent dyes that exhibit a decrease in fluorescence upon aggregation, Aggregation-Induced Emission (AIE) molecules are a family of fluorophors which exhibit increased fluorescence upon aggregation. Consequently, AIE molecules represent an interesting new material with potential applications in fluorescent chemo/biosensors, light emitting devices and medical diagnostics. Numerous mechanisms have been proposed to explain this phenomenon, including E–Z isomerization, and restriction of intramolecular rotations (RIR). However, there has not been any direct experimental evidence to support either one of these hypotheses. Here we use terahertz time-domain-spectroscopy (THz-TDS) and solid-state computational simulations of an AIE molecule to link the increase in intensity of intramolecular rotation and rocking modes to the measured fluorescence and reveal direct evidence supporting the RIR hypothesis. This is the first time that terahertz spectroscopy has been used to directly probe such molecular motions in AIE materials and in doing so we have found conclusive evidence to fully explain the AIE mechanism.",
+  "llama_json": {
+    "motivations": [
+      "The mechanism behind Aggregation-Induced Emission (AIE) is not fully understood, hindering the development of its applications.",
+      "There is a lack of direct experimental evidence to support the proposed hypotheses for the AIE mechanism, including restriction of intramolecular rotations (RIR)."
+    ],
+    "objectives": [
+      "Provide direct experimental evidence to support or refute the RIR hypothesis for the AIE mechanism.",
+      "Investigate the relationship between intramolecular rotation and fluorescence in AIE molecules."
+    ],
+    "methods": [
+      "Utilize terahertz time-domain-spectroscopy (THz-TDS) to probe molecular motions in AIE materials.",
+      "Perform solid-state computational simulations to analyze the intramolecular rotation and rocking modes in AIE molecules."
+    ],
+    "results": [
+      "Obtain direct evidence supporting the RIR hypothesis as the mechanism behind AIE.",
+      "Reveal the link between the increase in intensity of intramolecular rotation and rocking modes and the measured fluorescence."
+    ],
+    "research_subject": "Elucidating the mechanism of Aggregation-Induced Emission through terahertz spectroscopy"
+  },
+  "openai_json": {
+    "motivations": [
+      "Aggregation-Induced Emission (AIE) molecules exhibit increased fluorescence upon aggregation, a phenomenon that is not yet fully understood.",
+      "There is a lack of direct experimental evidence to support the proposed mechanisms for AIE, including E–Z isomerization, and restriction of intramolecular rotations (RIR)."
+    ],
+    "objectives": [
+      "Provide direct experimental evidence to support the restriction of intramolecular rotations (RIR) hypothesis for the mechanism of aggregation-induced emission.",
+      "Use terahertz time-domain-spectroscopy (THz-TDS) and solid-state computational simulations to link the increase in intensity of intramolecular rotation and rocking modes to the measured fluorescence."
+    ],
+    "methods": [
+      "Employ terahertz time-domain-spectroscopy (THz-TDS) to probe molecular motions in AIE materials.",
+      "Use solid-state computational simulations of an AIE molecule to study the relationship between intramolecular rotation and rocking modes and fluorescence."
+    ],
+    "results": [
+      "Reveal direct evidence supporting the restriction of intramolecular rotations (RIR) hypothesis for the mechanism of aggregation-induced emission.",
+      "Demonstrate the use of terahertz spectroscopy to directly probe molecular motions in AIE materials."
+    ],
+    "research_subject": "Investigation of the mechanism of aggregation-induced emission in tetraphenylethene using terahertz spectroscopy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Aggregation-Induced Emission (AIE) molecules exhibit unique fluorescence properties that increase upon aggregation, unlike traditional fluorescent dyes, but the underlying mechanism remains unclear.",
+      "Direct experimental evidence is lacking to support the proposed mechanisms for AIE, particularly the restriction of intramolecular rotations (RIR) hypothesis."
+    ],
+    "objectives": [
+      "Provide direct experimental evidence to support the restriction of intramolecular rotation (RIR) hypothesis as the mechanism for aggregation-induced emission.",
+      "Use terahertz spectroscopy to directly probe molecular motions in AIE materials and link them to fluorescence behavior."
+    ],
+    "methods": [
+      "Employ terahertz time-domain-spectroscopy (THz-TDS) to measure temperature-resolved spectra of tetraphenylethene.",
+      "Conduct solid-state computational simulations to analyze intramolecular rotation and rocking modes.",
+      "Correlate the intensity changes of intramolecular motions with measured fluorescence properties."
+    ],
+    "results": [
+      "Direct evidence supporting the restriction of intramolecular rotations (RIR) hypothesis for the AIE mechanism was obtained.",
+      "The increase in intensity of intramolecular rotation and rocking modes was successfully linked to the measured fluorescence.",
+      "First demonstration of terahertz spectroscopy as an effective tool for directly probing molecular motions in AIE materials."
+    ],
+    "research_subject": "Mechanism of aggregation-induced emission in tetraphenylethene using terahertz spectroscopy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The mechanism behind Aggregation-Induced Emission (AIE) is not fully understood, hindering the development of its applications.\",\n    \"There is a lack of direct experimental evidence to support the proposed hypotheses for the AIE mechanism, including restriction of intramolecular rotations (RIR).\"\n  ],\n  \"objectives\": [\n    \"Provide direct experimental evidence to support or refute the RIR hypothesis for the AIE mechanism.\",\n    \"Investigate the relationship between intramolecular rotation and fluorescence in AIE molecules.\"\n  ],\n  \"methods\": [\n    \"Utilize terahertz time-domain-spectroscopy (THz-TDS) to probe molecular motions in AIE materials.\",\n    \"Perform solid-state computational simulations to analyze the intramolecular rotation and rocking modes in AIE molecules.\"\n  ],\n  \"results\": [\n    \"Obtain direct evidence supporting the RIR hypothesis as the mechanism behind AIE.\",\n    \"Reveal the link between the increase in intensity of intramolecular rotation and rocking modes and the measured fluorescence.\"\n  ],\n  \"research_subject\": \"Elucidating the mechanism of Aggregation-Induced Emission through terahertz spectroscopy\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Aggregation-Induced Emission (AIE) molecules exhibit increased fluorescence upon aggregation, a phenomenon that is not yet fully understood.\",\n    \"There is a lack of direct experimental evidence to support the proposed mechanisms for AIE, including E–Z isomerization, and restriction of intramolecular rotations (RIR).\"\n  ],\n  \"objectives\": [\n    \"Provide direct experimental evidence to support the restriction of intramolecular rotations (RIR) hypothesis for the mechanism of aggregation-induced emission.\",\n    \"Use terahertz time-domain-spectroscopy (THz-TDS) and solid-state computational simulations to link the increase in intensity of intramolecular rotation and rocking modes to the measured fluorescence.\"\n  ],\n  \"methods\": [\n    \"Employ terahertz time-domain-spectroscopy (THz-TDS) to probe molecular motions in AIE materials.\",\n    \"Use solid-state computational simulations of an AIE molecule to study the relationship between intramolecular rotation and rocking modes and fluorescence.\"\n  ],\n  \"results\": [\n    \"Reveal direct evidence supporting the restriction of intramolecular rotations (RIR) hypothesis for the mechanism of aggregation-induced emission.\",\n    \"Demonstrate the use of terahertz spectroscopy to directly probe molecular motions in AIE materials.\"\n  ],\n  \"research_subject\": \"Investigation of the mechanism of aggregation-induced emission in tetraphenylethene using terahertz spectroscopy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Aggregation-Induced Emission (AIE) molecules exhibit unique fluorescence properties that increase upon aggregation, unlike traditional fluorescent dyes, but the underlying mechanism remains unclear.\",\n    \"Direct experimental evidence is lacking to support the proposed mechanisms for AIE, particularly the restriction of intramolecular rotations (RIR) hypothesis.\"\n  ],\n  \"objectives\": [\n    \"Provide direct experimental evidence to support the restriction of intramolecular rotation (RIR) hypothesis as the mechanism for aggregation-induced emission.\",\n    \"Use terahertz spectroscopy to directly probe molecular motions in AIE materials and link them to fluorescence behavior.\"\n  ],\n  \"methods\": [\n    \"Employ terahertz time-domain-spectroscopy (THz-TDS) to measure temperature-resolved spectra of tetraphenylethene.\",\n    \"Conduct solid-state computational simulations to analyze intramolecular rotation and rocking modes.\",\n    \"Correlate the intensity changes of intramolecular motions with measured fluorescence properties.\"\n  ],\n  \"results\": [\n    \"Direct evidence supporting the restriction of intramolecular rotations (RIR) hypothesis for the AIE mechanism was obtained.\",\n    \"The increase in intensity of intramolecular rotation and rocking modes was successfully linked to the measured fluorescence.\",\n    \"First demonstration of terahertz spectroscopy as an effective tool for directly probing molecular motions in AIE materials.\"\n  ],\n  \"research_subject\": \"Mechanism of aggregation-induced emission in tetraphenylethene using terahertz spectroscopy\"\n}\n```"
+}

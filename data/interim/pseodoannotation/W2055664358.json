@@ -1,0 +1,66 @@
+{
+  "index": 270,
+  "title": "On the energy integral formulation of gravitational potential differences from satellite-to-satellite tracking",
+  "abstract": "Two approaches have been formulated to compute the gravitational potential difference using low–low satellite-to-satellite tracking data based on energy integral: one in the geocentric inertial reference system, and the other in the terrestrial reference system. The focus of this work is on the approach in the geocentric inertial reference system, where a potential rotation term appears in addition to the potential term. In former formulations, the contribution of the time-variable components of the gravitational potential to the potential term was included, but their contribution to the potential rotation term was neglected. In this work, an improvement to the former formulations is made by reformulating the potential rotation term to include the contribution of the time-variable components of the gravitational potential. A simulation shows that our more accurate formulation of the potential rotation term is necessary to achieve the accuracy for recovering the temporal variation of the Earth’s gravity field, such as for use to the Gravity Recovery And Climate Experiment GRACE observation data based on this approach.",
+  "llama_json": {
+    "motivations": [
+      "Existing formulations for computing gravitational potential differences from satellite-to-satellite tracking data neglect the contribution of time-variable components to the potential rotation term.",
+      "Accurate recovery of the temporal variation of the Earth's gravity field is crucial for applications such as the Gravity Recovery And Climate Experiment (GRACE) observation data."
+    ],
+    "objectives": [
+      "Improve the energy integral formulation for computing gravitational potential differences in the geocentric inertial reference system.",
+      "Develop a more accurate formulation of the potential rotation term that includes the contribution of time-variable components of the gravitational potential."
+    ],
+    "methods": [
+      "Reformulate the potential rotation term to account for the contribution of time-variable components of the gravitational potential.",
+      "Conduct a simulation to evaluate the necessity of the improved formulation for achieving accurate recovery of the temporal variation of the Earth's gravity field."
+    ],
+    "results": [
+      "Achieve higher accuracy in recovering the temporal variation of the Earth's gravity field.",
+      "Enable more precise applications of satellite-to-satellite tracking data, such as for GRACE observation data."
+    ],
+    "research_subject": "Energy integral formulation of gravitational potential differences from satellite-to-satellite tracking data"
+  },
+  "openai_json": {
+    "motivations": [
+      "Previous formulations for computing gravitational potential difference using satellite-to-satellite tracking data have neglected the contribution of time-variable components to the potential rotation term.",
+      "There is a need for more accurate formulations to recover the temporal variation of the Earth’s gravity field."
+    ],
+    "objectives": [
+      "Improve the existing formulations for computing gravitational potential difference by including the contribution of time-variable components to the potential rotation term.",
+      "Test the improved formulation through simulation to verify its accuracy for use with GRACE observation data."
+    ],
+    "methods": [
+      "Reformulate the potential rotation term in the geocentric inertial reference system to include the contribution of time-variable components of the gravitational potential.",
+      "Use simulation to test the accuracy of the improved formulation."
+    ],
+    "results": [
+      "The improved formulation of the potential rotation term provides more accurate recovery of the temporal variation of the Earth’s gravity field.",
+      "The new formulation is suitable for use with GRACE observation data."
+    ],
+    "research_subject": "Improvement of gravitational potential difference computation using satellite-to-satellite tracking data"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Previous formulations for computing gravitational potential differences from satellite tracking data neglected the contribution of time-variable gravitational components to the potential rotation term.",
+      "Accurate recovery of temporal variations in Earth's gravity field requires improved formulations that account for all relevant gravitational contributions."
+    ],
+    "objectives": [
+      "Develop an improved formulation of the energy integral approach that includes time-variable gravitational components in the potential rotation term.",
+      "Enhance the accuracy of gravitational potential difference calculations for satellite-to-satellite tracking applications."
+    ],
+    "methods": [
+      "Reformulate the potential rotation term in the geocentric inertial reference system to incorporate time-variable components of gravitational potential.",
+      "Compare the energy integral approach in both geocentric inertial and terrestrial reference systems.",
+      "Validate the improved formulation through simulation studies."
+    ],
+    "results": [
+      "The improved formulation demonstrates necessary accuracy for recovering temporal variations in Earth's gravity field.",
+      "The enhanced method is suitable for application to GRACE satellite observation data and similar missions."
+    ],
+    "research_subject": "Energy integral formulation for gravitational potential differences in satellite-to-satellite tracking"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing formulations for computing gravitational potential differences from satellite-to-satellite tracking data neglect the contribution of time-variable components to the potential rotation term.\",\n    \"Accurate recovery of the temporal variation of the Earth's gravity field is crucial for applications such as the Gravity Recovery And Climate Experiment (GRACE) observation data.\"\n  ],\n  \"objectives\": [\n    \"Improve the energy integral formulation for computing gravitational potential differences in the geocentric inertial reference system.\",\n    \"Develop a more accurate formulation of the potential rotation term that includes the contribution of time-variable components of the gravitational potential.\"\n  ],\n  \"methods\": [\n    \"Reformulate the potential rotation term to account for the contribution of time-variable components of the gravitational potential.\",\n    \"Conduct a simulation to evaluate the necessity of the improved formulation for achieving accurate recovery of the temporal variation of the Earth's gravity field.\"\n  ],\n  \"results\": [\n    \"Achieve higher accuracy in recovering the temporal variation of the Earth's gravity field.\",\n    \"Enable more precise applications of satellite-to-satellite tracking data, such as for GRACE observation data.\"\n  ],\n  \"research_subject\": \"Energy integral formulation of gravitational potential differences from satellite-to-satellite tracking data\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Previous formulations for computing gravitational potential difference using satellite-to-satellite tracking data have neglected the contribution of time-variable components to the potential rotation term.\",\n    \"There is a need for more accurate formulations to recover the temporal variation of the Earth’s gravity field.\"\n  ],\n  \"objectives\": [\n    \"Improve the existing formulations for computing gravitational potential difference by including the contribution of time-variable components to the potential rotation term.\",\n    \"Test the improved formulation through simulation to verify its accuracy for use with GRACE observation data.\"\n  ],\n  \"methods\": [\n    \"Reformulate the potential rotation term in the geocentric inertial reference system to include the contribution of time-variable components of the gravitational potential.\",\n    \"Use simulation to test the accuracy of the improved formulation.\"\n  ],\n  \"results\": [\n    \"The improved formulation of the potential rotation term provides more accurate recovery of the temporal variation of the Earth’s gravity field.\",\n    \"The new formulation is suitable for use with GRACE observation data.\"\n  ],\n  \"research_subject\": \"Improvement of gravitational potential difference computation using satellite-to-satellite tracking data\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Previous formulations for computing gravitational potential differences from satellite tracking data neglected the contribution of time-variable gravitational components to the potential rotation term.\",\n    \"Accurate recovery of temporal variations in Earth's gravity field requires improved formulations that account for all relevant gravitational contributions.\"\n  ],\n  \"objectives\": [\n    \"Develop an improved formulation of the energy integral approach that includes time-variable gravitational components in the potential rotation term.\",\n    \"Enhance the accuracy of gravitational potential difference calculations for satellite-to-satellite tracking applications.\"\n  ],\n  \"methods\": [\n    \"Reformulate the potential rotation term in the geocentric inertial reference system to incorporate time-variable components of gravitational potential.\",\n    \"Compare the energy integral approach in both geocentric inertial and terrestrial reference systems.\",\n    \"Validate the improved formulation through simulation studies.\"\n  ],\n  \"results\": [\n    \"The improved formulation demonstrates necessary accuracy for recovering temporal variations in Earth's gravity field.\",\n    \"The enhanced method is suitable for application to GRACE satellite observation data and similar missions.\"\n  ],\n  \"research_subject\": \"Energy integral formulation for gravitational potential differences in satellite-to-satellite tracking\"\n}\n```"
+}

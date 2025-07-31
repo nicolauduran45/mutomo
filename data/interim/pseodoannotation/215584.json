@@ -1,0 +1,75 @@
+{
+  "index": 127,
+  "title": "Improving the flow in the pipeline of the next generation of marine biodiscovery scientists",
+  "abstract": "MarPipe is a consortium of 11 partners (IBP-CNR, SZN, UiT, UNIABDN, GEOMAR, KULeuven, UCC, eCOAST, MEDINA, MicroDish, Italbiotec) based in 8 countries (I, N, UK, D, B, IRL, E, NL), including 3 from the non-academic sector. We will train 11 ESRs in marine drug-discovery, providing these researchers with unique skills toward becoming world leaders in this research field and to advance their careers in academia or industry. MarPipe PhDs will be trained in a programme including training-by-research, joint courses of technical, scientific and transferrable skills, active participation to public scientific events, and an intense inter-sectoral networking exchange plan. Marine organisms have the capacity to produce a variety of biologically potent natural products, including antibiotic and anticancer compounds. MarPipe aims at further development of antimicrobial and anticancer lead compounds originating from a previous EU project (PharmaSea), and will also explore the bioactivity of deep-sea samples (5000m) collected during the recent Eurofleet-2 project in the sub-Antarctic. The PhD students will thus be involved in all phases of the drug discovery pipeline, from isolation of new microbial strains to pre-clinical development of lead compounds. Importantly, they will also be trained to overcome existing bottlenecks in the field, e.g. low yields and low chemodiversity, isolation of known compounds, toxicity of compounds.  The discovery rates of new bioactive antimicrobial and anticancer molecules will be enhanced through 11 PhD projects that cover all phases of the biodiscovery pipeline. As a final outcome of the project, we envisage the creation of a marine biodiscovery start-up company, which will include most of the MarPipe partners. The scientists of the future will be trained to become conscious about the socio-economic and policy context of their work, since several specific MarPipe PhD projects focus on legal, policy, innovation and entrepreneurship themes.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to improve the pipeline of marine biodiscovery to enhance the development of new antimicrobial and anticancer compounds.",
+      "Existing bottlenecks in the field, such as low yields and low chemodiversity, hinder the discovery of new bioactive molecules."
+    ],
+    "objectives": [
+      "Train a new generation of marine biodiscovery scientists with unique skills to advance their careers in academia or industry.",
+      "Further develop antimicrobial and anticancer lead compounds originating from previous EU projects.",
+      "Explore the bioactivity of deep-sea samples and overcome existing bottlenecks in the field."
+    ],
+    "methods": [
+      "Implement a comprehensive training program for PhD students, including training-by-research, joint courses, and inter-sectoral networking.",
+      "Involve PhD students in all phases of the drug discovery pipeline, from isolation of new microbial strains to pre-clinical development of lead compounds.",
+      "Foster collaboration among academic and non-academic partners to enhance the discovery rates of new bioactive molecules."
+    ],
+    "results": [
+      "Enhance the discovery rates of new antimicrobial and anticancer molecules through targeted PhD projects.",
+      "Create a marine biodiscovery start-up company involving most of the project partners.",
+      "Train scientists to be aware of the socio-economic and policy context of their work, including innovation and entrepreneurship themes."
+    ],
+    "research_subject": "Improving the marine biodiscovery pipeline for the development of new antimicrobial and anticancer compounds"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for skilled researchers in the field of marine drug-discovery, particularly in the development of antimicrobial and anticancer compounds.",
+      "Existing bottlenecks in the field, such as low yields and chemodiversity, isolation of known compounds, and toxicity of compounds, hinder the progress of marine biodiscovery.",
+      "There is a lack of comprehensive training programs that cover all phases of the drug discovery pipeline and also address the socio-economic and policy context of the work."
+    ],
+    "objectives": [
+      "Train 11 Early Stage Researchers (ESRs) in marine drug-discovery, equipping them with skills to become world leaders in the field and advance their careers in academia or industry.",
+      "Develop antimicrobial and anticancer lead compounds originating from a previous EU project and explore the bioactivity of deep-sea samples.",
+      "Overcome existing bottlenecks in the field and enhance the discovery rates of new bioactive antimicrobial and anticancer molecules."
+    ],
+    "methods": [
+      "Implement a comprehensive training program that includes training-by-research, joint courses of technical, scientific and transferrable skills, and active participation in public scientific events.",
+      "Involve the PhD students in all phases of the drug discovery pipeline, from isolation of new microbial strains to pre-clinical development of lead compounds.",
+      "Establish an intense inter-sectoral networking exchange plan to facilitate collaboration and knowledge exchange."
+    ],
+    "results": [
+      "Produce a new generation of researchers equipped with unique skills in marine drug-discovery.",
+      "Develop new antimicrobial and anticancer lead compounds and enhance the discovery rates of new bioactive molecules.",
+      "Create a marine biodiscovery start-up company involving most of the MarPipe partners."
+    ],
+    "research_subject": "Improving marine drug-discovery through comprehensive training and development of antimicrobial and anticancer compounds"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a critical need to train the next generation of scientists in marine biodiscovery to advance the development of antimicrobial and anticancer compounds from marine organisms.",
+      "Existing bottlenecks in marine drug discovery, such as low yields, low chemodiversity, isolation of known compounds, and toxicity issues, need to be addressed through specialized training and research."
+    ],
+    "objectives": [
+      "Train 11 Early Stage Researchers (ESRs) to become world leaders in marine drug discovery through comprehensive PhD programs covering all phases of the biodiscovery pipeline.",
+      "Further develop antimicrobial and anticancer lead compounds from marine organisms and explore bioactivity of deep-sea samples.",
+      "Create a marine biodiscovery start-up company and ensure trainees understand the socio-economic, policy, and entrepreneurship aspects of their work."
+    ],
+    "methods": [
+      "Implement a comprehensive training program including research, joint courses on technical and transferable skills, public scientific events, and inter-sectoral networking exchanges.",
+      "Conduct research across all phases of the drug discovery pipeline, from isolation of new microbial strains to pre-clinical development of lead compounds.",
+      "Address existing bottlenecks through targeted PhD projects focusing on improving yields, chemodiversity, and reducing toxicity of marine-derived compounds."
+    ],
+    "results": [
+      "Enhanced discovery rates of new bioactive antimicrobial and anticancer molecules from marine sources.",
+      "Development of a new generation of marine biodiscovery scientists with unique skills for careers in academia or industry.",
+      "Establishment of a marine biodiscovery start-up company incorporating consortium partners."
+    ],
+    "research_subject": "Training and development of marine biodiscovery scientists for antimicrobial and anticancer drug discovery"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to improve the pipeline of marine biodiscovery to enhance the development of new antimicrobial and anticancer compounds.\",\n    \"Existing bottlenecks in the field, such as low yields and low chemodiversity, hinder the discovery of new bioactive molecules.\"\n  ],\n  \"objectives\": [\n    \"Train a new generation of marine biodiscovery scientists with unique skills to advance their careers in academia or industry.\",\n    \"Further develop antimicrobial and anticancer lead compounds originating from previous EU projects.\",\n    \"Explore the bioactivity of deep-sea samples and overcome existing bottlenecks in the field.\"\n  ],\n  \"methods\": [\n    \"Implement a comprehensive training program for PhD students, including training-by-research, joint courses, and inter-sectoral networking.\",\n    \"Involve PhD students in all phases of the drug discovery pipeline, from isolation of new microbial strains to pre-clinical development of lead compounds.\",\n    \"Foster collaboration among academic and non-academic partners to enhance the discovery rates of new bioactive molecules.\"\n  ],\n  \"results\": [\n    \"Enhance the discovery rates of new antimicrobial and anticancer molecules through targeted PhD projects.\",\n    \"Create a marine biodiscovery start-up company involving most of the project partners.\",\n    \"Train scientists to be aware of the socio-economic and policy context of their work, including innovation and entrepreneurship themes.\"\n  ],\n  \"research_subject\": \"Improving the marine biodiscovery pipeline for the development of new antimicrobial and anticancer compounds\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for skilled researchers in the field of marine drug-discovery, particularly in the development of antimicrobial and anticancer compounds.\",\n    \"Existing bottlenecks in the field, such as low yields and chemodiversity, isolation of known compounds, and toxicity of compounds, hinder the progress of marine biodiscovery.\",\n    \"There is a lack of comprehensive training programs that cover all phases of the drug discovery pipeline and also address the socio-economic and policy context of the work.\"\n  ],\n  \"objectives\": [\n    \"Train 11 Early Stage Researchers (ESRs) in marine drug-discovery, equipping them with skills to become world leaders in the field and advance their careers in academia or industry.\",\n    \"Develop antimicrobial and anticancer lead compounds originating from a previous EU project and explore the bioactivity of deep-sea samples.\",\n    \"Overcome existing bottlenecks in the field and enhance the discovery rates of new bioactive antimicrobial and anticancer molecules.\"\n  ],\n  \"methods\": [\n    \"Implement a comprehensive training program that includes training-by-research, joint courses of technical, scientific and transferrable skills, and active participation in public scientific events.\",\n    \"Involve the PhD students in all phases of the drug discovery pipeline, from isolation of new microbial strains to pre-clinical development of lead compounds.\",\n    \"Establish an intense inter-sectoral networking exchange plan to facilitate collaboration and knowledge exchange.\"\n  ],\n  \"results\": [\n    \"Produce a new generation of researchers equipped with unique skills in marine drug-discovery.\",\n    \"Develop new antimicrobial and anticancer lead compounds and enhance the discovery rates of new bioactive molecules.\",\n    \"Create a marine biodiscovery start-up company involving most of the MarPipe partners.\"\n  ],\n  \"research_subject\": \"Improving marine drug-discovery through comprehensive training and development of antimicrobial and anticancer compounds\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a critical need to train the next generation of scientists in marine biodiscovery to advance the development of antimicrobial and anticancer compounds from marine organisms.\",\n    \"Existing bottlenecks in marine drug discovery, such as low yields, low chemodiversity, isolation of known compounds, and toxicity issues, need to be addressed through specialized training and research.\"\n  ],\n  \"objectives\": [\n    \"Train 11 Early Stage Researchers (ESRs) to become world leaders in marine drug discovery through comprehensive PhD programs covering all phases of the biodiscovery pipeline.\",\n    \"Further develop antimicrobial and anticancer lead compounds from marine organisms and explore bioactivity of deep-sea samples.\",\n    \"Create a marine biodiscovery start-up company and ensure trainees understand the socio-economic, policy, and entrepreneurship aspects of their work.\"\n  ],\n  \"methods\": [\n    \"Implement a comprehensive training program including research, joint courses on technical and transferable skills, public scientific events, and inter-sectoral networking exchanges.\",\n    \"Conduct research across all phases of the drug discovery pipeline, from isolation of new microbial strains to pre-clinical development of lead compounds.\",\n    \"Address existing bottlenecks through targeted PhD projects focusing on improving yields, chemodiversity, and reducing toxicity of marine-derived compounds.\"\n  ],\n  \"results\": [\n    \"Enhanced discovery rates of new bioactive antimicrobial and anticancer molecules from marine sources.\",\n    \"Development of a new generation of marine biodiscovery scientists with unique skills for careers in academia or industry.\",\n    \"Establishment of a marine biodiscovery start-up company incorporating consortium partners.\"\n  ],\n  \"research_subject\": \"Training and development of marine biodiscovery scientists for antimicrobial and anticancer drug discovery\"\n}\n```"
+}

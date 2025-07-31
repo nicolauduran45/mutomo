@@ -1,0 +1,63 @@
+{
+  "index": 206,
+  "title": "There is much to be learnt about the costs of multiple sclerosis in Latin America",
+  "abstract": "METHOD: A systematic review of the literature from 1990 to 2011 was conducted. Outcome measures included: mean cost of disease modifying therapies (DMTs), mean cost of treatment of relapses and mean cost of disease by stage stratification measured by the expanded disability status scale (EDSS). RESULTS: Seven studies from three countries (Brazil, Argentina and Colombia) were included. In 2004, in Argentina, the mean cost of DMT treatment was reported to be USD 35,000 per patient treated. In Brazil, the total MS expenditure of DMTs rose from USD 14,011,700 in 2006 to USD 122,575,000 in 2009. Patient costs ranged between USD 10,543 (EDSS 8-9.5) and USD 25,713 (EDSS 3-5.5). Indirect costs markedly increased for the EDSS 8-9.5 patients. CONCLUSION: Further research assessing the economic burden of MS in LA is warranted.",
+  "llama_json": {
+    "motivations": [
+      "There is a lack of comprehensive understanding of the economic burden of multiple sclerosis in Latin America.",
+      "The costs associated with multiple sclerosis treatment and management in Latin America are not well-documented."
+    ],
+    "objectives": [
+      "Conduct a systematic review to assess the costs of multiple sclerosis in Latin America, focusing on disease-modifying therapies, relapse treatment, and disease costs by stage stratification."
+    ],
+    "methods": [
+      "Perform a systematic review of literature from 1990 to 2011 to gather data on multiple sclerosis costs in Latin America.",
+      "Analyze the mean cost of disease-modifying therapies, relapse treatment, and disease costs by stage stratification using the Expanded Disability Status Scale (EDSS)."
+    ],
+    "results": [
+      "The mean cost of disease-modifying therapy treatment in Argentina was reported to be USD 35,000 per patient in 2004.",
+      "Total expenditure on disease-modifying therapies in Brazil increased significantly from 2006 to 2009.",
+      "Patient costs varied by EDSS stage, with indirect costs increasing markedly for patients with higher EDSS scores."
+    ],
+    "research_subject": "Economic burden of multiple sclerosis in Latin America"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is limited understanding of the economic burden of multiple sclerosis (MS) in Latin America."
+    ],
+    "objectives": [
+      "To conduct a systematic review of the literature to understand the cost of MS in Latin America, including the cost of disease modifying therapies (DMTs), treatment of relapses, and disease cost by stage stratification."
+    ],
+    "methods": [
+      "A systematic review of the literature from 1990 to 2011 was conducted, focusing on the cost of DMTs, treatment of relapses, and disease cost by stage stratification."
+    ],
+    "results": [
+      "The study found varying costs of DMT treatment and MS expenditure in Argentina and Brazil, with patient costs ranging based on the stage of the disease.",
+      "Indirect costs were found to increase significantly for patients with advanced stages of MS."
+    ],
+    "research_subject": "Economic burden of multiple sclerosis in Latin America"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is limited knowledge about the economic burden and costs associated with multiple sclerosis in Latin America.",
+      "Understanding the costs of MS treatment and care is essential for healthcare planning and resource allocation in the region."
+    ],
+    "objectives": [
+      "Systematically review and analyze the costs of multiple sclerosis treatment in Latin American countries.",
+      "Assess the economic burden of MS including disease modifying therapies, relapse treatment, and costs stratified by disease severity."
+    ],
+    "methods": [
+      "Conducted a systematic review of literature from 1990 to 2011 focusing on MS costs in Latin America.",
+      "Analyzed outcome measures including costs of disease modifying therapies, relapse treatment, and disease costs stratified by EDSS scores."
+    ],
+    "results": [
+      "DMT costs ranged from USD 35,000 per patient in Argentina to a total expenditure increase from USD 14 million to USD 122 million in Brazil between 2006-2009.",
+      "Patient costs varied significantly by disability level, ranging from USD 10,543 to USD 25,713, with indirect costs markedly increasing for severe disability cases.",
+      "The review highlights the need for further research on the economic burden of MS in Latin America."
+    ],
+    "research_subject": "Economic costs of multiple sclerosis in Latin America"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of comprehensive understanding of the economic burden of multiple sclerosis in Latin America.\",\n    \"The costs associated with multiple sclerosis treatment and management in Latin America are not well-documented.\"\n  ],\n  \"objectives\": [\n    \"Conduct a systematic review to assess the costs of multiple sclerosis in Latin America, focusing on disease-modifying therapies, relapse treatment, and disease costs by stage stratification.\"\n  ],\n  \"methods\": [\n    \"Perform a systematic review of literature from 1990 to 2011 to gather data on multiple sclerosis costs in Latin America.\",\n    \"Analyze the mean cost of disease-modifying therapies, relapse treatment, and disease costs by stage stratification using the Expanded Disability Status Scale (EDSS).\"\n  ],\n  \"results\": [\n    \"The mean cost of disease-modifying therapy treatment in Argentina was reported to be USD 35,000 per patient in 2004.\",\n    \"Total expenditure on disease-modifying therapies in Brazil increased significantly from 2006 to 2009.\",\n    \"Patient costs varied by EDSS stage, with indirect costs increasing markedly for patients with higher EDSS scores.\"\n  ],\n  \"research_subject\": \"Economic burden of multiple sclerosis in Latin America\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is limited understanding of the economic burden of multiple sclerosis (MS) in Latin America.\"\n  ],\n  \"objectives\": [\n    \"To conduct a systematic review of the literature to understand the cost of MS in Latin America, including the cost of disease modifying therapies (DMTs), treatment of relapses, and disease cost by stage stratification.\"\n  ],\n  \"methods\": [\n    \"A systematic review of the literature from 1990 to 2011 was conducted, focusing on the cost of DMTs, treatment of relapses, and disease cost by stage stratification.\"\n  ],\n  \"results\": [\n    \"The study found varying costs of DMT treatment and MS expenditure in Argentina and Brazil, with patient costs ranging based on the stage of the disease.\",\n    \"Indirect costs were found to increase significantly for patients with advanced stages of MS.\"\n  ],\n  \"research_subject\": \"Economic burden of multiple sclerosis in Latin America\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is limited knowledge about the economic burden and costs associated with multiple sclerosis in Latin America.\",\n    \"Understanding the costs of MS treatment and care is essential for healthcare planning and resource allocation in the region.\"\n  ],\n  \"objectives\": [\n    \"Systematically review and analyze the costs of multiple sclerosis treatment in Latin American countries.\",\n    \"Assess the economic burden of MS including disease modifying therapies, relapse treatment, and costs stratified by disease severity.\"\n  ],\n  \"methods\": [\n    \"Conducted a systematic review of literature from 1990 to 2011 focusing on MS costs in Latin America.\",\n    \"Analyzed outcome measures including costs of disease modifying therapies, relapse treatment, and disease costs stratified by EDSS scores.\"\n  ],\n  \"results\": [\n    \"DMT costs ranged from USD 35,000 per patient in Argentina to a total expenditure increase from USD 14 million to USD 122 million in Brazil between 2006-2009.\",\n    \"Patient costs varied significantly by disability level, ranging from USD 10,543 to USD 25,713, with indirect costs markedly increasing for severe disability cases.\",\n    \"The review highlights the need for further research on the economic burden of MS in Latin America.\"\n  ],\n  \"research_subject\": \"Economic costs of multiple sclerosis in Latin America\"\n}\n```"
+}

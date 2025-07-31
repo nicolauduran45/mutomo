@@ -1,0 +1,72 @@
+{
+  "index": 276,
+  "title": "Extending the relationship between global warming and cumulative carbon emissions to multi-millennial timescales",
+  "abstract": "The transient climate response to cumulative carbon emissions (TCRE) is a highly policy-relevant quantity in climate science. The TCRE suggests that peak warming is linearly proportional to cumulative carbon emissions and nearly independent of the emissions scenario. Here, we use simulations of the Earth System Model (ESM) from the Geophysical Fluid Dynamics Laboratory (GFDL) to show that global mean surface temperature may increase by 0.5 °C after carbon emissions are stopped at 2 °C global warming, implying an increase in the coefficient relating global warming to cumulative carbon emissions on multi-centennial timescales. The simulations also suggest a 20% lower quota on cumulative carbon emissions allowed to achieve a policy-driven limit on global warming. ESM estimates from the Coupled Model Intercomparison Project Phase 5 (CMIP5–ESMs) qualitatively agree on this result, whereas Earth System Models of Intermediate Complexity (EMICs) simulations, used in the IPCC 5th assessment report to assess the robustness of TCRE on multi-centennial timescales, suggest a post-emissions decrease in temperature. The reason for this discrepancy lies in the smaller simulated realized warming fraction in CMIP5–ESMs, including GFDL ESM2M, than in EMICs when carbon emissions increase. The temperature response to cumulative carbon emissions can be characterized by three different phases and the linear TCRE framework is only valid during the first phase when carbon emissions increase. For longer timescales, when emissions tape off, two new metrics are introduced that better characterize the time-dependent temperature response to cumulative carbon emissions: the equilibrium climate response to cumulative carbon emissions and the multi-millennial climate response to cumulative carbon emissions.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to extend the understanding of the relationship between global warming and cumulative carbon emissions to longer timescales beyond the current transient climate response to cumulative carbon emissions (TCRE) framework.",
+      "The current TCRE framework may not accurately capture the full extent of global warming impacts, particularly after carbon emissions cease."
+    ],
+    "objectives": [
+      "Investigate the long-term relationship between global warming and cumulative carbon emissions using Earth System Model (ESM) simulations.",
+      "Assess the validity of the TCRE framework on multi-centennial and multi-millennial timescales.",
+      "Develop new metrics to better characterize the time-dependent temperature response to cumulative carbon emissions."
+    ],
+    "methods": [
+      "Utilize ESM simulations from the Geophysical Fluid Dynamics Laboratory (GFDL) and the Coupled Model Intercomparison Project Phase 5 (CMIP5–ESMs) to analyze the global mean surface temperature response to cumulative carbon emissions.",
+      "Compare the results with Earth System Models of Intermediate Complexity (EMICs) simulations to identify discrepancies and understand the underlying reasons.",
+      "Introduce new metrics, such as the equilibrium climate response to cumulative carbon emissions and the multi-millennial climate response to cumulative carbon emissions, to better describe the long-term temperature response."
+    ],
+    "results": [
+      "Global mean surface temperature may increase by 0.5 °C after carbon emissions are stopped at 2 °C global warming, indicating a higher coefficient relating global warming to cumulative carbon emissions on multi-centennial timescales.",
+      "The simulations suggest a 20% lower quota on cumulative carbon emissions allowed to achieve a policy-driven limit on global warming.",
+      "The new metrics provide a more comprehensive understanding of the time-dependent temperature response to cumulative carbon emissions on longer timescales."
+    ],
+    "research_subject": "Extending the relationship between global warming and cumulative carbon emissions to multi-millennial timescales"
+  },
+  "openai_json": {
+    "motivations": [
+      "The transient climate response to cumulative carbon emissions (TCRE) is a crucial factor in climate science policy, but its long-term implications are not fully understood.",
+      "There is a discrepancy in the temperature response to cumulative carbon emissions between different Earth System Models (ESMs) and Earth System Models of Intermediate Complexity (EMICs)."
+    ],
+    "objectives": [
+      "Examine the relationship between global warming and cumulative carbon emissions on multi-millennial timescales using Earth System Model simulations.",
+      "Investigate the potential increase in global mean surface temperature after carbon emissions are stopped.",
+      "Introduce new metrics to better characterize the time-dependent temperature response to cumulative carbon emissions."
+    ],
+    "methods": [
+      "Use simulations of the Earth System Model (ESM) from the Geophysical Fluid Dynamics Laboratory (GFDL) to study the relationship between global warming and cumulative carbon emissions.",
+      "Compare ESM estimates from the Coupled Model Intercomparison Project Phase 5 (CMIP5–ESMs) and Earth System Models of Intermediate Complexity (EMICs) simulations."
+    ],
+    "results": [
+      "Global mean surface temperature may increase by 0.5 °C after carbon emissions are stopped at 2 °C global warming.",
+      "The coefficient relating global warming to cumulative carbon emissions increases on multi-centennial timescales.",
+      "The linear TCRE framework is only valid during the first phase when carbon emissions increase, and two new metrics are introduced for longer timescales."
+    ],
+    "research_subject": "Long-term relationship between global warming and cumulative carbon emissions"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The transient climate response to cumulative carbon emissions (TCRE) framework assumes linear proportionality between warming and emissions, but its validity on multi-millennial timescales remains uncertain.",
+      "Discrepancies exist between different climate model types regarding temperature evolution after carbon emissions cease, which has important implications for climate policy targets."
+    ],
+    "objectives": [
+      "Investigate the relationship between global warming and cumulative carbon emissions on multi-millennial timescales using Earth System Models.",
+      "Assess the validity of the linear TCRE framework beyond the emissions phase and introduce new metrics to characterize long-term temperature responses."
+    ],
+    "methods": [
+      "Conduct simulations using the GFDL Earth System Model and compare results with CMIP5-ESMs and Earth System Models of Intermediate Complexity.",
+      "Analyze temperature evolution after carbon emissions cease at 2°C global warming to evaluate post-emissions warming patterns.",
+      "Characterize the temperature response to cumulative carbon emissions across three distinct phases."
+    ],
+    "results": [
+      "Global mean surface temperature may increase by 0.5°C after carbon emissions stop at 2°C warming, requiring a 20% reduction in cumulative carbon emission quotas.",
+      "The linear TCRE framework is only valid during the emissions increase phase, necessitating new metrics for longer timescales.",
+      "CMIP5-ESMs show post-emissions warming while EMICs suggest cooling, attributed to differences in simulated realized warming fractions."
+    ],
+    "research_subject": "Long-term relationship between global warming and cumulative carbon emissions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to extend the understanding of the relationship between global warming and cumulative carbon emissions to longer timescales beyond the current transient climate response to cumulative carbon emissions (TCRE) framework.\",\n    \"The current TCRE framework may not accurately capture the full extent of global warming impacts, particularly after carbon emissions cease.\"\n  ],\n  \"objectives\": [\n    \"Investigate the long-term relationship between global warming and cumulative carbon emissions using Earth System Model (ESM) simulations.\",\n    \"Assess the validity of the TCRE framework on multi-centennial and multi-millennial timescales.\",\n    \"Develop new metrics to better characterize the time-dependent temperature response to cumulative carbon emissions.\"\n  ],\n  \"methods\": [\n    \"Utilize ESM simulations from the Geophysical Fluid Dynamics Laboratory (GFDL) and the Coupled Model Intercomparison Project Phase 5 (CMIP5–ESMs) to analyze the global mean surface temperature response to cumulative carbon emissions.\",\n    \"Compare the results with Earth System Models of Intermediate Complexity (EMICs) simulations to identify discrepancies and understand the underlying reasons.\",\n    \"Introduce new metrics, such as the equilibrium climate response to cumulative carbon emissions and the multi-millennial climate response to cumulative carbon emissions, to better describe the long-term temperature response.\"\n  ],\n  \"results\": [\n    \"Global mean surface temperature may increase by 0.5 °C after carbon emissions are stopped at 2 °C global warming, indicating a higher coefficient relating global warming to cumulative carbon emissions on multi-centennial timescales.\",\n    \"The simulations suggest a 20% lower quota on cumulative carbon emissions allowed to achieve a policy-driven limit on global warming.\",\n    \"The new metrics provide a more comprehensive understanding of the time-dependent temperature response to cumulative carbon emissions on longer timescales.\"\n  ],\n  \"research_subject\": \"Extending the relationship between global warming and cumulative carbon emissions to multi-millennial timescales\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The transient climate response to cumulative carbon emissions (TCRE) is a crucial factor in climate science policy, but its long-term implications are not fully understood.\",\n    \"There is a discrepancy in the temperature response to cumulative carbon emissions between different Earth System Models (ESMs) and Earth System Models of Intermediate Complexity (EMICs).\"\n  ],\n  \"objectives\": [\n    \"Examine the relationship between global warming and cumulative carbon emissions on multi-millennial timescales using Earth System Model simulations.\",\n    \"Investigate the potential increase in global mean surface temperature after carbon emissions are stopped.\",\n    \"Introduce new metrics to better characterize the time-dependent temperature response to cumulative carbon emissions.\"\n  ],\n  \"methods\": [\n    \"Use simulations of the Earth System Model (ESM) from the Geophysical Fluid Dynamics Laboratory (GFDL) to study the relationship between global warming and cumulative carbon emissions.\",\n    \"Compare ESM estimates from the Coupled Model Intercomparison Project Phase 5 (CMIP5–ESMs) and Earth System Models of Intermediate Complexity (EMICs) simulations.\"\n  ],\n  \"results\": [\n    \"Global mean surface temperature may increase by 0.5 °C after carbon emissions are stopped at 2 °C global warming.\",\n    \"The coefficient relating global warming to cumulative carbon emissions increases on multi-centennial timescales.\",\n    \"The linear TCRE framework is only valid during the first phase when carbon emissions increase, and two new metrics are introduced for longer timescales.\"\n  ],\n  \"research_subject\": \"Long-term relationship between global warming and cumulative carbon emissions\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The transient climate response to cumulative carbon emissions (TCRE) framework assumes linear proportionality between warming and emissions, but its validity on multi-millennial timescales remains uncertain.\",\n    \"Discrepancies exist between different climate model types regarding temperature evolution after carbon emissions cease, which has important implications for climate policy targets.\"\n  ],\n  \"objectives\": [\n    \"Investigate the relationship between global warming and cumulative carbon emissions on multi-millennial timescales using Earth System Models.\",\n    \"Assess the validity of the linear TCRE framework beyond the emissions phase and introduce new metrics to characterize long-term temperature responses.\"\n  ],\n  \"methods\": [\n    \"Conduct simulations using the GFDL Earth System Model and compare results with CMIP5-ESMs and Earth System Models of Intermediate Complexity.\",\n    \"Analyze temperature evolution after carbon emissions cease at 2°C global warming to evaluate post-emissions warming patterns.\",\n    \"Characterize the temperature response to cumulative carbon emissions across three distinct phases.\"\n  ],\n  \"results\": [\n    \"Global mean surface temperature may increase by 0.5°C after carbon emissions stop at 2°C warming, requiring a 20% reduction in cumulative carbon emission quotas.\",\n    \"The linear TCRE framework is only valid during the emissions increase phase, necessitating new metrics for longer timescales.\",\n    \"CMIP5-ESMs show post-emissions warming while EMICs suggest cooling, attributed to differences in simulated realized warming fractions.\"\n  ],\n  \"research_subject\": \"Long-term relationship between global warming and cumulative carbon emissions\"\n}\n```"
+}

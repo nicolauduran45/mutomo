@@ -1,0 +1,35 @@
+{
+  "index": 204,
+  "title": "Therese. Chronik eines Frauenlebens (1928)",
+  "abstract": "Der Roman Therese. Chronik eines Frauenlebens gehört zum Spätwerk von Schnitzler und stellt, sowohl was die Form als auch den Inhalt betrifft, eine Besonderheit dar. Grundlage des Romans ist die frühe, 1889 entstandene und 1892 in der Berliner Freien Bühne für den Entwicklungskampf der Zeit (Jg. 3, H. 1, Januar 1892, 89–94) erschienene Erzählung Der Sohn. Aus den Papieren eines Arztes.",
+  "llama_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": "Arthur Schnitzler's novel Therese. Chronik eines Frauenlebens"
+  },
+  "openai_json": {
+    "motivations": [
+      "The novel 'Therese. Chronik eines Frauenlebens' is a unique part of Schnitzler's late work in terms of both form and content, warranting further analysis."
+    ],
+    "objectives": [
+      "To analyze and understand the unique aspects of form and content in the novel 'Therese. Chronik eines Frauenlebens'."
+    ],
+    "methods": [
+      "The study will involve a detailed literary analysis of the novel 'Therese. Chronik eines Frauenlebens'."
+    ],
+    "results": [],
+    "research_subject": "Analysis of the novel 'Therese. Chronik eines Frauenlebens'"
+  },
+  "anthropic_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": "Arthur Schnitzler's novel Therese. Chronik eines Frauenlebens (1928)"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Arthur Schnitzler's novel Therese. Chronik eines Frauenlebens\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The novel 'Therese. Chronik eines Frauenlebens' is a unique part of Schnitzler's late work in terms of both form and content, warranting further analysis.\"\n  ],\n  \"objectives\": [\n    \"To analyze and understand the unique aspects of form and content in the novel 'Therese. Chronik eines Frauenlebens'.\"\n  ],\n  \"methods\": [\n    \"The study will involve a detailed literary analysis of the novel 'Therese. Chronik eines Frauenlebens'.\"\n  ],\n  \"results\": [],\n  \"research_subject\": \"Analysis of the novel 'Therese. Chronik eines Frauenlebens'\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Arthur Schnitzler's novel Therese. Chronik eines Frauenlebens (1928)\"\n}\n```"
+}

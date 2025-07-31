@@ -1,0 +1,74 @@
+{
+  "index": 269,
+  "title": "Privacy, ethical, regulatory and social no-gate crossing point solutions acceptance",
+  "abstract": "The increasing number of travellerscrossing European borders is putting a mounting pressure on the everyday handling of border checks. Coping with limited resources, border control authorities have to perform a higher number of checks on travellers, while at the same time maintaining national security. Consequently, the experience of both European and third country travellersis deteriorating, due to the extra time they have to spend at the border crossing points. In that sense, flexible, automated and scalable no-gate crossing solutions may offer an effective support to border control authorities, to make border checks faster and more efficient. Nevertheless, the intensive use of these technologies bears the risk of infringing individuals’ rights and freedoms, including privacy and personal data protection. Therefore, a thorough assessment of no-gate crossing point solutions, from asocial acceptance, ethical and legalperspective, is required prior to their implementation. PERSONA (Privacy, Ethical, Regulatory, and SOcial No-gate crossing point solutions Acceptance) project’s main goal is to design and establish an integrated impact assessment method (IAM PERSONA) to appropriately evaluate the impacts of no-gate crossing point solutions, taking into account social acceptance, ethical and legal requirements, to ensure that these technologies meet the expectations of public authorities and travellers. The main outcome of the project will be a handbook, available in open access, that will provide guidance inorder to drive the innovation and deployment of future no-gate crossing point solutions by industry and border authorities, while maintaining their societal acceptance",
+  "llama_json": {
+    "motivations": [
+      "The increasing number of travellers crossing European borders is putting pressure on border control authorities, leading to deteriorating travel experiences.",
+      "The use of automated no-gate crossing solutions risks infringing individuals' rights and freedoms, including privacy and personal data protection."
+    ],
+    "objectives": [
+      "Design and establish an integrated impact assessment method to evaluate the impacts of no-gate crossing point solutions.",
+      "Ensure that no-gate crossing point solutions meet social acceptance, ethical, and legal requirements.",
+      "Provide guidance for the innovation and deployment of future no-gate crossing point solutions."
+    ],
+    "methods": [
+      "Develop an integrated impact assessment method (IAM PERSONA) to evaluate no-gate crossing point solutions.",
+      "Assess no-gate crossing point solutions from a social acceptance, ethical, and legal perspective.",
+      "Create a handbook to provide guidance for industry and border authorities."
+    ],
+    "results": [
+      "Support border control authorities in making border checks faster and more efficient.",
+      "Ensure that no-gate crossing point solutions respect individuals' rights and freedoms.",
+      "Promote societal acceptance of no-gate crossing point solutions."
+    ],
+    "research_subject": "Assessing the social, ethical, and regulatory acceptance of no-gate crossing point solutions"
+  },
+  "openai_json": {
+    "motivations": [
+      "The increasing number of travellers crossing European borders is putting pressure on border control authorities, leading to a deteriorating experience for travellers due to increased wait times.",
+      "The use of automated and scalable no-gate crossing solutions could make border checks faster and more efficient, but there are concerns about potential infringements on individuals' rights and freedoms, including privacy and personal data protection."
+    ],
+    "objectives": [
+      "Design and establish an integrated impact assessment method to evaluate the impacts of no-gate crossing point solutions, considering social acceptance, ethical and legal requirements.",
+      "Ensure that these technologies meet the expectations of public authorities and travellers.",
+      "Produce a handbook to guide the innovation and deployment of future no-gate crossing point solutions by industry and border authorities, while maintaining societal acceptance."
+    ],
+    "methods": [
+      "Develop an integrated impact assessment method (IAM PERSONA) to evaluate the impacts of no-gate crossing point solutions.",
+      "Assess the social acceptance, ethical and legal implications of these solutions prior to their implementation.",
+      "Create a handbook, available in open access, to guide the deployment of these solutions."
+    ],
+    "results": [
+      "Provide an effective method to evaluate the impacts of no-gate crossing point solutions, ensuring they meet ethical, legal, and social acceptance standards.",
+      "Offer a handbook to guide the innovation and deployment of these solutions, ensuring societal acceptance."
+    ],
+    "research_subject": "Assessment and acceptance of no-gate crossing point solutions for border control"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The increasing number of travelers crossing European borders creates mounting pressure on border control authorities who must perform more checks with limited resources while maintaining security.",
+      "Current border crossing processes result in deteriorating traveler experiences due to extended wait times, necessitating more efficient solutions.",
+      "The implementation of automated no-gate crossing technologies risks infringing on individuals' rights, freedoms, privacy, and personal data protection."
+    ],
+    "objectives": [
+      "Design and establish an integrated impact assessment method (IAM PERSONA) to evaluate no-gate crossing point solutions from social acceptance, ethical, and legal perspectives.",
+      "Ensure that no-gate crossing technologies meet the expectations of both public authorities and travelers while maintaining societal acceptance.",
+      "Create guidance for the innovation and deployment of future no-gate crossing point solutions by industry and border authorities."
+    ],
+    "methods": [
+      "Develop a comprehensive assessment framework that integrates social acceptance, ethical considerations, and legal requirements for evaluating no-gate crossing technologies.",
+      "Conduct thorough impact assessments of automated border crossing solutions to identify potential risks to individual rights and freedoms.",
+      "Create an open-access handbook providing guidance for the implementation of no-gate crossing point solutions."
+    ],
+    "results": [
+      "An integrated impact assessment method (IAM PERSONA) that enables appropriate evaluation of no-gate crossing technologies.",
+      "An open-access handbook that guides industry and border authorities in developing and deploying socially acceptable no-gate crossing solutions.",
+      "Enhanced border crossing efficiency while maintaining security and protecting individual rights and freedoms."
+    ],
+    "research_subject": "Impact assessment of automated no-gate border crossing solutions from privacy, ethical, regulatory, and social acceptance perspectives"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing number of travellers crossing European borders is putting pressure on border control authorities, leading to deteriorating travel experiences.\",\n    \"The use of automated no-gate crossing solutions risks infringing individuals' rights and freedoms, including privacy and personal data protection.\"\n  ],\n  \"objectives\": [\n    \"Design and establish an integrated impact assessment method to evaluate the impacts of no-gate crossing point solutions.\",\n    \"Ensure that no-gate crossing point solutions meet social acceptance, ethical, and legal requirements.\",\n    \"Provide guidance for the innovation and deployment of future no-gate crossing point solutions.\"\n  ],\n  \"methods\": [\n    \"Develop an integrated impact assessment method (IAM PERSONA) to evaluate no-gate crossing point solutions.\",\n    \"Assess no-gate crossing point solutions from a social acceptance, ethical, and legal perspective.\",\n    \"Create a handbook to provide guidance for industry and border authorities.\"\n  ],\n  \"results\": [\n    \"Support border control authorities in making border checks faster and more efficient.\",\n    \"Ensure that no-gate crossing point solutions respect individuals' rights and freedoms.\",\n    \"Promote societal acceptance of no-gate crossing point solutions.\"\n  ],\n  \"research_subject\": \"Assessing the social, ethical, and regulatory acceptance of no-gate crossing point solutions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing number of travellers crossing European borders is putting pressure on border control authorities, leading to a deteriorating experience for travellers due to increased wait times.\",\n    \"The use of automated and scalable no-gate crossing solutions could make border checks faster and more efficient, but there are concerns about potential infringements on individuals' rights and freedoms, including privacy and personal data protection.\"\n  ],\n  \"objectives\": [\n    \"Design and establish an integrated impact assessment method to evaluate the impacts of no-gate crossing point solutions, considering social acceptance, ethical and legal requirements.\",\n    \"Ensure that these technologies meet the expectations of public authorities and travellers.\",\n    \"Produce a handbook to guide the innovation and deployment of future no-gate crossing point solutions by industry and border authorities, while maintaining societal acceptance.\"\n  ],\n  \"methods\": [\n    \"Develop an integrated impact assessment method (IAM PERSONA) to evaluate the impacts of no-gate crossing point solutions.\",\n    \"Assess the social acceptance, ethical and legal implications of these solutions prior to their implementation.\",\n    \"Create a handbook, available in open access, to guide the deployment of these solutions.\"\n  ],\n  \"results\": [\n    \"Provide an effective method to evaluate the impacts of no-gate crossing point solutions, ensuring they meet ethical, legal, and social acceptance standards.\",\n    \"Offer a handbook to guide the innovation and deployment of these solutions, ensuring societal acceptance.\"\n  ],\n  \"research_subject\": \"Assessment and acceptance of no-gate crossing point solutions for border control\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing number of travelers crossing European borders creates mounting pressure on border control authorities who must perform more checks with limited resources while maintaining security.\",\n    \"Current border crossing processes result in deteriorating traveler experiences due to extended wait times, necessitating more efficient solutions.\",\n    \"The implementation of automated no-gate crossing technologies risks infringing on individuals' rights, freedoms, privacy, and personal data protection.\"\n  ],\n  \"objectives\": [\n    \"Design and establish an integrated impact assessment method (IAM PERSONA) to evaluate no-gate crossing point solutions from social acceptance, ethical, and legal perspectives.\",\n    \"Ensure that no-gate crossing technologies meet the expectations of both public authorities and travelers while maintaining societal acceptance.\",\n    \"Create guidance for the innovation and deployment of future no-gate crossing point solutions by industry and border authorities.\"\n  ],\n  \"methods\": [\n    \"Develop a comprehensive assessment framework that integrates social acceptance, ethical considerations, and legal requirements for evaluating no-gate crossing technologies.\",\n    \"Conduct thorough impact assessments of automated border crossing solutions to identify potential risks to individual rights and freedoms.\",\n    \"Create an open-access handbook providing guidance for the implementation of no-gate crossing point solutions.\"\n  ],\n  \"results\": [\n    \"An integrated impact assessment method (IAM PERSONA) that enables appropriate evaluation of no-gate crossing technologies.\",\n    \"An open-access handbook that guides industry and border authorities in developing and deploying socially acceptable no-gate crossing solutions.\",\n    \"Enhanced border crossing efficiency while maintaining security and protecting individual rights and freedoms.\"\n  ],\n  \"research_subject\": \"Impact assessment of automated no-gate border crossing solutions from privacy, ethical, regulatory, and social acceptance perspectives\"\n}\n```"
+}

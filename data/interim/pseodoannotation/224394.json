@@ -1,0 +1,68 @@
+{
+  "index": 323,
+  "title": "Retinal imaging prevention and early detection of chronic diseases",
+  "abstract": "The overall objective of the RETINAL initiative of ULMA Embedded Solutions is to develop non-invasive and cost-effective tools with capacity for prevention and/or early detection of various diseases related to NCD complications, by analyzing the changes in the microvasculature of the retina.The basic framework of RETINAL is a comprehensive solution for ophthalmic imaging analysis and treatment composed of a simple, reliable and cost-effective color fundus digital image capture device and several specific software modules associated to the device for a number of specific clinical applications.The goal of this action is to demonstrate in the market, by independent peers, that RETINAL is the best available and cost-effective technology for the detection of diabetic retinopathy in DR Screening Programmes, and particularly valuable for its implementation at primary health centres, which makes screening more accessible to patients and therefore more effectiveThe overall objective of the RETINAL initiative of ULMA Embedded Solutions is to develop non-invasive and cost-effective tools with capacity for prevention and/or early detection of various diseases related to NCD complications, by analyzing the changes in the microvasculature of the retina.The basic framework of RETINAL is a comprehensive solution for ophthalmic imaging analysis and treatment composed of a simple, reliable and cost-effective color fundus digital image capture device and several specific software modules associated to the device for a number of specific clinical applications.The goal of this action is to demonstrate in the market, by independent peers, that RETINAL is the best available and cost-effective technology for the detection of diabetic retinopathy in DR Screening Programmes, and particularly valuable for its implementation at primary health centres, which makes screening more accessible to patients and therefore more effective",
+  "llama_json": {
+    "motivations": [
+      "There is a need for non-invasive and cost-effective tools for the prevention and early detection of chronic diseases related to non-communicable disease (NCD) complications.",
+      "Current diabetic retinopathy screening methods may be inaccessible or ineffective, requiring a more accessible and effective solution."
+    ],
+    "objectives": [
+      "Develop a comprehensive solution for ophthalmic imaging analysis and treatment using a simple, reliable, and cost-effective color fundus digital image capture device and associated software modules.",
+      "Demonstrate the effectiveness of the RETINAL technology in detecting diabetic retinopathy in screening programs, particularly in primary health centers."
+    ],
+    "methods": [
+      "Analyze changes in the microvasculature of the retina using digital image capture and software modules.",
+      "Implement the RETINAL technology in primary health centers to increase accessibility and effectiveness of diabetic retinopathy screening."
+    ],
+    "results": [
+      "Provide a non-invasive and cost-effective tool for the prevention and early detection of chronic diseases related to NCD complications.",
+      "Improve the accessibility and effectiveness of diabetic retinopathy screening programs, particularly in primary health centers."
+    ],
+    "research_subject": "Retinal imaging for prevention and early detection of chronic diseases"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for non-invasive, cost-effective tools for the prevention and early detection of diseases related to Non-Communicable Disease (NCD) complications.",
+      "The changes in the microvasculature of the retina can provide valuable insights for disease detection, but there is a lack of comprehensive solutions for ophthalmic imaging analysis and treatment."
+    ],
+    "objectives": [
+      "Develop non-invasive and cost-effective tools capable of preventing and detecting various diseases by analyzing changes in the retina's microvasculature.",
+      "Demonstrate that RETINAL is the best available and cost-effective technology for the detection of diabetic retinopathy in DR Screening Programmes."
+    ],
+    "methods": [
+      "Develop a comprehensive solution for ophthalmic imaging analysis and treatment, including a simple, reliable, and cost-effective color fundus digital image capture device.",
+      "Create specific software modules associated with the device for various clinical applications.",
+      "Implement RETINAL technology at primary health centres to make screening more accessible and effective."
+    ],
+    "results": [
+      "Provide a non-invasive, cost-effective solution for the prevention and early detection of diseases related to NCD complications.",
+      "Increase the accessibility and effectiveness of diabetic retinopathy screening through the implementation of RETINAL technology at primary health centres."
+    ],
+    "research_subject": "Prevention and early detection of chronic diseases through retinal imaging"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for non-invasive and cost-effective tools for early detection and prevention of chronic diseases through retinal imaging.",
+      "Current diabetic retinopathy screening programs require more accessible and effective technology that can be implemented at primary health centers."
+    ],
+    "objectives": [
+      "Develop non-invasive and cost-effective tools for prevention and early detection of diseases related to non-communicable disease complications through retinal microvasculature analysis.",
+      "Demonstrate that RETINAL technology is the most effective and cost-efficient solution for diabetic retinopathy detection in screening programs, particularly at primary health centers."
+    ],
+    "methods": [
+      "Develop a comprehensive ophthalmic imaging analysis solution consisting of a color fundus digital image capture device and associated software modules for clinical applications.",
+      "Analyze changes in retinal microvasculature to detect disease-related complications.",
+      "Conduct market demonstrations with independent peer validation to establish the technology's effectiveness."
+    ],
+    "results": [
+      "Enable more accessible and effective screening for diabetic retinopathy at primary health centers.",
+      "Provide early detection capabilities for various chronic diseases through retinal imaging analysis.",
+      "Establish RETINAL as the leading cost-effective technology for diabetic retinopathy screening programs."
+    ],
+    "research_subject": "Retinal imaging technology for early detection and prevention of chronic diseases"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for non-invasive and cost-effective tools for the prevention and early detection of chronic diseases related to non-communicable disease (NCD) complications.\",\n    \"Current diabetic retinopathy screening methods may be inaccessible or ineffective, requiring a more accessible and effective solution.\"\n  ],\n  \"objectives\": [\n    \"Develop a comprehensive solution for ophthalmic imaging analysis and treatment using a simple, reliable, and cost-effective color fundus digital image capture device and associated software modules.\",\n    \"Demonstrate the effectiveness of the RETINAL technology in detecting diabetic retinopathy in screening programs, particularly in primary health centers.\"\n  ],\n  \"methods\": [\n    \"Analyze changes in the microvasculature of the retina using digital image capture and software modules.\",\n    \"Implement the RETINAL technology in primary health centers to increase accessibility and effectiveness of diabetic retinopathy screening.\"\n  ],\n  \"results\": [\n    \"Provide a non-invasive and cost-effective tool for the prevention and early detection of chronic diseases related to NCD complications.\",\n    \"Improve the accessibility and effectiveness of diabetic retinopathy screening programs, particularly in primary health centers.\"\n  ],\n  \"research_subject\": \"Retinal imaging for prevention and early detection of chronic diseases\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for non-invasive, cost-effective tools for the prevention and early detection of diseases related to Non-Communicable Disease (NCD) complications.\",\n    \"The changes in the microvasculature of the retina can provide valuable insights for disease detection, but there is a lack of comprehensive solutions for ophthalmic imaging analysis and treatment.\"\n  ],\n  \"objectives\": [\n    \"Develop non-invasive and cost-effective tools capable of preventing and detecting various diseases by analyzing changes in the retina's microvasculature.\",\n    \"Demonstrate that RETINAL is the best available and cost-effective technology for the detection of diabetic retinopathy in DR Screening Programmes.\"\n  ],\n  \"methods\": [\n    \"Develop a comprehensive solution for ophthalmic imaging analysis and treatment, including a simple, reliable, and cost-effective color fundus digital image capture device.\",\n    \"Create specific software modules associated with the device for various clinical applications.\",\n    \"Implement RETINAL technology at primary health centres to make screening more accessible and effective.\"\n  ],\n  \"results\": [\n    \"Provide a non-invasive, cost-effective solution for the prevention and early detection of diseases related to NCD complications.\",\n    \"Increase the accessibility and effectiveness of diabetic retinopathy screening through the implementation of RETINAL technology at primary health centres.\"\n  ],\n  \"research_subject\": \"Prevention and early detection of chronic diseases through retinal imaging\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for non-invasive and cost-effective tools for early detection and prevention of chronic diseases through retinal imaging.\",\n    \"Current diabetic retinopathy screening programs require more accessible and effective technology that can be implemented at primary health centers.\"\n  ],\n  \"objectives\": [\n    \"Develop non-invasive and cost-effective tools for prevention and early detection of diseases related to non-communicable disease complications through retinal microvasculature analysis.\",\n    \"Demonstrate that RETINAL technology is the most effective and cost-efficient solution for diabetic retinopathy detection in screening programs, particularly at primary health centers.\"\n  ],\n  \"methods\": [\n    \"Develop a comprehensive ophthalmic imaging analysis solution consisting of a color fundus digital image capture device and associated software modules for clinical applications.\",\n    \"Analyze changes in retinal microvasculature to detect disease-related complications.\",\n    \"Conduct market demonstrations with independent peer validation to establish the technology's effectiveness.\"\n  ],\n  \"results\": [\n    \"Enable more accessible and effective screening for diabetic retinopathy at primary health centers.\",\n    \"Provide early detection capabilities for various chronic diseases through retinal imaging analysis.\",\n    \"Establish RETINAL as the leading cost-effective technology for diabetic retinopathy screening programs.\"\n  ],\n  \"research_subject\": \"Retinal imaging technology for early detection and prevention of chronic diseases\"\n}\n```"
+}

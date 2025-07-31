@@ -1,0 +1,71 @@
+{
+  "index": 207,
+  "title": "On chip terahertz frequency combs",
+  "abstract": "The terahertz (THz) portion of the electromagnetic spectrum is the junction between optics and electronics.  THz is a gate to sensing applications and spectroscopy as well as appealing for material inspection, non-invasive imaging for safety and medical applications and short-range high data rate wireless communication which are being extended to higher frequencies entering the THz range. Optical frequency combs have dominated the scene of laser physics in the last 10 years revolutionizing many fields of optics from metrology to high precision spectroscopy. Optical frequency combs act as rulers in the frequency domain and are characterized by their perfectly equally spaced and coherent modes. An extremely appealing application of optical frequency combs is the so-called dual-comb spectroscopy where multi-heterodyne detection is performed allowing Fourier transform spectroscopy with high resolution, high sensitivity and no moving parts. The objective of this proposal is to create on-chip, self-referenced frequency combs operating in the spectral region from 1.5-5-5 THz. Two main approaches will be followed: direct generation with THz QC lasers (cryogenically cooled) and room temperature non-linear generation by means of Mid-IR QCL combs. Such devices will be groundbreaking since they will allow high resolution THz spectroscopy and they will pave the way to high-rate local data transmission and coherent communication. We recently demonstrated octave spanning lasing from a THz QCL: this will constitute the foundation of our efforts. The developed combs will be implemented in the extremely powerful dual-comb scheme with innovative on-chip self-stabilization and detection of the multi-heterodyne signals. The self-referencing and the independence from an external detector makes the proposed devices disruptive due to their extreme compactness, intrinsic stability and large bandwidth.",
+  "llama_json": {
+    "motivations": [
+      "The terahertz (THz) portion of the electromagnetic spectrum offers vast potential for sensing, spectroscopy, and communication applications, but current technologies have limitations in terms of compactness, stability, and bandwidth.",
+      "There is a need for on-chip, self-referenced frequency combs operating in the THz range to enable high-resolution spectroscopy and high-rate data transmission."
+    ],
+    "objectives": [
+      "Create on-chip, self-referenced frequency combs operating in the spectral region from 1.5-5.5 THz using THz QC lasers and room temperature non-linear generation by means of Mid-IR QCL combs.",
+      "Implement the developed combs in the dual-comb scheme with innovative on-chip self-stabilization and detection of the multi-heterodyne signals.",
+      "Pave the way for high-resolution THz spectroscopy, high-rate local data transmission, and coherent communication."
+    ],
+    "methods": [
+      "Direct generation of THz frequency combs using cryogenically cooled THz QC lasers.",
+      "Room temperature non-linear generation of THz frequency combs by means of Mid-IR QCL combs.",
+      "Implementation of on-chip self-stabilization and detection of the multi-heterodyne signals in the dual-comb scheme."
+    ],
+    "results": [
+      "Groundbreaking on-chip devices enabling high-resolution THz spectroscopy and high-rate data transmission.",
+      "Compact, intrinsically stable, and large bandwidth devices for various applications, including sensing, spectroscopy, and communication.",
+      "Paving the way for coherent communication and high-rate local data transmission in the THz range."
+    ],
+    "research_subject": "On-chip terahertz frequency combs for spectroscopy and communication applications"
+  },
+  "openai_json": {
+    "motivations": [
+      "The terahertz (THz) portion of the electromagnetic spectrum is crucial for various applications including sensing, spectroscopy, material inspection, non-invasive imaging, and high data rate wireless communication.",
+      "Optical frequency combs have revolutionized many fields of optics, but there is a need for on-chip, self-referenced frequency combs operating in the THz range."
+    ],
+    "objectives": [
+      "Create on-chip, self-referenced frequency combs operating in the spectral region from 1.5-5-5 THz using two main approaches: direct generation with THz QC lasers and room temperature non-linear generation by means of Mid-IR QCL combs.",
+      "Implement the developed combs in the dual-comb scheme with innovative on-chip self-stabilization and detection of the multi-heterodyne signals."
+    ],
+    "methods": [
+      "Direct generation of THz frequency combs using cryogenically cooled THz QC lasers.",
+      "Room temperature non-linear generation of THz frequency combs using Mid-IR QCL combs.",
+      "Implementation of the developed combs in a dual-comb scheme with on-chip self-stabilization and detection of multi-heterodyne signals."
+    ],
+    "results": [
+      "Enable high resolution THz spectroscopy and pave the way for high-rate local data transmission and coherent communication.",
+      "Achieve extreme compactness, intrinsic stability, and large bandwidth in THz frequency combs due to self-referencing and independence from an external detector."
+    ],
+    "research_subject": "On-chip terahertz frequency combs"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The terahertz spectrum offers significant potential for sensing, spectroscopy, material inspection, medical imaging, and high-speed wireless communication applications.",
+      "Current THz technology lacks compact, stable, and self-referenced frequency comb sources that can enable high-resolution spectroscopy without external detectors."
+    ],
+    "objectives": [
+      "Create on-chip, self-referenced frequency combs operating in the 1.5-5.5 THz spectral region.",
+      "Develop groundbreaking devices that enable high-resolution THz spectroscopy and support high-rate data transmission and coherent communication."
+    ],
+    "methods": [
+      "Direct generation of THz frequency combs using cryogenically cooled THz quantum cascade lasers.",
+      "Room temperature non-linear generation through Mid-IR quantum cascade laser combs.",
+      "Implementation of dual-comb spectroscopy with innovative on-chip self-stabilization and multi-heterodyne signal detection."
+    ],
+    "results": [
+      "Enable high-resolution, high-sensitivity THz spectroscopy with no moving parts through compact, self-referenced devices.",
+      "Advance high-rate local data transmission and coherent communication capabilities in the THz range.",
+      "Achieve extreme compactness, intrinsic stability, and large bandwidth operation without external detectors."
+    ],
+    "research_subject": "On-chip terahertz frequency combs for spectroscopy and communication"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The terahertz (THz) portion of the electromagnetic spectrum offers vast potential for sensing, spectroscopy, and communication applications, but current technologies have limitations in terms of compactness, stability, and bandwidth.\",\n    \"There is a need for on-chip, self-referenced frequency combs operating in the THz range to enable high-resolution spectroscopy and high-rate data transmission.\"\n  ],\n  \"objectives\": [\n    \"Create on-chip, self-referenced frequency combs operating in the spectral region from 1.5-5.5 THz using THz QC lasers and room temperature non-linear generation by means of Mid-IR QCL combs.\",\n    \"Implement the developed combs in the dual-comb scheme with innovative on-chip self-stabilization and detection of the multi-heterodyne signals.\",\n    \"Pave the way for high-resolution THz spectroscopy, high-rate local data transmission, and coherent communication.\"\n  ],\n  \"methods\": [\n    \"Direct generation of THz frequency combs using cryogenically cooled THz QC lasers.\",\n    \"Room temperature non-linear generation of THz frequency combs by means of Mid-IR QCL combs.\",\n    \"Implementation of on-chip self-stabilization and detection of the multi-heterodyne signals in the dual-comb scheme.\"\n  ],\n  \"results\": [\n    \"Groundbreaking on-chip devices enabling high-resolution THz spectroscopy and high-rate data transmission.\",\n    \"Compact, intrinsically stable, and large bandwidth devices for various applications, including sensing, spectroscopy, and communication.\",\n    \"Paving the way for coherent communication and high-rate local data transmission in the THz range.\"\n  ],\n  \"research_subject\": \"On-chip terahertz frequency combs for spectroscopy and communication applications\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The terahertz (THz) portion of the electromagnetic spectrum is crucial for various applications including sensing, spectroscopy, material inspection, non-invasive imaging, and high data rate wireless communication.\",\n    \"Optical frequency combs have revolutionized many fields of optics, but there is a need for on-chip, self-referenced frequency combs operating in the THz range.\"\n  ],\n  \"objectives\": [\n    \"Create on-chip, self-referenced frequency combs operating in the spectral region from 1.5-5-5 THz using two main approaches: direct generation with THz QC lasers and room temperature non-linear generation by means of Mid-IR QCL combs.\",\n    \"Implement the developed combs in the dual-comb scheme with innovative on-chip self-stabilization and detection of the multi-heterodyne signals.\"\n  ],\n  \"methods\": [\n    \"Direct generation of THz frequency combs using cryogenically cooled THz QC lasers.\",\n    \"Room temperature non-linear generation of THz frequency combs using Mid-IR QCL combs.\",\n    \"Implementation of the developed combs in a dual-comb scheme with on-chip self-stabilization and detection of multi-heterodyne signals.\"\n  ],\n  \"results\": [\n    \"Enable high resolution THz spectroscopy and pave the way for high-rate local data transmission and coherent communication.\",\n    \"Achieve extreme compactness, intrinsic stability, and large bandwidth in THz frequency combs due to self-referencing and independence from an external detector.\"\n  ],\n  \"research_subject\": \"On-chip terahertz frequency combs\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The terahertz spectrum offers significant potential for sensing, spectroscopy, material inspection, medical imaging, and high-speed wireless communication applications.\",\n    \"Current THz technology lacks compact, stable, and self-referenced frequency comb sources that can enable high-resolution spectroscopy without external detectors.\"\n  ],\n  \"objectives\": [\n    \"Create on-chip, self-referenced frequency combs operating in the 1.5-5.5 THz spectral region.\",\n    \"Develop groundbreaking devices that enable high-resolution THz spectroscopy and support high-rate data transmission and coherent communication.\"\n  ],\n  \"methods\": [\n    \"Direct generation of THz frequency combs using cryogenically cooled THz quantum cascade lasers.\",\n    \"Room temperature non-linear generation through Mid-IR quantum cascade laser combs.\",\n    \"Implementation of dual-comb spectroscopy with innovative on-chip self-stabilization and multi-heterodyne signal detection.\"\n  ],\n  \"results\": [\n    \"Enable high-resolution, high-sensitivity THz spectroscopy with no moving parts through compact, self-referenced devices.\",\n    \"Advance high-rate local data transmission and coherent communication capabilities in the THz range.\",\n    \"Achieve extreme compactness, intrinsic stability, and large bandwidth operation without external detectors.\"\n  ],\n  \"research_subject\": \"On-chip terahertz frequency combs for spectroscopy and communication\"\n}\n```"
+}

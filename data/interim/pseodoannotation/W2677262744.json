@@ -1,0 +1,69 @@
+{
+  "index": 156,
+  "title": "Rural–urban differences in cooking practices and exposures in Northern Ghana",
+  "abstract": "Key differences between urban and rural populations can influence the adoption and impacts of new cooking technologies and fuels. We examine these differences among urban and rural households that are part of the REACCTING study in Northern Ghana. While urban and rural populations in the study area all use multiple stoves, the types of stoves and fuels differ, with urban participants more likely to use charcoal and LPG while rural households rely primarily on wood. Further, rural and urban households tend to use different stoves/fuels to cook the same dishes—for example, the staple porridge Tuo Zaafi (TZ) is primarily cooked over wood fires in rural areas and charcoal stoves in urban settings. This suggests that fuel availability and ability to purchase fuel may be a stronger predictor of fuel choice than cultural preferences alone. Ambient concentrations of air pollutants also differ in these two types of areas, with urban areas having pollutant hot spots to which residents can be exposed and rural areas having more homogeneous and lower pollutant concentrations. Further, exposures to carbon monoxide and particulate matter differ in magnitude and in timing between urban and rural study participants, suggesting different behaviors and sources of exposures. The results from this analysis highlight important disparities between urban and rural populations of a single region and imply that such a characterization is needed to successfully implement and assess the impacts of household energy interventions.",
+  "llama_json": {
+    "motivations": [
+      "Rural and urban populations exhibit differences in cooking practices and exposures that can affect the adoption and impact of new cooking technologies and fuels.",
+      "Understanding these differences is crucial for the successful implementation and assessment of household energy interventions."
+    ],
+    "objectives": [
+      "Examine the differences in cooking practices and exposures between urban and rural households in Northern Ghana.",
+      "Investigate the factors influencing fuel choice and cooking behaviors in these populations."
+    ],
+    "methods": [
+      "Conduct a comparative analysis of cooking practices and exposures among urban and rural households participating in the REACCTING study.",
+      "Assess the types of stoves and fuels used, as well as ambient concentrations of air pollutants and personal exposures to carbon monoxide and particulate matter."
+    ],
+    "results": [
+      "Identify key differences in cooking practices, fuel use, and exposures between urban and rural populations.",
+      "Highlight the importance of characterizing these disparities to inform the implementation and evaluation of household energy interventions."
+    ],
+    "research_subject": "Rural-urban differences in cooking practices and exposures in Northern Ghana"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the differences between urban and rural populations is crucial for the successful adoption and impact assessment of new cooking technologies and fuels.",
+      "There is a need to examine the disparities in cooking practices, fuel choices, and exposure to pollutants between urban and rural households in Northern Ghana."
+    ],
+    "objectives": [
+      "Examine the differences in stove types, fuel choices, and cooking practices between urban and rural households in Northern Ghana.",
+      "Investigate the differences in ambient concentrations of air pollutants and exposure levels between these two types of areas.",
+      "Understand the implications of these disparities for the implementation and impact assessment of household energy interventions."
+    ],
+    "methods": [
+      "Compare the types of stoves and fuels used by urban and rural households in the REACCTING study in Northern Ghana.",
+      "Analyze the differences in ambient concentrations of air pollutants and exposure levels between urban and rural areas.",
+      "Assess the impact of these differences on the adoption and effectiveness of new cooking technologies and fuels."
+    ],
+    "results": [
+      "Urban and rural households in Northern Ghana use different types of stoves and fuels, with urban households more likely to use charcoal and LPG, and rural households relying primarily on wood.",
+      "Ambient concentrations of air pollutants and exposure levels differ between urban and rural areas, with urban areas having pollutant hot spots and rural areas having more homogeneous and lower pollutant concentrations.",
+      "These differences imply that a tailored approach is needed to successfully implement and assess the impacts of household energy interventions in different types of areas."
+    ],
+    "research_subject": "Rural–urban differences in cooking practices and exposures in Northern Ghana"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Urban and rural populations exhibit distinct cooking practices and fuel choices that affect the adoption and impacts of new cooking technologies.",
+      "Understanding differences in air pollutant exposures between urban and rural households is crucial for assessing health impacts and designing effective interventions."
+    ],
+    "objectives": [
+      "Examine differences in cooking practices, fuel choices, and air pollutant exposures between urban and rural households in Northern Ghana.",
+      "Identify factors influencing fuel selection and characterize exposure patterns to inform household energy interventions."
+    ],
+    "methods": [
+      "Comparative analysis of stove types, fuel usage, and cooking practices between urban and rural participants in the REACCTING study.",
+      "Measurement and comparison of ambient air pollutant concentrations and personal exposures to carbon monoxide and particulate matter in both settings."
+    ],
+    "results": [
+      "Urban households predominantly use charcoal and LPG while rural households rely on wood, with fuel availability and purchasing power being stronger predictors than cultural preferences.",
+      "Urban areas show pollutant hot spots while rural areas have more homogeneous, lower concentrations, with different exposure patterns between populations.",
+      "Significant disparities between urban and rural populations necessitate tailored approaches for implementing household energy interventions."
+    ],
+    "research_subject": "Rural-urban differences in cooking practices and air pollutant exposures in Northern Ghana"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Rural and urban populations exhibit differences in cooking practices and exposures that can affect the adoption and impact of new cooking technologies and fuels.\",\n    \"Understanding these differences is crucial for the successful implementation and assessment of household energy interventions.\"\n  ],\n  \"objectives\": [\n    \"Examine the differences in cooking practices and exposures between urban and rural households in Northern Ghana.\",\n    \"Investigate the factors influencing fuel choice and cooking behaviors in these populations.\"\n  ],\n  \"methods\": [\n    \"Conduct a comparative analysis of cooking practices and exposures among urban and rural households participating in the REACCTING study.\",\n    \"Assess the types of stoves and fuels used, as well as ambient concentrations of air pollutants and personal exposures to carbon monoxide and particulate matter.\"\n  ],\n  \"results\": [\n    \"Identify key differences in cooking practices, fuel use, and exposures between urban and rural populations.\",\n    \"Highlight the importance of characterizing these disparities to inform the implementation and evaluation of household energy interventions.\"\n  ],\n  \"research_subject\": \"Rural-urban differences in cooking practices and exposures in Northern Ghana\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the differences between urban and rural populations is crucial for the successful adoption and impact assessment of new cooking technologies and fuels.\",\n    \"There is a need to examine the disparities in cooking practices, fuel choices, and exposure to pollutants between urban and rural households in Northern Ghana.\"\n  ],\n  \"objectives\": [\n    \"Examine the differences in stove types, fuel choices, and cooking practices between urban and rural households in Northern Ghana.\",\n    \"Investigate the differences in ambient concentrations of air pollutants and exposure levels between these two types of areas.\",\n    \"Understand the implications of these disparities for the implementation and impact assessment of household energy interventions.\"\n  ],\n  \"methods\": [\n    \"Compare the types of stoves and fuels used by urban and rural households in the REACCTING study in Northern Ghana.\",\n    \"Analyze the differences in ambient concentrations of air pollutants and exposure levels between urban and rural areas.\",\n    \"Assess the impact of these differences on the adoption and effectiveness of new cooking technologies and fuels.\"\n  ],\n  \"results\": [\n    \"Urban and rural households in Northern Ghana use different types of stoves and fuels, with urban households more likely to use charcoal and LPG, and rural households relying primarily on wood.\",\n    \"Ambient concentrations of air pollutants and exposure levels differ between urban and rural areas, with urban areas having pollutant hot spots and rural areas having more homogeneous and lower pollutant concentrations.\",\n    \"These differences imply that a tailored approach is needed to successfully implement and assess the impacts of household energy interventions in different types of areas.\"\n  ],\n  \"research_subject\": \"Rural–urban differences in cooking practices and exposures in Northern Ghana\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Urban and rural populations exhibit distinct cooking practices and fuel choices that affect the adoption and impacts of new cooking technologies.\",\n    \"Understanding differences in air pollutant exposures between urban and rural households is crucial for assessing health impacts and designing effective interventions.\"\n  ],\n  \"objectives\": [\n    \"Examine differences in cooking practices, fuel choices, and air pollutant exposures between urban and rural households in Northern Ghana.\",\n    \"Identify factors influencing fuel selection and characterize exposure patterns to inform household energy interventions.\"\n  ],\n  \"methods\": [\n    \"Comparative analysis of stove types, fuel usage, and cooking practices between urban and rural participants in the REACCTING study.\",\n    \"Measurement and comparison of ambient air pollutant concentrations and personal exposures to carbon monoxide and particulate matter in both settings.\"\n  ],\n  \"results\": [\n    \"Urban households predominantly use charcoal and LPG while rural households rely on wood, with fuel availability and purchasing power being stronger predictors than cultural preferences.\",\n    \"Urban areas show pollutant hot spots while rural areas have more homogeneous, lower concentrations, with different exposure patterns between populations.\",\n    \"Significant disparities between urban and rural populations necessitate tailored approaches for implementing household energy interventions.\"\n  ],\n  \"research_subject\": \"Rural-urban differences in cooking practices and air pollutant exposures in Northern Ghana\"\n}\n```"
+}

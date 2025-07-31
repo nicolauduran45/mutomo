@@ -1,0 +1,66 @@
+{
+  "index": 459,
+  "title": "LOCKING UNIT FOR A VEHICLE SEAT, AND VEHICLE SEAT",
+  "abstract": "The invention relates to a locking unit (10) for a vehicle seat (1), comprising a lock housing having a receptacle opening (19) for receiving a locking bolt (12) and a rotary latch (20), mounted to be able to swivel around a first bearing bolt (51), which rotary latch (20) has a hook aperture (21) for locking together with a locking bolt (12). The bearing bolt (51) is aligned in an axial direction and the receptacle opening (19) is delimited by a stop element (61). The stop element (61) represents a stop for a locking bolt (12) located in the hook aperture, and the stop element (61) protrudes into the lock housing in the axial direction. When the locking unit (10) is in a locked state and the locking bolt (12) extends precisely in the axial direction, a first contact region (71) between the locking bolt (12) and the stop element (61) and a second contact region (72) between the locking bolt (12) and the rotary latch (20) partially overlap in the axial direction, or the first contact region (71) lies completely within the second contact region (72) in the axial direction. The invention further relates to a vehicle seat (1), comprising at least one such locking unit (10).",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an improved locking unit for vehicle seats that provides secure and reliable locking functionality."
+    ],
+    "objectives": [
+      "Design a locking unit for a vehicle seat that ensures secure locking and minimizes the risk of accidental release.",
+      "Develop a locking unit with a rotary latch and stop element that provides a reliable and efficient locking mechanism."
+    ],
+    "methods": [
+      "Utilize a rotary latch with a hook aperture and a stop element to create a secure locking mechanism.",
+      "Align the bearing bolt in an axial direction and delimit the receptacle opening with a stop element to ensure precise locking bolt placement."
+    ],
+    "results": [
+      "Provide a secure and reliable locking unit for vehicle seats that minimizes the risk of accidental release.",
+      "Ensure precise locking bolt placement and prevent unwanted movement or release."
+    ],
+    "research_subject": "Locking unit for vehicle seats with improved security and reliability"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an improved locking unit for a vehicle seat that ensures secure locking and efficient operation."
+    ],
+    "objectives": [
+      "Design a locking unit for a vehicle seat, featuring a lock housing with a receptacle opening for a locking bolt and a swiveling rotary latch.",
+      "Incorporate a stop element in the lock housing that serves as a stop for a locking bolt and protrudes into the lock housing in the axial direction.",
+      "Develop a vehicle seat incorporating the designed locking unit."
+    ],
+    "methods": [
+      "Design a locking unit with a lock housing that has a receptacle opening for receiving a locking bolt and a rotary latch that can swivel around a bearing bolt.",
+      "Incorporate a stop element in the lock housing that serves as a stop for a locking bolt when it is located in the hook aperture of the rotary latch.",
+      "Ensure that when the locking unit is in a locked state, the first contact region between the locking bolt and the stop element and the second contact region between the locking bolt and the rotary latch partially overlap in the axial direction."
+    ],
+    "results": [
+      "A locking unit for a vehicle seat that ensures secure locking and efficient operation.",
+      "A vehicle seat incorporating the designed locking unit."
+    ],
+    "research_subject": "Design and development of a locking unit for a vehicle seat"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Vehicle seats require reliable locking mechanisms to ensure passenger safety and proper seat positioning.",
+      "Existing locking units may have limitations in terms of stability and alignment when securing the locking bolt."
+    ],
+    "objectives": [
+      "Develop a locking unit for vehicle seats that provides improved alignment and contact between the locking bolt and locking components.",
+      "Ensure optimal overlap between contact regions to enhance the stability and reliability of the locking mechanism."
+    ],
+    "methods": [
+      "Design a lock housing with a rotary latch that swivels around a bearing bolt and includes a hook aperture for engaging the locking bolt.",
+      "Incorporate a stop element that protrudes into the lock housing to serve as a stop for the locking bolt.",
+      "Configure the contact regions between the locking bolt, stop element, and rotary latch to partially overlap or nest within each other in the axial direction."
+    ],
+    "results": [
+      "Enhanced stability and reliability of the vehicle seat locking mechanism through optimized contact region alignment.",
+      "Improved safety and functionality of vehicle seats with the developed locking unit."
+    ],
+    "research_subject": "Locking unit design for vehicle seats with optimized contact region alignment"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved locking unit for vehicle seats that provides secure and reliable locking functionality.\"\n  ],\n  \"objectives\": [\n    \"Design a locking unit for a vehicle seat that ensures secure locking and minimizes the risk of accidental release.\",\n    \"Develop a locking unit with a rotary latch and stop element that provides a reliable and efficient locking mechanism.\"\n  ],\n  \"methods\": [\n    \"Utilize a rotary latch with a hook aperture and a stop element to create a secure locking mechanism.\",\n    \"Align the bearing bolt in an axial direction and delimit the receptacle opening with a stop element to ensure precise locking bolt placement.\"\n  ],\n  \"results\": [\n    \"Provide a secure and reliable locking unit for vehicle seats that minimizes the risk of accidental release.\",\n    \"Ensure precise locking bolt placement and prevent unwanted movement or release.\"\n  ],\n  \"research_subject\": \"Locking unit for vehicle seats with improved security and reliability\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved locking unit for a vehicle seat that ensures secure locking and efficient operation.\"\n  ],\n  \"objectives\": [\n    \"Design a locking unit for a vehicle seat, featuring a lock housing with a receptacle opening for a locking bolt and a swiveling rotary latch.\",\n    \"Incorporate a stop element in the lock housing that serves as a stop for a locking bolt and protrudes into the lock housing in the axial direction.\",\n    \"Develop a vehicle seat incorporating the designed locking unit.\"\n  ],\n  \"methods\": [\n    \"Design a locking unit with a lock housing that has a receptacle opening for receiving a locking bolt and a rotary latch that can swivel around a bearing bolt.\",\n    \"Incorporate a stop element in the lock housing that serves as a stop for a locking bolt when it is located in the hook aperture of the rotary latch.\",\n    \"Ensure that when the locking unit is in a locked state, the first contact region between the locking bolt and the stop element and the second contact region between the locking bolt and the rotary latch partially overlap in the axial direction.\"\n  ],\n  \"results\": [\n    \"A locking unit for a vehicle seat that ensures secure locking and efficient operation.\",\n    \"A vehicle seat incorporating the designed locking unit.\"\n  ],\n  \"research_subject\": \"Design and development of a locking unit for a vehicle seat\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Vehicle seats require reliable locking mechanisms to ensure passenger safety and proper seat positioning.\",\n    \"Existing locking units may have limitations in terms of stability and alignment when securing the locking bolt.\"\n  ],\n  \"objectives\": [\n    \"Develop a locking unit for vehicle seats that provides improved alignment and contact between the locking bolt and locking components.\",\n    \"Ensure optimal overlap between contact regions to enhance the stability and reliability of the locking mechanism.\"\n  ],\n  \"methods\": [\n    \"Design a lock housing with a rotary latch that swivels around a bearing bolt and includes a hook aperture for engaging the locking bolt.\",\n    \"Incorporate a stop element that protrudes into the lock housing to serve as a stop for the locking bolt.\",\n    \"Configure the contact regions between the locking bolt, stop element, and rotary latch to partially overlap or nest within each other in the axial direction.\"\n  ],\n  \"results\": [\n    \"Enhanced stability and reliability of the vehicle seat locking mechanism through optimized contact region alignment.\",\n    \"Improved safety and functionality of vehicle seats with the developed locking unit.\"\n  ],\n  \"research_subject\": \"Locking unit design for vehicle seats with optimized contact region alignment\"\n}\n```"
+}

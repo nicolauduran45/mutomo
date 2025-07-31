@@ -1,0 +1,67 @@
+{
+  "index": 30,
+  "title": "A new insight into masticatory function and its determinants: a latent class analysis",
+  "abstract": "Masticatory function is an important factor for preservation of general health. Epidemiologic data on masticatory function and its determinants among Iranian population are sparse, and no study has evaluated masticatory function using latent class analysis (LCA). This study was conducted to investigate the masticatory function and its determinants among a large sample of Iranian adults.In a cross-sectional study among 8691 adults, masticatory function was investigated using a validated questionnaire. LCA and latent class regression (LCR) were applied to identify classes of masticatory function and its potential determinants, respectively. In addition, multigroup LCA was conducted based on gender and age categories.In total, 11.24% and 24.87% of participants had poor and moderate masticatory function, respectively. Males (class size: 14.33%) were more likely to have poor masticatory function than females (class size: 2.35%) (P < 0.001). The results of LCR showed that higher age [adjusted odds ratio (OR): 1.09, 95% confidence interval (95% CI): 1.07-1.11, P < 0.001], male gender (OR: 1.37, 95% CI: 1.01-1.87, P < 0.05), and low physical activity (OR: 1.41, 95% CI: 1.08-1.85, P < 0.05) were associated with poor masticatory function. Nonsmokers had a lower chance of being in poor masticatory function class than heavy smokers (OR: 0.21, 95% CI: 0.11-0.38, P < 0.001).The prevalence of poor masticatory function is high among Iranian adults. Aging, male gender, low levels of physical activity, and smoking were found to be associated with poor masticatory function.",
+  "llama_json": {
+    "motivations": [
+      "There is a lack of epidemiologic data on masticatory function and its determinants among the Iranian population.",
+      "Masticatory function is an important factor for preserving general health, and understanding its determinants can inform strategies for improvement."
+    ],
+    "objectives": [
+      "Investigate masticatory function and its determinants among a large sample of Iranian adults.",
+      "Identify classes of masticatory function using latent class analysis and explore potential determinants through latent class regression."
+    ],
+    "methods": [
+      "Conduct a cross-sectional study using a validated questionnaire to assess masticatory function.",
+      "Apply latent class analysis and latent class regression to identify classes of masticatory function and its determinants.",
+      "Perform multigroup latent class analysis based on gender and age categories."
+    ],
+    "results": [
+      "Poor masticatory function is prevalent among Iranian adults, with higher rates among males and older individuals.",
+      "Low physical activity, smoking, and male gender are associated with poor masticatory function, while nonsmoking is linked to better masticatory function."
+    ],
+    "research_subject": "Masticatory function and its determinants among Iranian adults"
+  },
+  "openai_json": {
+    "motivations": [
+      "Masticatory function is crucial for general health, but there is a lack of epidemiologic data on its determinants among the Iranian population.",
+      "No previous study has evaluated masticatory function using latent class analysis in this context."
+    ],
+    "objectives": [
+      "Investigate the masticatory function and its determinants among a large sample of Iranian adults using latent class analysis."
+    ],
+    "methods": [
+      "Use a validated questionnaire to investigate masticatory function in a cross-sectional study among 8691 adults.",
+      "Apply latent class analysis and latent class regression to identify classes of masticatory function and its potential determinants.",
+      "Conduct multigroup latent class analysis based on gender and age categories."
+    ],
+    "results": [
+      "Identified that 11.24% and 24.87% of participants had poor and moderate masticatory function, respectively.",
+      "Found that males were more likely to have poor masticatory function than females.",
+      "Determined that higher age, male gender, low physical activity, and smoking were associated with poor masticatory function."
+    ],
+    "research_subject": "Analysis of masticatory function and its determinants among Iranian adults"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Epidemiologic data on masticatory function and its determinants among the Iranian population are sparse.",
+      "No previous study has evaluated masticatory function using latent class analysis (LCA) methodology."
+    ],
+    "objectives": [
+      "Investigate masticatory function and its determinants among a large sample of Iranian adults using latent class analysis."
+    ],
+    "methods": [
+      "Conducted a cross-sectional study using a validated questionnaire to assess masticatory function.",
+      "Applied latent class analysis (LCA) and latent class regression (LCR) to identify classes of masticatory function and potential determinants.",
+      "Performed multigroup LCA based on gender and age categories."
+    ],
+    "results": [
+      "Found that 11.24% of participants had poor masticatory function and 24.87% had moderate masticatory function, with males more likely to have poor function than females.",
+      "Identified that higher age, male gender, low physical activity, and smoking were significantly associated with poor masticatory function."
+    ],
+    "research_subject": "Masticatory function and its determinants among Iranian adults"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of epidemiologic data on masticatory function and its determinants among the Iranian population.\",\n    \"Masticatory function is an important factor for preserving general health, and understanding its determinants can inform strategies for improvement.\"\n  ],\n  \"objectives\": [\n    \"Investigate masticatory function and its determinants among a large sample of Iranian adults.\",\n    \"Identify classes of masticatory function using latent class analysis and explore potential determinants through latent class regression.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional study using a validated questionnaire to assess masticatory function.\",\n    \"Apply latent class analysis and latent class regression to identify classes of masticatory function and its determinants.\",\n    \"Perform multigroup latent class analysis based on gender and age categories.\"\n  ],\n  \"results\": [\n    \"Poor masticatory function is prevalent among Iranian adults, with higher rates among males and older individuals.\",\n    \"Low physical activity, smoking, and male gender are associated with poor masticatory function, while nonsmoking is linked to better masticatory function.\"\n  ],\n  \"research_subject\": \"Masticatory function and its determinants among Iranian adults\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Masticatory function is crucial for general health, but there is a lack of epidemiologic data on its determinants among the Iranian population.\",\n    \"No previous study has evaluated masticatory function using latent class analysis in this context.\"\n  ],\n  \"objectives\": [\n    \"Investigate the masticatory function and its determinants among a large sample of Iranian adults using latent class analysis.\"\n  ],\n  \"methods\": [\n    \"Use a validated questionnaire to investigate masticatory function in a cross-sectional study among 8691 adults.\",\n    \"Apply latent class analysis and latent class regression to identify classes of masticatory function and its potential determinants.\",\n    \"Conduct multigroup latent class analysis based on gender and age categories.\"\n  ],\n  \"results\": [\n    \"Identified that 11.24% and 24.87% of participants had poor and moderate masticatory function, respectively.\",\n    \"Found that males were more likely to have poor masticatory function than females.\",\n    \"Determined that higher age, male gender, low physical activity, and smoking were associated with poor masticatory function.\"\n  ],\n  \"research_subject\": \"Analysis of masticatory function and its determinants among Iranian adults\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Epidemiologic data on masticatory function and its determinants among the Iranian population are sparse.\",\n    \"No previous study has evaluated masticatory function using latent class analysis (LCA) methodology.\"\n  ],\n  \"objectives\": [\n    \"Investigate masticatory function and its determinants among a large sample of Iranian adults using latent class analysis.\"\n  ],\n  \"methods\": [\n    \"Conducted a cross-sectional study using a validated questionnaire to assess masticatory function.\",\n    \"Applied latent class analysis (LCA) and latent class regression (LCR) to identify classes of masticatory function and potential determinants.\",\n    \"Performed multigroup LCA based on gender and age categories.\"\n  ],\n  \"results\": [\n    \"Found that 11.24% of participants had poor masticatory function and 24.87% had moderate masticatory function, with males more likely to have poor function than females.\",\n    \"Identified that higher age, male gender, low physical activity, and smoking were significantly associated with poor masticatory function.\"\n  ],\n  \"research_subject\": \"Masticatory function and its determinants among Iranian adults\"\n}\n```"
+}

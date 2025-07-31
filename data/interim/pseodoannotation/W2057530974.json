@@ -1,0 +1,72 @@
+{
+  "index": 235,
+  "title": "Harvesting low-frequency acoustic energy using quarter-wavelength straight-tube acoustic resonator",
+  "abstract": "Abstract An acoustic energy harvester is introduced that uses a quarter-wavelength straight-tube acoustic resonator with polyvinylidene fluoride (PVDF) piezoelectric cantilever beams placed inside the resonator. When the tube is excited by an incident wave at its first acoustic eigenfrequency, an amplified acoustic resonant standing wave is developed inside the tube. The acoustic pressure gradient of the amplified standing wave then drives the vibration motion of the PVDF piezoelectric beams, generating electricity due to the direct piezoelectric effect. In order to maximize the amount of the harvested energy, each PVDF piezoelectric beam has been designed to have the same structural eigenfrequency as the acoustic eigenfrequency of the tube. With a single PVDF beam placed inside the tube, the harvested voltage and power become the maximum near the tube open inlet where the largest acoustic pressure gradient vibrates the PVDF beam. As the beam is moved to the tube closed end, the voltage and power gradually decrease due to the decreased acoustic pressure gradient. Multiple piezoelectric beams have been placed inside the tube with two different configurations: the aligned and zigzag configurations. With the zigzag configuration which has the more open path for acoustic air particle motions, the significant increases in the harvested voltage and power have been observed. Due to the interruption of acoustic air particle motion caused by the beams, it is found that placing PVDF beams near the closed tube end is not beneficial. The total output voltage of the piezoelectric beams increases linearly as the incident sound pressure increases.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective methods to harvest low-frequency acoustic energy.",
+      "Existing energy harvesting technologies may not be optimized for low-frequency acoustic energy conversion."
+    ],
+    "objectives": [
+      "Design and develop an acoustic energy harvester using a quarter-wavelength straight-tube acoustic resonator with piezoelectric cantilever beams.",
+      "Maximize the harvested energy by optimizing the placement and configuration of the piezoelectric beams within the resonator."
+    ],
+    "methods": [
+      "Utilize a quarter-wavelength straight-tube acoustic resonator to amplify acoustic resonant standing waves.",
+      "Employ polyvinylidene fluoride (PVDF) piezoelectric cantilever beams to convert acoustic energy into electricity.",
+      "Investigate the effect of different beam configurations and placements within the resonator on energy harvesting efficiency."
+    ],
+    "results": [
+      "Achieve maximum energy harvesting efficiency by optimizing the placement and configuration of piezoelectric beams.",
+      "Demonstrate a linear increase in total output voltage with increasing incident sound pressure.",
+      "Show the potential for efficient low-frequency acoustic energy harvesting using the proposed resonator design."
+    ],
+    "research_subject": "Low-frequency acoustic energy harvesting using a quarter-wavelength straight-tube acoustic resonator with piezoelectric beams"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective methods to harvest low-frequency acoustic energy.",
+      "The efficiency of energy harvesting can be improved by optimizing the placement and configuration of piezoelectric beams within an acoustic resonator."
+    ],
+    "objectives": [
+      "Introduce an acoustic energy harvester using a quarter-wavelength straight-tube acoustic resonator with polyvinylidene fluoride (PVDF) piezoelectric cantilever beams.",
+      "Maximize the harvested energy by designing each PVDF piezoelectric beam to have the same structural eigenfrequency as the acoustic eigenfrequency of the tube.",
+      "Investigate the effects of different configurations and placements of multiple piezoelectric beams inside the tube on the harvested voltage and power."
+    ],
+    "methods": [
+      "Use a quarter-wavelength straight-tube acoustic resonator excited by an incident wave at its first acoustic eigenfrequency to develop an amplified acoustic resonant standing wave.",
+      "Place PVDF piezoelectric beams inside the resonator to convert the vibration motion driven by the acoustic pressure gradient into electricity.",
+      "Experiment with different configurations and placements of multiple piezoelectric beams inside the tube."
+    ],
+    "results": [
+      "The harvested voltage and power are maximized near the tube open inlet where the largest acoustic pressure gradient vibrates the PVDF beam.",
+      "Significant increases in the harvested voltage and power are observed with the zigzag configuration of piezoelectric beams, which provides a more open path for acoustic air particle motions.",
+      "The total output voltage of the piezoelectric beams increases linearly as the incident sound pressure increases."
+    ],
+    "research_subject": "Harvesting low-frequency acoustic energy using a quarter-wavelength straight-tube acoustic resonator with PVDF piezoelectric beams"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to harvest energy from low-frequency acoustic sources to power small electronic devices and sensors.",
+      "Existing acoustic energy harvesting methods have limitations in efficiently capturing and converting low-frequency acoustic energy."
+    ],
+    "objectives": [
+      "Design and develop an acoustic energy harvester using a quarter-wavelength straight-tube resonator with integrated piezoelectric cantilever beams.",
+      "Optimize the placement and configuration of PVDF piezoelectric beams to maximize energy harvesting efficiency."
+    ],
+    "methods": [
+      "Utilize a quarter-wavelength straight-tube acoustic resonator to amplify incident acoustic waves at the tube's first acoustic eigenfrequency.",
+      "Integrate PVDF piezoelectric cantilever beams inside the resonator, designed to match the acoustic eigenfrequency for optimal vibration response.",
+      "Investigate different beam configurations (aligned and zigzag) and placement positions to determine optimal energy harvesting conditions."
+    ],
+    "results": [
+      "Maximum harvested voltage and power were achieved when PVDF beams were placed near the tube's open inlet where acoustic pressure gradient is highest.",
+      "The zigzag configuration of multiple beams yielded significantly higher harvested voltage and power compared to the aligned configuration.",
+      "The output voltage increased linearly with incident sound pressure, demonstrating scalable energy harvesting capability."
+    ],
+    "research_subject": "Acoustic energy harvesting using quarter-wavelength resonators and piezoelectric materials"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective methods to harvest low-frequency acoustic energy.\",\n    \"Existing energy harvesting technologies may not be optimized for low-frequency acoustic energy conversion.\"\n  ],\n  \"objectives\": [\n    \"Design and develop an acoustic energy harvester using a quarter-wavelength straight-tube acoustic resonator with piezoelectric cantilever beams.\",\n    \"Maximize the harvested energy by optimizing the placement and configuration of the piezoelectric beams within the resonator.\"\n  ],\n  \"methods\": [\n    \"Utilize a quarter-wavelength straight-tube acoustic resonator to amplify acoustic resonant standing waves.\",\n    \"Employ polyvinylidene fluoride (PVDF) piezoelectric cantilever beams to convert acoustic energy into electricity.\",\n    \"Investigate the effect of different beam configurations and placements within the resonator on energy harvesting efficiency.\"\n  ],\n  \"results\": [\n    \"Achieve maximum energy harvesting efficiency by optimizing the placement and configuration of piezoelectric beams.\",\n    \"Demonstrate a linear increase in total output voltage with increasing incident sound pressure.\",\n    \"Show the potential for efficient low-frequency acoustic energy harvesting using the proposed resonator design.\"\n  ],\n  \"research_subject\": \"Low-frequency acoustic energy harvesting using a quarter-wavelength straight-tube acoustic resonator with piezoelectric beams\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective methods to harvest low-frequency acoustic energy.\",\n    \"The efficiency of energy harvesting can be improved by optimizing the placement and configuration of piezoelectric beams within an acoustic resonator.\"\n  ],\n  \"objectives\": [\n    \"Introduce an acoustic energy harvester using a quarter-wavelength straight-tube acoustic resonator with polyvinylidene fluoride (PVDF) piezoelectric cantilever beams.\",\n    \"Maximize the harvested energy by designing each PVDF piezoelectric beam to have the same structural eigenfrequency as the acoustic eigenfrequency of the tube.\",\n    \"Investigate the effects of different configurations and placements of multiple piezoelectric beams inside the tube on the harvested voltage and power.\"\n  ],\n  \"methods\": [\n    \"Use a quarter-wavelength straight-tube acoustic resonator excited by an incident wave at its first acoustic eigenfrequency to develop an amplified acoustic resonant standing wave.\",\n    \"Place PVDF piezoelectric beams inside the resonator to convert the vibration motion driven by the acoustic pressure gradient into electricity.\",\n    \"Experiment with different configurations and placements of multiple piezoelectric beams inside the tube.\"\n  ],\n  \"results\": [\n    \"The harvested voltage and power are maximized near the tube open inlet where the largest acoustic pressure gradient vibrates the PVDF beam.\",\n    \"Significant increases in the harvested voltage and power are observed with the zigzag configuration of piezoelectric beams, which provides a more open path for acoustic air particle motions.\",\n    \"The total output voltage of the piezoelectric beams increases linearly as the incident sound pressure increases.\"\n  ],\n  \"research_subject\": \"Harvesting low-frequency acoustic energy using a quarter-wavelength straight-tube acoustic resonator with PVDF piezoelectric beams\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to harvest energy from low-frequency acoustic sources to power small electronic devices and sensors.\",\n    \"Existing acoustic energy harvesting methods have limitations in efficiently capturing and converting low-frequency acoustic energy.\"\n  ],\n  \"objectives\": [\n    \"Design and develop an acoustic energy harvester using a quarter-wavelength straight-tube resonator with integrated piezoelectric cantilever beams.\",\n    \"Optimize the placement and configuration of PVDF piezoelectric beams to maximize energy harvesting efficiency.\"\n  ],\n  \"methods\": [\n    \"Utilize a quarter-wavelength straight-tube acoustic resonator to amplify incident acoustic waves at the tube's first acoustic eigenfrequency.\",\n    \"Integrate PVDF piezoelectric cantilever beams inside the resonator, designed to match the acoustic eigenfrequency for optimal vibration response.\",\n    \"Investigate different beam configurations (aligned and zigzag) and placement positions to determine optimal energy harvesting conditions.\"\n  ],\n  \"results\": [\n    \"Maximum harvested voltage and power were achieved when PVDF beams were placed near the tube's open inlet where acoustic pressure gradient is highest.\",\n    \"The zigzag configuration of multiple beams yielded significantly higher harvested voltage and power compared to the aligned configuration.\",\n    \"The output voltage increased linearly with incident sound pressure, demonstrating scalable energy harvesting capability.\"\n  ],\n  \"research_subject\": \"Acoustic energy harvesting using quarter-wavelength resonators and piezoelectric materials\"\n}\n```"
+}

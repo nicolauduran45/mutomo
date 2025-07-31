@@ -1,0 +1,68 @@
+{
+  "index": 324,
+  "title": "Educational Misdirections: Attending to Levinas’s Call for Ethics as First Principle",
+  "abstract": "ABSTRACTThis essay examines a shift of significance, movement from faculty to increasing administrative impact. The consequence of this change is not only structural but impacts the very nature of an academic calling and vocation. The university is increasingly a business run by an ever-expanding pool of managers. The lament of Benjamin Ginsberg, in The Fall of the Faculty: The Rise of the All-Administrative University and Why It Matters, provides the background conversation for this essay. Emmanuel Levinas’s framing of ethics as first philosophy offers a response to this historical shift in higher education. The task of this essay is modest and perhaps fundamental; there is no attempt to change this historical moment of higher education. This essay explores Levinas and ethics with a hope of sustaining educational commitments in the midst of an educational era of misdirection.",
+  "llama_json": {
+    "motivations": [
+      "The shift from faculty to administrative dominance in universities has altered the nature of academic calling and vocation.",
+      "The increasing business-like management of universities threatens the core values and commitments of higher education."
+    ],
+    "objectives": [
+      "Examine the implications of the shift towards administrative dominance in universities.",
+      "Explore Emmanuel Levinas's concept of ethics as first philosophy as a response to the current state of higher education.",
+      "Sustain educational commitments amidst the misdirection in the current era of higher education."
+    ],
+    "methods": [
+      "Analyze the work of Benjamin Ginsberg, particularly 'The Fall of the Faculty: The Rise of the All-Administrative University and Why It Matters', to understand the background of the issue.",
+      "Apply Levinas's philosophical framework of ethics as first philosophy to the context of higher education."
+    ],
+    "results": [
+      "Provide a deeper understanding of the impact of administrative dominance on the nature of higher education.",
+      "Offer a philosophical perspective on the importance of ethics in guiding educational commitments and values."
+    ],
+    "research_subject": "The impact of administrative dominance on higher education and the role of ethics in sustaining educational commitments"
+  },
+  "openai_json": {
+    "motivations": [
+      "The shift from faculty to administrative impact in universities is changing the nature of academic calling and vocation.",
+      "The increasing treatment of universities as businesses run by managers is a concern.",
+      "There is a need to sustain educational commitments amidst this era of educational misdirection."
+    ],
+    "objectives": [
+      "Examine the shift from faculty to administrative impact in universities and its consequences.",
+      "Explore Emmanuel Levinas’s framing of ethics as first philosophy as a response to this shift in higher education.",
+      "Sustain educational commitments in the midst of an educational era of misdirection."
+    ],
+    "methods": [
+      "Analyze the shift in higher education through the lens of Benjamin Ginsberg's work 'The Fall of the Faculty: The Rise of the All-Administrative University and Why It Matters'.",
+      "Apply Emmanuel Levinas’s framing of ethics as first philosophy to the current state of higher education."
+    ],
+    "results": [
+      "Provide insights into the consequences of the shift from faculty to administrative impact in universities.",
+      "Offer a philosophical response to the current state of higher education through the lens of Emmanuel Levinas’s ethics."
+    ],
+    "research_subject": "Ethical response to the shift from faculty to administrative impact in higher education"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Universities are experiencing a fundamental shift from faculty-centered to administrator-dominated governance, transforming the nature of academic vocation.",
+      "The increasing corporatization of higher education threatens the ethical foundations and educational commitments of academic institutions."
+    ],
+    "objectives": [
+      "Examine the structural and philosophical implications of the shift from faculty to administrative control in universities.",
+      "Explore how Emmanuel Levinas's conception of ethics as first philosophy can provide a framework for sustaining educational commitments in the current higher education landscape."
+    ],
+    "methods": [
+      "Analyze Benjamin Ginsberg's critique of the administrative university as a contextual framework.",
+      "Apply Levinas's philosophical approach to ethics to address the challenges facing contemporary higher education."
+    ],
+    "results": [
+      "Provide a philosophical foundation for maintaining ethical educational commitments despite institutional misdirection.",
+      "Offer a Levinasian ethical framework as a response to the corporatization of universities."
+    ],
+    "research_subject": "The application of Levinas's ethics to address administrative dominance in higher education"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The shift from faculty to administrative dominance in universities has altered the nature of academic calling and vocation.\",\n    \"The increasing business-like management of universities threatens the core values and commitments of higher education.\"\n  ],\n  \"objectives\": [\n    \"Examine the implications of the shift towards administrative dominance in universities.\",\n    \"Explore Emmanuel Levinas's concept of ethics as first philosophy as a response to the current state of higher education.\",\n    \"Sustain educational commitments amidst the misdirection in the current era of higher education.\"\n  ],\n  \"methods\": [\n    \"Analyze the work of Benjamin Ginsberg, particularly 'The Fall of the Faculty: The Rise of the All-Administrative University and Why It Matters', to understand the background of the issue.\",\n    \"Apply Levinas's philosophical framework of ethics as first philosophy to the context of higher education.\"\n  ],\n  \"results\": [\n    \"Provide a deeper understanding of the impact of administrative dominance on the nature of higher education.\",\n    \"Offer a philosophical perspective on the importance of ethics in guiding educational commitments and values.\"\n  ],\n  \"research_subject\": \"The impact of administrative dominance on higher education and the role of ethics in sustaining educational commitments\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The shift from faculty to administrative impact in universities is changing the nature of academic calling and vocation.\",\n    \"The increasing treatment of universities as businesses run by managers is a concern.\",\n    \"There is a need to sustain educational commitments amidst this era of educational misdirection.\"\n  ],\n  \"objectives\": [\n    \"Examine the shift from faculty to administrative impact in universities and its consequences.\",\n    \"Explore Emmanuel Levinas’s framing of ethics as first philosophy as a response to this shift in higher education.\",\n    \"Sustain educational commitments in the midst of an educational era of misdirection.\"\n  ],\n  \"methods\": [\n    \"Analyze the shift in higher education through the lens of Benjamin Ginsberg's work 'The Fall of the Faculty: The Rise of the All-Administrative University and Why It Matters'.\",\n    \"Apply Emmanuel Levinas’s framing of ethics as first philosophy to the current state of higher education.\"\n  ],\n  \"results\": [\n    \"Provide insights into the consequences of the shift from faculty to administrative impact in universities.\",\n    \"Offer a philosophical response to the current state of higher education through the lens of Emmanuel Levinas’s ethics.\"\n  ],\n  \"research_subject\": \"Ethical response to the shift from faculty to administrative impact in higher education\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Universities are experiencing a fundamental shift from faculty-centered to administrator-dominated governance, transforming the nature of academic vocation.\",\n    \"The increasing corporatization of higher education threatens the ethical foundations and educational commitments of academic institutions.\"\n  ],\n  \"objectives\": [\n    \"Examine the structural and philosophical implications of the shift from faculty to administrative control in universities.\",\n    \"Explore how Emmanuel Levinas's conception of ethics as first philosophy can provide a framework for sustaining educational commitments in the current higher education landscape.\"\n  ],\n  \"methods\": [\n    \"Analyze Benjamin Ginsberg's critique of the administrative university as a contextual framework.\",\n    \"Apply Levinas's philosophical approach to ethics to address the challenges facing contemporary higher education.\"\n  ],\n  \"results\": [\n    \"Provide a philosophical foundation for maintaining ethical educational commitments despite institutional misdirection.\",\n    \"Offer a Levinasian ethical framework as a response to the corporatization of universities.\"\n  ],\n  \"research_subject\": \"The application of Levinas's ethics to address administrative dominance in higher education\"\n}\n```"
+}

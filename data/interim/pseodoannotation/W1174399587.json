@@ -1,0 +1,64 @@
+{
+  "index": 210,
+  "title": "Commercial Housing Affordability in Post-welfare Housing Era in Beijing, 1999-2009",
+  "abstract": "China has experienced a substantial economy growth with a rapid housing price increase which affected its housing affordability. Beijing's high commercial housing price is widely concerned since the launch of welfare housing reform in 1998. The paper analyses: what the high commercial housing price has led to during the period from 1999 to 2009 by the adoption of price-to-income ratio and housing affordability index. The findings indicate that the price-to-income ratio fluctuates between 6.7 and 15 and housing affordability index is between 143 and 71 during the period. The results provide an insight into housing affordability in Beijing and the trend suggests that the municipal government's housing provision policies are hard to solve the housing affordability problem in the short run. The reasons for the high commercial housing price are examined and possible policies to increase the housing affordability are discussed in the paper.",
+  "llama_json": {
+    "motivations": [
+      "Rapid housing price increases in Beijing have raised concerns about housing affordability following the welfare housing reform in 1998.",
+      "The substantial economic growth in China has led to a significant impact on housing affordability, necessitating an analysis of the situation."
+    ],
+    "objectives": [
+      "Analyze the impact of high commercial housing prices on housing affordability in Beijing from 1999 to 2009.",
+      "Examine the reasons behind the high commercial housing prices and discuss possible policies to improve housing affordability."
+    ],
+    "methods": [
+      "Adopt the price-to-income ratio and housing affordability index to analyze housing affordability in Beijing."
+    ],
+    "results": [
+      "The price-to-income ratio and housing affordability index indicate a significant housing affordability issue in Beijing.",
+      "The findings suggest that the municipal government's housing provision policies may struggle to solve the housing affordability problem in the short term."
+    ],
+    "research_subject": "Commercial housing affordability in post-welfare housing era in Beijing"
+  },
+  "openai_json": {
+    "motivations": [
+      "Rapid economic growth in China has led to a significant increase in housing prices, affecting housing affordability.",
+      "Beijing's high commercial housing prices, particularly since the launch of welfare housing reform in 1998, have raised concerns."
+    ],
+    "objectives": [
+      "Analyze the impact of high commercial housing prices in Beijing from 1999 to 2009 using the price-to-income ratio and housing affordability index.",
+      "Investigate the reasons for high commercial housing prices and discuss potential policies to improve housing affordability."
+    ],
+    "methods": [
+      "Adopt the price-to-income ratio and housing affordability index to analyze the impact of high commercial housing prices.",
+      "Examine the reasons for high commercial housing prices and discuss potential policies to improve housing affordability."
+    ],
+    "results": [
+      "The price-to-income ratio fluctuated between 6.7 and 15, and the housing affordability index ranged between 143 and 71 during the period from 1999 to 2009.",
+      "The municipal government's housing provision policies are unlikely to solve the housing affordability problem in the short term."
+    ],
+    "research_subject": "Commercial housing affordability in Beijing from 1999 to 2009"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "China's rapid economic growth has led to substantial housing price increases that have significantly impacted housing affordability.",
+      "Beijing's high commercial housing prices have become a major concern since the welfare housing reform in 1998."
+    ],
+    "objectives": [
+      "Analyze the impact of high commercial housing prices on housing affordability in Beijing from 1999 to 2009.",
+      "Examine the reasons for high commercial housing prices and discuss potential policies to improve housing affordability."
+    ],
+    "methods": [
+      "Apply price-to-income ratio and housing affordability index to measure housing affordability trends.",
+      "Analyze housing market data and government housing provision policies during the study period."
+    ],
+    "results": [
+      "Price-to-income ratio fluctuated between 6.7 and 15, while housing affordability index ranged from 71 to 143 during 1999-2009.",
+      "Municipal government housing provision policies are unlikely to solve housing affordability problems in the short term."
+    ],
+    "research_subject": "Commercial housing affordability in post-welfare housing era Beijing"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Rapid housing price increases in Beijing have raised concerns about housing affordability following the welfare housing reform in 1998.\",\n    \"The substantial economic growth in China has led to a significant impact on housing affordability, necessitating an analysis of the situation.\"\n  ],\n  \"objectives\": [\n    \"Analyze the impact of high commercial housing prices on housing affordability in Beijing from 1999 to 2009.\",\n    \"Examine the reasons behind the high commercial housing prices and discuss possible policies to improve housing affordability.\"\n  ],\n  \"methods\": [\n    \"Adopt the price-to-income ratio and housing affordability index to analyze housing affordability in Beijing.\"\n  ],\n  \"results\": [\n    \"The price-to-income ratio and housing affordability index indicate a significant housing affordability issue in Beijing.\",\n    \"The findings suggest that the municipal government's housing provision policies may struggle to solve the housing affordability problem in the short term.\"\n  ],\n  \"research_subject\": \"Commercial housing affordability in post-welfare housing era in Beijing\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Rapid economic growth in China has led to a significant increase in housing prices, affecting housing affordability.\",\n    \"Beijing's high commercial housing prices, particularly since the launch of welfare housing reform in 1998, have raised concerns.\"\n  ],\n  \"objectives\": [\n    \"Analyze the impact of high commercial housing prices in Beijing from 1999 to 2009 using the price-to-income ratio and housing affordability index.\",\n    \"Investigate the reasons for high commercial housing prices and discuss potential policies to improve housing affordability.\"\n  ],\n  \"methods\": [\n    \"Adopt the price-to-income ratio and housing affordability index to analyze the impact of high commercial housing prices.\",\n    \"Examine the reasons for high commercial housing prices and discuss potential policies to improve housing affordability.\"\n  ],\n  \"results\": [\n    \"The price-to-income ratio fluctuated between 6.7 and 15, and the housing affordability index ranged between 143 and 71 during the period from 1999 to 2009.\",\n    \"The municipal government's housing provision policies are unlikely to solve the housing affordability problem in the short term.\"\n  ],\n  \"research_subject\": \"Commercial housing affordability in Beijing from 1999 to 2009\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"China's rapid economic growth has led to substantial housing price increases that have significantly impacted housing affordability.\",\n    \"Beijing's high commercial housing prices have become a major concern since the welfare housing reform in 1998.\"\n  ],\n  \"objectives\": [\n    \"Analyze the impact of high commercial housing prices on housing affordability in Beijing from 1999 to 2009.\",\n    \"Examine the reasons for high commercial housing prices and discuss potential policies to improve housing affordability.\"\n  ],\n  \"methods\": [\n    \"Apply price-to-income ratio and housing affordability index to measure housing affordability trends.\",\n    \"Analyze housing market data and government housing provision policies during the study period.\"\n  ],\n  \"results\": [\n    \"Price-to-income ratio fluctuated between 6.7 and 15, while housing affordability index ranged from 71 to 143 during 1999-2009.\",\n    \"Municipal government housing provision policies are unlikely to solve housing affordability problems in the short term.\"\n  ],\n  \"research_subject\": \"Commercial housing affordability in post-welfare housing era Beijing\"\n}\n```"
+}

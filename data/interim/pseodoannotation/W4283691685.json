@@ -1,0 +1,71 @@
+{
+  "index": 43,
+  "title": "COVID-19 and head and neck cancer management. Experience of an oncological hub comprehensive cancer centre and literature review",
+  "abstract": "COVID-19 e gestione dei tumori testa e collo. Esperienza di un hub oncologico, Centro di riferimento terziario, e review della letteratura.Il COVID-19 ha avuto un grave impatto sul sistema sanitario di molti paesi industrializzati e ha contribuito al ritardo di esecuzione di numerosi trattamenti e procedure chirurgiche in elezione. La maggior parte delle associazioni chirurgiche nazionali e internazionali ha prontamente redatto delle linee guida per cercare di preservare i tempi di attesa relativi a chirurgie inderogabili. La Regione Lombardia, epicentro dell’epidemia di COVID-19 in Italia, ha creato percorsi differenziati per pazienti COVID-19 e non COVID-19 basati su un sistema di centri hub/spoke. Presso il Dipartimento di Otorinolaringoiatria e Chirurgia Cervico-Facciale dello IEO, divenuto hub oncologico, abbiamo dovuto riorganizzare i nostri percorsi di assistenza, per garantire le cure standard ai malati di cancro. Sono stati sviluppati protocolli specifici per la gestione dei pazienti regionali ed extraregionali, costretti all’autoisolamento a causa della politica di lockdown e “stay-at-home”. Sono state create specifiche traiettorie di assistenza per i malati di cancro provenienti da altri ospedali e necessitanti di chirurgie salvavita. In questo lavoro, riportiamo i risultati relativi al trattamento dei pazienti oncologici, testa collo, presso la Divisione di Otorinolaringoiatria e Chirurgia Cervico-Facciale dell’Istituto Europeo di Oncologia, di Milano, con l’obiettivo di valutare l’efficacia di tutte le misure adottate come hub oncologico durante il COVID-19 e confrontare i nostri dati con quelli della letteratura internazionale.COVID-19 severely impacted the healthcare system in most industrialised countries and contributed to the postponement of many elective healthcare services. As most national and international surgical associations promptly drew up guidelines to preserve time-dependent surgery, the Lombardy Region, the epicentre of the outbreak of COVID-19 in Italy, also created differentiated pathways for COVID-19 and non-COVID-19-related health services based on a hub/spoke design. At the Department of Otorhinolaryngology and Head and Neck Surgery of the European Institute of Oncology (IEO), we needed to rearrange our assistance pathways, as a designated oncological hub, to guarantee gold-standard treatments to cancer patients. Specific protocols were developed for the management of regional patients and extra-regional patients confined to self-isolation due to the lockdown and stay-at-home policy. Specific assistance trajectories were created for cancer patients coming from other hospitals needing life-saving procedures. Herein, we report the outcomes of patients undergoing head and neck treatments at the IEO Department of Otorhinolaryngology and Head and Neck Surgery, with the aim to evaluate the efficacy of all the measures adopted as an oncological hub during the COVID-19 pandemic and compare our data with that in the international peer-reviewed published medical literature regarding the consequences of COVID-19 on the management of head and neck cancer patients.",
+  "llama_json": {
+    "motivations": [
+      "The COVID-19 pandemic severely impacted the healthcare system, leading to delays in elective treatments and procedures, including those for head and neck cancer patients.",
+      "There is a need to evaluate the effectiveness of measures adopted by oncological hubs during the pandemic to ensure continued provision of standard care to cancer patients."
+    ],
+    "objectives": [
+      "To report the experience of an oncological hub in managing head and neck cancer patients during the COVID-19 pandemic.",
+      "To evaluate the efficacy of measures adopted by the hub to guarantee standard treatments to cancer patients.",
+      "To compare the outcomes with data from the international literature regarding the impact of COVID-19 on head and neck cancer management."
+    ],
+    "methods": [
+      "Implementation of specific protocols for managing regional and extra-regional patients, including those in self-isolation due to lockdown and stay-at-home policies.",
+      "Creation of differentiated pathways for COVID-19 and non-COVID-19 patients based on a hub/spoke design.",
+      "Rearrangement of assistance pathways to ensure continued provision of gold-standard treatments to cancer patients."
+    ],
+    "results": [
+      "Evaluation of the effectiveness of measures adopted by the oncological hub in managing head and neck cancer patients during the pandemic.",
+      "Comparison of outcomes with international data to inform best practices for cancer care during public health crises."
+    ],
+    "research_subject": "Management of head and neck cancer patients during the COVID-19 pandemic"
+  },
+  "openai_json": {
+    "motivations": [
+      "COVID-19 has significantly impacted the healthcare system, leading to the postponement of many elective healthcare services, including treatments for head and neck cancer patients.",
+      "There is a need to evaluate the efficacy of the measures adopted by oncological hubs during the COVID-19 pandemic in managing head and neck cancer patients."
+    ],
+    "objectives": [
+      "Rearrange assistance pathways at the Department of Otorhinolaryngology and Head and Neck Surgery of the European Institute of Oncology to ensure standard treatments for cancer patients during the pandemic.",
+      "Develop specific protocols for managing regional and extra-regional patients confined to self-isolation due to lockdown and stay-at-home policies.",
+      "Evaluate the outcomes of patients undergoing head and neck treatments during the COVID-19 pandemic and compare these data with international literature."
+    ],
+    "methods": [
+      "Implement differentiated pathways for COVID-19 and non-COVID-19-related health services based on a hub/spoke design.",
+      "Create specific assistance trajectories for cancer patients coming from other hospitals needing life-saving procedures.",
+      "Analyze the outcomes of patients undergoing head and neck treatments at the IEO Department of Otorhinolaryngology and Head and Neck Surgery."
+    ],
+    "results": [
+      "Provide insights into the impact of COVID-19 on the management of head and neck cancer patients.",
+      "Evaluate the effectiveness of the measures adopted by oncological hubs during the pandemic.",
+      "Contribute to the body of knowledge on cancer patient management during health crises."
+    ],
+    "research_subject": "Management of head and neck cancer patients during the COVID-19 pandemic"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "COVID-19 severely disrupted healthcare systems and caused delays in elective surgical procedures and cancer treatments.",
+      "Head and neck cancer patients required continued access to time-sensitive, life-saving treatments despite pandemic-related healthcare system constraints."
+    ],
+    "objectives": [
+      "Evaluate the effectiveness of measures implemented at an oncological hub for managing head and neck cancer patients during the COVID-19 pandemic.",
+      "Compare the outcomes and management strategies with international literature on COVID-19's impact on head and neck cancer care."
+    ],
+    "methods": [
+      "Reorganized care pathways using a hub/spoke system to separate COVID-19 and non-COVID-19 patients while maintaining standard cancer treatments.",
+      "Developed specific protocols for managing regional and extra-regional patients affected by lockdown restrictions.",
+      "Created dedicated assistance trajectories for cancer patients from other hospitals requiring urgent procedures."
+    ],
+    "results": [
+      "Successfully maintained gold-standard treatments for head and neck cancer patients during the pandemic through reorganized care pathways.",
+      "Demonstrated the efficacy of hub-based oncological care delivery systems in preserving essential cancer services during healthcare crises."
+    ],
+    "research_subject": "Head and neck cancer management at an oncological hub during the COVID-19 pandemic"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The COVID-19 pandemic severely impacted the healthcare system, leading to delays in elective treatments and procedures, including those for head and neck cancer patients.\",\n    \"There is a need to evaluate the effectiveness of measures adopted by oncological hubs during the pandemic to ensure continued provision of standard care to cancer patients.\"\n  ],\n  \"objectives\": [\n    \"To report the experience of an oncological hub in managing head and neck cancer patients during the COVID-19 pandemic.\",\n    \"To evaluate the efficacy of measures adopted by the hub to guarantee standard treatments to cancer patients.\",\n    \"To compare the outcomes with data from the international literature regarding the impact of COVID-19 on head and neck cancer management.\"\n  ],\n  \"methods\": [\n    \"Implementation of specific protocols for managing regional and extra-regional patients, including those in self-isolation due to lockdown and stay-at-home policies.\",\n    \"Creation of differentiated pathways for COVID-19 and non-COVID-19 patients based on a hub/spoke design.\",\n    \"Rearrangement of assistance pathways to ensure continued provision of gold-standard treatments to cancer patients.\"\n  ],\n  \"results\": [\n    \"Evaluation of the effectiveness of measures adopted by the oncological hub in managing head and neck cancer patients during the pandemic.\",\n    \"Comparison of outcomes with international data to inform best practices for cancer care during public health crises.\"\n  ],\n  \"research_subject\": \"Management of head and neck cancer patients during the COVID-19 pandemic\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"COVID-19 has significantly impacted the healthcare system, leading to the postponement of many elective healthcare services, including treatments for head and neck cancer patients.\",\n    \"There is a need to evaluate the efficacy of the measures adopted by oncological hubs during the COVID-19 pandemic in managing head and neck cancer patients.\"\n  ],\n  \"objectives\": [\n    \"Rearrange assistance pathways at the Department of Otorhinolaryngology and Head and Neck Surgery of the European Institute of Oncology to ensure standard treatments for cancer patients during the pandemic.\",\n    \"Develop specific protocols for managing regional and extra-regional patients confined to self-isolation due to lockdown and stay-at-home policies.\",\n    \"Evaluate the outcomes of patients undergoing head and neck treatments during the COVID-19 pandemic and compare these data with international literature.\"\n  ],\n  \"methods\": [\n    \"Implement differentiated pathways for COVID-19 and non-COVID-19-related health services based on a hub/spoke design.\",\n    \"Create specific assistance trajectories for cancer patients coming from other hospitals needing life-saving procedures.\",\n    \"Analyze the outcomes of patients undergoing head and neck treatments at the IEO Department of Otorhinolaryngology and Head and Neck Surgery.\"\n  ],\n  \"results\": [\n    \"Provide insights into the impact of COVID-19 on the management of head and neck cancer patients.\",\n    \"Evaluate the effectiveness of the measures adopted by oncological hubs during the pandemic.\",\n    \"Contribute to the body of knowledge on cancer patient management during health crises.\"\n  ],\n  \"research_subject\": \"Management of head and neck cancer patients during the COVID-19 pandemic\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"COVID-19 severely disrupted healthcare systems and caused delays in elective surgical procedures and cancer treatments.\",\n    \"Head and neck cancer patients required continued access to time-sensitive, life-saving treatments despite pandemic-related healthcare system constraints.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the effectiveness of measures implemented at an oncological hub for managing head and neck cancer patients during the COVID-19 pandemic.\",\n    \"Compare the outcomes and management strategies with international literature on COVID-19's impact on head and neck cancer care.\"\n  ],\n  \"methods\": [\n    \"Reorganized care pathways using a hub/spoke system to separate COVID-19 and non-COVID-19 patients while maintaining standard cancer treatments.\",\n    \"Developed specific protocols for managing regional and extra-regional patients affected by lockdown restrictions.\",\n    \"Created dedicated assistance trajectories for cancer patients from other hospitals requiring urgent procedures.\"\n  ],\n  \"results\": [\n    \"Successfully maintained gold-standard treatments for head and neck cancer patients during the pandemic through reorganized care pathways.\",\n    \"Demonstrated the efficacy of hub-based oncological care delivery systems in preserving essential cancer services during healthcare crises.\"\n  ],\n  \"research_subject\": \"Head and neck cancer management at an oncological hub during the COVID-19 pandemic\"\n}\n```"
+}

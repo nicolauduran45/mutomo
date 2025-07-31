@@ -1,0 +1,58 @@
+{
+  "index": 492,
+  "title": "COMPOSITIONS CONTAINING DIALKYL AMINO ACID ESTER SALTS.",
+  "abstract": "Compositions comprising at least one dialkyl amino acid ester salt as a cationic active are disclosed. The compositions are useful for hair care, as well as in other applications, such as cleaning compositions, fabric softening compositions, and skin care compositions. The dialkyl amino acid ester salts are derived from the esterification reaction of an amino acid having at least two carboxylic acid groups with a fatty alcohol, wherein the amine group of the amino acid is protonated with an acid. The compositions may further include a glyceride component comprising monoglycerides, diglycerides, or a combination thereof.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective cationic actives in hair care and other applications such as cleaning, fabric softening, and skin care compositions."
+    ],
+    "objectives": [
+      "Develop compositions containing dialkyl amino acid ester salts as cationic actives for various applications."
+    ],
+    "methods": [
+      "Derive dialkyl amino acid ester salts through the esterification reaction of amino acids with fatty alcohols and protonation with an acid.",
+      "Combine dialkyl amino acid ester salts with glyceride components comprising monoglycerides, diglycerides, or a combination thereof."
+    ],
+    "results": [
+      "Provide effective compositions for hair care, cleaning, fabric softening, and skin care applications."
+    ],
+    "research_subject": "Dialkyl amino acid ester salts as cationic actives in various compositions"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective compositions for hair care, cleaning, fabric softening, and skin care applications.",
+      "The potential of dialkyl amino acid ester salts as a cationic active in these compositions is yet to be fully explored."
+    ],
+    "objectives": [
+      "To develop compositions containing at least one dialkyl amino acid ester salt as a cationic active.",
+      "To explore the utility of these compositions in various applications such as hair care, cleaning, fabric softening, and skin care."
+    ],
+    "methods": [
+      "The dialkyl amino acid ester salts are derived from the esterification reaction of an amino acid with a fatty alcohol, with the amine group of the amino acid being protonated with an acid.",
+      "The compositions may also include a glyceride component comprising monoglycerides, diglycerides, or a combination thereof."
+    ],
+    "results": [
+      "The developed compositions containing dialkyl amino acid ester salts can be used effectively in various applications such as hair care, cleaning, fabric softening, and skin care."
+    ],
+    "research_subject": "Compositions containing dialkyl amino acid ester salts for various applications"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for effective cationic active ingredients in personal care and cleaning applications that can provide improved performance in hair care, skin care, and fabric softening."
+    ],
+    "objectives": [
+      "Develop compositions containing dialkyl amino acid ester salts as cationic active ingredients for use in hair care, cleaning, fabric softening, and skin care applications."
+    ],
+    "methods": [
+      "Synthesize dialkyl amino acid ester salts through esterification of amino acids containing at least two carboxylic acid groups with fatty alcohols, followed by protonation of the amine group.",
+      "Formulate compositions incorporating these salts, optionally with glyceride components including monoglycerides and diglycerides."
+    ],
+    "results": [
+      "The compositions provide effective cationic activity suitable for multiple applications including hair care, skin care, fabric softening, and cleaning products."
+    ],
+    "research_subject": "Dialkyl amino acid ester salt compositions for personal care and cleaning applications"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective cationic actives in hair care and other applications such as cleaning, fabric softening, and skin care compositions.\"\n  ],\n  \"objectives\": [\n    \"Develop compositions containing dialkyl amino acid ester salts as cationic actives for various applications.\"\n  ],\n  \"methods\": [\n    \"Derive dialkyl amino acid ester salts through the esterification reaction of amino acids with fatty alcohols and protonation with an acid.\",\n    \"Combine dialkyl amino acid ester salts with glyceride components comprising monoglycerides, diglycerides, or a combination thereof.\"\n  ],\n  \"results\": [\n    \"Provide effective compositions for hair care, cleaning, fabric softening, and skin care applications.\"\n  ],\n  \"research_subject\": \"Dialkyl amino acid ester salts as cationic actives in various compositions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective compositions for hair care, cleaning, fabric softening, and skin care applications.\",\n    \"The potential of dialkyl amino acid ester salts as a cationic active in these compositions is yet to be fully explored.\"\n  ],\n  \"objectives\": [\n    \"To develop compositions containing at least one dialkyl amino acid ester salt as a cationic active.\",\n    \"To explore the utility of these compositions in various applications such as hair care, cleaning, fabric softening, and skin care.\"\n  ],\n  \"methods\": [\n    \"The dialkyl amino acid ester salts are derived from the esterification reaction of an amino acid with a fatty alcohol, with the amine group of the amino acid being protonated with an acid.\",\n    \"The compositions may also include a glyceride component comprising monoglycerides, diglycerides, or a combination thereof.\"\n  ],\n  \"results\": [\n    \"The developed compositions containing dialkyl amino acid ester salts can be used effectively in various applications such as hair care, cleaning, fabric softening, and skin care.\"\n  ],\n  \"research_subject\": \"Compositions containing dialkyl amino acid ester salts for various applications\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective cationic active ingredients in personal care and cleaning applications that can provide improved performance in hair care, skin care, and fabric softening.\"\n  ],\n  \"objectives\": [\n    \"Develop compositions containing dialkyl amino acid ester salts as cationic active ingredients for use in hair care, cleaning, fabric softening, and skin care applications.\"\n  ],\n  \"methods\": [\n    \"Synthesize dialkyl amino acid ester salts through esterification of amino acids containing at least two carboxylic acid groups with fatty alcohols, followed by protonation of the amine group.\",\n    \"Formulate compositions incorporating these salts, optionally with glyceride components including monoglycerides and diglycerides.\"\n  ],\n  \"results\": [\n    \"The compositions provide effective cationic activity suitable for multiple applications including hair care, skin care, fabric softening, and cleaning products.\"\n  ],\n  \"research_subject\": \"Dialkyl amino acid ester salt compositions for personal care and cleaning applications\"\n}\n```"
+}

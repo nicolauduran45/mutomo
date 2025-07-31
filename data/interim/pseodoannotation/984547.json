@@ -1,0 +1,75 @@
+{
+  "index": 74,
+  "title": "Airborne artificial intelligence for more efficient, safer and sustainable inspection and surveying of energy industrial areas",
+  "abstract": "The energy industry relies on inspection and surveying activities to evaluate the condition of infrastructures and land surfaces. However, these activities are mainly performed manually by in-person missions, a time-consuming and costly process that may yields to incomplete and poor-quality results without possibilities of forecasting, as well as posing a safety threat to personnel performing these tasks. Towards that direction, drones - technically described as Unmanned Aerial Vehicles (UAVs) - are evolving beyond their military origin extending their offerings to commercial sectors. Companies are starting to realize that they constitute not only a replacement to time-consuming, costly and dangerous in-person missions but also an excellent alternative for accurate real-time data collection. With MYRIAD we disrupt commercial drones’ market by introducing an innovative drone-based inspection and surveying system to be applied as valuable business tool in a number of energy sectors. By combining the efficiency, cost benefits and safety of UAVs with insightful aerial data and powerful software with AI, MYRIAD enables decision making for our customers based on real-time anomalies detection and forecasting (Airborne Artificial Intelligence). With MYRIAD drone we propose a 24/7 fully autonomous inspection and surveying able to reduce associated workload and operational costs at 50-75% compared to traditional manual methods while minimizing personnel risks. Furthermore, through our proprietary software we offer on-demand acquisition of high-quality aerial data and real-time analysis, interpretation and forecasting of anomalies - powerful datasets – to guarantee the successful operation of energy related companies.",
+  "llama_json": {
+    "motivations": [
+      "Manual inspection and surveying of energy industrial areas are time-consuming, costly, and pose safety threats to personnel.",
+      "Current methods yield incomplete and poor-quality results without possibilities of forecasting."
+    ],
+    "objectives": [
+      "Develop an innovative drone-based inspection and surveying system for the energy sector.",
+      "Combine UAV efficiency with AI-powered software for real-time anomaly detection and forecasting.",
+      "Reduce workload and operational costs while minimizing personnel risks."
+    ],
+    "methods": [
+      "Utilize drones (UAVs) equipped with AI-powered software for autonomous inspection and surveying.",
+      "Develop proprietary software for on-demand acquisition and real-time analysis of high-quality aerial data.",
+      "Implement a fully autonomous 24/7 inspection and surveying system."
+    ],
+    "results": [
+      "Reduce associated workload and operational costs by 50-75% compared to traditional manual methods.",
+      "Minimize personnel risks and improve overall safety.",
+      "Enable real-time decision making based on anomaly detection and forecasting."
+    ],
+    "research_subject": "Airborne artificial intelligence for efficient and sustainable inspection of energy industrial areas"
+  },
+  "openai_json": {
+    "motivations": [
+      "Manual inspection and surveying activities in the energy industry are time-consuming, costly, and potentially unsafe.",
+      "Current methods may yield incomplete and poor-quality results without forecasting capabilities.",
+      "There is a growing recognition of the potential of drones as a safer, more efficient alternative for data collection in the energy industry."
+    ],
+    "objectives": [
+      "Introduce an innovative drone-based inspection and surveying system for use in various energy sectors.",
+      "Combine the efficiency, cost benefits, and safety of drones with powerful AI software for real-time anomaly detection and forecasting.",
+      "Reduce workload and operational costs by 50-75% compared to traditional manual methods while minimizing personnel risks."
+    ],
+    "methods": [
+      "Use Unmanned Aerial Vehicles (UAVs) for efficient and safe data collection in energy industrial areas.",
+      "Implement AI in the analysis of aerial data for real-time anomaly detection and forecasting.",
+      "Develop a proprietary software for on-demand acquisition of high-quality aerial data and real-time analysis."
+    ],
+    "results": [
+      "Enable more efficient and safer inspection and surveying activities in the energy industry.",
+      "Provide real-time analysis, interpretation, and forecasting of anomalies to support decision-making in energy-related companies.",
+      "Significantly reduce operational costs and workload compared to traditional manual methods."
+    ],
+    "research_subject": "Drone-based inspection and surveying in the energy industry using AI"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Manual inspection and surveying of energy infrastructure is time-consuming, costly, and poses safety risks to personnel while often yielding incomplete and poor-quality results.",
+      "Current inspection methods lack real-time data collection and forecasting capabilities needed for effective decision-making in the energy industry."
+    ],
+    "objectives": [
+      "Develop an innovative drone-based inspection and surveying system that combines UAV technology with artificial intelligence for the energy sector.",
+      "Enable real-time anomaly detection, data analysis, and forecasting through airborne artificial intelligence to support decision-making.",
+      "Reduce operational costs and workload while improving safety and data quality compared to traditional manual inspection methods."
+    ],
+    "methods": [
+      "Deploy fully autonomous UAVs equipped with advanced sensors for 24/7 inspection and surveying operations.",
+      "Integrate proprietary software with AI algorithms for real-time data acquisition, analysis, and anomaly detection.",
+      "Implement airborne artificial intelligence systems for predictive forecasting and interpretation of infrastructure conditions."
+    ],
+    "results": [
+      "Achieve 50-75% reduction in operational costs and workload compared to traditional manual inspection methods.",
+      "Minimize safety risks to personnel while providing high-quality, real-time aerial data for decision-making.",
+      "Enable continuous monitoring and predictive maintenance of energy infrastructure through automated anomaly detection and forecasting."
+    ],
+    "research_subject": "Drone-based artificial intelligence system for autonomous inspection and surveying of energy infrastructure"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Manual inspection and surveying of energy industrial areas are time-consuming, costly, and pose safety threats to personnel.\",\n    \"Current methods yield incomplete and poor-quality results without possibilities of forecasting.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative drone-based inspection and surveying system for the energy sector.\",\n    \"Combine UAV efficiency with AI-powered software for real-time anomaly detection and forecasting.\",\n    \"Reduce workload and operational costs while minimizing personnel risks.\"\n  ],\n  \"methods\": [\n    \"Utilize drones (UAVs) equipped with AI-powered software for autonomous inspection and surveying.\",\n    \"Develop proprietary software for on-demand acquisition and real-time analysis of high-quality aerial data.\",\n    \"Implement a fully autonomous 24/7 inspection and surveying system.\"\n  ],\n  \"results\": [\n    \"Reduce associated workload and operational costs by 50-75% compared to traditional manual methods.\",\n    \"Minimize personnel risks and improve overall safety.\",\n    \"Enable real-time decision making based on anomaly detection and forecasting.\"\n  ],\n  \"research_subject\": \"Airborne artificial intelligence for efficient and sustainable inspection of energy industrial areas\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Manual inspection and surveying activities in the energy industry are time-consuming, costly, and potentially unsafe.\",\n    \"Current methods may yield incomplete and poor-quality results without forecasting capabilities.\",\n    \"There is a growing recognition of the potential of drones as a safer, more efficient alternative for data collection in the energy industry.\"\n  ],\n  \"objectives\": [\n    \"Introduce an innovative drone-based inspection and surveying system for use in various energy sectors.\",\n    \"Combine the efficiency, cost benefits, and safety of drones with powerful AI software for real-time anomaly detection and forecasting.\",\n    \"Reduce workload and operational costs by 50-75% compared to traditional manual methods while minimizing personnel risks.\"\n  ],\n  \"methods\": [\n    \"Use Unmanned Aerial Vehicles (UAVs) for efficient and safe data collection in energy industrial areas.\",\n    \"Implement AI in the analysis of aerial data for real-time anomaly detection and forecasting.\",\n    \"Develop a proprietary software for on-demand acquisition of high-quality aerial data and real-time analysis.\"\n  ],\n  \"results\": [\n    \"Enable more efficient and safer inspection and surveying activities in the energy industry.\",\n    \"Provide real-time analysis, interpretation, and forecasting of anomalies to support decision-making in energy-related companies.\",\n    \"Significantly reduce operational costs and workload compared to traditional manual methods.\"\n  ],\n  \"research_subject\": \"Drone-based inspection and surveying in the energy industry using AI\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Manual inspection and surveying of energy infrastructure is time-consuming, costly, and poses safety risks to personnel while often yielding incomplete and poor-quality results.\",\n    \"Current inspection methods lack real-time data collection and forecasting capabilities needed for effective decision-making in the energy industry.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative drone-based inspection and surveying system that combines UAV technology with artificial intelligence for the energy sector.\",\n    \"Enable real-time anomaly detection, data analysis, and forecasting through airborne artificial intelligence to support decision-making.\",\n    \"Reduce operational costs and workload while improving safety and data quality compared to traditional manual inspection methods.\"\n  ],\n  \"methods\": [\n    \"Deploy fully autonomous UAVs equipped with advanced sensors for 24/7 inspection and surveying operations.\",\n    \"Integrate proprietary software with AI algorithms for real-time data acquisition, analysis, and anomaly detection.\",\n    \"Implement airborne artificial intelligence systems for predictive forecasting and interpretation of infrastructure conditions.\"\n  ],\n  \"results\": [\n    \"Achieve 50-75% reduction in operational costs and workload compared to traditional manual inspection methods.\",\n    \"Minimize safety risks to personnel while providing high-quality, real-time aerial data for decision-making.\",\n    \"Enable continuous monitoring and predictive maintenance of energy infrastructure through automated anomaly detection and forecasting.\"\n  ],\n  \"research_subject\": \"Drone-based artificial intelligence system for autonomous inspection and surveying of energy infrastructure\"\n}\n```"
+}

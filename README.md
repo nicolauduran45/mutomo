@@ -16,14 +16,14 @@
 To use conda for full reproducibility:
 
 ```bash
-conda env create -f environment.yml --name topic-labelling
-conda activate topic-labelling
+conda env create -f environment.yml --name mutomo
+conda activate mutomo
 ```
 
 To update/export your environment:
 
 ```bash
-conda env export --name topic-labelling > environment.yml
+conda env export --name huggingface-gpu > environment.yml
 ```
 
 ## 📝Project Tasks

@@ -1,0 +1,67 @@
+{
+  "index": 200,
+  "title": "Family history of cancer and risk of sporadic differentiated thyroid carcinoma",
+  "abstract": "Thyroid cancer incidence in the United States, particularly in women, has increased dramatically since the 1980s. Although the causes of thyroid cancer in most patients remain largely unknown, evidence suggests the existence of an inherited predisposition to development of differentiated thyroid carcinoma (DTC). Therefore, the authors explored the association between sporadic DTC and family history of cancer.In a retrospective hospital-based case-control study of prospectively recruited subjects who completed the study questionnaire upon enrollment, unconditional logistic regression was used to calculate odds ratios (ORs) and 95% confidence intervals (CIs) as estimates of the DTC risk associated with first-degree family history of cancer.The study included 288 patients with sporadic DTC and 591 cancer-free controls. Family history of thyroid cancer in first-degree relatives was associated with increased DTC risk (adjusted OR, 4.1; 95% CI, 1.7-9.9). All DTC cases in patients with a first-degree family history of thyroid cancer were cases of papillary thyroid carcinoma (PTC) (adjusted OR, 4.6; 95% CI, 1.9-11.1). Notably, the risk of PTC was highest in subjects with a family history of thyroid cancer in siblings (OR, 7.4; 95% CI, 1.8-30.4). In addition, multifocal primary tumor was more common among PTC patients with first-degree family history of thyroid cancer than among PTC patients with no first-degree family history of thyroid cancer (68.8% vs 35.5%, P = .01).The study suggests that family history of thyroid cancer in first-degree relatives, particularly in siblings, is associated with an increased risk of sporadic PTC.",
+  "llama_json": {
+    "motivations": [
+      "Thyroid cancer incidence has increased significantly in the United States, particularly in women, since the 1980s, with largely unknown causes.",
+      "There is evidence suggesting an inherited predisposition to the development of differentiated thyroid carcinoma (DTC)."
+    ],
+    "objectives": [
+      "Explore the association between sporadic DTC and family history of cancer.",
+      "Determine the risk of DTC associated with first-degree family history of cancer."
+    ],
+    "methods": [
+      "Conduct a retrospective hospital-based case-control study using prospectively recruited subjects.",
+      "Use unconditional logistic regression to calculate odds ratios and 95% confidence intervals as estimates of DTC risk.",
+      "Analyze the association between family history of thyroid cancer in first-degree relatives and DTC risk."
+    ],
+    "results": [
+      "Family history of thyroid cancer in first-degree relatives is associated with increased DTC risk, particularly for papillary thyroid carcinoma (PTC).",
+      "The risk of PTC is highest in subjects with a family history of thyroid cancer in siblings.",
+      "Multifocal primary tumor is more common among PTC patients with first-degree family history of thyroid cancer."
+    ],
+    "research_subject": "Association between family history of cancer and risk of sporadic differentiated thyroid carcinoma"
+  },
+  "openai_json": {
+    "motivations": [
+      "Thyroid cancer incidence has increased dramatically since the 1980s, particularly in women, with the causes largely unknown.",
+      "There is evidence suggesting an inherited predisposition to differentiated thyroid carcinoma (DTC), necessitating further exploration."
+    ],
+    "objectives": [
+      "Explore the association between sporadic DTC and family history of cancer.",
+      "Investigate the risk of DTC associated with first-degree family history of cancer."
+    ],
+    "methods": [
+      "Conduct a retrospective hospital-based case-control study of prospectively recruited subjects.",
+      "Use unconditional logistic regression to calculate odds ratios (ORs) and 95% confidence intervals (CIs) as estimates of the DTC risk."
+    ],
+    "results": [
+      "Family history of thyroid cancer in first-degree relatives is associated with increased DTC risk.",
+      "The risk of papillary thyroid carcinoma (PTC) is highest in subjects with a family history of thyroid cancer in siblings.",
+      "Multifocal primary tumor is more common among PTC patients with first-degree family history of thyroid cancer."
+    ],
+    "research_subject": "Association between family history of cancer and risk of sporadic differentiated thyroid carcinoma"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Thyroid cancer incidence has increased dramatically in the United States since the 1980s, particularly among women, with causes remaining largely unknown.",
+      "Evidence suggests an inherited predisposition to differentiated thyroid carcinoma, necessitating investigation of familial cancer associations."
+    ],
+    "objectives": [
+      "Explore the association between sporadic differentiated thyroid carcinoma and family history of cancer in first-degree relatives."
+    ],
+    "methods": [
+      "Conducted a retrospective hospital-based case-control study with prospectively recruited subjects who completed questionnaires upon enrollment.",
+      "Used unconditional logistic regression to calculate odds ratios and confidence intervals for assessing differentiated thyroid carcinoma risk associated with family history."
+    ],
+    "results": [
+      "Family history of thyroid cancer in first-degree relatives was associated with a 4.1-fold increased risk of differentiated thyroid carcinoma, with the highest risk observed for those with affected siblings.",
+      "Patients with papillary thyroid carcinoma and first-degree family history of thyroid cancer showed significantly higher rates of multifocal primary tumors compared to those without family history."
+    ],
+    "research_subject": "Association between family history of cancer and risk of sporadic differentiated thyroid carcinoma"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Thyroid cancer incidence has increased significantly in the United States, particularly in women, since the 1980s, with largely unknown causes.\",\n    \"There is evidence suggesting an inherited predisposition to the development of differentiated thyroid carcinoma (DTC).\"\n  ],\n  \"objectives\": [\n    \"Explore the association between sporadic DTC and family history of cancer.\",\n    \"Determine the risk of DTC associated with first-degree family history of cancer.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective hospital-based case-control study using prospectively recruited subjects.\",\n    \"Use unconditional logistic regression to calculate odds ratios and 95% confidence intervals as estimates of DTC risk.\",\n    \"Analyze the association between family history of thyroid cancer in first-degree relatives and DTC risk.\"\n  ],\n  \"results\": [\n    \"Family history of thyroid cancer in first-degree relatives is associated with increased DTC risk, particularly for papillary thyroid carcinoma (PTC).\",\n    \"The risk of PTC is highest in subjects with a family history of thyroid cancer in siblings.\",\n    \"Multifocal primary tumor is more common among PTC patients with first-degree family history of thyroid cancer.\"\n  ],\n  \"research_subject\": \"Association between family history of cancer and risk of sporadic differentiated thyroid carcinoma\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Thyroid cancer incidence has increased dramatically since the 1980s, particularly in women, with the causes largely unknown.\",\n    \"There is evidence suggesting an inherited predisposition to differentiated thyroid carcinoma (DTC), necessitating further exploration.\"\n  ],\n  \"objectives\": [\n    \"Explore the association between sporadic DTC and family history of cancer.\",\n    \"Investigate the risk of DTC associated with first-degree family history of cancer.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective hospital-based case-control study of prospectively recruited subjects.\",\n    \"Use unconditional logistic regression to calculate odds ratios (ORs) and 95% confidence intervals (CIs) as estimates of the DTC risk.\"\n  ],\n  \"results\": [\n    \"Family history of thyroid cancer in first-degree relatives is associated with increased DTC risk.\",\n    \"The risk of papillary thyroid carcinoma (PTC) is highest in subjects with a family history of thyroid cancer in siblings.\",\n    \"Multifocal primary tumor is more common among PTC patients with first-degree family history of thyroid cancer.\"\n  ],\n  \"research_subject\": \"Association between family history of cancer and risk of sporadic differentiated thyroid carcinoma\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Thyroid cancer incidence has increased dramatically in the United States since the 1980s, particularly among women, with causes remaining largely unknown.\",\n    \"Evidence suggests an inherited predisposition to differentiated thyroid carcinoma, necessitating investigation of familial cancer associations.\"\n  ],\n  \"objectives\": [\n    \"Explore the association between sporadic differentiated thyroid carcinoma and family history of cancer in first-degree relatives.\"\n  ],\n  \"methods\": [\n    \"Conducted a retrospective hospital-based case-control study with prospectively recruited subjects who completed questionnaires upon enrollment.\",\n    \"Used unconditional logistic regression to calculate odds ratios and confidence intervals for assessing differentiated thyroid carcinoma risk associated with family history.\"\n  ],\n  \"results\": [\n    \"Family history of thyroid cancer in first-degree relatives was associated with a 4.1-fold increased risk of differentiated thyroid carcinoma, with the highest risk observed for those with affected siblings.\",\n    \"Patients with papillary thyroid carcinoma and first-degree family history of thyroid cancer showed significantly higher rates of multifocal primary tumors compared to those without family history.\"\n  ],\n  \"research_subject\": \"Association between family history of cancer and risk of sporadic differentiated thyroid carcinoma\"\n}\n```"
+}

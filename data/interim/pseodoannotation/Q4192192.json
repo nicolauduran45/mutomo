@@ -1,0 +1,66 @@
+{
+  "index": 424,
+  "title": "SENSORSAIL",
+  "abstract": "KOYRE Š UMA INOVADORA START-UP NASCIDA EM MILÃO EM MEADOS DE 2018 PARA O DESENVOLVIMENTO DE NOVOS SENSORES PARA A MEDIÇÃO DE PARÂMETROS FÍSICOS E FISIOLÓGICOS, A SENSORIZAÇÃO DE TECIDOS E MATERIAIS COMPÓSITOS E O DESENVOLVIMENTO DE SISTEMAS AVANÇADOS DE COLETA E ANÁLISE DE DADOS NA INDÚSTRIA 4.0.O PRINCIPAL OBJETIVO DO PROJETO É ADQUIRIR OS PRINCIPAIS COMPONENTES DO SISTEMA SENSORSAIL, TANTO NO QUE DIZ RESPEITO À PARTE DE MATERIAIS E SENSORES, QUANTO AO SOFTWARE (E APLICATIVOS RELACIONADOS) CAPAZES DE COLETAR, PROCESSAR E TRANSMITIR OS DADOS COLETADOS A FIM DE FACILITAR A SUA UTILIZAÇÃO TANTO PELOS UTENTES FINAIS COMO PELAS EMPRESAS DO SETOR NÁUTICO, BEM COMO POR EMPRESAS DO SETOR NÁUTICO, BEM COMO POR EMPRESAS DO SETOR NÁUTICO (EM PRIMEIRO LUGAR, A EMPRESA INTEGRADA E OS NAVIOS TRADICIONAIS NÃO SÃO CAPAZES DE MONITORAR OS NAVIOS TRADICIONAIS A FIM DE NÃO SEREM CAPAZES DE MONITORAR OS SEUS DADOS, TANTO NO SETOR NÁUTICO COMO POR EMPRESAS DO SETOR NÁUTICO.",
+  "llama_json": {
+    "motivations": [
+      "Traditional sailing vessels lack the ability to monitor and collect data on physical and physiological parameters, hindering their performance and safety.",
+      "There is a need for innovative sensors and data analysis systems to support the development of advanced sailing vessels and improve the overall sailing experience."
+    ],
+    "objectives": [
+      "Acquire the main components of the SENSORSAIL system, including materials, sensors, and software, to facilitate data collection, processing, and transmission.",
+      "Develop a system capable of monitoring and analyzing data to support the sailing industry, including traditional sailing vessels and companies in the nautical sector."
+    ],
+    "methods": [
+      "Design and develop new sensors for measuring physical and physiological parameters in sailing vessels.",
+      "Create advanced data collection and analysis systems using software and related applications to support the sailing industry."
+    ],
+    "results": [
+      "Enhance the performance and safety of sailing vessels through innovative sensor technology and data analysis.",
+      "Support the development of advanced sailing vessels and improve the overall sailing experience for users."
+    ],
+    "research_subject": "Development of innovative sensors and data analysis systems for the sailing industry"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for the development of new sensors for the measurement of physical and physiological parameters, and the sensorization of fabrics and composite materials.",
+      "There is a demand for advanced systems for data collection and analysis in Industry 4.0."
+    ],
+    "objectives": [
+      "Acquire the main components of the SENSORSAIL system, both in terms of materials and sensors, and software capable of collecting, processing, and transmitting the collected data.",
+      "Facilitate the use of the collected data by end users and companies in the nautical sector."
+    ],
+    "methods": [
+      "Develop new sensors for the measurement of physical and physiological parameters.",
+      "Develop advanced systems for data collection and analysis in Industry 4.0.",
+      "Use software and related applications to collect, process, and transmit the collected data."
+    ],
+    "results": [
+      "Enable end users and companies in the nautical sector to utilize the collected data.",
+      "Improve the monitoring capabilities of traditional ships."
+    ],
+    "research_subject": "Development of SENSORSAIL system for data collection and analysis in the nautical sector"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional sailing vessels lack integrated systems for monitoring physical and physiological parameters, limiting data collection and analysis capabilities in the nautical sector.",
+      "There is a need for advanced sensor technologies and data analysis systems to support Industry 4.0 applications in composite materials and textiles."
+    ],
+    "objectives": [
+      "Develop and acquire the main components of the SENSORSAIL system, including materials, sensors, and software for data collection, processing, and transmission.",
+      "Create an integrated monitoring solution for the nautical sector that facilitates data utilization by both end users and nautical companies."
+    ],
+    "methods": [
+      "Development of new sensors for measuring physical and physiological parameters in textiles and composite materials.",
+      "Implementation of advanced data collection and analysis systems with associated software applications for real-time monitoring and transmission."
+    ],
+    "results": [
+      "Enable comprehensive monitoring capabilities for traditional sailing vessels and the nautical sector.",
+      "Facilitate improved data utilization and decision-making for end users and nautical industry companies through integrated sensor systems."
+    ],
+    "research_subject": "Development of integrated sensor systems for monitoring physical and physiological parameters in the nautical sector"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional sailing vessels lack the ability to monitor and collect data on physical and physiological parameters, hindering their performance and safety.\",\n    \"There is a need for innovative sensors and data analysis systems to support the development of advanced sailing vessels and improve the overall sailing experience.\"\n  ],\n  \"objectives\": [\n    \"Acquire the main components of the SENSORSAIL system, including materials, sensors, and software, to facilitate data collection, processing, and transmission.\",\n    \"Develop a system capable of monitoring and analyzing data to support the sailing industry, including traditional sailing vessels and companies in the nautical sector.\"\n  ],\n  \"methods\": [\n    \"Design and develop new sensors for measuring physical and physiological parameters in sailing vessels.\",\n    \"Create advanced data collection and analysis systems using software and related applications to support the sailing industry.\"\n  ],\n  \"results\": [\n    \"Enhance the performance and safety of sailing vessels through innovative sensor technology and data analysis.\",\n    \"Support the development of advanced sailing vessels and improve the overall sailing experience for users.\"\n  ],\n  \"research_subject\": \"Development of innovative sensors and data analysis systems for the sailing industry\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for the development of new sensors for the measurement of physical and physiological parameters, and the sensorization of fabrics and composite materials.\",\n    \"There is a demand for advanced systems for data collection and analysis in Industry 4.0.\"\n  ],\n  \"objectives\": [\n    \"Acquire the main components of the SENSORSAIL system, both in terms of materials and sensors, and software capable of collecting, processing, and transmitting the collected data.\",\n    \"Facilitate the use of the collected data by end users and companies in the nautical sector.\"\n  ],\n  \"methods\": [\n    \"Develop new sensors for the measurement of physical and physiological parameters.\",\n    \"Develop advanced systems for data collection and analysis in Industry 4.0.\",\n    \"Use software and related applications to collect, process, and transmit the collected data.\"\n  ],\n  \"results\": [\n    \"Enable end users and companies in the nautical sector to utilize the collected data.\",\n    \"Improve the monitoring capabilities of traditional ships.\"\n  ],\n  \"research_subject\": \"Development of SENSORSAIL system for data collection and analysis in the nautical sector\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional sailing vessels lack integrated systems for monitoring physical and physiological parameters, limiting data collection and analysis capabilities in the nautical sector.\",\n    \"There is a need for advanced sensor technologies and data analysis systems to support Industry 4.0 applications in composite materials and textiles.\"\n  ],\n  \"objectives\": [\n    \"Develop and acquire the main components of the SENSORSAIL system, including materials, sensors, and software for data collection, processing, and transmission.\",\n    \"Create an integrated monitoring solution for the nautical sector that facilitates data utilization by both end users and nautical companies.\"\n  ],\n  \"methods\": [\n    \"Development of new sensors for measuring physical and physiological parameters in textiles and composite materials.\",\n    \"Implementation of advanced data collection and analysis systems with associated software applications for real-time monitoring and transmission.\"\n  ],\n  \"results\": [\n    \"Enable comprehensive monitoring capabilities for traditional sailing vessels and the nautical sector.\",\n    \"Facilitate improved data utilization and decision-making for end users and nautical industry companies through integrated sensor systems.\"\n  ],\n  \"research_subject\": \"Development of integrated sensor systems for monitoring physical and physiological parameters in the nautical sector\"\n}\n```"
+}

@@ -1,0 +1,72 @@
+{
+  "index": 45,
+  "title": "Development and Evaluation of poly(3-hydroxybutyrate-co-3-hydroxyvalerate) and Polycaprolactone Microparticles of Nimodipine",
+  "abstract": "Polymeric microparticles containing the calcium channel blocker nimodipine were successfully obtained through simple emulsion/ organic solvent evaporating method. The extended release formulations, composed by the polymers poly(3-hydroxybutyrate-co-3- hydroxyvalerate) (PHBV) and polycaprolactone (PCL), were submitted to characterization through X-ray powder diffraction (XRPD), scanning electron microscopy (SEM), differential scanning calorimetry (DSC), thermogravimetric analysis (TG), Fourier transform infrared analysis (FT-IR) and determination of the mean particle diameter. All formulations obtained revealed an amorphous characteristic, proven through XRPD and DSC results. Besides, no chemical interaction was observed between drug and polymer in polymeric microparticles. PHBV-NMP formulation showed a higher drug entrapment, a larger particle size, a thermal degradation behavior similar to that observed for nimodipine and a longer drug release time, being selected for in vivo evaluation. The PHBV-NMP polymeric microparticles were able to keep the pharmacological antihypertensive effect for a longer period of time, becoming a good alternative to control nimodipine release in hypertension treatment.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for extended release formulations of nimodipine to improve its therapeutic effect in hypertension treatment.",
+      "Conventional formulations of nimodipine may have limitations in terms of release control and bioavailability."
+    ],
+    "objectives": [
+      "Develop polymeric microparticles containing nimodipine using poly(3-hydroxybutyrate-co-3-hydroxyvalerate) and polycaprolactone.",
+      "Evaluate the physicochemical properties and in vivo performance of the developed microparticles."
+    ],
+    "methods": [
+      "Use a simple emulsion/organic solvent evaporating method to prepare polymeric microparticles.",
+      "Characterize the microparticles through various techniques such as XRPD, SEM, DSC, TG, and FT-IR.",
+      "Conduct in vivo evaluation of the selected formulation to assess its pharmacological effect."
+    ],
+    "results": [
+      "The developed polymeric microparticles exhibited an amorphous characteristic and no chemical interaction between drug and polymer.",
+      "The PHBV-NMP formulation showed a higher drug entrapment, larger particle size, and longer drug release time.",
+      "The PHBV-NMP polymeric microparticles demonstrated a prolonged antihypertensive effect, making them a promising alternative for nimodipine release control."
+    ],
+    "research_subject": "Development and evaluation of polymeric microparticles for controlled release of nimodipine"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for extended release formulations of the calcium channel blocker nimodipine for effective hypertension treatment.",
+      "Current methods for nimodipine delivery may not ensure optimal drug entrapment and release time."
+    ],
+    "objectives": [
+      "Develop polymeric microparticles of nimodipine using poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV) and polycaprolactone (PCL).",
+      "Characterize the developed microparticles through various techniques such as XRPD, SEM, DSC, TG, FT-IR, and determination of the mean particle diameter.",
+      "Evaluate the drug entrapment, release time, and pharmacological effect of the developed microparticles."
+    ],
+    "methods": [
+      "Use simple emulsion/organic solvent evaporating method to develop polymeric microparticles of nimodipine.",
+      "Characterize the microparticles using X-ray powder diffraction, scanning electron microscopy, differential scanning calorimetry, thermogravimetric analysis, Fourier transform infrared analysis, and determination of the mean particle diameter.",
+      "Perform in vivo evaluation of the PHBV-NMP formulation for its antihypertensive effect."
+    ],
+    "results": [
+      "Successfully developed nimodipine-containing polymeric microparticles with amorphous characteristics and no observed chemical interaction between drug and polymer.",
+      "PHBV-NMP formulation showed higher drug entrapment, larger particle size, similar thermal degradation behavior to nimodipine, and longer drug release time.",
+      "PHBV-NMP microparticles maintained the antihypertensive effect for a longer period, making it a viable alternative for controlled nimodipine release in hypertension treatment."
+    ],
+    "research_subject": "Development and evaluation of nimodipine-containing polymeric microparticles for hypertension treatment"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for extended-release formulations of nimodipine to improve its therapeutic efficacy in hypertension treatment.",
+      "Conventional nimodipine formulations require frequent dosing, which can reduce patient compliance and treatment effectiveness."
+    ],
+    "objectives": [
+      "Develop and characterize polymeric microparticles containing nimodipine using PHBV and PCL polymers for extended drug release.",
+      "Evaluate the in vivo antihypertensive efficacy of the developed microparticle formulations."
+    ],
+    "methods": [
+      "Prepare microparticles using simple emulsion/organic solvent evaporation method with PHBV and PCL polymers.",
+      "Characterize formulations using XRPD, SEM, DSC, TG, FT-IR, and particle size analysis.",
+      "Conduct in vivo evaluation to assess the antihypertensive effect of selected formulations."
+    ],
+    "results": [
+      "All formulations showed amorphous characteristics with no chemical interaction between drug and polymer.",
+      "PHBV-NMP microparticles demonstrated higher drug entrapment, larger particle size, and longer drug release time.",
+      "The PHBV-NMP formulation maintained prolonged antihypertensive effects in vivo, providing a promising alternative for controlled nimodipine release."
+    ],
+    "research_subject": "Development of PHBV and PCL polymeric microparticles for extended release of nimodipine"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for extended release formulations of nimodipine to improve its therapeutic effect in hypertension treatment.\",\n    \"Conventional formulations of nimodipine may have limitations in terms of release control and bioavailability.\"\n  ],\n  \"objectives\": [\n    \"Develop polymeric microparticles containing nimodipine using poly(3-hydroxybutyrate-co-3-hydroxyvalerate) and polycaprolactone.\",\n    \"Evaluate the physicochemical properties and in vivo performance of the developed microparticles.\"\n  ],\n  \"methods\": [\n    \"Use a simple emulsion/organic solvent evaporating method to prepare polymeric microparticles.\",\n    \"Characterize the microparticles through various techniques such as XRPD, SEM, DSC, TG, and FT-IR.\",\n    \"Conduct in vivo evaluation of the selected formulation to assess its pharmacological effect.\"\n  ],\n  \"results\": [\n    \"The developed polymeric microparticles exhibited an amorphous characteristic and no chemical interaction between drug and polymer.\",\n    \"The PHBV-NMP formulation showed a higher drug entrapment, larger particle size, and longer drug release time.\",\n    \"The PHBV-NMP polymeric microparticles demonstrated a prolonged antihypertensive effect, making them a promising alternative for nimodipine release control.\"\n  ],\n  \"research_subject\": \"Development and evaluation of polymeric microparticles for controlled release of nimodipine\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for extended release formulations of the calcium channel blocker nimodipine for effective hypertension treatment.\",\n    \"Current methods for nimodipine delivery may not ensure optimal drug entrapment and release time.\"\n  ],\n  \"objectives\": [\n    \"Develop polymeric microparticles of nimodipine using poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV) and polycaprolactone (PCL).\",\n    \"Characterize the developed microparticles through various techniques such as XRPD, SEM, DSC, TG, FT-IR, and determination of the mean particle diameter.\",\n    \"Evaluate the drug entrapment, release time, and pharmacological effect of the developed microparticles.\"\n  ],\n  \"methods\": [\n    \"Use simple emulsion/organic solvent evaporating method to develop polymeric microparticles of nimodipine.\",\n    \"Characterize the microparticles using X-ray powder diffraction, scanning electron microscopy, differential scanning calorimetry, thermogravimetric analysis, Fourier transform infrared analysis, and determination of the mean particle diameter.\",\n    \"Perform in vivo evaluation of the PHBV-NMP formulation for its antihypertensive effect.\"\n  ],\n  \"results\": [\n    \"Successfully developed nimodipine-containing polymeric microparticles with amorphous characteristics and no observed chemical interaction between drug and polymer.\",\n    \"PHBV-NMP formulation showed higher drug entrapment, larger particle size, similar thermal degradation behavior to nimodipine, and longer drug release time.\",\n    \"PHBV-NMP microparticles maintained the antihypertensive effect for a longer period, making it a viable alternative for controlled nimodipine release in hypertension treatment.\"\n  ],\n  \"research_subject\": \"Development and evaluation of nimodipine-containing polymeric microparticles for hypertension treatment\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for extended-release formulations of nimodipine to improve its therapeutic efficacy in hypertension treatment.\",\n    \"Conventional nimodipine formulations require frequent dosing, which can reduce patient compliance and treatment effectiveness.\"\n  ],\n  \"objectives\": [\n    \"Develop and characterize polymeric microparticles containing nimodipine using PHBV and PCL polymers for extended drug release.\",\n    \"Evaluate the in vivo antihypertensive efficacy of the developed microparticle formulations.\"\n  ],\n  \"methods\": [\n    \"Prepare microparticles using simple emulsion/organic solvent evaporation method with PHBV and PCL polymers.\",\n    \"Characterize formulations using XRPD, SEM, DSC, TG, FT-IR, and particle size analysis.\",\n    \"Conduct in vivo evaluation to assess the antihypertensive effect of selected formulations.\"\n  ],\n  \"results\": [\n    \"All formulations showed amorphous characteristics with no chemical interaction between drug and polymer.\",\n    \"PHBV-NMP microparticles demonstrated higher drug entrapment, larger particle size, and longer drug release time.\",\n    \"The PHBV-NMP formulation maintained prolonged antihypertensive effects in vivo, providing a promising alternative for controlled nimodipine release.\"\n  ],\n  \"research_subject\": \"Development of PHBV and PCL polymeric microparticles for extended release of nimodipine\"\n}\n```"
+}

@@ -1,0 +1,54 @@
+{
+  "index": 306,
+  "title": "A REFINING MEMBER AND HUB WITH SPLINES WITH A WEAR INDICATOR",
+  "abstract": "A hub and a member, the member having a central opening. The hub is received in the member central opening. The hub has a center, and a hub axis through the center. The hub also has a splined exterior with a plurality of splines, each spline having a spline surface, and the member central opening has internal splines that engage with the hub splined exterior. At least one of the hub splines has a wear indicator, the wear indicator comprising a surface mark that extends along a portion of the spline surface in the same direction as the hub axis.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a hub and member design that allows for easy detection of wear and tear on the splines."
+    ],
+    "objectives": [
+      "Design a hub and member with splines that includes a wear indicator to facilitate maintenance and inspection."
+    ],
+    "methods": [
+      "Create a hub with a splined exterior and a member with internal splines that engage with the hub.",
+      "Incorporate a wear indicator on at least one of the hub splines, comprising a surface mark that extends along a portion of the spline surface."
+    ],
+    "results": [
+      "Provide a clear visual indication of wear on the splines, enabling timely maintenance and reducing the risk of failure."
+    ],
+    "research_subject": "Design of a hub and member with splines and a wear indicator"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a mechanism to indicate wear on the splines of a hub and member system."
+    ],
+    "objectives": [
+      "Design a hub and a member with a wear indicator on at least one of the hub splines."
+    ],
+    "methods": [
+      "Incorporate a surface mark on the spline surface of the hub that extends along a portion of the spline surface in the same direction as the hub axis."
+    ],
+    "results": [
+      "Provide a hub and member system with a wear indicator to monitor and manage wear and tear."
+    ],
+    "research_subject": "Design of a hub and member system with a wear indicator on splines"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to monitor wear in splined mechanical connections to ensure proper maintenance and prevent failure."
+    ],
+    "objectives": [
+      "Develop a hub and member assembly with integrated wear indicators on the spline surfaces to enable visual inspection of wear progression."
+    ],
+    "methods": [
+      "Design a hub with external splines and a member with internal splines that engage together, incorporating surface marks on the spline surfaces that serve as wear indicators."
+    ],
+    "results": [
+      "Enable direct visual assessment of spline wear without disassembly, improving maintenance efficiency and equipment reliability."
+    ],
+    "research_subject": "Splined mechanical connection with integrated wear indicator"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a hub and member design that allows for easy detection of wear and tear on the splines.\"\n  ],\n  \"objectives\": [\n    \"Design a hub and member with splines that includes a wear indicator to facilitate maintenance and inspection.\"\n  ],\n  \"methods\": [\n    \"Create a hub with a splined exterior and a member with internal splines that engage with the hub.\",\n    \"Incorporate a wear indicator on at least one of the hub splines, comprising a surface mark that extends along a portion of the spline surface.\"\n  ],\n  \"results\": [\n    \"Provide a clear visual indication of wear on the splines, enabling timely maintenance and reducing the risk of failure.\"\n  ],\n  \"research_subject\": \"Design of a hub and member with splines and a wear indicator\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a mechanism to indicate wear on the splines of a hub and member system.\"\n  ],\n  \"objectives\": [\n    \"Design a hub and a member with a wear indicator on at least one of the hub splines.\"\n  ],\n  \"methods\": [\n    \"Incorporate a surface mark on the spline surface of the hub that extends along a portion of the spline surface in the same direction as the hub axis.\"\n  ],\n  \"results\": [\n    \"Provide a hub and member system with a wear indicator to monitor and manage wear and tear.\"\n  ],\n  \"research_subject\": \"Design of a hub and member system with a wear indicator on splines\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to monitor wear in splined mechanical connections to ensure proper maintenance and prevent failure.\"\n  ],\n  \"objectives\": [\n    \"Develop a hub and member assembly with integrated wear indicators on the spline surfaces to enable visual inspection of wear progression.\"\n  ],\n  \"methods\": [\n    \"Design a hub with external splines and a member with internal splines that engage together, incorporating surface marks on the spline surfaces that serve as wear indicators.\"\n  ],\n  \"results\": [\n    \"Enable direct visual assessment of spline wear without disassembly, improving maintenance efficiency and equipment reliability.\"\n  ],\n  \"research_subject\": \"Splined mechanical connection with integrated wear indicator\"\n}\n```"
+}

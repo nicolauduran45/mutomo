@@ -1,0 +1,71 @@
+{
+  "index": 379,
+  "title": "Deciphering central role of vmh circuits in regulating energy balance",
+  "abstract": "Incidence of obesity has been steadily increasing for the last few decades. A corresponding rise in the obesity associated co-morbidities such as cardiovascular diseases and type-2 diabetes makes it an acute priority to understand the mechanisms underlying body weight regulation. It is well established that distributed brain circuits tightly monitor and regulate energy stores. Of particular interest, electrical and pharmacological manipulations to ventromedial portion of the hypothalamus (VMH), results in dramatic alterations in food intake, adiposity and glucose homeostasis in animal models. Furthermore, human genetic screens have shown that, at least for a subset of morbidly obese patients, genes that are heavily expressed in VMH are altered. Collectively these observations point to a central role for VMH in driving negative energy balance, yet relatively little is known how VMH neurons achieve this. To identify novel mechanisms for controlling energy balance, we propose to determine the following: 1) identify signals that regulate VMH neuronal activity, this includes synaptic input as well as circulating signals, 2) dissect out immediate downstream and upstream synaptic targets of VMH neurons mediating food intake and glucose homeostasis. To achieve this, we will use state of the art neuronal circuit mapping techniques involving virus based retrograde tracers and optogenetics. By combining functional electrophysiology and morphological approaches we will determine brain regions that has connections to and from VMH and evaluate behavioral and physiological significance each of these connections in-vivo. Understanding the basics of the functional VMH-wiring diagram will help determine how these neuronal circuits change under the conditions of metabolic and feeding disorders and will provide basis of targeted approaches for treatment.",
+  "llama_json": {
+    "motivations": [
+      "The rising incidence of obesity and associated co-morbidities necessitates a deeper understanding of the mechanisms underlying body weight regulation.",
+      "Despite the established role of the ventromedial hypothalamus (VMH) in regulating energy balance, the specific mechanisms by which VMH neurons achieve this are poorly understood."
+    ],
+    "objectives": [
+      "Identify signals that regulate VMH neuronal activity, including synaptic input and circulating signals.",
+      "Determine the immediate downstream and upstream synaptic targets of VMH neurons mediating food intake and glucose homeostasis.",
+      "Elucidate the functional wiring diagram of VMH circuits to inform targeted approaches for treating metabolic and feeding disorders."
+    ],
+    "methods": [
+      "Utilize state-of-the-art neuronal circuit mapping techniques, including virus-based retrograde tracers and optogenetics.",
+      "Combine functional electrophysiology and morphological approaches to evaluate the behavioral and physiological significance of VMH connections in vivo."
+    ],
+    "results": [
+      "Gain a deeper understanding of the mechanisms by which VMH neurons regulate energy balance.",
+      "Inform the development of targeted approaches for treating metabolic and feeding disorders, such as obesity and type-2 diabetes."
+    ],
+    "research_subject": "Deciphering the central role of VMH circuits in regulating energy balance"
+  },
+  "openai_json": {
+    "motivations": [
+      "The increasing incidence of obesity and associated co-morbidities necessitates a better understanding of body weight regulation mechanisms.",
+      "Ventromedial portion of the hypothalamus (VMH) has been linked to significant alterations in food intake, adiposity, and glucose homeostasis, but the mechanisms through which VMH neurons achieve this are not well understood."
+    ],
+    "objectives": [
+      "Identify signals that regulate VMH neuronal activity, including synaptic input and circulating signals.",
+      "Dissect immediate downstream and upstream synaptic targets of VMH neurons mediating food intake and glucose homeostasis.",
+      "Understand how these neuronal circuits change under conditions of metabolic and feeding disorders."
+    ],
+    "methods": [
+      "Use state-of-the-art neuronal circuit mapping techniques involving virus-based retrograde tracers and optogenetics.",
+      "Combine functional electrophysiology and morphological approaches to determine brain regions connected to and from VMH.",
+      "Evaluate the behavioral and physiological significance of these connections in-vivo."
+    ],
+    "results": [
+      "Identify novel mechanisms for controlling energy balance.",
+      "Provide a functional VMH-wiring diagram that can serve as a basis for targeted treatment approaches.",
+      "Increase understanding of how neuronal circuits change under conditions of metabolic and feeding disorders."
+    ],
+    "research_subject": "Role of VMH circuits in regulating energy balance"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The rising incidence of obesity and associated co-morbidities such as cardiovascular diseases and type-2 diabetes necessitates understanding the mechanisms of body weight regulation.",
+      "Despite evidence that the ventromedial hypothalamus (VMH) plays a central role in energy balance, the specific mechanisms by which VMH neurons achieve this remain poorly understood."
+    ],
+    "objectives": [
+      "Identify the signals that regulate VMH neuronal activity, including synaptic inputs and circulating signals.",
+      "Determine the immediate downstream and upstream synaptic targets of VMH neurons that mediate food intake and glucose homeostasis."
+    ],
+    "methods": [
+      "Employ state-of-the-art neuronal circuit mapping techniques using virus-based retrograde tracers and optogenetics.",
+      "Combine functional electrophysiology and morphological approaches to map brain regions connected to VMH.",
+      "Evaluate the behavioral and physiological significance of VMH connections through in-vivo experiments."
+    ],
+    "results": [
+      "Establish a functional wiring diagram of VMH circuits involved in energy balance regulation.",
+      "Provide insights into how VMH neuronal circuits change under metabolic and feeding disorders.",
+      "Enable the development of targeted therapeutic approaches for obesity and related metabolic conditions."
+    ],
+    "research_subject": "VMH neural circuits and their role in regulating energy balance and metabolism"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The rising incidence of obesity and associated co-morbidities necessitates a deeper understanding of the mechanisms underlying body weight regulation.\",\n    \"Despite the established role of the ventromedial hypothalamus (VMH) in regulating energy balance, the specific mechanisms by which VMH neurons achieve this are poorly understood.\"\n  ],\n  \"objectives\": [\n    \"Identify signals that regulate VMH neuronal activity, including synaptic input and circulating signals.\",\n    \"Determine the immediate downstream and upstream synaptic targets of VMH neurons mediating food intake and glucose homeostasis.\",\n    \"Elucidate the functional wiring diagram of VMH circuits to inform targeted approaches for treating metabolic and feeding disorders.\"\n  ],\n  \"methods\": [\n    \"Utilize state-of-the-art neuronal circuit mapping techniques, including virus-based retrograde tracers and optogenetics.\",\n    \"Combine functional electrophysiology and morphological approaches to evaluate the behavioral and physiological significance of VMH connections in vivo.\"\n  ],\n  \"results\": [\n    \"Gain a deeper understanding of the mechanisms by which VMH neurons regulate energy balance.\",\n    \"Inform the development of targeted approaches for treating metabolic and feeding disorders, such as obesity and type-2 diabetes.\"\n  ],\n  \"research_subject\": \"Deciphering the central role of VMH circuits in regulating energy balance\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing incidence of obesity and associated co-morbidities necessitates a better understanding of body weight regulation mechanisms.\",\n    \"Ventromedial portion of the hypothalamus (VMH) has been linked to significant alterations in food intake, adiposity, and glucose homeostasis, but the mechanisms through which VMH neurons achieve this are not well understood.\"\n  ],\n  \"objectives\": [\n    \"Identify signals that regulate VMH neuronal activity, including synaptic input and circulating signals.\",\n    \"Dissect immediate downstream and upstream synaptic targets of VMH neurons mediating food intake and glucose homeostasis.\",\n    \"Understand how these neuronal circuits change under conditions of metabolic and feeding disorders.\"\n  ],\n  \"methods\": [\n    \"Use state-of-the-art neuronal circuit mapping techniques involving virus-based retrograde tracers and optogenetics.\",\n    \"Combine functional electrophysiology and morphological approaches to determine brain regions connected to and from VMH.\",\n    \"Evaluate the behavioral and physiological significance of these connections in-vivo.\"\n  ],\n  \"results\": [\n    \"Identify novel mechanisms for controlling energy balance.\",\n    \"Provide a functional VMH-wiring diagram that can serve as a basis for targeted treatment approaches.\",\n    \"Increase understanding of how neuronal circuits change under conditions of metabolic and feeding disorders.\"\n  ],\n  \"research_subject\": \"Role of VMH circuits in regulating energy balance\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The rising incidence of obesity and associated co-morbidities such as cardiovascular diseases and type-2 diabetes necessitates understanding the mechanisms of body weight regulation.\",\n    \"Despite evidence that the ventromedial hypothalamus (VMH) plays a central role in energy balance, the specific mechanisms by which VMH neurons achieve this remain poorly understood.\"\n  ],\n  \"objectives\": [\n    \"Identify the signals that regulate VMH neuronal activity, including synaptic inputs and circulating signals.\",\n    \"Determine the immediate downstream and upstream synaptic targets of VMH neurons that mediate food intake and glucose homeostasis.\"\n  ],\n  \"methods\": [\n    \"Employ state-of-the-art neuronal circuit mapping techniques using virus-based retrograde tracers and optogenetics.\",\n    \"Combine functional electrophysiology and morphological approaches to map brain regions connected to VMH.\",\n    \"Evaluate the behavioral and physiological significance of VMH connections through in-vivo experiments.\"\n  ],\n  \"results\": [\n    \"Establish a functional wiring diagram of VMH circuits involved in energy balance regulation.\",\n    \"Provide insights into how VMH neuronal circuits change under metabolic and feeding disorders.\",\n    \"Enable the development of targeted therapeutic approaches for obesity and related metabolic conditions.\"\n  ],\n  \"research_subject\": \"VMH neural circuits and their role in regulating energy balance and metabolism\"\n}\n```"
+}

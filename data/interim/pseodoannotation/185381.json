@@ -1,0 +1,76 @@
+{
+  "index": 441,
+  "title": "Resolving the tussle in the internet: mapping, architecture, and policy making",
+  "abstract": "The Internet has revolutionalized the way people and corporations communicate, publish, access, and search for information. As our globally-connected digital civilization increasingly relies on its smooth operation any disruption has a direct negative impact on both the economy and society. However, the Internet was not designed to serve its current role nor was foreseen to be a public good. On the contrary, it was designed to be fully decentralized and thus administrated by the owners of independent networks. Today, the various Internet players have diverse and often conflicting objectives. Indeed, the tussle between Internet players or between them and governments hit the news and the negative externalities affect the life of potentially billions of Internet users worldwide and harm innovation in the Internet. We propose a research agenda to resolve the tussle in the Internet. First, we propose the use of sophisticated techniques to collect and analyze massive network data to unveil the complex interactions among the various Internet players that lead to disputes and to identify the conditions under which conditions a resolution is possible. Second, we utilize additional degrees of freedom to resolve the tussle in the Internet by enabling coordination of the various Internet players. To this end, we introduce expressiveness of all the involved parties in existing and emerging protocols and enable agile deployment of third-party services and applications inside operational networks. Third, we contribute to the Internet policy making debate by providing an unbiased view of the state and health of the Internet as well as providing recommendations on how to resolve the Internet tussle. This is an interdisciplinary effort to foster a dialogue for Internet's future and sustainability in light of its ever-increasing growth and competitiveness.",
+  "llama_json": {
+    "motivations": [
+      "The Internet's original decentralized design and lack of foresight as a public good have led to conflicting objectives among Internet players, causing disruptions and negative impacts on society and the economy.",
+      "The tussle between Internet players and governments results in negative externalities affecting billions of users worldwide and hindering innovation in the Internet."
+    ],
+    "objectives": [
+      "Resolve the tussle in the Internet by understanding complex interactions among Internet players and identifying conditions for resolution.",
+      "Enable coordination among Internet players through expressiveness in protocols and agile deployment of third-party services and applications.",
+      "Contribute to Internet policy making by providing an unbiased view of the Internet's state and health, and recommending solutions to the tussle."
+    ],
+    "methods": [
+      "Collect and analyze massive network data to unveil complex interactions among Internet players.",
+      "Introduce expressiveness of involved parties in existing and emerging protocols.",
+      "Enable agile deployment of third-party services and applications inside operational networks."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of the Internet's complex interactions and conditions for resolving disputes.",
+      "Enable effective coordination among Internet players to reduce conflicts and negative externalities.",
+      "Inform Internet policy making with unbiased recommendations for a sustainable and competitive Internet."
+    ],
+    "research_subject": "Resolving conflicts among Internet players through data analysis, protocol expressiveness, and policy making"
+  },
+  "openai_json": {
+    "motivations": [
+      "The Internet, originally designed to be fully decentralized, now faces conflicts among various players due to diverse objectives, affecting billions of users and innovation.",
+      "There is a need to understand the complex interactions among Internet players that lead to disputes and identify conditions for possible resolution.",
+      "The increasing growth and competitiveness of the Internet necessitates an interdisciplinary effort for its future sustainability."
+    ],
+    "objectives": [
+      "Unveil the complex interactions among various Internet players that lead to disputes using sophisticated techniques to collect and analyze massive network data.",
+      "Enable coordination among Internet players to resolve disputes by introducing expressiveness in existing and emerging protocols and enabling agile deployment of third-party services.",
+      "Contribute to the Internet policy making debate by providing an unbiased view of the state and health of the Internet and recommendations on how to resolve the Internet tussle."
+    ],
+    "methods": [
+      "Use sophisticated techniques to collect and analyze massive network data to understand the complex interactions among Internet players.",
+      "Introduce expressiveness in existing and emerging protocols and enable agile deployment of third-party services and applications inside operational networks.",
+      "Provide an unbiased view of the state and health of the Internet and recommendations on how to resolve the Internet tussle."
+    ],
+    "results": [
+      "Better understanding of the complex interactions among Internet players that lead to disputes.",
+      "Resolution of disputes among Internet players through coordination and agile deployment of third-party services.",
+      "Contribution to the Internet policy making debate with an unbiased view of the state and health of the Internet."
+    ],
+    "research_subject": "Resolving conflicts among Internet players through mapping, architecture, and policy making"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Internet faces disruptions due to conflicting objectives among various stakeholders, negatively impacting the global economy and society.",
+      "The decentralized design of the Internet creates governance challenges as different players pursue diverse and often incompatible goals.",
+      "Current Internet architecture lacks mechanisms to resolve disputes between stakeholders, harming billions of users and stifling innovation."
+    ],
+    "objectives": [
+      "Analyze complex interactions among Internet stakeholders to identify conditions for dispute resolution using massive network data.",
+      "Enable coordination among Internet players by introducing expressiveness in protocols and facilitating agile deployment of third-party services.",
+      "Contribute to Internet policy making by providing unbiased assessments and recommendations for resolving stakeholder conflicts."
+    ],
+    "methods": [
+      "Collect and analyze massive network data using sophisticated techniques to understand stakeholder interactions and disputes.",
+      "Develop protocols that incorporate expressiveness for all parties and enable agile deployment of services within operational networks.",
+      "Conduct interdisciplinary research to inform policy debates and foster dialogue about Internet sustainability."
+    ],
+    "results": [
+      "Unveil the complex dynamics of Internet stakeholder conflicts and identify pathways for resolution.",
+      "Create new coordination mechanisms and protocols that better accommodate diverse stakeholder interests.",
+      "Provide evidence-based policy recommendations to ensure the Internet's future sustainability and reduce negative externalities."
+    ],
+    "research_subject": "Resolution of stakeholder conflicts in Internet governance through mapping, architecture design, and policy making"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The Internet's original decentralized design and lack of foresight as a public good have led to conflicting objectives among Internet players, causing disruptions and negative impacts on society and the economy.\",\n    \"The tussle between Internet players and governments results in negative externalities affecting billions of users worldwide and hindering innovation in the Internet.\"\n  ],\n  \"objectives\": [\n    \"Resolve the tussle in the Internet by understanding complex interactions among Internet players and identifying conditions for resolution.\",\n    \"Enable coordination among Internet players through expressiveness in protocols and agile deployment of third-party services and applications.\",\n    \"Contribute to Internet policy making by providing an unbiased view of the Internet's state and health, and recommending solutions to the tussle.\"\n  ],\n  \"methods\": [\n    \"Collect and analyze massive network data to unveil complex interactions among Internet players.\",\n    \"Introduce expressiveness of involved parties in existing and emerging protocols.\",\n    \"Enable agile deployment of third-party services and applications inside operational networks.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of the Internet's complex interactions and conditions for resolving disputes.\",\n    \"Enable effective coordination among Internet players to reduce conflicts and negative externalities.\",\n    \"Inform Internet policy making with unbiased recommendations for a sustainable and competitive Internet.\"\n  ],\n  \"research_subject\": \"Resolving conflicts among Internet players through data analysis, protocol expressiveness, and policy making\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The Internet, originally designed to be fully decentralized, now faces conflicts among various players due to diverse objectives, affecting billions of users and innovation.\",\n    \"There is a need to understand the complex interactions among Internet players that lead to disputes and identify conditions for possible resolution.\",\n    \"The increasing growth and competitiveness of the Internet necessitates an interdisciplinary effort for its future sustainability.\"\n  ],\n  \"objectives\": [\n    \"Unveil the complex interactions among various Internet players that lead to disputes using sophisticated techniques to collect and analyze massive network data.\",\n    \"Enable coordination among Internet players to resolve disputes by introducing expressiveness in existing and emerging protocols and enabling agile deployment of third-party services.\",\n    \"Contribute to the Internet policy making debate by providing an unbiased view of the state and health of the Internet and recommendations on how to resolve the Internet tussle.\"\n  ],\n  \"methods\": [\n    \"Use sophisticated techniques to collect and analyze massive network data to understand the complex interactions among Internet players.\",\n    \"Introduce expressiveness in existing and emerging protocols and enable agile deployment of third-party services and applications inside operational networks.\",\n    \"Provide an unbiased view of the state and health of the Internet and recommendations on how to resolve the Internet tussle.\"\n  ],\n  \"results\": [\n    \"Better understanding of the complex interactions among Internet players that lead to disputes.\",\n    \"Resolution of disputes among Internet players through coordination and agile deployment of third-party services.\",\n    \"Contribution to the Internet policy making debate with an unbiased view of the state and health of the Internet.\"\n  ],\n  \"research_subject\": \"Resolving conflicts among Internet players through mapping, architecture, and policy making\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The Internet faces disruptions due to conflicting objectives among various stakeholders, negatively impacting the global economy and society.\",\n    \"The decentralized design of the Internet creates governance challenges as different players pursue diverse and often incompatible goals.\",\n    \"Current Internet architecture lacks mechanisms to resolve disputes between stakeholders, harming billions of users and stifling innovation.\"\n  ],\n  \"objectives\": [\n    \"Analyze complex interactions among Internet stakeholders to identify conditions for dispute resolution using massive network data.\",\n    \"Enable coordination among Internet players by introducing expressiveness in protocols and facilitating agile deployment of third-party services.\",\n    \"Contribute to Internet policy making by providing unbiased assessments and recommendations for resolving stakeholder conflicts.\"\n  ],\n  \"methods\": [\n    \"Collect and analyze massive network data using sophisticated techniques to understand stakeholder interactions and disputes.\",\n    \"Develop protocols that incorporate expressiveness for all parties and enable agile deployment of services within operational networks.\",\n    \"Conduct interdisciplinary research to inform policy debates and foster dialogue about Internet sustainability.\"\n  ],\n  \"results\": [\n    \"Unveil the complex dynamics of Internet stakeholder conflicts and identify pathways for resolution.\",\n    \"Create new coordination mechanisms and protocols that better accommodate diverse stakeholder interests.\",\n    \"Provide evidence-based policy recommendations to ensure the Internet's future sustainability and reduce negative externalities.\"\n  ],\n  \"research_subject\": \"Resolution of stakeholder conflicts in Internet governance through mapping, architecture design, and policy making\"\n}\n```"
+}

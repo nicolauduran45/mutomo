@@ -1,0 +1,74 @@
+{
+  "index": 287,
+  "title": "Individuals, social identities and archetypes – the oldest scandinavian personal names in an archaeological light",
+  "abstract": "This project sets out to investigate the relation between personal names, social identities and social status in Scandinavia, ca. 300 - 800 AD. The project is called ArcNames and it aims to rethink the evidence of Late Iron Age and Viking Age personal names and their contexts by putting them into an up-to-date archaeological framework. The ArcNames project has two main objectives. First, it will create a better understanding of individual naming and the construction of personal and social identities in the Scandinavian Late Iron Age and Viking Period mainly by investigating the correspondence between names and archaeological evidence relating to identity. Therefore, the first part will assess the motives expressed in personal names and how these correspond with identities expressed in iconography, burial assemblies and runic inscriptions. Secondly, these issues will be evaluated in relation to the archaeological understanding of status and landholding, especially through a discussion of the use of personal names in place names and runic inscriptions. The second part thus will investigateshow personal names occuring in place names express status and ownership structures and help to understand the social aspects of Late Iron Age and Viking period settlement patterns. A prominent theme in the investigations will be the perceptions of women and land ownership or power structures in relation to gender. The project will work to build an interdisciplinary research environment around onomastics and archaeology at the University in Bergen in connection with the new establishment of the Norwegian Language Collections here. At the same time, it contains a plan to train the fellow in archaeological research skills, university teaching and research management.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to better understand the relationship between personal names, social identities, and social status in Scandinavia during the Late Iron Age and Viking Age.",
+      "Current understanding of personal names from this period lacks an up-to-date archaeological framework for interpretation."
+    ],
+    "objectives": [
+      "Investigate the correspondence between personal names and archaeological evidence to understand individual naming and the construction of personal and social identities.",
+      "Evaluate the relationship between personal names, status, and landholding through analysis of place names and runic inscriptions.",
+      "Develop an interdisciplinary research environment combining onomastics and archaeology."
+    ],
+    "methods": [
+      "Analyze personal names in relation to iconography, burial assemblies, and runic inscriptions to understand identity construction.",
+      "Investigate the use of personal names in place names to understand status and ownership structures.",
+      "Combine onomastics and archaeology in an interdisciplinary approach."
+    ],
+    "results": [
+      "Enhance understanding of personal naming and social identity construction in Scandinavia during the Late Iron Age and Viking Age.",
+      "Provide insights into status and landholding structures, including the role of women in land ownership and power structures.",
+      "Establish an interdisciplinary research environment and train researchers in archaeological skills and research management."
+    ],
+    "research_subject": "Personal names, social identities, and social status in Scandinavia during the Late Iron Age and Viking Age"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the relationship between personal names, social identities, and social status in Scandinavia during the Late Iron Age and Viking Age.",
+      "The use of personal names in place names and runic inscriptions can provide insights into status, ownership structures, and social aspects of settlement patterns during this period.",
+      "The perceptions of women and power structures in relation to gender during this period are not well understood and require further investigation."
+    ],
+    "objectives": [
+      "Investigate the correspondence between names and archaeological evidence relating to identity to understand individual naming and the construction of personal and social identities.",
+      "Evaluate the use of personal names in place names and runic inscriptions in relation to archaeological understanding of status and landholding.",
+      "Build an interdisciplinary research environment around onomastics and archaeology at the University in Bergen."
+    ],
+    "methods": [
+      "Assess the motives expressed in personal names and how these correspond with identities expressed in iconography, burial assemblies and runic inscriptions.",
+      "Investigate how personal names occurring in place names express status and ownership structures.",
+      "Train the fellow in archaeological research skills, university teaching and research management."
+    ],
+    "results": [
+      "A better understanding of individual naming and the construction of personal and social identities in the Scandinavian Late Iron Age and Viking Period.",
+      "Insights into the social aspects of Late Iron Age and Viking period settlement patterns through the study of personal names in place names and runic inscriptions.",
+      "An interdisciplinary research environment around onomastics and archaeology at the University in Bergen."
+    ],
+    "research_subject": "Investigation of the relationship between personal names, social identities, and social status in Scandinavia during the Late Iron Age and Viking Age"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to better understand the relationship between personal names, social identities, and social status in Scandinavian Late Iron Age and Viking Period societies.",
+      "Current understanding of personal naming practices lacks integration with archaeological evidence relating to identity, status, and social structures."
+    ],
+    "objectives": [
+      "Create a better understanding of individual naming and the construction of personal and social identities by investigating the correspondence between names and archaeological evidence.",
+      "Investigate how personal names in place names express status and ownership structures to understand social aspects of Late Iron Age and Viking period settlement patterns."
+    ],
+    "methods": [
+      "Analyze the correspondence between personal name motives and identities expressed in iconography, burial assemblies, and runic inscriptions.",
+      "Examine personal names occurring in place names in relation to archaeological understanding of status, landholding, and gender-related power structures.",
+      "Build an interdisciplinary research environment combining onomastics and archaeology."
+    ],
+    "results": [
+      "Enhanced understanding of how personal names reflected and constructed social identities and status in Scandinavian Late Iron Age and Viking societies.",
+      "New insights into ownership structures, settlement patterns, and gender-related power dynamics through the analysis of personal names in various contexts.",
+      "Establishment of an interdisciplinary research environment at the University of Bergen connecting onomastics and archaeology."
+    ],
+    "research_subject": "Personal names and social identities in Scandinavian Late Iron Age and Viking Period"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to better understand the relationship between personal names, social identities, and social status in Scandinavia during the Late Iron Age and Viking Age.\",\n    \"Current understanding of personal names from this period lacks an up-to-date archaeological framework for interpretation.\"\n  ],\n  \"objectives\": [\n    \"Investigate the correspondence between personal names and archaeological evidence to understand individual naming and the construction of personal and social identities.\",\n    \"Evaluate the relationship between personal names, status, and landholding through analysis of place names and runic inscriptions.\",\n    \"Develop an interdisciplinary research environment combining onomastics and archaeology.\"\n  ],\n  \"methods\": [\n    \"Analyze personal names in relation to iconography, burial assemblies, and runic inscriptions to understand identity construction.\",\n    \"Investigate the use of personal names in place names to understand status and ownership structures.\",\n    \"Combine onomastics and archaeology in an interdisciplinary approach.\"\n  ],\n  \"results\": [\n    \"Enhance understanding of personal naming and social identity construction in Scandinavia during the Late Iron Age and Viking Age.\",\n    \"Provide insights into status and landholding structures, including the role of women in land ownership and power structures.\",\n    \"Establish an interdisciplinary research environment and train researchers in archaeological skills and research management.\"\n  ],\n  \"research_subject\": \"Personal names, social identities, and social status in Scandinavia during the Late Iron Age and Viking Age\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the relationship between personal names, social identities, and social status in Scandinavia during the Late Iron Age and Viking Age.\",\n    \"The use of personal names in place names and runic inscriptions can provide insights into status, ownership structures, and social aspects of settlement patterns during this period.\",\n    \"The perceptions of women and power structures in relation to gender during this period are not well understood and require further investigation.\"\n  ],\n  \"objectives\": [\n    \"Investigate the correspondence between names and archaeological evidence relating to identity to understand individual naming and the construction of personal and social identities.\",\n    \"Evaluate the use of personal names in place names and runic inscriptions in relation to archaeological understanding of status and landholding.\",\n    \"Build an interdisciplinary research environment around onomastics and archaeology at the University in Bergen.\"\n  ],\n  \"methods\": [\n    \"Assess the motives expressed in personal names and how these correspond with identities expressed in iconography, burial assemblies and runic inscriptions.\",\n    \"Investigate how personal names occurring in place names express status and ownership structures.\",\n    \"Train the fellow in archaeological research skills, university teaching and research management.\"\n  ],\n  \"results\": [\n    \"A better understanding of individual naming and the construction of personal and social identities in the Scandinavian Late Iron Age and Viking Period.\",\n    \"Insights into the social aspects of Late Iron Age and Viking period settlement patterns through the study of personal names in place names and runic inscriptions.\",\n    \"An interdisciplinary research environment around onomastics and archaeology at the University in Bergen.\"\n  ],\n  \"research_subject\": \"Investigation of the relationship between personal names, social identities, and social status in Scandinavia during the Late Iron Age and Viking Age\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to better understand the relationship between personal names, social identities, and social status in Scandinavian Late Iron Age and Viking Period societies.\",\n    \"Current understanding of personal naming practices lacks integration with archaeological evidence relating to identity, status, and social structures.\"\n  ],\n  \"objectives\": [\n    \"Create a better understanding of individual naming and the construction of personal and social identities by investigating the correspondence between names and archaeological evidence.\",\n    \"Investigate how personal names in place names express status and ownership structures to understand social aspects of Late Iron Age and Viking period settlement patterns.\"\n  ],\n  \"methods\": [\n    \"Analyze the correspondence between personal name motives and identities expressed in iconography, burial assemblies, and runic inscriptions.\",\n    \"Examine personal names occurring in place names in relation to archaeological understanding of status, landholding, and gender-related power structures.\",\n    \"Build an interdisciplinary research environment combining onomastics and archaeology.\"\n  ],\n  \"results\": [\n    \"Enhanced understanding of how personal names reflected and constructed social identities and status in Scandinavian Late Iron Age and Viking societies.\",\n    \"New insights into ownership structures, settlement patterns, and gender-related power dynamics through the analysis of personal names in various contexts.\",\n    \"Establishment of an interdisciplinary research environment at the University of Bergen connecting onomastics and archaeology.\"\n  ],\n  \"research_subject\": \"Personal names and social identities in Scandinavian Late Iron Age and Viking Period\"\n}\n```"
+}

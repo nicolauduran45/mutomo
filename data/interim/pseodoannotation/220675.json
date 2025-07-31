@@ -1,0 +1,73 @@
+{
+  "index": 435,
+  "title": "Establishing services enhancing the innovation management capacity of sme´s in hamburg and schleswig-holstein",
+  "abstract": "The four partners Investitionsbank Schleswig-Holstein (IB.SH), TuTech Innovation GmbH (TuTech), Wirtschaftsförderung und Technologietransfer Schleswig-Holstein (WTSH) and IFB Hamburg (IFB) are part of the Enterprise Europe Network (EEN) consortium in Hamburg and Schleswig-Holstein and established a well-known regional one-stop-shop for all EU-related enquiries for SMEs and regional stakeholders. For the period 2017-18 core objective is to expand the client base and deepen the level of assistance by offering the new service of “Key Account Management” (KAM) and “Enhancing SME Innovation Management Capacity” (IMC). Aim is to face existing lack of innovation management capacity in small and medium sized companies (SME) and support their innovative activities in order to creating economic impact. The guiding principle is that the services are tailored to the needs of the identified regional innovators and innovation systems. In this context the KAM is targeted at beneficiaries of the SME instrument under Horizon 2020, the EIMC addresses other highly innovative SMEs. The EIMC helps companies to establish effective innovation management systems that enhance the realisation of growth opportunities. The KAM focuses on those weaknesses which endanger the success of the funded project. It assists in finding specialised coaches and establishing a coach-client relationship. Both approaches aim to raise the company´s competitiveness and profitability. In the framework of the project the consortium acquired user licenses for the IMP3rove tool in order to assess gaps and needs of the SMEs. In this context senior staff of the EEN attended training to ensure that the tool is used correctly and the assessment exercise complies with the envisaged EU standard. In addition the participation in training courses gives the chance for a best practice exchange with other EEN colleagues and is of great benefit for the consortium.",
+  "llama_json": {
+    "motivations": [
+      "Small and medium-sized enterprises (SMEs) in Hamburg and Schleswig-Holstein lack innovation management capacity, hindering their ability to create economic impact.",
+      "There is a need for tailored services to support SMEs in managing innovation and increasing competitiveness."
+    ],
+    "objectives": [
+      "Expand the client base and deepen the level of assistance for SMEs through the introduction of Key Account Management (KAM) and Enhancing SME Innovation Management Capacity (IMC) services.",
+      "Support innovative activities in SMEs to create economic impact.",
+      "Establish effective innovation management systems in highly innovative SMEs."
+    ],
+    "methods": [
+      "Offer tailored KAM services to beneficiaries of the SME instrument under Horizon 2020, focusing on weaknesses that endanger project success.",
+      "Provide EIMC services to help companies establish effective innovation management systems.",
+      "Utilize the IMP3rove tool to assess gaps and needs of SMEs, ensuring compliance with EU standards."
+    ],
+    "results": [
+      "Enhance the innovation management capacity of SMEs in Hamburg and Schleswig-Holstein.",
+      "Increase the competitiveness and profitability of SMEs through effective innovation management systems.",
+      "Support the creation of economic impact through innovative activities in SMEs."
+    ],
+    "research_subject": "Enhancing innovation management capacity of SMEs in Hamburg and Schleswig-Holstein"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a recognized lack of innovation management capacity in small and medium-sized companies (SMEs), which hinders their economic impact.",
+      "SMEs require tailored services to support their innovative activities and enhance their competitiveness and profitability."
+    ],
+    "objectives": [
+      "Expand the client base and deepen the level of assistance by offering new services of Key Account Management (KAM) and Enhancing SME Innovation Management Capacity (IMC).",
+      "Support SMEs in establishing effective innovation management systems to realize growth opportunities.",
+      "Address weaknesses that endanger the success of funded projects through specialized coaching."
+    ],
+    "methods": [
+      "Implement Key Account Management targeted at beneficiaries of the SME instrument under Horizon 2020.",
+      "Offer Enhancing SME Innovation Management Capacity service to help companies establish effective innovation management systems.",
+      "Use the IMP3rove tool to assess gaps and needs of the SMEs, with senior staff attending training to ensure correct usage and compliance with EU standards."
+    ],
+    "results": [
+      "Increase the innovation management capacity of SMEs, enhancing their competitiveness and profitability.",
+      "Improve the success rate of funded projects through specialized coaching.",
+      "Identify and address gaps and needs in SMEs through the use of the IMP3rove tool."
+    ],
+    "research_subject": "Enhancing the innovation management capacity of SMEs in Hamburg and Schleswig-Holstein"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Small and medium-sized enterprises (SMEs) in Hamburg and Schleswig-Holstein lack adequate innovation management capacity, which limits their innovative activities and economic impact.",
+      "SMEs receiving funding through programs like the SME instrument face weaknesses that endanger project success and require specialized support."
+    ],
+    "objectives": [
+      "Expand the client base and deepen assistance levels by offering Key Account Management (KAM) and Enhancing SME Innovation Management Capacity (EIMC) services.",
+      "Help SMEs establish effective innovation management systems to enhance growth opportunities and improve competitiveness and profitability."
+    ],
+    "methods": [
+      "Implement tailored Key Account Management services for SME instrument beneficiaries and EIMC services for other highly innovative SMEs.",
+      "Use the IMP3rove tool to assess gaps and needs in SME innovation management capacity.",
+      "Provide specialized coaching and establish coach-client relationships to address identified weaknesses."
+    ],
+    "results": [
+      "Enhanced innovation management capacity and competitiveness of SMEs in Hamburg and Schleswig-Holstein.",
+      "Improved success rates for SMEs participating in EU funding programs through targeted support.",
+      "Establishment of a comprehensive regional support system for SME innovation management."
+    ],
+    "research_subject": "Innovation management capacity enhancement services for SMEs in Hamburg and Schleswig-Holstein"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Small and medium-sized enterprises (SMEs) in Hamburg and Schleswig-Holstein lack innovation management capacity, hindering their ability to create economic impact.\",\n    \"There is a need for tailored services to support SMEs in managing innovation and increasing competitiveness.\"\n  ],\n  \"objectives\": [\n    \"Expand the client base and deepen the level of assistance for SMEs through the introduction of Key Account Management (KAM) and Enhancing SME Innovation Management Capacity (IMC) services.\",\n    \"Support innovative activities in SMEs to create economic impact.\",\n    \"Establish effective innovation management systems in highly innovative SMEs.\"\n  ],\n  \"methods\": [\n    \"Offer tailored KAM services to beneficiaries of the SME instrument under Horizon 2020, focusing on weaknesses that endanger project success.\",\n    \"Provide EIMC services to help companies establish effective innovation management systems.\",\n    \"Utilize the IMP3rove tool to assess gaps and needs of SMEs, ensuring compliance with EU standards.\"\n  ],\n  \"results\": [\n    \"Enhance the innovation management capacity of SMEs in Hamburg and Schleswig-Holstein.\",\n    \"Increase the competitiveness and profitability of SMEs through effective innovation management systems.\",\n    \"Support the creation of economic impact through innovative activities in SMEs.\"\n  ],\n  \"research_subject\": \"Enhancing innovation management capacity of SMEs in Hamburg and Schleswig-Holstein\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a recognized lack of innovation management capacity in small and medium-sized companies (SMEs), which hinders their economic impact.\",\n    \"SMEs require tailored services to support their innovative activities and enhance their competitiveness and profitability.\"\n  ],\n  \"objectives\": [\n    \"Expand the client base and deepen the level of assistance by offering new services of Key Account Management (KAM) and Enhancing SME Innovation Management Capacity (IMC).\",\n    \"Support SMEs in establishing effective innovation management systems to realize growth opportunities.\",\n    \"Address weaknesses that endanger the success of funded projects through specialized coaching.\"\n  ],\n  \"methods\": [\n    \"Implement Key Account Management targeted at beneficiaries of the SME instrument under Horizon 2020.\",\n    \"Offer Enhancing SME Innovation Management Capacity service to help companies establish effective innovation management systems.\",\n    \"Use the IMP3rove tool to assess gaps and needs of the SMEs, with senior staff attending training to ensure correct usage and compliance with EU standards.\"\n  ],\n  \"results\": [\n    \"Increase the innovation management capacity of SMEs, enhancing their competitiveness and profitability.\",\n    \"Improve the success rate of funded projects through specialized coaching.\",\n    \"Identify and address gaps and needs in SMEs through the use of the IMP3rove tool.\"\n  ],\n  \"research_subject\": \"Enhancing the innovation management capacity of SMEs in Hamburg and Schleswig-Holstein\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Small and medium-sized enterprises (SMEs) in Hamburg and Schleswig-Holstein lack adequate innovation management capacity, which limits their innovative activities and economic impact.\",\n    \"SMEs receiving funding through programs like the SME instrument face weaknesses that endanger project success and require specialized support.\"\n  ],\n  \"objectives\": [\n    \"Expand the client base and deepen assistance levels by offering Key Account Management (KAM) and Enhancing SME Innovation Management Capacity (EIMC) services.\",\n    \"Help SMEs establish effective innovation management systems to enhance growth opportunities and improve competitiveness and profitability.\"\n  ],\n  \"methods\": [\n    \"Implement tailored Key Account Management services for SME instrument beneficiaries and EIMC services for other highly innovative SMEs.\",\n    \"Use the IMP3rove tool to assess gaps and needs in SME innovation management capacity.\",\n    \"Provide specialized coaching and establish coach-client relationships to address identified weaknesses.\"\n  ],\n  \"results\": [\n    \"Enhanced innovation management capacity and competitiveness of SMEs in Hamburg and Schleswig-Holstein.\",\n    \"Improved success rates for SMEs participating in EU funding programs through targeted support.\",\n    \"Establishment of a comprehensive regional support system for SME innovation management.\"\n  ],\n  \"research_subject\": \"Innovation management capacity enhancement services for SMEs in Hamburg and Schleswig-Holstein\"\n}\n```"
+}

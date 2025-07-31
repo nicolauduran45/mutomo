@@ -1,0 +1,68 @@
+{
+  "index": 110,
+  "title": "Innovative assay for micrornas analysis",
+  "abstract": "MicroRNAs (miRNAs) are a class of newly discovered biomolecules implicated in numerous biological systems and in common human diseases (e.g. cancer, Alzheimer, osteoarthritis). It has been shown that MiRNAs are biomarkers with great diagnostic and prognostic value. MiRNAs can be the next generation targets for diagnostics and therapeutics and this is reflected in the miRNA analysis market which is forecasted to have a CAGR of 23.4% in the coming years. Unfortunately, miRNAs are very difficult to detect and measure. The methods we have today are complex, expensive and time consuming. These limitations are restricting the use of miRNA in clinics and hospitals for diagnostic medicine. LIVELMIA is an answer to these problems. We has succeeded in developing a disruptive innovative method for high-throughput miRNAs analyses, that allows a general improvement in terms of cost, easy-of-use and accuracy. We have cut down the time required by nearly a factor of 2, bringing the total analysis time down from 6 hours to 3 hours. Furthermore LIVELMIA has a high specificity making it ideal in diagnostics to ensure quality readings in any condition. LIVELMIA is a chemical assay kit for quantification of miRNAs on various types of samples (blood, biopsies, cells) with applications in the field of health research and diagnostics medicine. Our ultimate goal is helping biomedical researchers to improve miRNA studies and move miRNA analysis from laboratory to the clinic to bring profound benefits to public health. Today we have a TRL6/7 prototype. We are gaining considerable interest from potential customers, dealers and stakeholders. We have filed for a patent in 2018 and we are now submitting this Phase 1 proposal in order to study the feasibility and develop a business plan for LIVELMIA, where we intend to study the best segments for exploitation, our pricing strategy, costs, etc.",
+  "llama_json": {
+    "motivations": [
+      "Current methods for detecting and measuring microRNAs (miRNAs) are complex, expensive, and time-consuming, limiting their use in clinics and hospitals for diagnostic medicine.",
+      "There is a growing need for efficient and accurate miRNA analysis due to their potential as biomarkers for various diseases and their increasing importance in diagnostics and therapeutics."
+    ],
+    "objectives": [
+      "Develop and commercialize a novel, high-throughput method for miRNA analysis (LIVELMIA) that improves upon existing methods in terms of cost, ease-of-use, and accuracy.",
+      "Enable the transition of miRNA analysis from laboratory settings to clinical applications, ultimately benefiting public health."
+    ],
+    "methods": [
+      "Develop a chemical assay kit (LIVELMIA) for quantifying miRNAs in various sample types, including blood, biopsies, and cells.",
+      "Conduct feasibility studies and develop a business plan to identify optimal market segments, pricing strategies, and costs associated with LIVELMIA."
+    ],
+    "results": [
+      "Reduce the time required for miRNA analysis by nearly half, from 6 hours to 3 hours, while maintaining high specificity.",
+      "Improve the accessibility and usability of miRNA analysis for biomedical researchers and clinicians, leading to enhanced diagnostic capabilities and public health benefits."
+    ],
+    "research_subject": "Development of an innovative assay for microRNA analysis"
+  },
+  "openai_json": {
+    "motivations": [
+      "MicroRNAs (miRNAs) are potential biomarkers for various diseases, but their detection and measurement are complex, expensive, and time-consuming.",
+      "The limitations of current miRNA analysis methods hinder their use in clinical diagnostics."
+    ],
+    "objectives": [
+      "Develop an innovative, high-throughput method for miRNA analysis that improves cost, ease-of-use, and accuracy.",
+      "Reduce the time required for miRNA analysis and ensure high specificity for quality readings in diagnostics.",
+      "Facilitate the transition of miRNA analysis from laboratory to clinical settings to benefit public health."
+    ],
+    "methods": [
+      "Develop LIVELMIA, a chemical assay kit for the quantification of miRNAs in various types of samples.",
+      "Test and validate the LIVELMIA prototype, ensuring its effectiveness and efficiency in miRNA analysis.",
+      "Study the feasibility and develop a business plan for LIVELMIA, including market segmentation, pricing strategy, and cost analysis."
+    ],
+    "results": [
+      "Achieve a significant reduction in miRNA analysis time, from 6 hours to 3 hours, with the LIVELMIA method.",
+      "Improve the accuracy and specificity of miRNA analysis, making it ideal for diagnostic applications.",
+      "Generate interest from potential customers, dealers, and stakeholders, and secure a patent for the LIVELMIA method."
+    ],
+    "research_subject": "Development and commercialization of an innovative assay for miRNA analysis"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "MicroRNAs are valuable biomarkers for diagnostics and therapeutics, but current detection methods are complex, expensive, and time-consuming.",
+      "The limitations of existing miRNA analysis methods restrict their use in clinical settings and hospitals for diagnostic medicine."
+    ],
+    "objectives": [
+      "Develop and commercialize a disruptive, high-throughput miRNA analysis method that improves cost-effectiveness, ease-of-use, and accuracy.",
+      "Enable the transition of miRNA analysis from laboratory research to clinical diagnostics to benefit public health."
+    ],
+    "methods": [
+      "Development of a chemical assay kit for quantification of miRNAs in various sample types including blood, biopsies, and cells.",
+      "Implementation of a high-specificity analysis method that reduces total analysis time from 6 hours to 3 hours."
+    ],
+    "results": [
+      "Created a TRL6/7 prototype that cuts analysis time by half while maintaining high specificity for diagnostic applications.",
+      "Generated significant interest from potential customers, dealers, and stakeholders in the biomedical research and diagnostics sectors."
+    ],
+    "research_subject": "Development of an innovative chemical assay kit for rapid and accurate microRNA analysis"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current methods for detecting and measuring microRNAs (miRNAs) are complex, expensive, and time-consuming, limiting their use in clinics and hospitals for diagnostic medicine.\",\n    \"There is a growing need for efficient and accurate miRNA analysis due to their potential as biomarkers for various diseases and their increasing importance in diagnostics and therapeutics.\"\n  ],\n  \"objectives\": [\n    \"Develop and commercialize a novel, high-throughput method for miRNA analysis (LIVELMIA) that improves upon existing methods in terms of cost, ease-of-use, and accuracy.\",\n    \"Enable the transition of miRNA analysis from laboratory settings to clinical applications, ultimately benefiting public health.\"\n  ],\n  \"methods\": [\n    \"Develop a chemical assay kit (LIVELMIA) for quantifying miRNAs in various sample types, including blood, biopsies, and cells.\",\n    \"Conduct feasibility studies and develop a business plan to identify optimal market segments, pricing strategies, and costs associated with LIVELMIA.\"\n  ],\n  \"results\": [\n    \"Reduce the time required for miRNA analysis by nearly half, from 6 hours to 3 hours, while maintaining high specificity.\",\n    \"Improve the accessibility and usability of miRNA analysis for biomedical researchers and clinicians, leading to enhanced diagnostic capabilities and public health benefits.\"\n  ],\n  \"research_subject\": \"Development of an innovative assay for microRNA analysis\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"MicroRNAs (miRNAs) are potential biomarkers for various diseases, but their detection and measurement are complex, expensive, and time-consuming.\",\n    \"The limitations of current miRNA analysis methods hinder their use in clinical diagnostics.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative, high-throughput method for miRNA analysis that improves cost, ease-of-use, and accuracy.\",\n    \"Reduce the time required for miRNA analysis and ensure high specificity for quality readings in diagnostics.\",\n    \"Facilitate the transition of miRNA analysis from laboratory to clinical settings to benefit public health.\"\n  ],\n  \"methods\": [\n    \"Develop LIVELMIA, a chemical assay kit for the quantification of miRNAs in various types of samples.\",\n    \"Test and validate the LIVELMIA prototype, ensuring its effectiveness and efficiency in miRNA analysis.\",\n    \"Study the feasibility and develop a business plan for LIVELMIA, including market segmentation, pricing strategy, and cost analysis.\"\n  ],\n  \"results\": [\n    \"Achieve a significant reduction in miRNA analysis time, from 6 hours to 3 hours, with the LIVELMIA method.\",\n    \"Improve the accuracy and specificity of miRNA analysis, making it ideal for diagnostic applications.\",\n    \"Generate interest from potential customers, dealers, and stakeholders, and secure a patent for the LIVELMIA method.\"\n  ],\n  \"research_subject\": \"Development and commercialization of an innovative assay for miRNA analysis\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"MicroRNAs are valuable biomarkers for diagnostics and therapeutics, but current detection methods are complex, expensive, and time-consuming.\",\n    \"The limitations of existing miRNA analysis methods restrict their use in clinical settings and hospitals for diagnostic medicine.\"\n  ],\n  \"objectives\": [\n    \"Develop and commercialize a disruptive, high-throughput miRNA analysis method that improves cost-effectiveness, ease-of-use, and accuracy.\",\n    \"Enable the transition of miRNA analysis from laboratory research to clinical diagnostics to benefit public health.\"\n  ],\n  \"methods\": [\n    \"Development of a chemical assay kit for quantification of miRNAs in various sample types including blood, biopsies, and cells.\",\n    \"Implementation of a high-specificity analysis method that reduces total analysis time from 6 hours to 3 hours.\"\n  ],\n  \"results\": [\n    \"Created a TRL6/7 prototype that cuts analysis time by half while maintaining high specificity for diagnostic applications.\",\n    \"Generated significant interest from potential customers, dealers, and stakeholders in the biomedical research and diagnostics sectors.\"\n  ],\n  \"research_subject\": \"Development of an innovative chemical assay kit for rapid and accurate microRNA analysis\"\n}\n```"
+}

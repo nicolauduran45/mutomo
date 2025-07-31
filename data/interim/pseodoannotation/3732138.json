@@ -1,0 +1,72 @@
+{
+  "index": 477,
+  "title": "Circuit and synaptic plasticity mechanisms of approach and avoidance social behavior.",
+  "abstract": "Social behavior is defined as any modality of communication and interaction between two or more conspecifics. These behaviors, which include affiliative and antagonistic interactions, are exhibited by all sexually reproducing species, they are characterized by high-level complexity of communication through multiple sensory modalities and they are essential for survival. Humans and other animals living in groups continuously experience situations in which they need to select appropriate behavioral responses upon exposure to conspecifics. At the very basis of this social behavior, an individual needs to decide for example whether to approach (positive or appetitive) or avoid (negative or aversive) other individuals. Here, using mice, we will investigate the brain circuits and synaptic mechanisms involved in conspecific approach and avoidance behavior. The Nucleus Accumbens (NAc) is a key region of the mesocorticolimbic circuits for evaluating appetitive and aversive information. Recent studies have revealed the importance of NAc in social behavior, but which neurons within this structure are relevant and how they contribute to conspecific interaction is largely unknown. We hypothesize that different populations of neurons within the NAc orchestrate and integrate different types of socially relevant information to initiate the appropriate behavioral response. Using in vivo and ex vivo recordings and circuit-specific optogenetic manipulations in specific social interaction conditions, we will investigate how the NAc integrates information about conspecifics and how it incorporates learned associations to initiate conspecific approach or avoidance. This study will thus identify and functionally characterize the circuit and synaptic mechanisms controlling socially appetitive and aversive stimuli, and hence pave the way for a causal understanding of the processes underlying disruption of complex social behaviors in psychiatric disorders.",
+  "llama_json": {
+    "motivations": [
+      "Social behavior is crucial for survival, but the underlying brain circuits and synaptic mechanisms are not well understood.",
+      "Disruptions in social behavior are associated with psychiatric disorders, highlighting the need for a causal understanding of the underlying processes."
+    ],
+    "objectives": [
+      "Investigate the brain circuits and synaptic mechanisms involved in conspecific approach and avoidance behavior.",
+      "Identify and functionally characterize the circuit and synaptic mechanisms controlling socially appetitive and aversive stimuli.",
+      "Understand how the Nucleus Accumbens integrates information about conspecifics and incorporates learned associations to initiate behavioral responses."
+    ],
+    "methods": [
+      "Use in vivo and ex vivo recordings to investigate neural activity in the Nucleus Accumbens during social interaction.",
+      "Employ circuit-specific optogenetic manipulations to examine the causal role of specific neurons in conspecific approach and avoidance behavior.",
+      "Utilize mice as a model organism to study the neural mechanisms underlying social behavior."
+    ],
+    "results": [
+      "Provide a causal understanding of the processes underlying disruption of complex social behaviors in psychiatric disorders.",
+      "Identify the specific neurons and circuits involved in conspecific approach and avoidance behavior.",
+      "Elucidate the mechanisms by which the Nucleus Accumbens integrates socially relevant information to initiate behavioral responses."
+    ],
+    "research_subject": "Neural mechanisms of social behavior, specifically approach and avoidance behavior in conspecific interactions"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the brain circuits and synaptic mechanisms involved in social behavior, specifically approach and avoidance behavior, is essential for a deeper understanding of social interaction.",
+      "There is a lack of knowledge about the specific neurons within the Nucleus Accumbens (NAc) that contribute to social behavior.",
+      "A better understanding of the processes underlying disruption of complex social behaviors could provide insights into psychiatric disorders."
+    ],
+    "objectives": [
+      "Investigate the brain circuits and synaptic mechanisms involved in conspecific approach and avoidance behavior using mice as a model.",
+      "Explore how different populations of neurons within the NAc integrate different types of socially relevant information to initiate the appropriate behavioral response.",
+      "Identify and functionally characterize the circuit and synaptic mechanisms controlling socially appetitive and aversive stimuli."
+    ],
+    "methods": [
+      "Use in vivo and ex vivo recordings and circuit-specific optogenetic manipulations in specific social interaction conditions.",
+      "Investigate how the NAc integrates information about conspecifics and how it incorporates learned associations to initiate conspecific approach or avoidance."
+    ],
+    "results": [
+      "Expected to identify and functionally characterize the circuit and synaptic mechanisms controlling socially appetitive and aversive stimuli.",
+      "Anticipate a better understanding of the processes underlying disruption of complex social behaviors, potentially providing insights into psychiatric disorders."
+    ],
+    "research_subject": "Circuit and synaptic plasticity mechanisms of approach and avoidance social behavior"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Social behavior is essential for survival and involves complex decision-making about whether to approach or avoid conspecifics, but the underlying neural mechanisms remain poorly understood.",
+      "Understanding the brain circuits controlling social approach and avoidance behaviors is crucial for comprehending disruptions in social behaviors associated with psychiatric disorders."
+    ],
+    "objectives": [
+      "Investigate the brain circuits and synaptic mechanisms in the Nucleus Accumbens that control conspecific approach and avoidance behavior in mice.",
+      "Identify and functionally characterize how different neuronal populations within the NAc integrate socially relevant information to initiate appropriate behavioral responses."
+    ],
+    "methods": [
+      "Employ in vivo and ex vivo recordings to monitor neural activity during social interactions.",
+      "Use circuit-specific optogenetic manipulations to causally test the role of specific neural populations in social behavior.",
+      "Examine neural responses under specific social interaction conditions to understand information integration and learned associations."
+    ],
+    "results": [
+      "Identification of specific neuronal populations and circuits within the NAc that control social approach and avoidance behaviors.",
+      "Characterization of synaptic mechanisms underlying the integration of socially appetitive and aversive stimuli.",
+      "Establishment of a causal understanding of neural processes that could explain disruptions in social behaviors in psychiatric disorders."
+    ],
+    "research_subject": "Neural circuits and synaptic mechanisms of social approach and avoidance behavior in the Nucleus Accumbens"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Social behavior is crucial for survival, but the underlying brain circuits and synaptic mechanisms are not well understood.\",\n    \"Disruptions in social behavior are associated with psychiatric disorders, highlighting the need for a causal understanding of the underlying processes.\"\n  ],\n  \"objectives\": [\n    \"Investigate the brain circuits and synaptic mechanisms involved in conspecific approach and avoidance behavior.\",\n    \"Identify and functionally characterize the circuit and synaptic mechanisms controlling socially appetitive and aversive stimuli.\",\n    \"Understand how the Nucleus Accumbens integrates information about conspecifics and incorporates learned associations to initiate behavioral responses.\"\n  ],\n  \"methods\": [\n    \"Use in vivo and ex vivo recordings to investigate neural activity in the Nucleus Accumbens during social interaction.\",\n    \"Employ circuit-specific optogenetic manipulations to examine the causal role of specific neurons in conspecific approach and avoidance behavior.\",\n    \"Utilize mice as a model organism to study the neural mechanisms underlying social behavior.\"\n  ],\n  \"results\": [\n    \"Provide a causal understanding of the processes underlying disruption of complex social behaviors in psychiatric disorders.\",\n    \"Identify the specific neurons and circuits involved in conspecific approach and avoidance behavior.\",\n    \"Elucidate the mechanisms by which the Nucleus Accumbens integrates socially relevant information to initiate behavioral responses.\"\n  ],\n  \"research_subject\": \"Neural mechanisms of social behavior, specifically approach and avoidance behavior in conspecific interactions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the brain circuits and synaptic mechanisms involved in social behavior, specifically approach and avoidance behavior, is essential for a deeper understanding of social interaction.\",\n    \"There is a lack of knowledge about the specific neurons within the Nucleus Accumbens (NAc) that contribute to social behavior.\",\n    \"A better understanding of the processes underlying disruption of complex social behaviors could provide insights into psychiatric disorders.\"\n  ],\n  \"objectives\": [\n    \"Investigate the brain circuits and synaptic mechanisms involved in conspecific approach and avoidance behavior using mice as a model.\",\n    \"Explore how different populations of neurons within the NAc integrate different types of socially relevant information to initiate the appropriate behavioral response.\",\n    \"Identify and functionally characterize the circuit and synaptic mechanisms controlling socially appetitive and aversive stimuli.\"\n  ],\n  \"methods\": [\n    \"Use in vivo and ex vivo recordings and circuit-specific optogenetic manipulations in specific social interaction conditions.\",\n    \"Investigate how the NAc integrates information about conspecifics and how it incorporates learned associations to initiate conspecific approach or avoidance.\"\n  ],\n  \"results\": [\n    \"Expected to identify and functionally characterize the circuit and synaptic mechanisms controlling socially appetitive and aversive stimuli.\",\n    \"Anticipate a better understanding of the processes underlying disruption of complex social behaviors, potentially providing insights into psychiatric disorders.\"\n  ],\n  \"research_subject\": \"Circuit and synaptic plasticity mechanisms of approach and avoidance social behavior\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Social behavior is essential for survival and involves complex decision-making about whether to approach or avoid conspecifics, but the underlying neural mechanisms remain poorly understood.\",\n    \"Understanding the brain circuits controlling social approach and avoidance behaviors is crucial for comprehending disruptions in social behaviors associated with psychiatric disorders.\"\n  ],\n  \"objectives\": [\n    \"Investigate the brain circuits and synaptic mechanisms in the Nucleus Accumbens that control conspecific approach and avoidance behavior in mice.\",\n    \"Identify and functionally characterize how different neuronal populations within the NAc integrate socially relevant information to initiate appropriate behavioral responses.\"\n  ],\n  \"methods\": [\n    \"Employ in vivo and ex vivo recordings to monitor neural activity during social interactions.\",\n    \"Use circuit-specific optogenetic manipulations to causally test the role of specific neural populations in social behavior.\",\n    \"Examine neural responses under specific social interaction conditions to understand information integration and learned associations.\"\n  ],\n  \"results\": [\n    \"Identification of specific neuronal populations and circuits within the NAc that control social approach and avoidance behaviors.\",\n    \"Characterization of synaptic mechanisms underlying the integration of socially appetitive and aversive stimuli.\",\n    \"Establishment of a causal understanding of neural processes that could explain disruptions in social behaviors in psychiatric disorders.\"\n  ],\n  \"research_subject\": \"Neural circuits and synaptic mechanisms of social approach and avoidance behavior in the Nucleus Accumbens\"\n}\n```"
+}

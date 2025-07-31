@@ -1,0 +1,61 @@
+{
+  "index": 137,
+  "title": "Uncaging Calcium in Neurons",
+  "abstract": "Changes in intracellular free calcium concentration (Δ[Ca 2+ ] i ) driving physiological events such as neurotransmitter release or Ca 2+ -dependent currents can be monitored using Ca 2+ -sensitive fluorescent dyes. Although these dyes can correlate Δ[Ca 2+ ] i with a physiological event, they cannot directly test for causality between changes in [Ca 2+ ] i and that event. Photolabile Ca 2+ chelators are Ca 2+ -binding molecules that can alter and, to a certain extent, control [Ca 2+ ] i in an inducible manner and with temporal and spatial resolution that surpasses microinjection or ionophore application. Here we discuss the properties of caged Ca 2+ compounds as well as some practical considerations for their use in neuronal cells, where they have proven particularly effective.",
+  "llama_json": {
+    "motivations": [
+      "Current methods using Ca2+-sensitive fluorescent dyes cannot directly test for causality between changes in intracellular free calcium concentration and physiological events in neurons."
+    ],
+    "objectives": [
+      "Discuss the properties and applications of photolabile Ca2+ chelators (caged Ca2+ compounds) in controlling intracellular free calcium concentration in neurons."
+    ],
+    "methods": [
+      "Utilize caged Ca2+ compounds to alter and control intracellular free calcium concentration in an inducible manner with high temporal and spatial resolution."
+    ],
+    "results": [
+      "Enable direct testing for causality between changes in intracellular free calcium concentration and physiological events in neurons."
+    ],
+    "research_subject": "Controlling intracellular free calcium concentration in neurons using caged Ca2+ compounds"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current methods for monitoring changes in intracellular free calcium concentration (Δ[Ca 2+ ] i ) can correlate Δ[Ca 2+ ] i with a physiological event, but they cannot directly test for causality.",
+      "There is a need for a method that can control [Ca 2+ ] i in an inducible manner with high temporal and spatial resolution."
+    ],
+    "objectives": [
+      "Discuss the properties of photolabile Ca 2+ chelators, which are Ca 2+ -binding molecules that can alter and control [Ca 2+ ] i in an inducible manner.",
+      "Provide practical considerations for the use of caged Ca 2+ compounds in neuronal cells."
+    ],
+    "methods": [
+      "Use of photolabile Ca 2+ chelators to control [Ca 2+ ] i in an inducible manner.",
+      "Application of caged Ca 2+ compounds in neuronal cells."
+    ],
+    "results": [
+      "Potential to directly test for causality between changes in [Ca 2+ ] i and physiological events.",
+      "Improved control over [Ca 2+ ] i with high temporal and spatial resolution."
+    ],
+    "research_subject": "Controlling intracellular free calcium concentration in neurons using photolabile Ca 2+ chelators"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current calcium-sensitive fluorescent dyes can only correlate calcium concentration changes with physiological events but cannot establish direct causality between calcium changes and these events.",
+      "There is a need for methods that can precisely control and manipulate intracellular calcium concentrations with high temporal and spatial resolution in neurons."
+    ],
+    "objectives": [
+      "Evaluate photolabile calcium chelators as tools to directly test causality between intracellular calcium concentration changes and physiological events in neurons.",
+      "Provide practical guidance for using caged calcium compounds in neuronal cells to control calcium dynamics."
+    ],
+    "methods": [
+      "Use photolabile calcium chelators that release calcium upon light exposure to control intracellular calcium concentrations.",
+      "Apply caged calcium compounds with superior temporal and spatial resolution compared to traditional methods like microinjection or ionophore application."
+    ],
+    "results": [
+      "Photolabile calcium chelators enable direct testing of causal relationships between calcium concentration changes and physiological events such as neurotransmitter release.",
+      "These compounds provide enhanced control over intracellular calcium dynamics in neurons with unprecedented precision."
+    ],
+    "research_subject": "Photolabile calcium chelators for controlling intracellular calcium in neurons"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current methods using Ca2+-sensitive fluorescent dyes cannot directly test for causality between changes in intracellular free calcium concentration and physiological events in neurons.\"\n  ],\n  \"objectives\": [\n    \"Discuss the properties and applications of photolabile Ca2+ chelators (caged Ca2+ compounds) in controlling intracellular free calcium concentration in neurons.\"\n  ],\n  \"methods\": [\n    \"Utilize caged Ca2+ compounds to alter and control intracellular free calcium concentration in an inducible manner with high temporal and spatial resolution.\"\n  ],\n  \"results\": [\n    \"Enable direct testing for causality between changes in intracellular free calcium concentration and physiological events in neurons.\"\n  ],\n  \"research_subject\": \"Controlling intracellular free calcium concentration in neurons using caged Ca2+ compounds\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current methods for monitoring changes in intracellular free calcium concentration (Δ[Ca 2+ ] i ) can correlate Δ[Ca 2+ ] i with a physiological event, but they cannot directly test for causality.\",\n    \"There is a need for a method that can control [Ca 2+ ] i in an inducible manner with high temporal and spatial resolution.\"\n  ],\n  \"objectives\": [\n    \"Discuss the properties of photolabile Ca 2+ chelators, which are Ca 2+ -binding molecules that can alter and control [Ca 2+ ] i in an inducible manner.\",\n    \"Provide practical considerations for the use of caged Ca 2+ compounds in neuronal cells.\"\n  ],\n  \"methods\": [\n    \"Use of photolabile Ca 2+ chelators to control [Ca 2+ ] i in an inducible manner.\",\n    \"Application of caged Ca 2+ compounds in neuronal cells.\"\n  ],\n  \"results\": [\n    \"Potential to directly test for causality between changes in [Ca 2+ ] i and physiological events.\",\n    \"Improved control over [Ca 2+ ] i with high temporal and spatial resolution.\"\n  ],\n  \"research_subject\": \"Controlling intracellular free calcium concentration in neurons using photolabile Ca 2+ chelators\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current calcium-sensitive fluorescent dyes can only correlate calcium concentration changes with physiological events but cannot establish direct causality between calcium changes and these events.\",\n    \"There is a need for methods that can precisely control and manipulate intracellular calcium concentrations with high temporal and spatial resolution in neurons.\"\n  ],\n  \"objectives\": [\n    \"Evaluate photolabile calcium chelators as tools to directly test causality between intracellular calcium concentration changes and physiological events in neurons.\",\n    \"Provide practical guidance for using caged calcium compounds in neuronal cells to control calcium dynamics.\"\n  ],\n  \"methods\": [\n    \"Use photolabile calcium chelators that release calcium upon light exposure to control intracellular calcium concentrations.\",\n    \"Apply caged calcium compounds with superior temporal and spatial resolution compared to traditional methods like microinjection or ionophore application.\"\n  ],\n  \"results\": [\n    \"Photolabile calcium chelators enable direct testing of causal relationships between calcium concentration changes and physiological events such as neurotransmitter release.\",\n    \"These compounds provide enhanced control over intracellular calcium dynamics in neurons with unprecedented precision.\"\n  ],\n  \"research_subject\": \"Photolabile calcium chelators for controlling intracellular calcium in neurons\"\n}\n```"
+}

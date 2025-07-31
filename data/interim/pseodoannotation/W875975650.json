@@ -1,0 +1,72 @@
+{
+  "index": 390,
+  "title": "Human Corneal MicroRNA Expression Profile in Fungal Keratitis",
+  "abstract": "MicroRNAs (miRNAs) are small, stable, noncoding RNA molecules with regulatory function and marked tissue specificity that posttranscriptionally regulate gene expression. However, their role in fungal keratitis remains unknown. The purpose of this study was to identify the miRNA profile and its regulatory role in fungal keratitis.Normal donor (n = 3) and fungal keratitis (n = 5) corneas were pooled separately, and small RNA deep sequencing was performed using a sequencing platform. A bioinformatics approach was applied to identify differentially-expressed miRNAs and their targets, and select miRNAs were validated by real-time quantitative PCR (qPCR). The regulatory functions of miRNAs were predicted by combining miRNA target genes and pathway analysis. The mRNA expression levels of select target genes were further analyzed by qPCR.By deep sequencing, 75 miRNAs were identified as differentially expressed with fold change greater than 2 and probability score greater than 0.9 in fungal keratitis corneas. The highly dysregulated miRNAs (miR-511-5p, miR-142-3p, miR-155-5p, and miR-451a) may regulate wound healing as they were predicted to specifically target wound inflammatory genes. Moreover, the increased expression of miR-451a in keratitis correlated with reduced expression of its target, macrophage migration inhibitory factor, suggesting possible regulatory functions.This is, to our knowledge, the first report on comprehensive human corneal miRNA expression profile in fungal keratitis. Several miRNAs with high expression in fungal keratitis point toward their potential role in regulation of pathogenesis. Further insights in understanding their role in corneal wound inflammation may help design new therapeutic strategies.",
+  "llama_json": {
+    "motivations": [
+      "The role of microRNAs (miRNAs) in fungal keratitis is unknown, hindering the understanding of its pathogenesis and potential therapeutic strategies.",
+      "Fungal keratitis is a significant condition that requires better understanding of its molecular mechanisms to improve treatment options."
+    ],
+    "objectives": [
+      "Identify the miRNA profile in fungal keratitis and its regulatory role in the condition.",
+      "Determine the differentially-expressed miRNAs and their targets in fungal keratitis corneas."
+    ],
+    "methods": [
+      "Perform small RNA deep sequencing on normal donor and fungal keratitis corneas to identify miRNA profiles.",
+      "Apply bioinformatics approaches to identify differentially-expressed miRNAs and their targets.",
+      "Validate select miRNAs using real-time quantitative PCR (qPCR) and analyze their regulatory functions."
+    ],
+    "results": [
+      "Identified 75 differentially-expressed miRNAs in fungal keratitis corneas, including highly dysregulated miRNAs that may regulate wound healing.",
+      "Found a correlation between increased expression of miR-451a and reduced expression of its target, macrophage migration inhibitory factor.",
+      "Provided insights into the potential role of miRNAs in regulating the pathogenesis of fungal keratitis."
+    ],
+    "research_subject": "MicroRNA expression profile in human corneas with fungal keratitis"
+  },
+  "openai_json": {
+    "motivations": [
+      "MicroRNAs (miRNAs) have regulatory functions and tissue specificity, but their role in fungal keratitis is not yet understood.",
+      "There is a need to understand the miRNA profile and its regulatory role in fungal keratitis to potentially design new therapeutic strategies."
+    ],
+    "objectives": [
+      "Identify the miRNA profile in fungal keratitis.",
+      "Understand the regulatory role of miRNAs in fungal keratitis.",
+      "Analyze the mRNA expression levels of select target genes."
+    ],
+    "methods": [
+      "Perform small RNA deep sequencing on normal donor and fungal keratitis corneas.",
+      "Use a bioinformatics approach to identify differentially-expressed miRNAs and their targets.",
+      "Validate select miRNAs using real-time quantitative PCR (qPCR)."
+    ],
+    "results": [
+      "Identified 75 miRNAs as differentially expressed in fungal keratitis corneas.",
+      "Found that highly dysregulated miRNAs may regulate wound healing by specifically targeting wound inflammatory genes.",
+      "Observed a correlation between increased expression of miR-451a in keratitis and reduced expression of its target, suggesting possible regulatory functions."
+    ],
+    "research_subject": "MicroRNA expression profile in fungal keratitis"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The role of microRNAs in fungal keratitis remains unknown despite their known regulatory function and tissue specificity.",
+      "Understanding the regulatory mechanisms of miRNAs in fungal keratitis could lead to new therapeutic strategies for corneal wound inflammation."
+    ],
+    "objectives": [
+      "Identify the microRNA expression profile in human corneas with fungal keratitis.",
+      "Determine the regulatory role of differentially expressed miRNAs in fungal keratitis pathogenesis."
+    ],
+    "methods": [
+      "Performed small RNA deep sequencing on pooled normal donor and fungal keratitis corneas using a sequencing platform.",
+      "Applied bioinformatics approaches to identify differentially-expressed miRNAs and their target genes.",
+      "Validated select miRNAs and analyzed target gene expression using real-time quantitative PCR."
+    ],
+    "results": [
+      "Identified 75 differentially expressed miRNAs in fungal keratitis corneas with significant fold changes.",
+      "Found that highly dysregulated miRNAs may regulate wound healing by targeting inflammatory genes.",
+      "Demonstrated that increased miR-451a expression correlated with reduced expression of macrophage migration inhibitory factor, suggesting regulatory functions."
+    ],
+    "research_subject": "MicroRNA expression profile and regulatory role in human fungal keratitis"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The role of microRNAs (miRNAs) in fungal keratitis is unknown, hindering the understanding of its pathogenesis and potential therapeutic strategies.\",\n    \"Fungal keratitis is a significant condition that requires better understanding of its molecular mechanisms to improve treatment options.\"\n  ],\n  \"objectives\": [\n    \"Identify the miRNA profile in fungal keratitis and its regulatory role in the condition.\",\n    \"Determine the differentially-expressed miRNAs and their targets in fungal keratitis corneas.\"\n  ],\n  \"methods\": [\n    \"Perform small RNA deep sequencing on normal donor and fungal keratitis corneas to identify miRNA profiles.\",\n    \"Apply bioinformatics approaches to identify differentially-expressed miRNAs and their targets.\",\n    \"Validate select miRNAs using real-time quantitative PCR (qPCR) and analyze their regulatory functions.\"\n  ],\n  \"results\": [\n    \"Identified 75 differentially-expressed miRNAs in fungal keratitis corneas, including highly dysregulated miRNAs that may regulate wound healing.\",\n    \"Found a correlation between increased expression of miR-451a and reduced expression of its target, macrophage migration inhibitory factor.\",\n    \"Provided insights into the potential role of miRNAs in regulating the pathogenesis of fungal keratitis.\"\n  ],\n  \"research_subject\": \"MicroRNA expression profile in human corneas with fungal keratitis\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"MicroRNAs (miRNAs) have regulatory functions and tissue specificity, but their role in fungal keratitis is not yet understood.\",\n    \"There is a need to understand the miRNA profile and its regulatory role in fungal keratitis to potentially design new therapeutic strategies.\"\n  ],\n  \"objectives\": [\n    \"Identify the miRNA profile in fungal keratitis.\",\n    \"Understand the regulatory role of miRNAs in fungal keratitis.\",\n    \"Analyze the mRNA expression levels of select target genes.\"\n  ],\n  \"methods\": [\n    \"Perform small RNA deep sequencing on normal donor and fungal keratitis corneas.\",\n    \"Use a bioinformatics approach to identify differentially-expressed miRNAs and their targets.\",\n    \"Validate select miRNAs using real-time quantitative PCR (qPCR).\"\n  ],\n  \"results\": [\n    \"Identified 75 miRNAs as differentially expressed in fungal keratitis corneas.\",\n    \"Found that highly dysregulated miRNAs may regulate wound healing by specifically targeting wound inflammatory genes.\",\n    \"Observed a correlation between increased expression of miR-451a in keratitis and reduced expression of its target, suggesting possible regulatory functions.\"\n  ],\n  \"research_subject\": \"MicroRNA expression profile in fungal keratitis\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The role of microRNAs in fungal keratitis remains unknown despite their known regulatory function and tissue specificity.\",\n    \"Understanding the regulatory mechanisms of miRNAs in fungal keratitis could lead to new therapeutic strategies for corneal wound inflammation.\"\n  ],\n  \"objectives\": [\n    \"Identify the microRNA expression profile in human corneas with fungal keratitis.\",\n    \"Determine the regulatory role of differentially expressed miRNAs in fungal keratitis pathogenesis.\"\n  ],\n  \"methods\": [\n    \"Performed small RNA deep sequencing on pooled normal donor and fungal keratitis corneas using a sequencing platform.\",\n    \"Applied bioinformatics approaches to identify differentially-expressed miRNAs and their target genes.\",\n    \"Validated select miRNAs and analyzed target gene expression using real-time quantitative PCR.\"\n  ],\n  \"results\": [\n    \"Identified 75 differentially expressed miRNAs in fungal keratitis corneas with significant fold changes.\",\n    \"Found that highly dysregulated miRNAs may regulate wound healing by targeting inflammatory genes.\",\n    \"Demonstrated that increased miR-451a expression correlated with reduced expression of macrophage migration inhibitory factor, suggesting regulatory functions.\"\n  ],\n  \"research_subject\": \"MicroRNA expression profile and regulatory role in human fungal keratitis\"\n}\n```"
+}

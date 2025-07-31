@@ -1,0 +1,74 @@
+{
+  "index": 61,
+  "title": "Sexual dimorphism in renal progenitors to explain gender- specificity in kidney physiology and diseases",
+  "abstract": "Kidney disorders represent a major global health burden with a significant sexual dimorphism that is largely unexplained. My group first identified the stem cells of the kidney (renal progenitors) and demonstrated their crucial role in kidney disease. Here, I propose that sex hormones regulate number and function of renal progenitors to empower females to face the hemodynamic and metabolic challenges of pregnancy. I further propose that this process impacts on sexual dimorphisms in incidence and outcome of kidney diseases including kidney cancer. A multitude of unpublished data obtained with primary human progenitor cultures and unique mouse models of progenitor-specific sex hormones receptor knockout already support my concepts. I will demonstrate that, starting from the age of fertility, estrogen signaling in renal progenitors supports their survival and self-renewal, which is needed to increase their capacity to generate new podocytes and tubular epithelial cells. I will show that failure to produce a sufficient number of podocytes from estrogen-activated renal progenitors promotes preeclampsia and fetal growth retardation. This is a completely new pathophysiological concept of why women with a mismatch of nephron number and pregnancy-related hyperfiltration develop preeclampsia. I will further demonstrate that the same mechanism protects fertile women from severe forms of glomerular injury unrelated to pregnancy. Finally, I will prove that to compensate for the lower number of renal progenitors, testosterone pushes them to proliferate more in males and that this can explain the increased incidence of most prevalent forms of kidney cancer, that derive from renal progenitors. This topic is a direct continuation of my previous studies on renal progenitors supported by ERC Starting and Consolidator grants and will unravel fundamental paradigms in kidney physiology, adaptation, and disease with important implications for prevention and management of kidney disease.",
+  "llama_json": {
+    "motivations": [
+      "Kidney disorders exhibit significant sexual dimorphism that is not well understood, contributing to a major global health burden.",
+      "Current knowledge gaps exist in explaining why females are more resilient to certain kidney diseases and why males have a higher incidence of kidney cancer."
+    ],
+    "objectives": [
+      "Investigate the role of sex hormones in regulating the number and function of renal progenitors.",
+      "Explain how sex-specific differences in renal progenitors contribute to the incidence and outcome of kidney diseases, including kidney cancer.",
+      "Unravel the pathophysiological mechanisms underlying preeclampsia and fetal growth retardation in the context of estrogen signaling in renal progenitors."
+    ],
+    "methods": [
+      "Utilize primary human progenitor cultures and unique mouse models of progenitor-specific sex hormone receptor knockout to study the effects of sex hormones on renal progenitors.",
+      "Investigate the impact of estrogen signaling on the survival, self-renewal, and differentiation of renal progenitors.",
+      "Examine the role of testosterone in promoting the proliferation of renal progenitors in males."
+    ],
+    "results": [
+      "Provide a new pathophysiological concept for understanding preeclampsia and fetal growth retardation in women.",
+      "Explain the increased incidence of kidney cancer in males and the protective effects of estrogen in females.",
+      "Unravel fundamental paradigms in kidney physiology, adaptation, and disease, with implications for prevention and management of kidney disease."
+    ],
+    "research_subject": "Sexual dimorphism in renal progenitors and its implications for kidney physiology and diseases"
+  },
+  "openai_json": {
+    "motivations": [
+      "Kidney disorders exhibit significant sexual dimorphism, the reasons for which are largely unexplained.",
+      "Understanding the role of sex hormones in regulating renal progenitors could shed light on gender-specific kidney physiology and diseases."
+    ],
+    "objectives": [
+      "Investigate how sex hormones regulate the number and function of renal progenitors, and how this impacts sexual dimorphisms in kidney diseases.",
+      "Examine the role of estrogen signaling in renal progenitors' survival and self-renewal, and its implications for preeclampsia and fetal growth retardation.",
+      "Explore how testosterone influences renal progenitors' proliferation in males and its potential link to the increased incidence of kidney cancer."
+    ],
+    "methods": [
+      "Use primary human progenitor cultures and unique mouse models of progenitor-specific sex hormones receptor knockout to gather data.",
+      "Investigate the role of estrogen in supporting the survival and self-renewal of renal progenitors.",
+      "Examine the role of testosterone in promoting the proliferation of renal progenitors in males."
+    ],
+    "results": [
+      "Expected to provide insights into the role of sex hormones in regulating renal progenitors and their implications for kidney diseases.",
+      "Anticipated to reveal a new pathophysiological concept of why women with a mismatch of nephron number and pregnancy-related hyperfiltration develop preeclampsia.",
+      "Expected to demonstrate the link between testosterone-induced proliferation of renal progenitors in males and the increased incidence of kidney cancer."
+    ],
+    "research_subject": "Sexual dimorphism in renal progenitors and its implications for kidney physiology and diseases"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Kidney disorders show significant sexual dimorphism with largely unexplained mechanisms underlying gender-specific differences in disease incidence and outcomes.",
+      "The role of sex hormones in regulating renal progenitor cells and their impact on kidney physiology and disease remains poorly understood."
+    ],
+    "objectives": [
+      "Demonstrate that sex hormones regulate the number and function of renal progenitors to enable females to adapt to pregnancy-related hemodynamic and metabolic challenges.",
+      "Establish how sex hormone signaling in renal progenitors contributes to sexual dimorphism in kidney diseases including preeclampsia and kidney cancer.",
+      "Prove that estrogen enhances renal progenitor survival and regenerative capacity in females while testosterone drives proliferation in males, explaining gender-specific disease patterns."
+    ],
+    "methods": [
+      "Utilize primary human renal progenitor cultures and mouse models with progenitor-specific sex hormone receptor knockouts.",
+      "Investigate estrogen and testosterone signaling pathways in renal progenitors and their effects on cell survival, self-renewal, and proliferation.",
+      "Analyze the relationship between renal progenitor function and pregnancy-related kidney adaptation as well as disease development."
+    ],
+    "results": [
+      "Estrogen signaling in renal progenitors enhances their capacity to generate podocytes and tubular cells, protecting women from kidney injury and supporting pregnancy adaptation.",
+      "Insufficient estrogen-activated renal progenitors contribute to preeclampsia and fetal growth retardation through impaired podocyte generation.",
+      "Testosterone-driven proliferation of renal progenitors in males increases susceptibility to kidney cancer development."
+    ],
+    "research_subject": "Sexual dimorphism in renal progenitor cell regulation by sex hormones and its impact on kidney physiology and disease"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Kidney disorders exhibit significant sexual dimorphism that is not well understood, contributing to a major global health burden.\",\n    \"Current knowledge gaps exist in explaining why females are more resilient to certain kidney diseases and why males have a higher incidence of kidney cancer.\"\n  ],\n  \"objectives\": [\n    \"Investigate the role of sex hormones in regulating the number and function of renal progenitors.\",\n    \"Explain how sex-specific differences in renal progenitors contribute to the incidence and outcome of kidney diseases, including kidney cancer.\",\n    \"Unravel the pathophysiological mechanisms underlying preeclampsia and fetal growth retardation in the context of estrogen signaling in renal progenitors.\"\n  ],\n  \"methods\": [\n    \"Utilize primary human progenitor cultures and unique mouse models of progenitor-specific sex hormone receptor knockout to study the effects of sex hormones on renal progenitors.\",\n    \"Investigate the impact of estrogen signaling on the survival, self-renewal, and differentiation of renal progenitors.\",\n    \"Examine the role of testosterone in promoting the proliferation of renal progenitors in males.\"\n  ],\n  \"results\": [\n    \"Provide a new pathophysiological concept for understanding preeclampsia and fetal growth retardation in women.\",\n    \"Explain the increased incidence of kidney cancer in males and the protective effects of estrogen in females.\",\n    \"Unravel fundamental paradigms in kidney physiology, adaptation, and disease, with implications for prevention and management of kidney disease.\"\n  ],\n  \"research_subject\": \"Sexual dimorphism in renal progenitors and its implications for kidney physiology and diseases\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Kidney disorders exhibit significant sexual dimorphism, the reasons for which are largely unexplained.\",\n    \"Understanding the role of sex hormones in regulating renal progenitors could shed light on gender-specific kidney physiology and diseases.\"\n  ],\n  \"objectives\": [\n    \"Investigate how sex hormones regulate the number and function of renal progenitors, and how this impacts sexual dimorphisms in kidney diseases.\",\n    \"Examine the role of estrogen signaling in renal progenitors' survival and self-renewal, and its implications for preeclampsia and fetal growth retardation.\",\n    \"Explore how testosterone influences renal progenitors' proliferation in males and its potential link to the increased incidence of kidney cancer.\"\n  ],\n  \"methods\": [\n    \"Use primary human progenitor cultures and unique mouse models of progenitor-specific sex hormones receptor knockout to gather data.\",\n    \"Investigate the role of estrogen in supporting the survival and self-renewal of renal progenitors.\",\n    \"Examine the role of testosterone in promoting the proliferation of renal progenitors in males.\"\n  ],\n  \"results\": [\n    \"Expected to provide insights into the role of sex hormones in regulating renal progenitors and their implications for kidney diseases.\",\n    \"Anticipated to reveal a new pathophysiological concept of why women with a mismatch of nephron number and pregnancy-related hyperfiltration develop preeclampsia.\",\n    \"Expected to demonstrate the link between testosterone-induced proliferation of renal progenitors in males and the increased incidence of kidney cancer.\"\n  ],\n  \"research_subject\": \"Sexual dimorphism in renal progenitors and its implications for kidney physiology and diseases\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Kidney disorders show significant sexual dimorphism with largely unexplained mechanisms underlying gender-specific differences in disease incidence and outcomes.\",\n    \"The role of sex hormones in regulating renal progenitor cells and their impact on kidney physiology and disease remains poorly understood.\"\n  ],\n  \"objectives\": [\n    \"Demonstrate that sex hormones regulate the number and function of renal progenitors to enable females to adapt to pregnancy-related hemodynamic and metabolic challenges.\",\n    \"Establish how sex hormone signaling in renal progenitors contributes to sexual dimorphism in kidney diseases including preeclampsia and kidney cancer.\",\n    \"Prove that estrogen enhances renal progenitor survival and regenerative capacity in females while testosterone drives proliferation in males, explaining gender-specific disease patterns.\"\n  ],\n  \"methods\": [\n    \"Utilize primary human renal progenitor cultures and mouse models with progenitor-specific sex hormone receptor knockouts.\",\n    \"Investigate estrogen and testosterone signaling pathways in renal progenitors and their effects on cell survival, self-renewal, and proliferation.\",\n    \"Analyze the relationship between renal progenitor function and pregnancy-related kidney adaptation as well as disease development.\"\n  ],\n  \"results\": [\n    \"Estrogen signaling in renal progenitors enhances their capacity to generate podocytes and tubular cells, protecting women from kidney injury and supporting pregnancy adaptation.\",\n    \"Insufficient estrogen-activated renal progenitors contribute to preeclampsia and fetal growth retardation through impaired podocyte generation.\",\n    \"Testosterone-driven proliferation of renal progenitors in males increases susceptibility to kidney cancer development.\"\n  ],\n  \"research_subject\": \"Sexual dimorphism in renal progenitor cell regulation by sex hormones and its impact on kidney physiology and disease\"\n}\n```"
+}

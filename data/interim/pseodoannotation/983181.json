@@ -1,0 +1,72 @@
+{
+  "index": 446,
+  "title": "Construction of porous ionic liquids based on coordination cages",
+  "abstract": "The key objective of this fellowship proposal is to develop the first ever porous ionic liquid (PIL) at the molecular level and to explore their properties as Type I permanently porous liquids. Transition-metal coordination cages, in which organic ligands coordinate to metal cations to form a molecular capsule, will be used as scaffolds for permanently PIL. Such coordination cages have been developed by the Nitschke group. In the target PIL, the cations will be coordination cages and will thus contain an empty cavity. The strategy employed to synthesize permanently PIL will be functionalizing a task-specific coordination cages with imidazole cations together with the selection of proper anions in order to liquefy coordination cages at room temperature . The researcher will also explore the guest encapsulation properties of these new liquid capsules by monitoring guest uptake in neat permanently porous liquid.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to develop porous ionic liquids (PILs) at the molecular level to explore their properties and applications.",
+      "Current PILs have limitations, and the development of permanently porous liquids is a significant challenge."
+    ],
+    "objectives": [
+      "Develop the first ever porous ionic liquid (PIL) at the molecular level using transition-metal coordination cages as scaffolds.",
+      "Explore the properties of the developed PILs as Type I permanently porous liquids.",
+      "Investigate the guest encapsulation properties of the new liquid capsules."
+    ],
+    "methods": [
+      "Utilize transition-metal coordination cages developed by the Nitschke group as scaffolds for PILs.",
+      "Functionalize task-specific coordination cages with imidazole cations and select proper anions to liquefy coordination cages at room temperature.",
+      "Monitor guest uptake in neat permanently porous liquid to explore guest encapsulation properties."
+    ],
+    "results": [
+      "Develop the first permanently porous ionic liquid (PIL) at the molecular level.",
+      "Explore the properties and applications of the developed PILs.",
+      "Understand the guest encapsulation properties of the new liquid capsules."
+    ],
+    "research_subject": "Construction of porous ionic liquids based on coordination cages"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to develop porous ionic liquids (PIL) at the molecular level and explore their properties as Type I permanently porous liquids.",
+      "The potential of transition-metal coordination cages as scaffolds for permanently PIL has not been fully explored."
+    ],
+    "objectives": [
+      "Develop the first ever porous ionic liquid (PIL) at the molecular level using transition-metal coordination cages as scaffolds.",
+      "Explore the guest encapsulation properties of these new liquid capsules."
+    ],
+    "methods": [
+      "Use transition-metal coordination cages, developed by the Nitschke group, as scaffolds for permanently PIL.",
+      "Functionalize task-specific coordination cages with imidazole cations and select proper anions to liquefy coordination cages at room temperature.",
+      "Monitor guest uptake in neat permanently porous liquid to explore the encapsulation properties."
+    ],
+    "results": [
+      "Expected to develop the first ever molecular-level porous ionic liquid.",
+      "Anticipate understanding the guest encapsulation properties of these new liquid capsules."
+    ],
+    "research_subject": "Construction of porous ionic liquids using coordination cages"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current porous materials are limited to solid-state structures, creating a need for liquid materials that maintain permanent porosity.",
+      "The development of porous ionic liquids could enable new applications in guest encapsulation and molecular storage that are not possible with conventional liquids."
+    ],
+    "objectives": [
+      "Develop the first molecular-level porous ionic liquid using transition-metal coordination cages as structural scaffolds.",
+      "Create Type I permanently porous liquids that maintain cavity structures in the liquid state at room temperature.",
+      "Investigate the guest encapsulation properties and molecular storage capabilities of these novel porous ionic liquids."
+    ],
+    "methods": [
+      "Functionalize coordination cages with imidazole cations and select appropriate anions to achieve liquefaction at room temperature.",
+      "Use transition-metal coordination cages as molecular capsules to create cationic structures with permanent cavities.",
+      "Monitor and characterize guest uptake behavior in the neat permanently porous liquid state."
+    ],
+    "results": [
+      "Creation of the first permanently porous ionic liquids with molecular-level cavities maintained in the liquid phase.",
+      "Demonstration of guest encapsulation capabilities in liquid coordination cages.",
+      "Establishment of a new class of functional materials combining the properties of ionic liquids with permanent porosity."
+    ],
+    "research_subject": "Development of permanently porous ionic liquids based on coordination cages"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to develop porous ionic liquids (PILs) at the molecular level to explore their properties and applications.\",\n    \"Current PILs have limitations, and the development of permanently porous liquids is a significant challenge.\"\n  ],\n  \"objectives\": [\n    \"Develop the first ever porous ionic liquid (PIL) at the molecular level using transition-metal coordination cages as scaffolds.\",\n    \"Explore the properties of the developed PILs as Type I permanently porous liquids.\",\n    \"Investigate the guest encapsulation properties of the new liquid capsules.\"\n  ],\n  \"methods\": [\n    \"Utilize transition-metal coordination cages developed by the Nitschke group as scaffolds for PILs.\",\n    \"Functionalize task-specific coordination cages with imidazole cations and select proper anions to liquefy coordination cages at room temperature.\",\n    \"Monitor guest uptake in neat permanently porous liquid to explore guest encapsulation properties.\"\n  ],\n  \"results\": [\n    \"Develop the first permanently porous ionic liquid (PIL) at the molecular level.\",\n    \"Explore the properties and applications of the developed PILs.\",\n    \"Understand the guest encapsulation properties of the new liquid capsules.\"\n  ],\n  \"research_subject\": \"Construction of porous ionic liquids based on coordination cages\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to develop porous ionic liquids (PIL) at the molecular level and explore their properties as Type I permanently porous liquids.\",\n    \"The potential of transition-metal coordination cages as scaffolds for permanently PIL has not been fully explored.\"\n  ],\n  \"objectives\": [\n    \"Develop the first ever porous ionic liquid (PIL) at the molecular level using transition-metal coordination cages as scaffolds.\",\n    \"Explore the guest encapsulation properties of these new liquid capsules.\"\n  ],\n  \"methods\": [\n    \"Use transition-metal coordination cages, developed by the Nitschke group, as scaffolds for permanently PIL.\",\n    \"Functionalize task-specific coordination cages with imidazole cations and select proper anions to liquefy coordination cages at room temperature.\",\n    \"Monitor guest uptake in neat permanently porous liquid to explore the encapsulation properties.\"\n  ],\n  \"results\": [\n    \"Expected to develop the first ever molecular-level porous ionic liquid.\",\n    \"Anticipate understanding the guest encapsulation properties of these new liquid capsules.\"\n  ],\n  \"research_subject\": \"Construction of porous ionic liquids using coordination cages\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current porous materials are limited to solid-state structures, creating a need for liquid materials that maintain permanent porosity.\",\n    \"The development of porous ionic liquids could enable new applications in guest encapsulation and molecular storage that are not possible with conventional liquids.\"\n  ],\n  \"objectives\": [\n    \"Develop the first molecular-level porous ionic liquid using transition-metal coordination cages as structural scaffolds.\",\n    \"Create Type I permanently porous liquids that maintain cavity structures in the liquid state at room temperature.\",\n    \"Investigate the guest encapsulation properties and molecular storage capabilities of these novel porous ionic liquids.\"\n  ],\n  \"methods\": [\n    \"Functionalize coordination cages with imidazole cations and select appropriate anions to achieve liquefaction at room temperature.\",\n    \"Use transition-metal coordination cages as molecular capsules to create cationic structures with permanent cavities.\",\n    \"Monitor and characterize guest uptake behavior in the neat permanently porous liquid state.\"\n  ],\n  \"results\": [\n    \"Creation of the first permanently porous ionic liquids with molecular-level cavities maintained in the liquid phase.\",\n    \"Demonstration of guest encapsulation capabilities in liquid coordination cages.\",\n    \"Establishment of a new class of functional materials combining the properties of ionic liquids with permanent porosity.\"\n  ],\n  \"research_subject\": \"Development of permanently porous ionic liquids based on coordination cages\"\n}\n```"
+}

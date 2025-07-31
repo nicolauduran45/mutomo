@@ -1,0 +1,58 @@
+{
+  "index": 223,
+  "title": "SELF TAPPING SPRAY NOZZLE FOR VEHICLE VENTILATION SYSTEM",
+  "abstract": "A self tapping spray nozzle (10) for use in a vehicle ventilation system is preferably made of stainless steel. The spray nozzle has a neck (12) with an internal channel (34) and threads (17) cut into its outside surface. A wedge at a thirty degree angle, having sharpened edges is at the top of the neck. At least one port (14, 15) extends from the channel to the outside surface of the neck. A collar (13) with a plurality of sides (19) encompasses the circumference of the neck at its bottom. One side of the collar is aligned with the port to help align the port in a desired direction.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an improved spray nozzle design for vehicle ventilation systems that can be easily installed and aligned."
+    ],
+    "objectives": [
+      "Design a self-tapping spray nozzle that can be efficiently integrated into vehicle ventilation systems."
+    ],
+    "methods": [
+      "Develop a spray nozzle with a threaded neck and internal channel, featuring at least one port for airflow.",
+      "Incorporate a wedge with sharpened edges at the top of the neck for self-tapping functionality.",
+      "Include a collar with multiple sides to facilitate alignment of the port in the desired direction."
+    ],
+    "results": [
+      "Provide an effective and easy-to-install spray nozzle solution for vehicle ventilation systems."
+    ],
+    "research_subject": "Design of a self-tapping spray nozzle for vehicle ventilation systems"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an efficient spray nozzle for use in vehicle ventilation systems."
+    ],
+    "objectives": [
+      "Design a self-tapping spray nozzle made of stainless steel for use in vehicle ventilation systems."
+    ],
+    "methods": [
+      "The spray nozzle is designed with a neck having an internal channel and threads cut into its outside surface.",
+      "A wedge with sharpened edges is placed at the top of the neck.",
+      "At least one port extends from the channel to the outside surface of the neck, and a collar with multiple sides encompasses the neck's circumference at its bottom."
+    ],
+    "results": [
+      "The spray nozzle can be easily installed in a vehicle ventilation system and aligned in a desired direction."
+    ],
+    "research_subject": "Design of a self-tapping spray nozzle for vehicle ventilation systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for improved spray nozzle designs in vehicle ventilation systems that can be easily installed and properly aligned."
+    ],
+    "objectives": [
+      "Design and develop a self-tapping spray nozzle for vehicle ventilation systems that enables easy installation and precise directional alignment."
+    ],
+    "methods": [
+      "Construct the nozzle from stainless steel with a threaded neck design and a wedge-shaped top with sharpened edges for self-tapping capability.",
+      "Incorporate internal channels and ports for fluid flow, with a multi-sided collar for alignment purposes."
+    ],
+    "results": [
+      "The design enables self-tapping installation into vehicle ventilation systems with improved alignment control through the collar mechanism."
+    ],
+    "research_subject": "Self-tapping spray nozzle design for vehicle ventilation systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved spray nozzle design for vehicle ventilation systems that can be easily installed and aligned.\"\n  ],\n  \"objectives\": [\n    \"Design a self-tapping spray nozzle that can be efficiently integrated into vehicle ventilation systems.\"\n  ],\n  \"methods\": [\n    \"Develop a spray nozzle with a threaded neck and internal channel, featuring at least one port for airflow.\",\n    \"Incorporate a wedge with sharpened edges at the top of the neck for self-tapping functionality.\",\n    \"Include a collar with multiple sides to facilitate alignment of the port in the desired direction.\"\n  ],\n  \"results\": [\n    \"Provide an effective and easy-to-install spray nozzle solution for vehicle ventilation systems.\"\n  ],\n  \"research_subject\": \"Design of a self-tapping spray nozzle for vehicle ventilation systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient spray nozzle for use in vehicle ventilation systems.\"\n  ],\n  \"objectives\": [\n    \"Design a self-tapping spray nozzle made of stainless steel for use in vehicle ventilation systems.\"\n  ],\n  \"methods\": [\n    \"The spray nozzle is designed with a neck having an internal channel and threads cut into its outside surface.\",\n    \"A wedge with sharpened edges is placed at the top of the neck.\",\n    \"At least one port extends from the channel to the outside surface of the neck, and a collar with multiple sides encompasses the neck's circumference at its bottom.\"\n  ],\n  \"results\": [\n    \"The spray nozzle can be easily installed in a vehicle ventilation system and aligned in a desired direction.\"\n  ],\n  \"research_subject\": \"Design of a self-tapping spray nozzle for vehicle ventilation systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved spray nozzle designs in vehicle ventilation systems that can be easily installed and properly aligned.\"\n  ],\n  \"objectives\": [\n    \"Design and develop a self-tapping spray nozzle for vehicle ventilation systems that enables easy installation and precise directional alignment.\"\n  ],\n  \"methods\": [\n    \"Construct the nozzle from stainless steel with a threaded neck design and a wedge-shaped top with sharpened edges for self-tapping capability.\",\n    \"Incorporate internal channels and ports for fluid flow, with a multi-sided collar for alignment purposes.\"\n  ],\n  \"results\": [\n    \"The design enables self-tapping installation into vehicle ventilation systems with improved alignment control through the collar mechanism.\"\n  ],\n  \"research_subject\": \"Self-tapping spray nozzle design for vehicle ventilation systems\"\n}\n```"
+}

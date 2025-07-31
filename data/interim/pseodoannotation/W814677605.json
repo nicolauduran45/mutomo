@@ -1,0 +1,74 @@
+{
+  "index": 318,
+  "title": "Frailty Models and Frailty-Mixture Models for Recurrent Event Times",
+  "abstract": "The analysis of recurrent event times faces three challenges: between-subject heterogeneity (frailty), within-subject event dependence, and the possibility of a cured fraction. Frailty can be handled by including a latent random-effects term in a Cox-type model. Event dependence may be considered as contributing to the intervention effect, or it may be considered as a source of nuisance, depending on the analysts’ specific research questions. If it is seen as a nuisance, the analysis can stratify the recurrent event times according to event order. If it is seen as contributing to the intervention effect, stratification should not be used. Models with and without stratification for event order estimate two types of treatment effects. They are analogous to per-protocol analysis and intention-to-treat analysis, respectively. In the context of chronic disease treatment, we want to estimate whether there is a cured fraction; for infectious disease prevention, this is called a nonsusceptible fraction. In infectious disease prevention, we want to understand whether an intervention protects each of its recipients to some extent (“leaky” model) or whether it totally protects some recipients but offers no protection to the rest (“all-or-none” model). The truth may be a mixture of the two modes of protection. We describe a class of regression models that can handle all three issues in the analysis of recurrent event times. The model parameters are estimated by the expectation-maximization algorithm, and their variances are estimated by Louis's formula. We provide a new command, strmcure, for implementing these models.",
+  "llama_json": {
+    "motivations": [
+      "The analysis of recurrent event times is complicated by between-subject heterogeneity (frailty), within-subject event dependence, and the possibility of a cured fraction.",
+      "Existing models may not adequately address these challenges, leading to biased or incomplete estimates of treatment effects."
+    ],
+    "objectives": [
+      "Develop a class of regression models that can handle frailty, event dependence, and the possibility of a cured fraction in the analysis of recurrent event times.",
+      "Estimate model parameters using the expectation-maximization algorithm and their variances using Louis's formula.",
+      "Implement these models in a new command, strmcure, for practical application."
+    ],
+    "methods": [
+      "Include a latent random-effects term in a Cox-type model to handle frailty.",
+      "Use stratification for event order to account for event dependence, or omit stratification to estimate a different type of treatment effect.",
+      "Apply the expectation-maximization algorithm for parameter estimation and Louis's formula for variance estimation."
+    ],
+    "results": [
+      "Improved estimates of treatment effects in the presence of frailty, event dependence, and a cured fraction.",
+      "Enhanced understanding of the modes of protection offered by interventions, including the distinction between “leaky” and “all-or-none” models.",
+      "A new tool (strmcure) for implementing these models in practice."
+    ],
+    "research_subject": "Frailty models and frailty-mixture models for analyzing recurrent event times"
+  },
+  "openai_json": {
+    "motivations": [
+      "The analysis of recurrent event times faces challenges such as between-subject heterogeneity (frailty), within-subject event dependence, and the possibility of a cured fraction.",
+      "There is a need for models that can handle these issues and provide accurate estimates of treatment effects."
+    ],
+    "objectives": [
+      "To handle frailty by including a latent random-effects term in a Cox-type model.",
+      "To consider event dependence as either contributing to the intervention effect or as a source of nuisance, depending on the research question.",
+      "To estimate whether there is a cured fraction in the context of chronic disease treatment or a nonsusceptible fraction in infectious disease prevention."
+    ],
+    "methods": [
+      "Use of Cox-type models with a latent random-effects term to handle frailty.",
+      "Stratification of recurrent event times according to event order to handle event dependence.",
+      "Implementation of regression models that can handle all three issues in the analysis of recurrent event times."
+    ],
+    "results": [
+      "A class of regression models that can handle frailty, event dependence, and the possibility of a cured fraction in the analysis of recurrent event times.",
+      "A new command, strmcure, for implementing these models."
+    ],
+    "research_subject": "Frailty Models and Frailty-Mixture Models for Recurrent Event Times"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Analyzing recurrent event times is challenging due to between-subject heterogeneity, within-subject event dependence, and the potential presence of a cured or nonsusceptible fraction.",
+      "Existing methods struggle to simultaneously address all three analytical challenges in recurrent event data.",
+      "Understanding whether interventions provide partial protection to all recipients or complete protection to only some recipients is crucial for disease prevention strategies."
+    ],
+    "objectives": [
+      "Develop a comprehensive class of regression models that can simultaneously handle heterogeneity, event dependence, and cured fractions in recurrent event analysis.",
+      "Distinguish between different types of treatment effects by considering event dependence as either a nuisance or a contributing factor to intervention effects.",
+      "Create a practical implementation tool for researchers to apply these models in real-world analyses."
+    ],
+    "methods": [
+      "Incorporate latent random-effects terms in Cox-type models to handle between-subject heterogeneity.",
+      "Use stratification approaches based on event order to address within-subject event dependence when appropriate.",
+      "Apply expectation-maximization algorithm for parameter estimation and Louis's formula for variance estimation."
+    ],
+    "results": [
+      "A unified modeling framework that addresses all three major challenges in recurrent event analysis.",
+      "The ability to distinguish between leaky and all-or-none protection models in disease prevention contexts.",
+      "A new statistical software command (strmcure) that enables practical implementation of these models."
+    ],
+    "research_subject": "Statistical modeling of recurrent event times with heterogeneity and cure fractions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The analysis of recurrent event times is complicated by between-subject heterogeneity (frailty), within-subject event dependence, and the possibility of a cured fraction.\",\n    \"Existing models may not adequately address these challenges, leading to biased or incomplete estimates of treatment effects.\"\n  ],\n  \"objectives\": [\n    \"Develop a class of regression models that can handle frailty, event dependence, and the possibility of a cured fraction in the analysis of recurrent event times.\",\n    \"Estimate model parameters using the expectation-maximization algorithm and their variances using Louis's formula.\",\n    \"Implement these models in a new command, strmcure, for practical application.\"\n  ],\n  \"methods\": [\n    \"Include a latent random-effects term in a Cox-type model to handle frailty.\",\n    \"Use stratification for event order to account for event dependence, or omit stratification to estimate a different type of treatment effect.\",\n    \"Apply the expectation-maximization algorithm for parameter estimation and Louis's formula for variance estimation.\"\n  ],\n  \"results\": [\n    \"Improved estimates of treatment effects in the presence of frailty, event dependence, and a cured fraction.\",\n    \"Enhanced understanding of the modes of protection offered by interventions, including the distinction between “leaky” and “all-or-none” models.\",\n    \"A new tool (strmcure) for implementing these models in practice.\"\n  ],\n  \"research_subject\": \"Frailty models and frailty-mixture models for analyzing recurrent event times\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The analysis of recurrent event times faces challenges such as between-subject heterogeneity (frailty), within-subject event dependence, and the possibility of a cured fraction.\",\n    \"There is a need for models that can handle these issues and provide accurate estimates of treatment effects.\"\n  ],\n  \"objectives\": [\n    \"To handle frailty by including a latent random-effects term in a Cox-type model.\",\n    \"To consider event dependence as either contributing to the intervention effect or as a source of nuisance, depending on the research question.\",\n    \"To estimate whether there is a cured fraction in the context of chronic disease treatment or a nonsusceptible fraction in infectious disease prevention.\"\n  ],\n  \"methods\": [\n    \"Use of Cox-type models with a latent random-effects term to handle frailty.\",\n    \"Stratification of recurrent event times according to event order to handle event dependence.\",\n    \"Implementation of regression models that can handle all three issues in the analysis of recurrent event times.\"\n  ],\n  \"results\": [\n    \"A class of regression models that can handle frailty, event dependence, and the possibility of a cured fraction in the analysis of recurrent event times.\",\n    \"A new command, strmcure, for implementing these models.\"\n  ],\n  \"research_subject\": \"Frailty Models and Frailty-Mixture Models for Recurrent Event Times\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Analyzing recurrent event times is challenging due to between-subject heterogeneity, within-subject event dependence, and the potential presence of a cured or nonsusceptible fraction.\",\n    \"Existing methods struggle to simultaneously address all three analytical challenges in recurrent event data.\",\n    \"Understanding whether interventions provide partial protection to all recipients or complete protection to only some recipients is crucial for disease prevention strategies.\"\n  ],\n  \"objectives\": [\n    \"Develop a comprehensive class of regression models that can simultaneously handle heterogeneity, event dependence, and cured fractions in recurrent event analysis.\",\n    \"Distinguish between different types of treatment effects by considering event dependence as either a nuisance or a contributing factor to intervention effects.\",\n    \"Create a practical implementation tool for researchers to apply these models in real-world analyses.\"\n  ],\n  \"methods\": [\n    \"Incorporate latent random-effects terms in Cox-type models to handle between-subject heterogeneity.\",\n    \"Use stratification approaches based on event order to address within-subject event dependence when appropriate.\",\n    \"Apply expectation-maximization algorithm for parameter estimation and Louis's formula for variance estimation.\"\n  ],\n  \"results\": [\n    \"A unified modeling framework that addresses all three major challenges in recurrent event analysis.\",\n    \"The ability to distinguish between leaky and all-or-none protection models in disease prevention contexts.\",\n    \"A new statistical software command (strmcure) that enables practical implementation of these models.\"\n  ],\n  \"research_subject\": \"Statistical modeling of recurrent event times with heterogeneity and cure fractions\"\n}\n```"
+}

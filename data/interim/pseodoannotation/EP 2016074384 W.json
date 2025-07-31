@@ -1,0 +1,61 @@
+{
+  "index": 436,
+  "title": "HIGH-VOLTAGE DEVICE",
+  "abstract": "The invention relates to a high-voltage device (1), comprising an inner conductor (2), an insulating body (6), which surrounds the inner conductor along the longitudinal direction of the inner conductor and which comprises electrically conductive control inserts (7-9) for field control, which are arranged concentrically around the inner conductor and are spaced apart from each other by insulating layers, and an electrically conductive connection between the inner conductor and a first control insert (7) closest to the inner conductor. The invention is characterized by an electrically conductive connection between the inner conductor and a second control insert (8), which axially extends beyond the first control insert to a foot end (12) of the high-voltage device.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for improved field control in high-voltage devices to ensure efficient and reliable operation."
+    ],
+    "objectives": [
+      "Develop a high-voltage device with enhanced field control capabilities through the use of electrically conductive control inserts."
+    ],
+    "methods": [
+      "Design a high-voltage device with an inner conductor, insulating body, and electrically conductive control inserts arranged concentrically around the inner conductor.",
+      "Implement electrically conductive connections between the inner conductor and control inserts to optimize field control."
+    ],
+    "results": [
+      "Improved field control and reliability in high-voltage devices through the use of novel control insert connections."
+    ],
+    "research_subject": "High-voltage device with enhanced field control using electrically conductive control inserts"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for improved field control in high-voltage devices."
+    ],
+    "objectives": [
+      "Design a high-voltage device with an inner conductor, an insulating body, and electrically conductive control inserts for field control.",
+      "Establish an electrically conductive connection between the inner conductor and the control inserts."
+    ],
+    "methods": [
+      "Arrange electrically conductive control inserts concentrically around the inner conductor, separated by insulating layers.",
+      "Create an electrically conductive connection between the inner conductor and a first control insert closest to the inner conductor.",
+      "Extend an electrically conductive connection between the inner conductor and a second control insert beyond the first control insert to a foot end of the high-voltage device."
+    ],
+    "results": [
+      "Improved field control in high-voltage devices through the use of electrically conductive control inserts and their strategic placement."
+    ],
+    "research_subject": "Design and field control of high-voltage devices"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "High-voltage devices require effective electric field control to ensure safe and reliable operation.",
+      "Existing designs may have limitations in managing electric field distribution along the device length."
+    ],
+    "objectives": [
+      "Develop an improved high-voltage device design that enhances electric field control through optimized control insert configurations.",
+      "Create electrical connections between the inner conductor and multiple control inserts to improve field distribution."
+    ],
+    "methods": [
+      "Implement concentric electrically conductive control inserts separated by insulating layers around the inner conductor.",
+      "Establish electrical connections between the inner conductor and both first and second control inserts, with the second insert extending axially beyond the first."
+    ],
+    "results": [
+      "Improved electric field control and distribution in high-voltage devices.",
+      "Enhanced safety and reliability of high-voltage equipment through optimized control insert configuration."
+    ],
+    "research_subject": "High-voltage device with improved electric field control through multiple connected control inserts"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved field control in high-voltage devices to ensure efficient and reliable operation.\"\n  ],\n  \"objectives\": [\n    \"Develop a high-voltage device with enhanced field control capabilities through the use of electrically conductive control inserts.\"\n  ],\n  \"methods\": [\n    \"Design a high-voltage device with an inner conductor, insulating body, and electrically conductive control inserts arranged concentrically around the inner conductor.\",\n    \"Implement electrically conductive connections between the inner conductor and control inserts to optimize field control.\"\n  ],\n  \"results\": [\n    \"Improved field control and reliability in high-voltage devices through the use of novel control insert connections.\"\n  ],\n  \"research_subject\": \"High-voltage device with enhanced field control using electrically conductive control inserts\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved field control in high-voltage devices.\"\n  ],\n  \"objectives\": [\n    \"Design a high-voltage device with an inner conductor, an insulating body, and electrically conductive control inserts for field control.\",\n    \"Establish an electrically conductive connection between the inner conductor and the control inserts.\"\n  ],\n  \"methods\": [\n    \"Arrange electrically conductive control inserts concentrically around the inner conductor, separated by insulating layers.\",\n    \"Create an electrically conductive connection between the inner conductor and a first control insert closest to the inner conductor.\",\n    \"Extend an electrically conductive connection between the inner conductor and a second control insert beyond the first control insert to a foot end of the high-voltage device.\"\n  ],\n  \"results\": [\n    \"Improved field control in high-voltage devices through the use of electrically conductive control inserts and their strategic placement.\"\n  ],\n  \"research_subject\": \"Design and field control of high-voltage devices\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"High-voltage devices require effective electric field control to ensure safe and reliable operation.\",\n    \"Existing designs may have limitations in managing electric field distribution along the device length.\"\n  ],\n  \"objectives\": [\n    \"Develop an improved high-voltage device design that enhances electric field control through optimized control insert configurations.\",\n    \"Create electrical connections between the inner conductor and multiple control inserts to improve field distribution.\"\n  ],\n  \"methods\": [\n    \"Implement concentric electrically conductive control inserts separated by insulating layers around the inner conductor.\",\n    \"Establish electrical connections between the inner conductor and both first and second control inserts, with the second insert extending axially beyond the first.\"\n  ],\n  \"results\": [\n    \"Improved electric field control and distribution in high-voltage devices.\",\n    \"Enhanced safety and reliability of high-voltage equipment through optimized control insert configuration.\"\n  ],\n  \"research_subject\": \"High-voltage device with improved electric field control through multiple connected control inserts\"\n}\n```"
+}

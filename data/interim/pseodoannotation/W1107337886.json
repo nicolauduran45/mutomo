@@ -1,0 +1,67 @@
+{
+  "index": 187,
+  "title": "Variation in the use of primary care services for diabetes management according to country of birth and geography among older Australians",
+  "abstract": "To investigate variation according to country of birth and geography in the use of primary care services funded through Medicare Australia-Australian universal health insurance-for diabetes annual cycle of care among older overseas-born Australians with type-2 diabetes.Records of Medicare claims for medical services were linked to self-administered questionnaire data for people with type-2 diabetes enrolled in the 45 and Up Study, including 840 participants born in Italy, Greece, Vietnam, Lebanon, China, India, or the Philippines and 12,444 participants born in Australia, living in 195 statistical local areas (SLAs) in New South Wales, Australia. Study outcomes included ≥6 claims for general practitioner (GP) visits, at least one claim for specialist, optometrist, Practice Incentive Payment for completion of diabetes annual cycle of care (PIP), GP Management Plan or Team Care Arrangement (GPMP/TCA), allied health, blood tests for glycosylated haemoglobin (HbA1c) and cholesterol, and urine test for micro-albumin. Multivariable multilevel logistic regression was performed, controlling for personal socio-demographic and health characteristics and geographical area remoteness and socio-economic status.Compared with Australia-born participants, people born in Vietnam and China had significantly lower rates of claims for allied health services (odds ratio [OR] 0.14, 95% confidence interval [CI] 0.05-0.43, and OR 0.40, 95%CI 0.18-0.87, respectively), those born in Italy had lower rates of PIP claims (OR 0.60, 95%CI 0.39-0.92) and micro-albuminuria testings (OR 0.65, 95%CI 0.47-0.89), and those born in the Philippines had lower claims for specialist services (OR 0.59, 95%CI 0.38-0.91). Participants born in Greece and China (GP visits), Vietnam (optometrist services), and India (micro-albuminuria tests) were more likely to claims for these services than Australia-born people. Significant geographic variation was observed for all study outcomes, with the greatest variations in claims for allied health services (variation 9.3%, median odds ratio [MOR] 1.74, 95% credible interval [CrI] 1.60-2.01), PIP (7.8%, MOR 1.65, 95%CrI 1.55-1.83), and GPMP/TCA items (6.6%, MOR 1.58, 95%CrI 1.49-1.73).Different approach among geographical areas and intervention programs for identified cultural groups and their providers are warranted to improve disparities in diabetes care.",
+  "llama_json": {
+    "motivations": [
+      "There are disparities in the use of primary care services for diabetes management among older Australians based on their country of birth and geographical location.",
+      "Limited understanding of the variation in diabetes care among culturally diverse populations hinders the development of targeted interventions to improve health outcomes."
+    ],
+    "objectives": [
+      "Investigate the variation in the use of primary care services for diabetes management among older Australians born overseas compared to those born in Australia.",
+      "Examine the impact of geographical location on the use of primary care services for diabetes management."
+    ],
+    "methods": [
+      "Link Medicare claims data to self-administered questionnaire data from the 45 and Up Study to analyze the use of primary care services among participants with type-2 diabetes.",
+      "Perform multivariable multilevel logistic regression to control for personal socio-demographic and health characteristics, as well as geographical area remoteness and socio-economic status."
+    ],
+    "results": [
+      "Significant variations in the use of primary care services for diabetes management were found among participants born in different countries and living in different geographical areas.",
+      "Lower rates of claims for certain services, such as allied health services and specialist services, were observed among participants born in certain countries compared to those born in Australia.",
+      "Geographic variation was observed for all study outcomes, highlighting the need for targeted interventions to address disparities in diabetes care."
+    ],
+    "research_subject": "Variation in primary care service use for diabetes management among older Australians by country of birth and geography"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the variation in the use of primary care services for diabetes management among older overseas-born Australians with type-2 diabetes.",
+      "The impact of country of birth and geographical location on the utilization of diabetes care services is not well understood."
+    ],
+    "objectives": [
+      "Investigate the variation in the use of primary care services for diabetes management according to country of birth and geography among older Australians.",
+      "Identify disparities in diabetes care among different cultural groups and geographical areas."
+    ],
+    "methods": [
+      "Link Medicare claims for medical services to self-administered questionnaire data for people with type-2 diabetes.",
+      "Perform multivariable multilevel logistic regression, controlling for personal socio-demographic and health characteristics and geographical area remoteness and socio-economic status."
+    ],
+    "results": [
+      "Identified significant variations in the use of primary care services for diabetes management based on country of birth and geographical location.",
+      "Revealed disparities in diabetes care among different cultural groups and geographical areas, suggesting the need for tailored intervention programs."
+    ],
+    "research_subject": "Variation in the use of primary care services for diabetes management among older Australians"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is limited understanding of how country of birth and geographic location influence the utilization of primary care services for diabetes management among older Australians.",
+      "Disparities in healthcare access and utilization for diabetes care may exist among different cultural groups and geographic areas in Australia."
+    ],
+    "objectives": [
+      "Investigate variation in the use of Medicare-funded primary care services for diabetes annual cycle of care according to country of birth and geography among older overseas-born Australians with type-2 diabetes.",
+      "Identify specific patterns of healthcare utilization among different cultural groups compared to Australian-born individuals."
+    ],
+    "methods": [
+      "Linked Medicare claims data with self-administered questionnaire data from the 45 and Up Study participants with type-2 diabetes.",
+      "Performed multivariable multilevel logistic regression analysis controlling for personal socio-demographic and health characteristics and geographical factors."
+    ],
+    "results": [
+      "People born in Vietnam and China had significantly lower rates of allied health service claims, while those from Italy showed lower rates of Practice Incentive Payment claims and micro-albuminuria testing compared to Australian-born participants.",
+      "Significant geographic variation was observed for all study outcomes, with the greatest variations in claims for allied health services, Practice Incentive Payments, and GP Management Plans.",
+      "Different cultural groups showed varying patterns of healthcare utilization, suggesting the need for targeted intervention programs to address disparities in diabetes care."
+    ],
+    "research_subject": "Variation in primary care service utilization for diabetes management by country of birth and geography among older Australians"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There are disparities in the use of primary care services for diabetes management among older Australians based on their country of birth and geographical location.\",\n    \"Limited understanding of the variation in diabetes care among culturally diverse populations hinders the development of targeted interventions to improve health outcomes.\"\n  ],\n  \"objectives\": [\n    \"Investigate the variation in the use of primary care services for diabetes management among older Australians born overseas compared to those born in Australia.\",\n    \"Examine the impact of geographical location on the use of primary care services for diabetes management.\"\n  ],\n  \"methods\": [\n    \"Link Medicare claims data to self-administered questionnaire data from the 45 and Up Study to analyze the use of primary care services among participants with type-2 diabetes.\",\n    \"Perform multivariable multilevel logistic regression to control for personal socio-demographic and health characteristics, as well as geographical area remoteness and socio-economic status.\"\n  ],\n  \"results\": [\n    \"Significant variations in the use of primary care services for diabetes management were found among participants born in different countries and living in different geographical areas.\",\n    \"Lower rates of claims for certain services, such as allied health services and specialist services, were observed among participants born in certain countries compared to those born in Australia.\",\n    \"Geographic variation was observed for all study outcomes, highlighting the need for targeted interventions to address disparities in diabetes care.\"\n  ],\n  \"research_subject\": \"Variation in primary care service use for diabetes management among older Australians by country of birth and geography\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the variation in the use of primary care services for diabetes management among older overseas-born Australians with type-2 diabetes.\",\n    \"The impact of country of birth and geographical location on the utilization of diabetes care services is not well understood.\"\n  ],\n  \"objectives\": [\n    \"Investigate the variation in the use of primary care services for diabetes management according to country of birth and geography among older Australians.\",\n    \"Identify disparities in diabetes care among different cultural groups and geographical areas.\"\n  ],\n  \"methods\": [\n    \"Link Medicare claims for medical services to self-administered questionnaire data for people with type-2 diabetes.\",\n    \"Perform multivariable multilevel logistic regression, controlling for personal socio-demographic and health characteristics and geographical area remoteness and socio-economic status.\"\n  ],\n  \"results\": [\n    \"Identified significant variations in the use of primary care services for diabetes management based on country of birth and geographical location.\",\n    \"Revealed disparities in diabetes care among different cultural groups and geographical areas, suggesting the need for tailored intervention programs.\"\n  ],\n  \"research_subject\": \"Variation in the use of primary care services for diabetes management among older Australians\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is limited understanding of how country of birth and geographic location influence the utilization of primary care services for diabetes management among older Australians.\",\n    \"Disparities in healthcare access and utilization for diabetes care may exist among different cultural groups and geographic areas in Australia.\"\n  ],\n  \"objectives\": [\n    \"Investigate variation in the use of Medicare-funded primary care services for diabetes annual cycle of care according to country of birth and geography among older overseas-born Australians with type-2 diabetes.\",\n    \"Identify specific patterns of healthcare utilization among different cultural groups compared to Australian-born individuals.\"\n  ],\n  \"methods\": [\n    \"Linked Medicare claims data with self-administered questionnaire data from the 45 and Up Study participants with type-2 diabetes.\",\n    \"Performed multivariable multilevel logistic regression analysis controlling for personal socio-demographic and health characteristics and geographical factors.\"\n  ],\n  \"results\": [\n    \"People born in Vietnam and China had significantly lower rates of allied health service claims, while those from Italy showed lower rates of Practice Incentive Payment claims and micro-albuminuria testing compared to Australian-born participants.\",\n    \"Significant geographic variation was observed for all study outcomes, with the greatest variations in claims for allied health services, Practice Incentive Payments, and GP Management Plans.\",\n    \"Different cultural groups showed varying patterns of healthcare utilization, suggesting the need for targeted intervention programs to address disparities in diabetes care.\"\n  ],\n  \"research_subject\": \"Variation in primary care service utilization for diabetes management by country of birth and geography among older Australians\"\n}\n```"
+}

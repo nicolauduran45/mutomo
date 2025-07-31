@@ -1,0 +1,67 @@
+{
+  "index": 132,
+  "title": "Characteristics of the Eccentric Structure of Severe Tropical Storm Doksuri and Analysis of the Causation",
+  "abstract": "Using observations,data from the weather satellite FY2 /MTSAT and NCEP reanalysis,this work performed a preliminary study on the eccentric structure of Severe Tropical Storm Doksuri( coded1206) and its causation by synoptic analysis and diagnoses based on physical quantities. The results are shown as follows. Doksuri was significantly asymmetric in both the dynamic and thermodynamic structure so that deep-convection cloud systems were almost all on the southwest side of the storm,low-cloud lines distributed around the eye that were both shallow and far between,and its mid-and higher-level wind field was only with easterly waves that were slightly cyclonic and much deviated to the southwest side of the eye. The strengthening and westward extension of the western Pacific subtropical high( WPSH) are mainly responsible for the eccentric structure of Doksuri at the mid- and higher-levels. On the one hand,the WPSH advanced rapidly to the west while the geopotential gradient strengthened between it and the storm,constituting to a powerful easterly airflow that checked the development of convection. On the other hand,the airflow was dry and descending inside the WPSH,inhibiting the development of cyclonic circulation north of the storm. At lower levels,the WPSH was less stripe-distributed and west-extended as at the mid-and higher-levels,contributing to inconsistent location of the storm circulation between the high and low levels. Besides,lower levels were prevalent with a strong southwest monsoon and cross-equatorial airflow so that the eccentricity of the low-level cyclonic circulation was not as obvious. As the southwest airflow entrained into the mid-level storm was both weak and broken-off,cyclonic circulation was not helped develop and maintain at that level. Furthermore,the presence of strong wind shear was also one of the factors accounting for the vigorous development of convection south of the storm.",
+  "llama_json": {
+    "motivations": [
+      "Severe Tropical Storm Doksuri exhibited an unusual eccentric structure that is not well understood.",
+      "Understanding the causation of this eccentric structure is crucial for predicting and mitigating the impact of such storms."
+    ],
+    "objectives": [
+      "Analyze the dynamic and thermodynamic structure of Severe Tropical Storm Doksuri using observations and reanalysis data.",
+      "Investigate the causation of the eccentric structure of Doksuri through synoptic analysis and diagnoses based on physical quantities."
+    ],
+    "methods": [
+      "Utilize observations, weather satellite data, and NCEP reanalysis to study the storm's structure and evolution.",
+      "Perform synoptic analysis and diagnoses based on physical quantities to understand the causation of the eccentric structure."
+    ],
+    "results": [
+      "The eccentric structure of Doksuri was characterized by significant asymmetry in both dynamic and thermodynamic structure.",
+      "The strengthening and westward extension of the western Pacific subtropical high were found to be mainly responsible for the eccentric structure of Doksuri.",
+      "Strong wind shear and the presence of a southwest monsoon and cross-equatorial airflow also contributed to the storm's eccentricity."
+    ],
+    "research_subject": "Characteristics and causation of the eccentric structure of Severe Tropical Storm Doksuri"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the eccentric structure of Severe Tropical Storm Doksuri and its causation."
+    ],
+    "objectives": [
+      "Analyze the eccentric structure of Severe Tropical Storm Doksuri using weather satellite and NCEP reanalysis data.",
+      "Investigate the causation of the storm's eccentric structure through synoptic analysis and diagnoses based on physical quantities."
+    ],
+    "methods": [
+      "Use observations and data from the weather satellite FY2/MTSAT and NCEP reanalysis.",
+      "Perform synoptic analysis and diagnoses based on physical quantities."
+    ],
+    "results": [
+      "Doksuri was significantly asymmetric in both the dynamic and thermodynamic structure.",
+      "The strengthening and westward extension of the western Pacific subtropical high (WPSH) are mainly responsible for the eccentric structure of Doksuri at the mid- and higher-levels.",
+      "The presence of strong wind shear was also one of the factors accounting for the vigorous development of convection south of the storm."
+    ],
+    "research_subject": "Analysis of the Eccentric Structure of Severe Tropical Storm Doksuri and its Causation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the eccentric structure of tropical storms is crucial for improving storm prediction and warning systems.",
+      "The asymmetric characteristics of Severe Tropical Storm Doksuri require investigation to understand the underlying atmospheric dynamics."
+    ],
+    "objectives": [
+      "Analyze the eccentric structure of Severe Tropical Storm Doksuri in terms of its dynamic and thermodynamic characteristics.",
+      "Identify and examine the atmospheric factors responsible for the storm's asymmetric structure."
+    ],
+    "methods": [
+      "Conduct synoptic analysis using observational data from weather satellites FY2/MTSAT and NCEP reanalysis.",
+      "Perform diagnostic analyses based on physical quantities to examine the storm's structure and causation."
+    ],
+    "results": [
+      "Doksuri exhibited significant asymmetry with deep-convection cloud systems concentrated on the southwest side and shallow, sparse low-cloud lines around the eye.",
+      "The western Pacific subtropical high's strengthening and westward extension were identified as the primary causes of the storm's eccentric structure through easterly airflow and dry descending air.",
+      "Strong wind shear and the interaction between southwest monsoon and cross-equatorial airflow contributed to the storm's asymmetric development."
+    ],
+    "research_subject": "Eccentric structure and causation analysis of Severe Tropical Storm Doksuri"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Severe Tropical Storm Doksuri exhibited an unusual eccentric structure that is not well understood.\",\n    \"Understanding the causation of this eccentric structure is crucial for predicting and mitigating the impact of such storms.\"\n  ],\n  \"objectives\": [\n    \"Analyze the dynamic and thermodynamic structure of Severe Tropical Storm Doksuri using observations and reanalysis data.\",\n    \"Investigate the causation of the eccentric structure of Doksuri through synoptic analysis and diagnoses based on physical quantities.\"\n  ],\n  \"methods\": [\n    \"Utilize observations, weather satellite data, and NCEP reanalysis to study the storm's structure and evolution.\",\n    \"Perform synoptic analysis and diagnoses based on physical quantities to understand the causation of the eccentric structure.\"\n  ],\n  \"results\": [\n    \"The eccentric structure of Doksuri was characterized by significant asymmetry in both dynamic and thermodynamic structure.\",\n    \"The strengthening and westward extension of the western Pacific subtropical high were found to be mainly responsible for the eccentric structure of Doksuri.\",\n    \"Strong wind shear and the presence of a southwest monsoon and cross-equatorial airflow also contributed to the storm's eccentricity.\"\n  ],\n  \"research_subject\": \"Characteristics and causation of the eccentric structure of Severe Tropical Storm Doksuri\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the eccentric structure of Severe Tropical Storm Doksuri and its causation.\"\n  ],\n  \"objectives\": [\n    \"Analyze the eccentric structure of Severe Tropical Storm Doksuri using weather satellite and NCEP reanalysis data.\",\n    \"Investigate the causation of the storm's eccentric structure through synoptic analysis and diagnoses based on physical quantities.\"\n  ],\n  \"methods\": [\n    \"Use observations and data from the weather satellite FY2/MTSAT and NCEP reanalysis.\",\n    \"Perform synoptic analysis and diagnoses based on physical quantities.\"\n  ],\n  \"results\": [\n    \"Doksuri was significantly asymmetric in both the dynamic and thermodynamic structure.\",\n    \"The strengthening and westward extension of the western Pacific subtropical high (WPSH) are mainly responsible for the eccentric structure of Doksuri at the mid- and higher-levels.\",\n    \"The presence of strong wind shear was also one of the factors accounting for the vigorous development of convection south of the storm.\"\n  ],\n  \"research_subject\": \"Analysis of the Eccentric Structure of Severe Tropical Storm Doksuri and its Causation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the eccentric structure of tropical storms is crucial for improving storm prediction and warning systems.\",\n    \"The asymmetric characteristics of Severe Tropical Storm Doksuri require investigation to understand the underlying atmospheric dynamics.\"\n  ],\n  \"objectives\": [\n    \"Analyze the eccentric structure of Severe Tropical Storm Doksuri in terms of its dynamic and thermodynamic characteristics.\",\n    \"Identify and examine the atmospheric factors responsible for the storm's asymmetric structure.\"\n  ],\n  \"methods\": [\n    \"Conduct synoptic analysis using observational data from weather satellites FY2/MTSAT and NCEP reanalysis.\",\n    \"Perform diagnostic analyses based on physical quantities to examine the storm's structure and causation.\"\n  ],\n  \"results\": [\n    \"Doksuri exhibited significant asymmetry with deep-convection cloud systems concentrated on the southwest side and shallow, sparse low-cloud lines around the eye.\",\n    \"The western Pacific subtropical high's strengthening and westward extension were identified as the primary causes of the storm's eccentric structure through easterly airflow and dry descending air.\",\n    \"Strong wind shear and the interaction between southwest monsoon and cross-equatorial airflow contributed to the storm's asymmetric development.\"\n  ],\n  \"research_subject\": \"Eccentric structure and causation analysis of Severe Tropical Storm Doksuri\"\n}\n```"
+}

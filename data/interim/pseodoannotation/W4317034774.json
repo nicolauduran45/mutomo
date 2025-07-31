@@ -1,0 +1,61 @@
+{
+  "index": 321,
+  "title": "Cesarianas em mulheres imigrantes segundo classificação de Robson, características maternas e adequação da assistência pré-natal [Cesarean sections in immigrant women, by Robson's classification, the mother’s characteristics, and adequacy of antenatal care] [Cesáreas en mujeres inmigrantes según la clasificación de Robson, características maternas y adecuación de la atención prenatal]",
+  "abstract": "Objetivo: analisar a distribuição de cesáreas em imigrantes segundo classificação de Robson, características maternas e adequação da assistência pré-natal. Métodos: estudo transversal, retrospectivo com dados do Sistema de Informação sobre Nascidos Vivos referentes aos partos de mulheres imigrantes ocorridos no Paraná, no período de 2014 à 2021. Banco dados acessado em 2019 com atualização em 2022. Dados analisados com auxílio da estatística descritiva e inferencial. Protocolo da pesquisa aprovado por Comitê de Ética. Resultados: dos 18.652 nascimentos analisados, 58,2% foram cesáreas, com maior chance de ocorrerem em imigrantes com até oito anos de estudo, com companheiro, pré-natal inadequado ou intermediário e classificadas nos grupos 1,3, e 4 de Robson. Os grupos 2,5,6,7,8 e 9 apresentaram-se como fator de proteção para essa via de parto. Conclusão: a cesariana foi mais frequente em imigrantes com baixa escolaridade, pré-natal inadequado ou intermediário e classificadas nos grupos 1, 3 e 4 de Robson.ABSTRACTObjective: to examine rates of Cesarean section in immigrant women, by Robson's classification, the mother’s characteristics, and adequacy of prenatal care. Methods: this retrospective, cross-sectional study used data from the Live Births Information System on births by immigrant women in Paraná State from 2014 to 2021. The database was accessed in 2019, with an update in 2022. Data analysis was assisted by descriptive and inferential statistics. The research protocol was approved by the research ethics committee. Results: of the 18,652 births examined, 58.2% were by cesarean section, which was more likely to occur in immigrants with up to eight years of schooling, a partner, inadequate or intermediate prenatal care, and Robson group classification 1, 3, or 4. Classification in groups 2, 5, 6, 7, 8, and 9 was protective for cesarean delivery. Conclusion: cesarean delivery in immigrants was associated with schooling and marital status, adequacy of prenatal care, and classification in Robson groups.RESUMENObjetivo: analizar las tasas de cesáreas en inmigrantes según la clasificación de Robson, las características maternas y la adecuación de la atención prenatal. Métodos: estudio retrospectivo transversal que utilizó datos del Sistema de Información de Nacidos Vivos referentes a los partos en mujeres inmigrantes en el estado de Paraná de 2014 a 2021. Base de datos consultada en 2019 con actualización en 2022. Los datos se analizaron con ayuda de las estadísticas descriptiva e inferencial. El protocolo de investigación fue aprobado por el Comité de Ética en Investigación. Resultados: de los 18.652 nacimientos analizados, el 58,2% fue por cesárea, con mayor probabilidad de frecuencia en inmigrantes con hasta ocho años de escolaridad, con pareja, control prenatal inadecuado o intermedio y clasificadas en los grupos 1, 3 y 4 de Robson. Los grupos 2, 5, 6, 7, 8 y 9 se presentaron como factor de protección para el parto por cesárea. Conclusión: el parto por cesárea fue más frecuente en inmigrantes con baja escolaridad, control prenatal inadecuado o intermedio y con clasificación en los grupos 1, 3 y 4 de Robson.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the factors influencing the high rates of cesarean sections among immigrant women.",
+      "The relationship between maternal characteristics, prenatal care, and cesarean section rates in immigrant women requires investigation."
+    ],
+    "objectives": [
+      "Analyze the distribution of cesarean sections among immigrant women according to Robson's classification, maternal characteristics, and adequacy of prenatal care."
+    ],
+    "methods": [
+      "Conduct a retrospective, cross-sectional study using data from the Live Births Information System.",
+      "Analyze data using descriptive and inferential statistics."
+    ],
+    "results": [
+      "Cesarean sections were more frequent among immigrant women with lower education, inadequate or intermediate prenatal care, and classified in Robson groups 1, 3, and 4.",
+      "Classification in Robson groups 2, 5, 6, 7, 8, and 9 was protective against cesarean delivery."
+    ],
+    "research_subject": "Cesarean section rates among immigrant women and associated factors"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the distribution of cesarean sections among immigrant women, considering factors such as Robson's classification, maternal characteristics, and adequacy of prenatal care."
+    ],
+    "objectives": [
+      "Analyze the distribution of cesarean sections among immigrant women based on Robson's classification, maternal characteristics, and adequacy of prenatal care."
+    ],
+    "methods": [
+      "Conduct a retrospective, cross-sectional study using data from the Live Births Information System on births by immigrant women in Paraná State from 2014 to 2021.",
+      "Analyze the data using descriptive and inferential statistics."
+    ],
+    "results": [
+      "Cesarean sections were more likely to occur in immigrants with up to eight years of schooling, a partner, inadequate or intermediate prenatal care, and Robson group classification 1, 3, or 4.",
+      "Classification in Robson groups 2, 5, 6, 7, 8, and 9 was protective for cesarean delivery."
+    ],
+    "research_subject": "Cesarean sections in immigrant women, by Robson's classification, the mother’s characteristics, and adequacy of prenatal care"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to understand the patterns and factors associated with cesarean section rates among immigrant women.",
+      "Limited knowledge exists about how maternal characteristics and prenatal care adequacy influence cesarean delivery rates in immigrant populations."
+    ],
+    "objectives": [
+      "Analyze the distribution of cesarean sections in immigrant women according to Robson's classification, maternal characteristics, and adequacy of prenatal care."
+    ],
+    "methods": [
+      "Conducted a retrospective cross-sectional study using data from the Live Births Information System for immigrant women in Paraná State.",
+      "Applied descriptive and inferential statistical analysis to examine associations between cesarean rates and various maternal factors."
+    ],
+    "results": [
+      "Found that 58.2% of births were by cesarean section, with higher likelihood among immigrants with low education, inadequate prenatal care, and classification in Robson groups 1, 3, and 4.",
+      "Identified that Robson groups 2, 5, 6, 7, 8, and 9 served as protective factors against cesarean delivery."
+    ],
+    "research_subject": "Cesarean section rates and associated factors among immigrant women"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the factors influencing the high rates of cesarean sections among immigrant women.\",\n    \"The relationship between maternal characteristics, prenatal care, and cesarean section rates in immigrant women requires investigation.\"\n  ],\n  \"objectives\": [\n    \"Analyze the distribution of cesarean sections among immigrant women according to Robson's classification, maternal characteristics, and adequacy of prenatal care.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective, cross-sectional study using data from the Live Births Information System.\",\n    \"Analyze data using descriptive and inferential statistics.\"\n  ],\n  \"results\": [\n    \"Cesarean sections were more frequent among immigrant women with lower education, inadequate or intermediate prenatal care, and classified in Robson groups 1, 3, and 4.\",\n    \"Classification in Robson groups 2, 5, 6, 7, 8, and 9 was protective against cesarean delivery.\"\n  ],\n  \"research_subject\": \"Cesarean section rates among immigrant women and associated factors\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the distribution of cesarean sections among immigrant women, considering factors such as Robson's classification, maternal characteristics, and adequacy of prenatal care.\"\n  ],\n  \"objectives\": [\n    \"Analyze the distribution of cesarean sections among immigrant women based on Robson's classification, maternal characteristics, and adequacy of prenatal care.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective, cross-sectional study using data from the Live Births Information System on births by immigrant women in Paraná State from 2014 to 2021.\",\n    \"Analyze the data using descriptive and inferential statistics.\"\n  ],\n  \"results\": [\n    \"Cesarean sections were more likely to occur in immigrants with up to eight years of schooling, a partner, inadequate or intermediate prenatal care, and Robson group classification 1, 3, or 4.\",\n    \"Classification in Robson groups 2, 5, 6, 7, 8, and 9 was protective for cesarean delivery.\"\n  ],\n  \"research_subject\": \"Cesarean sections in immigrant women, by Robson's classification, the mother’s characteristics, and adequacy of prenatal care\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the patterns and factors associated with cesarean section rates among immigrant women.\",\n    \"Limited knowledge exists about how maternal characteristics and prenatal care adequacy influence cesarean delivery rates in immigrant populations.\"\n  ],\n  \"objectives\": [\n    \"Analyze the distribution of cesarean sections in immigrant women according to Robson's classification, maternal characteristics, and adequacy of prenatal care.\"\n  ],\n  \"methods\": [\n    \"Conducted a retrospective cross-sectional study using data from the Live Births Information System for immigrant women in Paraná State.\",\n    \"Applied descriptive and inferential statistical analysis to examine associations between cesarean rates and various maternal factors.\"\n  ],\n  \"results\": [\n    \"Found that 58.2% of births were by cesarean section, with higher likelihood among immigrants with low education, inadequate prenatal care, and classification in Robson groups 1, 3, and 4.\",\n    \"Identified that Robson groups 2, 5, 6, 7, 8, and 9 served as protective factors against cesarean delivery.\"\n  ],\n  \"research_subject\": \"Cesarean section rates and associated factors among immigrant women\"\n}\n```"
+}

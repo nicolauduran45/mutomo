@@ -1,0 +1,68 @@
+{
+  "index": 34,
+  "title": "Implementation of an innovative product in the form of a smart fibre switch on the market.",
+  "abstract": "The product that will be created during the implementation of the project will be an intelligent switch with a controller and software for passporting fiber optic networks, detecting ports and detecting failure sites. The product technically and functionally has the characteristics of product innovation. The product by combining commonly used light wave propagation technology (i.e. visible light) in fiber optic networks and widely available optical components (splitters) will allow for new functionalities, previously unavailable in switches available on the market. The implementation of additional optical signals (which acts as an information signal) in the main transmission track allows to create an innovative solution for connection detection, monitoring and process automation. Allows you to create real-time connection maps – passporting (so far, in most cases available by manual input of data). At the same time, remote solution used, fully automated detection of the occurrence of a failure site, and reveals any malfunctions in the operation of the optical network, which affects the time and human resources required to resolve failures in the case of standard crossings.",
+  "llama_json": {
+    "motivations": [
+      "Current fibre optic network switches lack advanced functionalities such as real-time connection detection and automated failure site detection.",
+      "Manual data input for network passporting is time-consuming and prone to errors."
+    ],
+    "objectives": [
+      "Develop an innovative smart fibre switch with a controller and software for advanced network management.",
+      "Implement a novel solution for connection detection, monitoring, and process automation in fibre optic networks."
+    ],
+    "methods": [
+      "Combine light wave propagation technology with widely available optical components to create a new fibre optic switch.",
+      "Utilize additional optical signals to enable real-time connection mapping and automated failure detection."
+    ],
+    "results": [
+      "Provide a more efficient and automated solution for fibre optic network management.",
+      "Reduce the time and human resources required to resolve network failures.",
+      "Enhance the accuracy and reliability of network passporting and monitoring."
+    ],
+    "research_subject": "Development of an innovative smart fibre switch for advanced fibre optic network management"
+  },
+  "openai_json": {
+    "motivations": [
+      "Existing switches in the market lack certain functionalities such as real-time connection mapping and automated failure detection.",
+      "The process of resolving failures in standard crossings is time-consuming and resource-intensive."
+    ],
+    "objectives": [
+      "Create an intelligent switch with a controller and software for passporting fiber optic networks, detecting ports, and detecting failure sites.",
+      "Incorporate additional optical signals in the main transmission track for connection detection, monitoring, and process automation."
+    ],
+    "methods": [
+      "Combine commonly used light wave propagation technology and widely available optical components to enable new functionalities in the switch.",
+      "Implement an information signal in the main transmission track for innovative connection detection and monitoring."
+    ],
+    "results": [
+      "Provide an innovative product with new functionalities previously unavailable in switches on the market.",
+      "Enable real-time connection mapping and fully automated detection of failure sites, reducing the time and resources required to resolve failures."
+    ],
+    "research_subject": "Implementation of a smart fibre switch with innovative features"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current fiber optic network switches lack automated capabilities for real-time connection mapping and failure detection, requiring manual data input and significant human resources for network management.",
+      "There is a need for innovative solutions that can automatically detect connection ports and failure sites in fiber optic networks to improve operational efficiency."
+    ],
+    "objectives": [
+      "Develop an intelligent fiber optic switch with integrated controller and software for automated network passporting, port detection, and failure site identification.",
+      "Create a product innovation that combines visible light wave propagation technology with optical components to enable new functionalities not available in existing market solutions."
+    ],
+    "methods": [
+      "Implement additional optical signals as information carriers within the main transmission track to enable automated connection detection and monitoring.",
+      "Integrate visible light wave propagation technology with standard optical components such as splitters to create the innovative switching solution.",
+      "Develop software and controller systems for real-time connection mapping and automated failure detection."
+    ],
+    "results": [
+      "Enable real-time, automated creation of fiber optic network connection maps without manual data input.",
+      "Reduce time and human resources required for detecting and resolving network failures through automated failure site detection.",
+      "Deliver a market-ready intelligent fiber optic switch with unprecedented automation capabilities for network monitoring and management."
+    ],
+    "research_subject": "Development of an intelligent fiber optic switch for automated network passporting and failure detection"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current fibre optic network switches lack advanced functionalities such as real-time connection detection and automated failure site detection.\",\n    \"Manual data input for network passporting is time-consuming and prone to errors.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative smart fibre switch with a controller and software for advanced network management.\",\n    \"Implement a novel solution for connection detection, monitoring, and process automation in fibre optic networks.\"\n  ],\n  \"methods\": [\n    \"Combine light wave propagation technology with widely available optical components to create a new fibre optic switch.\",\n    \"Utilize additional optical signals to enable real-time connection mapping and automated failure detection.\"\n  ],\n  \"results\": [\n    \"Provide a more efficient and automated solution for fibre optic network management.\",\n    \"Reduce the time and human resources required to resolve network failures.\",\n    \"Enhance the accuracy and reliability of network passporting and monitoring.\"\n  ],\n  \"research_subject\": \"Development of an innovative smart fibre switch for advanced fibre optic network management\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Existing switches in the market lack certain functionalities such as real-time connection mapping and automated failure detection.\",\n    \"The process of resolving failures in standard crossings is time-consuming and resource-intensive.\"\n  ],\n  \"objectives\": [\n    \"Create an intelligent switch with a controller and software for passporting fiber optic networks, detecting ports, and detecting failure sites.\",\n    \"Incorporate additional optical signals in the main transmission track for connection detection, monitoring, and process automation.\"\n  ],\n  \"methods\": [\n    \"Combine commonly used light wave propagation technology and widely available optical components to enable new functionalities in the switch.\",\n    \"Implement an information signal in the main transmission track for innovative connection detection and monitoring.\"\n  ],\n  \"results\": [\n    \"Provide an innovative product with new functionalities previously unavailable in switches on the market.\",\n    \"Enable real-time connection mapping and fully automated detection of failure sites, reducing the time and resources required to resolve failures.\"\n  ],\n  \"research_subject\": \"Implementation of a smart fibre switch with innovative features\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current fiber optic network switches lack automated capabilities for real-time connection mapping and failure detection, requiring manual data input and significant human resources for network management.\",\n    \"There is a need for innovative solutions that can automatically detect connection ports and failure sites in fiber optic networks to improve operational efficiency.\"\n  ],\n  \"objectives\": [\n    \"Develop an intelligent fiber optic switch with integrated controller and software for automated network passporting, port detection, and failure site identification.\",\n    \"Create a product innovation that combines visible light wave propagation technology with optical components to enable new functionalities not available in existing market solutions.\"\n  ],\n  \"methods\": [\n    \"Implement additional optical signals as information carriers within the main transmission track to enable automated connection detection and monitoring.\",\n    \"Integrate visible light wave propagation technology with standard optical components such as splitters to create the innovative switching solution.\",\n    \"Develop software and controller systems for real-time connection mapping and automated failure detection.\"\n  ],\n  \"results\": [\n    \"Enable real-time, automated creation of fiber optic network connection maps without manual data input.\",\n    \"Reduce time and human resources required for detecting and resolving network failures through automated failure site detection.\",\n    \"Deliver a market-ready intelligent fiber optic switch with unprecedented automation capabilities for network monitoring and management.\"\n  ],\n  \"research_subject\": \"Development of an intelligent fiber optic switch for automated network passporting and failure detection\"\n}\n```"
+}

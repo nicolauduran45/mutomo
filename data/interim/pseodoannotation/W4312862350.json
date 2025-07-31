@@ -1,0 +1,44 @@
+{
+  "index": 121,
+  "title": "Franz Brentano über Schelling – eine neue Lesart",
+  "abstract": "Einige der wichtigsten Aspekte aus der Anfangsphase des Werkes von Franz Brentano müssen noch sorgfältiger als bisher eingeteilt und bewertet werden. Diese Aufgabe zu erfüllen, bedeutet 1) die tiefgründige Gestalt seiner Auffassung zu Aristoteles wahrzunehmen und zu beschreiben; 2) die Beweggründe seiner heftigen Unstimmigkeit zu einigen wesentlichen Punkten gegenüber dem deutschen Idealismus klarzustellen. Der erste Aspekt ist in der Brentano-Forschung sehr präsent; der zweite Aspekt, der uns hier interessiert, wurde hingegen nicht angemessen wahrgenommen und ist in manchen Hinsichten sogar in Vergessenheit geraten. Insbesondere sein Umgang mit Schelling bedarf einer kritischen Rekonstruktion. Von besonderem Interesse in dieser Hinsicht ist ein kürzlich in Graz entdecktes handschriftliches Manuskript von 950 Seiten mit dem Titel Geschichte der Philosophie, das ausdrücklich Brentano zugeschrieben wird, sowie Brentanos Nachlass. Es wird gezeigt, wie Brentano Schellings Methode, die aufs Ganze gerichtet ist, schätzt, seine Mystik jedoch zurückweist, da sie zu einer Verkennung des Verhältnisses zwischen Natürlichem und Übernatürlichem führt.",
+  "llama_json": null,
+  "openai_json": {
+    "motivations": [
+      "There is a need for a more careful categorization and evaluation of the early work of Franz Brentano.",
+      "The reasons for Brentano's strong disagreement with some essential points of German Idealism, particularly his interaction with Schelling, have not been adequately perceived and have been somewhat forgotten."
+    ],
+    "objectives": [
+      "To perceive and describe the profound form of Brentano's view on Aristotle.",
+      "To clarify the reasons for Brentano's strong disagreement with some essential points of German Idealism, particularly his interaction with Schelling."
+    ],
+    "methods": [
+      "Use a recently discovered handwritten manuscript of 950 pages titled 'History of Philosophy', which is explicitly attributed to Brentano, and Brentano's estate for critical reconstruction of his interaction with Schelling."
+    ],
+    "results": [
+      "Provide a new understanding of Brentano's appreciation for Schelling's holistic method and his rejection of Schelling's mysticism due to its misrepresentation of the relationship between the natural and the supernatural."
+    ],
+    "research_subject": "A new interpretation of Franz Brentano's views on Schelling"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Important aspects of Franz Brentano's early work require more careful classification and evaluation than previously undertaken.",
+      "Brentano's relationship with German Idealism, particularly his engagement with Schelling, has been inadequately examined and partly forgotten in research."
+    ],
+    "objectives": [
+      "Analyze and describe Brentano's profound understanding of Aristotle.",
+      "Clarify the reasons for Brentano's strong disagreements with essential points of German Idealism, particularly regarding Schelling."
+    ],
+    "methods": [
+      "Critical reconstruction of Brentano's engagement with Schelling using newly discovered manuscripts.",
+      "Analysis of a recently discovered 950-page handwritten manuscript titled 'Geschichte der Philosophie' attributed to Brentano, along with examination of Brentano's estate materials."
+    ],
+    "results": [
+      "Demonstrates that Brentano appreciated Schelling's holistic method while rejecting his mysticism due to its misrepresentation of the relationship between the natural and supernatural."
+    ],
+    "research_subject": "Franz Brentano's philosophical engagement with Schelling and German Idealism"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Einige Aspekte des Werkes von Franz Brentano sind noch nicht ausreichend erforscht und bewertet.\",\n    \"Die Beziehung zwischen Brentano und dem deutschen Idealismus, insbesondere zu Schelling, ist nicht ausreichend untersucht.\"\n  ],\n  \"objectives\": [\n    \"Eine kritische Rekonstruktion von Brentanos Umgang mit Schelling durchführen.\",\n    \"Die Beweggründe von Brentanos Unstimmigkeit gegenüber dem deutschen Idealismus klären.\",\n    \"Ein umfassendes Verständnis von Brentanos Auffassung zu Aristoteles und seine Auswirkungen auf seine Philosophie entwickeln.\"\n  ],\n  \"methods\": [\n    \"Eine Analyse von Brentanos handschriftlichem Manuskript 'Geschichte der Philosophie' und seinem Nachlass durchführen.\",\n    \"Eine kritische Bewertung von Brentanos Schriften und seiner Beziehung zu Schelling vornehmen.\"\n  ],\n  \"results\": [\n    \"Ein tieferes Verständnis von Brentanos Philosophie und seiner Beziehung zu Schelling und dem deutschen Idealismus.\",\n    \"Eine Neubewertung von Brentanos Stellung in der Geschichte der Philosophie.\"\n  ],\n  \"research_subject\": \"Franz Brentanos Beziehung zu Schelling und dem deutschen Idealismus\"\n}",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a more careful categorization and evaluation of the early work of Franz Brentano.\",\n    \"The reasons for Brentano's strong disagreement with some essential points of German Idealism, particularly his interaction with Schelling, have not been adequately perceived and have been somewhat forgotten.\"\n  ],\n  \"objectives\": [\n    \"To perceive and describe the profound form of Brentano's view on Aristotle.\",\n    \"To clarify the reasons for Brentano's strong disagreement with some essential points of German Idealism, particularly his interaction with Schelling.\"\n  ],\n  \"methods\": [\n    \"Use a recently discovered handwritten manuscript of 950 pages titled 'History of Philosophy', which is explicitly attributed to Brentano, and Brentano's estate for critical reconstruction of his interaction with Schelling.\"\n  ],\n  \"results\": [\n    \"Provide a new understanding of Brentano's appreciation for Schelling's holistic method and his rejection of Schelling's mysticism due to its misrepresentation of the relationship between the natural and the supernatural.\"\n  ],\n  \"research_subject\": \"A new interpretation of Franz Brentano's views on Schelling\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Important aspects of Franz Brentano's early work require more careful classification and evaluation than previously undertaken.\",\n    \"Brentano's relationship with German Idealism, particularly his engagement with Schelling, has been inadequately examined and partly forgotten in research.\"\n  ],\n  \"objectives\": [\n    \"Analyze and describe Brentano's profound understanding of Aristotle.\",\n    \"Clarify the reasons for Brentano's strong disagreements with essential points of German Idealism, particularly regarding Schelling.\"\n  ],\n  \"methods\": [\n    \"Critical reconstruction of Brentano's engagement with Schelling using newly discovered manuscripts.\",\n    \"Analysis of a recently discovered 950-page handwritten manuscript titled 'Geschichte der Philosophie' attributed to Brentano, along with examination of Brentano's estate materials.\"\n  ],\n  \"results\": [\n    \"Demonstrates that Brentano appreciated Schelling's holistic method while rejecting his mysticism due to its misrepresentation of the relationship between the natural and supernatural.\"\n  ],\n  \"research_subject\": \"Franz Brentano's philosophical engagement with Schelling and German Idealism\"\n}\n```"
+}

@@ -1,0 +1,38 @@
+{
+  "index": 256,
+  "title": "EMERGÊNCIA EPIDEMIOLÓGICA DA COVID-19",
+  "abstract": "MEDIDAS DE CONFINAMENTO PARA FAZER FACE À EMERGÊNCIA SANITÁRIA DA COVID-19 COM EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL E SANEAMENTO DOS CLICHÉS",
+  "llama_json": {
+    "motivations": [
+      "The COVID-19 pandemic presents a significant public health emergency that requires immediate attention and effective measures to mitigate its spread."
+    ],
+    "objectives": [
+      "Implement confinement measures to address the COVID-19 health emergency."
+    ],
+    "methods": [
+      "Utilize personal protective equipment (PPE) to reduce transmission risks.",
+      "Implement sanitation protocols to minimize the spread of the virus."
+    ],
+    "results": [],
+    "research_subject": "Epidemiological emergency response to COVID-19"
+  },
+  "openai_json": {
+    "motivations": [
+      "The COVID-19 pandemic has created an urgent need for effective confinement measures to manage the health crisis."
+    ],
+    "objectives": [
+      "Implement confinement measures to address the health emergency caused by COVID-19."
+    ],
+    "methods": [
+      "Use of personal protective equipment and sanitation methods as part of the confinement measures."
+    ],
+    "results": [
+      "Expected to manage and mitigate the health risks associated with the COVID-19 pandemic."
+    ],
+    "research_subject": "Confinement measures for the COVID-19 health emergency"
+  },
+  "anthropic_json": null,
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The COVID-19 pandemic presents a significant public health emergency that requires immediate attention and effective measures to mitigate its spread.\"\n  ],\n  \"objectives\": [\n    \"Implement confinement measures to address the COVID-19 health emergency.\"\n  ],\n  \"methods\": [\n    \"Utilize personal protective equipment (PPE) to reduce transmission risks.\",\n    \"Implement sanitation protocols to minimize the spread of the virus.\"\n  ],\n  \"results\": [],\n  \"research_subject\": \"Epidemiological emergency response to COVID-19\"\n}\n```",
+  "openai_raw": "Output:\n\n```json\n{\n  \"motivations\": [\n    \"The COVID-19 pandemic has created an urgent need for effective confinement measures to manage the health crisis.\"\n  ],\n  \"objectives\": [\n    \"Implement confinement measures to address the health emergency caused by COVID-19.\"\n  ],\n  \"methods\": [\n    \"Use of personal protective equipment and sanitation methods as part of the confinement measures.\"\n  ],\n  \"results\": [\n    \"Expected to manage and mitigate the health risks associated with the COVID-19 pandemic.\"\n  ],\n  \"research_subject\": \"Confinement measures for the COVID-19 health emergency\"\n}\n```",
+  "anthropic_raw": "```"
+}

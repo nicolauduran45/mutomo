@@ -1,0 +1,73 @@
+{
+  "index": 166,
+  "title": "Put Yourself in My Shoes: Perspectives of Adolescents about What Makes an Obesity Intervention Effective",
+  "abstract": "Purpose: This study aims to investigate the adolescents’ perspectives about 1) the changing process promoted by a weight management program; 2) the factors which may act as facilitators and barriers to obesity management; 3) the strategies that should be included in order to design a successful weight management program. Methods: Data were collected by in-depth interviews and focus group discussions with 16 overweight adolescents, aged 12 - 18 years. Thematic analysis was used for analysing the data. Results: Findings suggest that attributions (internal and external), functions (barriers and facilitators) and perceptual changes (lifestyle and body and mind changes) play distinct roles in the changing process. Interactions recognized as high quality ones, acquisition of new knowledge and competencies and encouragement throughout the process, were identified as facilitators. Negative patterns of interaction, collection of anthropometric data and internal resistances, were identified as barriers. The relevance of developing systemic interventions including family and peers, and the use of Information and Communication Technologies were highlighted. Conclusion: This study aims to contribute for a deeper understanding of the factors and processes behind adherence to weight management. Implications for the design of future more effective strategies and implementation of appropriate interventions are discussed.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the perspectives of adolescents on what makes an obesity intervention effective to improve weight management programs.",
+      "Current obesity interventions may not be tailored to the specific needs and experiences of adolescents, leading to reduced effectiveness."
+    ],
+    "objectives": [
+      "Investigate adolescents' perspectives on the changing process promoted by a weight management program.",
+      "Identify the factors that act as facilitators and barriers to obesity management among adolescents.",
+      "Determine the strategies that should be included in a successful weight management program for adolescents."
+    ],
+    "methods": [
+      "Conduct in-depth interviews and focus group discussions with overweight adolescents to gather data.",
+      "Use thematic analysis to analyze the collected data and identify key themes and patterns.",
+      "Explore the use of Information and Communication Technologies in developing systemic interventions."
+    ],
+    "results": [
+      "Gain a deeper understanding of the factors and processes behind adherence to weight management among adolescents.",
+      "Inform the design of future effective strategies and interventions for obesity management in adolescents.",
+      "Highlight the importance of including family and peers in systemic interventions for obesity management."
+    ],
+    "research_subject": "Adolescents' perspectives on effective obesity interventions"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding adolescents' perspectives on obesity management is crucial for designing effective weight management programs.",
+      "There is a need to identify the facilitators and barriers to obesity management from the viewpoint of overweight adolescents."
+    ],
+    "objectives": [
+      "Investigate the changing process promoted by a weight management program from the perspective of adolescents.",
+      "Identify the factors that act as facilitators and barriers to obesity management.",
+      "Suggest strategies to be included in designing a successful weight management program."
+    ],
+    "methods": [
+      "Collect data through in-depth interviews and focus group discussions with overweight adolescents.",
+      "Use thematic analysis to analyze the collected data."
+    ],
+    "results": [
+      "Identified internal and external attributions, barriers, facilitators, and perceptual changes as key factors in the changing process.",
+      "Highlighted the importance of high-quality interactions, new knowledge and competencies, and encouragement as facilitators.",
+      "Recognized negative interaction patterns, anthropometric data collection, and internal resistances as barriers.",
+      "Suggested the inclusion of systemic interventions involving family and peers, and the use of Information and Communication Technologies in future programs."
+    ],
+    "research_subject": "Adolescents' perspectives on obesity intervention effectiveness"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding adolescent perspectives on obesity interventions is crucial for improving program effectiveness and adherence.",
+      "Current weight management programs may not adequately address the specific needs and experiences of adolescents with obesity."
+    ],
+    "objectives": [
+      "Investigate adolescents' perspectives on the change process promoted by weight management programs.",
+      "Identify facilitators and barriers to obesity management from the adolescent viewpoint.",
+      "Determine strategies that should be included to design successful weight management programs for adolescents."
+    ],
+    "methods": [
+      "Conducted in-depth interviews and focus group discussions with overweight adolescents.",
+      "Applied thematic analysis to analyze qualitative data from participants."
+    ],
+    "results": [
+      "Identified that internal and external attributions, barriers and facilitators, and perceptual changes play distinct roles in the weight management process.",
+      "Found that high-quality interactions, knowledge acquisition, and encouragement facilitate success, while negative interactions and internal resistances act as barriers.",
+      "Highlighted the importance of systemic interventions involving family and peers, and the potential of Information and Communication Technologies."
+    ],
+    "research_subject": "Adolescent perspectives on obesity intervention effectiveness"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the perspectives of adolescents on what makes an obesity intervention effective to improve weight management programs.\",\n    \"Current obesity interventions may not be tailored to the specific needs and experiences of adolescents, leading to reduced effectiveness.\"\n  ],\n  \"objectives\": [\n    \"Investigate adolescents' perspectives on the changing process promoted by a weight management program.\",\n    \"Identify the factors that act as facilitators and barriers to obesity management among adolescents.\",\n    \"Determine the strategies that should be included in a successful weight management program for adolescents.\"\n  ],\n  \"methods\": [\n    \"Conduct in-depth interviews and focus group discussions with overweight adolescents to gather data.\",\n    \"Use thematic analysis to analyze the collected data and identify key themes and patterns.\",\n    \"Explore the use of Information and Communication Technologies in developing systemic interventions.\"\n  ],\n  \"results\": [\n    \"Gain a deeper understanding of the factors and processes behind adherence to weight management among adolescents.\",\n    \"Inform the design of future effective strategies and interventions for obesity management in adolescents.\",\n    \"Highlight the importance of including family and peers in systemic interventions for obesity management.\"\n  ],\n  \"research_subject\": \"Adolescents' perspectives on effective obesity interventions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding adolescents' perspectives on obesity management is crucial for designing effective weight management programs.\",\n    \"There is a need to identify the facilitators and barriers to obesity management from the viewpoint of overweight adolescents.\"\n  ],\n  \"objectives\": [\n    \"Investigate the changing process promoted by a weight management program from the perspective of adolescents.\",\n    \"Identify the factors that act as facilitators and barriers to obesity management.\",\n    \"Suggest strategies to be included in designing a successful weight management program.\"\n  ],\n  \"methods\": [\n    \"Collect data through in-depth interviews and focus group discussions with overweight adolescents.\",\n    \"Use thematic analysis to analyze the collected data.\"\n  ],\n  \"results\": [\n    \"Identified internal and external attributions, barriers, facilitators, and perceptual changes as key factors in the changing process.\",\n    \"Highlighted the importance of high-quality interactions, new knowledge and competencies, and encouragement as facilitators.\",\n    \"Recognized negative interaction patterns, anthropometric data collection, and internal resistances as barriers.\",\n    \"Suggested the inclusion of systemic interventions involving family and peers, and the use of Information and Communication Technologies in future programs.\"\n  ],\n  \"research_subject\": \"Adolescents' perspectives on obesity intervention effectiveness\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding adolescent perspectives on obesity interventions is crucial for improving program effectiveness and adherence.\",\n    \"Current weight management programs may not adequately address the specific needs and experiences of adolescents with obesity.\"\n  ],\n  \"objectives\": [\n    \"Investigate adolescents' perspectives on the change process promoted by weight management programs.\",\n    \"Identify facilitators and barriers to obesity management from the adolescent viewpoint.\",\n    \"Determine strategies that should be included to design successful weight management programs for adolescents.\"\n  ],\n  \"methods\": [\n    \"Conducted in-depth interviews and focus group discussions with overweight adolescents.\",\n    \"Applied thematic analysis to analyze qualitative data from participants.\"\n  ],\n  \"results\": [\n    \"Identified that internal and external attributions, barriers and facilitators, and perceptual changes play distinct roles in the weight management process.\",\n    \"Found that high-quality interactions, knowledge acquisition, and encouragement facilitate success, while negative interactions and internal resistances act as barriers.\",\n    \"Highlighted the importance of systemic interventions involving family and peers, and the potential of Information and Communication Technologies.\"\n  ],\n  \"research_subject\": \"Adolescent perspectives on obesity intervention effectiveness\"\n}\n```"
+}

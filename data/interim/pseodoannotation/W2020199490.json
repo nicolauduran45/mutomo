@@ -1,0 +1,69 @@
+{
+  "index": 433,
+  "title": "A prototypical Java-like language with records and traits",
+  "abstract": "Traits have been designed as units of fine-grained behavior reuse in the object-oriented paradigm. In this paper, we present the language Sugared Welterweight Record-Trait Java (SWRTJ), a Java dialect with records and traits. Records have been devised to complement traits for fine-grained state reuse. Records and traits can be composed by explicit linguistic operations, allowing code manipulations to achieve fine-grained code reuse. Classes are assembled from (composite) records and traits and instantiated to generate objects. We present the prototypical implementation of SWRTJ using Xtext, an Eclipse framework for the development of programming languages as well as other domain-specific languages. Our implementation comprises an Eclipse-based editor for SWRTJ with typical IDE functionalities, and a stand-alone compiler, which translates SWRTJ programs into standard Java programs.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for fine-grained behavior and state reuse in object-oriented programming.",
+      "Existing programming languages lack explicit linguistic operations for composing reusable code units."
+    ],
+    "objectives": [
+      "Design a Java-like language that incorporates records and traits for fine-grained code reuse.",
+      "Implement a prototypical development environment for the proposed language, including an editor and compiler."
+    ],
+    "methods": [
+      "Develop a language, Sugared Welterweight Record-Trait Java (SWRTJ), that integrates records and traits.",
+      "Utilize Xtext, an Eclipse framework, to implement the SWRTJ language and its development environment.",
+      "Create a stand-alone compiler to translate SWRTJ programs into standard Java programs."
+    ],
+    "results": [
+      "Enable fine-grained behavior and state reuse in object-oriented programming through the use of records and traits.",
+      "Provide a functional development environment for SWRTJ, including an Eclipse-based editor and compiler."
+    ],
+    "research_subject": "Design and implementation of a Java-like language with records and traits for fine-grained code reuse"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for fine-grained behavior and state reuse in the object-oriented paradigm.",
+      "Existing languages may not provide explicit linguistic operations for fine-grained code reuse."
+    ],
+    "objectives": [
+      "Present Sugared Welterweight Record-Trait Java (SWRTJ), a Java dialect with records and traits for fine-grained behavior and state reuse.",
+      "Implement a prototypical version of SWRTJ using Xtext, an Eclipse framework for the development of programming languages."
+    ],
+    "methods": [
+      "Design SWRTJ to allow records and traits to be composed by explicit linguistic operations.",
+      "Develop an Eclipse-based editor for SWRTJ with typical IDE functionalities.",
+      "Create a stand-alone compiler that translates SWRTJ programs into standard Java programs."
+    ],
+    "results": [
+      "Provide a new Java dialect, SWRTJ, that supports fine-grained behavior and state reuse.",
+      "Offer an Eclipse-based editor and a stand-alone compiler for SWRTJ, facilitating its use and adoption."
+    ],
+    "research_subject": "Development and implementation of a Java dialect with records and traits for fine-grained code reuse"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional object-oriented programming lacks mechanisms for fine-grained reuse of both behavior and state, limiting code modularity and reusability.",
+      "Existing trait-based approaches focus primarily on behavior reuse but do not adequately address state reuse in object-oriented languages."
+    ],
+    "objectives": [
+      "Design and implement a Java dialect that combines records and traits to enable fine-grained reuse of both state and behavior.",
+      "Develop a prototypical implementation with IDE support and compilation capabilities for practical use of the proposed language features."
+    ],
+    "methods": [
+      "Design SWRTJ (Sugared Welterweight Record-Trait Java) as a Java dialect incorporating records for state reuse and traits for behavior reuse.",
+      "Implement the language using Xtext framework to create an Eclipse-based editor with IDE functionalities.",
+      "Develop a stand-alone compiler that translates SWRTJ programs into standard Java programs."
+    ],
+    "results": [
+      "Successfully created a working prototype of SWRTJ with full IDE support and compilation to standard Java.",
+      "Demonstrated that records and traits can be effectively combined through explicit linguistic operations to achieve fine-grained code reuse.",
+      "Provided a practical implementation that allows developers to use advanced modularity features while maintaining compatibility with Java."
+    ],
+    "research_subject": "Design and implementation of a Java dialect with records and traits for fine-grained code reuse"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for fine-grained behavior and state reuse in object-oriented programming.\",\n    \"Existing programming languages lack explicit linguistic operations for composing reusable code units.\"\n  ],\n  \"objectives\": [\n    \"Design a Java-like language that incorporates records and traits for fine-grained code reuse.\",\n    \"Implement a prototypical development environment for the proposed language, including an editor and compiler.\"\n  ],\n  \"methods\": [\n    \"Develop a language, Sugared Welterweight Record-Trait Java (SWRTJ), that integrates records and traits.\",\n    \"Utilize Xtext, an Eclipse framework, to implement the SWRTJ language and its development environment.\",\n    \"Create a stand-alone compiler to translate SWRTJ programs into standard Java programs.\"\n  ],\n  \"results\": [\n    \"Enable fine-grained behavior and state reuse in object-oriented programming through the use of records and traits.\",\n    \"Provide a functional development environment for SWRTJ, including an Eclipse-based editor and compiler.\"\n  ],\n  \"research_subject\": \"Design and implementation of a Java-like language with records and traits for fine-grained code reuse\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for fine-grained behavior and state reuse in the object-oriented paradigm.\",\n    \"Existing languages may not provide explicit linguistic operations for fine-grained code reuse.\"\n  ],\n  \"objectives\": [\n    \"Present Sugared Welterweight Record-Trait Java (SWRTJ), a Java dialect with records and traits for fine-grained behavior and state reuse.\",\n    \"Implement a prototypical version of SWRTJ using Xtext, an Eclipse framework for the development of programming languages.\"\n  ],\n  \"methods\": [\n    \"Design SWRTJ to allow records and traits to be composed by explicit linguistic operations.\",\n    \"Develop an Eclipse-based editor for SWRTJ with typical IDE functionalities.\",\n    \"Create a stand-alone compiler that translates SWRTJ programs into standard Java programs.\"\n  ],\n  \"results\": [\n    \"Provide a new Java dialect, SWRTJ, that supports fine-grained behavior and state reuse.\",\n    \"Offer an Eclipse-based editor and a stand-alone compiler for SWRTJ, facilitating its use and adoption.\"\n  ],\n  \"research_subject\": \"Development and implementation of a Java dialect with records and traits for fine-grained code reuse\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional object-oriented programming lacks mechanisms for fine-grained reuse of both behavior and state, limiting code modularity and reusability.\",\n    \"Existing trait-based approaches focus primarily on behavior reuse but do not adequately address state reuse in object-oriented languages.\"\n  ],\n  \"objectives\": [\n    \"Design and implement a Java dialect that combines records and traits to enable fine-grained reuse of both state and behavior.\",\n    \"Develop a prototypical implementation with IDE support and compilation capabilities for practical use of the proposed language features.\"\n  ],\n  \"methods\": [\n    \"Design SWRTJ (Sugared Welterweight Record-Trait Java) as a Java dialect incorporating records for state reuse and traits for behavior reuse.\",\n    \"Implement the language using Xtext framework to create an Eclipse-based editor with IDE functionalities.\",\n    \"Develop a stand-alone compiler that translates SWRTJ programs into standard Java programs.\"\n  ],\n  \"results\": [\n    \"Successfully created a working prototype of SWRTJ with full IDE support and compilation to standard Java.\",\n    \"Demonstrated that records and traits can be effectively combined through explicit linguistic operations to achieve fine-grained code reuse.\",\n    \"Provided a practical implementation that allows developers to use advanced modularity features while maintaining compatibility with Java.\"\n  ],\n  \"research_subject\": \"Design and implementation of a Java dialect with records and traits for fine-grained code reuse\"\n}\n```"
+}

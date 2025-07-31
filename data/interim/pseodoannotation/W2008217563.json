@@ -1,0 +1,65 @@
+{
+  "index": 94,
+  "title": "A bio-inspired artificial whisker for fluid motion sensing with increased sensitivity and reliability",
+  "abstract": "Biological hair fluid motion sensors are found in a variety of animals such as arachnids and marine mammals. These sensors display a wide range of geometrical sizes and dynamic characteristics affecting their sensitivity. We report design revisions to improve sensitivity, wake detection capabilities, and reliability in a biologically inspired fluid motion/wake detection sensor. The design implements a cone-in-cone capacitance based sensing mechanism for monitoring fluid motion fluctuations in the wake of an object in four directions. The improved sensor design shows a gain range (the difference between peak output voltage amplitude divided by the peak input voltage amplitude) of up to 0.27 between whisker compression and deflection, a 300X increase relative to prior art. Improvements to the sensor include adjusting the deflection measurement modality, increasing the inner cone size, using silver epoxy for plating, shielding signal wires, and reducing parasitic capacitance that dampens the output voltage range.",
+  "llama_json": {
+    "motivations": [
+      "Existing fluid motion sensors lack sensitivity and reliability, limiting their effectiveness in detecting fluid motion fluctuations.",
+      "Biological hair fluid motion sensors found in nature have desirable characteristics that can be emulated to improve artificial sensor designs."
+    ],
+    "objectives": [
+      "Improve the sensitivity and reliability of a bio-inspired artificial whisker for fluid motion sensing.",
+      "Enhance wake detection capabilities in the sensor design."
+    ],
+    "methods": [
+      "Implement a cone-in-cone capacitance-based sensing mechanism to monitor fluid motion fluctuations.",
+      "Optimize the sensor design through adjustments in deflection measurement modality, inner cone size, and materials used."
+    ],
+    "results": [
+      "Achieve a significant increase in sensitivity, with a gain range of up to 0.27 between whisker compression and deflection.",
+      "Demonstrate improved wake detection capabilities and reliability in the revised sensor design."
+    ],
+    "research_subject": "Bio-inspired artificial whisker for fluid motion sensing"
+  },
+  "openai_json": {
+    "motivations": [
+      "Biological hair fluid motion sensors in animals display a wide range of geometrical sizes and dynamic characteristics affecting their sensitivity.",
+      "Existing artificial fluid motion sensors lack the desired sensitivity and reliability."
+    ],
+    "objectives": [
+      "Improve the sensitivity, wake detection capabilities, and reliability of a biologically inspired fluid motion sensor.",
+      "Implement a cone-in-cone capacitance based sensing mechanism for monitoring fluid motion fluctuations."
+    ],
+    "methods": [
+      "Design revisions to the sensor include adjusting the deflection measurement modality and increasing the inner cone size.",
+      "Use silver epoxy for plating, shield signal wires, and reduce parasitic capacitance that dampens the output voltage range."
+    ],
+    "results": [
+      "The improved sensor design shows a gain range of up to 0.27 between whisker compression and deflection, a 300X increase relative to prior art.",
+      "The sensor can monitor fluid motion fluctuations in the wake of an object in four directions."
+    ],
+    "research_subject": "Improvement of a bio-inspired artificial whisker for fluid motion sensing"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Biological hair fluid motion sensors found in various animals exhibit diverse geometrical and dynamic characteristics that affect their sensitivity, inspiring the development of artificial sensors.",
+      "Existing artificial fluid motion sensors have limited sensitivity and reliability for detecting fluid motion fluctuations and wake patterns."
+    ],
+    "objectives": [
+      "Design and develop a bio-inspired artificial whisker sensor with improved sensitivity, wake detection capabilities, and reliability for fluid motion sensing.",
+      "Achieve significant performance gains in sensor output compared to existing designs through optimized sensing mechanisms and structural improvements."
+    ],
+    "methods": [
+      "Implement a cone-in-cone capacitance-based sensing mechanism to monitor fluid motion fluctuations in four directions.",
+      "Apply design modifications including adjusting deflection measurement modality, increasing inner cone size, using silver epoxy plating, shielding signal wires, and reducing parasitic capacitance."
+    ],
+    "results": [
+      "The improved sensor achieves a gain range of up to 0.27 between whisker compression and deflection, representing a 300-fold increase compared to prior designs.",
+      "Enhanced sensitivity and reliability in detecting fluid motion and wake patterns through optimized sensor design and reduced signal interference."
+    ],
+    "research_subject": "Bio-inspired artificial whisker sensor for fluid motion and wake detection"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing fluid motion sensors lack sensitivity and reliability, limiting their effectiveness in detecting fluid motion fluctuations.\",\n    \"Biological hair fluid motion sensors found in nature have desirable characteristics that can be emulated to improve artificial sensor designs.\"\n  ],\n  \"objectives\": [\n    \"Improve the sensitivity and reliability of a bio-inspired artificial whisker for fluid motion sensing.\",\n    \"Enhance wake detection capabilities in the sensor design.\"\n  ],\n  \"methods\": [\n    \"Implement a cone-in-cone capacitance-based sensing mechanism to monitor fluid motion fluctuations.\",\n    \"Optimize the sensor design through adjustments in deflection measurement modality, inner cone size, and materials used.\"\n  ],\n  \"results\": [\n    \"Achieve a significant increase in sensitivity, with a gain range of up to 0.27 between whisker compression and deflection.\",\n    \"Demonstrate improved wake detection capabilities and reliability in the revised sensor design.\"\n  ],\n  \"research_subject\": \"Bio-inspired artificial whisker for fluid motion sensing\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Biological hair fluid motion sensors in animals display a wide range of geometrical sizes and dynamic characteristics affecting their sensitivity.\",\n    \"Existing artificial fluid motion sensors lack the desired sensitivity and reliability.\"\n  ],\n  \"objectives\": [\n    \"Improve the sensitivity, wake detection capabilities, and reliability of a biologically inspired fluid motion sensor.\",\n    \"Implement a cone-in-cone capacitance based sensing mechanism for monitoring fluid motion fluctuations.\"\n  ],\n  \"methods\": [\n    \"Design revisions to the sensor include adjusting the deflection measurement modality and increasing the inner cone size.\",\n    \"Use silver epoxy for plating, shield signal wires, and reduce parasitic capacitance that dampens the output voltage range.\"\n  ],\n  \"results\": [\n    \"The improved sensor design shows a gain range of up to 0.27 between whisker compression and deflection, a 300X increase relative to prior art.\",\n    \"The sensor can monitor fluid motion fluctuations in the wake of an object in four directions.\"\n  ],\n  \"research_subject\": \"Improvement of a bio-inspired artificial whisker for fluid motion sensing\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Biological hair fluid motion sensors found in various animals exhibit diverse geometrical and dynamic characteristics that affect their sensitivity, inspiring the development of artificial sensors.\",\n    \"Existing artificial fluid motion sensors have limited sensitivity and reliability for detecting fluid motion fluctuations and wake patterns.\"\n  ],\n  \"objectives\": [\n    \"Design and develop a bio-inspired artificial whisker sensor with improved sensitivity, wake detection capabilities, and reliability for fluid motion sensing.\",\n    \"Achieve significant performance gains in sensor output compared to existing designs through optimized sensing mechanisms and structural improvements.\"\n  ],\n  \"methods\": [\n    \"Implement a cone-in-cone capacitance-based sensing mechanism to monitor fluid motion fluctuations in four directions.\",\n    \"Apply design modifications including adjusting deflection measurement modality, increasing inner cone size, using silver epoxy plating, shielding signal wires, and reducing parasitic capacitance.\"\n  ],\n  \"results\": [\n    \"The improved sensor achieves a gain range of up to 0.27 between whisker compression and deflection, representing a 300-fold increase compared to prior designs.\",\n    \"Enhanced sensitivity and reliability in detecting fluid motion and wake patterns through optimized sensor design and reduced signal interference.\"\n  ],\n  \"research_subject\": \"Bio-inspired artificial whisker sensor for fluid motion and wake detection\"\n}\n```"
+}

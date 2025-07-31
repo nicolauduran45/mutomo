@@ -1,0 +1,64 @@
+{
+  "index": 397,
+  "title": "STABILISED ZIRCONIA AND A PROCESS FOR THE PREPARATION THEREOF",
+  "abstract": "1342406 Zirconia refractory MAGNESIUM ELEKTRON Ltd 28 June 1972 [29 June 1971] 30399/71 Heading C1J A stabilized zirconia body is made by mixing zirconia and a yttria concentrate containing 35 to 70% yttria and the remainder rare earth metal oxides, and having been prepared from a naturally occurring mineral containing yttrium and rare earth metals without isolation of pure yttria, the concentrate being present in an amount to provide at least 3 mol. per cent of yttria plus heavy rare earth (Atomic Nos. 62-71) oxides. The mixture is then calcined from 1 to 10 hours at 900 to 1500 C. The yttria concentrate is preferably dissolved in HCl and added to an aqueous slurry of basic zirconia sulphate, alkali added and the resulting hydroxides washed, dired and calcined. In the examples the following rare earths were present in addition to yttria: La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Yb, Th.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a cost-effective and efficient method to prepare stabilized zirconia without the isolation of pure yttria."
+    ],
+    "objectives": [
+      "Develop a process for preparing stabilized zirconia using a yttria concentrate containing rare earth metal oxides.",
+      "Create a stabilized zirconia body with improved properties using a mixture of zirconia and the yttria concentrate."
+    ],
+    "methods": [
+      "Mix zirconia with a yttria concentrate containing 35 to 70% yttria and rare earth metal oxides.",
+      "Calcine the mixture at 900°C to 1500°C for 1 to 10 hours to produce the stabilized zirconia body.",
+      "Use a dissolution and precipitation process to prepare the yttria concentrate for addition to the zirconia mixture."
+    ],
+    "results": [
+      "Produce a stabilized zirconia body with improved properties using a cost-effective and efficient method.",
+      "Eliminate the need for isolating pure yttria in the preparation of stabilized zirconia."
+    ],
+    "research_subject": "Preparation of stabilized zirconia using a yttria concentrate"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a process to create a stabilized zirconia body using a yttria concentrate derived from naturally occurring minerals."
+    ],
+    "objectives": [
+      "Develop a method to produce a stabilized zirconia body by mixing zirconia with a yttria concentrate containing 35 to 70% yttria and the remainder rare earth metal oxides.",
+      "The yttria concentrate should be prepared from a naturally occurring mineral without isolation of pure yttria."
+    ],
+    "methods": [
+      "Mix zirconia and a yttria concentrate, then calcine the mixture for 1 to 10 hours at 900 to 1500 degrees Celsius.",
+      "The yttria concentrate is dissolved in HCl and added to an aqueous slurry of basic zirconia sulphate, alkali is added and the resulting hydroxides are washed, dried and calcined."
+    ],
+    "results": [
+      "A stabilized zirconia body is produced using a yttria concentrate derived from naturally occurring minerals."
+    ],
+    "research_subject": "Preparation of stabilised zirconia using a yttria concentrate"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for stabilized zirconia materials with improved properties for refractory applications.",
+      "Pure yttria isolation for zirconia stabilization is costly and complex, requiring alternative approaches using naturally occurring minerals."
+    ],
+    "objectives": [
+      "Develop a process for preparing stabilized zirconia using yttria concentrate from naturally occurring minerals without isolating pure yttria.",
+      "Create a stabilized zirconia body with specific compositional requirements for enhanced performance."
+    ],
+    "methods": [
+      "Mix zirconia with yttria concentrate containing 35-70% yttria and rare earth metal oxides derived from naturally occurring minerals.",
+      "Dissolve yttria concentrate in HCl, add to aqueous slurry of basic zirconia sulphate, add alkali, and process the resulting hydroxides.",
+      "Calcine the mixture at 900-1500°C for 1-10 hours to produce the stabilized zirconia body."
+    ],
+    "results": [
+      "Successfully produced stabilized zirconia bodies using yttria concentrate without pure yttria isolation.",
+      "Achieved stabilization with at least 3 mol. per cent of yttria plus heavy rare earth oxides."
+    ],
+    "research_subject": "Stabilized zirconia preparation using yttria concentrate from naturally occurring minerals"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a cost-effective and efficient method to prepare stabilized zirconia without the isolation of pure yttria.\"\n  ],\n  \"objectives\": [\n    \"Develop a process for preparing stabilized zirconia using a yttria concentrate containing rare earth metal oxides.\",\n    \"Create a stabilized zirconia body with improved properties using a mixture of zirconia and the yttria concentrate.\"\n  ],\n  \"methods\": [\n    \"Mix zirconia with a yttria concentrate containing 35 to 70% yttria and rare earth metal oxides.\",\n    \"Calcine the mixture at 900°C to 1500°C for 1 to 10 hours to produce the stabilized zirconia body.\",\n    \"Use a dissolution and precipitation process to prepare the yttria concentrate for addition to the zirconia mixture.\"\n  ],\n  \"results\": [\n    \"Produce a stabilized zirconia body with improved properties using a cost-effective and efficient method.\",\n    \"Eliminate the need for isolating pure yttria in the preparation of stabilized zirconia.\"\n  ],\n  \"research_subject\": \"Preparation of stabilized zirconia using a yttria concentrate\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a process to create a stabilized zirconia body using a yttria concentrate derived from naturally occurring minerals.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to produce a stabilized zirconia body by mixing zirconia with a yttria concentrate containing 35 to 70% yttria and the remainder rare earth metal oxides.\",\n    \"The yttria concentrate should be prepared from a naturally occurring mineral without isolation of pure yttria.\"\n  ],\n  \"methods\": [\n    \"Mix zirconia and a yttria concentrate, then calcine the mixture for 1 to 10 hours at 900 to 1500 degrees Celsius.\",\n    \"The yttria concentrate is dissolved in HCl and added to an aqueous slurry of basic zirconia sulphate, alkali is added and the resulting hydroxides are washed, dried and calcined.\"\n  ],\n  \"results\": [\n    \"A stabilized zirconia body is produced using a yttria concentrate derived from naturally occurring minerals.\"\n  ],\n  \"research_subject\": \"Preparation of stabilised zirconia using a yttria concentrate\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for stabilized zirconia materials with improved properties for refractory applications.\",\n    \"Pure yttria isolation for zirconia stabilization is costly and complex, requiring alternative approaches using naturally occurring minerals.\"\n  ],\n  \"objectives\": [\n    \"Develop a process for preparing stabilized zirconia using yttria concentrate from naturally occurring minerals without isolating pure yttria.\",\n    \"Create a stabilized zirconia body with specific compositional requirements for enhanced performance.\"\n  ],\n  \"methods\": [\n    \"Mix zirconia with yttria concentrate containing 35-70% yttria and rare earth metal oxides derived from naturally occurring minerals.\",\n    \"Dissolve yttria concentrate in HCl, add to aqueous slurry of basic zirconia sulphate, add alkali, and process the resulting hydroxides.\",\n    \"Calcine the mixture at 900-1500°C for 1-10 hours to produce the stabilized zirconia body.\"\n  ],\n  \"results\": [\n    \"Successfully produced stabilized zirconia bodies using yttria concentrate without pure yttria isolation.\",\n    \"Achieved stabilization with at least 3 mol. per cent of yttria plus heavy rare earth oxides.\"\n  ],\n  \"research_subject\": \"Stabilized zirconia preparation using yttria concentrate from naturally occurring minerals\"\n}\n```"
+}

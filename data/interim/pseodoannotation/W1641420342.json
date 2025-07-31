@@ -1,0 +1,70 @@
+{
+  "index": 49,
+  "title": "Efficacy and safety of active silicone oil removal through a 23-gauge transconjunctival cannula using an external vacuum pump.",
+  "abstract": "To evaluate the efficacy and safety of active removal of silicone oil with low and high viscosity through a 23-gauge transconjunctival cannula using an external vacuum pump.This study was conducted as a prospective, interventional case series. A total of 22 eyes of 21 patients [1000 centistokes (cSt): 17 eyes, 5700 cSt: 5 eyes] were included in this study. All patients underwent active silicone oil removal via the entire lumen of a 23-gauge microcannula with suction pressure of a 650-700 mm Hg vacuum using an external vacuum pump. A tubing adaptor from the Total Plus Pak(®) (Alcon, Fort Worth, USA) was used to join the microcannula and silicone vacuum tube connected to an external vacuum pump. Main outcome measures were mean removal time, changes of intraocular pressure (IOP) and visual acuity, and intraoperative and postoperative complications.Mean removal time (min) was 1.49±0.43 for 1000 cSt and 7.12±1.27 for 5700 cSt. The IOP was 18.57±7.48 mm Hg at baseline, 11.68±4.55 mm Hg at day 1 postoperatively (P<0.001), and 15.95±4.92, 16.82±3.81, 17.41±3.50, and 17.09±3.01 mm Hg after one week, one month, three months, and six months, respectively. All patients showed improved or stabilized visual acuity. There was no occurrence of intraoperative or postoperative complications during the follow up period.This technique for active removal of silicone oil through a 23-gauge cannula using an external vacuum pump is fast, effective, and safe as well as economical for silicone oil with both low and high viscosity in all eyes with pseudophakia, aphakia, or phakia.",
+  "llama_json": {
+    "motivations": [
+      "Current methods for silicone oil removal may be inefficient, time-consuming, or associated with complications.",
+      "There is a need for a safe and effective technique for removing silicone oil with both low and high viscosity."
+    ],
+    "objectives": [
+      "Evaluate the efficacy and safety of active silicone oil removal through a 23-gauge transconjunctival cannula using an external vacuum pump.",
+      "Assess the removal time, changes in intraocular pressure, and visual acuity outcomes using this technique."
+    ],
+    "methods": [
+      "Use a 23-gauge microcannula with suction pressure from an external vacuum pump for active silicone oil removal.",
+      "Employ a prospective, interventional case series study design to evaluate the technique's efficacy and safety."
+    ],
+    "results": [
+      "The technique is fast, effective, and safe for removing silicone oil with both low and high viscosity.",
+      "Improved or stabilized visual acuity and reduced intraocular pressure were observed in all patients.",
+      "No intraoperative or postoperative complications occurred during the follow-up period."
+    ],
+    "research_subject": "Efficacy and safety of active silicone oil removal using a 23-gauge transconjunctival cannula and external vacuum pump"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an effective, safe, and economical method for the active removal of silicone oil with both low and high viscosity from the eye.",
+      "Current methods for silicone oil removal may pose risks of intraoperative or postoperative complications."
+    ],
+    "objectives": [
+      "Evaluate the efficacy and safety of active removal of silicone oil through a 23-gauge transconjunctival cannula using an external vacuum pump.",
+      "Assess the impact of the procedure on intraocular pressure and visual acuity."
+    ],
+    "methods": [
+      "Conduct a prospective, interventional case series study involving 22 eyes of 21 patients.",
+      "Use an external vacuum pump to actively remove silicone oil via a 23-gauge microcannula.",
+      "Measure outcomes including removal time, changes in intraocular pressure and visual acuity, and occurrence of complications."
+    ],
+    "results": [
+      "The technique was found to be fast, effective, safe, and economical for silicone oil removal in all eyes with pseudophakia, aphakia, or phakia.",
+      "Intraocular pressure was significantly reduced postoperatively, and all patients showed improved or stabilized visual acuity.",
+      "No intraoperative or postoperative complications were observed during the follow-up period."
+    ],
+    "research_subject": "Active removal of silicone oil from the eye using a 23-gauge transconjunctival cannula and an external vacuum pump"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional methods for silicone oil removal in vitreoretinal surgery can be time-consuming and may have limitations in terms of efficiency and safety.",
+      "There is a need for improved techniques that can effectively remove both low and high viscosity silicone oil while minimizing surgical trauma and complications."
+    ],
+    "objectives": [
+      "Evaluate the efficacy and safety of active silicone oil removal using a 23-gauge transconjunctival cannula connected to an external vacuum pump.",
+      "Assess the technique's performance for both low (1000 cSt) and high (5700 cSt) viscosity silicone oil removal."
+    ],
+    "methods": [
+      "Performed active silicone oil removal through a 23-gauge microcannula using an external vacuum pump with suction pressure of 650-700 mm Hg.",
+      "Connected the microcannula to the vacuum pump using a tubing adaptor from the Total Plus Pak system.",
+      "Measured removal time, intraocular pressure changes, visual acuity outcomes, and monitored for complications."
+    ],
+    "results": [
+      "The technique achieved rapid silicone oil removal with mean times of 1.49 minutes for 1000 cSt and 7.12 minutes for 5700 cSt oil.",
+      "All patients showed improved or stabilized visual acuity with no intraoperative or postoperative complications.",
+      "Intraocular pressure remained stable throughout the follow-up period after an initial postoperative decrease."
+    ],
+    "research_subject": "Active silicone oil removal using 23-gauge transconjunctival cannula with external vacuum pump"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current methods for silicone oil removal may be inefficient, time-consuming, or associated with complications.\",\n    \"There is a need for a safe and effective technique for removing silicone oil with both low and high viscosity.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the efficacy and safety of active silicone oil removal through a 23-gauge transconjunctival cannula using an external vacuum pump.\",\n    \"Assess the removal time, changes in intraocular pressure, and visual acuity outcomes using this technique.\"\n  ],\n  \"methods\": [\n    \"Use a 23-gauge microcannula with suction pressure from an external vacuum pump for active silicone oil removal.\",\n    \"Employ a prospective, interventional case series study design to evaluate the technique's efficacy and safety.\"\n  ],\n  \"results\": [\n    \"The technique is fast, effective, and safe for removing silicone oil with both low and high viscosity.\",\n    \"Improved or stabilized visual acuity and reduced intraocular pressure were observed in all patients.\",\n    \"No intraoperative or postoperative complications occurred during the follow-up period.\"\n  ],\n  \"research_subject\": \"Efficacy and safety of active silicone oil removal using a 23-gauge transconjunctival cannula and external vacuum pump\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an effective, safe, and economical method for the active removal of silicone oil with both low and high viscosity from the eye.\",\n    \"Current methods for silicone oil removal may pose risks of intraoperative or postoperative complications.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the efficacy and safety of active removal of silicone oil through a 23-gauge transconjunctival cannula using an external vacuum pump.\",\n    \"Assess the impact of the procedure on intraocular pressure and visual acuity.\"\n  ],\n  \"methods\": [\n    \"Conduct a prospective, interventional case series study involving 22 eyes of 21 patients.\",\n    \"Use an external vacuum pump to actively remove silicone oil via a 23-gauge microcannula.\",\n    \"Measure outcomes including removal time, changes in intraocular pressure and visual acuity, and occurrence of complications.\"\n  ],\n  \"results\": [\n    \"The technique was found to be fast, effective, safe, and economical for silicone oil removal in all eyes with pseudophakia, aphakia, or phakia.\",\n    \"Intraocular pressure was significantly reduced postoperatively, and all patients showed improved or stabilized visual acuity.\",\n    \"No intraoperative or postoperative complications were observed during the follow-up period.\"\n  ],\n  \"research_subject\": \"Active removal of silicone oil from the eye using a 23-gauge transconjunctival cannula and an external vacuum pump\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional methods for silicone oil removal in vitreoretinal surgery can be time-consuming and may have limitations in terms of efficiency and safety.\",\n    \"There is a need for improved techniques that can effectively remove both low and high viscosity silicone oil while minimizing surgical trauma and complications.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the efficacy and safety of active silicone oil removal using a 23-gauge transconjunctival cannula connected to an external vacuum pump.\",\n    \"Assess the technique's performance for both low (1000 cSt) and high (5700 cSt) viscosity silicone oil removal.\"\n  ],\n  \"methods\": [\n    \"Performed active silicone oil removal through a 23-gauge microcannula using an external vacuum pump with suction pressure of 650-700 mm Hg.\",\n    \"Connected the microcannula to the vacuum pump using a tubing adaptor from the Total Plus Pak system.\",\n    \"Measured removal time, intraocular pressure changes, visual acuity outcomes, and monitored for complications.\"\n  ],\n  \"results\": [\n    \"The technique achieved rapid silicone oil removal with mean times of 1.49 minutes for 1000 cSt and 7.12 minutes for 5700 cSt oil.\",\n    \"All patients showed improved or stabilized visual acuity with no intraoperative or postoperative complications.\",\n    \"Intraocular pressure remained stable throughout the follow-up period after an initial postoperative decrease.\"\n  ],\n  \"research_subject\": \"Active silicone oil removal using 23-gauge transconjunctival cannula with external vacuum pump\"\n}\n```"
+}

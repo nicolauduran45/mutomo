@@ -1,0 +1,72 @@
+{
+  "index": 146,
+  "title": "Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal",
+  "abstract": "Widespread uptake of vaccines is necessary to achieve herd immunity. However, uptake rates have varied across U.S. states during the first six months of the COVID-19 vaccination program. Misbeliefs may play an important role in vaccine hesitancy, and there is a need to understand relationships between misinformation, beliefs, behaviors, and health outcomes. Here we investigate the extent to which COVID-19 vaccination rates and vaccine hesitancy are associated with levels of online misinformation about vaccines. We also look for evidence of directionality from online misinformation to vaccine hesitancy. We find a negative relationship between misinformation and vaccination uptake rates. Online misinformation is also correlated with vaccine hesitancy rates taken from survey data. Associations between vaccine outcomes and misinformation remain significant when accounting for political as well as demographic and socioeconomic factors. While vaccine hesitancy is strongly associated with Republican vote share, we observe that the effect of online misinformation on hesitancy is strongest across Democratic rather than Republican counties. Granger causality analysis shows evidence for a directional relationship from online misinformation to vaccine hesitancy. Our results support a need for interventions that address misbeliefs, allowing individuals to make better-informed health decisions.",
+  "llama_json": {
+    "motivations": [
+      "Vaccine hesitancy and refusal have hindered the achievement of herd immunity during the COVID-19 pandemic.",
+      "There is a need to understand the relationship between misinformation, beliefs, behaviors, and health outcomes related to vaccination."
+    ],
+    "objectives": [
+      "Investigate the association between COVID-19 vaccination rates, vaccine hesitancy, and levels of online misinformation about vaccines.",
+      "Examine the directionality of the relationship between online misinformation and vaccine hesitancy."
+    ],
+    "methods": [
+      "Analyze the correlation between online misinformation and vaccination uptake rates, as well as vaccine hesitancy rates from survey data.",
+      "Use Granger causality analysis to determine the directionality of the relationship between online misinformation and vaccine hesitancy.",
+      "Account for political, demographic, and socioeconomic factors in the analysis."
+    ],
+    "results": [
+      "A negative relationship is found between misinformation and vaccination uptake rates.",
+      "Online misinformation is correlated with vaccine hesitancy rates, with a stronger effect observed in Democratic counties.",
+      "The study supports the need for interventions addressing misbeliefs to enable better-informed health decisions."
+    ],
+    "research_subject": "The relationship between online misinformation and COVID-19 vaccination hesitancy and refusal"
+  },
+  "openai_json": {
+    "motivations": [
+      "Vaccine uptake rates have varied across U.S. states during the first six months of the COVID-19 vaccination program, potentially due to misinformation and misbeliefs.",
+      "There is a need to understand the relationships between online misinformation, beliefs, behaviors, and health outcomes, particularly in relation to COVID-19 vaccine hesitancy."
+    ],
+    "objectives": [
+      "Investigate the association between levels of online misinformation about vaccines and COVID-19 vaccination rates and vaccine hesitancy.",
+      "Examine the potential directionality from online misinformation to vaccine hesitancy.",
+      "Understand the impact of political, demographic, and socioeconomic factors on the relationship between misinformation and vaccine hesitancy."
+    ],
+    "methods": [
+      "Analyze the correlation between online misinformation and vaccination uptake rates, as well as vaccine hesitancy rates from survey data.",
+      "Account for political, demographic, and socioeconomic factors in the analysis.",
+      "Use Granger causality analysis to investigate the directionality from online misinformation to vaccine hesitancy."
+    ],
+    "results": [
+      "Identify a negative relationship between misinformation and vaccination uptake rates.",
+      "Find that online misinformation is correlated with vaccine hesitancy rates, even when accounting for other factors.",
+      "Provide evidence for a directional relationship from online misinformation to vaccine hesitancy."
+    ],
+    "research_subject": "Impact of online misinformation on COVID-19 vaccine hesitancy and refusal"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Vaccine hesitancy threatens the achievement of herd immunity against COVID-19, with uptake rates varying significantly across U.S. states.",
+      "There is a critical need to understand how online misinformation influences vaccine-related beliefs, behaviors, and public health outcomes."
+    ],
+    "objectives": [
+      "Investigate the relationship between online misinformation about vaccines and COVID-19 vaccination rates and hesitancy.",
+      "Determine whether there is a directional causal relationship from online misinformation to vaccine hesitancy."
+    ],
+    "methods": [
+      "Analyze correlations between online misinformation levels and vaccination uptake rates across U.S. states.",
+      "Compare online misinformation data with vaccine hesitancy survey data while controlling for political, demographic, and socioeconomic factors.",
+      "Apply Granger causality analysis to assess directionality between online misinformation and vaccine hesitancy."
+    ],
+    "results": [
+      "Online misinformation is negatively correlated with vaccination uptake rates and positively correlated with vaccine hesitancy.",
+      "The effect of online misinformation on hesitancy is strongest in Democratic counties, despite hesitancy being strongly associated with Republican vote share.",
+      "Evidence supports a directional causal relationship from online misinformation to vaccine hesitancy, highlighting the need for interventions addressing misbeliefs."
+    ],
+    "research_subject": "Relationship between online misinformation and COVID-19 vaccine hesitancy and uptake"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Vaccine hesitancy and refusal have hindered the achievement of herd immunity during the COVID-19 pandemic.\",\n    \"There is a need to understand the relationship between misinformation, beliefs, behaviors, and health outcomes related to vaccination.\"\n  ],\n  \"objectives\": [\n    \"Investigate the association between COVID-19 vaccination rates, vaccine hesitancy, and levels of online misinformation about vaccines.\",\n    \"Examine the directionality of the relationship between online misinformation and vaccine hesitancy.\"\n  ],\n  \"methods\": [\n    \"Analyze the correlation between online misinformation and vaccination uptake rates, as well as vaccine hesitancy rates from survey data.\",\n    \"Use Granger causality analysis to determine the directionality of the relationship between online misinformation and vaccine hesitancy.\",\n    \"Account for political, demographic, and socioeconomic factors in the analysis.\"\n  ],\n  \"results\": [\n    \"A negative relationship is found between misinformation and vaccination uptake rates.\",\n    \"Online misinformation is correlated with vaccine hesitancy rates, with a stronger effect observed in Democratic counties.\",\n    \"The study supports the need for interventions addressing misbeliefs to enable better-informed health decisions.\"\n  ],\n  \"research_subject\": \"The relationship between online misinformation and COVID-19 vaccination hesitancy and refusal\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Vaccine uptake rates have varied across U.S. states during the first six months of the COVID-19 vaccination program, potentially due to misinformation and misbeliefs.\",\n    \"There is a need to understand the relationships between online misinformation, beliefs, behaviors, and health outcomes, particularly in relation to COVID-19 vaccine hesitancy.\"\n  ],\n  \"objectives\": [\n    \"Investigate the association between levels of online misinformation about vaccines and COVID-19 vaccination rates and vaccine hesitancy.\",\n    \"Examine the potential directionality from online misinformation to vaccine hesitancy.\",\n    \"Understand the impact of political, demographic, and socioeconomic factors on the relationship between misinformation and vaccine hesitancy.\"\n  ],\n  \"methods\": [\n    \"Analyze the correlation between online misinformation and vaccination uptake rates, as well as vaccine hesitancy rates from survey data.\",\n    \"Account for political, demographic, and socioeconomic factors in the analysis.\",\n    \"Use Granger causality analysis to investigate the directionality from online misinformation to vaccine hesitancy.\"\n  ],\n  \"results\": [\n    \"Identify a negative relationship between misinformation and vaccination uptake rates.\",\n    \"Find that online misinformation is correlated with vaccine hesitancy rates, even when accounting for other factors.\",\n    \"Provide evidence for a directional relationship from online misinformation to vaccine hesitancy.\"\n  ],\n  \"research_subject\": \"Impact of online misinformation on COVID-19 vaccine hesitancy and refusal\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Vaccine hesitancy threatens the achievement of herd immunity against COVID-19, with uptake rates varying significantly across U.S. states.\",\n    \"There is a critical need to understand how online misinformation influences vaccine-related beliefs, behaviors, and public health outcomes.\"\n  ],\n  \"objectives\": [\n    \"Investigate the relationship between online misinformation about vaccines and COVID-19 vaccination rates and hesitancy.\",\n    \"Determine whether there is a directional causal relationship from online misinformation to vaccine hesitancy.\"\n  ],\n  \"methods\": [\n    \"Analyze correlations between online misinformation levels and vaccination uptake rates across U.S. states.\",\n    \"Compare online misinformation data with vaccine hesitancy survey data while controlling for political, demographic, and socioeconomic factors.\",\n    \"Apply Granger causality analysis to assess directionality between online misinformation and vaccine hesitancy.\"\n  ],\n  \"results\": [\n    \"Online misinformation is negatively correlated with vaccination uptake rates and positively correlated with vaccine hesitancy.\",\n    \"The effect of online misinformation on hesitancy is strongest in Democratic counties, despite hesitancy being strongly associated with Republican vote share.\",\n    \"Evidence supports a directional causal relationship from online misinformation to vaccine hesitancy, highlighting the need for interventions addressing misbeliefs.\"\n  ],\n  \"research_subject\": \"Relationship between online misinformation and COVID-19 vaccine hesitancy and uptake\"\n}\n```"
+}

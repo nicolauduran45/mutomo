@@ -1,0 +1,62 @@
+{
+  "index": 300,
+  "title": "BURNER MODULE AND METHOD FOR THE ADDITIVE MANUFACTURE OF A BURNER MODULE OF THIS KIND",
+  "abstract": "A burner module according to the invention comprises at least three or four or five or six or seven or eight functional walls which delimit at least one first functional space and form a module body, wherein the module body has at least three or four or five or six or six or seven gas passage openings and at least two of these gas passage openings are connected to one another communicatively via the first functional space, and wherein at least one nozzle device having a fuel gas opening is formed in an upper wall of the burner module, which fuel gas opening is connected communicatively to the first functional space via a gas channel. The burner module is produced in an additive manner.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for improved burner modules with complex geometries that can be efficiently manufactured."
+    ],
+    "objectives": [
+      "Design a burner module with multiple functional walls and gas passage openings that can be produced using additive manufacturing techniques."
+    ],
+    "methods": [
+      "Utilize additive manufacturing to create a burner module with intricate geometries and internal structures."
+    ],
+    "results": [
+      "Produce a burner module with enhanced functionality and performance due to its complex design and additive manufacturing process."
+    ],
+    "research_subject": "Additive manufacture of a burner module with complex geometries"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a burner module with multiple functional walls and gas passage openings for efficient fuel gas flow.",
+      "Current methods of producing burner modules may not provide the desired functionality and efficiency."
+    ],
+    "objectives": [
+      "Design a burner module with multiple functional walls and gas passage openings that form a module body.",
+      "Develop an additive manufacturing method for producing this kind of burner module."
+    ],
+    "methods": [
+      "Design a burner module with at least two gas passage openings connected via a first functional space.",
+      "Incorporate a nozzle device with a fuel gas opening in the upper wall of the module, connected to the first functional space via a gas channel.",
+      "Employ additive manufacturing techniques to produce the burner module."
+    ],
+    "results": [
+      "Creation of a burner module with enhanced functionality due to multiple functional walls and gas passage openings.",
+      "Development of an additive manufacturing method for producing such a burner module."
+    ],
+    "research_subject": "Additive manufacture of a burner module with multiple functional walls and gas passage openings"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional burner module manufacturing methods may have limitations in creating complex internal geometries and integrated functional spaces.",
+      "There is a need for more efficient and flexible manufacturing approaches for burner modules with multiple functional walls and gas passages."
+    ],
+    "objectives": [
+      "Develop a burner module with multiple functional walls that create integrated functional spaces and gas passage systems.",
+      "Enable the manufacture of complex burner module geometries through additive manufacturing techniques."
+    ],
+    "methods": [
+      "Utilize additive manufacturing to produce burner modules with multiple functional walls and integrated gas passages.",
+      "Design a module body with communicatively connected gas passage openings through functional spaces."
+    ],
+    "results": [
+      "Production of burner modules with complex internal geometries including multiple functional walls and interconnected gas passages.",
+      "Achievement of integrated nozzle devices with fuel gas openings connected to functional spaces via gas channels."
+    ],
+    "research_subject": "Additive manufacturing of multi-functional wall burner modules"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved burner modules with complex geometries that can be efficiently manufactured.\"\n  ],\n  \"objectives\": [\n    \"Design a burner module with multiple functional walls and gas passage openings that can be produced using additive manufacturing techniques.\"\n  ],\n  \"methods\": [\n    \"Utilize additive manufacturing to create a burner module with intricate geometries and internal structures.\"\n  ],\n  \"results\": [\n    \"Produce a burner module with enhanced functionality and performance due to its complex design and additive manufacturing process.\"\n  ],\n  \"research_subject\": \"Additive manufacture of a burner module with complex geometries\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a burner module with multiple functional walls and gas passage openings for efficient fuel gas flow.\",\n    \"Current methods of producing burner modules may not provide the desired functionality and efficiency.\"\n  ],\n  \"objectives\": [\n    \"Design a burner module with multiple functional walls and gas passage openings that form a module body.\",\n    \"Develop an additive manufacturing method for producing this kind of burner module.\"\n  ],\n  \"methods\": [\n    \"Design a burner module with at least two gas passage openings connected via a first functional space.\",\n    \"Incorporate a nozzle device with a fuel gas opening in the upper wall of the module, connected to the first functional space via a gas channel.\",\n    \"Employ additive manufacturing techniques to produce the burner module.\"\n  ],\n  \"results\": [\n    \"Creation of a burner module with enhanced functionality due to multiple functional walls and gas passage openings.\",\n    \"Development of an additive manufacturing method for producing such a burner module.\"\n  ],\n  \"research_subject\": \"Additive manufacture of a burner module with multiple functional walls and gas passage openings\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional burner module manufacturing methods may have limitations in creating complex internal geometries and integrated functional spaces.\",\n    \"There is a need for more efficient and flexible manufacturing approaches for burner modules with multiple functional walls and gas passages.\"\n  ],\n  \"objectives\": [\n    \"Develop a burner module with multiple functional walls that create integrated functional spaces and gas passage systems.\",\n    \"Enable the manufacture of complex burner module geometries through additive manufacturing techniques.\"\n  ],\n  \"methods\": [\n    \"Utilize additive manufacturing to produce burner modules with multiple functional walls and integrated gas passages.\",\n    \"Design a module body with communicatively connected gas passage openings through functional spaces.\"\n  ],\n  \"results\": [\n    \"Production of burner modules with complex internal geometries including multiple functional walls and interconnected gas passages.\",\n    \"Achievement of integrated nozzle devices with fuel gas openings connected to functional spaces via gas channels.\"\n  ],\n  \"research_subject\": \"Additive manufacturing of multi-functional wall burner modules\"\n}\n```"
+}

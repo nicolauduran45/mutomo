@@ -1,0 +1,75 @@
+{
+  "index": 57,
+  "title": "Training in reducing uncertainty in structural safety",
+  "abstract": "The growth of cities, impacts of climate change and the massive cost of providing new infrastructure provide the impetus for this proposal – entitled Training in Reducing Uncertainty in Structural Safety (TRUSS) – which will maximize the potential of infrastructure that already exists. If flaws in a structure can be identified early, the cost of repair will be vastly reduced, and here an effective monitoring system would allow identifying the optimum time to repair as well as improving structural safety. But safety is difficult to quantify and requires a deep understanding of the uncertainty associated to measurements and models for the structure and the loads. TRUSS will gather this understanding by bringing together an intersectoral and multidisciplinary collaboration between 4 Universities, 11 Industry participants and 1 research institute from 6 European countries. The consortium will combine and share expertise to offer training at an advanced level as new concepts for monitoring, modelling and reliability analysis of structures are emerging all the time. TRUSS will make knowledge of structural safety grow by incorporating these emerging technologies (hi-tech monitoring and manufacturing, computing, etc.) into the training programme and it will support job creation by enabling a wider talent pool of skilled and accredited engineering graduates with business, entrepreneurship, communication, project management and other transferrable skills. The training programme will be structured into taught modules combined with original research supported by secondments that will expose 14 fellows to both academia and industry. While developing tools that will reduce uncertainty in structural safety and improve infrastructure management, TRUSS will lay the basis for an advanced doctoral programme that will qualify graduates for dealing with the challenges of an aging European infrastructure stock, thereby enhancing their career prospects in both industry and academia.",
+  "llama_json": {
+    "motivations": [
+      "The growth of cities and impacts of climate change necessitate maximizing the potential of existing infrastructure to reduce costs and improve structural safety.",
+      "Uncertainty in structural safety is difficult to quantify, requiring a deep understanding of measurements and models for structures and loads."
+    ],
+    "objectives": [
+      "Develop an effective monitoring system to identify flaws in structures early, reducing repair costs and improving structural safety.",
+      "Combine expertise to offer advanced training in emerging technologies for monitoring, modeling, and reliability analysis of structures.",
+      "Support job creation by enabling a wider talent pool of skilled engineering graduates with transferable skills."
+    ],
+    "methods": [
+      "Bring together an intersectoral and multidisciplinary collaboration between universities, industry participants, and research institutes to share expertise.",
+      "Incorporate emerging technologies into the training program, including hi-tech monitoring and manufacturing, computing, and more.",
+      "Structure the training program into taught modules combined with original research supported by secondments in academia and industry."
+    ],
+    "results": [
+      "Reduce uncertainty in structural safety and improve infrastructure management through the development of new tools and technologies.",
+      "Lay the basis for an advanced doctoral program that qualifies graduates to deal with the challenges of an aging European infrastructure stock.",
+      "Enhance career prospects for graduates in both industry and academia."
+    ],
+    "research_subject": "Reducing uncertainty in structural safety through advanced monitoring, modeling, and reliability analysis"
+  },
+  "openai_json": {
+    "motivations": [
+      "The growth of cities, climate change impacts, and the high cost of new infrastructure necessitate maximizing the potential of existing infrastructure.",
+      "Early identification of structural flaws can significantly reduce repair costs and improve safety, but this requires an effective monitoring system and understanding of the uncertainties in measurements and models."
+    ],
+    "objectives": [
+      "Develop an understanding of the uncertainties in structural safety measurements and models through an intersectoral and multidisciplinary collaboration.",
+      "Incorporate emerging technologies into a training program to enhance knowledge of structural safety and support job creation.",
+      "Develop tools to reduce uncertainty in structural safety and improve infrastructure management, laying the foundation for an advanced doctoral program."
+    ],
+    "methods": [
+      "Collaborate with universities, industry participants, and research institutes across Europe to share and combine expertise.",
+      "Incorporate emerging technologies into a structured training program, combining taught modules with original research supported by secondments.",
+      "Develop tools to reduce uncertainty in structural safety through research and application of emerging technologies."
+    ],
+    "results": [
+      "Improve infrastructure management and reduce uncertainty in structural safety through the development and application of new tools.",
+      "Enhance the career prospects of graduates in both industry and academia by qualifying them to deal with the challenges of an aging European infrastructure stock.",
+      "Support job creation by enabling a wider talent pool of skilled and accredited engineering graduates with business, entrepreneurship, communication, project management and other transferrable skills."
+    ],
+    "research_subject": "Reducing uncertainty in structural safety through advanced training and emerging technologies"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The growth of cities, climate change impacts, and high costs of new infrastructure create an urgent need to maximize the potential of existing infrastructure.",
+      "Early identification of structural flaws can vastly reduce repair costs, but quantifying safety requires deep understanding of uncertainties in measurements and models.",
+      "There is a need for skilled engineering graduates with advanced knowledge in structural safety and transferable skills to address aging European infrastructure."
+    ],
+    "objectives": [
+      "Develop advanced training programs that incorporate emerging technologies for monitoring, modelling, and reliability analysis of structures.",
+      "Create tools and methods to reduce uncertainty in structural safety assessment and improve infrastructure management.",
+      "Establish an advanced doctoral programme that prepares graduates to address challenges of aging infrastructure while enhancing their career prospects."
+    ],
+    "methods": [
+      "Implement an intersectoral and multidisciplinary collaboration between universities, industry participants, and research institutes across European countries.",
+      "Structure training through taught modules combined with original research and industry secondments.",
+      "Integrate emerging technologies including hi-tech monitoring, manufacturing, and computing into the training curriculum."
+    ],
+    "results": [
+      "Enable early identification of structural flaws and optimal repair timing, improving structural safety and reducing maintenance costs.",
+      "Produce skilled engineering graduates with expertise in structural safety, business, entrepreneurship, and project management.",
+      "Establish a foundation for advanced doctoral programs addressing aging infrastructure challenges across Europe."
+    ],
+    "research_subject": "Training and methods for reducing uncertainty in structural safety assessment and infrastructure management"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The growth of cities and impacts of climate change necessitate maximizing the potential of existing infrastructure to reduce costs and improve structural safety.\",\n    \"Uncertainty in structural safety is difficult to quantify, requiring a deep understanding of measurements and models for structures and loads.\"\n  ],\n  \"objectives\": [\n    \"Develop an effective monitoring system to identify flaws in structures early, reducing repair costs and improving structural safety.\",\n    \"Combine expertise to offer advanced training in emerging technologies for monitoring, modeling, and reliability analysis of structures.\",\n    \"Support job creation by enabling a wider talent pool of skilled engineering graduates with transferable skills.\"\n  ],\n  \"methods\": [\n    \"Bring together an intersectoral and multidisciplinary collaboration between universities, industry participants, and research institutes to share expertise.\",\n    \"Incorporate emerging technologies into the training program, including hi-tech monitoring and manufacturing, computing, and more.\",\n    \"Structure the training program into taught modules combined with original research supported by secondments in academia and industry.\"\n  ],\n  \"results\": [\n    \"Reduce uncertainty in structural safety and improve infrastructure management through the development of new tools and technologies.\",\n    \"Lay the basis for an advanced doctoral program that qualifies graduates to deal with the challenges of an aging European infrastructure stock.\",\n    \"Enhance career prospects for graduates in both industry and academia.\"\n  ],\n  \"research_subject\": \"Reducing uncertainty in structural safety through advanced monitoring, modeling, and reliability analysis\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The growth of cities, climate change impacts, and the high cost of new infrastructure necessitate maximizing the potential of existing infrastructure.\",\n    \"Early identification of structural flaws can significantly reduce repair costs and improve safety, but this requires an effective monitoring system and understanding of the uncertainties in measurements and models.\"\n  ],\n  \"objectives\": [\n    \"Develop an understanding of the uncertainties in structural safety measurements and models through an intersectoral and multidisciplinary collaboration.\",\n    \"Incorporate emerging technologies into a training program to enhance knowledge of structural safety and support job creation.\",\n    \"Develop tools to reduce uncertainty in structural safety and improve infrastructure management, laying the foundation for an advanced doctoral program.\"\n  ],\n  \"methods\": [\n    \"Collaborate with universities, industry participants, and research institutes across Europe to share and combine expertise.\",\n    \"Incorporate emerging technologies into a structured training program, combining taught modules with original research supported by secondments.\",\n    \"Develop tools to reduce uncertainty in structural safety through research and application of emerging technologies.\"\n  ],\n  \"results\": [\n    \"Improve infrastructure management and reduce uncertainty in structural safety through the development and application of new tools.\",\n    \"Enhance the career prospects of graduates in both industry and academia by qualifying them to deal with the challenges of an aging European infrastructure stock.\",\n    \"Support job creation by enabling a wider talent pool of skilled and accredited engineering graduates with business, entrepreneurship, communication, project management and other transferrable skills.\"\n  ],\n  \"research_subject\": \"Reducing uncertainty in structural safety through advanced training and emerging technologies\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The growth of cities, climate change impacts, and high costs of new infrastructure create an urgent need to maximize the potential of existing infrastructure.\",\n    \"Early identification of structural flaws can vastly reduce repair costs, but quantifying safety requires deep understanding of uncertainties in measurements and models.\",\n    \"There is a need for skilled engineering graduates with advanced knowledge in structural safety and transferable skills to address aging European infrastructure.\"\n  ],\n  \"objectives\": [\n    \"Develop advanced training programs that incorporate emerging technologies for monitoring, modelling, and reliability analysis of structures.\",\n    \"Create tools and methods to reduce uncertainty in structural safety assessment and improve infrastructure management.\",\n    \"Establish an advanced doctoral programme that prepares graduates to address challenges of aging infrastructure while enhancing their career prospects.\"\n  ],\n  \"methods\": [\n    \"Implement an intersectoral and multidisciplinary collaboration between universities, industry participants, and research institutes across European countries.\",\n    \"Structure training through taught modules combined with original research and industry secondments.\",\n    \"Integrate emerging technologies including hi-tech monitoring, manufacturing, and computing into the training curriculum.\"\n  ],\n  \"results\": [\n    \"Enable early identification of structural flaws and optimal repair timing, improving structural safety and reducing maintenance costs.\",\n    \"Produce skilled engineering graduates with expertise in structural safety, business, entrepreneurship, and project management.\",\n    \"Establish a foundation for advanced doctoral programs addressing aging infrastructure challenges across Europe.\"\n  ],\n  \"research_subject\": \"Training and methods for reducing uncertainty in structural safety assessment and infrastructure management\"\n}\n```"
+}

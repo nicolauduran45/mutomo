@@ -1,0 +1,61 @@
+{
+  "index": 458,
+  "title": "HIGH PERMEABILITY LINER WITH IMPROVED INTAKE AND DISTRIBUTION",
+  "abstract": "There is provided an absorbent material for personal care products which is made from wettable fibers of at most 40 microns in diameter which are made into a web and where the web has controlled spaces in the side away from a wearer point unbonded bonding pattern. The web will accept a liquid insult of 50 ml with a runover/run-through percentage ratio of less than 1.5. Such a web material may be used in personal care products like diapers, training pants, absorbent underpants, adult incontinence products and feminine hygiene products. Especially of interest are diapers having a narrow crotch, i.e., those having a crotch width of at most 7.6 cm.",
+  "llama_json": {
+    "motivations": [
+      "Current absorbent materials in personal care products may not effectively manage liquid intake and distribution, leading to discomfort and leakage issues."
+    ],
+    "objectives": [
+      "Develop an absorbent material with improved liquid intake and distribution properties for use in personal care products."
+    ],
+    "methods": [
+      "Create a web material from wettable fibers with controlled spaces and unbonded bonding patterns to enhance liquid absorption and distribution."
+    ],
+    "results": [
+      "Produce an absorbent material that can effectively manage liquid insults, reducing runover and leakage issues in personal care products."
+    ],
+    "research_subject": "Development of high permeability liner for improved liquid intake and distribution in personal care products"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for absorbent materials in personal care products that can effectively manage liquid insults with minimal runover or run-through.",
+      "The design of personal care products, especially those with narrow crotches, requires absorbent materials with specific properties."
+    ],
+    "objectives": [
+      "Develop an absorbent material made from wettable fibers of at most 40 microns in diameter, formed into a web with controlled spaces.",
+      "Ensure the web can accept a liquid insult of 50 ml with a runover/run-through percentage ratio of less than 1.5."
+    ],
+    "methods": [
+      "Use wettable fibers of a specific diameter to create a web with controlled spaces in the side away from a wearer point unbonded bonding pattern.",
+      "Test the absorbent material's ability to handle a specific volume of liquid insult with a targeted runover/run-through ratio."
+    ],
+    "results": [
+      "The developed absorbent material can effectively manage liquid insults, making it suitable for use in personal care products.",
+      "The absorbent material is particularly beneficial for products with narrow crotches, such as certain types of diapers."
+    ],
+    "research_subject": "Development of a high permeability liner with improved intake and distribution for personal care products"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Personal care products require improved liquid absorption and distribution to prevent leakage and enhance user comfort.",
+      "Narrow crotch designs in diapers and similar products present challenges for effective liquid management and distribution."
+    ],
+    "objectives": [
+      "Develop an absorbent material with high permeability that improves liquid intake and distribution in personal care products.",
+      "Create a web material that minimizes liquid runover while maintaining effective absorption, particularly for narrow crotch designs."
+    ],
+    "methods": [
+      "Fabricate webs from wettable fibers with diameters of at most 40 microns using controlled spacing and unbonded bonding patterns.",
+      "Design the material structure to achieve a runover/run-through percentage ratio of less than 1.5 for liquid insults."
+    ],
+    "results": [
+      "The developed material successfully accepts 50 ml liquid insults with minimal runover, improving performance in personal care products.",
+      "The technology enables effective liquid management in narrow crotch designs with widths of at most 7.6 cm."
+    ],
+    "research_subject": "High permeability absorbent materials for personal care products"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current absorbent materials in personal care products may not effectively manage liquid intake and distribution, leading to discomfort and leakage issues.\"\n  ],\n  \"objectives\": [\n    \"Develop an absorbent material with improved liquid intake and distribution properties for use in personal care products.\"\n  ],\n  \"methods\": [\n    \"Create a web material from wettable fibers with controlled spaces and unbonded bonding patterns to enhance liquid absorption and distribution.\"\n  ],\n  \"results\": [\n    \"Produce an absorbent material that can effectively manage liquid insults, reducing runover and leakage issues in personal care products.\"\n  ],\n  \"research_subject\": \"Development of high permeability liner for improved liquid intake and distribution in personal care products\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for absorbent materials in personal care products that can effectively manage liquid insults with minimal runover or run-through.\",\n    \"The design of personal care products, especially those with narrow crotches, requires absorbent materials with specific properties.\"\n  ],\n  \"objectives\": [\n    \"Develop an absorbent material made from wettable fibers of at most 40 microns in diameter, formed into a web with controlled spaces.\",\n    \"Ensure the web can accept a liquid insult of 50 ml with a runover/run-through percentage ratio of less than 1.5.\"\n  ],\n  \"methods\": [\n    \"Use wettable fibers of a specific diameter to create a web with controlled spaces in the side away from a wearer point unbonded bonding pattern.\",\n    \"Test the absorbent material's ability to handle a specific volume of liquid insult with a targeted runover/run-through ratio.\"\n  ],\n  \"results\": [\n    \"The developed absorbent material can effectively manage liquid insults, making it suitable for use in personal care products.\",\n    \"The absorbent material is particularly beneficial for products with narrow crotches, such as certain types of diapers.\"\n  ],\n  \"research_subject\": \"Development of a high permeability liner with improved intake and distribution for personal care products\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Personal care products require improved liquid absorption and distribution to prevent leakage and enhance user comfort.\",\n    \"Narrow crotch designs in diapers and similar products present challenges for effective liquid management and distribution.\"\n  ],\n  \"objectives\": [\n    \"Develop an absorbent material with high permeability that improves liquid intake and distribution in personal care products.\",\n    \"Create a web material that minimizes liquid runover while maintaining effective absorption, particularly for narrow crotch designs.\"\n  ],\n  \"methods\": [\n    \"Fabricate webs from wettable fibers with diameters of at most 40 microns using controlled spacing and unbonded bonding patterns.\",\n    \"Design the material structure to achieve a runover/run-through percentage ratio of less than 1.5 for liquid insults.\"\n  ],\n  \"results\": [\n    \"The developed material successfully accepts 50 ml liquid insults with minimal runover, improving performance in personal care products.\",\n    \"The technology enables effective liquid management in narrow crotch designs with widths of at most 7.6 cm.\"\n  ],\n  \"research_subject\": \"High permeability absorbent materials for personal care products\"\n}\n```"
+}

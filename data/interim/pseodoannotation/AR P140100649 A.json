@@ -1,0 +1,63 @@
+{
+  "index": 396,
+  "title": "SUSPENSIÓN PARA ADMINISTRACIÓN ORAL QUE COMPRENDE TOLVAPTÁN AMORFO, Y A UN MÉTODO PARA PRODUCIRLA",
+  "abstract": "Una suspensión para administración oral que comprende partículas que contienen tolvaptán amorfo que pueden inhibir o retardar la cristalización del tolvaptán amorfo con el tiempo en la suspensión, y mantener en forma estable una alta solubilidad del tolvaptán y una excelente absorbabilidad del tolvaptán en el tracto gastrointestinal, y una formulación sólida para administración oral que se puede suspender para preparar la suspensión para administración oral al momento de uso. Se refiere a una suspensión para administración oral, en particular, un jarabe, que comprende (a) partículas que contienen tolvaptán amorfo, (b) hidroxipropilmetilcelulosa (HPMC), y (c) un solvente, donde la cantidad de HPMC (b) oscila entre el 0,1 y el 25% en peso en base al peso total de la suspensión para administración oral. Reivindicación 9: La suspensión para administración oral de acuerdo con cualquiera de las reivindicaciones 1 a 8, que también comprende (d) un agente de suspensión y/o (e) un edulcorante. Reivindicación 10: La suspensión para administración oral de acuerdo con la reivindicación 9, caracterizada porque el agente de suspensión (d) es al menos un miembro seleccionado entre el grupo compuesto por goma xántica, goma gellan, carragenano, polímeros de carboxivinilo y carboximetilcelulosa de sodio.",
+  "llama_json": {
+    "motivations": [
+      "Tolvaptán amorfo en suspensión tiende a cristalizar con el tiempo, lo que reduce su solubilidad y absorbabilidad en el tracto gastrointestinal.",
+      "Se necesita una formulación estable y efectiva para administración oral que mantenga la solubilidad y absorbabilidad del tolvaptán."
+    ],
+    "objectives": [
+      "Desarrollar una suspensión para administración oral que contenga partículas de tolvaptán amorfo y que pueda inhibir o retardar la cristalización del tolvaptán con el tiempo.",
+      "Crear una formulación sólida para administración oral que se pueda suspender para preparar la suspensión al momento de uso."
+    ],
+    "methods": [
+      "Combinar partículas de tolvaptán amorfo con hidroxipropilmetilcelulosa (HPMC) y un solvente para crear una suspensión estable.",
+      "Agregar un agente de suspensión y/o un edulcorante para mejorar la estabilidad y la aceptabilidad de la suspensión."
+    ],
+    "results": [
+      "Obtener una suspensión para administración oral que mantenga una alta solubilidad y excelente absorbabilidad del tolvaptán en el tracto gastrointestinal.",
+      "Proporcionar una formulación sólida para administración oral que se pueda suspender fácilmente para preparar la suspensión al momento de uso."
+    ],
+    "research_subject": "Desarrollo de una suspensión para administración oral de tolvaptán amorfo estable y efectiva"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an oral suspension formulation that can inhibit or delay the crystallization of amorphous tolvaptan over time, maintaining its high solubility and excellent absorbability in the gastrointestinal tract."
+    ],
+    "objectives": [
+      "Develop an oral suspension containing amorphous tolvaptan particles that can inhibit or delay its crystallization.",
+      "Ensure the formulation maintains high solubility and excellent absorbability of tolvaptan in the gastrointestinal tract."
+    ],
+    "methods": [
+      "Formulate an oral suspension, particularly a syrup, containing amorphous tolvaptan particles, hydroxypropyl methylcellulose (HPMC), and a solvent.",
+      "Include a suspension agent and/or a sweetener in the oral suspension."
+    ],
+    "results": [
+      "Achieve an oral suspension formulation that can inhibit or delay the crystallization of amorphous tolvaptan, maintaining its high solubility and excellent absorbability."
+    ],
+    "research_subject": "Oral suspension formulation of amorphous tolvaptan"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Amorphous tolvaptan tends to crystallize over time in suspension, which reduces its solubility and gastrointestinal absorption.",
+      "There is a need for stable oral suspension formulations that maintain the high solubility and bioavailability of amorphous tolvaptan."
+    ],
+    "objectives": [
+      "Develop an oral suspension that inhibits or delays the crystallization of amorphous tolvaptan while maintaining its high solubility and absorption in the gastrointestinal tract.",
+      "Create a solid oral formulation that can be suspended at the time of use to prepare the oral suspension."
+    ],
+    "methods": [
+      "Formulate an oral suspension containing amorphous tolvaptan particles, hydroxypropylmethylcellulose (HPMC), and a solvent.",
+      "Incorporate suspending agents and sweeteners to enhance the stability and palatability of the formulation."
+    ],
+    "results": [
+      "The developed suspension maintains stable high solubility of tolvaptan and excellent gastrointestinal absorption over time.",
+      "The formulation successfully inhibits or delays the crystallization of amorphous tolvaptan in suspension."
+    ],
+    "research_subject": "Oral suspension formulation containing amorphous tolvaptan with enhanced stability"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Tolvaptán amorfo en suspensión tiende a cristalizar con el tiempo, lo que reduce su solubilidad y absorbabilidad en el tracto gastrointestinal.\",\n    \"Se necesita una formulación estable y efectiva para administración oral que mantenga la solubilidad y absorbabilidad del tolvaptán.\"\n  ],\n  \"objectives\": [\n    \"Desarrollar una suspensión para administración oral que contenga partículas de tolvaptán amorfo y que pueda inhibir o retardar la cristalización del tolvaptán con el tiempo.\",\n    \"Crear una formulación sólida para administración oral que se pueda suspender para preparar la suspensión al momento de uso.\"\n  ],\n  \"methods\": [\n    \"Combinar partículas de tolvaptán amorfo con hidroxipropilmetilcelulosa (HPMC) y un solvente para crear una suspensión estable.\",\n    \"Agregar un agente de suspensión y/o un edulcorante para mejorar la estabilidad y la aceptabilidad de la suspensión.\"\n  ],\n  \"results\": [\n    \"Obtener una suspensión para administración oral que mantenga una alta solubilidad y excelente absorbabilidad del tolvaptán en el tracto gastrointestinal.\",\n    \"Proporcionar una formulación sólida para administración oral que se pueda suspender fácilmente para preparar la suspensión al momento de uso.\"\n  ],\n  \"research_subject\": \"Desarrollo de una suspensión para administración oral de tolvaptán amorfo estable y efectiva\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an oral suspension formulation that can inhibit or delay the crystallization of amorphous tolvaptan over time, maintaining its high solubility and excellent absorbability in the gastrointestinal tract.\"\n  ],\n  \"objectives\": [\n    \"Develop an oral suspension containing amorphous tolvaptan particles that can inhibit or delay its crystallization.\",\n    \"Ensure the formulation maintains high solubility and excellent absorbability of tolvaptan in the gastrointestinal tract.\"\n  ],\n  \"methods\": [\n    \"Formulate an oral suspension, particularly a syrup, containing amorphous tolvaptan particles, hydroxypropyl methylcellulose (HPMC), and a solvent.\",\n    \"Include a suspension agent and/or a sweetener in the oral suspension.\"\n  ],\n  \"results\": [\n    \"Achieve an oral suspension formulation that can inhibit or delay the crystallization of amorphous tolvaptan, maintaining its high solubility and excellent absorbability.\"\n  ],\n  \"research_subject\": \"Oral suspension formulation of amorphous tolvaptan\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Amorphous tolvaptan tends to crystallize over time in suspension, which reduces its solubility and gastrointestinal absorption.\",\n    \"There is a need for stable oral suspension formulations that maintain the high solubility and bioavailability of amorphous tolvaptan.\"\n  ],\n  \"objectives\": [\n    \"Develop an oral suspension that inhibits or delays the crystallization of amorphous tolvaptan while maintaining its high solubility and absorption in the gastrointestinal tract.\",\n    \"Create a solid oral formulation that can be suspended at the time of use to prepare the oral suspension.\"\n  ],\n  \"methods\": [\n    \"Formulate an oral suspension containing amorphous tolvaptan particles, hydroxypropylmethylcellulose (HPMC), and a solvent.\",\n    \"Incorporate suspending agents and sweeteners to enhance the stability and palatability of the formulation.\"\n  ],\n  \"results\": [\n    \"The developed suspension maintains stable high solubility of tolvaptan and excellent gastrointestinal absorption over time.\",\n    \"The formulation successfully inhibits or delays the crystallization of amorphous tolvaptan in suspension.\"\n  ],\n  \"research_subject\": \"Oral suspension formulation containing amorphous tolvaptan with enhanced stability\"\n}\n```"
+}

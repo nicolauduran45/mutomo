@@ -1,0 +1,73 @@
+{
+  "index": 173,
+  "title": "Stars at the extreme",
+  "abstract": "The first stars in the Universe are extreme objects. Extreme in their composition: they are made of material having been processed only by the Big Bang nucleosynthesis, and having a content in dark matter likely very different from the one of the present-day stars. Extreme in their properties: one of the most important properties is their mass that might reach values as high as even 100 000 solar masses (supermassive black-hole seeds). Their properties may differ from the today massive star populations also by their likely fast axial spins, the processes of mass loss, their magnetic fields, multiplicity. Extreme in their physics: born in over densities made mainly by dark matter, the physics of candidate dark matter particles may have a significant effect on their evolution and produce what has been called dark or frozen stars, i.e. stars sustained by dark-matter particle annihilation. The aim of STAREX is to determine which observable features can be used to constrain the composition (baryonic and dark matter), the properties (masses, rotation, magnetic field, multiplicity) and the physics of the first stars in the Universe. These observables will be collected by present-day and future facilities as, for instance, the JWST, ELT, adLigo, VIRGO, LISA and are linked to ionising fluxes, nucleosynthesis, radiation of both stellar populations and transient events, and gravitational waves. STAREX will explore new physical processes, build and use new numerical tools, provide observables that will account together for a sophisticated description of the physics of individual stars, single or in binary systems, and for the dynamics of the stars in the first stellar clusters. STAREX is at the crossroad of topics such as stellar physics, nucleosynthesis, hydrodynamics, evolution of galaxies, and will potentially engender ground-braking consequences for observational cosmology, astrophysics and even fundamental physics (fluid dynamics, dark matter properties).",
+  "llama_json": {
+    "motivations": [
+      "The first stars in the Universe are extreme objects with unique composition and properties that are not well understood.",
+      "Current understanding of star formation and evolution may not apply to the first stars due to differences in dark matter content and other factors."
+    ],
+    "objectives": [
+      "Determine observable features that can constrain the composition, properties, and physics of the first stars in the Universe.",
+      "Explore new physical processes and develop numerical tools to describe the physics of individual stars and stellar clusters.",
+      "Provide a sophisticated description of the first stars and their role in the evolution of galaxies."
+    ],
+    "methods": [
+      "Use present-day and future facilities such as JWST, ELT, adLigo, VIRGO, and LISA to collect observables related to the first stars.",
+      "Develop new numerical tools to simulate the physics of individual stars and stellar clusters.",
+      "Explore new physical processes such as dark matter particle annihilation and its effect on star evolution."
+    ],
+    "results": [
+      "Gain a deeper understanding of the composition, properties, and physics of the first stars in the Universe.",
+      "Provide ground-breaking consequences for observational cosmology, astrophysics, and fundamental physics.",
+      "Shed light on the role of the first stars in the evolution of galaxies and the Universe as a whole."
+    ],
+    "research_subject": "The physics and properties of the first stars in the Universe"
+  },
+  "openai_json": {
+    "motivations": [
+      "The first stars in the Universe are extreme in their composition, properties, and physics, yet these aspects are not fully understood.",
+      "There is a need to identify observable features that can help constrain the composition, properties, and physics of these early stars."
+    ],
+    "objectives": [
+      "Determine observable features that can be used to constrain the composition, properties, and physics of the first stars in the Universe.",
+      "Collect these observables using present-day and future facilities such as JWST, ELT, adLigo, VIRGO, and LISA.",
+      "Explore new physical processes, build and use new numerical tools, and provide observables for a sophisticated description of the physics of individual stars and the dynamics of the first stellar clusters."
+    ],
+    "methods": [
+      "Use observational data from various facilities to identify and analyze features of the first stars.",
+      "Develop and utilize new numerical tools to explore new physical processes and provide a sophisticated description of the physics of individual stars and stellar clusters."
+    ],
+    "results": [
+      "Provide a better understanding of the composition, properties, and physics of the first stars in the Universe.",
+      "Contribute to fields such as stellar physics, nucleosynthesis, hydrodynamics, evolution of galaxies, and potentially have implications for observational cosmology, astrophysics, and fundamental physics."
+    ],
+    "research_subject": "Understanding the composition, properties, and physics of the first stars in the Universe"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The first stars in the Universe have extreme compositions and properties that differ fundamentally from present-day stars, requiring new understanding of their formation and evolution.",
+      "Current knowledge gaps exist regarding how dark matter particles and extreme physical conditions affected the evolution of the first stars and their observable signatures.",
+      "There is a need to connect theoretical models of first-generation stars with observable features that can be detected by current and future astronomical facilities."
+    ],
+    "objectives": [
+      "Determine which observable features can constrain the composition, properties, and physics of the first stars in the Universe.",
+      "Explore new physical processes and build numerical tools to model the evolution of first-generation stars under extreme conditions.",
+      "Provide a sophisticated description of individual star physics and stellar cluster dynamics that accounts for dark matter effects and extreme stellar properties."
+    ],
+    "methods": [
+      "Develop and use new numerical tools to model stellar evolution under extreme conditions including dark matter particle annihilation.",
+      "Integrate multiple physics domains including stellar physics, nucleosynthesis, hydrodynamics, and galaxy evolution.",
+      "Connect theoretical predictions with observables from current and future facilities such as JWST, ELT, LIGO, VIRGO, and LISA."
+    ],
+    "results": [
+      "Provide observable signatures linked to ionizing fluxes, nucleosynthesis, stellar population radiation, transient events, and gravitational waves.",
+      "Enable constraints on the masses, rotation, magnetic fields, and multiplicity of the first stars in the Universe.",
+      "Generate groundbreaking consequences for observational cosmology, astrophysics, and fundamental physics including dark matter properties."
+    ],
+    "research_subject": "Physics and observable signatures of the first stars in the Universe under extreme conditions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The first stars in the Universe are extreme objects with unique composition and properties that are not well understood.\",\n    \"Current understanding of star formation and evolution may not apply to the first stars due to differences in dark matter content and other factors.\"\n  ],\n  \"objectives\": [\n    \"Determine observable features that can constrain the composition, properties, and physics of the first stars in the Universe.\",\n    \"Explore new physical processes and develop numerical tools to describe the physics of individual stars and stellar clusters.\",\n    \"Provide a sophisticated description of the first stars and their role in the evolution of galaxies.\"\n  ],\n  \"methods\": [\n    \"Use present-day and future facilities such as JWST, ELT, adLigo, VIRGO, and LISA to collect observables related to the first stars.\",\n    \"Develop new numerical tools to simulate the physics of individual stars and stellar clusters.\",\n    \"Explore new physical processes such as dark matter particle annihilation and its effect on star evolution.\"\n  ],\n  \"results\": [\n    \"Gain a deeper understanding of the composition, properties, and physics of the first stars in the Universe.\",\n    \"Provide ground-breaking consequences for observational cosmology, astrophysics, and fundamental physics.\",\n    \"Shed light on the role of the first stars in the evolution of galaxies and the Universe as a whole.\"\n  ],\n  \"research_subject\": \"The physics and properties of the first stars in the Universe\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The first stars in the Universe are extreme in their composition, properties, and physics, yet these aspects are not fully understood.\",\n    \"There is a need to identify observable features that can help constrain the composition, properties, and physics of these early stars.\"\n  ],\n  \"objectives\": [\n    \"Determine observable features that can be used to constrain the composition, properties, and physics of the first stars in the Universe.\",\n    \"Collect these observables using present-day and future facilities such as JWST, ELT, adLigo, VIRGO, and LISA.\",\n    \"Explore new physical processes, build and use new numerical tools, and provide observables for a sophisticated description of the physics of individual stars and the dynamics of the first stellar clusters.\"\n  ],\n  \"methods\": [\n    \"Use observational data from various facilities to identify and analyze features of the first stars.\",\n    \"Develop and utilize new numerical tools to explore new physical processes and provide a sophisticated description of the physics of individual stars and stellar clusters.\"\n  ],\n  \"results\": [\n    \"Provide a better understanding of the composition, properties, and physics of the first stars in the Universe.\",\n    \"Contribute to fields such as stellar physics, nucleosynthesis, hydrodynamics, evolution of galaxies, and potentially have implications for observational cosmology, astrophysics, and fundamental physics.\"\n  ],\n  \"research_subject\": \"Understanding the composition, properties, and physics of the first stars in the Universe\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The first stars in the Universe have extreme compositions and properties that differ fundamentally from present-day stars, requiring new understanding of their formation and evolution.\",\n    \"Current knowledge gaps exist regarding how dark matter particles and extreme physical conditions affected the evolution of the first stars and their observable signatures.\",\n    \"There is a need to connect theoretical models of first-generation stars with observable features that can be detected by current and future astronomical facilities.\"\n  ],\n  \"objectives\": [\n    \"Determine which observable features can constrain the composition, properties, and physics of the first stars in the Universe.\",\n    \"Explore new physical processes and build numerical tools to model the evolution of first-generation stars under extreme conditions.\",\n    \"Provide a sophisticated description of individual star physics and stellar cluster dynamics that accounts for dark matter effects and extreme stellar properties.\"\n  ],\n  \"methods\": [\n    \"Develop and use new numerical tools to model stellar evolution under extreme conditions including dark matter particle annihilation.\",\n    \"Integrate multiple physics domains including stellar physics, nucleosynthesis, hydrodynamics, and galaxy evolution.\",\n    \"Connect theoretical predictions with observables from current and future facilities such as JWST, ELT, LIGO, VIRGO, and LISA.\"\n  ],\n  \"results\": [\n    \"Provide observable signatures linked to ionizing fluxes, nucleosynthesis, stellar population radiation, transient events, and gravitational waves.\",\n    \"Enable constraints on the masses, rotation, magnetic fields, and multiplicity of the first stars in the Universe.\",\n    \"Generate groundbreaking consequences for observational cosmology, astrophysics, and fundamental physics including dark matter properties.\"\n  ],\n  \"research_subject\": \"Physics and observable signatures of the first stars in the Universe under extreme conditions\"\n}\n```"
+}

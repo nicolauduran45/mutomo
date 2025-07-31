@@ -1,0 +1,67 @@
+{
+  "index": 186,
+  "title": "App Neutrality: Apple’s App Store and Freedom of Expression Online",
+  "abstract": "Apple’s wireless devices have become a critical entry point into the Internet. But unlike the broader Internet, which can be construed as a relatively open communications network, the iOS app store is arguably a closed technological ecosystem. Developers must gain Apple’s approval before distributing their apps through the store. Some have criticized the company’s app review and approval process for being opaque and arbitrary. This process has also resulted in the rejection of both explicitly and implicitly political apps. This article analyzes Apple’s guidelines and approval process, discusses content-based rejections of apps, and outlines the consequences of this process for developers’ and consumers’ freedom of expression. It also argues for principles that guarantee “app neutrality” while also guaranteeing device safety and quality control.",
+  "llama_json": {
+    "motivations": [
+      "Apple's app review and approval process for the iOS app store has been criticized for being opaque and arbitrary, potentially limiting freedom of expression online.",
+      "The rejection of explicitly and implicitly political apps raises concerns about the impact on developers' and consumers' freedom of expression."
+    ],
+    "objectives": [
+      "Analyze Apple's guidelines and approval process for iOS apps to understand its implications on freedom of expression.",
+      "Argue for principles that guarantee 'app neutrality' while ensuring device safety and quality control."
+    ],
+    "methods": [
+      "Examine Apple's app review and approval process to identify potential biases and limitations.",
+      "Discuss content-based rejections of apps to understand the impact on freedom of expression."
+    ],
+    "results": [
+      "Highlight the consequences of Apple's app approval process on developers' and consumers' freedom of expression.",
+      "Establish principles for 'app neutrality' that balance freedom of expression with device safety and quality control."
+    ],
+    "research_subject": "App neutrality and freedom of expression in Apple's iOS app store"
+  },
+  "openai_json": {
+    "motivations": [
+      "Apple's iOS app store, a critical entry point into the Internet, is a closed ecosystem with an opaque and arbitrary app review and approval process.",
+      "The current process has resulted in the rejection of both explicitly and implicitly political apps, impacting developers' and consumers' freedom of expression."
+    ],
+    "objectives": [
+      "Analyze Apple’s guidelines and approval process and discuss content-based rejections of apps.",
+      "Outline the consequences of this process for developers’ and consumers’ freedom of expression.",
+      "Argue for principles that guarantee 'app neutrality' while also ensuring device safety and quality control."
+    ],
+    "methods": [
+      "Conduct a critical analysis of Apple's guidelines and approval process.",
+      "Discuss specific instances of content-based rejections of apps.",
+      "Propose principles for 'app neutrality' that balance freedom of expression with device safety and quality control."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of the impact of Apple's app approval process on freedom of expression.",
+      "Highlight the need for 'app neutrality' principles that ensure both freedom of expression and device safety."
+    ],
+    "research_subject": "Apple's App Store policies and their impact on freedom of expression online"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Apple's App Store operates as a closed ecosystem that requires developer approval, creating potential barriers to free expression and content distribution.",
+      "The app review and approval process has been criticized for being opaque and arbitrary, resulting in rejections of political and other content-based applications."
+    ],
+    "objectives": [
+      "Analyze Apple's app guidelines and approval process and their impact on freedom of expression for developers and consumers.",
+      "Propose principles for 'app neutrality' that balance freedom of expression with device safety and quality control."
+    ],
+    "methods": [
+      "Analysis of Apple's app store guidelines and approval processes.",
+      "Examination of content-based app rejections and their implications for freedom of expression."
+    ],
+    "results": [
+      "Identification of how Apple's closed ecosystem and approval process impacts developers' and consumers' freedom of expression online.",
+      "Development of principles for app neutrality that could protect expression while maintaining device safety and quality."
+    ],
+    "research_subject": "Apple's App Store policies and their impact on online freedom of expression"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Apple's app review and approval process for the iOS app store has been criticized for being opaque and arbitrary, potentially limiting freedom of expression online.\",\n    \"The rejection of explicitly and implicitly political apps raises concerns about the impact on developers' and consumers' freedom of expression.\"\n  ],\n  \"objectives\": [\n    \"Analyze Apple's guidelines and approval process for iOS apps to understand its implications on freedom of expression.\",\n    \"Argue for principles that guarantee 'app neutrality' while ensuring device safety and quality control.\"\n  ],\n  \"methods\": [\n    \"Examine Apple's app review and approval process to identify potential biases and limitations.\",\n    \"Discuss content-based rejections of apps to understand the impact on freedom of expression.\"\n  ],\n  \"results\": [\n    \"Highlight the consequences of Apple's app approval process on developers' and consumers' freedom of expression.\",\n    \"Establish principles for 'app neutrality' that balance freedom of expression with device safety and quality control.\"\n  ],\n  \"research_subject\": \"App neutrality and freedom of expression in Apple's iOS app store\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Apple's iOS app store, a critical entry point into the Internet, is a closed ecosystem with an opaque and arbitrary app review and approval process.\",\n    \"The current process has resulted in the rejection of both explicitly and implicitly political apps, impacting developers' and consumers' freedom of expression.\"\n  ],\n  \"objectives\": [\n    \"Analyze Apple’s guidelines and approval process and discuss content-based rejections of apps.\",\n    \"Outline the consequences of this process for developers’ and consumers’ freedom of expression.\",\n    \"Argue for principles that guarantee 'app neutrality' while also ensuring device safety and quality control.\"\n  ],\n  \"methods\": [\n    \"Conduct a critical analysis of Apple's guidelines and approval process.\",\n    \"Discuss specific instances of content-based rejections of apps.\",\n    \"Propose principles for 'app neutrality' that balance freedom of expression with device safety and quality control.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of the impact of Apple's app approval process on freedom of expression.\",\n    \"Highlight the need for 'app neutrality' principles that ensure both freedom of expression and device safety.\"\n  ],\n  \"research_subject\": \"Apple's App Store policies and their impact on freedom of expression online\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Apple's App Store operates as a closed ecosystem that requires developer approval, creating potential barriers to free expression and content distribution.\",\n    \"The app review and approval process has been criticized for being opaque and arbitrary, resulting in rejections of political and other content-based applications.\"\n  ],\n  \"objectives\": [\n    \"Analyze Apple's app guidelines and approval process and their impact on freedom of expression for developers and consumers.\",\n    \"Propose principles for 'app neutrality' that balance freedom of expression with device safety and quality control.\"\n  ],\n  \"methods\": [\n    \"Analysis of Apple's app store guidelines and approval processes.\",\n    \"Examination of content-based app rejections and their implications for freedom of expression.\"\n  ],\n  \"results\": [\n    \"Identification of how Apple's closed ecosystem and approval process impacts developers' and consumers' freedom of expression online.\",\n    \"Development of principles for app neutrality that could protect expression while maintaining device safety and quality.\"\n  ],\n  \"research_subject\": \"Apple's App Store policies and their impact on online freedom of expression\"\n}\n```"
+}

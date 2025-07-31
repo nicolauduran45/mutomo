@@ -1,0 +1,37 @@
+{
+  "index": 29,
+  "title": "Habe eine Kiste mit 16 Menschenschädeln geschickt",
+  "abstract": "Liebe Mutter ! Da sich heute wieder Postgelegenheit bietet, sende ich Dir einen weiteren Brief, obwohl ich nichts besonderes zu schreiben weiß. Wir gehen Mittwoch dieser Woche weg nach Tonga, laufen aber vorher noch die Inseln Tutuila u. Savaii an, wo Unruhen ausgebrochen sein sollen. In Tonga hoffe ich dann Mitte Juli weitere Postgelegenheit zu haben. Hier möchte ich nun noch eine besondere Sache erwähnen. Auf Wunsch der Pariser Gesellschaft (Société d’anthropologie à Paris) habe ich dieser Anfang vorigen Monats eine Kiste mit 16 Menschenschädeln geschickt u. als Preis 800 francs gefordert. Wenn die Gesellschaft auf die Forderung eingeht, so habe ich Ihr Deine Adresse mitgetheilt u. dieselbe angewiesen den genannten Betrag an Dich zu senden. Andernfalls hat sie die Kiste an Dich zurückzusenden. In jedem Falle wirst Du mir also sogleich nach Empfang des Geldes oder der Kiste mittheilen, was angekommen ist. Im Falle die Kiste kommt hebe sie gut auf u. warte auf meine Order, wohin sie weiter zu senden ist ; kommt das Geld an, so lege es für mich an. Entstehende Frachtkosten bezahle ; ich vergüte sie Dir wieder. Das ist so ziemlich alles von Wichtigkeit.",
+  "llama_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": ""
+  },
+  "openai_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": ""
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Société d'anthropologie à Paris requested human skulls for anthropological research purposes."
+    ],
+    "objectives": [
+      "To supply human skulls to the Société d'anthropologie à Paris in exchange for monetary compensation."
+    ],
+    "methods": [
+      "Collection and shipment of human skulls from Pacific islands to Paris via intermediary in Germany."
+    ],
+    "results": [
+      "Shipment of 16 human skulls with expectation of 800 francs payment or return of specimens."
+    ],
+    "research_subject": "Collection and trade of human skulls for anthropological study"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\"The Société d'anthropologie à Paris requested human skulls for anthropological research purposes.\"],\n  \"objectives\": [\"To supply human skulls to the Société d'anthropologie à Paris in exchange for monetary compensation.\"],\n  \"methods\": [\"Collection and shipment of human skulls from Pacific islands to Paris via intermediary in Germany.\"],\n  \"results\": [\"Shipment of 16 human skulls with expectation of 800 francs payment or return of specimens.\"],\n  \"research_subject\": \"Collection and trade of human skulls for anthropological study\"\n}\n```"
+}

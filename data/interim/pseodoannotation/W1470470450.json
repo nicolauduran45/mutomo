@@ -1,0 +1,67 @@
+{
+  "index": 320,
+  "title": "Network Iron Curtain: Hide Enterprise Networks with OpenFlow",
+  "abstract": "In this paper, we propose a new network architecture, Network Iron Curtain that can handle network scanning attacks automatically. Network Iron Curtain does not require additional devices or complicated configurations when it detects scanning attack, and it can confuse scanning attackers by providing fake scanning results. When an attacker sends a scanning packet to a host in Network Iron Curtain, Network Iron Curtain detects this trial and redirects this packet to a honeynet, which is installed with Network Iron Curtain. The honeynet will respond to this scanning packet based on the predefined policy instead of the original target host. Therefore, the attacker will have fake information (i.e., false open port information). We implement a prototype system to verify the proposed architecture, and we show an example case of detecting network scanning.",
+  "llama_json": {
+    "motivations": [
+      "Network scanning attacks pose a significant threat to enterprise networks, compromising their security and integrity.",
+      "Current solutions to mitigate scanning attacks often require additional devices or complex configurations, which can be cumbersome and costly."
+    ],
+    "objectives": [
+      "Design a network architecture that can automatically detect and handle network scanning attacks without requiring additional devices or complicated configurations.",
+      "Develop a system that can provide fake scanning results to confuse attackers and protect the actual network."
+    ],
+    "methods": [
+      "Implement a network architecture called Network Iron Curtain that leverages OpenFlow to detect and redirect scanning packets to a honeynet.",
+      "Use a honeynet to respond to scanning packets based on predefined policies, providing fake information to attackers."
+    ],
+    "results": [
+      "Effectively detect and mitigate network scanning attacks without requiring additional devices or complex configurations.",
+      "Provide a secure and efficient solution for protecting enterprise networks from scanning attacks."
+    ],
+    "research_subject": "Network Iron Curtain: A network architecture for detecting and mitigating network scanning attacks using OpenFlow"
+  },
+  "openai_json": {
+    "motivations": [
+      "Network scanning attacks pose a significant threat to enterprise networks, and current solutions may require additional devices or complex configurations.",
+      "There is a need for a system that can automatically handle network scanning attacks and confuse attackers by providing fake scanning results."
+    ],
+    "objectives": [
+      "Propose a new network architecture, Network Iron Curtain, that can automatically handle network scanning attacks.",
+      "Develop a system that can redirect scanning packets to a honeynet, providing fake information to the attacker."
+    ],
+    "methods": [
+      "Design and implement a network architecture that detects scanning attacks and redirects the packets to a honeynet.",
+      "The honeynet responds to the scanning packet based on a predefined policy, providing false open port information to the attacker."
+    ],
+    "results": [
+      "The proposed Network Iron Curtain can automatically handle network scanning attacks without requiring additional devices or complex configurations.",
+      "The system can confuse attackers by providing fake scanning results, enhancing the security of enterprise networks."
+    ],
+    "research_subject": "Network Iron Curtain: A network architecture for handling network scanning attacks"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Network scanning attacks pose a significant threat to enterprise networks by revealing vulnerable systems and open ports to potential attackers.",
+      "Existing defense mechanisms against network scanning require additional devices or complex configurations, making them difficult to deploy and maintain."
+    ],
+    "objectives": [
+      "Develop an automated network architecture that can detect and handle network scanning attacks without requiring additional devices or complicated configurations.",
+      "Confuse and mislead attackers by providing fake scanning results through automatic redirection to honeynets."
+    ],
+    "methods": [
+      "Design Network Iron Curtain architecture using OpenFlow to automatically detect scanning packets and redirect them to honeynets.",
+      "Configure honeynets to respond with fake information based on predefined policies instead of exposing real network topology.",
+      "Implement a prototype system to demonstrate the effectiveness of the proposed architecture."
+    ],
+    "results": [
+      "Successfully demonstrated automatic detection and redirection of network scanning attempts to honeynets.",
+      "Attackers receive false information about open ports and network services, preventing them from discovering real vulnerabilities.",
+      "The prototype system verified the feasibility of the Network Iron Curtain architecture in protecting enterprise networks."
+    ],
+    "research_subject": "Automated network defense architecture against scanning attacks using OpenFlow and honeynets"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Network scanning attacks pose a significant threat to enterprise networks, compromising their security and integrity.\",\n    \"Current solutions to mitigate scanning attacks often require additional devices or complex configurations, which can be cumbersome and costly.\"\n  ],\n  \"objectives\": [\n    \"Design a network architecture that can automatically detect and handle network scanning attacks without requiring additional devices or complicated configurations.\",\n    \"Develop a system that can provide fake scanning results to confuse attackers and protect the actual network.\"\n  ],\n  \"methods\": [\n    \"Implement a network architecture called Network Iron Curtain that leverages OpenFlow to detect and redirect scanning packets to a honeynet.\",\n    \"Use a honeynet to respond to scanning packets based on predefined policies, providing fake information to attackers.\"\n  ],\n  \"results\": [\n    \"Effectively detect and mitigate network scanning attacks without requiring additional devices or complex configurations.\",\n    \"Provide a secure and efficient solution for protecting enterprise networks from scanning attacks.\"\n  ],\n  \"research_subject\": \"Network Iron Curtain: A network architecture for detecting and mitigating network scanning attacks using OpenFlow\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Network scanning attacks pose a significant threat to enterprise networks, and current solutions may require additional devices or complex configurations.\",\n    \"There is a need for a system that can automatically handle network scanning attacks and confuse attackers by providing fake scanning results.\"\n  ],\n  \"objectives\": [\n    \"Propose a new network architecture, Network Iron Curtain, that can automatically handle network scanning attacks.\",\n    \"Develop a system that can redirect scanning packets to a honeynet, providing fake information to the attacker.\"\n  ],\n  \"methods\": [\n    \"Design and implement a network architecture that detects scanning attacks and redirects the packets to a honeynet.\",\n    \"The honeynet responds to the scanning packet based on a predefined policy, providing false open port information to the attacker.\"\n  ],\n  \"results\": [\n    \"The proposed Network Iron Curtain can automatically handle network scanning attacks without requiring additional devices or complex configurations.\",\n    \"The system can confuse attackers by providing fake scanning results, enhancing the security of enterprise networks.\"\n  ],\n  \"research_subject\": \"Network Iron Curtain: A network architecture for handling network scanning attacks\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Network scanning attacks pose a significant threat to enterprise networks by revealing vulnerable systems and open ports to potential attackers.\",\n    \"Existing defense mechanisms against network scanning require additional devices or complex configurations, making them difficult to deploy and maintain.\"\n  ],\n  \"objectives\": [\n    \"Develop an automated network architecture that can detect and handle network scanning attacks without requiring additional devices or complicated configurations.\",\n    \"Confuse and mislead attackers by providing fake scanning results through automatic redirection to honeynets.\"\n  ],\n  \"methods\": [\n    \"Design Network Iron Curtain architecture using OpenFlow to automatically detect scanning packets and redirect them to honeynets.\",\n    \"Configure honeynets to respond with fake information based on predefined policies instead of exposing real network topology.\",\n    \"Implement a prototype system to demonstrate the effectiveness of the proposed architecture.\"\n  ],\n  \"results\": [\n    \"Successfully demonstrated automatic detection and redirection of network scanning attempts to honeynets.\",\n    \"Attackers receive false information about open ports and network services, preventing them from discovering real vulnerabilities.\",\n    \"The prototype system verified the feasibility of the Network Iron Curtain architecture in protecting enterprise networks.\"\n  ],\n  \"research_subject\": \"Automated network defense architecture against scanning attacks using OpenFlow and honeynets\"\n}\n```"
+}

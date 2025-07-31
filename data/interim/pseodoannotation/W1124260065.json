@@ -1,0 +1,68 @@
+{
+  "index": 353,
+  "title": "Διαδικασίες και αλγόριθμοι handover για συστήματα κινητής επικοινωνίας",
+  "abstract": "In the current study the mechanism of switching between cells (handover) in mobile communication systems is presented and analyzed in detail. The handover methods are mainly applied in cellular systems and categorized according to various characteristics in hard or soft handovers, horizontal or vertical handovers, and handovers controlled by the network or the mobile device, or assisted by the mobile device. Handover decision algorithms play important role in the described processes. Main categories of handover decision algorithms are those based on the received signal strength, fuzzy logic and priority. In this study, a priority algorithm known as SJ-scheme is simulated, using Matlab software and, in particular subsystems Simulink and Stateflow. The proposed model consists of six major subsystems: Input Subsystem, Channels Size Subsystem, Memory Subsystem, Call Completion Subsystem, Scope Subsystem and Handover Subsystem which is the heart of the model and includes two main blocks, one that implements the new call management process and one that implements the procedure for managing handovers. Besides creating a simulation model, in this work results of running the simulation and measured data are presented and discussed. Matlab plots and graphical representations produced are examined to make clear the way that the proposed model works.",
+  "llama_json": {
+    "motivations": [
+      "The need for efficient handover mechanisms in mobile communication systems to ensure seamless switching between cells.",
+      "The importance of optimizing handover decision algorithms to improve network performance and user experience."
+    ],
+    "objectives": [
+      "Analyze and present the handover mechanism in mobile communication systems.",
+      "Simulate and evaluate the performance of a priority-based handover decision algorithm (SJ-scheme)."
+    ],
+    "methods": [
+      "Categorize and analyze various handover methods and decision algorithms.",
+      "Design and simulate a handover model using Matlab, Simulink, and Stateflow.",
+      "Run simulations and collect data to evaluate the performance of the proposed model."
+    ],
+    "results": [
+      "A detailed understanding of the handover mechanism and its importance in mobile communication systems.",
+      "A simulated model of a priority-based handover decision algorithm and its performance evaluation.",
+      "Graphical representations and plots illustrating the working of the proposed model."
+    ],
+    "research_subject": "Handover mechanisms and algorithms in mobile communication systems"
+  },
+  "openai_json": {
+    "motivations": [
+      "The process of switching between cells (handover) in mobile communication systems is complex and requires detailed understanding.",
+      "There is a need for effective handover decision algorithms to ensure seamless communication."
+    ],
+    "objectives": [
+      "Analyze and categorize handover methods in cellular systems.",
+      "Simulate and analyze a priority algorithm known as SJ-scheme for handover decisions."
+    ],
+    "methods": [
+      "Categorize handover methods based on various characteristics such as hard or soft handovers, horizontal or vertical handovers, and network or device-controlled handovers.",
+      "Simulate the SJ-scheme priority algorithm using Matlab software, specifically Simulink and Stateflow subsystems."
+    ],
+    "results": [
+      "Provide a detailed understanding of handover methods in mobile communication systems.",
+      "Demonstrate the functionality of the SJ-scheme priority algorithm through simulation results and graphical representations."
+    ],
+    "research_subject": "Handover processes and algorithms for mobile communication systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Mobile communication systems require efficient handover mechanisms to maintain service continuity as users move between cells.",
+      "There is a need to analyze and optimize handover decision algorithms to improve the performance of cellular networks."
+    ],
+    "objectives": [
+      "Present and analyze in detail the handover mechanisms and their various categories in mobile communication systems.",
+      "Simulate and evaluate the performance of the SJ-scheme priority-based handover algorithm using Matlab."
+    ],
+    "methods": [
+      "Categorize and analyze different types of handover methods including hard/soft, horizontal/vertical, and network/mobile-controlled handovers.",
+      "Develop a simulation model in Matlab using Simulink and Stateflow with six major subsystems to implement the SJ-scheme algorithm.",
+      "Conduct simulation runs and analyze the results through graphical representations and data measurements."
+    ],
+    "results": [
+      "Successfully implemented a comprehensive simulation model for the SJ-scheme handover algorithm.",
+      "Generated performance data and graphical representations that demonstrate the operational characteristics of the proposed handover model."
+    ],
+    "research_subject": "Handover processes and algorithms for mobile communication systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The need for efficient handover mechanisms in mobile communication systems to ensure seamless switching between cells.\",\n    \"The importance of optimizing handover decision algorithms to improve network performance and user experience.\"\n  ],\n  \"objectives\": [\n    \"Analyze and present the handover mechanism in mobile communication systems.\",\n    \"Simulate and evaluate the performance of a priority-based handover decision algorithm (SJ-scheme).\"\n  ],\n  \"methods\": [\n    \"Categorize and analyze various handover methods and decision algorithms.\",\n    \"Design and simulate a handover model using Matlab, Simulink, and Stateflow.\",\n    \"Run simulations and collect data to evaluate the performance of the proposed model.\"\n  ],\n  \"results\": [\n    \"A detailed understanding of the handover mechanism and its importance in mobile communication systems.\",\n    \"A simulated model of a priority-based handover decision algorithm and its performance evaluation.\",\n    \"Graphical representations and plots illustrating the working of the proposed model.\"\n  ],\n  \"research_subject\": \"Handover mechanisms and algorithms in mobile communication systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The process of switching between cells (handover) in mobile communication systems is complex and requires detailed understanding.\",\n    \"There is a need for effective handover decision algorithms to ensure seamless communication.\"\n  ],\n  \"objectives\": [\n    \"Analyze and categorize handover methods in cellular systems.\",\n    \"Simulate and analyze a priority algorithm known as SJ-scheme for handover decisions.\"\n  ],\n  \"methods\": [\n    \"Categorize handover methods based on various characteristics such as hard or soft handovers, horizontal or vertical handovers, and network or device-controlled handovers.\",\n    \"Simulate the SJ-scheme priority algorithm using Matlab software, specifically Simulink and Stateflow subsystems.\"\n  ],\n  \"results\": [\n    \"Provide a detailed understanding of handover methods in mobile communication systems.\",\n    \"Demonstrate the functionality of the SJ-scheme priority algorithm through simulation results and graphical representations.\"\n  ],\n  \"research_subject\": \"Handover processes and algorithms for mobile communication systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Mobile communication systems require efficient handover mechanisms to maintain service continuity as users move between cells.\",\n    \"There is a need to analyze and optimize handover decision algorithms to improve the performance of cellular networks.\"\n  ],\n  \"objectives\": [\n    \"Present and analyze in detail the handover mechanisms and their various categories in mobile communication systems.\",\n    \"Simulate and evaluate the performance of the SJ-scheme priority-based handover algorithm using Matlab.\"\n  ],\n  \"methods\": [\n    \"Categorize and analyze different types of handover methods including hard/soft, horizontal/vertical, and network/mobile-controlled handovers.\",\n    \"Develop a simulation model in Matlab using Simulink and Stateflow with six major subsystems to implement the SJ-scheme algorithm.\",\n    \"Conduct simulation runs and analyze the results through graphical representations and data measurements.\"\n  ],\n  \"results\": [\n    \"Successfully implemented a comprehensive simulation model for the SJ-scheme handover algorithm.\",\n    \"Generated performance data and graphical representations that demonstrate the operational characteristics of the proposed handover model.\"\n  ],\n  \"research_subject\": \"Handover processes and algorithms for mobile communication systems\"\n}\n```"
+}

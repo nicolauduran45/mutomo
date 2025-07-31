@@ -1,0 +1,64 @@
+{
+  "index": 3,
+  "title": "Sales Tax Competition among State–Local Governments: Evidence from the US Counties",
+  "abstract": "ABSTRACTThis article estimates tax reaction function of local governments competing with other governments to provide the insight for tax policy decision makers. Employing a panel of county-level data in all the states from 1970 to 2006, this article analyzes sales tax competition between county governments. In addition to a static model, this article pays more attention to dynamics in tax reaction function estimated by general methods of moments containing lagged dependent variables in the reaction function. Focusing on county governments, this article finds evidence for strategic interaction, an interaction that has positive effects on the setting of tax rates in a county.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the dynamics of sales tax competition among state-local governments to inform tax policy decisions.",
+      "The impact of strategic interaction among local governments on tax rates is not well understood."
+    ],
+    "objectives": [
+      "Estimate the tax reaction function of local governments competing with other governments.",
+      "Analyze the effects of sales tax competition between county governments."
+    ],
+    "methods": [
+      "Employ a panel of county-level data from 1970 to 2006 to analyze sales tax competition.",
+      "Use general methods of moments to estimate the tax reaction function with lagged dependent variables."
+    ],
+    "results": [
+      "Provide evidence for strategic interaction among county governments in setting tax rates.",
+      "Show that strategic interaction has positive effects on tax rates in a county."
+    ],
+    "research_subject": "Sales tax competition among state-local governments in the US"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the tax reaction function of local governments in competition with others can provide valuable insights for tax policy decision makers.",
+      "There is a need to analyze sales tax competition between county governments over a long period of time."
+    ],
+    "objectives": [
+      "Estimate the tax reaction function of local governments using a panel of county-level data from all states from 1970 to 2006.",
+      "Analyze the dynamics in tax reaction function using general methods of moments containing lagged dependent variables in the reaction function."
+    ],
+    "methods": [
+      "Employ a panel of county-level data from all states from 1970 to 2006 to estimate the tax reaction function.",
+      "Use general methods of moments containing lagged dependent variables to analyze the dynamics in tax reaction function."
+    ],
+    "results": [
+      "Find evidence for strategic interaction among county governments, which has positive effects on the setting of tax rates in a county."
+    ],
+    "research_subject": "Sales tax competition among state–local governments in the US"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding how local governments strategically interact when setting tax rates is crucial for tax policy decision-making.",
+      "There is limited empirical evidence on sales tax competition dynamics among county-level governments in the United States."
+    ],
+    "objectives": [
+      "Estimate tax reaction functions to analyze how county governments compete with each other in setting sales tax rates.",
+      "Examine both static and dynamic aspects of strategic tax interactions among local governments."
+    ],
+    "methods": [
+      "Analyze panel data of county-level sales tax rates across all US states using static models.",
+      "Apply general methods of moments (GMM) with lagged dependent variables to capture dynamic tax reaction functions."
+    ],
+    "results": [
+      "County governments engage in strategic interactions when setting sales tax rates, with neighboring jurisdictions' tax rates positively influencing local tax decisions.",
+      "The findings provide empirical evidence for tax competition dynamics that can inform policy makers about local government fiscal behavior."
+    ],
+    "research_subject": "Sales tax competition among US county governments"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the dynamics of sales tax competition among state-local governments to inform tax policy decisions.\",\n    \"The impact of strategic interaction among local governments on tax rates is not well understood.\"\n  ],\n  \"objectives\": [\n    \"Estimate the tax reaction function of local governments competing with other governments.\",\n    \"Analyze the effects of sales tax competition between county governments.\"\n  ],\n  \"methods\": [\n    \"Employ a panel of county-level data from 1970 to 2006 to analyze sales tax competition.\",\n    \"Use general methods of moments to estimate the tax reaction function with lagged dependent variables.\"\n  ],\n  \"results\": [\n    \"Provide evidence for strategic interaction among county governments in setting tax rates.\",\n    \"Show that strategic interaction has positive effects on tax rates in a county.\"\n  ],\n  \"research_subject\": \"Sales tax competition among state-local governments in the US\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the tax reaction function of local governments in competition with others can provide valuable insights for tax policy decision makers.\",\n    \"There is a need to analyze sales tax competition between county governments over a long period of time.\"\n  ],\n  \"objectives\": [\n    \"Estimate the tax reaction function of local governments using a panel of county-level data from all states from 1970 to 2006.\",\n    \"Analyze the dynamics in tax reaction function using general methods of moments containing lagged dependent variables in the reaction function.\"\n  ],\n  \"methods\": [\n    \"Employ a panel of county-level data from all states from 1970 to 2006 to estimate the tax reaction function.\",\n    \"Use general methods of moments containing lagged dependent variables to analyze the dynamics in tax reaction function.\"\n  ],\n  \"results\": [\n    \"Find evidence for strategic interaction among county governments, which has positive effects on the setting of tax rates in a county.\"\n  ],\n  \"research_subject\": \"Sales tax competition among state–local governments in the US\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how local governments strategically interact when setting tax rates is crucial for tax policy decision-making.\",\n    \"There is limited empirical evidence on sales tax competition dynamics among county-level governments in the United States.\"\n  ],\n  \"objectives\": [\n    \"Estimate tax reaction functions to analyze how county governments compete with each other in setting sales tax rates.\",\n    \"Examine both static and dynamic aspects of strategic tax interactions among local governments.\"\n  ],\n  \"methods\": [\n    \"Analyze panel data of county-level sales tax rates across all US states using static models.\",\n    \"Apply general methods of moments (GMM) with lagged dependent variables to capture dynamic tax reaction functions.\"\n  ],\n  \"results\": [\n    \"County governments engage in strategic interactions when setting sales tax rates, with neighboring jurisdictions' tax rates positively influencing local tax decisions.\",\n    \"The findings provide empirical evidence for tax competition dynamics that can inform policy makers about local government fiscal behavior.\"\n  ],\n  \"research_subject\": \"Sales tax competition among US county governments\"\n}\n```"
+}

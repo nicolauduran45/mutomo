@@ -1,0 +1,57 @@
+{
+  "index": 155,
+  "title": "Gas recovery.",
+  "abstract": "CO2 is separated from a gas mixture containing medium boiling point gases, such as nitrogen, carbon monoxide, methane, and/or argon, and optionally also hydrogen by a pressure swing adsorption (PSA) process operated at above 50 DEG C. The PSA cycle preferably employs two or more depressurisation stages: the final stage, which is preferably counter-current, gives higher purity CO2 than the previous depressurisation stage or stages which are preferably co-current.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to separate CO2 from gas mixtures containing medium boiling point gases."
+    ],
+    "objectives": [
+      "Separate CO2 from gas mixtures using a pressure swing adsorption (PSA) process."
+    ],
+    "methods": [
+      "Operate the PSA process at above 50 DEG C.",
+      "Employ two or more depressurisation stages in the PSA cycle.",
+      "Use a counter-current final stage to achieve higher purity CO2."
+    ],
+    "results": [
+      "Achieve higher purity CO2 from gas mixtures."
+    ],
+    "research_subject": "CO2 separation from gas mixtures using pressure swing adsorption"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for efficient methods to separate CO2 from gas mixtures containing medium boiling point gases."
+    ],
+    "objectives": [
+      "To separate CO2 from a gas mixture using a pressure swing adsorption (PSA) process operated at above 50 DEG C."
+    ],
+    "methods": [
+      "Use a PSA process with two or more depressurisation stages to separate CO2 from the gas mixture.",
+      "The final stage of the PSA process is counter-current to achieve higher purity CO2."
+    ],
+    "results": [
+      "Achieve higher purity CO2 from gas mixtures containing medium boiling point gases."
+    ],
+    "research_subject": "Gas recovery through pressure swing adsorption process"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for efficient separation of CO2 from gas mixtures containing medium boiling point gases for industrial applications."
+    ],
+    "objectives": [
+      "Develop a pressure swing adsorption process to effectively separate CO2 from gas mixtures containing nitrogen, carbon monoxide, methane, argon, and optionally hydrogen."
+    ],
+    "methods": [
+      "Employ a pressure swing adsorption (PSA) process operated at temperatures above 50°C.",
+      "Implement a PSA cycle with two or more depressurization stages, using counter-current flow in the final stage and co-current flow in previous stages."
+    ],
+    "results": [
+      "Achieve higher purity CO2 separation through the optimized multi-stage depressurization approach."
+    ],
+    "research_subject": "CO2 separation from gas mixtures using pressure swing adsorption"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to separate CO2 from gas mixtures containing medium boiling point gases.\"\n  ],\n  \"objectives\": [\n    \"Separate CO2 from gas mixtures using a pressure swing adsorption (PSA) process.\"\n  ],\n  \"methods\": [\n    \"Operate the PSA process at above 50 DEG C.\",\n    \"Employ two or more depressurisation stages in the PSA cycle.\",\n    \"Use a counter-current final stage to achieve higher purity CO2.\"\n  ],\n  \"results\": [\n    \"Achieve higher purity CO2 from gas mixtures.\"\n  ],\n  \"research_subject\": \"CO2 separation from gas mixtures using pressure swing adsorption\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient methods to separate CO2 from gas mixtures containing medium boiling point gases.\"\n  ],\n  \"objectives\": [\n    \"To separate CO2 from a gas mixture using a pressure swing adsorption (PSA) process operated at above 50 DEG C.\"\n  ],\n  \"methods\": [\n    \"Use a PSA process with two or more depressurisation stages to separate CO2 from the gas mixture.\",\n    \"The final stage of the PSA process is counter-current to achieve higher purity CO2.\"\n  ],\n  \"results\": [\n    \"Achieve higher purity CO2 from gas mixtures containing medium boiling point gases.\"\n  ],\n  \"research_subject\": \"Gas recovery through pressure swing adsorption process\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient separation of CO2 from gas mixtures containing medium boiling point gases for industrial applications.\"\n  ],\n  \"objectives\": [\n    \"Develop a pressure swing adsorption process to effectively separate CO2 from gas mixtures containing nitrogen, carbon monoxide, methane, argon, and optionally hydrogen.\"\n  ],\n  \"methods\": [\n    \"Employ a pressure swing adsorption (PSA) process operated at temperatures above 50°C.\",\n    \"Implement a PSA cycle with two or more depressurization stages, using counter-current flow in the final stage and co-current flow in previous stages.\"\n  ],\n  \"results\": [\n    \"Achieve higher purity CO2 separation through the optimized multi-stage depressurization approach.\"\n  ],\n  \"research_subject\": \"CO2 separation from gas mixtures using pressure swing adsorption\"\n}\n```"
+}

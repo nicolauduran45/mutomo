@@ -1,0 +1,72 @@
+{
+  "index": 308,
+  "title": "European direction in geoss common infrastructure enhancements",
+  "abstract": "As mentioned in the GEO Strategic Plan 2016-2025, global environmental change is one of the primary challenges of humankind, even more so today than in 2003, when governments and international organisations committed to a vision of a future wherein decisions and actions for the benefit of humankind are informed by coordinated, comprehensive and sustained Earth observations. The establishment, in 2005, of the Group on Earth Observations, and the creation of the Global Earth Observation System of Systems (GEOSS), was a first concrete response to this challenge. EDGE, short for European Directed GCI Enhancements, is a EU funded project that will provide a further European key contribution to GEOSS, evolving its main common infrastructure elements, the GEOSS Portal (implemented and operated by the European Space Agency - ESA-ESRIN) and the GEO Discovery and Access Broker (implemented and operated by the Italian Research Council - CNR-IIA), recognizing the user centrality – and as such the challenges these users are facing – as the leitmotiv of these evolutions. Engaging the user communities, better understanding their needs, improving the user experience delivering solutions in response to the actual user requirements, advocating the benefits of GEOSS, raising interest and awareness amongst a comprehensive community of users are the main objectives of the project. There will be close collaboration with GEO flagships and initiatives as well as with communities identified in ESA initiatives like the Thematic Exploitation Platforms. The project will link with major international initiatives like Copernicus and CEOS and will consider the latest Ground Segment operations concept. Coordination with the GEO secretariat, the relevant foundational tasks and all relevant GEO stakeholders should guarantee the success of the project.",
+  "llama_json": {
+    "motivations": [
+      "Global environmental change poses significant challenges to humankind, necessitating informed decision-making through coordinated and comprehensive Earth observations.",
+      "Existing Earth observation systems, such as GEOSS, require enhancements to better serve user needs and provide a more effective response to global challenges."
+    ],
+    "objectives": [
+      "Evolve the main common infrastructure elements of GEOSS, including the GEOSS Portal and the GEO Discovery and Access Broker, to improve user experience and responsiveness to user requirements.",
+      "Engage user communities, understand their needs, and deliver solutions that address actual user requirements.",
+      "Promote the benefits of GEOSS, raise interest and awareness, and advocate for its use among a comprehensive community of users."
+    ],
+    "methods": [
+      "Collaborate closely with GEO flagships, initiatives, and user communities to ensure user-centric solutions.",
+      "Link with major international initiatives, such as Copernicus and CEOS, and consider the latest Ground Segment operations concept.",
+      "Coordinate with the GEO secretariat, foundational tasks, and relevant stakeholders to guarantee project success."
+    ],
+    "results": [
+      "Enhance the effectiveness of GEOSS in supporting informed decision-making and addressing global environmental challenges.",
+      "Improve user experience and satisfaction with GEOSS services.",
+      "Increase awareness and adoption of GEOSS among a broader community of users."
+    ],
+    "research_subject": "Enhancements to the Global Earth Observation System of Systems (GEOSS) common infrastructure"
+  },
+  "openai_json": {
+    "motivations": [
+      "Global environmental change is a major challenge, and decisions to address it need to be informed by coordinated, comprehensive, and sustained Earth observations.",
+      "There is a need to evolve the main common infrastructure elements of the Global Earth Observation System of Systems (GEOSS) to better serve user needs."
+    ],
+    "objectives": [
+      "Evolve the GEOSS Portal and the GEO Discovery and Access Broker to better meet user needs and improve user experience.",
+      "Engage user communities, understand their needs, and deliver solutions in response to their requirements.",
+      "Coordinate with the GEO secretariat, relevant foundational tasks, and all relevant GEO stakeholders to ensure the success of the project."
+    ],
+    "methods": [
+      "Collaborate closely with GEO flagships and initiatives, as well as communities identified in ESA initiatives like the Thematic Exploitation Platforms.",
+      "Link with major international initiatives like Copernicus and CEOS, and consider the latest Ground Segment operations concept."
+    ],
+    "results": [
+      "Improved user experience and solutions tailored to user requirements in the GEOSS Portal and the GEO Discovery and Access Broker.",
+      "Increased interest and awareness among a comprehensive community of users about the benefits of GEOSS."
+    ],
+    "research_subject": "Enhancements to the Global Earth Observation System of Systems (GEOSS) infrastructure"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Global environmental change represents one of humanity's primary challenges, requiring coordinated and comprehensive Earth observation systems to inform decisions and actions.",
+      "The GEOSS infrastructure needs evolution to better serve user communities and address their specific challenges in accessing and utilizing Earth observation data."
+    ],
+    "objectives": [
+      "Evolve the GEOSS Portal and GEO Discovery and Access Broker to enhance user experience and meet actual user requirements.",
+      "Engage user communities to better understand their needs and advocate the benefits of GEOSS while raising awareness among comprehensive user groups.",
+      "Strengthen European contributions to GEOSS through improved common infrastructure elements and coordination with major international initiatives."
+    ],
+    "methods": [
+      "Implement user-centric enhancements to the GEOSS Portal and GEO Discovery and Access Broker infrastructure.",
+      "Collaborate closely with GEO flagships, initiatives, and communities including ESA Thematic Exploitation Platforms.",
+      "Coordinate with the GEO secretariat, foundational tasks, and relevant stakeholders while linking with international initiatives like Copernicus and CEOS."
+    ],
+    "results": [
+      "Improved GEOSS infrastructure that better serves user communities with enhanced discovery and access capabilities.",
+      "Increased user engagement and awareness of GEOSS benefits across comprehensive user communities.",
+      "Strengthened European contribution to global Earth observation systems through evolved common infrastructure elements."
+    ],
+    "research_subject": "Enhancement of GEOSS common infrastructure through user-centric improvements"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Global environmental change poses significant challenges to humankind, necessitating informed decision-making through coordinated and comprehensive Earth observations.\",\n    \"Existing Earth observation systems, such as GEOSS, require enhancements to better serve user needs and provide a more effective response to global challenges.\"\n  ],\n  \"objectives\": [\n    \"Evolve the main common infrastructure elements of GEOSS, including the GEOSS Portal and the GEO Discovery and Access Broker, to improve user experience and responsiveness to user requirements.\",\n    \"Engage user communities, understand their needs, and deliver solutions that address actual user requirements.\",\n    \"Promote the benefits of GEOSS, raise interest and awareness, and advocate for its use among a comprehensive community of users.\"\n  ],\n  \"methods\": [\n    \"Collaborate closely with GEO flagships, initiatives, and user communities to ensure user-centric solutions.\",\n    \"Link with major international initiatives, such as Copernicus and CEOS, and consider the latest Ground Segment operations concept.\",\n    \"Coordinate with the GEO secretariat, foundational tasks, and relevant stakeholders to guarantee project success.\"\n  ],\n  \"results\": [\n    \"Enhance the effectiveness of GEOSS in supporting informed decision-making and addressing global environmental challenges.\",\n    \"Improve user experience and satisfaction with GEOSS services.\",\n    \"Increase awareness and adoption of GEOSS among a broader community of users.\"\n  ],\n  \"research_subject\": \"Enhancements to the Global Earth Observation System of Systems (GEOSS) common infrastructure\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Global environmental change is a major challenge, and decisions to address it need to be informed by coordinated, comprehensive, and sustained Earth observations.\",\n    \"There is a need to evolve the main common infrastructure elements of the Global Earth Observation System of Systems (GEOSS) to better serve user needs.\"\n  ],\n  \"objectives\": [\n    \"Evolve the GEOSS Portal and the GEO Discovery and Access Broker to better meet user needs and improve user experience.\",\n    \"Engage user communities, understand their needs, and deliver solutions in response to their requirements.\",\n    \"Coordinate with the GEO secretariat, relevant foundational tasks, and all relevant GEO stakeholders to ensure the success of the project.\"\n  ],\n  \"methods\": [\n    \"Collaborate closely with GEO flagships and initiatives, as well as communities identified in ESA initiatives like the Thematic Exploitation Platforms.\",\n    \"Link with major international initiatives like Copernicus and CEOS, and consider the latest Ground Segment operations concept.\"\n  ],\n  \"results\": [\n    \"Improved user experience and solutions tailored to user requirements in the GEOSS Portal and the GEO Discovery and Access Broker.\",\n    \"Increased interest and awareness among a comprehensive community of users about the benefits of GEOSS.\"\n  ],\n  \"research_subject\": \"Enhancements to the Global Earth Observation System of Systems (GEOSS) infrastructure\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Global environmental change represents one of humanity's primary challenges, requiring coordinated and comprehensive Earth observation systems to inform decisions and actions.\",\n    \"The GEOSS infrastructure needs evolution to better serve user communities and address their specific challenges in accessing and utilizing Earth observation data.\"\n  ],\n  \"objectives\": [\n    \"Evolve the GEOSS Portal and GEO Discovery and Access Broker to enhance user experience and meet actual user requirements.\",\n    \"Engage user communities to better understand their needs and advocate the benefits of GEOSS while raising awareness among comprehensive user groups.\",\n    \"Strengthen European contributions to GEOSS through improved common infrastructure elements and coordination with major international initiatives.\"\n  ],\n  \"methods\": [\n    \"Implement user-centric enhancements to the GEOSS Portal and GEO Discovery and Access Broker infrastructure.\",\n    \"Collaborate closely with GEO flagships, initiatives, and communities including ESA Thematic Exploitation Platforms.\",\n    \"Coordinate with the GEO secretariat, foundational tasks, and relevant stakeholders while linking with international initiatives like Copernicus and CEOS.\"\n  ],\n  \"results\": [\n    \"Improved GEOSS infrastructure that better serves user communities with enhanced discovery and access capabilities.\",\n    \"Increased user engagement and awareness of GEOSS benefits across comprehensive user communities.\",\n    \"Strengthened European contribution to global Earth observation systems through evolved common infrastructure elements.\"\n  ],\n  \"research_subject\": \"Enhancement of GEOSS common infrastructure through user-centric improvements\"\n}\n```"
+}

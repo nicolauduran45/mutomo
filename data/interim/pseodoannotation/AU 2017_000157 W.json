@@ -1,0 +1,62 @@
+{
+  "index": 490,
+  "title": "CONSTRUCTION LAMINATES",
+  "abstract": "The present disclosure relates to flexible sheet-like materials for use in construction. In one aspect, there is provided a flexible sheet-like laminate comprised of at least a layer of a water vapour proof material and at least a layer of an acoustic dampening material, in which the layers are bonded together. Such a flexible sheet-like laminate would do away with the need for a liquid membrane, meaning waterproofing and acoustic dampening could be installed far quicker and easier than previously possible. In one form, the flexible sheet-like laminate further comprises at least a layer of a reinforcing material.",
+  "llama_json": {
+    "motivations": [
+      "Current construction methods for waterproofing and acoustic dampening are time-consuming and labor-intensive, requiring the use of liquid membranes."
+    ],
+    "objectives": [
+      "Develop a flexible sheet-like laminate that combines waterproofing and acoustic dampening properties for use in construction."
+    ],
+    "methods": [
+      "Create a laminate comprised of at least a layer of water vapour proof material and a layer of acoustic dampening material bonded together.",
+      "Optionally add a layer of reinforcing material to the laminate for added strength and durability."
+    ],
+    "results": [
+      "Simplify and speed up the installation process for waterproofing and acoustic dampening in construction projects."
+    ],
+    "research_subject": "Development of flexible sheet-like laminates for construction applications"
+  },
+  "openai_json": {
+    "motivations": [
+      "The traditional process of installing waterproofing and acoustic dampening in construction is time-consuming and complex.",
+      "There is a need for a more efficient and easier method for installing waterproofing and acoustic dampening."
+    ],
+    "objectives": [
+      "Develop a flexible sheet-like laminate that combines a layer of water vapour proof material and a layer of acoustic dampening material.",
+      "Eliminate the need for a liquid membrane in construction, making the installation process quicker and easier."
+    ],
+    "methods": [
+      "Create a laminate composed of at least a layer of a water vapour proof material and a layer of an acoustic dampening material, bonded together.",
+      "In one form, the laminate may also include a layer of a reinforcing material."
+    ],
+    "results": [
+      "The developed laminate simplifies the installation process of waterproofing and acoustic dampening in construction.",
+      "The laminate potentially reduces the time and complexity of construction projects."
+    ],
+    "research_subject": "Development of a flexible sheet-like laminate for efficient waterproofing and acoustic dampening in construction"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current construction waterproofing methods using liquid membranes are time-consuming and difficult to install.",
+      "There is a need for construction materials that can simultaneously provide both waterproofing and acoustic dampening properties in a single application."
+    ],
+    "objectives": [
+      "Develop a flexible sheet-like laminate that combines water vapour proofing and acoustic dampening capabilities in a single material.",
+      "Eliminate the need for liquid membrane application in construction waterproofing processes."
+    ],
+    "methods": [
+      "Bond together layers of water vapour proof material and acoustic dampening material to create a flexible sheet-like laminate.",
+      "Incorporate reinforcing material layers to enhance the structural properties of the laminate."
+    ],
+    "results": [
+      "Enable faster and easier installation of waterproofing and acoustic dampening in construction compared to traditional liquid membrane methods.",
+      "Provide a single flexible material solution that addresses both moisture protection and sound control requirements in construction applications."
+    ],
+    "research_subject": "Flexible multi-layer construction laminates for waterproofing and acoustic dampening"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current construction methods for waterproofing and acoustic dampening are time-consuming and labor-intensive, requiring the use of liquid membranes.\"\n  ],\n  \"objectives\": [\n    \"Develop a flexible sheet-like laminate that combines waterproofing and acoustic dampening properties for use in construction.\"\n  ],\n  \"methods\": [\n    \"Create a laminate comprised of at least a layer of water vapour proof material and a layer of acoustic dampening material bonded together.\",\n    \"Optionally add a layer of reinforcing material to the laminate for added strength and durability.\"\n  ],\n  \"results\": [\n    \"Simplify and speed up the installation process for waterproofing and acoustic dampening in construction projects.\"\n  ],\n  \"research_subject\": \"Development of flexible sheet-like laminates for construction applications\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The traditional process of installing waterproofing and acoustic dampening in construction is time-consuming and complex.\",\n    \"There is a need for a more efficient and easier method for installing waterproofing and acoustic dampening.\"\n  ],\n  \"objectives\": [\n    \"Develop a flexible sheet-like laminate that combines a layer of water vapour proof material and a layer of acoustic dampening material.\",\n    \"Eliminate the need for a liquid membrane in construction, making the installation process quicker and easier.\"\n  ],\n  \"methods\": [\n    \"Create a laminate composed of at least a layer of a water vapour proof material and a layer of an acoustic dampening material, bonded together.\",\n    \"In one form, the laminate may also include a layer of a reinforcing material.\"\n  ],\n  \"results\": [\n    \"The developed laminate simplifies the installation process of waterproofing and acoustic dampening in construction.\",\n    \"The laminate potentially reduces the time and complexity of construction projects.\"\n  ],\n  \"research_subject\": \"Development of a flexible sheet-like laminate for efficient waterproofing and acoustic dampening in construction\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current construction waterproofing methods using liquid membranes are time-consuming and difficult to install.\",\n    \"There is a need for construction materials that can simultaneously provide both waterproofing and acoustic dampening properties in a single application.\"\n  ],\n  \"objectives\": [\n    \"Develop a flexible sheet-like laminate that combines water vapour proofing and acoustic dampening capabilities in a single material.\",\n    \"Eliminate the need for liquid membrane application in construction waterproofing processes.\"\n  ],\n  \"methods\": [\n    \"Bond together layers of water vapour proof material and acoustic dampening material to create a flexible sheet-like laminate.\",\n    \"Incorporate reinforcing material layers to enhance the structural properties of the laminate.\"\n  ],\n  \"results\": [\n    \"Enable faster and easier installation of waterproofing and acoustic dampening in construction compared to traditional liquid membrane methods.\",\n    \"Provide a single flexible material solution that addresses both moisture protection and sound control requirements in construction applications.\"\n  ],\n  \"research_subject\": \"Flexible multi-layer construction laminates for waterproofing and acoustic dampening\"\n}\n```"
+}

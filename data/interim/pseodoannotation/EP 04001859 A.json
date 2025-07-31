@@ -1,0 +1,69 @@
+{
+  "index": 102,
+  "title": "System and method for communicating using a multiserver platform",
+  "abstract": "Aspects of the invention include receiving a first packet from a first of a plurality of blade servers at a first data rate and determining a second blade server that may receive the first packet. Data responsive to the received first packet may be transferred to the second blade server at a negotiated first data rate. A second packet comprising at least a portion of the first received packet may be transferred to the second blade server at the negotiated data rate. At least a portion of the first received packet may be transferred to at least the second blade server via a common bus. In another aspect of the invention, at least a third packet may be received from a network at a second data rate. Data responsive to the third packet may be transferred to at least a third blade server at a newly negotiated data rate.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for efficient communication between multiple servers in a multiserver platform.",
+      "Existing systems may not be able to handle varying data rates and packet transfers between servers effectively."
+    ],
+    "objectives": [
+      "Develop a system and method for communicating between multiple blade servers in a multiserver platform.",
+      "Enable efficient transfer of data between servers at negotiated data rates."
+    ],
+    "methods": [
+      "Receive and process packets from multiple blade servers at varying data rates.",
+      "Negotiate data rates for transferring data between servers.",
+      "Utilize a common bus to transfer data between servers."
+    ],
+    "results": [
+      "Improved communication efficiency between multiple servers in a multiserver platform.",
+      "Enhanced ability to handle varying data rates and packet transfers between servers."
+    ],
+    "research_subject": "Multiserver platform communication system and method"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for efficient communication between multiple blade servers at varying data rates.",
+      "Existing systems may not effectively negotiate data rates for transferring packets between servers."
+    ],
+    "objectives": [
+      "Receive and determine the appropriate blade server for packet transfer at a first data rate.",
+      "Transfer data responsive to the received packet to the determined blade server at a negotiated data rate.",
+      "Receive a packet from a network at a second data rate and transfer data responsive to this packet to a blade server at a newly negotiated data rate."
+    ],
+    "methods": [
+      "Receive a packet from a blade server and determine another blade server that can receive the packet.",
+      "Negotiate a data rate for transferring data responsive to the received packet to the determined blade server.",
+      "Transfer a portion of the received packet to the determined blade server via a common bus."
+    ],
+    "results": [
+      "Enable efficient communication between multiple blade servers at varying data rates.",
+      "Improve the negotiation of data rates for transferring packets between servers."
+    ],
+    "research_subject": "Communication system and method using a multiserver platform"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Existing multiserver platforms face challenges in efficiently communicating and transferring data between blade servers at varying data rates.",
+      "There is a need for improved packet routing and data rate negotiation mechanisms in multiserver environments to optimize performance."
+    ],
+    "objectives": [
+      "Develop a system and method for efficient packet communication and data transfer between multiple blade servers in a multiserver platform.",
+      "Enable dynamic data rate negotiation and packet routing between blade servers to optimize communication performance."
+    ],
+    "methods": [
+      "Implement packet receiving and routing mechanisms that determine appropriate destination blade servers for incoming packets.",
+      "Utilize data rate negotiation protocols to transfer data between blade servers at optimized speeds.",
+      "Employ a common bus architecture for transferring packet data between multiple blade servers."
+    ],
+    "results": [
+      "Improved efficiency in data communication and packet transfer between blade servers in multiserver platforms.",
+      "Enhanced system performance through dynamic data rate negotiation and optimized packet routing."
+    ],
+    "research_subject": "Multiserver platform communication system with dynamic data rate negotiation"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient communication between multiple servers in a multiserver platform.\",\n    \"Existing systems may not be able to handle varying data rates and packet transfers between servers effectively.\"\n  ],\n  \"objectives\": [\n    \"Develop a system and method for communicating between multiple blade servers in a multiserver platform.\",\n    \"Enable efficient transfer of data between servers at negotiated data rates.\"\n  ],\n  \"methods\": [\n    \"Receive and process packets from multiple blade servers at varying data rates.\",\n    \"Negotiate data rates for transferring data between servers.\",\n    \"Utilize a common bus to transfer data between servers.\"\n  ],\n  \"results\": [\n    \"Improved communication efficiency between multiple servers in a multiserver platform.\",\n    \"Enhanced ability to handle varying data rates and packet transfers between servers.\"\n  ],\n  \"research_subject\": \"Multiserver platform communication system and method\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient communication between multiple blade servers at varying data rates.\",\n    \"Existing systems may not effectively negotiate data rates for transferring packets between servers.\"\n  ],\n  \"objectives\": [\n    \"Receive and determine the appropriate blade server for packet transfer at a first data rate.\",\n    \"Transfer data responsive to the received packet to the determined blade server at a negotiated data rate.\",\n    \"Receive a packet from a network at a second data rate and transfer data responsive to this packet to a blade server at a newly negotiated data rate.\"\n  ],\n  \"methods\": [\n    \"Receive a packet from a blade server and determine another blade server that can receive the packet.\",\n    \"Negotiate a data rate for transferring data responsive to the received packet to the determined blade server.\",\n    \"Transfer a portion of the received packet to the determined blade server via a common bus.\"\n  ],\n  \"results\": [\n    \"Enable efficient communication between multiple blade servers at varying data rates.\",\n    \"Improve the negotiation of data rates for transferring packets between servers.\"\n  ],\n  \"research_subject\": \"Communication system and method using a multiserver platform\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Existing multiserver platforms face challenges in efficiently communicating and transferring data between blade servers at varying data rates.\",\n    \"There is a need for improved packet routing and data rate negotiation mechanisms in multiserver environments to optimize performance.\"\n  ],\n  \"objectives\": [\n    \"Develop a system and method for efficient packet communication and data transfer between multiple blade servers in a multiserver platform.\",\n    \"Enable dynamic data rate negotiation and packet routing between blade servers to optimize communication performance.\"\n  ],\n  \"methods\": [\n    \"Implement packet receiving and routing mechanisms that determine appropriate destination blade servers for incoming packets.\",\n    \"Utilize data rate negotiation protocols to transfer data between blade servers at optimized speeds.\",\n    \"Employ a common bus architecture for transferring packet data between multiple blade servers.\"\n  ],\n  \"results\": [\n    \"Improved efficiency in data communication and packet transfer between blade servers in multiserver platforms.\",\n    \"Enhanced system performance through dynamic data rate negotiation and optimized packet routing.\"\n  ],\n  \"research_subject\": \"Multiserver platform communication system with dynamic data rate negotiation\"\n}\n```"
+}

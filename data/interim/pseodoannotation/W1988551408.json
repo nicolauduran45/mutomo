@@ -1,0 +1,68 @@
+{
+  "index": 317,
+  "title": "Finite element modeling of static tire enveloping characteristics",
+  "abstract": "To investigate static tire enveloping characteristics, a three dimensional (3-D) finite element model is proposed. The vertical stiffness of the tire is studied on a flat surface with and without cleat. Tire rubber materials and cord layers are represented independently using “rebar” elements available in MSC Marc Mentat. Comparisons of numerical and experimental results are given to show the validity of the proposed model. It is shown that after a certain displacement, the results of the proposed model agree well with experimental results. In addition, the model results show that regardless of the type of the cleat placed under the rim center (hub center), all vertical force curves intersect after a certain displacement, which indicates typical static enveloping characteristics. Moreover, another typical characteristic of the radial tires that is unlike those of bias-ply constructions confirms that the contact patch does not expand laterally after a level vertical load is applied to the tire, which is directly related to fuel consumption and tire tread life.",
+  "llama_json": {
+    "motivations": [
+      "Understanding static tire enveloping characteristics is crucial for optimizing tire performance, fuel consumption, and tread life.",
+      "There is a need for accurate models to simulate and predict tire behavior under various conditions."
+    ],
+    "objectives": [
+      "Develop a 3D finite element model to investigate static tire enveloping characteristics.",
+      "Validate the proposed model by comparing numerical results with experimental data."
+    ],
+    "methods": [
+      "Create a 3D finite element model using MSC Marc Mentat, incorporating rebar elements to represent tire rubber materials and cord layers.",
+      "Simulate tire behavior on a flat surface with and without cleats to study vertical stiffness and enveloping characteristics."
+    ],
+    "results": [
+      "The proposed model accurately predicts tire behavior after a certain displacement, showing good agreement with experimental results.",
+      "The model confirms typical static enveloping characteristics, including intersecting vertical force curves and limited lateral expansion of the contact patch."
+    ],
+    "research_subject": "Finite element modeling of static tire enveloping characteristics"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand static tire enveloping characteristics to improve tire performance and longevity.",
+      "Existing models may not accurately represent the behavior of tires under different conditions."
+    ],
+    "objectives": [
+      "Develop a three-dimensional finite element model to investigate static tire enveloping characteristics.",
+      "Validate the proposed model by comparing its results with experimental data."
+    ],
+    "methods": [
+      "Use a finite element model to represent tire rubber materials and cord layers independently.",
+      "Study the vertical stiffness of the tire on a flat surface with and without a cleat.",
+      "Compare the numerical results of the model with experimental results to validate its accuracy."
+    ],
+    "results": [
+      "The proposed model accurately represents static tire enveloping characteristics after a certain displacement.",
+      "The model shows that the contact patch does not expand laterally after a level vertical load is applied, which is related to fuel consumption and tire tread life."
+    ],
+    "research_subject": "Finite element modeling of static tire enveloping characteristics"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding static tire enveloping characteristics is crucial for predicting tire performance and behavior under various loading conditions.",
+      "Accurate modeling of tire-surface interactions is needed to improve fuel consumption and tire tread life predictions."
+    ],
+    "objectives": [
+      "Develop a three-dimensional finite element model to investigate static tire enveloping characteristics.",
+      "Study the vertical stiffness behavior of tires on flat surfaces with and without cleats."
+    ],
+    "methods": [
+      "Create a 3D finite element model using MSC Marc Mentat with independent representation of rubber materials and cord layers using rebar elements.",
+      "Conduct simulations of tire behavior on flat surfaces with and without cleats under various loading conditions.",
+      "Compare numerical simulation results with experimental data to validate the model."
+    ],
+    "results": [
+      "The model demonstrates good agreement with experimental results after a certain displacement threshold.",
+      "All vertical force curves intersect after a specific displacement regardless of cleat type, confirming typical static enveloping characteristics.",
+      "The model confirms that radial tire contact patches do not expand laterally after a certain vertical load, which differs from bias-ply constructions."
+    ],
+    "research_subject": "Finite element modeling of static tire enveloping characteristics"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding static tire enveloping characteristics is crucial for optimizing tire performance, fuel consumption, and tread life.\",\n    \"There is a need for accurate models to simulate and predict tire behavior under various conditions.\"\n  ],\n  \"objectives\": [\n    \"Develop a 3D finite element model to investigate static tire enveloping characteristics.\",\n    \"Validate the proposed model by comparing numerical results with experimental data.\"\n  ],\n  \"methods\": [\n    \"Create a 3D finite element model using MSC Marc Mentat, incorporating rebar elements to represent tire rubber materials and cord layers.\",\n    \"Simulate tire behavior on a flat surface with and without cleats to study vertical stiffness and enveloping characteristics.\"\n  ],\n  \"results\": [\n    \"The proposed model accurately predicts tire behavior after a certain displacement, showing good agreement with experimental results.\",\n    \"The model confirms typical static enveloping characteristics, including intersecting vertical force curves and limited lateral expansion of the contact patch.\"\n  ],\n  \"research_subject\": \"Finite element modeling of static tire enveloping characteristics\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand static tire enveloping characteristics to improve tire performance and longevity.\",\n    \"Existing models may not accurately represent the behavior of tires under different conditions.\"\n  ],\n  \"objectives\": [\n    \"Develop a three-dimensional finite element model to investigate static tire enveloping characteristics.\",\n    \"Validate the proposed model by comparing its results with experimental data.\"\n  ],\n  \"methods\": [\n    \"Use a finite element model to represent tire rubber materials and cord layers independently.\",\n    \"Study the vertical stiffness of the tire on a flat surface with and without a cleat.\",\n    \"Compare the numerical results of the model with experimental results to validate its accuracy.\"\n  ],\n  \"results\": [\n    \"The proposed model accurately represents static tire enveloping characteristics after a certain displacement.\",\n    \"The model shows that the contact patch does not expand laterally after a level vertical load is applied, which is related to fuel consumption and tire tread life.\"\n  ],\n  \"research_subject\": \"Finite element modeling of static tire enveloping characteristics\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding static tire enveloping characteristics is crucial for predicting tire performance and behavior under various loading conditions.\",\n    \"Accurate modeling of tire-surface interactions is needed to improve fuel consumption and tire tread life predictions.\"\n  ],\n  \"objectives\": [\n    \"Develop a three-dimensional finite element model to investigate static tire enveloping characteristics.\",\n    \"Study the vertical stiffness behavior of tires on flat surfaces with and without cleats.\"\n  ],\n  \"methods\": [\n    \"Create a 3D finite element model using MSC Marc Mentat with independent representation of rubber materials and cord layers using rebar elements.\",\n    \"Conduct simulations of tire behavior on flat surfaces with and without cleats under various loading conditions.\",\n    \"Compare numerical simulation results with experimental data to validate the model.\"\n  ],\n  \"results\": [\n    \"The model demonstrates good agreement with experimental results after a certain displacement threshold.\",\n    \"All vertical force curves intersect after a specific displacement regardless of cleat type, confirming typical static enveloping characteristics.\",\n    \"The model confirms that radial tire contact patches do not expand laterally after a certain vertical load, which differs from bias-ply constructions.\"\n  ],\n  \"research_subject\": \"Finite element modeling of static tire enveloping characteristics\"\n}\n```"
+}

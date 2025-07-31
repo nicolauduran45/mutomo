@@ -1,0 +1,65 @@
+{
+  "index": 71,
+  "title": "Premature withdrawal: searching for satisfaction in the endings of Pushing Daisies and Carnivale",
+  "abstract": "The commercial climate of contemporary television drama is a fiercely Darwinian environment. For every intelligently written, high-concept drama which amasses scores of episodes and a passionate following, there are dozens which fail at the pilot stage, or after a timid, half-length first season. For every The Sopranos, there is a Carnivale; for every Desperate Housewives, there is a Pushing Daisies. The commercial failure of so many new shows is the inevitable consequence of the industrial logic of TV3, in which “... today’s production circumstances, highly commercialised as they are, ironically appear to have yielded a context facilitating creativity and distinctive product, indeed “quality television”, at the “high end” of the industry, in TV drama.” (Nelson, 2007: 161) The attempt to provide new and distinctive examples of “quality” programming encourages experimentation with the content and form of television drama, as program makers seek to attract and maintain a share of an ever more fragmented audience. However, the risk and expense involved in the production of high-end television drama also often leads to the abrupt cancellation of shows which fail to fulfill their economic imperative by attracting a diverse and lucrative audience. As early as 1995, J.T. Caldwell was already able to write that:",
+  "llama_json": {
+    "motivations": [
+      "Many high-concept television dramas face premature cancellation due to commercial pressures and failure to attract a large audience.",
+      "The tension between creative experimentation and commercial viability in the television industry leads to the abrupt cancellation of innovative shows."
+    ],
+    "objectives": [
+      "Analyze the impact of commercial pressures on the endings of prematurely cancelled television dramas, specifically Pushing Daisies and Carnivale.",
+      "Examine the relationship between creative experimentation and commercial viability in contemporary television drama."
+    ],
+    "methods": [
+      "Conduct a case study of Pushing Daisies and Carnivale, examining their narrative structures and endings in the context of commercial cancellation.",
+      "Apply theoretical frameworks from television studies to analyze the industrial logic of TV3 and its effects on programming."
+    ],
+    "results": [
+      "Gain insight into the ways in which commercial pressures shape the narrative arcs and endings of television dramas.",
+      "Understand the challenges faced by creators of innovative television programming in the contemporary industry."
+    ],
+    "research_subject": "The impact of commercial pressures on the endings of prematurely cancelled television dramas"
+  },
+  "openai_json": {
+    "motivations": [
+      "The commercial climate of contemporary television drama is highly competitive, leading to the premature cancellation of many high-concept dramas.",
+      "There is a need to understand the factors that lead to the success or failure of television dramas in the context of a highly commercialized and fragmented audience."
+    ],
+    "objectives": [
+      "Analyze the factors contributing to the premature withdrawal of high-concept dramas such as Pushing Daisies and Carnivale.",
+      "Examine the impact of commercial pressures and audience fragmentation on the content and form of television drama."
+    ],
+    "methods": [
+      "Conduct a comparative analysis of successful and prematurely cancelled high-concept dramas.",
+      "Investigate the industrial logic of TV3 and its influence on the production and cancellation of television dramas."
+    ],
+    "results": [
+      "Provide insights into the factors contributing to the success or failure of high-concept television dramas.",
+      "Contribute to a better understanding of the impact of commercial pressures and audience fragmentation on television drama."
+    ],
+    "research_subject": "Analysis of premature withdrawal of high-concept television dramas"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Many high-concept television dramas fail commercially despite intelligent writing and passionate followings, creating a Darwinian environment in contemporary television.",
+      "The commercial logic of TV3 creates a paradox where the pursuit of quality and distinctive programming leads to experimentation but also frequent cancellations."
+    ],
+    "objectives": [
+      "Examine the commercial failure and abrupt cancellations of quality television dramas such as Pushing Daisies and Carnivale.",
+      "Analyze how the industrial logic of contemporary television affects the endings and satisfaction of prematurely cancelled shows."
+    ],
+    "methods": [
+      "Comparative analysis of cancelled television dramas against successful counterparts.",
+      "Examination of the industrial and commercial contexts that lead to premature cancellations in high-end television drama."
+    ],
+    "results": [
+      "The risk and expense of producing high-end television drama often results in abrupt cancellations when shows fail to attract diverse and lucrative audiences.",
+      "The pursuit of quality and distinctive programming in TV3 creates both opportunities for creativity and increased vulnerability to commercial failure."
+    ],
+    "research_subject": "Commercial failure and premature cancellation of quality television dramas in contemporary TV production"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Many high-concept television dramas face premature cancellation due to commercial pressures and failure to attract a large audience.\",\n    \"The tension between creative experimentation and commercial viability in the television industry leads to the abrupt cancellation of innovative shows.\"\n  ],\n  \"objectives\": [\n    \"Analyze the impact of commercial pressures on the endings of prematurely cancelled television dramas, specifically Pushing Daisies and Carnivale.\",\n    \"Examine the relationship between creative experimentation and commercial viability in contemporary television drama.\"\n  ],\n  \"methods\": [\n    \"Conduct a case study of Pushing Daisies and Carnivale, examining their narrative structures and endings in the context of commercial cancellation.\",\n    \"Apply theoretical frameworks from television studies to analyze the industrial logic of TV3 and its effects on programming.\"\n  ],\n  \"results\": [\n    \"Gain insight into the ways in which commercial pressures shape the narrative arcs and endings of television dramas.\",\n    \"Understand the challenges faced by creators of innovative television programming in the contemporary industry.\"\n  ],\n  \"research_subject\": \"The impact of commercial pressures on the endings of prematurely cancelled television dramas\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The commercial climate of contemporary television drama is highly competitive, leading to the premature cancellation of many high-concept dramas.\",\n    \"There is a need to understand the factors that lead to the success or failure of television dramas in the context of a highly commercialized and fragmented audience.\"\n  ],\n  \"objectives\": [\n    \"Analyze the factors contributing to the premature withdrawal of high-concept dramas such as Pushing Daisies and Carnivale.\",\n    \"Examine the impact of commercial pressures and audience fragmentation on the content and form of television drama.\"\n  ],\n  \"methods\": [\n    \"Conduct a comparative analysis of successful and prematurely cancelled high-concept dramas.\",\n    \"Investigate the industrial logic of TV3 and its influence on the production and cancellation of television dramas.\"\n  ],\n  \"results\": [\n    \"Provide insights into the factors contributing to the success or failure of high-concept television dramas.\",\n    \"Contribute to a better understanding of the impact of commercial pressures and audience fragmentation on television drama.\"\n  ],\n  \"research_subject\": \"Analysis of premature withdrawal of high-concept television dramas\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Many high-concept television dramas fail commercially despite intelligent writing and passionate followings, creating a Darwinian environment in contemporary television.\",\n    \"The commercial logic of TV3 creates a paradox where the pursuit of quality and distinctive programming leads to experimentation but also frequent cancellations.\"\n  ],\n  \"objectives\": [\n    \"Examine the commercial failure and abrupt cancellations of quality television dramas such as Pushing Daisies and Carnivale.\",\n    \"Analyze how the industrial logic of contemporary television affects the endings and satisfaction of prematurely cancelled shows.\"\n  ],\n  \"methods\": [\n    \"Comparative analysis of cancelled television dramas against successful counterparts.\",\n    \"Examination of the industrial and commercial contexts that lead to premature cancellations in high-end television drama.\"\n  ],\n  \"results\": [\n    \"The risk and expense of producing high-end television drama often results in abrupt cancellations when shows fail to attract diverse and lucrative audiences.\",\n    \"The pursuit of quality and distinctive programming in TV3 creates both opportunities for creativity and increased vulnerability to commercial failure.\"\n  ],\n  \"research_subject\": \"Commercial failure and premature cancellation of quality television dramas in contemporary TV production\"\n}\n```"
+}

@@ -1,0 +1,69 @@
+{
+  "index": 95,
+  "title": "Folic acid linked amino-cellulose for in vitro evaluation of doxorubicin delivery: Synthesis and characterization",
+  "abstract": "In this study, cellulose, a biodegradable polymer, was successfully aminated. For this purpose the cellulose was converted to a bromoacetylated derivative by reaction with bromoacetyl bromide. The resulting bromide derivative was then substituted with azido groups by reaction with sodium azide. Then the azido group was reduced to amines via the formation of the triphenylphosphinimine intermediate followed by hydrolysis using aqueous hydrazine. This sequence produced amino-cellulose. To gain a tumor-targeting doxorubicin (DOX) delivery system, we conjugated an active tumor-targeting ligand, folic acid, to the end of the resulting copolymer (FA-Amino-Cell). The structure of this copolymer was confirmed by FT-IR, UV–Vis, TGA, SEM, and 1H NMR spectroscopy. The SEM images showed that the hydrodynamic dimension of the resulted product is about 40 nm. Moreover, the Release profiles of DOX from the FA-Amino-Cell and its loading capacity were determined by UV–Vis absorption measurement at λmax 483 nm. The results showed that the DOX loaded copolymer had good control on the release period of DOX. So, it seems that the FA-Amino-Cell is a potential candidate for the targeted delivery of DOX for cancer treatment.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for targeted and controlled delivery systems for cancer treatment, particularly for drugs like doxorubicin.",
+      "Current delivery systems may lack specificity and controlled release, leading to reduced efficacy and increased side effects."
+    ],
+    "objectives": [
+      "Synthesize and characterize a novel folic acid linked amino-cellulose (FA-Amino-Cell) copolymer for targeted doxorubicin delivery.",
+      "Evaluate the potential of FA-Amino-Cell as a controlled release system for doxorubicin in cancer treatment."
+    ],
+    "methods": [
+      "Develop a multi-step synthesis process to create amino-cellulose from cellulose.",
+      "Conjugate folic acid to the amino-cellulose copolymer to create a tumor-targeting delivery system.",
+      "Characterize the structure and properties of the FA-Amino-Cell copolymer using various spectroscopic and microscopic techniques."
+    ],
+    "results": [
+      "Successful synthesis and characterization of the FA-Amino-Cell copolymer with a hydrodynamic dimension of approximately 40 nm.",
+      "The FA-Amino-Cell copolymer demonstrated controlled release of doxorubicin, indicating its potential as a targeted delivery system for cancer treatment."
+    ],
+    "research_subject": "Synthesis and characterization of folic acid linked amino-cellulose for targeted doxorubicin delivery"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a biodegradable, tumor-targeting delivery system for doxorubicin (DOX), a drug used in cancer treatment.",
+      "Cellulose, a biodegradable polymer, has potential as a base for such a delivery system, but requires modification."
+    ],
+    "objectives": [
+      "Aminate cellulose and conjugate it with folic acid to create a tumor-targeting DOX delivery system (FA-Amino-Cell).",
+      "Confirm the structure of the resulting copolymer and determine its DOX loading capacity and release profiles."
+    ],
+    "methods": [
+      "Convert cellulose to a bromoacetylated derivative, substitute the resulting bromide derivative with azido groups, and reduce the azido group to amines to produce amino-cellulose.",
+      "Conjugate the amino-cellulose with folic acid to create the FA-Amino-Cell copolymer.",
+      "Use FT-IR, UV–Vis, TGA, SEM, and 1H NMR spectroscopy to confirm the structure of the copolymer, and UV–Vis absorption measurement to determine DOX loading capacity and release profiles."
+    ],
+    "results": [
+      "The FA-Amino-Cell copolymer was successfully synthesized and its structure confirmed.",
+      "The copolymer showed good control over the release period of DOX, indicating its potential as a targeted delivery system for cancer treatment."
+    ],
+    "research_subject": "Synthesis and characterization of a folic acid linked amino-cellulose for doxorubicin delivery"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for biodegradable and tumor-targeting drug delivery systems for effective cancer treatment.",
+      "Conventional drug delivery methods lack specificity and controlled release capabilities for chemotherapeutic agents like doxorubicin."
+    ],
+    "objectives": [
+      "Develop a tumor-targeting doxorubicin delivery system by synthesizing folic acid-conjugated amino-cellulose.",
+      "Evaluate the drug loading capacity and controlled release properties of the synthesized copolymer for cancer treatment applications."
+    ],
+    "methods": [
+      "Synthesize amino-cellulose through bromoacetylation, azidation, and reduction of cellulose polymer.",
+      "Conjugate folic acid to amino-cellulose to create a tumor-targeting delivery system.",
+      "Characterize the copolymer structure using FT-IR, UV-Vis, TGA, SEM, and 1H NMR spectroscopy."
+    ],
+    "results": [
+      "Successfully synthesized folic acid-conjugated amino-cellulose with a hydrodynamic dimension of approximately 40 nm.",
+      "The DOX-loaded copolymer demonstrated good control over drug release periods, indicating potential for targeted cancer therapy.",
+      "The FA-Amino-Cell system showed promise as a biodegradable platform for targeted doxorubicin delivery."
+    ],
+    "research_subject": "Folic acid-conjugated amino-cellulose for targeted doxorubicin delivery in cancer treatment"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for targeted and controlled delivery systems for cancer treatment, particularly for drugs like doxorubicin.\",\n    \"Current delivery systems may lack specificity and controlled release, leading to reduced efficacy and increased side effects.\"\n  ],\n  \"objectives\": [\n    \"Synthesize and characterize a novel folic acid linked amino-cellulose (FA-Amino-Cell) copolymer for targeted doxorubicin delivery.\",\n    \"Evaluate the potential of FA-Amino-Cell as a controlled release system for doxorubicin in cancer treatment.\"\n  ],\n  \"methods\": [\n    \"Develop a multi-step synthesis process to create amino-cellulose from cellulose.\",\n    \"Conjugate folic acid to the amino-cellulose copolymer to create a tumor-targeting delivery system.\",\n    \"Characterize the structure and properties of the FA-Amino-Cell copolymer using various spectroscopic and microscopic techniques.\"\n  ],\n  \"results\": [\n    \"Successful synthesis and characterization of the FA-Amino-Cell copolymer with a hydrodynamic dimension of approximately 40 nm.\",\n    \"The FA-Amino-Cell copolymer demonstrated controlled release of doxorubicin, indicating its potential as a targeted delivery system for cancer treatment.\"\n  ],\n  \"research_subject\": \"Synthesis and characterization of folic acid linked amino-cellulose for targeted doxorubicin delivery\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a biodegradable, tumor-targeting delivery system for doxorubicin (DOX), a drug used in cancer treatment.\",\n    \"Cellulose, a biodegradable polymer, has potential as a base for such a delivery system, but requires modification.\"\n  ],\n  \"objectives\": [\n    \"Aminate cellulose and conjugate it with folic acid to create a tumor-targeting DOX delivery system (FA-Amino-Cell).\",\n    \"Confirm the structure of the resulting copolymer and determine its DOX loading capacity and release profiles.\"\n  ],\n  \"methods\": [\n    \"Convert cellulose to a bromoacetylated derivative, substitute the resulting bromide derivative with azido groups, and reduce the azido group to amines to produce amino-cellulose.\",\n    \"Conjugate the amino-cellulose with folic acid to create the FA-Amino-Cell copolymer.\",\n    \"Use FT-IR, UV–Vis, TGA, SEM, and 1H NMR spectroscopy to confirm the structure of the copolymer, and UV–Vis absorption measurement to determine DOX loading capacity and release profiles.\"\n  ],\n  \"results\": [\n    \"The FA-Amino-Cell copolymer was successfully synthesized and its structure confirmed.\",\n    \"The copolymer showed good control over the release period of DOX, indicating its potential as a targeted delivery system for cancer treatment.\"\n  ],\n  \"research_subject\": \"Synthesis and characterization of a folic acid linked amino-cellulose for doxorubicin delivery\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for biodegradable and tumor-targeting drug delivery systems for effective cancer treatment.\",\n    \"Conventional drug delivery methods lack specificity and controlled release capabilities for chemotherapeutic agents like doxorubicin.\"\n  ],\n  \"objectives\": [\n    \"Develop a tumor-targeting doxorubicin delivery system by synthesizing folic acid-conjugated amino-cellulose.\",\n    \"Evaluate the drug loading capacity and controlled release properties of the synthesized copolymer for cancer treatment applications.\"\n  ],\n  \"methods\": [\n    \"Synthesize amino-cellulose through bromoacetylation, azidation, and reduction of cellulose polymer.\",\n    \"Conjugate folic acid to amino-cellulose to create a tumor-targeting delivery system.\",\n    \"Characterize the copolymer structure using FT-IR, UV-Vis, TGA, SEM, and 1H NMR spectroscopy.\"\n  ],\n  \"results\": [\n    \"Successfully synthesized folic acid-conjugated amino-cellulose with a hydrodynamic dimension of approximately 40 nm.\",\n    \"The DOX-loaded copolymer demonstrated good control over drug release periods, indicating potential for targeted cancer therapy.\",\n    \"The FA-Amino-Cell system showed promise as a biodegradable platform for targeted doxorubicin delivery.\"\n  ],\n  \"research_subject\": \"Folic acid-conjugated amino-cellulose for targeted doxorubicin delivery in cancer treatment\"\n}\n```"
+}

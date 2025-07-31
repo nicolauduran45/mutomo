@@ -1,0 +1,71 @@
+{
+  "index": 335,
+  "title": "Interoperable tools for an efficient management and effective planning of the electricity grid",
+  "abstract": "The transition towards a low-carbon economy is significantly transforming the power system from a unidirectional, centralised and fossil-based system towards a bidirectional, distributed and renewable-based one. In this context, DSOs and TSOs are facing more complex grid operations, including challenges like reverse power flows, additional power flows in transmission systems and grid stability issues. Available tools for grid management in this changing environment have often underperformed for several reasons (e.g. unavailability of grid models, data management restrictions, use of conventional approaches to the application algorithms, etc.).  INTERPRETER will overcome limitations of existing tools through a modular grid management solution consisting of a set of 10 software applications for an optimal design, planning, operation and maintenance of the electricity grid – with a special focus on the distribution network – that will be offered to grid operators through an open-source interoperable platform. These tools will support DSOs and TSOs to move from a traditional grid management approach to an active system management approach, considering the rapid deployment of distributed energy resources as well as growing environmental concerns.  INTERPRETER activities will be conducted by a strong and well-balanced consortium composed by 5 RTOs, 2 DSOs, 1 SW developer company leader in its sector and 1 SME specialised in communication & dissemination. The project includes an ambitious validation phase, in which the solutions will be tested in 3 pilots in Belgium, Denmark and Spain, thus ensuring a high replicability across Europe. Overall, the project aims to achieve an annual economic impact in the project pilots from investment deferrals of 36.6 M€ due to the remuneration of assets and of 28.15 M€ due to the amortisation of the capacity assets, as well as a recovery of 665,576 € from non-technical losses detection and 11,422 € from reduced outage frequency.",
+  "llama_json": {
+    "motivations": [
+      "The transition to a low-carbon economy is transforming the power system, creating complex grid operations and challenges for Distribution System Operators (DSOs) and Transmission System Operators (TSOs).",
+      "Existing tools for grid management have limitations, such as unavailability of grid models, data management restrictions, and conventional approaches to application algorithms."
+    ],
+    "objectives": [
+      "Develop a modular grid management solution consisting of software applications for optimal design, planning, operation, and maintenance of the electricity grid.",
+      "Support DSOs and TSOs in moving from traditional grid management to active system management, considering distributed energy resources and environmental concerns.",
+      "Validate the solutions through pilots in Belgium, Denmark, and Spain to ensure replicability across Europe."
+    ],
+    "methods": [
+      "Create a set of 10 software applications for grid management, offered through an open-source interoperable platform.",
+      "Conduct an ambitious validation phase, testing the solutions in three pilots to ensure high replicability.",
+      "Collaborate through a strong and well-balanced consortium of RTOs, DSOs, a software developer company, and an SME specialized in communication and dissemination."
+    ],
+    "results": [
+      "Achieve an annual economic impact of 36.6 M€ from investment deferrals due to asset remuneration and 28.15 M€ from capacity asset amortisation.",
+      "Recover 665,576 € from non-technical losses detection and 11,422 € from reduced outage frequency.",
+      "Enhance grid management efficiency and effectiveness, supporting the transition to a low-carbon economy."
+    ],
+    "research_subject": "Development of interoperable tools for efficient management and planning of the electricity grid"
+  },
+  "openai_json": {
+    "motivations": [
+      "The transition to a low-carbon economy is transforming the power system, leading to more complex grid operations and challenges such as reverse power flows and grid stability issues.",
+      "Existing tools for grid management often underperform due to reasons such as unavailability of grid models, data management restrictions, and conventional approaches to application algorithms."
+    ],
+    "objectives": [
+      "Develop a modular grid management solution consisting of 10 software applications for optimal design, planning, operation, and maintenance of the electricity grid.",
+      "Support DSOs and TSOs in transitioning from a traditional grid management approach to an active system management approach, considering the rapid deployment of distributed energy resources and growing environmental concerns."
+    ],
+    "methods": [
+      "Create an open-source interoperable platform offering a set of software applications for efficient grid management.",
+      "Conduct a validation phase where the solutions will be tested in three pilots in Belgium, Denmark, and Spain."
+    ],
+    "results": [
+      "Achieve an annual economic impact in the project pilots from investment deferrals and recovery from non-technical losses detection and reduced outage frequency.",
+      "Enable DSOs and TSOs to effectively manage and plan the electricity grid in a low-carbon economy."
+    ],
+    "research_subject": "Interoperable tools for efficient management and effective planning of the electricity grid"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The transition to a low-carbon economy is creating complex challenges for grid operators, including reverse power flows, transmission system stability issues, and the integration of distributed renewable energy resources.",
+      "Existing grid management tools have significant limitations due to unavailable grid models, data management restrictions, and reliance on conventional approaches that cannot handle the bidirectional, distributed nature of modern power systems."
+    ],
+    "objectives": [
+      "Develop a modular grid management solution consisting of 10 interoperable software applications for optimal design, planning, operation, and maintenance of electricity grids.",
+      "Enable DSOs and TSOs to transition from traditional grid management to active system management approaches that can effectively handle distributed energy resources.",
+      "Create an open-source interoperable platform that overcomes the limitations of existing grid management tools."
+    ],
+    "methods": [
+      "Design and implement a set of 10 software applications integrated into an open-source interoperable platform for grid management.",
+      "Conduct validation through pilot implementations in Belgium, Denmark, and Spain to ensure replicability across Europe.",
+      "Employ a consortium approach combining research organizations, distribution system operators, software developers, and communication specialists."
+    ],
+    "results": [
+      "Achieve annual economic impacts including 36.6 M€ from investment deferrals due to asset remuneration and 28.15 M€ from capacity asset amortization.",
+      "Enable recovery of 665,576 € from non-technical losses detection and 11,422 € from reduced outage frequency.",
+      "Provide grid operators with effective tools to manage the complexities of modern, renewable-based electricity systems."
+    ],
+    "research_subject": "Development of interoperable software tools for efficient electricity grid management in the context of renewable energy transition"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The transition to a low-carbon economy is transforming the power system, creating complex grid operations and challenges for Distribution System Operators (DSOs) and Transmission System Operators (TSOs).\",\n    \"Existing tools for grid management have limitations, such as unavailability of grid models, data management restrictions, and conventional approaches to application algorithms.\"\n  ],\n  \"objectives\": [\n    \"Develop a modular grid management solution consisting of software applications for optimal design, planning, operation, and maintenance of the electricity grid.\",\n    \"Support DSOs and TSOs in moving from traditional grid management to active system management, considering distributed energy resources and environmental concerns.\",\n    \"Validate the solutions through pilots in Belgium, Denmark, and Spain to ensure replicability across Europe.\"\n  ],\n  \"methods\": [\n    \"Create a set of 10 software applications for grid management, offered through an open-source interoperable platform.\",\n    \"Conduct an ambitious validation phase, testing the solutions in three pilots to ensure high replicability.\",\n    \"Collaborate through a strong and well-balanced consortium of RTOs, DSOs, a software developer company, and an SME specialized in communication and dissemination.\"\n  ],\n  \"results\": [\n    \"Achieve an annual economic impact of 36.6 M€ from investment deferrals due to asset remuneration and 28.15 M€ from capacity asset amortisation.\",\n    \"Recover 665,576 € from non-technical losses detection and 11,422 € from reduced outage frequency.\",\n    \"Enhance grid management efficiency and effectiveness, supporting the transition to a low-carbon economy.\"\n  ],\n  \"research_subject\": \"Development of interoperable tools for efficient management and planning of the electricity grid\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The transition to a low-carbon economy is transforming the power system, leading to more complex grid operations and challenges such as reverse power flows and grid stability issues.\",\n    \"Existing tools for grid management often underperform due to reasons such as unavailability of grid models, data management restrictions, and conventional approaches to application algorithms.\"\n  ],\n  \"objectives\": [\n    \"Develop a modular grid management solution consisting of 10 software applications for optimal design, planning, operation, and maintenance of the electricity grid.\",\n    \"Support DSOs and TSOs in transitioning from a traditional grid management approach to an active system management approach, considering the rapid deployment of distributed energy resources and growing environmental concerns.\"\n  ],\n  \"methods\": [\n    \"Create an open-source interoperable platform offering a set of software applications for efficient grid management.\",\n    \"Conduct a validation phase where the solutions will be tested in three pilots in Belgium, Denmark, and Spain.\"\n  ],\n  \"results\": [\n    \"Achieve an annual economic impact in the project pilots from investment deferrals and recovery from non-technical losses detection and reduced outage frequency.\",\n    \"Enable DSOs and TSOs to effectively manage and plan the electricity grid in a low-carbon economy.\"\n  ],\n  \"research_subject\": \"Interoperable tools for efficient management and effective planning of the electricity grid\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The transition to a low-carbon economy is creating complex challenges for grid operators, including reverse power flows, transmission system stability issues, and the integration of distributed renewable energy resources.\",\n    \"Existing grid management tools have significant limitations due to unavailable grid models, data management restrictions, and reliance on conventional approaches that cannot handle the bidirectional, distributed nature of modern power systems.\"\n  ],\n  \"objectives\": [\n    \"Develop a modular grid management solution consisting of 10 interoperable software applications for optimal design, planning, operation, and maintenance of electricity grids.\",\n    \"Enable DSOs and TSOs to transition from traditional grid management to active system management approaches that can effectively handle distributed energy resources.\",\n    \"Create an open-source interoperable platform that overcomes the limitations of existing grid management tools.\"\n  ],\n  \"methods\": [\n    \"Design and implement a set of 10 software applications integrated into an open-source interoperable platform for grid management.\",\n    \"Conduct validation through pilot implementations in Belgium, Denmark, and Spain to ensure replicability across Europe.\",\n    \"Employ a consortium approach combining research organizations, distribution system operators, software developers, and communication specialists.\"\n  ],\n  \"results\": [\n    \"Achieve annual economic impacts including 36.6 M€ from investment deferrals due to asset remuneration and 28.15 M€ from capacity asset amortization.\",\n    \"Enable recovery of 665,576 € from non-technical losses detection and 11,422 € from reduced outage frequency.\",\n    \"Provide grid operators with effective tools to manage the complexities of modern, renewable-based electricity systems.\"\n  ],\n  \"research_subject\": \"Development of interoperable software tools for efficient electricity grid management in the context of renewable energy transition\"\n}\n```"
+}

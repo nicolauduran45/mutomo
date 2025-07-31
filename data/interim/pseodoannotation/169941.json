@@ -1,0 +1,75 @@
+{
+  "index": 168,
+  "title": "Robotic assistant for mci patients at home",
+  "abstract": "RAMCIP will research and develop a novel domestic service robot, with the aim to proactively and discreetly assist older persons, MCI and AD patients in their every day life. Instead of simply being an obedient servant, the RAMCIP robot will have high-level cognitive functions, driven through advanced human activity and home environment modelling and monitoring, enabling it to optimally decide when and how to assist. The robot will provide subtle physical and cognitive user skills training, by maintaining an optimal balance between physical assistance provision and user stimulation to act. The cognitive functions will orchestrate an ensemble of advanced lower-level mechanisms, enabling the robot to (a) communicate with the user and (b) establish dextrous and safe robotic manipulations. Communication will be based on multimodal interfaces, adapted and fused so as to meet the current user’s needs and interaction context. Apart from touch-screen, speech and gestural modalities, RAMCIP will incorporate an augmented reality display, as well as an underlying empathic communication channel, allowing it to sense user affect and moderate it. In the context of robotic manipulations, RAMCIP will introduce advanced dexterity in service robots for assisted living environments; the robot will employ a sophisticated anthropomorphic hand, manipulated though novel grasping and dexterity algorithms, being capable to grasp and manipulate a variety of objects in realistic user homes, supporting also safe handover. Safety will be a major research focus. By establishing safe and dextrous manipulations, emphasis will be paid on physical HRI, enabling novel assistance scenarios that will involve physical contact between the user and the robot. Through multi-faceted proactive assistance enabled through all the above, RAMCIP will advance user independency and quality of life of its user. The robot will be evaluated in two pilot sites that will be deployed in two countries.",
+  "llama_json": {
+    "motivations": [
+      "Older persons, MCI and AD patients face challenges in their daily lives and require proactive and discreet assistance to maintain their independence and quality of life.",
+      "Current domestic service robots lack high-level cognitive functions and advanced human activity and home environment modelling, limiting their ability to provide optimal assistance."
+    ],
+    "objectives": [
+      "Develop a novel domestic service robot that can proactively and discreetly assist older persons, MCI and AD patients in their daily lives.",
+      "Enable the robot to provide subtle physical and cognitive user skills training and maintain an optimal balance between physical assistance provision and user stimulation to act.",
+      "Advance user independency and quality of life through multi-faceted proactive assistance."
+    ],
+    "methods": [
+      "Implement advanced human activity and home environment modelling and monitoring to drive high-level cognitive functions in the robot.",
+      "Develop multimodal interfaces, including touch-screen, speech, gestural modalities, augmented reality display, and empathic communication channel, to enable effective communication with the user.",
+      "Employ a sophisticated anthropomorphic hand and novel grasping and dexterity algorithms to enable safe and dextrous robotic manipulations."
+    ],
+    "results": [
+      "Enhance user independency and quality of life through proactive and discreet assistance.",
+      "Provide subtle physical and cognitive user skills training to maintain an optimal balance between physical assistance provision and user stimulation to act.",
+      "Advance safe and dextrous manipulations in service robots for assisted living environments."
+    ],
+    "research_subject": "Development of a robotic assistant for MCI patients at home with advanced cognitive functions and safe robotic manipulations"
+  },
+  "openai_json": {
+    "motivations": [
+      "Older persons, MCI and AD patients require proactive and discreet assistance in their everyday life.",
+      "There is a need for a service robot with high-level cognitive functions that can optimally decide when and how to assist.",
+      "Current robotic assistants lack advanced dexterity and safe manipulation capabilities for realistic home environments."
+    ],
+    "objectives": [
+      "Develop a domestic service robot with advanced cognitive functions to assist older persons and patients with MCI and AD.",
+      "Implement multimodal interfaces for communication, including an augmented reality display and an empathic communication channel.",
+      "Ensure safe and dextrous manipulations, enabling novel assistance scenarios involving physical contact between the user and the robot."
+    ],
+    "methods": [
+      "Use advanced human activity and home environment modelling and monitoring to drive the robot's cognitive functions.",
+      "Employ a sophisticated anthropomorphic hand, manipulated through novel grasping and dexterity algorithms, for object manipulation and safe handover.",
+      "Evaluate the robot in two pilot sites deployed in two different countries."
+    ],
+    "results": [
+      "Enhance user independency and quality of life of older persons and patients with MCI and AD.",
+      "Enable safe and dextrous manipulations in realistic home environments.",
+      "Improve communication with users through multimodal interfaces and empathic communication channels."
+    ],
+    "research_subject": "Development of a domestic service robot with advanced cognitive functions for assisting older persons and MCI and AD patients"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Older persons, MCI and AD patients require assistance in daily life activities while maintaining their independence and quality of life.",
+      "Current assistive technologies lack the cognitive capabilities to proactively determine when and how to provide optimal assistance without being overly intrusive."
+    ],
+    "objectives": [
+      "Develop a domestic service robot with high-level cognitive functions that can proactively and discreetly assist older persons, MCI and AD patients.",
+      "Create a robot that maintains optimal balance between providing physical assistance and stimulating users to act independently.",
+      "Enable safe and dexterous robotic manipulations with advanced communication capabilities adapted to user needs."
+    ],
+    "methods": [
+      "Implement advanced human activity and home environment modeling and monitoring to enable cognitive decision-making.",
+      "Develop multimodal communication interfaces including touch-screen, speech, gestures, augmented reality, and empathic communication channels.",
+      "Design sophisticated anthropomorphic hand with novel grasping and dexterity algorithms for safe object manipulation and handover."
+    ],
+    "results": [
+      "Enhanced independence and quality of life for older persons, MCI and AD patients through proactive robotic assistance.",
+      "Successful deployment and evaluation of the robot in pilot sites across two countries.",
+      "Advanced capabilities in safe physical human-robot interaction and dexterous manipulation in realistic home environments."
+    ],
+    "research_subject": "Cognitive service robot for assisting MCI and AD patients in domestic environments"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Older persons, MCI and AD patients face challenges in their daily lives and require proactive and discreet assistance to maintain their independence and quality of life.\",\n    \"Current domestic service robots lack high-level cognitive functions and advanced human activity and home environment modelling, limiting their ability to provide optimal assistance.\"\n  ],\n  \"objectives\": [\n    \"Develop a novel domestic service robot that can proactively and discreetly assist older persons, MCI and AD patients in their daily lives.\",\n    \"Enable the robot to provide subtle physical and cognitive user skills training and maintain an optimal balance between physical assistance provision and user stimulation to act.\",\n    \"Advance user independency and quality of life through multi-faceted proactive assistance.\"\n  ],\n  \"methods\": [\n    \"Implement advanced human activity and home environment modelling and monitoring to drive high-level cognitive functions in the robot.\",\n    \"Develop multimodal interfaces, including touch-screen, speech, gestural modalities, augmented reality display, and empathic communication channel, to enable effective communication with the user.\",\n    \"Employ a sophisticated anthropomorphic hand and novel grasping and dexterity algorithms to enable safe and dextrous robotic manipulations.\"\n  ],\n  \"results\": [\n    \"Enhance user independency and quality of life through proactive and discreet assistance.\",\n    \"Provide subtle physical and cognitive user skills training to maintain an optimal balance between physical assistance provision and user stimulation to act.\",\n    \"Advance safe and dextrous manipulations in service robots for assisted living environments.\"\n  ],\n  \"research_subject\": \"Development of a robotic assistant for MCI patients at home with advanced cognitive functions and safe robotic manipulations\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Older persons, MCI and AD patients require proactive and discreet assistance in their everyday life.\",\n    \"There is a need for a service robot with high-level cognitive functions that can optimally decide when and how to assist.\",\n    \"Current robotic assistants lack advanced dexterity and safe manipulation capabilities for realistic home environments.\"\n  ],\n  \"objectives\": [\n    \"Develop a domestic service robot with advanced cognitive functions to assist older persons and patients with MCI and AD.\",\n    \"Implement multimodal interfaces for communication, including an augmented reality display and an empathic communication channel.\",\n    \"Ensure safe and dextrous manipulations, enabling novel assistance scenarios involving physical contact between the user and the robot.\"\n  ],\n  \"methods\": [\n    \"Use advanced human activity and home environment modelling and monitoring to drive the robot's cognitive functions.\",\n    \"Employ a sophisticated anthropomorphic hand, manipulated through novel grasping and dexterity algorithms, for object manipulation and safe handover.\",\n    \"Evaluate the robot in two pilot sites deployed in two different countries.\"\n  ],\n  \"results\": [\n    \"Enhance user independency and quality of life of older persons and patients with MCI and AD.\",\n    \"Enable safe and dextrous manipulations in realistic home environments.\",\n    \"Improve communication with users through multimodal interfaces and empathic communication channels.\"\n  ],\n  \"research_subject\": \"Development of a domestic service robot with advanced cognitive functions for assisting older persons and MCI and AD patients\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Older persons, MCI and AD patients require assistance in daily life activities while maintaining their independence and quality of life.\",\n    \"Current assistive technologies lack the cognitive capabilities to proactively determine when and how to provide optimal assistance without being overly intrusive.\"\n  ],\n  \"objectives\": [\n    \"Develop a domestic service robot with high-level cognitive functions that can proactively and discreetly assist older persons, MCI and AD patients.\",\n    \"Create a robot that maintains optimal balance between providing physical assistance and stimulating users to act independently.\",\n    \"Enable safe and dexterous robotic manipulations with advanced communication capabilities adapted to user needs.\"\n  ],\n  \"methods\": [\n    \"Implement advanced human activity and home environment modeling and monitoring to enable cognitive decision-making.\",\n    \"Develop multimodal communication interfaces including touch-screen, speech, gestures, augmented reality, and empathic communication channels.\",\n    \"Design sophisticated anthropomorphic hand with novel grasping and dexterity algorithms for safe object manipulation and handover.\"\n  ],\n  \"results\": [\n    \"Enhanced independence and quality of life for older persons, MCI and AD patients through proactive robotic assistance.\",\n    \"Successful deployment and evaluation of the robot in pilot sites across two countries.\",\n    \"Advanced capabilities in safe physical human-robot interaction and dexterous manipulation in realistic home environments.\"\n  ],\n  \"research_subject\": \"Cognitive service robot for assisting MCI and AD patients in domestic environments\"\n}\n```"
+}

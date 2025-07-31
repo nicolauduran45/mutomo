@@ -1,0 +1,65 @@
+{
+  "index": 395,
+  "title": "NEW DRYING PLANT FOR INCREASING PRODUCTION CAPACITY",
+  "abstract": "EXPANSION OF PRODUCTION CAPACITY THROUGH THE PURCHASE OF A NEW DRYING PLANT. INSTALLATION OF A COGENERATOR FOR A MORE EFFICIENT PRODUCTION OF ELECTRICITY AND THERMAL ENERGY IN ORDER TO REDUCE PRODUCTION COSTS AND ENVIRONMENTAL POLLUTION",
+  "llama_json": {
+    "motivations": [
+      "The current production capacity is insufficient and needs to be increased.",
+      "The existing production process is not energy-efficient and results in high production costs and environmental pollution."
+    ],
+    "objectives": [
+      "Increase production capacity through the acquisition of a new drying plant.",
+      "Improve energy efficiency and reduce production costs and environmental pollution by installing a cogenerator."
+    ],
+    "methods": [
+      "Purchase and install a new drying plant to expand production capacity.",
+      "Implement a cogenerator to produce electricity and thermal energy more efficiently."
+    ],
+    "results": [
+      "Increased production capacity to meet growing demands.",
+      "Reduced production costs and environmental pollution through improved energy efficiency."
+    ],
+    "research_subject": "Expansion of production capacity through efficient drying and energy generation"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to increase production capacity.",
+      "There is a need for more efficient production of electricity and thermal energy to reduce costs and environmental pollution."
+    ],
+    "objectives": [
+      "Expand production capacity through the purchase of a new drying plant.",
+      "Install a cogenerator for more efficient production of electricity and thermal energy."
+    ],
+    "methods": [
+      "Purchase and installation of a new drying plant to increase production capacity.",
+      "Installation of a cogenerator for efficient production of electricity and thermal energy."
+    ],
+    "results": [
+      "Increased production capacity through the new drying plant.",
+      "Reduced production costs and environmental pollution through efficient production of electricity and thermal energy."
+    ],
+    "research_subject": "Increasing production capacity through new drying plant and cogenerator installation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current production capacity is insufficient and needs to be expanded to meet demand.",
+      "Production costs are high and environmental pollution needs to be reduced through more efficient energy generation."
+    ],
+    "objectives": [
+      "Increase production capacity through the installation of a new drying plant.",
+      "Reduce production costs and environmental pollution by implementing a cogeneration system for efficient electricity and thermal energy production."
+    ],
+    "methods": [
+      "Purchase and install a new drying plant to expand production capabilities.",
+      "Install a cogenerator system to produce electricity and thermal energy more efficiently."
+    ],
+    "results": [
+      "Expanded production capacity through the new drying plant installation.",
+      "Reduced production costs and lower environmental pollution through efficient cogeneration of electricity and thermal energy."
+    ],
+    "research_subject": "Industrial production capacity expansion and energy efficiency improvement"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The current production capacity is insufficient and needs to be increased.\",\n    \"The existing production process is not energy-efficient and results in high production costs and environmental pollution.\"\n  ],\n  \"objectives\": [\n    \"Increase production capacity through the acquisition of a new drying plant.\",\n    \"Improve energy efficiency and reduce production costs and environmental pollution by installing a cogenerator.\"\n  ],\n  \"methods\": [\n    \"Purchase and install a new drying plant to expand production capacity.\",\n    \"Implement a cogenerator to produce electricity and thermal energy more efficiently.\"\n  ],\n  \"results\": [\n    \"Increased production capacity to meet growing demands.\",\n    \"Reduced production costs and environmental pollution through improved energy efficiency.\"\n  ],\n  \"research_subject\": \"Expansion of production capacity through efficient drying and energy generation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to increase production capacity.\",\n    \"There is a need for more efficient production of electricity and thermal energy to reduce costs and environmental pollution.\"\n  ],\n  \"objectives\": [\n    \"Expand production capacity through the purchase of a new drying plant.\",\n    \"Install a cogenerator for more efficient production of electricity and thermal energy.\"\n  ],\n  \"methods\": [\n    \"Purchase and installation of a new drying plant to increase production capacity.\",\n    \"Installation of a cogenerator for efficient production of electricity and thermal energy.\"\n  ],\n  \"results\": [\n    \"Increased production capacity through the new drying plant.\",\n    \"Reduced production costs and environmental pollution through efficient production of electricity and thermal energy.\"\n  ],\n  \"research_subject\": \"Increasing production capacity through new drying plant and cogenerator installation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current production capacity is insufficient and needs to be expanded to meet demand.\",\n    \"Production costs are high and environmental pollution needs to be reduced through more efficient energy generation.\"\n  ],\n  \"objectives\": [\n    \"Increase production capacity through the installation of a new drying plant.\",\n    \"Reduce production costs and environmental pollution by implementing a cogeneration system for efficient electricity and thermal energy production.\"\n  ],\n  \"methods\": [\n    \"Purchase and install a new drying plant to expand production capabilities.\",\n    \"Install a cogenerator system to produce electricity and thermal energy more efficiently.\"\n  ],\n  \"results\": [\n    \"Expanded production capacity through the new drying plant installation.\",\n    \"Reduced production costs and lower environmental pollution through efficient cogeneration of electricity and thermal energy.\"\n  ],\n  \"research_subject\": \"Industrial production capacity expansion and energy efficiency improvement\"\n}\n```"
+}

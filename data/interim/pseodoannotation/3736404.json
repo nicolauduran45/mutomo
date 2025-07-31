@@ -1,0 +1,76 @@
+{
+  "index": 23,
+  "title": "The eu migration/refugee crisis and border security: a contribution to theory and practice through the case of hungarian-serb border policing practices",
+  "abstract": "In 2015 more than 1 million refugees and migrants entered Europe largely from conflict-ridden states such as Syria, Iraq and Afghanistan. The Hungarian government single-handedly decided to stop the migration by building a barbwire wall along the Hungarian-Serb border. Many observers agree that building the fence was primarily a domestic political act to help the Prime Minister Viktor Orbán and his party Fidesz to gain the far-right vote in support of his and his party’s re-election. Nonetheless, his landslide victory, predictably won on a populist ticket rallying against migrants and Muslims in April 2018, together with media and NGO reports on the treatment of migrants and refugees seemed to suggest to the outside world that the Hungarians were predominantly right-leaning, anti-migrant people who lack humanitarian compassion and are thus different from other Europeans. As my preliminary findings of exploratory research at the Hungarian-Serb border in summer 2018 suggest, however, the situation is much more nuanced. There is a substantial gap between the border police, local policing organisations, the local border communities, on the one hand, and local and national politicians, and the international media perception of the events and the Hungarian migration/refugee crisis and border security management, on the other. At the theoretical level, this raises a larger issue in security studies: how does securitizing work in practice? Taking securitization practices seriously through focusing on everyday performances of security, this project aims to analyse (1) how communities manage security concerns locally (especially when these concerns are ignored in the national or international spheres); (2) how local security concerns are mobilised elsewhere for political gains; and (3) how mistrust between communities is generated locally, nationally and internationally in order to explain the de-facto re-militarised EU border.",
+  "llama_json": {
+    "motivations": [
+      "The 2015 European migration/refugee crisis highlighted the need for effective border security management and raised questions about the securitization practices of governments.",
+      "There is a gap in understanding between the perceptions of local communities, national politicians, and international media regarding migration and border security issues."
+    ],
+    "objectives": [
+      "Analyze how local communities manage security concerns, especially when they are ignored at the national or international level.",
+      "Examine how local security concerns are mobilized for political gains elsewhere.",
+      "Investigate how mistrust between communities is generated locally, nationally, and internationally to explain the re-militarization of EU borders."
+    ],
+    "methods": [
+      "Conduct exploratory research at the Hungarian-Serb border to gather data on local policing practices and community perceptions.",
+      "Focus on everyday performances of security to understand securitization practices in practice.",
+      "Analyze the gap between local, national, and international perceptions of migration and border security issues."
+    ],
+    "results": [
+      "Provide a nuanced understanding of the complexities of border security management and securitization practices.",
+      "Highlight the importance of considering local community perspectives in understanding security concerns and migration issues.",
+      "Contribute to the development of security studies theory by examining the practical applications of securitization."
+    ],
+    "research_subject": "Securitization practices and border security management in the context of the EU migration/refugee crisis"
+  },
+  "openai_json": {
+    "motivations": [
+      "The 2015 European migration/refugee crisis, particularly the Hungarian government's response, has raised questions about border security practices and their implications on local and international perceptions.",
+      "There is a need to understand the gap between the actions of border police, local policing organizations, local border communities, and the perceptions of local and national politicians and international media.",
+      "The situation calls for a deeper understanding of how securitization works in practice, especially in the context of local communities and their security concerns."
+    ],
+    "objectives": [
+      "Analyze how communities manage security concerns locally, especially when these concerns are ignored in the national or international spheres.",
+      "Investigate how local security concerns are mobilized elsewhere for political gains.",
+      "Understand how mistrust between communities is generated locally, nationally and internationally, contributing to the de-facto re-militarized EU border."
+    ],
+    "methods": [
+      "Conduct exploratory research at the Hungarian-Serb border to gather firsthand data and insights.",
+      "Focus on everyday performances of security to understand securitization practices.",
+      "Analyze the mobilization of local security concerns for political gains and the generation of mistrust between communities."
+    ],
+    "results": [
+      "Provide a nuanced understanding of the Hungarian migration/refugee crisis and border security management.",
+      "Contribute to the theory of how securitization works in practice.",
+      "Explain the de-facto re-militarization of the EU border."
+    ],
+    "research_subject": "Securitization practices and border security in the context of the EU migration/refugee crisis"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The 2015 European migration crisis and Hungary's border wall construction raise questions about the gap between political rhetoric and actual border security practices.",
+      "There is a need to understand how securitization works in practice beyond political discourse, particularly at the local community level.",
+      "The disconnect between local border communities' experiences and national/international perceptions of Hungarian migration management requires investigation."
+    ],
+    "objectives": [
+      "Analyze how local communities manage security concerns, especially when these differ from national or international priorities.",
+      "Examine how local security concerns are mobilized for political gains at different levels.",
+      "Investigate how mistrust between communities is generated locally, nationally, and internationally to explain the re-militarization of EU borders."
+    ],
+    "methods": [
+      "Conduct exploratory research and fieldwork at the Hungarian-Serb border focusing on everyday security practices.",
+      "Analyze the gap between border police, local communities, and political/media narratives through empirical observation.",
+      "Apply securitization theory to examine everyday performances of security at the local level."
+    ],
+    "results": [
+      "Reveal the nuanced reality of border security practices that differs from political rhetoric and media portrayals.",
+      "Contribute to securitization theory by demonstrating how security works in practice at the local level.",
+      "Provide insights into the mechanisms of EU border re-militarization and community mistrust generation."
+    ],
+    "research_subject": "Securitization practices and border policing at the Hungarian-Serb border during the European migration crisis"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The 2015 European migration/refugee crisis highlighted the need for effective border security management and raised questions about the securitization practices of governments.\",\n    \"There is a gap in understanding between the perceptions of local communities, national politicians, and international media regarding migration and border security issues.\"\n  ],\n  \"objectives\": [\n    \"Analyze how local communities manage security concerns, especially when they are ignored at the national or international level.\",\n    \"Examine how local security concerns are mobilized for political gains elsewhere.\",\n    \"Investigate how mistrust between communities is generated locally, nationally, and internationally to explain the re-militarization of EU borders.\"\n  ],\n  \"methods\": [\n    \"Conduct exploratory research at the Hungarian-Serb border to gather data on local policing practices and community perceptions.\",\n    \"Focus on everyday performances of security to understand securitization practices in practice.\",\n    \"Analyze the gap between local, national, and international perceptions of migration and border security issues.\"\n  ],\n  \"results\": [\n    \"Provide a nuanced understanding of the complexities of border security management and securitization practices.\",\n    \"Highlight the importance of considering local community perspectives in understanding security concerns and migration issues.\",\n    \"Contribute to the development of security studies theory by examining the practical applications of securitization.\"\n  ],\n  \"research_subject\": \"Securitization practices and border security management in the context of the EU migration/refugee crisis\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The 2015 European migration/refugee crisis, particularly the Hungarian government's response, has raised questions about border security practices and their implications on local and international perceptions.\",\n    \"There is a need to understand the gap between the actions of border police, local policing organizations, local border communities, and the perceptions of local and national politicians and international media.\",\n    \"The situation calls for a deeper understanding of how securitization works in practice, especially in the context of local communities and their security concerns.\"\n  ],\n  \"objectives\": [\n    \"Analyze how communities manage security concerns locally, especially when these concerns are ignored in the national or international spheres.\",\n    \"Investigate how local security concerns are mobilized elsewhere for political gains.\",\n    \"Understand how mistrust between communities is generated locally, nationally and internationally, contributing to the de-facto re-militarized EU border.\"\n  ],\n  \"methods\": [\n    \"Conduct exploratory research at the Hungarian-Serb border to gather firsthand data and insights.\",\n    \"Focus on everyday performances of security to understand securitization practices.\",\n    \"Analyze the mobilization of local security concerns for political gains and the generation of mistrust between communities.\"\n  ],\n  \"results\": [\n    \"Provide a nuanced understanding of the Hungarian migration/refugee crisis and border security management.\",\n    \"Contribute to the theory of how securitization works in practice.\",\n    \"Explain the de-facto re-militarization of the EU border.\"\n  ],\n  \"research_subject\": \"Securitization practices and border security in the context of the EU migration/refugee crisis\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The 2015 European migration crisis and Hungary's border wall construction raise questions about the gap between political rhetoric and actual border security practices.\",\n    \"There is a need to understand how securitization works in practice beyond political discourse, particularly at the local community level.\",\n    \"The disconnect between local border communities' experiences and national/international perceptions of Hungarian migration management requires investigation.\"\n  ],\n  \"objectives\": [\n    \"Analyze how local communities manage security concerns, especially when these differ from national or international priorities.\",\n    \"Examine how local security concerns are mobilized for political gains at different levels.\",\n    \"Investigate how mistrust between communities is generated locally, nationally, and internationally to explain the re-militarization of EU borders.\"\n  ],\n  \"methods\": [\n    \"Conduct exploratory research and fieldwork at the Hungarian-Serb border focusing on everyday security practices.\",\n    \"Analyze the gap between border police, local communities, and political/media narratives through empirical observation.\",\n    \"Apply securitization theory to examine everyday performances of security at the local level.\"\n  ],\n  \"results\": [\n    \"Reveal the nuanced reality of border security practices that differs from political rhetoric and media portrayals.\",\n    \"Contribute to securitization theory by demonstrating how security works in practice at the local level.\",\n    \"Provide insights into the mechanisms of EU border re-militarization and community mistrust generation.\"\n  ],\n  \"research_subject\": \"Securitization practices and border policing at the Hungarian-Serb border during the European migration crisis\"\n}\n```"
+}

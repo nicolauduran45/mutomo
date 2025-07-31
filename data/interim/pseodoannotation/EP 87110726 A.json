@@ -1,0 +1,47 @@
+{
+  "index": 428,
+  "title": "Reinforced light coloured thermoplastic moulding compositions.",
+  "abstract": "Thermoplastic moulding compositions containing A) 10-91.9% by weight of a thermoplastic polymer, B) 7-60% by weight of reinforcing filler, C) 0.1-40% by weight of titanium dioxide and D) 1-40% by weight of a rubber.",
+  "llama_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [
+      "Combine thermoplastic polymer, reinforcing filler, titanium dioxide, and rubber to create a moulding composition."
+    ],
+    "results": [],
+    "research_subject": "Reinforced light coloured thermoplastic moulding compositions"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for improved thermoplastic moulding compositions with enhanced properties."
+    ],
+    "objectives": [
+      "To create a thermoplastic moulding composition containing specific proportions of a thermoplastic polymer, reinforcing filler, titanium dioxide, and rubber."
+    ],
+    "methods": [
+      "Formulate a thermoplastic moulding composition with specific percentages by weight of a thermoplastic polymer, reinforcing filler, titanium dioxide, and rubber."
+    ],
+    "results": [
+      "A new thermoplastic moulding composition with potentially improved properties."
+    ],
+    "research_subject": "Reinforced light coloured thermoplastic moulding compositions"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for thermoplastic materials that combine reinforcement properties with light coloration for various applications."
+    ],
+    "objectives": [
+      "Develop thermoplastic moulding compositions that incorporate reinforcing fillers while maintaining light coloration through titanium dioxide addition."
+    ],
+    "methods": [
+      "Combine thermoplastic polymers with reinforcing fillers, titanium dioxide, and rubber in specific proportions to create moulding compositions."
+    ],
+    "results": [
+      "Light colored thermoplastic compositions with enhanced mechanical properties suitable for moulding applications."
+    ],
+    "research_subject": "Reinforced light colored thermoplastic moulding compositions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [\n    \"Combine thermoplastic polymer, reinforcing filler, titanium dioxide, and rubber to create a moulding composition.\"\n  ],\n  \"results\": [],\n  \"research_subject\": \"Reinforced light coloured thermoplastic moulding compositions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved thermoplastic moulding compositions with enhanced properties.\"\n  ],\n  \"objectives\": [\n    \"To create a thermoplastic moulding composition containing specific proportions of a thermoplastic polymer, reinforcing filler, titanium dioxide, and rubber.\"\n  ],\n  \"methods\": [\n    \"Formulate a thermoplastic moulding composition with specific percentages by weight of a thermoplastic polymer, reinforcing filler, titanium dioxide, and rubber.\"\n  ],\n  \"results\": [\n    \"A new thermoplastic moulding composition with potentially improved properties.\"\n  ],\n  \"research_subject\": \"Reinforced light coloured thermoplastic moulding compositions\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for thermoplastic materials that combine reinforcement properties with light coloration for various applications.\"\n  ],\n  \"objectives\": [\n    \"Develop thermoplastic moulding compositions that incorporate reinforcing fillers while maintaining light coloration through titanium dioxide addition.\"\n  ],\n  \"methods\": [\n    \"Combine thermoplastic polymers with reinforcing fillers, titanium dioxide, and rubber in specific proportions to create moulding compositions.\"\n  ],\n  \"results\": [\n    \"Light colored thermoplastic compositions with enhanced mechanical properties suitable for moulding applications.\"\n  ],\n  \"research_subject\": \"Reinforced light colored thermoplastic moulding compositions\"\n}\n```"
+}

@@ -1,0 +1,63 @@
+{
+  "index": 184,
+  "title": "Short-term and Long-term Postoperative Safety of Off-Pump versus On-Pump Coronary Artery Bypass Grafting for Coronary Heart Disease: A Meta-analysis for Randomized Controlled Trials",
+  "abstract": "The aim was to compare the short-term (30 days after surgery) and long-term (over 6 months' follow-up) postoperative safety of off-pump and on-pump coronary artery bypass grafting (CABG) for patients with coronary heart disease (CHD).Relevant randomized controlled trials (RCTs) were obtained from PubMed, Embase, Springer, Ovid, and Cochrane library up to July 2013. Odds ratios (ORs) with their 95% confidence intervals (CIs) were used to access effect sizes.Seven RCTs involving 9,128 patients were included. Results suggested no significant difference in all the short-term outcomes (mortality, OR = 0.90, 95% CI: 0.69 to 1.16, p = 0.41; myocardial infarction, OR = 0.95, 95% CI: 0.79 to 1.15, p = 0.61; stroke, OR = 0.78, 95% CI: 0.56 to 1.07, p = 0.12; renal failure, OR = 0.84, 95% CI: 0.60 to 1.18, p = 0.43; revascularization: OR = 1.95, 95% CI: 0.79 to 4.85, p = 0.15) and some long-term outcomes (mortality, OR = 1.02, 95% CI: 0.86 to 1.22, p = 0.81; myocardial infarction, OR = 0.86, 95% CI: 0.70 to 1.04, p = 0.12; stroke, OR = 0.89, 95% CI: 0.67 to 1.19, p = 0.44) between off-pump and on-pump CABG. However, off-pump CABG had a significantly higher revascularization rate (OR = 1.45; 95% CI: 1.02 to 2.06; p = 0.04) than on-pump CABG in long-term follow-up.Short-term postoperative safety was similar between off-pump and on-pump CABG. A high revascularization rate was the drawback of off-pump CABG for CHD patients in long-term follow-up.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to compare the postoperative safety of off-pump and on-pump coronary artery bypass grafting (CABG) for patients with coronary heart disease (CHD).",
+      "The choice between off-pump and on-pump CABG may impact short-term and long-term outcomes for CHD patients."
+    ],
+    "objectives": [
+      "Compare the short-term (30 days after surgery) postoperative safety of off-pump and on-pump CABG for CHD patients.",
+      "Compare the long-term (over 6 months' follow-up) postoperative safety of off-pump and on-pump CABG for CHD patients."
+    ],
+    "methods": [
+      "Conduct a meta-analysis of relevant randomized controlled trials (RCTs) obtained from multiple databases.",
+      "Use odds ratios (ORs) with their 95% confidence intervals (CIs) to assess effect sizes."
+    ],
+    "results": [
+      "Off-pump and on-pump CABG have similar short-term postoperative safety outcomes.",
+      "Off-pump CABG has a higher revascularization rate than on-pump CABG in long-term follow-up.",
+      "Most long-term outcomes (mortality, myocardial infarction, stroke) show no significant difference between off-pump and on-pump CABG."
+    ],
+    "research_subject": "Comparison of postoperative safety between off-pump and on-pump coronary artery bypass grafting for coronary heart disease"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to compare the short-term and long-term postoperative safety of off-pump and on-pump coronary artery bypass grafting (CABG) for patients with coronary heart disease (CHD)."
+    ],
+    "objectives": [
+      "Compare the short-term (30 days after surgery) and long-term (over 6 months' follow-up) postoperative safety of off-pump and on-pump CABG for CHD patients."
+    ],
+    "methods": [
+      "Conduct a meta-analysis of randomized controlled trials (RCTs) obtained from various databases.",
+      "Use odds ratios (ORs) with their 95% confidence intervals (CIs) to assess effect sizes."
+    ],
+    "results": [
+      "No significant difference was found in all the short-term outcomes and some long-term outcomes between off-pump and on-pump CABG.",
+      "Off-pump CABG had a significantly higher revascularization rate than on-pump CABG in long-term follow-up."
+    ],
+    "research_subject": "Comparative safety of off-pump and on-pump coronary artery bypass grafting for coronary heart disease"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The comparative safety of off-pump versus on-pump coronary artery bypass grafting for coronary heart disease patients remains unclear.",
+      "There is a need to evaluate both short-term and long-term postoperative outcomes to guide clinical decision-making in CABG procedures."
+    ],
+    "objectives": [
+      "Compare the short-term and long-term postoperative safety outcomes between off-pump and on-pump coronary artery bypass grafting for patients with coronary heart disease."
+    ],
+    "methods": [
+      "Conducted a meta-analysis of randomized controlled trials retrieved from multiple databases.",
+      "Used odds ratios with confidence intervals to assess effect sizes for various postoperative outcomes."
+    ],
+    "results": [
+      "No significant differences were found in short-term outcomes including mortality, myocardial infarction, stroke, renal failure, and revascularization between off-pump and on-pump CABG.",
+      "Off-pump CABG showed a significantly higher long-term revascularization rate compared to on-pump CABG, while other long-term outcomes were similar."
+    ],
+    "research_subject": "Comparative safety of off-pump versus on-pump coronary artery bypass grafting"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to compare the postoperative safety of off-pump and on-pump coronary artery bypass grafting (CABG) for patients with coronary heart disease (CHD).\",\n    \"The choice between off-pump and on-pump CABG may impact short-term and long-term outcomes for CHD patients.\"\n  ],\n  \"objectives\": [\n    \"Compare the short-term (30 days after surgery) postoperative safety of off-pump and on-pump CABG for CHD patients.\",\n    \"Compare the long-term (over 6 months' follow-up) postoperative safety of off-pump and on-pump CABG for CHD patients.\"\n  ],\n  \"methods\": [\n    \"Conduct a meta-analysis of relevant randomized controlled trials (RCTs) obtained from multiple databases.\",\n    \"Use odds ratios (ORs) with their 95% confidence intervals (CIs) to assess effect sizes.\"\n  ],\n  \"results\": [\n    \"Off-pump and on-pump CABG have similar short-term postoperative safety outcomes.\",\n    \"Off-pump CABG has a higher revascularization rate than on-pump CABG in long-term follow-up.\",\n    \"Most long-term outcomes (mortality, myocardial infarction, stroke) show no significant difference between off-pump and on-pump CABG.\"\n  ],\n  \"research_subject\": \"Comparison of postoperative safety between off-pump and on-pump coronary artery bypass grafting for coronary heart disease\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to compare the short-term and long-term postoperative safety of off-pump and on-pump coronary artery bypass grafting (CABG) for patients with coronary heart disease (CHD).\"\n  ],\n  \"objectives\": [\n    \"Compare the short-term (30 days after surgery) and long-term (over 6 months' follow-up) postoperative safety of off-pump and on-pump CABG for CHD patients.\"\n  ],\n  \"methods\": [\n    \"Conduct a meta-analysis of randomized controlled trials (RCTs) obtained from various databases.\",\n    \"Use odds ratios (ORs) with their 95% confidence intervals (CIs) to assess effect sizes.\"\n  ],\n  \"results\": [\n    \"No significant difference was found in all the short-term outcomes and some long-term outcomes between off-pump and on-pump CABG.\",\n    \"Off-pump CABG had a significantly higher revascularization rate than on-pump CABG in long-term follow-up.\"\n  ],\n  \"research_subject\": \"Comparative safety of off-pump and on-pump coronary artery bypass grafting for coronary heart disease\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The comparative safety of off-pump versus on-pump coronary artery bypass grafting for coronary heart disease patients remains unclear.\",\n    \"There is a need to evaluate both short-term and long-term postoperative outcomes to guide clinical decision-making in CABG procedures.\"\n  ],\n  \"objectives\": [\n    \"Compare the short-term and long-term postoperative safety outcomes between off-pump and on-pump coronary artery bypass grafting for patients with coronary heart disease.\"\n  ],\n  \"methods\": [\n    \"Conducted a meta-analysis of randomized controlled trials retrieved from multiple databases.\",\n    \"Used odds ratios with confidence intervals to assess effect sizes for various postoperative outcomes.\"\n  ],\n  \"results\": [\n    \"No significant differences were found in short-term outcomes including mortality, myocardial infarction, stroke, renal failure, and revascularization between off-pump and on-pump CABG.\",\n    \"Off-pump CABG showed a significantly higher long-term revascularization rate compared to on-pump CABG, while other long-term outcomes were similar.\"\n  ],\n  \"research_subject\": \"Comparative safety of off-pump versus on-pump coronary artery bypass grafting\"\n}\n```"
+}

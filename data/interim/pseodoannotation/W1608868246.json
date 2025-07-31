@@ -1,0 +1,75 @@
+{
+  "index": 7,
+  "title": "Pseudospin symmetry in single-particle resonances in spherical square wells",
+  "abstract": "The pseudospin symmetry (PSS) has been studied extensively for bound states. Recently we justified rigorously that the PSS in single particle resonant states is exactly conserved when the attractive scalar and repulsive vector potentials of the Dirac Hamiltonian have the same magnitude but opposite sign [PRL 109, 072501 (2012)]. To understand more deeply the PSS, we focus on several issues related to the exact conservation and breaking mechanism of the PSS in single particle resonances. In particular, we are interested in how the energy and width splittings of PS partners depend on the depth of the scalar and vector potentials. We investigate the asymptotic behaviors of radial Dirac wave functions. Spherical square well potentials are employed in which the PSS breaking part in the Jost function can be well isolated. By examining the zeros of Jost functions corresponding to small components of the radial Dirac wave functions, general properties of the PSS are analyzed. By examining the Jost function, the occurrence of intruder orbitals is explained and it is possible to trace continuously the PSS partners from the PSS limit to the case with a finite potential depth. The dependence of the PSS in resonances as well as in bound states on the potential depth is investigated systematically. We find a threshold effect in the energy splitting and an anomaly in the width splitting of pseudospin partners when the depth of the single particle potential varies from zero to a finite value. The conservation and the breaking of the PSS in resonant states and bound states share some similar properties. The appearance of intruder states can be explained by examining the zeros of Jost functions. Origins of the threshold effect in the energy splitting and the anomaly in the width splitting of PS partners, together with many other problems, are still open and should be further investigated.",
+  "llama_json": {
+    "motivations": [
+      "The pseudospin symmetry (PSS) in single-particle resonant states is not well understood, despite being extensively studied for bound states.",
+      "There is a need to investigate the exact conservation and breaking mechanism of the PSS in single particle resonances and its dependence on potential depth."
+    ],
+    "objectives": [
+      "Investigate the energy and width splittings of pseudospin partners in single particle resonances and their dependence on the depth of scalar and vector potentials.",
+      "Analyze the asymptotic behaviors of radial Dirac wave functions and the properties of the PSS in resonances and bound states.",
+      "Explain the occurrence of intruder orbitals and the threshold effect in the energy splitting and anomaly in the width splitting of pseudospin partners."
+    ],
+    "methods": [
+      "Employ spherical square well potentials to isolate the PSS breaking part in the Jost function.",
+      "Examine the zeros of Jost functions corresponding to small components of the radial Dirac wave functions to analyze general properties of the PSS.",
+      "Investigate the dependence of the PSS in resonances and bound states on the potential depth systematically."
+    ],
+    "results": [
+      "A threshold effect in the energy splitting and an anomaly in the width splitting of pseudospin partners are observed when the depth of the single particle potential varies from zero to a finite value.",
+      "The conservation and breaking of the PSS in resonant states and bound states share similar properties.",
+      "Intruder states can be explained by examining the zeros of Jost functions, but many problems remain open for further investigation."
+    ],
+    "research_subject": "Pseudospin symmetry in single-particle resonances in spherical square wells"
+  },
+  "openai_json": {
+    "motivations": [
+      "The pseudospin symmetry (PSS) in single particle resonant states has been studied, but there is a need to understand more deeply the exact conservation and breaking mechanism of the PSS.",
+      "There is interest in how the energy and width splittings of pseudospin partners depend on the depth of the scalar and vector potentials.",
+      "The occurrence of intruder orbitals and the dependence of the PSS in resonances as well as in bound states on the potential depth need further investigation."
+    ],
+    "objectives": [
+      "Investigate the asymptotic behaviors of radial Dirac wave functions and the properties of the PSS by examining the zeros of Jost functions.",
+      "Understand the occurrence of intruder orbitals and trace continuously the PSS partners from the PSS limit to the case with a finite potential depth.",
+      "Investigate systematically the dependence of the PSS in resonances and bound states on the potential depth."
+    ],
+    "methods": [
+      "Employ spherical square well potentials in which the PSS breaking part in the Jost function can be well isolated.",
+      "Examine the zeros of Jost functions corresponding to small components of the radial Dirac wave functions.",
+      "Investigate the dependence of the PSS on the potential depth by varying it from zero to a finite value."
+    ],
+    "results": [
+      "Find a threshold effect in the energy splitting and an anomaly in the width splitting of pseudospin partners when the depth of the single particle potential varies.",
+      "Identify similar properties in the conservation and the breaking of the PSS in resonant states and bound states.",
+      "Explain the appearance of intruder states by examining the zeros of Jost functions."
+    ],
+    "research_subject": "Pseudospin symmetry in single-particle resonances in spherical square wells"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "While pseudospin symmetry has been extensively studied for bound states, its behavior in single particle resonant states requires deeper understanding.",
+      "The exact conservation and breaking mechanisms of pseudospin symmetry in single particle resonances need to be investigated to understand how energy and width splittings depend on potential depths."
+    ],
+    "objectives": [
+      "Investigate the exact conservation and breaking mechanism of pseudospin symmetry in single particle resonances.",
+      "Analyze how energy and width splittings of pseudospin partners depend on the depth of scalar and vector potentials.",
+      "Examine the asymptotic behaviors of radial Dirac wave functions and trace pseudospin partners from the symmetry limit to finite potential depths."
+    ],
+    "methods": [
+      "Employ spherical square well potentials to isolate the pseudospin symmetry breaking part in the Jost function.",
+      "Examine zeros of Jost functions corresponding to small components of radial Dirac wave functions.",
+      "Systematically investigate the dependence of pseudospin symmetry in both resonances and bound states on potential depth."
+    ],
+    "results": [
+      "Discovery of a threshold effect in energy splitting and an anomaly in width splitting of pseudospin partners as potential depth varies.",
+      "Explanation of intruder orbital occurrence through examination of Jost function zeros.",
+      "Identification of similar properties between pseudospin symmetry conservation and breaking in resonant states and bound states."
+    ],
+    "research_subject": "Pseudospin symmetry in single-particle resonances in spherical square wells"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The pseudospin symmetry (PSS) in single-particle resonant states is not well understood, despite being extensively studied for bound states.\",\n    \"There is a need to investigate the exact conservation and breaking mechanism of the PSS in single particle resonances and its dependence on potential depth.\"\n  ],\n  \"objectives\": [\n    \"Investigate the energy and width splittings of pseudospin partners in single particle resonances and their dependence on the depth of scalar and vector potentials.\",\n    \"Analyze the asymptotic behaviors of radial Dirac wave functions and the properties of the PSS in resonances and bound states.\",\n    \"Explain the occurrence of intruder orbitals and the threshold effect in the energy splitting and anomaly in the width splitting of pseudospin partners.\"\n  ],\n  \"methods\": [\n    \"Employ spherical square well potentials to isolate the PSS breaking part in the Jost function.\",\n    \"Examine the zeros of Jost functions corresponding to small components of the radial Dirac wave functions to analyze general properties of the PSS.\",\n    \"Investigate the dependence of the PSS in resonances and bound states on the potential depth systematically.\"\n  ],\n  \"results\": [\n    \"A threshold effect in the energy splitting and an anomaly in the width splitting of pseudospin partners are observed when the depth of the single particle potential varies from zero to a finite value.\",\n    \"The conservation and breaking of the PSS in resonant states and bound states share similar properties.\",\n    \"Intruder states can be explained by examining the zeros of Jost functions, but many problems remain open for further investigation.\"\n  ],\n  \"research_subject\": \"Pseudospin symmetry in single-particle resonances in spherical square wells\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The pseudospin symmetry (PSS) in single particle resonant states has been studied, but there is a need to understand more deeply the exact conservation and breaking mechanism of the PSS.\",\n    \"There is interest in how the energy and width splittings of pseudospin partners depend on the depth of the scalar and vector potentials.\",\n    \"The occurrence of intruder orbitals and the dependence of the PSS in resonances as well as in bound states on the potential depth need further investigation.\"\n  ],\n  \"objectives\": [\n    \"Investigate the asymptotic behaviors of radial Dirac wave functions and the properties of the PSS by examining the zeros of Jost functions.\",\n    \"Understand the occurrence of intruder orbitals and trace continuously the PSS partners from the PSS limit to the case with a finite potential depth.\",\n    \"Investigate systematically the dependence of the PSS in resonances and bound states on the potential depth.\"\n  ],\n  \"methods\": [\n    \"Employ spherical square well potentials in which the PSS breaking part in the Jost function can be well isolated.\",\n    \"Examine the zeros of Jost functions corresponding to small components of the radial Dirac wave functions.\",\n    \"Investigate the dependence of the PSS on the potential depth by varying it from zero to a finite value.\"\n  ],\n  \"results\": [\n    \"Find a threshold effect in the energy splitting and an anomaly in the width splitting of pseudospin partners when the depth of the single particle potential varies.\",\n    \"Identify similar properties in the conservation and the breaking of the PSS in resonant states and bound states.\",\n    \"Explain the appearance of intruder states by examining the zeros of Jost functions.\"\n  ],\n  \"research_subject\": \"Pseudospin symmetry in single-particle resonances in spherical square wells\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"While pseudospin symmetry has been extensively studied for bound states, its behavior in single particle resonant states requires deeper understanding.\",\n    \"The exact conservation and breaking mechanisms of pseudospin symmetry in single particle resonances need to be investigated to understand how energy and width splittings depend on potential depths.\"\n  ],\n  \"objectives\": [\n    \"Investigate the exact conservation and breaking mechanism of pseudospin symmetry in single particle resonances.\",\n    \"Analyze how energy and width splittings of pseudospin partners depend on the depth of scalar and vector potentials.\",\n    \"Examine the asymptotic behaviors of radial Dirac wave functions and trace pseudospin partners from the symmetry limit to finite potential depths.\"\n  ],\n  \"methods\": [\n    \"Employ spherical square well potentials to isolate the pseudospin symmetry breaking part in the Jost function.\",\n    \"Examine zeros of Jost functions corresponding to small components of radial Dirac wave functions.\",\n    \"Systematically investigate the dependence of pseudospin symmetry in both resonances and bound states on potential depth.\"\n  ],\n  \"results\": [\n    \"Discovery of a threshold effect in energy splitting and an anomaly in width splitting of pseudospin partners as potential depth varies.\",\n    \"Explanation of intruder orbital occurrence through examination of Jost function zeros.\",\n    \"Identification of similar properties between pseudospin symmetry conservation and breaking in resonant states and bound states.\"\n  ],\n  \"research_subject\": \"Pseudospin symmetry in single-particle resonances in spherical square wells\"\n}\n```"
+}

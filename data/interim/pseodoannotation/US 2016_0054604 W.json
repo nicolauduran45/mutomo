@@ -1,0 +1,67 @@
+{
+  "index": 54,
+  "title": "INTERNAL COMBUSTION ENGINE AND METHOD TO INCREASE THE TEMPERATURE OF A LIQUID IN THE INTERNAL COMBUSTION ENGINE",
+  "abstract": "A method, controller, and internal combustion engine including the controller and operable in accordance with the method by: determining a temperature of a working liquid in an engine block circuit (31, 35) of the internal combustion engine (10), the working liquid comprising a cooling liquid or a lubrication liquid; operating the internal combustion engine (10); engaging a thermal load responsive to the temperature of the liquid being below a first temperature threshold, wherein engaging the thermal load comprises at least one of increasing a pumping load of the internal combustion engine (10), or changing an air/fuel ratio, thereby adding heat to the engine block circuit (31, 35); controlling the thermal load as a function of the temperature of the liquid; and disengaging at least a portion of the thermal load responsive to the temperature of the liquid being above the low temperature limit.",
+  "llama_json": {
+    "motivations": [
+      "Internal combustion engines face issues with low temperatures of working liquids, such as cooling or lubrication liquids, which can impact engine performance and efficiency."
+    ],
+    "objectives": [
+      "Develop a method and system to increase the temperature of a working liquid in an internal combustion engine.",
+      "Improve engine performance and efficiency by controlling the temperature of the working liquid."
+    ],
+    "methods": [
+      "Determine the temperature of the working liquid in the engine block circuit.",
+      "Engage a thermal load to add heat to the engine block circuit when the temperature is below a threshold.",
+      "Control the thermal load based on the temperature of the liquid and disengage it when the temperature exceeds the threshold."
+    ],
+    "results": [
+      "Increase the temperature of the working liquid in the internal combustion engine.",
+      "Improve engine performance and efficiency by maintaining optimal working liquid temperatures."
+    ],
+    "research_subject": "Temperature control of working liquids in internal combustion engines"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to efficiently increase the temperature of a working liquid in an internal combustion engine, which can be a cooling or lubrication liquid.",
+      "Current methods may not adequately control the thermal load in response to the temperature of the liquid."
+    ],
+    "objectives": [
+      "Develop a method and controller for an internal combustion engine that can effectively increase the temperature of a working liquid.",
+      "Implement a thermal load that can be engaged and disengaged based on the temperature of the liquid."
+    ],
+    "methods": [
+      "Determine the temperature of a working liquid in the engine block circuit of the internal combustion engine.",
+      "Engage a thermal load when the temperature of the liquid is below a certain threshold, which includes increasing a pumping load or changing an air/fuel ratio.",
+      "Control the thermal load as a function of the temperature of the liquid and disengage it when the temperature is above a certain limit."
+    ],
+    "results": [
+      "Enable efficient heating of a working liquid in an internal combustion engine.",
+      "Provide better control of the thermal load in response to the temperature of the liquid."
+    ],
+    "research_subject": "Increasing the temperature of a working liquid in an internal combustion engine"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Internal combustion engines operate inefficiently when working liquids (cooling or lubrication liquids) are below optimal temperatures, leading to increased emissions and reduced performance.",
+      "There is a need for methods to rapidly increase the temperature of working liquids in internal combustion engines during cold start conditions."
+    ],
+    "objectives": [
+      "Develop a method and control system to increase the temperature of working liquids in internal combustion engines when operating below optimal temperature thresholds.",
+      "Improve engine efficiency and reduce emissions by optimizing the thermal management of engine working liquids."
+    ],
+    "methods": [
+      "Implement a controller that monitors the temperature of working liquids in the engine block circuit and engages thermal loads when temperatures fall below specified thresholds.",
+      "Apply thermal loads by increasing pumping loads or adjusting air/fuel ratios to generate additional heat in the engine block circuit.",
+      "Dynamically control and disengage thermal loads based on real-time temperature measurements of the working liquid."
+    ],
+    "results": [
+      "Faster warm-up of engine working liquids leading to improved engine efficiency and reduced cold-start emissions.",
+      "Enhanced thermal management system that automatically adjusts thermal loads based on liquid temperature conditions."
+    ],
+    "research_subject": "Thermal management system for internal combustion engine working liquids"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Internal combustion engines face issues with low temperatures of working liquids, such as cooling or lubrication liquids, which can impact engine performance and efficiency.\"\n  ],\n  \"objectives\": [\n    \"Develop a method and system to increase the temperature of a working liquid in an internal combustion engine.\",\n    \"Improve engine performance and efficiency by controlling the temperature of the working liquid.\"\n  ],\n  \"methods\": [\n    \"Determine the temperature of the working liquid in the engine block circuit.\",\n    \"Engage a thermal load to add heat to the engine block circuit when the temperature is below a threshold.\",\n    \"Control the thermal load based on the temperature of the liquid and disengage it when the temperature exceeds the threshold.\"\n  ],\n  \"results\": [\n    \"Increase the temperature of the working liquid in the internal combustion engine.\",\n    \"Improve engine performance and efficiency by maintaining optimal working liquid temperatures.\"\n  ],\n  \"research_subject\": \"Temperature control of working liquids in internal combustion engines\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to efficiently increase the temperature of a working liquid in an internal combustion engine, which can be a cooling or lubrication liquid.\",\n    \"Current methods may not adequately control the thermal load in response to the temperature of the liquid.\"\n  ],\n  \"objectives\": [\n    \"Develop a method and controller for an internal combustion engine that can effectively increase the temperature of a working liquid.\",\n    \"Implement a thermal load that can be engaged and disengaged based on the temperature of the liquid.\"\n  ],\n  \"methods\": [\n    \"Determine the temperature of a working liquid in the engine block circuit of the internal combustion engine.\",\n    \"Engage a thermal load when the temperature of the liquid is below a certain threshold, which includes increasing a pumping load or changing an air/fuel ratio.\",\n    \"Control the thermal load as a function of the temperature of the liquid and disengage it when the temperature is above a certain limit.\"\n  ],\n  \"results\": [\n    \"Enable efficient heating of a working liquid in an internal combustion engine.\",\n    \"Provide better control of the thermal load in response to the temperature of the liquid.\"\n  ],\n  \"research_subject\": \"Increasing the temperature of a working liquid in an internal combustion engine\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Internal combustion engines operate inefficiently when working liquids (cooling or lubrication liquids) are below optimal temperatures, leading to increased emissions and reduced performance.\",\n    \"There is a need for methods to rapidly increase the temperature of working liquids in internal combustion engines during cold start conditions.\"\n  ],\n  \"objectives\": [\n    \"Develop a method and control system to increase the temperature of working liquids in internal combustion engines when operating below optimal temperature thresholds.\",\n    \"Improve engine efficiency and reduce emissions by optimizing the thermal management of engine working liquids.\"\n  ],\n  \"methods\": [\n    \"Implement a controller that monitors the temperature of working liquids in the engine block circuit and engages thermal loads when temperatures fall below specified thresholds.\",\n    \"Apply thermal loads by increasing pumping loads or adjusting air/fuel ratios to generate additional heat in the engine block circuit.\",\n    \"Dynamically control and disengage thermal loads based on real-time temperature measurements of the working liquid.\"\n  ],\n  \"results\": [\n    \"Faster warm-up of engine working liquids leading to improved engine efficiency and reduced cold-start emissions.\",\n    \"Enhanced thermal management system that automatically adjusts thermal loads based on liquid temperature conditions.\"\n  ],\n  \"research_subject\": \"Thermal management system for internal combustion engine working liquids\"\n}\n```"
+}

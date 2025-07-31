@@ -1,0 +1,65 @@
+{
+  "index": 89,
+  "title": "Activators And Methods Of Using The Same For Barricading A Door",
+  "abstract": "Barricade devices and methods of barricading a door are disclosed. Such devices and methods may be used to barricade a door, and thereby prevent an intruder from entering a sheltering space, such as a classroom, storeroom, or hallway. The barricade-device may have a pivotable stop-device that is pivotable from a location adjacent to a door. The pivot-location may be at an elevation that is lower than a door handle. The stop-device may be pivotable from a reserve-position to a stop-position. In the reserve-position, the stop-device does not barricade the door. In the barricade-position, the stop-device barricades the door. Operation of the barricade-device may require the application of an activation operation to an activator. A wide range of people having differing physical and mental capabilities may use the barricade-device properly and quickly.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective and accessible devices and methods to barricade doors to prevent intruders from entering sheltering spaces such as classrooms or hallways.",
+      "Existing door barricade solutions may not be usable by people with varying physical and mental capabilities."
+    ],
+    "objectives": [
+      "Develop a barricade device that can effectively prevent an intruder from entering a sheltering space through a door.",
+      "Design a barricade device that is accessible and usable by a wide range of people with differing physical and mental capabilities."
+    ],
+    "methods": [
+      "Implement a pivotable stop-device that can be pivoted from a reserve position to a barricade position to block the door.",
+      "Use an activator that requires an activation operation to operate the barricade device."
+    ],
+    "results": [
+      "Provide a secure and effective means of barricading doors to prevent intruders from entering sheltering spaces.",
+      "Enable people with varying abilities to quickly and properly use the barricade device."
+    ],
+    "research_subject": "Development of accessible door barricade devices and methods"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective barricade devices to prevent intruders from entering sheltering spaces such as classrooms, storerooms, or hallways.",
+      "Existing barricade devices may not be easily operable by a wide range of people with differing physical and mental capabilities."
+    ],
+    "objectives": [
+      "Develop a barricade device with a pivotable stop-device that can be moved from a reserve position to a barricade position.",
+      "Ensure the barricade device can be operated quickly and properly by a wide range of people."
+    ],
+    "methods": [
+      "Design a barricade device with a pivotable stop-device that is located adjacent to a door and at an elevation lower than a door handle.",
+      "The stop-device can be pivoted from a reserve position, where it does not barricade the door, to a barricade position, where it does."
+    ],
+    "results": [
+      "The developed barricade device can effectively prevent an intruder from entering a sheltering space.",
+      "The barricade device can be operated by a wide range of people with differing physical and mental capabilities."
+    ],
+    "research_subject": "Development and use of activators for barricading a door"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for effective door barricade devices to prevent intruders from entering sheltering spaces such as classrooms and storerooms.",
+      "Existing security solutions may not be easily operable by people with varying physical and mental capabilities during emergency situations."
+    ],
+    "objectives": [
+      "Develop a door barricade device with a pivotable stop-device that can quickly transition from a reserve position to a barricade position.",
+      "Create an activation mechanism that enables a wide range of users with different physical and mental capabilities to operate the device effectively."
+    ],
+    "methods": [
+      "Design a pivotable stop-device positioned at an elevation lower than the door handle that can move between reserve and stop positions.",
+      "Implement an activator system that requires a specific activation operation to engage the barricade mechanism."
+    ],
+    "results": [
+      "Enable rapid and effective barricading of doors to prevent unauthorized entry during emergency situations.",
+      "Provide an accessible security solution that can be operated by users with diverse physical and mental capabilities."
+    ],
+    "research_subject": "Door barricade devices with accessible activation mechanisms for emergency security"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective and accessible devices and methods to barricade doors to prevent intruders from entering sheltering spaces such as classrooms or hallways.\",\n    \"Existing door barricade solutions may not be usable by people with varying physical and mental capabilities.\"\n  ],\n  \"objectives\": [\n    \"Develop a barricade device that can effectively prevent an intruder from entering a sheltering space through a door.\",\n    \"Design a barricade device that is accessible and usable by a wide range of people with differing physical and mental capabilities.\"\n  ],\n  \"methods\": [\n    \"Implement a pivotable stop-device that can be pivoted from a reserve position to a barricade position to block the door.\",\n    \"Use an activator that requires an activation operation to operate the barricade device.\"\n  ],\n  \"results\": [\n    \"Provide a secure and effective means of barricading doors to prevent intruders from entering sheltering spaces.\",\n    \"Enable people with varying abilities to quickly and properly use the barricade device.\"\n  ],\n  \"research_subject\": \"Development of accessible door barricade devices and methods\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective barricade devices to prevent intruders from entering sheltering spaces such as classrooms, storerooms, or hallways.\",\n    \"Existing barricade devices may not be easily operable by a wide range of people with differing physical and mental capabilities.\"\n  ],\n  \"objectives\": [\n    \"Develop a barricade device with a pivotable stop-device that can be moved from a reserve position to a barricade position.\",\n    \"Ensure the barricade device can be operated quickly and properly by a wide range of people.\"\n  ],\n  \"methods\": [\n    \"Design a barricade device with a pivotable stop-device that is located adjacent to a door and at an elevation lower than a door handle.\",\n    \"The stop-device can be pivoted from a reserve position, where it does not barricade the door, to a barricade position, where it does.\"\n  ],\n  \"results\": [\n    \"The developed barricade device can effectively prevent an intruder from entering a sheltering space.\",\n    \"The barricade device can be operated by a wide range of people with differing physical and mental capabilities.\"\n  ],\n  \"research_subject\": \"Development and use of activators for barricading a door\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective door barricade devices to prevent intruders from entering sheltering spaces such as classrooms and storerooms.\",\n    \"Existing security solutions may not be easily operable by people with varying physical and mental capabilities during emergency situations.\"\n  ],\n  \"objectives\": [\n    \"Develop a door barricade device with a pivotable stop-device that can quickly transition from a reserve position to a barricade position.\",\n    \"Create an activation mechanism that enables a wide range of users with different physical and mental capabilities to operate the device effectively.\"\n  ],\n  \"methods\": [\n    \"Design a pivotable stop-device positioned at an elevation lower than the door handle that can move between reserve and stop positions.\",\n    \"Implement an activator system that requires a specific activation operation to engage the barricade mechanism.\"\n  ],\n  \"results\": [\n    \"Enable rapid and effective barricading of doors to prevent unauthorized entry during emergency situations.\",\n    \"Provide an accessible security solution that can be operated by users with diverse physical and mental capabilities.\"\n  ],\n  \"research_subject\": \"Door barricade devices with accessible activation mechanisms for emergency security\"\n}\n```"
+}

@@ -1,0 +1,67 @@
+{
+  "index": 310,
+  "title": "On the effect of the injection of potassium phosphate in vivo inducing the precipitation of serum calcium with inorganic phosphate.",
+  "abstract": "High concentrations of inorganic phosphate (Pi) resulted from the hydrolysis of ATP is strongly associated to the weakness of the contractile mechanism of muscles due to its attractiveness to calcium. The majority of the experiments to study such effect are conducted in vitro. This work investigates the effects of different concentrations of Pi, induced by the injection of potassium phosphate in live animals, in the precipitation with serum calcium and the generation of calcium phosphate composites. The experiments were also designed to find out the ideal amount of potassium phosphate to induce an effective reaction. Potassium phosphate was injected in Wistar rats, randomly separated and distributed into seven groups. Group I was injected with 0.5 ml of saline solution (control) and groups II through VII were injected with 0.5, 1.5, 2.5, 5.0, 7.5 and 10.0 mg/kg of potassium phosphate, respectively. Blood collected from the inferior vena cava was submitted to biochemical analyses to measure the concentrations of calcium, Pi, urea and creatinine. The results showed that Pi, induced by the injection of potassium phosphate in live animals, causes precipitation with serum calcium, with statistically significant differences between the control and the treatment groups for doses up to 5.0 mg/kg. No statistically significant differences were found between the different doses and the concentration of urea and creatinine in the plasma. We conclude that potassium phosphate can be used to induce serum calcium precipitation in-vivo, with minor effects on other physiological variables, and the ideal dose to do so is 5.0 mg/kg.",
+  "llama_json": {
+    "motivations": [
+      "High concentrations of inorganic phosphate can weaken the contractile mechanism of muscles by attracting calcium, and this effect needs to be studied in vivo.",
+      "There is a need to investigate the ideal amount of potassium phosphate required to induce an effective reaction and precipitate serum calcium."
+    ],
+    "objectives": [
+      "Investigate the effects of different concentrations of inorganic phosphate, induced by potassium phosphate injection, on the precipitation of serum calcium in live animals.",
+      "Determine the ideal dose of potassium phosphate to induce an effective reaction with minimal effects on other physiological variables."
+    ],
+    "methods": [
+      "Inject potassium phosphate into live Wistar rats at varying concentrations to induce inorganic phosphate.",
+      "Measure the concentrations of calcium, inorganic phosphate, urea, and creatinine in blood collected from the inferior vena cava.",
+      "Compare the results between control and treatment groups to determine statistically significant differences."
+    ],
+    "results": [
+      "Potassium phosphate injection induces precipitation of serum calcium with inorganic phosphate in live animals.",
+      "The ideal dose of potassium phosphate to induce an effective reaction is 5.0 mg/kg, with minimal effects on other physiological variables."
+    ],
+    "research_subject": "The effect of potassium phosphate injection on serum calcium precipitation in vivo"
+  },
+  "openai_json": {
+    "motivations": [
+      "High concentrations of inorganic phosphate (Pi) resulting from ATP hydrolysis are associated with muscle contractile mechanism weakness due to calcium attraction.",
+      "Most experiments studying this effect are conducted in vitro, necessitating in vivo investigations."
+    ],
+    "objectives": [
+      "Investigate the effects of different Pi concentrations, induced by potassium phosphate injection in live animals, on serum calcium precipitation and calcium phosphate composite generation.",
+      "Determine the ideal amount of potassium phosphate to induce an effective reaction."
+    ],
+    "methods": [
+      "Inject potassium phosphate into Wistar rats, distributed into seven groups with varying doses.",
+      "Collect blood from the inferior vena cava for biochemical analyses to measure concentrations of calcium, Pi, urea, and creatinine."
+    ],
+    "results": [
+      "Pi, induced by potassium phosphate injection in live animals, causes precipitation with serum calcium, with significant differences observed for doses up to 5.0 mg/kg.",
+      "No significant differences were found between different doses and the concentration of urea and creatinine in plasma.",
+      "The ideal dose of potassium phosphate to induce serum calcium precipitation in-vivo is 5.0 mg/kg."
+    ],
+    "research_subject": "Effects of in vivo potassium phosphate injection on serum calcium precipitation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "High concentrations of inorganic phosphate from ATP hydrolysis are associated with muscle weakness due to calcium binding, but most studies have been conducted in vitro rather than in living organisms.",
+      "There is a need to understand the in vivo effects of phosphate-induced calcium precipitation and determine optimal dosing for experimental studies."
+    ],
+    "objectives": [
+      "Investigate the effects of different concentrations of inorganic phosphate on serum calcium precipitation in live animals.",
+      "Determine the ideal dose of potassium phosphate injection to induce effective calcium-phosphate reactions in vivo."
+    ],
+    "methods": [
+      "Inject varying doses of potassium phosphate into Wistar rats divided into seven experimental groups.",
+      "Collect blood samples from the inferior vena cava and perform biochemical analyses to measure calcium, inorganic phosphate, urea, and creatinine concentrations."
+    ],
+    "results": [
+      "Inorganic phosphate induced by potassium phosphate injection causes significant serum calcium precipitation at doses up to 5.0 mg/kg.",
+      "The optimal dose for inducing calcium precipitation in vivo is 5.0 mg/kg with minimal effects on urea and creatinine levels."
+    ],
+    "research_subject": "In vivo effects of potassium phosphate injection on serum calcium precipitation"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"High concentrations of inorganic phosphate can weaken the contractile mechanism of muscles by attracting calcium, and this effect needs to be studied in vivo.\",\n    \"There is a need to investigate the ideal amount of potassium phosphate required to induce an effective reaction and precipitate serum calcium.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effects of different concentrations of inorganic phosphate, induced by potassium phosphate injection, on the precipitation of serum calcium in live animals.\",\n    \"Determine the ideal dose of potassium phosphate to induce an effective reaction with minimal effects on other physiological variables.\"\n  ],\n  \"methods\": [\n    \"Inject potassium phosphate into live Wistar rats at varying concentrations to induce inorganic phosphate.\",\n    \"Measure the concentrations of calcium, inorganic phosphate, urea, and creatinine in blood collected from the inferior vena cava.\",\n    \"Compare the results between control and treatment groups to determine statistically significant differences.\"\n  ],\n  \"results\": [\n    \"Potassium phosphate injection induces precipitation of serum calcium with inorganic phosphate in live animals.\",\n    \"The ideal dose of potassium phosphate to induce an effective reaction is 5.0 mg/kg, with minimal effects on other physiological variables.\"\n  ],\n  \"research_subject\": \"The effect of potassium phosphate injection on serum calcium precipitation in vivo\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"High concentrations of inorganic phosphate (Pi) resulting from ATP hydrolysis are associated with muscle contractile mechanism weakness due to calcium attraction.\",\n    \"Most experiments studying this effect are conducted in vitro, necessitating in vivo investigations.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effects of different Pi concentrations, induced by potassium phosphate injection in live animals, on serum calcium precipitation and calcium phosphate composite generation.\",\n    \"Determine the ideal amount of potassium phosphate to induce an effective reaction.\"\n  ],\n  \"methods\": [\n    \"Inject potassium phosphate into Wistar rats, distributed into seven groups with varying doses.\",\n    \"Collect blood from the inferior vena cava for biochemical analyses to measure concentrations of calcium, Pi, urea, and creatinine.\"\n  ],\n  \"results\": [\n    \"Pi, induced by potassium phosphate injection in live animals, causes precipitation with serum calcium, with significant differences observed for doses up to 5.0 mg/kg.\",\n    \"No significant differences were found between different doses and the concentration of urea and creatinine in plasma.\",\n    \"The ideal dose of potassium phosphate to induce serum calcium precipitation in-vivo is 5.0 mg/kg.\"\n  ],\n  \"research_subject\": \"Effects of in vivo potassium phosphate injection on serum calcium precipitation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"High concentrations of inorganic phosphate from ATP hydrolysis are associated with muscle weakness due to calcium binding, but most studies have been conducted in vitro rather than in living organisms.\",\n    \"There is a need to understand the in vivo effects of phosphate-induced calcium precipitation and determine optimal dosing for experimental studies.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effects of different concentrations of inorganic phosphate on serum calcium precipitation in live animals.\",\n    \"Determine the ideal dose of potassium phosphate injection to induce effective calcium-phosphate reactions in vivo.\"\n  ],\n  \"methods\": [\n    \"Inject varying doses of potassium phosphate into Wistar rats divided into seven experimental groups.\",\n    \"Collect blood samples from the inferior vena cava and perform biochemical analyses to measure calcium, inorganic phosphate, urea, and creatinine concentrations.\"\n  ],\n  \"results\": [\n    \"Inorganic phosphate induced by potassium phosphate injection causes significant serum calcium precipitation at doses up to 5.0 mg/kg.\",\n    \"The optimal dose for inducing calcium precipitation in vivo is 5.0 mg/kg with minimal effects on urea and creatinine levels.\"\n  ],\n  \"research_subject\": \"In vivo effects of potassium phosphate injection on serum calcium precipitation\"\n}\n```"
+}

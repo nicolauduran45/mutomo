@@ -1,0 +1,52 @@
+{
+  "index": 482,
+  "title": "*individuo*",
+  "abstract": "CONTRIBUTI IN CONTO CAPITALE PER LA REALIZZAZIONE DI UN INVESTIMENTO INIZIALE (ART. 2 REG (CE) 651/2014). DOTAZIONE FINANZIARIA: Â¬ 70.000.000,00. BENEFICIARI: PICCOLE E MEDIE IMPRESE IN FORMA SINGOLA O ASSOCIATA AD ECCEZIONE DEI DISTRETTI E RETI DI IMPRESA. SPESE AMMISSIBILI:INVESTIMENTI MATERIALI (TERRENI-IMMOBILI-OPERE MURARIE-IMPIANTI-MACCHINARI-ATTREZZATURE) - INVESTIMENTI IMMATERIALI (BREVETTI, LICENZE. KNOW HOW)-SERVIZI DI CONSULENZA.",
+  "llama_json": {
+    "motivations": [],
+    "objectives": [
+      "Provide financial contributions to support the initial investment of small and medium-sized enterprises (SMEs)."
+    ],
+    "methods": [
+      "Offer a financial endowment of €70,000,000.00 to support SMEs.",
+      "Allow eligible expenses for material investments (e.g., land, buildings, machinery) and immaterial investments (e.g., patents, licenses, know-how)."
+    ],
+    "results": [],
+    "research_subject": "Financial support for small and medium-sized enterprises"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for capital contributions for the realization of an initial investment."
+    ],
+    "objectives": [
+      "Provide financial support to small and medium-sized enterprises for initial investments."
+    ],
+    "methods": [
+      "Allocate financial resources for material investments such as land, buildings, machinery, and equipment.",
+      "Allocate financial resources for immaterial investments such as patents, licenses, and know-how.",
+      "Provide resources for consulting services."
+    ],
+    "results": [
+      "Enable small and medium-sized enterprises to make initial investments in material and immaterial assets."
+    ],
+    "research_subject": "Capital contributions for initial investments in small and medium-sized enterprises"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Small and medium enterprises need financial support to realize initial investments and enhance their competitiveness."
+    ],
+    "objectives": [
+      "Provide capital contributions to small and medium enterprises for initial investment projects in accordance with EU Regulation 651/2014."
+    ],
+    "methods": [
+      "Allocate financial resources through capital grants to eligible enterprises for approved investment categories."
+    ],
+    "results": [
+      "Enable small and medium enterprises to acquire material and immaterial assets necessary for business development and growth."
+    ],
+    "research_subject": "Capital contribution program for initial investments by small and medium enterprises"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [\n    \"Provide financial contributions to support the initial investment of small and medium-sized enterprises (SMEs).\"\n  ],\n  \"methods\": [\n    \"Offer a financial endowment of €70,000,000.00 to support SMEs.\",\n    \"Allow eligible expenses for material investments (e.g., land, buildings, machinery) and immaterial investments (e.g., patents, licenses, know-how).\"\n  ],\n  \"results\": [],\n  \"research_subject\": \"Financial support for small and medium-sized enterprises\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for capital contributions for the realization of an initial investment.\"\n  ],\n  \"objectives\": [\n    \"Provide financial support to small and medium-sized enterprises for initial investments.\"\n  ],\n  \"methods\": [\n    \"Allocate financial resources for material investments such as land, buildings, machinery, and equipment.\",\n    \"Allocate financial resources for immaterial investments such as patents, licenses, and know-how.\",\n    \"Provide resources for consulting services.\"\n  ],\n  \"results\": [\n    \"Enable small and medium-sized enterprises to make initial investments in material and immaterial assets.\"\n  ],\n  \"research_subject\": \"Capital contributions for initial investments in small and medium-sized enterprises\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Small and medium enterprises need financial support to realize initial investments and enhance their competitiveness.\"\n  ],\n  \"objectives\": [\n    \"Provide capital contributions to small and medium enterprises for initial investment projects in accordance with EU Regulation 651/2014.\"\n  ],\n  \"methods\": [\n    \"Allocate financial resources through capital grants to eligible enterprises for approved investment categories.\"\n  ],\n  \"results\": [\n    \"Enable small and medium enterprises to acquire material and immaterial assets necessary for business development and growth.\"\n  ],\n  \"research_subject\": \"Capital contribution program for initial investments by small and medium enterprises\"\n}\n```"
+}

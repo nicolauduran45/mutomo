@@ -1,0 +1,52 @@
+{
+  "index": 214,
+  "title": "WIPER BLADE",
+  "abstract": "A washer apparatus 50 is provided to a coupling portion CN between a blade rubber 20 and a holder member 30, and has a length in a longitudinal direction of the blade rubber 20, which is set to be shorter than that of the blade rubber 20 in the longitudinal direction, and inner-peripheral-side-oriented injection nozzles 53a and 55a and an outer-peripheral-side-oriented injection nozzle 54a have openings oriented to respective ends of the blade rubber 20 in the longitudinal direction.",
+  "llama_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [
+      "Utilize a washer apparatus with inner-peripheral-side-oriented and outer-peripheral-side-oriented injection nozzles."
+    ],
+    "results": [],
+    "research_subject": "Wiper blade washer apparatus design"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an improved washer apparatus for wiper blades."
+    ],
+    "objectives": [
+      "To provide a washer apparatus to a coupling portion between a blade rubber and a holder member."
+    ],
+    "methods": [
+      "The washer apparatus has a length in the longitudinal direction of the blade rubber, which is set to be shorter than that of the blade rubber.",
+      "The apparatus includes inner-peripheral-side-oriented injection nozzles and an outer-peripheral-side-oriented injection nozzle with openings oriented to respective ends of the blade rubber."
+    ],
+    "results": [
+      "The proposed washer apparatus design could potentially improve the performance of wiper blades."
+    ],
+    "research_subject": "Design and implementation of a washer apparatus for wiper blades"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional wiper blade designs may have limitations in effectively distributing washer fluid across the entire blade length.",
+      "There is a need for improved washer fluid injection systems that can better clean windshield surfaces."
+    ],
+    "objectives": [
+      "Design a washer apparatus integrated with the wiper blade coupling portion that optimizes fluid distribution.",
+      "Develop injection nozzles oriented toward blade ends to enhance cleaning coverage."
+    ],
+    "methods": [
+      "Position the washer apparatus at the coupling portion between the blade rubber and holder member.",
+      "Configure injection nozzles with specific orientations toward the blade rubber ends."
+    ],
+    "results": [
+      "Improved distribution of washer fluid across the windshield surface.",
+      "Enhanced cleaning performance through optimized nozzle positioning and orientation."
+    ],
+    "research_subject": "Wiper blade washer apparatus design with oriented injection nozzles"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [\n    \"Utilize a washer apparatus with inner-peripheral-side-oriented and outer-peripheral-side-oriented injection nozzles.\"\n  ],\n  \"results\": [],\n  \"research_subject\": \"Wiper blade washer apparatus design\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an improved washer apparatus for wiper blades.\"\n  ],\n  \"objectives\": [\n    \"To provide a washer apparatus to a coupling portion between a blade rubber and a holder member.\"\n  ],\n  \"methods\": [\n    \"The washer apparatus has a length in the longitudinal direction of the blade rubber, which is set to be shorter than that of the blade rubber.\",\n    \"The apparatus includes inner-peripheral-side-oriented injection nozzles and an outer-peripheral-side-oriented injection nozzle with openings oriented to respective ends of the blade rubber.\"\n  ],\n  \"results\": [\n    \"The proposed washer apparatus design could potentially improve the performance of wiper blades.\"\n  ],\n  \"research_subject\": \"Design and implementation of a washer apparatus for wiper blades\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional wiper blade designs may have limitations in effectively distributing washer fluid across the entire blade length.\",\n    \"There is a need for improved washer fluid injection systems that can better clean windshield surfaces.\"\n  ],\n  \"objectives\": [\n    \"Design a washer apparatus integrated with the wiper blade coupling portion that optimizes fluid distribution.\",\n    \"Develop injection nozzles oriented toward blade ends to enhance cleaning coverage.\"\n  ],\n  \"methods\": [\n    \"Position the washer apparatus at the coupling portion between the blade rubber and holder member.\",\n    \"Configure injection nozzles with specific orientations toward the blade rubber ends.\"\n  ],\n  \"results\": [\n    \"Improved distribution of washer fluid across the windshield surface.\",\n    \"Enhanced cleaning performance through optimized nozzle positioning and orientation.\"\n  ],\n  \"research_subject\": \"Wiper blade washer apparatus design with oriented injection nozzles\"\n}\n```"
+}

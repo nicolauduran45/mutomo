@@ -1,0 +1,73 @@
+{
+  "index": 475,
+  "title": "Correct Enjoyment (and Awareness Raising) of Natura 2000 Locations",
+  "abstract": "The CORALLO project supports the dissemination and use of the natural heritage through a diverse range of edutainment tools and minor and non-intrusive infrastructure interventions within Natura 2000 (N2K) sites. Through the project, state-of-the-art educational services and facilities will be developed in each of the target sites, including extensive use of virtual and extended reality including documentaries and short video clips. In addition, the iconic species and habitats encountered at each of N2K's target sites will be exhibited in different centers identified for intervention, thus capitalizing on the unique strengths and resources held by each site. The CORALLO project also provides mobile awareness tools, i.e. scientific campaigns for citizens, a boat of project information, smartphone apps and games and online tools, which will allow to reach a wide range of end users. CORALLO wants to achieve a greater degree of awareness of the biodiversity existing within N2K sites and the promotion of related ecosystem services. The project then carries out awareness-raising activities with as many end users as possible.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to promote awareness and appreciation of the natural heritage within Natura 2000 locations.",
+      "The biodiversity and ecosystem services within Natura 2000 sites are not adequately recognized or utilized by the general public."
+    ],
+    "objectives": [
+      "Develop and implement edutainment tools and infrastructure interventions to enhance the dissemination and use of natural heritage within Natura 2000 sites.",
+      "Raise awareness of the biodiversity and ecosystem services within Natura 2000 sites among a wide range of end users.",
+      "Promote the unique strengths and resources of each Natura 2000 site through targeted exhibitions and educational services."
+    ],
+    "methods": [
+      "Develop state-of-the-art educational services and facilities, including virtual and extended reality tools, documentaries, and video clips.",
+      "Implement mobile awareness tools, such as scientific campaigns, smartphone apps, games, and online tools, to reach a broad audience.",
+      "Utilize iconic species and habitats to exhibit the unique strengths and resources of each Natura 2000 site."
+    ],
+    "results": [
+      "Enhance public awareness and appreciation of the biodiversity and ecosystem services within Natura 2000 sites.",
+      "Promote the conservation and sustainable use of natural heritage within Natura 2000 locations.",
+      "Engage a wide range of end users in the appreciation and protection of Natura 2000 sites."
+    ],
+    "research_subject": "Promoting awareness and enjoyment of Natura 2000 locations through edutainment and infrastructure interventions"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to promote the dissemination and use of natural heritage within Natura 2000 (N2K) sites.",
+      "Increasing public awareness of the biodiversity within N2K sites and the promotion of related ecosystem services is crucial."
+    ],
+    "objectives": [
+      "Develop state-of-the-art educational services and facilities within N2K sites using a range of edutainment tools and minor infrastructure interventions.",
+      "Exhibit the unique species and habitats of each N2K site in different intervention centers.",
+      "Increase public awareness of the biodiversity within N2K sites through mobile awareness tools and campaigns."
+    ],
+    "methods": [
+      "Use of virtual and extended reality, documentaries, and short video clips as part of the educational services.",
+      "Exhibit species and habitats in different intervention centers.",
+      "Use of mobile awareness tools such as scientific campaigns, project information boats, smartphone apps, games, and online tools."
+    ],
+    "results": [
+      "Increased public engagement and awareness of the biodiversity within N2K sites.",
+      "Promotion of ecosystem services related to N2K sites.",
+      "Enhanced educational services and facilities within N2K sites."
+    ],
+    "research_subject": "Promotion and awareness raising of biodiversity in Natura 2000 sites"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to increase public awareness and understanding of biodiversity within Natura 2000 sites.",
+      "Current approaches to promoting natural heritage sites lack engaging educational tools and infrastructure that can reach diverse audiences."
+    ],
+    "objectives": [
+      "Develop and implement innovative edutainment tools and educational services to promote the natural heritage of Natura 2000 sites.",
+      "Increase public awareness of biodiversity and ecosystem services through diverse outreach methods and state-of-the-art technologies."
+    ],
+    "methods": [
+      "Create virtual and extended reality experiences, documentaries, and video content showcasing iconic species and habitats.",
+      "Develop mobile awareness tools including scientific campaigns, smartphone apps, games, and online platforms.",
+      "Implement minor non-intrusive infrastructure interventions and establish exhibition centers at target sites."
+    ],
+    "results": [
+      "Enhanced public awareness and appreciation of biodiversity within Natura 2000 sites.",
+      "Increased engagement with natural heritage through accessible educational tools reaching a wide range of end users.",
+      "Promotion of ecosystem services and conservation values through innovative edutainment approaches."
+    ],
+    "research_subject": "Educational and technological approaches for promoting biodiversity awareness in Natura 2000 sites"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to promote awareness and appreciation of the natural heritage within Natura 2000 locations.\",\n    \"The biodiversity and ecosystem services within Natura 2000 sites are not adequately recognized or utilized by the general public.\"\n  ],\n  \"objectives\": [\n    \"Develop and implement edutainment tools and infrastructure interventions to enhance the dissemination and use of natural heritage within Natura 2000 sites.\",\n    \"Raise awareness of the biodiversity and ecosystem services within Natura 2000 sites among a wide range of end users.\",\n    \"Promote the unique strengths and resources of each Natura 2000 site through targeted exhibitions and educational services.\"\n  ],\n  \"methods\": [\n    \"Develop state-of-the-art educational services and facilities, including virtual and extended reality tools, documentaries, and video clips.\",\n    \"Implement mobile awareness tools, such as scientific campaigns, smartphone apps, games, and online tools, to reach a broad audience.\",\n    \"Utilize iconic species and habitats to exhibit the unique strengths and resources of each Natura 2000 site.\"\n  ],\n  \"results\": [\n    \"Enhance public awareness and appreciation of the biodiversity and ecosystem services within Natura 2000 sites.\",\n    \"Promote the conservation and sustainable use of natural heritage within Natura 2000 locations.\",\n    \"Engage a wide range of end users in the appreciation and protection of Natura 2000 sites.\"\n  ],\n  \"research_subject\": \"Promoting awareness and enjoyment of Natura 2000 locations through edutainment and infrastructure interventions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to promote the dissemination and use of natural heritage within Natura 2000 (N2K) sites.\",\n    \"Increasing public awareness of the biodiversity within N2K sites and the promotion of related ecosystem services is crucial.\"\n  ],\n  \"objectives\": [\n    \"Develop state-of-the-art educational services and facilities within N2K sites using a range of edutainment tools and minor infrastructure interventions.\",\n    \"Exhibit the unique species and habitats of each N2K site in different intervention centers.\",\n    \"Increase public awareness of the biodiversity within N2K sites through mobile awareness tools and campaigns.\"\n  ],\n  \"methods\": [\n    \"Use of virtual and extended reality, documentaries, and short video clips as part of the educational services.\",\n    \"Exhibit species and habitats in different intervention centers.\",\n    \"Use of mobile awareness tools such as scientific campaigns, project information boats, smartphone apps, games, and online tools.\"\n  ],\n  \"results\": [\n    \"Increased public engagement and awareness of the biodiversity within N2K sites.\",\n    \"Promotion of ecosystem services related to N2K sites.\",\n    \"Enhanced educational services and facilities within N2K sites.\"\n  ],\n  \"research_subject\": \"Promotion and awareness raising of biodiversity in Natura 2000 sites\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to increase public awareness and understanding of biodiversity within Natura 2000 sites.\",\n    \"Current approaches to promoting natural heritage sites lack engaging educational tools and infrastructure that can reach diverse audiences.\"\n  ],\n  \"objectives\": [\n    \"Develop and implement innovative edutainment tools and educational services to promote the natural heritage of Natura 2000 sites.\",\n    \"Increase public awareness of biodiversity and ecosystem services through diverse outreach methods and state-of-the-art technologies.\"\n  ],\n  \"methods\": [\n    \"Create virtual and extended reality experiences, documentaries, and video content showcasing iconic species and habitats.\",\n    \"Develop mobile awareness tools including scientific campaigns, smartphone apps, games, and online platforms.\",\n    \"Implement minor non-intrusive infrastructure interventions and establish exhibition centers at target sites.\"\n  ],\n  \"results\": [\n    \"Enhanced public awareness and appreciation of biodiversity within Natura 2000 sites.\",\n    \"Increased engagement with natural heritage through accessible educational tools reaching a wide range of end users.\",\n    \"Promotion of ecosystem services and conservation values through innovative edutainment approaches.\"\n  ],\n  \"research_subject\": \"Educational and technological approaches for promoting biodiversity awareness in Natura 2000 sites\"\n}\n```"
+}

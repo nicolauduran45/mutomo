@@ -1,0 +1,70 @@
+{
+  "index": 249,
+  "title": "A Vacation-Based Performance Analysis of an Energy-Efficient Motorway Vehicular Communication System",
+  "abstract": "Due to the unprecedented growth in bandwidth requirement, the increasing number of access points (APs) deployed within a macrocell for services such as video conferencing, video gaming, and data off-loading leads to significantly higher energy consumption. This advancement in mobile networks has forced researchers to explore various methods of energy saving, although with little emphasis on motorway vehicular networks where mobility is also an important aspect. Energy saving in these networks is extremely challenging due to the dynamic nature of the environment in which they operate. To analyze such a network, we first develop a performance model for a medium access control (MAC) protocol, namely, the modified version of packet reservation multiple access (M-PRMA) with wireless channel impairments in a motorway vehicular environment. The M-PRMA protocol provides communication links (time slots) between an AP and the vehicles in range. The time slots of the M-PRMA protocol are modeled as servers where each outage of the channel is represented as a server on queue-length-independent vacation. Then, each AP, in a hierarchical micro–macro topology, is modeled as a single-server queue where the AP takes queue-length-dependent vacations (switches to sleep mode) to save energy during its inactivity period, although at the expense of degraded quality of service (QoS). To address this, a number of sleep strategies for the AP are studied. Finally, both of these proposed models (M-PRMA with channel impairments and AP with sleep cycles) are analyzed and verified through simulations. The performance results reveal that the introduction of sleep strategies at an AP can save up to 80% transmission energy during off-peak hours and 66% on average during the day in a motorway vehicular environment while supporting end-to-end QoS for video and audio conferencing applications.",
+  "llama_json": {
+    "motivations": [
+      "The increasing number of access points in mobile networks leads to higher energy consumption, necessitating energy-saving methods.",
+      "Energy saving in motorway vehicular networks is challenging due to the dynamic environment, and existing methods have little emphasis on these networks."
+    ],
+    "objectives": [
+      "Develop a performance model for a medium access control protocol in a motorway vehicular environment with wireless channel impairments.",
+      "Analyze the impact of sleep strategies on energy consumption and quality of service in motorway vehicular networks."
+    ],
+    "methods": [
+      "Model the time slots of the M-PRMA protocol as servers with queue-length-independent vacations representing channel outages.",
+      "Model each access point as a single-server queue with queue-length-dependent vacations to save energy during inactivity periods.",
+      "Analyze and verify the proposed models through simulations."
+    ],
+    "results": [
+      "The introduction of sleep strategies can save up to 80% transmission energy during off-peak hours and 66% on average during the day.",
+      "The proposed approach supports end-to-end quality of service for video and audio conferencing applications in motorway vehicular networks."
+    ],
+    "research_subject": "Energy-efficient motorway vehicular communication system with sleep strategies and performance analysis"
+  },
+  "openai_json": {
+    "motivations": [
+      "The increasing number of access points in mobile networks for services like video conferencing and gaming leads to significantly higher energy consumption.",
+      "Energy saving in motorway vehicular networks is challenging due to the dynamic nature of the environment.",
+      "There is a need to balance energy saving with the quality of service in these networks."
+    ],
+    "objectives": [
+      "Develop a performance model for a medium access control protocol in a motorway vehicular environment.",
+      "Model each access point in a hierarchical micro-macro topology as a single-server queue with sleep cycles to save energy.",
+      "Analyze and verify the proposed models through simulations."
+    ],
+    "methods": [
+      "Use the modified version of packet reservation multiple access protocol to provide communication links between an access point and the vehicles in range.",
+      "Model the time slots of the protocol as servers where each outage of the channel is represented as a server on queue-length-independent vacation.",
+      "Implement sleep strategies at an access point to save energy during its inactivity period."
+    ],
+    "results": [
+      "The introduction of sleep strategies at an access point can save up to 80% transmission energy during off-peak hours and 66% on average during the day in a motorway vehicular environment.",
+      "The proposed models support end-to-end quality of service for video and audio conferencing applications."
+    ],
+    "research_subject": "Energy-efficient motorway vehicular communication system"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The unprecedented growth in bandwidth requirements and increasing number of access points in mobile networks leads to significantly higher energy consumption.",
+      "Energy saving in motorway vehicular networks is extremely challenging due to the dynamic nature of the environment and high mobility of vehicles."
+    ],
+    "objectives": [
+      "Develop a performance model for energy-efficient communication in motorway vehicular networks that balances energy savings with quality of service.",
+      "Analyze the effectiveness of sleep strategies for access points in reducing energy consumption while maintaining adequate service quality for vehicular communications."
+    ],
+    "methods": [
+      "Model the M-PRMA MAC protocol with wireless channel impairments using servers with queue-length-independent vacations to represent channel outages.",
+      "Model access points in a hierarchical micro-macro topology as single-server queues with queue-length-dependent vacations representing sleep modes.",
+      "Analyze and simulate various sleep strategies for access points to evaluate energy savings and quality of service trade-offs."
+    ],
+    "results": [
+      "Sleep strategies at access points can save up to 80% transmission energy during off-peak hours and 66% on average during the day.",
+      "The proposed energy-saving approach maintains end-to-end quality of service for video and audio conferencing applications in motorway vehicular environments."
+    ],
+    "research_subject": "Energy-efficient communication systems for motorway vehicular networks"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing number of access points in mobile networks leads to higher energy consumption, necessitating energy-saving methods.\",\n    \"Energy saving in motorway vehicular networks is challenging due to the dynamic environment, and existing methods have little emphasis on these networks.\"\n  ],\n  \"objectives\": [\n    \"Develop a performance model for a medium access control protocol in a motorway vehicular environment with wireless channel impairments.\",\n    \"Analyze the impact of sleep strategies on energy consumption and quality of service in motorway vehicular networks.\"\n  ],\n  \"methods\": [\n    \"Model the time slots of the M-PRMA protocol as servers with queue-length-independent vacations representing channel outages.\",\n    \"Model each access point as a single-server queue with queue-length-dependent vacations to save energy during inactivity periods.\",\n    \"Analyze and verify the proposed models through simulations.\"\n  ],\n  \"results\": [\n    \"The introduction of sleep strategies can save up to 80% transmission energy during off-peak hours and 66% on average during the day.\",\n    \"The proposed approach supports end-to-end quality of service for video and audio conferencing applications in motorway vehicular networks.\"\n  ],\n  \"research_subject\": \"Energy-efficient motorway vehicular communication system with sleep strategies and performance analysis\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing number of access points in mobile networks for services like video conferencing and gaming leads to significantly higher energy consumption.\",\n    \"Energy saving in motorway vehicular networks is challenging due to the dynamic nature of the environment.\",\n    \"There is a need to balance energy saving with the quality of service in these networks.\"\n  ],\n  \"objectives\": [\n    \"Develop a performance model for a medium access control protocol in a motorway vehicular environment.\",\n    \"Model each access point in a hierarchical micro-macro topology as a single-server queue with sleep cycles to save energy.\",\n    \"Analyze and verify the proposed models through simulations.\"\n  ],\n  \"methods\": [\n    \"Use the modified version of packet reservation multiple access protocol to provide communication links between an access point and the vehicles in range.\",\n    \"Model the time slots of the protocol as servers where each outage of the channel is represented as a server on queue-length-independent vacation.\",\n    \"Implement sleep strategies at an access point to save energy during its inactivity period.\"\n  ],\n  \"results\": [\n    \"The introduction of sleep strategies at an access point can save up to 80% transmission energy during off-peak hours and 66% on average during the day in a motorway vehicular environment.\",\n    \"The proposed models support end-to-end quality of service for video and audio conferencing applications.\"\n  ],\n  \"research_subject\": \"Energy-efficient motorway vehicular communication system\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The unprecedented growth in bandwidth requirements and increasing number of access points in mobile networks leads to significantly higher energy consumption.\",\n    \"Energy saving in motorway vehicular networks is extremely challenging due to the dynamic nature of the environment and high mobility of vehicles.\"\n  ],\n  \"objectives\": [\n    \"Develop a performance model for energy-efficient communication in motorway vehicular networks that balances energy savings with quality of service.\",\n    \"Analyze the effectiveness of sleep strategies for access points in reducing energy consumption while maintaining adequate service quality for vehicular communications.\"\n  ],\n  \"methods\": [\n    \"Model the M-PRMA MAC protocol with wireless channel impairments using servers with queue-length-independent vacations to represent channel outages.\",\n    \"Model access points in a hierarchical micro-macro topology as single-server queues with queue-length-dependent vacations representing sleep modes.\",\n    \"Analyze and simulate various sleep strategies for access points to evaluate energy savings and quality of service trade-offs.\"\n  ],\n  \"results\": [\n    \"Sleep strategies at access points can save up to 80% transmission energy during off-peak hours and 66% on average during the day.\",\n    \"The proposed energy-saving approach maintains end-to-end quality of service for video and audio conferencing applications in motorway vehicular environments.\"\n  ],\n  \"research_subject\": \"Energy-efficient communication systems for motorway vehicular networks\"\n}\n```"
+}

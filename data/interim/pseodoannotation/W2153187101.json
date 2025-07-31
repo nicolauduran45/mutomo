@@ -1,0 +1,76 @@
+{
+  "index": 328,
+  "title": "Getting sports injury prevention on to public health agendas – addressing the shortfalls in current information sources",
+  "abstract": "Public health policy is a successful population-level strategy for injury prevention but it is yet to be widely applied to the sports sector. Such policy is generally coordinated by government health departments concerned with the allocation of limited resources to health service delivery and preventive programs for addressing large community health issues. Prioritisation of sports injury prevention (SIP) requires high-quality evidence about the size of the problem and its public health burden; identification of at-risk vulnerable groups; confirmed effective prevention solutions; evidence of intervention cost-effectiveness; and quantification of both financial and policy implications of inaction. This paper argues that the major reason for a lack of sports injury policy by government departments for health or sport to date is a lack of relevant information available for policy makers to make their decisions. Key information gaps evident in Australia are used to highlight this problem. SIP policy does not yet rank highly because, relative to other health/injury issues, there is very little hard evidence to support: claims for its priority ranking, the existence of solutions that can be implemented and which will work, and potential cost-savings to government agencies. Moreover, policy action needs to be integrated across government portfolios, including sport, health and others. Until sports medicine research generates high-quality population-level information of direct relevance and importance to policy makers, especially intervention costing and implementation cost-benefit estimates, and fully engage in policy-informing partnerships, SIP will continue to be left off the public health agenda.",
+  "llama_json": {
+    "motivations": [
+      "Sports injury prevention is not a priority in public health policy due to a lack of relevant information available for policymakers to make informed decisions.",
+      "There is a need for high-quality evidence on the size of the problem, at-risk groups, effective prevention solutions, and cost-effectiveness to support policy action."
+    ],
+    "objectives": [
+      "Highlight the information gaps that hinder the development of sports injury prevention policy by government departments.",
+      "Emphasize the need for sports medicine research to generate high-quality population-level information to inform policy decisions.",
+      "Encourage policy-informing partnerships to prioritize sports injury prevention on the public health agenda."
+    ],
+    "methods": [
+      "Analyze the current state of sports injury prevention policy and identify key information gaps.",
+      "Use Australia as a case study to illustrate the problem and the need for relevant information.",
+      "Argue for the importance of generating high-quality evidence to support policy action."
+    ],
+    "results": [
+      "Inform policymakers about the need for sports injury prevention policy and the importance of addressing information gaps.",
+      "Encourage sports medicine research to focus on generating high-quality population-level information to support policy decisions.",
+      "Ultimately prioritize sports injury prevention on the public health agenda."
+    ],
+    "research_subject": "Addressing information gaps to prioritize sports injury prevention on public health agendas"
+  },
+  "openai_json": {
+    "motivations": [
+      "Public health policy has not been widely applied to the sports sector for injury prevention, despite its success in other areas.",
+      "There is a lack of high-quality evidence about the size, burden, at-risk groups, effective solutions, and cost-effectiveness of sports injury prevention.",
+      "The absence of sports injury prevention policy is largely due to a lack of relevant information for policy makers."
+    ],
+    "objectives": [
+      "Highlight the need for high-quality, population-level information to inform sports injury prevention policy.",
+      "Identify the key information gaps that currently exist, using Australia as an example.",
+      "Advocate for sports medicine research to generate relevant and important data for policy makers, including cost-benefit estimates."
+    ],
+    "methods": [
+      "Review and critique the current state of sports injury prevention policy and the information used to inform it.",
+      "Identify and discuss key information gaps in the context of Australia's sports injury prevention efforts.",
+      "Propose strategies for sports medicine research to address these gaps and better inform policy."
+    ],
+    "results": [
+      "Highlight the need for more relevant and high-quality information to inform sports injury prevention policy.",
+      "Identify key information gaps that are hindering the prioritization of sports injury prevention.",
+      "Propose a path forward for sports medicine research to better inform policy and get sports injury prevention on public health agendas."
+    ],
+    "research_subject": "Addressing information shortfalls in sports injury prevention for public health policy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Sports injury prevention lacks integration into public health policy despite being a significant health issue.",
+      "Policy makers lack access to high-quality evidence about the public health burden of sports injuries and cost-effective prevention solutions.",
+      "Current sports medicine research fails to provide population-level information relevant to government health departments' decision-making processes."
+    ],
+    "objectives": [
+      "Identify and address the information gaps that prevent sports injury prevention from being prioritized in public health policy.",
+      "Advocate for the generation of high-quality evidence on sports injury burden, at-risk groups, and cost-effective interventions to inform policy decisions.",
+      "Promote integration of sports injury prevention across government portfolios including health and sport departments."
+    ],
+    "methods": [
+      "Analysis of current information sources and identification of key gaps in sports injury data relevant to policy makers.",
+      "Examination of Australian context as a case study to highlight systemic information deficiencies.",
+      "Review of policy-making requirements including burden quantification, intervention effectiveness, and cost-benefit analyses."
+    ],
+    "results": [
+      "Demonstrates that lack of population-level data and cost-effectiveness evidence prevents sports injury prevention from achieving public health policy priority.",
+      "Highlights the need for sports medicine research to generate policy-relevant information including intervention costing and implementation benefits.",
+      "Emphasizes the requirement for cross-portfolio government integration to effectively address sports injury prevention."
+    ],
+    "research_subject": "Information gaps preventing sports injury prevention from inclusion in public health policy agendas"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Sports injury prevention is not a priority in public health policy due to a lack of relevant information available for policymakers to make informed decisions.\",\n    \"There is a need for high-quality evidence on the size of the problem, at-risk groups, effective prevention solutions, and cost-effectiveness to support policy action.\"\n  ],\n  \"objectives\": [\n    \"Highlight the information gaps that hinder the development of sports injury prevention policy by government departments.\",\n    \"Emphasize the need for sports medicine research to generate high-quality population-level information to inform policy decisions.\",\n    \"Encourage policy-informing partnerships to prioritize sports injury prevention on the public health agenda.\"\n  ],\n  \"methods\": [\n    \"Analyze the current state of sports injury prevention policy and identify key information gaps.\",\n    \"Use Australia as a case study to illustrate the problem and the need for relevant information.\",\n    \"Argue for the importance of generating high-quality evidence to support policy action.\"\n  ],\n  \"results\": [\n    \"Inform policymakers about the need for sports injury prevention policy and the importance of addressing information gaps.\",\n    \"Encourage sports medicine research to focus on generating high-quality population-level information to support policy decisions.\",\n    \"Ultimately prioritize sports injury prevention on the public health agenda.\"\n  ],\n  \"research_subject\": \"Addressing information gaps to prioritize sports injury prevention on public health agendas\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Public health policy has not been widely applied to the sports sector for injury prevention, despite its success in other areas.\",\n    \"There is a lack of high-quality evidence about the size, burden, at-risk groups, effective solutions, and cost-effectiveness of sports injury prevention.\",\n    \"The absence of sports injury prevention policy is largely due to a lack of relevant information for policy makers.\"\n  ],\n  \"objectives\": [\n    \"Highlight the need for high-quality, population-level information to inform sports injury prevention policy.\",\n    \"Identify the key information gaps that currently exist, using Australia as an example.\",\n    \"Advocate for sports medicine research to generate relevant and important data for policy makers, including cost-benefit estimates.\"\n  ],\n  \"methods\": [\n    \"Review and critique the current state of sports injury prevention policy and the information used to inform it.\",\n    \"Identify and discuss key information gaps in the context of Australia's sports injury prevention efforts.\",\n    \"Propose strategies for sports medicine research to address these gaps and better inform policy.\"\n  ],\n  \"results\": [\n    \"Highlight the need for more relevant and high-quality information to inform sports injury prevention policy.\",\n    \"Identify key information gaps that are hindering the prioritization of sports injury prevention.\",\n    \"Propose a path forward for sports medicine research to better inform policy and get sports injury prevention on public health agendas.\"\n  ],\n  \"research_subject\": \"Addressing information shortfalls in sports injury prevention for public health policy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Sports injury prevention lacks integration into public health policy despite being a significant health issue.\",\n    \"Policy makers lack access to high-quality evidence about the public health burden of sports injuries and cost-effective prevention solutions.\",\n    \"Current sports medicine research fails to provide population-level information relevant to government health departments' decision-making processes.\"\n  ],\n  \"objectives\": [\n    \"Identify and address the information gaps that prevent sports injury prevention from being prioritized in public health policy.\",\n    \"Advocate for the generation of high-quality evidence on sports injury burden, at-risk groups, and cost-effective interventions to inform policy decisions.\",\n    \"Promote integration of sports injury prevention across government portfolios including health and sport departments.\"\n  ],\n  \"methods\": [\n    \"Analysis of current information sources and identification of key gaps in sports injury data relevant to policy makers.\",\n    \"Examination of Australian context as a case study to highlight systemic information deficiencies.\",\n    \"Review of policy-making requirements including burden quantification, intervention effectiveness, and cost-benefit analyses.\"\n  ],\n  \"results\": [\n    \"Demonstrates that lack of population-level data and cost-effectiveness evidence prevents sports injury prevention from achieving public health policy priority.\",\n    \"Highlights the need for sports medicine research to generate policy-relevant information including intervention costing and implementation benefits.\",\n    \"Emphasizes the requirement for cross-portfolio government integration to effectively address sports injury prevention.\"\n  ],\n  \"research_subject\": \"Information gaps preventing sports injury prevention from inclusion in public health policy agendas\"\n}\n```"
+}

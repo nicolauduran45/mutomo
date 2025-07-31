@@ -1,0 +1,75 @@
+{
+  "index": 80,
+  "title": "Bridging integrability and chaos to decipher out-of-equilibrium quantum matter",
+  "abstract": "The proposal tackles fundamental open questions about out-of-equilibrium quantum matter that have recently become of experimental and technological relevance. The main objectives are: (i) Understand how, and when equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems. (ii) Explain the fundamental mathematical structure underlying universal dynamical features.  I will address these issues by developing an overarching description of finite-time dynamics based on integrable and chaotic systems. The idea is to characterise quantitatively the dynamics by pinpointing paradigmatic exactly solvable models. The exact solutions of these models will also help to elaborate new analytical and numerical techniques. The proposal encompasses two main parts: WP1-2.  WP1 is devoted to integrable systems. These are systems with a macroscopic number of local conservation laws. They play a key role in understanding out-of-equilibrium quantum matter because their dynamics is sufficiently constrained to be, to some extent, solvable. I will devise a general method for describing their large but finite time dynamics. In particular, I will characterise their approach to the asymptotic (generalized) hydrodynamic regime which I recently helped to identify.  WP2 focusses on maximally chaotic systems, i.e. systems without local conservation laws. These systems are interesting because are able to model several generic dynamical features. I will characterise the maximally-chaotic dynamics in any spatial dimension using “dual-unitary quantum circuits”, a class of solvable periodically-driven systems that my collaborators and I recently introduced.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand how equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems.",
+      "The fundamental mathematical structure underlying universal dynamical features in out-of-equilibrium quantum matter remains unexplained."
+    ],
+    "objectives": [
+      "Develop an overarching description of finite-time dynamics in out-of-equilibrium quantum matter based on integrable and chaotic systems.",
+      "Characterize quantitatively the dynamics of paradigmatic exactly solvable models to elaborate new analytical and numerical techniques.",
+      "Explain the emergence of equilibrium statistical mechanics from coherent dynamics and the underlying mathematical structure of universal dynamical features."
+    ],
+    "methods": [
+      "Devise a general method for describing the large but finite time dynamics of integrable systems with a macroscopic number of local conservation laws.",
+      "Utilize exactly solvable models, such as dual-unitary quantum circuits, to characterize the dynamics of maximally chaotic systems.",
+      "Develop new analytical and numerical techniques based on the exact solutions of paradigmatic models."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of the dynamics of out-of-equilibrium quantum matter.",
+      "Elucidate the emergence of equilibrium statistical mechanics from coherent dynamics.",
+      "Reveal the fundamental mathematical structure underlying universal dynamical features in quantum systems."
+    ],
+    "research_subject": "Out-of-equilibrium quantum matter and the interplay between integrability and chaos"
+  },
+  "openai_json": {
+    "motivations": [
+      "There are fundamental open questions about out-of-equilibrium quantum matter that have recently become of experimental and technological relevance.",
+      "There is a need to understand how and when equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems.",
+      "There is a need to explain the fundamental mathematical structure underlying universal dynamical features."
+    ],
+    "objectives": [
+      "Understand how and when equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems.",
+      "Explain the fundamental mathematical structure underlying universal dynamical features.",
+      "Develop an overarching description of finite-time dynamics based on integrable and chaotic systems."
+    ],
+    "methods": [
+      "Characterise quantitatively the dynamics by pinpointing paradigmatic exactly solvable models.",
+      "Develop new analytical and numerical techniques using the exact solutions of these models.",
+      "Use dual-unitary quantum circuits to characterise the maximally-chaotic dynamics in any spatial dimension."
+    ],
+    "results": [
+      "Provide a general method for describing the large but finite time dynamics of integrable systems.",
+      "Characterise the approach of integrable systems to the asymptotic (generalized) hydrodynamic regime.",
+      "Characterise the maximally-chaotic dynamics in any spatial dimension using dual-unitary quantum circuits."
+    ],
+    "research_subject": "Out-of-equilibrium quantum matter and its dynamics"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding how equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems remains a fundamental open question in physics.",
+      "The mathematical structure underlying universal dynamical features in out-of-equilibrium quantum matter needs to be explained, particularly given recent experimental and technological relevance."
+    ],
+    "objectives": [
+      "Understand how and when equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems.",
+      "Explain the fundamental mathematical structure underlying universal dynamical features in quantum systems.",
+      "Develop an overarching description of finite-time dynamics based on integrable and chaotic systems."
+    ],
+    "methods": [
+      "Characterize quantitative dynamics by identifying and analyzing paradigmatic exactly solvable models.",
+      "Devise a general method for describing large but finite time dynamics in integrable systems with macroscopic conservation laws.",
+      "Characterize maximally-chaotic dynamics using dual-unitary quantum circuits in any spatial dimension."
+    ],
+    "results": [
+      "Development of new analytical and numerical techniques based on exact solutions of paradigmatic models.",
+      "Characterization of the approach to asymptotic hydrodynamic regimes in integrable systems.",
+      "Understanding of maximally-chaotic dynamics through solvable periodically-driven systems."
+    ],
+    "research_subject": "Out-of-equilibrium quantum matter dynamics in integrable and chaotic systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand how equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems.\",\n    \"The fundamental mathematical structure underlying universal dynamical features in out-of-equilibrium quantum matter remains unexplained.\"\n  ],\n  \"objectives\": [\n    \"Develop an overarching description of finite-time dynamics in out-of-equilibrium quantum matter based on integrable and chaotic systems.\",\n    \"Characterize quantitatively the dynamics of paradigmatic exactly solvable models to elaborate new analytical and numerical techniques.\",\n    \"Explain the emergence of equilibrium statistical mechanics from coherent dynamics and the underlying mathematical structure of universal dynamical features.\"\n  ],\n  \"methods\": [\n    \"Devise a general method for describing the large but finite time dynamics of integrable systems with a macroscopic number of local conservation laws.\",\n    \"Utilize exactly solvable models, such as dual-unitary quantum circuits, to characterize the dynamics of maximally chaotic systems.\",\n    \"Develop new analytical and numerical techniques based on the exact solutions of paradigmatic models.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of the dynamics of out-of-equilibrium quantum matter.\",\n    \"Elucidate the emergence of equilibrium statistical mechanics from coherent dynamics.\",\n    \"Reveal the fundamental mathematical structure underlying universal dynamical features in quantum systems.\"\n  ],\n  \"research_subject\": \"Out-of-equilibrium quantum matter and the interplay between integrability and chaos\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There are fundamental open questions about out-of-equilibrium quantum matter that have recently become of experimental and technological relevance.\",\n    \"There is a need to understand how and when equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems.\",\n    \"There is a need to explain the fundamental mathematical structure underlying universal dynamical features.\"\n  ],\n  \"objectives\": [\n    \"Understand how and when equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems.\",\n    \"Explain the fundamental mathematical structure underlying universal dynamical features.\",\n    \"Develop an overarching description of finite-time dynamics based on integrable and chaotic systems.\"\n  ],\n  \"methods\": [\n    \"Characterise quantitatively the dynamics by pinpointing paradigmatic exactly solvable models.\",\n    \"Develop new analytical and numerical techniques using the exact solutions of these models.\",\n    \"Use dual-unitary quantum circuits to characterise the maximally-chaotic dynamics in any spatial dimension.\"\n  ],\n  \"results\": [\n    \"Provide a general method for describing the large but finite time dynamics of integrable systems.\",\n    \"Characterise the approach of integrable systems to the asymptotic (generalized) hydrodynamic regime.\",\n    \"Characterise the maximally-chaotic dynamics in any spatial dimension using dual-unitary quantum circuits.\"\n  ],\n  \"research_subject\": \"Out-of-equilibrium quantum matter and its dynamics\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems remains a fundamental open question in physics.\",\n    \"The mathematical structure underlying universal dynamical features in out-of-equilibrium quantum matter needs to be explained, particularly given recent experimental and technological relevance.\"\n  ],\n  \"objectives\": [\n    \"Understand how and when equilibrium statistical mechanics emerges from the coherent dynamics of closed quantum systems.\",\n    \"Explain the fundamental mathematical structure underlying universal dynamical features in quantum systems.\",\n    \"Develop an overarching description of finite-time dynamics based on integrable and chaotic systems.\"\n  ],\n  \"methods\": [\n    \"Characterize quantitative dynamics by identifying and analyzing paradigmatic exactly solvable models.\",\n    \"Devise a general method for describing large but finite time dynamics in integrable systems with macroscopic conservation laws.\",\n    \"Characterize maximally-chaotic dynamics using dual-unitary quantum circuits in any spatial dimension.\"\n  ],\n  \"results\": [\n    \"Development of new analytical and numerical techniques based on exact solutions of paradigmatic models.\",\n    \"Characterization of the approach to asymptotic hydrodynamic regimes in integrable systems.\",\n    \"Understanding of maximally-chaotic dynamics through solvable periodically-driven systems.\"\n  ],\n  \"research_subject\": \"Out-of-equilibrium quantum matter dynamics in integrable and chaotic systems\"\n}\n```"
+}

@@ -1,0 +1,69 @@
+{
+  "index": 213,
+  "title": "Trends in Serum Lipids Among US Youths Aged 6 to 19 Years, 1988-2010",
+  "abstract": "For more than 20 years, primary prevention of coronary heart disease has included strategies intended to improve overall serum lipid concentrations among youths.To examine trends in lipid concentrations among youths from 1988-1994 through 2007-2010.Cross-sectional analysis of serum lipid concentrations among 16,116 youths aged 6 to 19 years who participated in the nationally representative National Health and Nutrition Examination Survey during 3 time periods: 1988-1994, 1999-2002, and 2007-2010.Among all youths, mean serum total cholesterol (TC), non-high-density lipoprotein cholesterol (non-HDL-C), high-density lipoprotein cholesterol (HDL-C); and among adolescents only, low-density lipoprotein cholesterol (LDL-C) and geometric mean triglyceride levels. Trends in adverse lipid concentrations are reported for TC levels of 200 mg/dL and greater, non-HDL-C levels of 145 mg/dL and greater, HDL-C levels of less than 40 mg/dL, LDL-C levels of 130 mg/dL and greater, and triglyceride levels of 130 mg/dL and greater.Among youths aged 6 to 19 years between 1988-1994 and 2007-2010, there was a decrease in mean TC (from 165 mg/dL [95% CI, 164-167] to 160 mg/dL [95% CI, 158-161]; P < .001) and a decrease in the prevalence of elevated TC (from 11.3% [95% CI, 9.8%-12.7%] to 8.1% [95% CI, 6.7%-9.5%]; P = .002). Mean HDL-C significantly increased between 1988-1994 and 2007-2010, but the prevalence of low HDL-C did not change. Mean non-HDL-C and prevalence of elevated non-HDL-C both significantly decreased over the study period. In 2007-2010, 22% (95% CI, 20.3%-23.6%) of youths had either a low HDL-C level or high non-HDL-C, which was lower than the 27.2% (95% CI, 24.6%-29.7%) in 1988-1994 (P = .001). Among adolescents (aged 12-19 years) between 1988-1994 and 2007-2010, there was a decrease in mean LDL-C (from 95 mg/dL [95% CI, 92-98] to 90 mg/dL [95% CI, 88-91]; P = .003) and a decrease in geometric mean triglycerides (from 82 mg/dL [95% CI, 78-86] to 73 mg/dL [95% CI, 70-76]; P < .001). Prevalence of elevated LDL-C and triglycerides between 1988-1994 and 2007-2010 also significantly decreased.Between 1988-1994 and 2007-2010, a favorable trend in serum lipid concentrations was observed among youths in the United States but almost 1 in 10 had elevated TC in 2007-2010.",
+  "llama_json": {
+    "motivations": [
+      "Primary prevention of coronary heart disease among youths requires strategies to improve overall serum lipid concentrations.",
+      "There is a need to examine trends in lipid concentrations among youths over time to assess the effectiveness of these strategies."
+    ],
+    "objectives": [
+      "Examine trends in serum lipid concentrations among US youths aged 6 to 19 years from 1988-1994 through 2007-2010.",
+      "Assess changes in the prevalence of adverse lipid concentrations among youths over this period."
+    ],
+    "methods": [
+      "Conduct a cross-sectional analysis of serum lipid concentrations among a nationally representative sample of US youths.",
+      "Use data from the National Health and Nutrition Examination Survey (NHANES) for three time periods: 1988-1994, 1999-2002, and 2007-2010."
+    ],
+    "results": [
+      "Mean serum total cholesterol and non-HDL-C decreased among youths from 1988-1994 to 2007-2010.",
+      "Prevalence of elevated TC, non-HDL-C, LDL-C, and triglycerides also decreased over this period.",
+      "Despite these favorable trends, almost 1 in 10 youths had elevated TC in 2007-2010."
+    ],
+    "research_subject": "Trends in serum lipid concentrations among US youths aged 6 to 19 years"
+  },
+  "openai_json": {
+    "motivations": [
+      "Primary prevention of coronary heart disease has included strategies to improve serum lipid concentrations among youths for over 20 years.",
+      "There is a need to examine the trends in lipid concentrations among youths over time."
+    ],
+    "objectives": [
+      "Analyze the trends in serum lipid concentrations among US youths from 1988 to 2010.",
+      "Investigate the prevalence of adverse lipid concentrations among youths over the same period."
+    ],
+    "methods": [
+      "Conduct a cross-sectional analysis of serum lipid concentrations among youths who participated in the National Health and Nutrition Examination Survey during three time periods: 1988-1994, 1999-2002, and 2007-2010.",
+      "Measure mean serum total cholesterol, non-high-density lipoprotein cholesterol, high-density lipoprotein cholesterol, and among adolescents only, low-density lipoprotein cholesterol and geometric mean triglyceride levels."
+    ],
+    "results": [
+      "A decrease in mean total cholesterol and the prevalence of elevated total cholesterol among youths was observed from 1988-1994 to 2007-2010.",
+      "Mean high-density lipoprotein cholesterol significantly increased, but the prevalence of low high-density lipoprotein cholesterol did not change.",
+      "Mean non-high-density lipoprotein cholesterol and prevalence of elevated non-high-density lipoprotein cholesterol both significantly decreased over the study period.",
+      "Among adolescents, there was a decrease in mean low-density lipoprotein cholesterol and geometric mean triglycerides."
+    ],
+    "research_subject": "Trends in serum lipids among US youths from 1988 to 2010"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Primary prevention of coronary heart disease has focused on improving serum lipid concentrations among youths for over 20 years.",
+      "Understanding trends in lipid concentrations among youths is essential for evaluating the effectiveness of prevention strategies and informing future public health interventions."
+    ],
+    "objectives": [
+      "Examine trends in serum lipid concentrations among US youths aged 6 to 19 years from 1988-1994 through 2007-2010.",
+      "Assess changes in the prevalence of adverse lipid concentrations over the study period."
+    ],
+    "methods": [
+      "Conducted cross-sectional analysis of serum lipid concentrations using data from the National Health and Nutrition Examination Survey.",
+      "Analyzed lipid measurements including total cholesterol, non-HDL cholesterol, HDL cholesterol, LDL cholesterol, and triglycerides across three time periods."
+    ],
+    "results": [
+      "Mean total cholesterol decreased from 165 mg/dL to 160 mg/dL and prevalence of elevated total cholesterol decreased from 11.3% to 8.1% between 1988-1994 and 2007-2010.",
+      "Favorable trends were observed in multiple lipid parameters, with significant decreases in mean LDL cholesterol and triglycerides among adolescents.",
+      "Despite improvements, almost 1 in 10 youths still had elevated total cholesterol in 2007-2010."
+    ],
+    "research_subject": "Trends in serum lipid concentrations among US youths aged 6-19 years"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Primary prevention of coronary heart disease among youths requires strategies to improve overall serum lipid concentrations.\",\n    \"There is a need to examine trends in lipid concentrations among youths over time to assess the effectiveness of these strategies.\"\n  ],\n  \"objectives\": [\n    \"Examine trends in serum lipid concentrations among US youths aged 6 to 19 years from 1988-1994 through 2007-2010.\",\n    \"Assess changes in the prevalence of adverse lipid concentrations among youths over this period.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional analysis of serum lipid concentrations among a nationally representative sample of US youths.\",\n    \"Use data from the National Health and Nutrition Examination Survey (NHANES) for three time periods: 1988-1994, 1999-2002, and 2007-2010.\"\n  ],\n  \"results\": [\n    \"Mean serum total cholesterol and non-HDL-C decreased among youths from 1988-1994 to 2007-2010.\",\n    \"Prevalence of elevated TC, non-HDL-C, LDL-C, and triglycerides also decreased over this period.\",\n    \"Despite these favorable trends, almost 1 in 10 youths had elevated TC in 2007-2010.\"\n  ],\n  \"research_subject\": \"Trends in serum lipid concentrations among US youths aged 6 to 19 years\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Primary prevention of coronary heart disease has included strategies to improve serum lipid concentrations among youths for over 20 years.\",\n    \"There is a need to examine the trends in lipid concentrations among youths over time.\"\n  ],\n  \"objectives\": [\n    \"Analyze the trends in serum lipid concentrations among US youths from 1988 to 2010.\",\n    \"Investigate the prevalence of adverse lipid concentrations among youths over the same period.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional analysis of serum lipid concentrations among youths who participated in the National Health and Nutrition Examination Survey during three time periods: 1988-1994, 1999-2002, and 2007-2010.\",\n    \"Measure mean serum total cholesterol, non-high-density lipoprotein cholesterol, high-density lipoprotein cholesterol, and among adolescents only, low-density lipoprotein cholesterol and geometric mean triglyceride levels.\"\n  ],\n  \"results\": [\n    \"A decrease in mean total cholesterol and the prevalence of elevated total cholesterol among youths was observed from 1988-1994 to 2007-2010.\",\n    \"Mean high-density lipoprotein cholesterol significantly increased, but the prevalence of low high-density lipoprotein cholesterol did not change.\",\n    \"Mean non-high-density lipoprotein cholesterol and prevalence of elevated non-high-density lipoprotein cholesterol both significantly decreased over the study period.\",\n    \"Among adolescents, there was a decrease in mean low-density lipoprotein cholesterol and geometric mean triglycerides.\"\n  ],\n  \"research_subject\": \"Trends in serum lipids among US youths from 1988 to 2010\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Primary prevention of coronary heart disease has focused on improving serum lipid concentrations among youths for over 20 years.\",\n    \"Understanding trends in lipid concentrations among youths is essential for evaluating the effectiveness of prevention strategies and informing future public health interventions.\"\n  ],\n  \"objectives\": [\n    \"Examine trends in serum lipid concentrations among US youths aged 6 to 19 years from 1988-1994 through 2007-2010.\",\n    \"Assess changes in the prevalence of adverse lipid concentrations over the study period.\"\n  ],\n  \"methods\": [\n    \"Conducted cross-sectional analysis of serum lipid concentrations using data from the National Health and Nutrition Examination Survey.\",\n    \"Analyzed lipid measurements including total cholesterol, non-HDL cholesterol, HDL cholesterol, LDL cholesterol, and triglycerides across three time periods.\"\n  ],\n  \"results\": [\n    \"Mean total cholesterol decreased from 165 mg/dL to 160 mg/dL and prevalence of elevated total cholesterol decreased from 11.3% to 8.1% between 1988-1994 and 2007-2010.\",\n    \"Favorable trends were observed in multiple lipid parameters, with significant decreases in mean LDL cholesterol and triglycerides among adolescents.\",\n    \"Despite improvements, almost 1 in 10 youths still had elevated total cholesterol in 2007-2010.\"\n  ],\n  \"research_subject\": \"Trends in serum lipid concentrations among US youths aged 6-19 years\"\n}\n```"
+}

@@ -1,0 +1,67 @@
+{
+  "index": 288,
+  "title": "Antecedents to the Adoption of Mobile Payment in China and Italy: an Integration of UTAUT2 and Innovation Resistance Theory",
+  "abstract": "This research aims to investigate the adoption gap in mobile payment systems between Italy and China, focusing on users' intention to adopt mobile payment. The theoretical framing considers both drivers and barriers when combines the unified theory of acceptance and use of technology 2 (UTAUT2) with innovation resistance theory (IRT). To empirically verify the proposed model, this study gathers primary data through a web-based, self-administered survey. To analyze the data, we use structural equation modeling, and to test for significant differences between the two groups we run multi-group analysis. The respondents in Italy and China present different behaviors. Social influence plays a significant role in cultures with high uncertainty avoidance, such as Italy. The tradition barrier is the only significant barrier to the adoption of mobile payment.",
+  "llama_json": {
+    "motivations": [
+      "There is a notable gap in the adoption of mobile payment systems between Italy and China.",
+      "Understanding the drivers and barriers to mobile payment adoption is crucial for promoting its use."
+    ],
+    "objectives": [
+      "Investigate the factors influencing users' intention to adopt mobile payment in Italy and China.",
+      "Integrate the unified theory of acceptance and use of technology 2 (UTAUT2) with innovation resistance theory (IRT) to better understand mobile payment adoption."
+    ],
+    "methods": [
+      "Conduct a web-based, self-administered survey to gather primary data.",
+      "Use structural equation modeling to analyze the data and multi-group analysis to compare results between Italy and China."
+    ],
+    "results": [
+      "Identify the significant role of social influence in cultures with high uncertainty avoidance, such as Italy.",
+      "Determine the tradition barrier as a significant obstacle to mobile payment adoption."
+    ],
+    "research_subject": "Cross-cultural analysis of mobile payment adoption in China and Italy"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a noticeable adoption gap in mobile payment systems between Italy and China, which needs to be investigated.",
+      "Understanding the factors influencing users' intention to adopt mobile payment systems is crucial for its wider acceptance."
+    ],
+    "objectives": [
+      "Investigate the adoption gap in mobile payment systems between Italy and China, focusing on users' intention to adopt mobile payment.",
+      "Combine the unified theory of acceptance and use of technology 2 (UTAUT2) with innovation resistance theory (IRT) to understand both drivers and barriers to mobile payment adoption."
+    ],
+    "methods": [
+      "Collect primary data through a web-based, self-administered survey.",
+      "Use structural equation modeling to analyze the data, and run multi-group analysis to test for significant differences between the two groups."
+    ],
+    "results": [
+      "Identify different behaviors in mobile payment adoption between respondents in Italy and China.",
+      "Find that social influence plays a significant role in cultures with high uncertainty avoidance, such as Italy.",
+      "Discover that the tradition barrier is the only significant barrier to the adoption of mobile payment."
+    ],
+    "research_subject": "Adoption of mobile payment systems in Italy and China"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There exists a significant adoption gap in mobile payment systems between Italy and China that needs to be understood.",
+      "Current adoption models may not fully capture both the drivers and barriers that influence users' intention to adopt mobile payment technologies."
+    ],
+    "objectives": [
+      "Investigate the factors influencing mobile payment adoption in China and Italy by integrating UTAUT2 and Innovation Resistance Theory.",
+      "Identify and compare the key drivers and barriers affecting users' intention to adopt mobile payment systems in both countries."
+    ],
+    "methods": [
+      "Conduct a web-based, self-administered survey to collect primary data from users in Italy and China.",
+      "Apply structural equation modeling and multi-group analysis to analyze the data and test for significant differences between the two countries."
+    ],
+    "results": [
+      "Social influence significantly affects mobile payment adoption in high uncertainty avoidance cultures like Italy.",
+      "The tradition barrier emerges as the only significant obstacle to mobile payment adoption across both countries.",
+      "Italian and Chinese users exhibit different behavioral patterns in their adoption of mobile payment systems."
+    ],
+    "research_subject": "Mobile payment adoption drivers and barriers in China and Italy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a notable gap in the adoption of mobile payment systems between Italy and China.\",\n    \"Understanding the drivers and barriers to mobile payment adoption is crucial for promoting its use.\"\n  ],\n  \"objectives\": [\n    \"Investigate the factors influencing users' intention to adopt mobile payment in Italy and China.\",\n    \"Integrate the unified theory of acceptance and use of technology 2 (UTAUT2) with innovation resistance theory (IRT) to better understand mobile payment adoption.\"\n  ],\n  \"methods\": [\n    \"Conduct a web-based, self-administered survey to gather primary data.\",\n    \"Use structural equation modeling to analyze the data and multi-group analysis to compare results between Italy and China.\"\n  ],\n  \"results\": [\n    \"Identify the significant role of social influence in cultures with high uncertainty avoidance, such as Italy.\",\n    \"Determine the tradition barrier as a significant obstacle to mobile payment adoption.\"\n  ],\n  \"research_subject\": \"Cross-cultural analysis of mobile payment adoption in China and Italy\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a noticeable adoption gap in mobile payment systems between Italy and China, which needs to be investigated.\",\n    \"Understanding the factors influencing users' intention to adopt mobile payment systems is crucial for its wider acceptance.\"\n  ],\n  \"objectives\": [\n    \"Investigate the adoption gap in mobile payment systems between Italy and China, focusing on users' intention to adopt mobile payment.\",\n    \"Combine the unified theory of acceptance and use of technology 2 (UTAUT2) with innovation resistance theory (IRT) to understand both drivers and barriers to mobile payment adoption.\"\n  ],\n  \"methods\": [\n    \"Collect primary data through a web-based, self-administered survey.\",\n    \"Use structural equation modeling to analyze the data, and run multi-group analysis to test for significant differences between the two groups.\"\n  ],\n  \"results\": [\n    \"Identify different behaviors in mobile payment adoption between respondents in Italy and China.\",\n    \"Find that social influence plays a significant role in cultures with high uncertainty avoidance, such as Italy.\",\n    \"Discover that the tradition barrier is the only significant barrier to the adoption of mobile payment.\"\n  ],\n  \"research_subject\": \"Adoption of mobile payment systems in Italy and China\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There exists a significant adoption gap in mobile payment systems between Italy and China that needs to be understood.\",\n    \"Current adoption models may not fully capture both the drivers and barriers that influence users' intention to adopt mobile payment technologies.\"\n  ],\n  \"objectives\": [\n    \"Investigate the factors influencing mobile payment adoption in China and Italy by integrating UTAUT2 and Innovation Resistance Theory.\",\n    \"Identify and compare the key drivers and barriers affecting users' intention to adopt mobile payment systems in both countries.\"\n  ],\n  \"methods\": [\n    \"Conduct a web-based, self-administered survey to collect primary data from users in Italy and China.\",\n    \"Apply structural equation modeling and multi-group analysis to analyze the data and test for significant differences between the two countries.\"\n  ],\n  \"results\": [\n    \"Social influence significantly affects mobile payment adoption in high uncertainty avoidance cultures like Italy.\",\n    \"The tradition barrier emerges as the only significant obstacle to mobile payment adoption across both countries.\",\n    \"Italian and Chinese users exhibit different behavioral patterns in their adoption of mobile payment systems.\"\n  ],\n  \"research_subject\": \"Mobile payment adoption drivers and barriers in China and Italy\"\n}\n```"
+}

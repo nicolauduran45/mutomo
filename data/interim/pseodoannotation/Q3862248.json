@@ -1,0 +1,41 @@
+{
+  "index": 50,
+  "title": "Support for small enterprises with a turnover of more than BGN 500 000 to overcome the economic impact of the COVID-19 pandemic",
+  "abstract": "Support for small enterprises with a turnover of more than BGN 500 000 to overcome the economic impact of the COVID-19 pandemic",
+  "llama_json": {
+    "motivations": [
+      "Small enterprises are facing economic challenges due to the COVID-19 pandemic."
+    ],
+    "objectives": [
+      "Provide support to small enterprises with a turnover of more than BGN 500,000 to help them overcome the economic impact of the pandemic."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Support for small enterprises affected by the COVID-19 pandemic"
+  },
+  "openai_json": {
+    "motivations": [
+      "Small enterprises with a turnover of more than BGN 500,000 are facing economic challenges due to the COVID-19 pandemic."
+    ],
+    "objectives": [
+      "Provide support to small enterprises to help them overcome the economic impact of the COVID-19 pandemic."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Support for small enterprises to overcome the economic impact of the COVID-19 pandemic"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Small enterprises with turnover exceeding BGN 500,000 faced significant economic challenges due to the COVID-19 pandemic."
+    ],
+    "objectives": [
+      "Provide financial support to small enterprises with turnover above BGN 500,000 to help them overcome the economic impact of the COVID-19 pandemic."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Financial support for small enterprises affected by COVID-19 pandemic"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Small enterprises are facing economic challenges due to the COVID-19 pandemic.\"\n  ],\n  \"objectives\": [\n    \"Provide support to small enterprises with a turnover of more than BGN 500,000 to help them overcome the economic impact of the pandemic.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Support for small enterprises affected by the COVID-19 pandemic\"\n}\n```",
+  "openai_raw": "Output:\n\n```json\n{\n  \"motivations\": [\n    \"Small enterprises with a turnover of more than BGN 500,000 are facing economic challenges due to the COVID-19 pandemic.\"\n  ],\n  \"objectives\": [\n    \"Provide support to small enterprises to help them overcome the economic impact of the COVID-19 pandemic.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Support for small enterprises to overcome the economic impact of the COVID-19 pandemic\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Small enterprises with turnover exceeding BGN 500,000 faced significant economic challenges due to the COVID-19 pandemic.\"\n  ],\n  \"objectives\": [\n    \"Provide financial support to small enterprises with turnover above BGN 500,000 to help them overcome the economic impact of the COVID-19 pandemic.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Financial support for small enterprises affected by COVID-19 pandemic\"\n}\n```"
+}

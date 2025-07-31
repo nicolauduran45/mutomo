@@ -1,0 +1,62 @@
+{
+  "index": 183,
+  "title": "Inclusão digital nas cidades: Um olhar sobre os idosos",
+  "abstract": "Cidades sempre serão espaços ricos para pesquisas, nelas podemos encontrar uma heterogeneidade de pessoas e possibilidades para serem exploradas. O objetivo do estudo foi investigar a inclusão digital dos idosos no espaço urbano a partir do uso de Smartphones ou celulares, para compreender como estes se inserem, se comunicam, aprendem e se desenvolvem. Optou-se por este público, levando em consideração que o envelhecimento populacional é um fenômeno que ocorre em escala global e vem gradativamente aumentando devido aos avanços tecnológicos em todos os âmbitos. Esta é uma pesquisa de método quantitativo realizada na cidade de Santa Cruz do Sul, interior do estado Rio Grande do Sul, com 100 participantes, todos com mais de sessenta anos. Primeiramente, apresenta-se alguns conceitos importantes sobre cidades, envelhecimento humano e tecnologias. Na segunda parte, a discussão é construída através da análise dos questionários aplicados em grupos de convivência do município.",
+  "llama_json": {
+    "motivations": [
+      "The aging population is a global phenomenon that necessitates understanding how older adults integrate into the digital world.",
+      "Urban spaces offer diverse opportunities for exploring the intersection of aging and digital inclusion."
+    ],
+    "objectives": [
+      "Investigate the digital inclusion of older adults in urban spaces through their use of smartphones or mobile phones.",
+      "Understand how older adults communicate, learn, and develop through digital means in urban environments."
+    ],
+    "methods": [
+      "Conduct a quantitative study with a focus on older adults (over 60 years) in the city of Santa Cruz do Sul, Rio Grande do Sul.",
+      "Analyze data collected from questionnaires applied in social groups within the municipality."
+    ],
+    "results": [],
+    "research_subject": "Digital inclusion of older adults in urban spaces"
+  },
+  "openai_json": {
+    "motivations": [
+      "The increasing global phenomenon of population aging necessitates understanding how older adults interact with and use technology in urban spaces.",
+      "There is a need to explore the digital inclusion of older adults, particularly in the context of smartphone use."
+    ],
+    "objectives": [
+      "Investigate the digital inclusion of older adults in urban spaces through the use of smartphones or mobile phones.",
+      "Understand how older adults integrate, communicate, learn, and develop through digital technology."
+    ],
+    "methods": [
+      "Conduct a quantitative research study in the city of Santa Cruz do Sul, focusing on older adults over sixty years old.",
+      "Analyze questionnaires applied to community groups in the municipality."
+    ],
+    "results": [
+      "Provide insights into the digital inclusion of older adults in urban spaces.",
+      "Contribute to the understanding of how older adults interact with and benefit from digital technology."
+    ],
+    "research_subject": "Digital inclusion of older adults in urban spaces"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The aging population is a global phenomenon that is gradually increasing due to technological advances in all areas.",
+      "There is a need to understand how elderly people integrate into urban spaces through digital technology, particularly smartphones and cell phones."
+    ],
+    "objectives": [
+      "Investigate the digital inclusion of elderly people in urban spaces through their use of smartphones or cell phones.",
+      "Understand how elderly people integrate, communicate, learn, and develop in the digital environment."
+    ],
+    "methods": [
+      "Quantitative research method using questionnaires applied to social groups in the municipality.",
+      "Analysis of data collected from elderly participants regarding their use of mobile technology."
+    ],
+    "results": [
+      "The study provides insights into how elderly people engage with digital technology in urban settings.",
+      "The research contributes to understanding the patterns of digital inclusion among the elderly population in cities."
+    ],
+    "research_subject": "Digital inclusion of elderly people in urban spaces through mobile technology use"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The aging population is a global phenomenon that necessitates understanding how older adults integrate into the digital world.\",\n    \"Urban spaces offer diverse opportunities for exploring the intersection of aging and digital inclusion.\"\n  ],\n  \"objectives\": [\n    \"Investigate the digital inclusion of older adults in urban spaces through their use of smartphones or mobile phones.\",\n    \"Understand how older adults communicate, learn, and develop through digital means in urban environments.\"\n  ],\n  \"methods\": [\n    \"Conduct a quantitative study with a focus on older adults (over 60 years) in the city of Santa Cruz do Sul, Rio Grande do Sul.\",\n    \"Analyze data collected from questionnaires applied in social groups within the municipality.\"\n  ],\n  \"results\": [],\n  \"research_subject\": \"Digital inclusion of older adults in urban spaces\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing global phenomenon of population aging necessitates understanding how older adults interact with and use technology in urban spaces.\",\n    \"There is a need to explore the digital inclusion of older adults, particularly in the context of smartphone use.\"\n  ],\n  \"objectives\": [\n    \"Investigate the digital inclusion of older adults in urban spaces through the use of smartphones or mobile phones.\",\n    \"Understand how older adults integrate, communicate, learn, and develop through digital technology.\"\n  ],\n  \"methods\": [\n    \"Conduct a quantitative research study in the city of Santa Cruz do Sul, focusing on older adults over sixty years old.\",\n    \"Analyze questionnaires applied to community groups in the municipality.\"\n  ],\n  \"results\": [\n    \"Provide insights into the digital inclusion of older adults in urban spaces.\",\n    \"Contribute to the understanding of how older adults interact with and benefit from digital technology.\"\n  ],\n  \"research_subject\": \"Digital inclusion of older adults in urban spaces\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The aging population is a global phenomenon that is gradually increasing due to technological advances in all areas.\",\n    \"There is a need to understand how elderly people integrate into urban spaces through digital technology, particularly smartphones and cell phones.\"\n  ],\n  \"objectives\": [\n    \"Investigate the digital inclusion of elderly people in urban spaces through their use of smartphones or cell phones.\",\n    \"Understand how elderly people integrate, communicate, learn, and develop in the digital environment.\"\n  ],\n  \"methods\": [\n    \"Quantitative research method using questionnaires applied to social groups in the municipality.\",\n    \"Analysis of data collected from elderly participants regarding their use of mobile technology.\"\n  ],\n  \"results\": [\n    \"The study provides insights into how elderly people engage with digital technology in urban settings.\",\n    \"The research contributes to understanding the patterns of digital inclusion among the elderly population in cities.\"\n  ],\n  \"research_subject\": \"Digital inclusion of elderly people in urban spaces through mobile technology use\"\n}\n```"
+}

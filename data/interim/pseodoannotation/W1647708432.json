@@ -1,0 +1,72 @@
+{
+  "index": 147,
+  "title": "Probing neutrino magnetic moments at the Spallation Neutron Source facility",
+  "abstract": "Majorana neutrino electromagnetic properties are studied through neutral current coherent neutrino-nucleus scattering. We focus on the potential of the recently planned COHERENT experiment at the Spallation Neutron Source to probe muon-neutrino magnetic moments. The resulting sensitivities are determined on the basis of a chi^2 analysis employing realistic nuclear structure calculations in the context of the quasi-particle random phase approximation. We find that they can improve existing limits by half an order of magnitude. In addition, we show that these facilities allow for Standard Model precision tests in the low energy regime, with a competitive determination of the weak mixing angle. Finally, they also offer the capability to probe other electromagnetic neutrino properties, such as the neutrino charge-radius. We illustrate our results for various choices of experimental setup and target material.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to improve the understanding of Majorana neutrino electromagnetic properties, particularly the neutrino magnetic moment.",
+      "Existing limits on neutrino magnetic moments require more precise measurements to advance the field of neutrino physics."
+    ],
+    "objectives": [
+      "Probe muon-neutrino magnetic moments through neutral current coherent neutrino-nucleus scattering at the Spallation Neutron Source facility.",
+      "Improve existing limits on neutrino magnetic moments by employing realistic nuclear structure calculations and advanced experimental techniques.",
+      "Perform precision tests of the Standard Model in the low energy regime, including the determination of the weak mixing angle."
+    ],
+    "methods": [
+      "Utilize the COHERENT experiment at the Spallation Neutron Source to measure coherent neutrino-nucleus scattering.",
+      "Employ a chi^2 analysis with quasi-particle random phase approximation nuclear structure calculations to determine sensitivities.",
+      "Explore various experimental setup and target material options to optimize results."
+    ],
+    "results": [
+      "Improve existing limits on neutrino magnetic moments by half an order of magnitude.",
+      "Provide competitive determination of the weak mixing angle in the low energy regime.",
+      "Probe other electromagnetic neutrino properties, such as the neutrino charge-radius."
+    ],
+    "research_subject": "Probing neutrino magnetic moments through coherent neutrino-nucleus scattering"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to study Majorana neutrino electromagnetic properties through neutral current coherent neutrino-nucleus scattering.",
+      "Existing limits on muon-neutrino magnetic moments need to be improved.",
+      "There is a need for precision tests of the Standard Model in the low energy regime."
+    ],
+    "objectives": [
+      "Probe muon-neutrino magnetic moments using the COHERENT experiment at the Spallation Neutron Source.",
+      "Determine the sensitivities of the experiment through a chi^2 analysis employing realistic nuclear structure calculations.",
+      "Probe other electromagnetic neutrino properties, such as the neutrino charge-radius."
+    ],
+    "methods": [
+      "Use the COHERENT experiment at the Spallation Neutron Source to study neutrino electromagnetic properties.",
+      "Employ a chi^2 analysis with realistic nuclear structure calculations in the context of the quasi-particle random phase approximation.",
+      "Illustrate results for various choices of experimental setup and target material."
+    ],
+    "results": [
+      "Potential to improve existing limits on muon-neutrino magnetic moments by half an order of magnitude.",
+      "Facilities allow for precision tests of the Standard Model in the low energy regime.",
+      "Capability to probe other electromagnetic neutrino properties, such as the neutrino charge-radius."
+    ],
+    "research_subject": "Probing neutrino magnetic moments at the Spallation Neutron Source facility"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current experimental limits on neutrino electromagnetic properties, particularly magnetic moments, need improvement through new experimental approaches.",
+      "Low-energy precision tests of the Standard Model require new facilities and methods to probe fundamental neutrino properties."
+    ],
+    "objectives": [
+      "Investigate the potential of the COHERENT experiment at the Spallation Neutron Source to probe muon-neutrino magnetic moments through coherent neutrino-nucleus scattering.",
+      "Determine the sensitivity improvements for neutrino electromagnetic properties and assess the capability for Standard Model precision tests in the low energy regime."
+    ],
+    "methods": [
+      "Employ chi-squared analysis using realistic nuclear structure calculations within the quasi-particle random phase approximation framework.",
+      "Analyze neutral current coherent neutrino-nucleus scattering for various experimental setups and target materials."
+    ],
+    "results": [
+      "Sensitivities to muon-neutrino magnetic moments can improve existing limits by half an order of magnitude.",
+      "The facility enables competitive determination of the weak mixing angle and can probe other electromagnetic neutrino properties such as the neutrino charge-radius."
+    ],
+    "research_subject": "Neutrino electromagnetic properties through coherent neutrino-nucleus scattering at the Spallation Neutron Source"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to improve the understanding of Majorana neutrino electromagnetic properties, particularly the neutrino magnetic moment.\",\n    \"Existing limits on neutrino magnetic moments require more precise measurements to advance the field of neutrino physics.\"\n  ],\n  \"objectives\": [\n    \"Probe muon-neutrino magnetic moments through neutral current coherent neutrino-nucleus scattering at the Spallation Neutron Source facility.\",\n    \"Improve existing limits on neutrino magnetic moments by employing realistic nuclear structure calculations and advanced experimental techniques.\",\n    \"Perform precision tests of the Standard Model in the low energy regime, including the determination of the weak mixing angle.\"\n  ],\n  \"methods\": [\n    \"Utilize the COHERENT experiment at the Spallation Neutron Source to measure coherent neutrino-nucleus scattering.\",\n    \"Employ a chi^2 analysis with quasi-particle random phase approximation nuclear structure calculations to determine sensitivities.\",\n    \"Explore various experimental setup and target material options to optimize results.\"\n  ],\n  \"results\": [\n    \"Improve existing limits on neutrino magnetic moments by half an order of magnitude.\",\n    \"Provide competitive determination of the weak mixing angle in the low energy regime.\",\n    \"Probe other electromagnetic neutrino properties, such as the neutrino charge-radius.\"\n  ],\n  \"research_subject\": \"Probing neutrino magnetic moments through coherent neutrino-nucleus scattering\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to study Majorana neutrino electromagnetic properties through neutral current coherent neutrino-nucleus scattering.\",\n    \"Existing limits on muon-neutrino magnetic moments need to be improved.\",\n    \"There is a need for precision tests of the Standard Model in the low energy regime.\"\n  ],\n  \"objectives\": [\n    \"Probe muon-neutrino magnetic moments using the COHERENT experiment at the Spallation Neutron Source.\",\n    \"Determine the sensitivities of the experiment through a chi^2 analysis employing realistic nuclear structure calculations.\",\n    \"Probe other electromagnetic neutrino properties, such as the neutrino charge-radius.\"\n  ],\n  \"methods\": [\n    \"Use the COHERENT experiment at the Spallation Neutron Source to study neutrino electromagnetic properties.\",\n    \"Employ a chi^2 analysis with realistic nuclear structure calculations in the context of the quasi-particle random phase approximation.\",\n    \"Illustrate results for various choices of experimental setup and target material.\"\n  ],\n  \"results\": [\n    \"Potential to improve existing limits on muon-neutrino magnetic moments by half an order of magnitude.\",\n    \"Facilities allow for precision tests of the Standard Model in the low energy regime.\",\n    \"Capability to probe other electromagnetic neutrino properties, such as the neutrino charge-radius.\"\n  ],\n  \"research_subject\": \"Probing neutrino magnetic moments at the Spallation Neutron Source facility\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current experimental limits on neutrino electromagnetic properties, particularly magnetic moments, need improvement through new experimental approaches.\",\n    \"Low-energy precision tests of the Standard Model require new facilities and methods to probe fundamental neutrino properties.\"\n  ],\n  \"objectives\": [\n    \"Investigate the potential of the COHERENT experiment at the Spallation Neutron Source to probe muon-neutrino magnetic moments through coherent neutrino-nucleus scattering.\",\n    \"Determine the sensitivity improvements for neutrino electromagnetic properties and assess the capability for Standard Model precision tests in the low energy regime.\"\n  ],\n  \"methods\": [\n    \"Employ chi-squared analysis using realistic nuclear structure calculations within the quasi-particle random phase approximation framework.\",\n    \"Analyze neutral current coherent neutrino-nucleus scattering for various experimental setups and target materials.\"\n  ],\n  \"results\": [\n    \"Sensitivities to muon-neutrino magnetic moments can improve existing limits by half an order of magnitude.\",\n    \"The facility enables competitive determination of the weak mixing angle and can probe other electromagnetic neutrino properties such as the neutrino charge-radius.\"\n  ],\n  \"research_subject\": \"Neutrino electromagnetic properties through coherent neutrino-nucleus scattering at the Spallation Neutron Source\"\n}\n```"
+}

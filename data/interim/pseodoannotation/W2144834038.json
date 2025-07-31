@@ -1,0 +1,72 @@
+{
+  "index": 229,
+  "title": "Fault constitutive relations inferred from the 2009-2010 slow slip event in Guerrero, Mexico",
+  "abstract": "The spatiotemporal evolution of stress state is analyzed during the 2009-2010 Slow Slip Event (SSE) of Guerrero, Mexico, based on the kinematic inversion results and using an integral expression for stress changes. A linear slip weakening behavior is generally observed during the SSE with an average slope of -0.5 +/- 0.2 MPa/m regardless the perturbation due to the 27 February 2010 M-w = 8.8 Maule, Chile earthquake. This slope remains unchanged before and after the Maule earthquake. However, for some area, the friction behavior changes from slip hardening to slip weakening following the Maule earthquake. The complex trajectory between shear stress and slip velocity is fitted with a rate-and state friction law through an inversion. The direct (rate) effect (parameter A) is found to be very small, lower by an order of magnitude than the evolutional (state) effect (parameter B). The characteristic length L is obtained as 5 cm on average.",
+  "llama_json": {
+    "motivations": [
+      "Understanding the fault constitutive relations during slow slip events is crucial for better comprehension of earthquake mechanisms.",
+      "The impact of external perturbations, such as distant earthquakes, on the stress state and friction behavior of faults needs to be investigated."
+    ],
+    "objectives": [
+      "Analyze the spatiotemporal evolution of stress state during the 2009-2010 Slow Slip Event in Guerrero, Mexico.",
+      "Investigate the friction behavior and its changes in response to the 2010 Maule, Chile earthquake.",
+      "Determine the parameters of a rate-and-state friction law through inversion."
+    ],
+    "methods": [
+      "Use kinematic inversion results and an integral expression for stress changes to analyze the stress state evolution.",
+      "Apply a linear slip weakening model to describe the general friction behavior.",
+      "Perform an inversion to fit the complex trajectory between shear stress and slip velocity with a rate-and-state friction law."
+    ],
+    "results": [
+      "A linear slip weakening behavior with an average slope of -0.5 +/- 0.2 MPa/m is observed during the SSE.",
+      "The friction behavior changes from slip hardening to slip weakening in some areas following the Maule earthquake.",
+      "The rate-and-state friction law parameters are determined, revealing a small direct effect and a larger evolutional effect."
+    ],
+    "research_subject": "Fault constitutive relations during slow slip events and their response to external perturbations"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the stress state evolution during slow slip events (SSEs) is crucial for seismic hazard assessment.",
+      "There is a need to investigate the impact of major earthquakes on the friction behavior during SSEs."
+    ],
+    "objectives": [
+      "Analyze the spatiotemporal evolution of stress state during the 2009-2010 SSE in Guerrero, Mexico.",
+      "Investigate the changes in friction behavior due to the 2010 Maule, Chile earthquake.",
+      "Fit the complex trajectory between shear stress and slip velocity with a rate-and-state friction law."
+    ],
+    "methods": [
+      "Use kinematic inversion results and an integral expression for stress changes to analyze the stress state evolution.",
+      "Observe and compare the friction behavior before and after the Maule earthquake.",
+      "Apply a rate-and-state friction law inversion to fit the trajectory between shear stress and slip velocity."
+    ],
+    "results": [
+      "Identified a general linear slip weakening behavior during the SSE with an average slope of -0.5 +/- 0.2 MPa/m.",
+      "Observed a change in friction behavior from slip hardening to slip weakening following the Maule earthquake in some areas.",
+      "Found the direct (rate) effect to be an order of magnitude lower than the evolutional (state) effect in the rate-and-state friction law."
+    ],
+    "research_subject": "Analysis of stress state evolution and friction behavior during the 2009-2010 slow slip event in Guerrero, Mexico"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the mechanics of slow slip events is crucial for assessing seismic hazards and earthquake dynamics.",
+      "The impact of external perturbations, such as distant large earthquakes, on ongoing slow slip events remains poorly understood."
+    ],
+    "objectives": [
+      "Analyze the spatiotemporal evolution of stress state during the 2009-2010 Slow Slip Event in Guerrero, Mexico.",
+      "Determine the fault constitutive relations and friction parameters governing the slow slip behavior, including the effects of the Maule earthquake perturbation."
+    ],
+    "methods": [
+      "Use kinematic inversion results combined with integral expressions for stress changes to analyze the slow slip event.",
+      "Apply rate-and-state friction law inversions to fit the complex trajectories between shear stress and slip velocity."
+    ],
+    "results": [
+      "A linear slip weakening behavior was observed with an average slope of -0.5 ± 0.2 MPa/m, which remained unchanged before and after the Maule earthquake.",
+      "The direct effect parameter A was found to be an order of magnitude smaller than the evolutional effect parameter B, with a characteristic length L of 5 cm.",
+      "Some areas showed a transition from slip hardening to slip weakening behavior following the Maule earthquake perturbation."
+    ],
+    "research_subject": "Fault mechanics and constitutive relations during the 2009-2010 Guerrero slow slip event"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the fault constitutive relations during slow slip events is crucial for better comprehension of earthquake mechanisms.\",\n    \"The impact of external perturbations, such as distant earthquakes, on the stress state and friction behavior of faults needs to be investigated.\"\n  ],\n  \"objectives\": [\n    \"Analyze the spatiotemporal evolution of stress state during the 2009-2010 Slow Slip Event in Guerrero, Mexico.\",\n    \"Investigate the friction behavior and its changes in response to the 2010 Maule, Chile earthquake.\",\n    \"Determine the parameters of a rate-and-state friction law through inversion.\"\n  ],\n  \"methods\": [\n    \"Use kinematic inversion results and an integral expression for stress changes to analyze the stress state evolution.\",\n    \"Apply a linear slip weakening model to describe the general friction behavior.\",\n    \"Perform an inversion to fit the complex trajectory between shear stress and slip velocity with a rate-and-state friction law.\"\n  ],\n  \"results\": [\n    \"A linear slip weakening behavior with an average slope of -0.5 +/- 0.2 MPa/m is observed during the SSE.\",\n    \"The friction behavior changes from slip hardening to slip weakening in some areas following the Maule earthquake.\",\n    \"The rate-and-state friction law parameters are determined, revealing a small direct effect and a larger evolutional effect.\"\n  ],\n  \"research_subject\": \"Fault constitutive relations during slow slip events and their response to external perturbations\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the stress state evolution during slow slip events (SSEs) is crucial for seismic hazard assessment.\",\n    \"There is a need to investigate the impact of major earthquakes on the friction behavior during SSEs.\"\n  ],\n  \"objectives\": [\n    \"Analyze the spatiotemporal evolution of stress state during the 2009-2010 SSE in Guerrero, Mexico.\",\n    \"Investigate the changes in friction behavior due to the 2010 Maule, Chile earthquake.\",\n    \"Fit the complex trajectory between shear stress and slip velocity with a rate-and-state friction law.\"\n  ],\n  \"methods\": [\n    \"Use kinematic inversion results and an integral expression for stress changes to analyze the stress state evolution.\",\n    \"Observe and compare the friction behavior before and after the Maule earthquake.\",\n    \"Apply a rate-and-state friction law inversion to fit the trajectory between shear stress and slip velocity.\"\n  ],\n  \"results\": [\n    \"Identified a general linear slip weakening behavior during the SSE with an average slope of -0.5 +/- 0.2 MPa/m.\",\n    \"Observed a change in friction behavior from slip hardening to slip weakening following the Maule earthquake in some areas.\",\n    \"Found the direct (rate) effect to be an order of magnitude lower than the evolutional (state) effect in the rate-and-state friction law.\"\n  ],\n  \"research_subject\": \"Analysis of stress state evolution and friction behavior during the 2009-2010 slow slip event in Guerrero, Mexico\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the mechanics of slow slip events is crucial for assessing seismic hazards and earthquake dynamics.\",\n    \"The impact of external perturbations, such as distant large earthquakes, on ongoing slow slip events remains poorly understood.\"\n  ],\n  \"objectives\": [\n    \"Analyze the spatiotemporal evolution of stress state during the 2009-2010 Slow Slip Event in Guerrero, Mexico.\",\n    \"Determine the fault constitutive relations and friction parameters governing the slow slip behavior, including the effects of the Maule earthquake perturbation.\"\n  ],\n  \"methods\": [\n    \"Use kinematic inversion results combined with integral expressions for stress changes to analyze the slow slip event.\",\n    \"Apply rate-and-state friction law inversions to fit the complex trajectories between shear stress and slip velocity.\"\n  ],\n  \"results\": [\n    \"A linear slip weakening behavior was observed with an average slope of -0.5 ± 0.2 MPa/m, which remained unchanged before and after the Maule earthquake.\",\n    \"The direct effect parameter A was found to be an order of magnitude smaller than the evolutional effect parameter B, with a characteristic length L of 5 cm.\",\n    \"Some areas showed a transition from slip hardening to slip weakening behavior following the Maule earthquake perturbation.\"\n  ],\n  \"research_subject\": \"Fault mechanics and constitutive relations during the 2009-2010 Guerrero slow slip event\"\n}\n```"
+}

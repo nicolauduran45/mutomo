@@ -1,0 +1,69 @@
+{
+  "index": 267,
+  "title": "Obstruction detection sensor for surveillance on aircraft",
+  "abstract": "Mid-air, near mid-air, and-on ground collisions are one of the most important cause of accident in general aviation. For this reason, engineering an affordable sensor helping pilots in preventing it could be very important in order to prevent accidents. Present sensors, indeed, are very expensive and cannot be affordable for small aircraft and helicopters. The idea of ODESSA (Obstruction DEtection Sensor for Surveillance on Aircraft) is to provide a small, light, and low-cost sensor (comparing it to the present ones) that could be installed on both airplanes and helicopters, but on unmanned aerial vehicles too. This is possible adopting the modular avionics concepts of on-board system independency, reducing maintenance efforts, granting different platform applicability. Using millimetric radar, learning techniques from automotive worlds, gives different advantages. One is that automotive technologies are well tested and reliable. These solutions are small, light and cheap too. Inheriting characteristics from automotive technologies, ODESSA allows to detect small object, increasing on-ground safety during handling and taxing. An issue of these mission phases is the possibility of collision not only with aircraft (that could be minimized by using new generation ADS-B systems), but with other kinds of object (as pushbacks, cars, signals, personnel, birds…) not well detectable from aircraft unless mounting the terrestrial version of ADS-B (that requests the adaptation of the whole airport infrastructure). ODESSA system makes possible that safety in landing and ground procedures is independent from different component of the airport system, granting danger acknowledgment in different sceneries.",
+  "llama_json": {
+    "motivations": [
+      "Mid-air, near mid-air, and on-ground collisions are a significant cause of accidents in general aviation, emphasizing the need for affordable obstruction detection sensors.",
+      "Current sensors are too expensive for small aircraft and helicopters, leaving them vulnerable to accidents."
+    ],
+    "objectives": [
+      "Develop a small, light, and low-cost obstruction detection sensor (ODESSA) for aircraft, including small planes, helicopters, and unmanned aerial vehicles.",
+      "Improve on-ground safety during handling and taxiing by detecting small objects and minimizing collision risks."
+    ],
+    "methods": [
+      "Adopt modular avionics concepts to ensure on-board system independency, reduce maintenance efforts, and enable platform applicability.",
+      "Utilize millimetric radar and learning techniques from the automotive world to create a reliable, small, light, and affordable sensor."
+    ],
+    "results": [
+      "Enhance safety in landing and ground procedures by detecting various objects, including aircraft, vehicles, personnel, and birds.",
+      "Provide an independent obstruction detection system that does not rely on airport infrastructure adaptations."
+    ],
+    "research_subject": "Development of a low-cost obstruction detection sensor for aircraft"
+  },
+  "openai_json": {
+    "motivations": [
+      "Mid-air, near mid-air, and on-ground collisions are a significant cause of accidents in general aviation, and current sensors are too expensive for small aircraft and helicopters.",
+      "There is a need for a cost-effective, lightweight sensor that can be installed on various types of aircraft, including unmanned aerial vehicles.",
+      "Current safety measures during landing and ground procedures are dependent on various components of the airport system, which may not always be reliable or adaptable."
+    ],
+    "objectives": [
+      "Develop ODESSA, a small, light, and low-cost sensor for obstruction detection on aircraft.",
+      "Adopt the modular avionics concept of on-board system independency to reduce maintenance efforts and ensure applicability on different platforms.",
+      "Utilize millimetric radar and learning techniques from the automotive world to detect small objects and increase on-ground safety during handling and taxiing."
+    ],
+    "methods": [
+      "ODESSA will be engineered using millimetric radar and learning techniques borrowed from the automotive industry.",
+      "The system will be designed to be small, light, and affordable, making it suitable for installation on various types of aircraft.",
+      "The sensor will be designed to operate independently of other on-board systems, reducing maintenance efforts and increasing applicability."
+    ],
+    "results": [
+      "ODESSA will provide a cost-effective solution for preventing mid-air, near mid-air, and on-ground collisions in general aviation.",
+      "The system will increase on-ground safety during handling and taxiing by detecting small objects.",
+      "ODESSA will make safety in landing and ground procedures independent from different components of the airport system, ensuring danger acknowledgment in various scenarios."
+    ],
+    "research_subject": "Development of a cost-effective obstruction detection sensor for aircraft"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Mid-air, near mid-air, and on-ground collisions are major causes of accidents in general aviation, requiring effective prevention solutions.",
+      "Current collision detection sensors are prohibitively expensive for small aircraft and helicopters, limiting their adoption in general aviation."
+    ],
+    "objectives": [
+      "Develop an affordable, lightweight, and modular obstruction detection sensor suitable for various aircraft types including small planes, helicopters, and unmanned aerial vehicles.",
+      "Enhance ground safety during aircraft handling and taxiing by detecting various objects beyond other aircraft."
+    ],
+    "methods": [
+      "Utilize millimetric radar technology adapted from automotive applications to create a reliable and cost-effective detection system.",
+      "Implement modular avionics concepts to ensure platform independence and compatibility across different aircraft types."
+    ],
+    "results": [
+      "Enable detection of small objects including pushbacks, vehicles, signals, personnel, and birds during ground operations.",
+      "Provide safety improvements independent of airport infrastructure, allowing danger acknowledgment in various operational scenarios."
+    ],
+    "research_subject": "Affordable millimetric radar-based obstruction detection sensor for aviation safety"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Mid-air, near mid-air, and on-ground collisions are a significant cause of accidents in general aviation, emphasizing the need for affordable obstruction detection sensors.\",\n    \"Current sensors are too expensive for small aircraft and helicopters, leaving them vulnerable to accidents.\"\n  ],\n  \"objectives\": [\n    \"Develop a small, light, and low-cost obstruction detection sensor (ODESSA) for aircraft, including small planes, helicopters, and unmanned aerial vehicles.\",\n    \"Improve on-ground safety during handling and taxiing by detecting small objects and minimizing collision risks.\"\n  ],\n  \"methods\": [\n    \"Adopt modular avionics concepts to ensure on-board system independency, reduce maintenance efforts, and enable platform applicability.\",\n    \"Utilize millimetric radar and learning techniques from the automotive world to create a reliable, small, light, and affordable sensor.\"\n  ],\n  \"results\": [\n    \"Enhance safety in landing and ground procedures by detecting various objects, including aircraft, vehicles, personnel, and birds.\",\n    \"Provide an independent obstruction detection system that does not rely on airport infrastructure adaptations.\"\n  ],\n  \"research_subject\": \"Development of a low-cost obstruction detection sensor for aircraft\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Mid-air, near mid-air, and on-ground collisions are a significant cause of accidents in general aviation, and current sensors are too expensive for small aircraft and helicopters.\",\n    \"There is a need for a cost-effective, lightweight sensor that can be installed on various types of aircraft, including unmanned aerial vehicles.\",\n    \"Current safety measures during landing and ground procedures are dependent on various components of the airport system, which may not always be reliable or adaptable.\"\n  ],\n  \"objectives\": [\n    \"Develop ODESSA, a small, light, and low-cost sensor for obstruction detection on aircraft.\",\n    \"Adopt the modular avionics concept of on-board system independency to reduce maintenance efforts and ensure applicability on different platforms.\",\n    \"Utilize millimetric radar and learning techniques from the automotive world to detect small objects and increase on-ground safety during handling and taxiing.\"\n  ],\n  \"methods\": [\n    \"ODESSA will be engineered using millimetric radar and learning techniques borrowed from the automotive industry.\",\n    \"The system will be designed to be small, light, and affordable, making it suitable for installation on various types of aircraft.\",\n    \"The sensor will be designed to operate independently of other on-board systems, reducing maintenance efforts and increasing applicability.\"\n  ],\n  \"results\": [\n    \"ODESSA will provide a cost-effective solution for preventing mid-air, near mid-air, and on-ground collisions in general aviation.\",\n    \"The system will increase on-ground safety during handling and taxiing by detecting small objects.\",\n    \"ODESSA will make safety in landing and ground procedures independent from different components of the airport system, ensuring danger acknowledgment in various scenarios.\"\n  ],\n  \"research_subject\": \"Development of a cost-effective obstruction detection sensor for aircraft\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Mid-air, near mid-air, and on-ground collisions are major causes of accidents in general aviation, requiring effective prevention solutions.\",\n    \"Current collision detection sensors are prohibitively expensive for small aircraft and helicopters, limiting their adoption in general aviation.\"\n  ],\n  \"objectives\": [\n    \"Develop an affordable, lightweight, and modular obstruction detection sensor suitable for various aircraft types including small planes, helicopters, and unmanned aerial vehicles.\",\n    \"Enhance ground safety during aircraft handling and taxiing by detecting various objects beyond other aircraft.\"\n  ],\n  \"methods\": [\n    \"Utilize millimetric radar technology adapted from automotive applications to create a reliable and cost-effective detection system.\",\n    \"Implement modular avionics concepts to ensure platform independence and compatibility across different aircraft types.\"\n  ],\n  \"results\": [\n    \"Enable detection of small objects including pushbacks, vehicles, signals, personnel, and birds during ground operations.\",\n    \"Provide safety improvements independent of airport infrastructure, allowing danger acknowledgment in various operational scenarios.\"\n  ],\n  \"research_subject\": \"Affordable millimetric radar-based obstruction detection sensor for aviation safety\"\n}\n```"
+}

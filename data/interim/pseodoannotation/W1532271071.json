@@ -1,0 +1,70 @@
+{
+  "index": 218,
+  "title": "Impaired transactivation of the human CYP2J2 arachidonic acid epoxygenase gene in HepG2 cells subjected to nitrative stress",
+  "abstract": "Human cytochrome P450 2J2 (CYP2J2) generates epoxyfatty acids that modulate cellular apoptosis and proliferation. CYP2J2 regulation has not been intensively studied but induction of the activator protein-1 (AP-1) subunit c-fos mediates CYP2J2 down-regulation in hypoxia, a component of ischaemic injury. Decreased CYP2J2 expression may contribute to tissue injury.HepG2 cells were treated with sodium nitroprusside (SNP) to induce nitrative stress, which has been associated with inflammation and infection in liver and other tissues. CYP2J2 protein and mRNA expression were evaluated by immunoblotting and real-time PCR respectively. The role of mitogen-activated protein (MAP) kinases in CYP2J2 dysregulation was assessed using specific inhibitors and dominant negative MAP kinase expression plasmids. CYP2J2-luciferase reporter constructs and electromobility shift assays (EMSAs) were used to identify SNP-regulated regions in the CYP2J2 gene.Cytochrome P450 2J2 was down-regulated by SNP while the AP-1 proteins c-jun and c-fos were up-regulated; inhibition of p38 and ERK MAP kinases normalized their expression. The gene elements at -105/-95 and -56/-63 were required for the down-regulation of CYP2J2 induced by nitrative stress.p38 and ERK MAP kinases transduce stress stimuli that down-regulate CYP2J2. Targeting these kinases may prevent the loss of CYP2J2 and epoxy-fatty acids that protect cells against deleterious stresses.",
+  "llama_json": {
+    "motivations": [
+      "CYP2J2 down-regulation is associated with tissue injury, and understanding its regulation is crucial for developing therapeutic strategies.",
+      "Nitrative stress, a component of inflammation and infection, may contribute to CYP2J2 dysregulation."
+    ],
+    "objectives": [
+      "Investigate the impact of nitrative stress on CYP2J2 expression in HepG2 cells.",
+      "Elucidate the role of MAP kinases in CYP2J2 dysregulation under nitrative stress conditions."
+    ],
+    "methods": [
+      "Use sodium nitroprusside to induce nitrative stress in HepG2 cells and evaluate CYP2J2 expression.",
+      "Employ specific inhibitors, dominant negative MAP kinase expression plasmids, and reporter constructs to assess the role of MAP kinases in CYP2J2 regulation."
+    ],
+    "results": [
+      "CYP2J2 is down-regulated by nitrative stress, while AP-1 proteins are up-regulated.",
+      "p38 and ERK MAP kinases are involved in CYP2J2 down-regulation, and targeting them may prevent CYP2J2 loss and associated cellular damage."
+    ],
+    "research_subject": "Regulation of human CYP2J2 arachidonic acid epoxygenase gene under nitrative stress"
+  },
+  "openai_json": {
+    "motivations": [
+      "The regulation of Human cytochrome P450 2J2 (CYP2J2), which generates epoxyfatty acids that modulate cellular apoptosis and proliferation, has not been intensively studied.",
+      "Decreased CYP2J2 expression may contribute to tissue injury, and nitrative stress, associated with inflammation and infection, could play a role in this down-regulation."
+    ],
+    "objectives": [
+      "Investigate the effect of nitrative stress on CYP2J2 protein and mRNA expression in HepG2 cells.",
+      "Identify the role of mitogen-activated protein (MAP) kinases in CYP2J2 dysregulation.",
+      "Determine the gene elements required for the down-regulation of CYP2J2 induced by nitrative stress."
+    ],
+    "methods": [
+      "Treat HepG2 cells with sodium nitroprusside (SNP) to induce nitrative stress and evaluate CYP2J2 protein and mRNA expression.",
+      "Use specific inhibitors and dominant negative MAP kinase expression plasmids to assess the role of MAP kinases in CYP2J2 dysregulation.",
+      "Employ CYP2J2-luciferase reporter constructs and electromobility shift assays (EMSAs) to identify SNP-regulated regions in the CYP2J2 gene."
+    ],
+    "results": [
+      "Nitrative stress down-regulates CYP2J2 while up-regulating the AP-1 proteins c-jun and c-fos.",
+      "Inhibition of p38 and ERK MAP kinases normalizes the expression of CYP2J2 and AP-1 proteins.",
+      "The gene elements at -105/-95 and -56/-63 are required for the down-regulation of CYP2J2 induced by nitrative stress."
+    ],
+    "research_subject": "Impact of nitrative stress on the regulation of Human cytochrome P450 2J2 (CYP2J2) gene"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "CYP2J2 generates epoxyfatty acids that protect cells against apoptosis and regulate proliferation, but its expression is decreased under stress conditions like hypoxia and inflammation.",
+      "Understanding the mechanisms of CYP2J2 down-regulation during nitrative stress could help identify therapeutic targets to prevent tissue injury."
+    ],
+    "objectives": [
+      "Investigate the molecular mechanisms underlying CYP2J2 down-regulation in HepG2 cells subjected to nitrative stress.",
+      "Identify the role of MAP kinases and specific gene regulatory elements in mediating CYP2J2 expression changes under stress conditions."
+    ],
+    "methods": [
+      "Treatment of HepG2 cells with sodium nitroprusside to induce nitrative stress and analysis of CYP2J2 expression using immunoblotting and real-time PCR.",
+      "Use of MAP kinase inhibitors and dominant negative expression plasmids to assess kinase involvement in CYP2J2 regulation.",
+      "Employment of CYP2J2-luciferase reporter constructs and electromobility shift assays to identify stress-responsive regulatory elements."
+    ],
+    "results": [
+      "CYP2J2 was down-regulated by nitrative stress while AP-1 proteins c-jun and c-fos were up-regulated, with p38 and ERK MAP kinase inhibition normalizing their expression.",
+      "Gene elements at positions -105/-95 and -56/-63 were identified as required for nitrative stress-induced CYP2J2 down-regulation.",
+      "Targeting p38 and ERK MAP kinases may prevent loss of CYP2J2 and its protective epoxyfatty acids during cellular stress."
+    ],
+    "research_subject": "Regulation of human CYP2J2 gene expression under nitrative stress"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"CYP2J2 down-regulation is associated with tissue injury, and understanding its regulation is crucial for developing therapeutic strategies.\",\n    \"Nitrative stress, a component of inflammation and infection, may contribute to CYP2J2 dysregulation.\"\n  ],\n  \"objectives\": [\n    \"Investigate the impact of nitrative stress on CYP2J2 expression in HepG2 cells.\",\n    \"Elucidate the role of MAP kinases in CYP2J2 dysregulation under nitrative stress conditions.\"\n  ],\n  \"methods\": [\n    \"Use sodium nitroprusside to induce nitrative stress in HepG2 cells and evaluate CYP2J2 expression.\",\n    \"Employ specific inhibitors, dominant negative MAP kinase expression plasmids, and reporter constructs to assess the role of MAP kinases in CYP2J2 regulation.\"\n  ],\n  \"results\": [\n    \"CYP2J2 is down-regulated by nitrative stress, while AP-1 proteins are up-regulated.\",\n    \"p38 and ERK MAP kinases are involved in CYP2J2 down-regulation, and targeting them may prevent CYP2J2 loss and associated cellular damage.\"\n  ],\n  \"research_subject\": \"Regulation of human CYP2J2 arachidonic acid epoxygenase gene under nitrative stress\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The regulation of Human cytochrome P450 2J2 (CYP2J2), which generates epoxyfatty acids that modulate cellular apoptosis and proliferation, has not been intensively studied.\",\n    \"Decreased CYP2J2 expression may contribute to tissue injury, and nitrative stress, associated with inflammation and infection, could play a role in this down-regulation.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effect of nitrative stress on CYP2J2 protein and mRNA expression in HepG2 cells.\",\n    \"Identify the role of mitogen-activated protein (MAP) kinases in CYP2J2 dysregulation.\",\n    \"Determine the gene elements required for the down-regulation of CYP2J2 induced by nitrative stress.\"\n  ],\n  \"methods\": [\n    \"Treat HepG2 cells with sodium nitroprusside (SNP) to induce nitrative stress and evaluate CYP2J2 protein and mRNA expression.\",\n    \"Use specific inhibitors and dominant negative MAP kinase expression plasmids to assess the role of MAP kinases in CYP2J2 dysregulation.\",\n    \"Employ CYP2J2-luciferase reporter constructs and electromobility shift assays (EMSAs) to identify SNP-regulated regions in the CYP2J2 gene.\"\n  ],\n  \"results\": [\n    \"Nitrative stress down-regulates CYP2J2 while up-regulating the AP-1 proteins c-jun and c-fos.\",\n    \"Inhibition of p38 and ERK MAP kinases normalizes the expression of CYP2J2 and AP-1 proteins.\",\n    \"The gene elements at -105/-95 and -56/-63 are required for the down-regulation of CYP2J2 induced by nitrative stress.\"\n  ],\n  \"research_subject\": \"Impact of nitrative stress on the regulation of Human cytochrome P450 2J2 (CYP2J2) gene\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"CYP2J2 generates epoxyfatty acids that protect cells against apoptosis and regulate proliferation, but its expression is decreased under stress conditions like hypoxia and inflammation.\",\n    \"Understanding the mechanisms of CYP2J2 down-regulation during nitrative stress could help identify therapeutic targets to prevent tissue injury.\"\n  ],\n  \"objectives\": [\n    \"Investigate the molecular mechanisms underlying CYP2J2 down-regulation in HepG2 cells subjected to nitrative stress.\",\n    \"Identify the role of MAP kinases and specific gene regulatory elements in mediating CYP2J2 expression changes under stress conditions.\"\n  ],\n  \"methods\": [\n    \"Treatment of HepG2 cells with sodium nitroprusside to induce nitrative stress and analysis of CYP2J2 expression using immunoblotting and real-time PCR.\",\n    \"Use of MAP kinase inhibitors and dominant negative expression plasmids to assess kinase involvement in CYP2J2 regulation.\",\n    \"Employment of CYP2J2-luciferase reporter constructs and electromobility shift assays to identify stress-responsive regulatory elements.\"\n  ],\n  \"results\": [\n    \"CYP2J2 was down-regulated by nitrative stress while AP-1 proteins c-jun and c-fos were up-regulated, with p38 and ERK MAP kinase inhibition normalizing their expression.\",\n    \"Gene elements at positions -105/-95 and -56/-63 were identified as required for nitrative stress-induced CYP2J2 down-regulation.\",\n    \"Targeting p38 and ERK MAP kinases may prevent loss of CYP2J2 and its protective epoxyfatty acids during cellular stress.\"\n  ],\n  \"research_subject\": \"Regulation of human CYP2J2 gene expression under nitrative stress\"\n}\n```"
+}

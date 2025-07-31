@@ -1,0 +1,64 @@
+{
+  "index": 129,
+  "title": "Bottle cap with combination lock",
+  "abstract": "A locking cap for a container has a combination lock built into the top. Two or more thumbwheels with numbers or letters are mounted beneath the top surface of the cap or gung plugs. The thumb wheels have through holes corresponding to the numbers or letters. One or more pins are slidably mounted in the cap. The pins are locked by the thumb wheels unless the through holes are in alignment. The pins either project through holes in the container or abut inwardly, projecting portions with the top of the container to prevent turning of the cap unless the pins are retracted. Combinations of numbers or letters can be preset at manufacture, or selected at or after sale, using plugs to fill selected through holes.",
+  "llama_json": {
+    "motivations": [
+      "Existing container caps lack secure locking mechanisms, making them vulnerable to unauthorized access.",
+      "There is a need for a cap that can be securely locked and unlocked using a combination, providing an additional layer of protection."
+    ],
+    "objectives": [
+      "Design a locking cap with a built-in combination lock that prevents unauthorized access to the container.",
+      "Develop a mechanism that allows users to set and reset combinations using thumbwheels and pins."
+    ],
+    "methods": [
+      "Integrate thumbwheels with numbers or letters into the cap, along with slidable pins that lock unless the correct combination is entered.",
+      "Use plugs to fill selected through holes, enabling the presetting or selection of combinations during or after manufacture."
+    ],
+    "results": [
+      "Provide a secure locking cap that can be easily locked and unlocked using a combination.",
+      "Offer a flexible solution that allows users to set and reset combinations as needed."
+    ],
+    "research_subject": "Development of a bottle cap with a built-in combination lock"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a secure method to lock containers, such as bottles, to prevent unauthorized access."
+    ],
+    "objectives": [
+      "Design a bottle cap with a built-in combination lock that can be preset or selected after purchase."
+    ],
+    "methods": [
+      "Incorporate two or more thumbwheels with numbers or letters beneath the top surface of the cap.",
+      "Use pins that are locked by the thumbwheels unless the through holes align with the selected combination.",
+      "Allow the combination to be preset at manufacture or selected at or after sale by using plugs to fill selected through holes."
+    ],
+    "results": [
+      "Provide a secure, customizable locking mechanism for containers that prevents turning of the cap unless the correct combination is entered."
+    ],
+    "research_subject": "Combination lock integrated into a bottle cap"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for secure container closures that prevent unauthorized access to contents.",
+      "Traditional container caps lack built-in security features to restrict access without additional locking mechanisms."
+    ],
+    "objectives": [
+      "Develop a bottle cap with an integrated combination lock mechanism to secure container contents.",
+      "Create a locking system that allows for customizable security codes either at manufacture or by the end user."
+    ],
+    "methods": [
+      "Integrate thumbwheels with alphanumeric indicators and corresponding through holes into the cap structure.",
+      "Employ slidable pins that engage with the container to prevent cap rotation unless the correct combination aligns the through holes.",
+      "Utilize plugs to fill selected through holes for customizable combination settings."
+    ],
+    "results": [
+      "The locking cap prevents unauthorized access by requiring the correct combination to align internal mechanisms.",
+      "Users can secure containers without external locks while maintaining the ability to customize access codes."
+    ],
+    "research_subject": "Combination lock integrated bottle cap design"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing container caps lack secure locking mechanisms, making them vulnerable to unauthorized access.\",\n    \"There is a need for a cap that can be securely locked and unlocked using a combination, providing an additional layer of protection.\"\n  ],\n  \"objectives\": [\n    \"Design a locking cap with a built-in combination lock that prevents unauthorized access to the container.\",\n    \"Develop a mechanism that allows users to set and reset combinations using thumbwheels and pins.\"\n  ],\n  \"methods\": [\n    \"Integrate thumbwheels with numbers or letters into the cap, along with slidable pins that lock unless the correct combination is entered.\",\n    \"Use plugs to fill selected through holes, enabling the presetting or selection of combinations during or after manufacture.\"\n  ],\n  \"results\": [\n    \"Provide a secure locking cap that can be easily locked and unlocked using a combination.\",\n    \"Offer a flexible solution that allows users to set and reset combinations as needed.\"\n  ],\n  \"research_subject\": \"Development of a bottle cap with a built-in combination lock\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a secure method to lock containers, such as bottles, to prevent unauthorized access.\"\n  ],\n  \"objectives\": [\n    \"Design a bottle cap with a built-in combination lock that can be preset or selected after purchase.\"\n  ],\n  \"methods\": [\n    \"Incorporate two or more thumbwheels with numbers or letters beneath the top surface of the cap.\",\n    \"Use pins that are locked by the thumbwheels unless the through holes align with the selected combination.\",\n    \"Allow the combination to be preset at manufacture or selected at or after sale by using plugs to fill selected through holes.\"\n  ],\n  \"results\": [\n    \"Provide a secure, customizable locking mechanism for containers that prevents turning of the cap unless the correct combination is entered.\"\n  ],\n  \"research_subject\": \"Combination lock integrated into a bottle cap\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for secure container closures that prevent unauthorized access to contents.\",\n    \"Traditional container caps lack built-in security features to restrict access without additional locking mechanisms.\"\n  ],\n  \"objectives\": [\n    \"Develop a bottle cap with an integrated combination lock mechanism to secure container contents.\",\n    \"Create a locking system that allows for customizable security codes either at manufacture or by the end user.\"\n  ],\n  \"methods\": [\n    \"Integrate thumbwheels with alphanumeric indicators and corresponding through holes into the cap structure.\",\n    \"Employ slidable pins that engage with the container to prevent cap rotation unless the correct combination aligns the through holes.\",\n    \"Utilize plugs to fill selected through holes for customizable combination settings.\"\n  ],\n  \"results\": [\n    \"The locking cap prevents unauthorized access by requiring the correct combination to align internal mechanisms.\",\n    \"Users can secure containers without external locks while maintaining the ability to customize access codes.\"\n  ],\n  \"research_subject\": \"Combination lock integrated bottle cap design\"\n}\n```"
+}

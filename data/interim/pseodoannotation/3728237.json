@@ -1,0 +1,77 @@
+{
+  "index": 122,
+  "title": "Fast and nano-enabled smart materials, structures and systems for energy harvesting",
+  "abstract": "The project's overall concept is centred on the scaling up of novel, mass-production nano-manufacturing techniques invented by FAST-SMART partners for synthesis of nano-structured smart materials and component manufacturing for energy harvesting applications to significantly improve the material quality and structural reliability (>50%~100% improvement) and reduce overall materials and processing costs (by 30%) through shortening the process chains and improving material processing efficiency, being focused on less and free rare-element dependence materials (such as lead-free piezoelectric and Hf-free half-Heusler thermoelectric materials) as well as on new energy harvester designs considering environmental strategy, thus to bring about positive, environment-related impacts to Europe (greenhouse gas emission down by 50%, waste reduction by 50%), increased EU’s market share worthy hundreds million Euros initially, and to promote wide implementation of Internet of Things (IoT) and Digital Single Market (DSM) in Europe, due to introduction of the new energy harvesting products, design and manufacturing services created through the FAST-SMART’s partnership.  Current obstacles to the large-scale introduction of energy harvesters that use materials with less rare-element dependence and/or that are toxicity-free are associated largely with inadequate material performance and reliability, high manufacturing cost, and inadequately developed product design strategy addressing needs for sustainable developments. The main driver of the proposal lies in a need to meet challenges particularly for the development and applications of Piezoelectric (PE) and Thermoelectric (TE) materials, associated structures and systems for new-generation energy harvesters, and for dealing with energy generation, storage and uses related issues with a systematic approach, and hence, to help to meet EU’s targets on the social, economic and environmental developments.",
+  "llama_json": {
+    "motivations": [
+      "Current energy harvesting materials and technologies face limitations in performance, reliability, and sustainability, hindering their large-scale adoption.",
+      "The dependence on rare elements and toxic materials in energy harvesting technologies poses environmental concerns and restricts their widespread implementation.",
+      "High manufacturing costs and inadequate product design strategies impede the development of sustainable energy harvesting solutions."
+    ],
+    "objectives": [
+      "Scale up novel nano-manufacturing techniques for mass production of nano-structured smart materials and components for energy harvesting applications.",
+      "Improve material quality and structural reliability by 50-100% while reducing materials and processing costs by 30%.",
+      "Develop and promote lead-free piezoelectric and Hf-free half-Heusler thermoelectric materials for energy harvesting applications."
+    ],
+    "methods": [
+      "Implement novel nano-manufacturing techniques for synthesis of nano-structured smart materials and component manufacturing.",
+      "Design and develop new energy harvester designs considering environmental strategies and rare-element dependence reduction.",
+      "Optimize material processing efficiency and reduce process chains to achieve cost savings and improved material quality."
+    ],
+    "results": [
+      "Achieve significant improvements in material quality, structural reliability, and cost reduction for energy harvesting applications.",
+      "Contribute to a 50% reduction in greenhouse gas emissions and waste reduction in Europe through the adoption of sustainable energy harvesting solutions.",
+      "Promote the widespread implementation of Internet of Things (IoT) and Digital Single Market (DSM) in Europe through the introduction of new energy harvesting products and services."
+    ],
+    "research_subject": "Development of nano-enabled smart materials and systems for sustainable energy harvesting"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current energy harvesting technologies face challenges in material performance, reliability, high manufacturing cost, and sustainability.",
+      "There is a need for improved energy harvester designs that are less dependent on rare elements and are environmentally friendly.",
+      "The development and application of new-generation energy harvesters can support the implementation of the Internet of Things and Digital Single Market in Europe."
+    ],
+    "objectives": [
+      "Scale up novel nano-manufacturing techniques for synthesis of nano-structured smart materials and component manufacturing for energy harvesting applications.",
+      "Improve material quality and structural reliability, and reduce overall materials and processing costs.",
+      "Develop new energy harvester designs that are less dependent on rare elements and consider environmental strategy."
+    ],
+    "methods": [
+      "Use mass-production nano-manufacturing techniques for synthesis of nano-structured smart materials.",
+      "Focus on less and free rare-element dependence materials such as lead-free piezoelectric and Hf-free half-Heusler thermoelectric materials.",
+      "Implement new energy harvester designs considering environmental strategy."
+    ],
+    "results": [
+      "Significant improvement in material quality and structural reliability, and reduction in overall materials and processing costs.",
+      "Positive environmental impacts including reduction in greenhouse gas emission and waste.",
+      "Promotion of wide implementation of Internet of Things and Digital Single Market in Europe."
+    ],
+    "research_subject": "Development of nano-structured smart materials and systems for energy harvesting"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current energy harvesters face obstacles including inadequate material performance and reliability, high manufacturing costs, and insufficient sustainable design strategies.",
+      "There is a need for less rare-element dependent and toxicity-free materials for energy harvesting applications to meet environmental and sustainability goals.",
+      "The large-scale implementation of IoT and Digital Single Market in Europe requires cost-effective and reliable energy harvesting solutions."
+    ],
+    "objectives": [
+      "Scale up novel nano-manufacturing techniques to improve material quality and structural reliability of energy harvesters by 50-100% while reducing costs by 30%.",
+      "Develop lead-free piezoelectric and Hf-free thermoelectric materials with enhanced performance for sustainable energy harvesting applications.",
+      "Enable widespread implementation of IoT and Digital Single Market through new energy harvesting products and services."
+    ],
+    "methods": [
+      "Utilize mass-production nano-manufacturing techniques for synthesis of nano-structured smart materials.",
+      "Develop new energy harvester designs focusing on less rare-element dependent materials and environmental sustainability.",
+      "Implement shortened process chains and improved material processing efficiency for cost reduction."
+    ],
+    "results": [
+      "Achieve 50% reduction in greenhouse gas emissions and waste while improving material reliability and reducing manufacturing costs.",
+      "Create new energy harvesting products and services generating market value worth hundreds of millions of Euros for Europe.",
+      "Enable systematic solutions for energy generation, storage, and use to support EU's social, economic, and environmental development targets."
+    ],
+    "research_subject": "Nano-enabled smart materials and systems for sustainable energy harvesting"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current energy harvesting materials and technologies face limitations in performance, reliability, and sustainability, hindering their large-scale adoption.\",\n    \"The dependence on rare elements and toxic materials in energy harvesting technologies poses environmental concerns and restricts their widespread implementation.\",\n    \"High manufacturing costs and inadequate product design strategies impede the development of sustainable energy harvesting solutions.\"\n  ],\n  \"objectives\": [\n    \"Scale up novel nano-manufacturing techniques for mass production of nano-structured smart materials and components for energy harvesting applications.\",\n    \"Improve material quality and structural reliability by 50-100% while reducing materials and processing costs by 30%.\",\n    \"Develop and promote lead-free piezoelectric and Hf-free half-Heusler thermoelectric materials for energy harvesting applications.\"\n  ],\n  \"methods\": [\n    \"Implement novel nano-manufacturing techniques for synthesis of nano-structured smart materials and component manufacturing.\",\n    \"Design and develop new energy harvester designs considering environmental strategies and rare-element dependence reduction.\",\n    \"Optimize material processing efficiency and reduce process chains to achieve cost savings and improved material quality.\"\n  ],\n  \"results\": [\n    \"Achieve significant improvements in material quality, structural reliability, and cost reduction for energy harvesting applications.\",\n    \"Contribute to a 50% reduction in greenhouse gas emissions and waste reduction in Europe through the adoption of sustainable energy harvesting solutions.\",\n    \"Promote the widespread implementation of Internet of Things (IoT) and Digital Single Market (DSM) in Europe through the introduction of new energy harvesting products and services.\"\n  ],\n  \"research_subject\": \"Development of nano-enabled smart materials and systems for sustainable energy harvesting\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current energy harvesting technologies face challenges in material performance, reliability, high manufacturing cost, and sustainability.\",\n    \"There is a need for improved energy harvester designs that are less dependent on rare elements and are environmentally friendly.\",\n    \"The development and application of new-generation energy harvesters can support the implementation of the Internet of Things and Digital Single Market in Europe.\"\n  ],\n  \"objectives\": [\n    \"Scale up novel nano-manufacturing techniques for synthesis of nano-structured smart materials and component manufacturing for energy harvesting applications.\",\n    \"Improve material quality and structural reliability, and reduce overall materials and processing costs.\",\n    \"Develop new energy harvester designs that are less dependent on rare elements and consider environmental strategy.\"\n  ],\n  \"methods\": [\n    \"Use mass-production nano-manufacturing techniques for synthesis of nano-structured smart materials.\",\n    \"Focus on less and free rare-element dependence materials such as lead-free piezoelectric and Hf-free half-Heusler thermoelectric materials.\",\n    \"Implement new energy harvester designs considering environmental strategy.\"\n  ],\n  \"results\": [\n    \"Significant improvement in material quality and structural reliability, and reduction in overall materials and processing costs.\",\n    \"Positive environmental impacts including reduction in greenhouse gas emission and waste.\",\n    \"Promotion of wide implementation of Internet of Things and Digital Single Market in Europe.\"\n  ],\n  \"research_subject\": \"Development of nano-structured smart materials and systems for energy harvesting\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current energy harvesters face obstacles including inadequate material performance and reliability, high manufacturing costs, and insufficient sustainable design strategies.\",\n    \"There is a need for less rare-element dependent and toxicity-free materials for energy harvesting applications to meet environmental and sustainability goals.\",\n    \"The large-scale implementation of IoT and Digital Single Market in Europe requires cost-effective and reliable energy harvesting solutions.\"\n  ],\n  \"objectives\": [\n    \"Scale up novel nano-manufacturing techniques to improve material quality and structural reliability of energy harvesters by 50-100% while reducing costs by 30%.\",\n    \"Develop lead-free piezoelectric and Hf-free thermoelectric materials with enhanced performance for sustainable energy harvesting applications.\",\n    \"Enable widespread implementation of IoT and Digital Single Market through new energy harvesting products and services.\"\n  ],\n  \"methods\": [\n    \"Utilize mass-production nano-manufacturing techniques for synthesis of nano-structured smart materials.\",\n    \"Develop new energy harvester designs focusing on less rare-element dependent materials and environmental sustainability.\",\n    \"Implement shortened process chains and improved material processing efficiency for cost reduction.\"\n  ],\n  \"results\": [\n    \"Achieve 50% reduction in greenhouse gas emissions and waste while improving material reliability and reducing manufacturing costs.\",\n    \"Create new energy harvesting products and services generating market value worth hundreds of millions of Euros for Europe.\",\n    \"Enable systematic solutions for energy generation, storage, and use to support EU's social, economic, and environmental development targets.\"\n  ],\n  \"research_subject\": \"Nano-enabled smart materials and systems for sustainable energy harvesting\"\n}\n```"
+}

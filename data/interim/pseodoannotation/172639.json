@@ -1,0 +1,74 @@
+{
+  "index": 239,
+  "title": "Enabling multichannel participation through ict adaptations",
+  "abstract": "Participatory budgeting (PB) represents one of the most successful civic innovations of the last quarter-century. At a time when voter turnout in Europe is lagging and public institutions struggle to maintain trust and legitimacy within a framework of growing budgetary cuts, PB has proved itself to be a powerful tool for citizens to join in the essential tasks of governing, not only as voters but also as decision-makers themselves. EMPATIA aims at producing the first ICT platform capable of fully encompassing both the decision-making cycle and the implementation cycle of PB whose integration is considered indispensable by literature as the main driver of the self-sustainability process. It will harness the collaborative power of ICT networks applied to PB, seeking to radically enhance the inclusiveness and impact of PB processes, enabling citizens, individually and collectively, to take deliberate and informed action for the public good. This will lower barriers to information and participation, deepening citizen engagement and trust in public institutions, collaborating alongside them to make their communities more sustainable. EMPATIA consists of multidisciplinary consortium, with expertise in adjacent fields – research and implementation of participatory and voting processes, ICT integration, evaluation of technological and societal impacts among others – that will include in its activities the implementation of three distinct PB Pilots, with citizens from the municipalities of Lisbon (Portugal), Ričany (Czech Republic) and Bonn (Germany), allowing a thorough analysis and validation of the EMPATIA platform.",
+  "llama_json": {
+    "motivations": [
+      "Low voter turnout and declining trust in public institutions in Europe necessitate innovative approaches to civic engagement.",
+      "Existing participatory budgeting (PB) processes face limitations in inclusiveness and sustainability due to inadequate integration of decision-making and implementation cycles."
+    ],
+    "objectives": [
+      "Develop an ICT platform that integrates the decision-making and implementation cycles of participatory budgeting to enhance its inclusiveness and impact.",
+      "Harness the collaborative power of ICT networks to facilitate informed citizen participation and collective action for the public good.",
+      "Lower barriers to information and participation, thereby deepening citizen engagement and trust in public institutions."
+    ],
+    "methods": [
+      "Design and implement an ICT platform for participatory budgeting that integrates decision-making and implementation cycles.",
+      "Conduct three pilot projects in distinct municipalities (Lisbon, Ričany, and Bonn) to test and validate the EMPATIA platform.",
+      "Leverage a multidisciplinary consortium with expertise in participatory processes, ICT integration, and impact evaluation to ensure the platform's effectiveness."
+    ],
+    "results": [
+      "Enhance the inclusiveness and sustainability of participatory budgeting processes through ICT-enabled citizen engagement.",
+      "Increase citizen participation and trust in public institutions by providing accessible information and opportunities for collective action.",
+      "Contribute to more sustainable communities through collaborative decision-making and implementation of participatory budgeting initiatives."
+    ],
+    "research_subject": "ICT-enabled participatory budgeting for enhanced civic engagement and sustainable communities"
+  },
+  "openai_json": {
+    "motivations": [
+      "Participatory budgeting (PB) is a successful civic innovation, but public institutions struggle to maintain trust and legitimacy amid budgetary cuts and low voter turnout.",
+      "There is a need for an ICT platform that can fully encompass both the decision-making and implementation cycles of PB to drive self-sustainability."
+    ],
+    "objectives": [
+      "Develop the first ICT platform capable of fully integrating the decision-making and implementation cycles of PB.",
+      "Enhance the inclusiveness and impact of PB processes by harnessing the collaborative power of ICT networks.",
+      "Deepen citizen engagement and trust in public institutions by lowering barriers to information and participation."
+    ],
+    "methods": [
+      "Create an ICT platform that integrates both decision-making and implementation cycles of PB.",
+      "Apply ICT networks to PB processes to enhance inclusiveness and impact.",
+      "Implement three distinct PB pilots in Lisbon, Ričany, and Bonn for thorough analysis and validation of the platform."
+    ],
+    "results": [
+      "Enable citizens to take deliberate and informed action for the public good.",
+      "Deepen citizen engagement and trust in public institutions.",
+      "Make communities more sustainable through collaborative decision-making."
+    ],
+    "research_subject": "Enabling multichannel participation in participatory budgeting through ICT adaptations"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Voter turnout in Europe is declining and public institutions struggle to maintain trust and legitimacy amid budgetary constraints.",
+      "Existing participatory budgeting processes lack comprehensive ICT platforms that integrate both decision-making and implementation cycles, limiting their effectiveness and sustainability."
+    ],
+    "objectives": [
+      "Develop the first ICT platform that fully encompasses both the decision-making and implementation cycles of participatory budgeting.",
+      "Enhance the inclusiveness and impact of participatory budgeting processes by lowering barriers to information and participation.",
+      "Deepen citizen engagement and trust in public institutions through collaborative ICT-enabled participation."
+    ],
+    "methods": [
+      "Design and implement a comprehensive ICT platform that integrates all phases of participatory budgeting processes.",
+      "Conduct pilot implementations in three European municipalities to validate and refine the platform.",
+      "Apply multidisciplinary expertise in participatory processes, ICT integration, and impact evaluation."
+    ],
+    "results": [
+      "Citizens will be empowered to participate more effectively in public decision-making and budget allocation.",
+      "Increased inclusiveness and sustainability of participatory budgeting processes through integrated ICT solutions.",
+      "Enhanced trust between citizens and public institutions through improved collaborative governance mechanisms."
+    ],
+    "research_subject": "ICT-enabled participatory budgeting platform for enhanced civic engagement"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Low voter turnout and declining trust in public institutions in Europe necessitate innovative approaches to civic engagement.\",\n    \"Existing participatory budgeting (PB) processes face limitations in inclusiveness and sustainability due to inadequate integration of decision-making and implementation cycles.\"\n  ],\n  \"objectives\": [\n    \"Develop an ICT platform that integrates the decision-making and implementation cycles of participatory budgeting to enhance its inclusiveness and impact.\",\n    \"Harness the collaborative power of ICT networks to facilitate informed citizen participation and collective action for the public good.\",\n    \"Lower barriers to information and participation, thereby deepening citizen engagement and trust in public institutions.\"\n  ],\n  \"methods\": [\n    \"Design and implement an ICT platform for participatory budgeting that integrates decision-making and implementation cycles.\",\n    \"Conduct three pilot projects in distinct municipalities (Lisbon, Ričany, and Bonn) to test and validate the EMPATIA platform.\",\n    \"Leverage a multidisciplinary consortium with expertise in participatory processes, ICT integration, and impact evaluation to ensure the platform's effectiveness.\"\n  ],\n  \"results\": [\n    \"Enhance the inclusiveness and sustainability of participatory budgeting processes through ICT-enabled citizen engagement.\",\n    \"Increase citizen participation and trust in public institutions by providing accessible information and opportunities for collective action.\",\n    \"Contribute to more sustainable communities through collaborative decision-making and implementation of participatory budgeting initiatives.\"\n  ],\n  \"research_subject\": \"ICT-enabled participatory budgeting for enhanced civic engagement and sustainable communities\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Participatory budgeting (PB) is a successful civic innovation, but public institutions struggle to maintain trust and legitimacy amid budgetary cuts and low voter turnout.\",\n    \"There is a need for an ICT platform that can fully encompass both the decision-making and implementation cycles of PB to drive self-sustainability.\"\n  ],\n  \"objectives\": [\n    \"Develop the first ICT platform capable of fully integrating the decision-making and implementation cycles of PB.\",\n    \"Enhance the inclusiveness and impact of PB processes by harnessing the collaborative power of ICT networks.\",\n    \"Deepen citizen engagement and trust in public institutions by lowering barriers to information and participation.\"\n  ],\n  \"methods\": [\n    \"Create an ICT platform that integrates both decision-making and implementation cycles of PB.\",\n    \"Apply ICT networks to PB processes to enhance inclusiveness and impact.\",\n    \"Implement three distinct PB pilots in Lisbon, Ričany, and Bonn for thorough analysis and validation of the platform.\"\n  ],\n  \"results\": [\n    \"Enable citizens to take deliberate and informed action for the public good.\",\n    \"Deepen citizen engagement and trust in public institutions.\",\n    \"Make communities more sustainable through collaborative decision-making.\"\n  ],\n  \"research_subject\": \"Enabling multichannel participation in participatory budgeting through ICT adaptations\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Voter turnout in Europe is declining and public institutions struggle to maintain trust and legitimacy amid budgetary constraints.\",\n    \"Existing participatory budgeting processes lack comprehensive ICT platforms that integrate both decision-making and implementation cycles, limiting their effectiveness and sustainability.\"\n  ],\n  \"objectives\": [\n    \"Develop the first ICT platform that fully encompasses both the decision-making and implementation cycles of participatory budgeting.\",\n    \"Enhance the inclusiveness and impact of participatory budgeting processes by lowering barriers to information and participation.\",\n    \"Deepen citizen engagement and trust in public institutions through collaborative ICT-enabled participation.\"\n  ],\n  \"methods\": [\n    \"Design and implement a comprehensive ICT platform that integrates all phases of participatory budgeting processes.\",\n    \"Conduct pilot implementations in three European municipalities to validate and refine the platform.\",\n    \"Apply multidisciplinary expertise in participatory processes, ICT integration, and impact evaluation.\"\n  ],\n  \"results\": [\n    \"Citizens will be empowered to participate more effectively in public decision-making and budget allocation.\",\n    \"Increased inclusiveness and sustainability of participatory budgeting processes through integrated ICT solutions.\",\n    \"Enhanced trust between citizens and public institutions through improved collaborative governance mechanisms.\"\n  ],\n  \"research_subject\": \"ICT-enabled participatory budgeting platform for enhanced civic engagement\"\n}\n```"
+}

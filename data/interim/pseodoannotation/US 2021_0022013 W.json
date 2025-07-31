@@ -1,0 +1,61 @@
+{
+  "index": 234,
+  "title": "FASTENERS AND FASTENER SYSTEMS",
+  "abstract": "A fastener (540) is provided that securely couples a first body (568) to a second body (570), where the fastener (540) includes an elongate arcuate body (542) curved along a longitudinal axis and having a cross-sectional area taken planar normal to the longitudinal axis, the elongate arcuate body (542) includes a first portion (548) separated along the longitudinal axis from a second portion (550) with the cross-sectional area of the elongate body increasing from the first portion (548) to the second portion (550). The fastener (540) further includes a retaining portion (556) configured to selectively secure the elongate arcuate body (542) in the inserted configuration. In use, the present fastener is configured to be inserted into an arcuate converging passage (598) delineated between the first body (568) and the second body (570) which are overlapping at least in part, to selectively lock the first body (568) and the second body (570) in the coupled configuration.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a fastener that can securely couple two bodies together, particularly in situations where the bodies overlap."
+    ],
+    "objectives": [
+      "Design a fastener that can effectively couple two bodies together using an elongate arcuate body with varying cross-sectional area."
+    ],
+    "methods": [
+      "Develop a fastener with an elongate arcuate body that increases in cross-sectional area along its longitudinal axis.",
+      "Incorporate a retaining portion to selectively secure the elongate arcuate body in the inserted configuration."
+    ],
+    "results": [
+      "Provide a secure and effective means of coupling two bodies together using the designed fastener."
+    ],
+    "research_subject": "Development of a novel fastener system for coupling overlapping bodies"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a fastener that securely couples two bodies together."
+    ],
+    "objectives": [
+      "Provide a fastener with an elongate arcuate body that increases in cross-sectional area from one portion to another.",
+      "The fastener should include a retaining portion to secure the elongate arcuate body in the inserted configuration."
+    ],
+    "methods": [
+      "Design a fastener with an elongate arcuate body that is curved along a longitudinal axis.",
+      "The fastener is configured to be inserted into an arcuate converging passage delineated between the first and second bodies."
+    ],
+    "results": [
+      "The fastener can selectively lock the first body and the second body in the coupled configuration."
+    ],
+    "research_subject": "Design and functionality of fasteners and fastener systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional fastening methods may not adequately secure overlapping bodies with arcuate interfaces, leading to potential failure or loosening of connections.",
+      "There is a need for specialized fasteners that can effectively couple bodies with curved or converging passages while maintaining secure retention."
+    ],
+    "objectives": [
+      "Develop a fastener system that can securely couple overlapping bodies through arcuate converging passages.",
+      "Create a fastening mechanism with selective locking capability to maintain bodies in a coupled configuration."
+    ],
+    "methods": [
+      "Design an elongate arcuate body with varying cross-sectional area that increases from first to second portion along the longitudinal axis.",
+      "Incorporate a retaining portion that enables selective securing of the fastener in its inserted configuration.",
+      "Configure the fastener for insertion into arcuate converging passages formed between overlapping bodies."
+    ],
+    "results": [
+      "The fastener effectively locks overlapping bodies in a coupled configuration through arcuate converging passages.",
+      "The design provides secure and selective coupling between first and second bodies with improved retention capabilities."
+    ],
+    "research_subject": "Arcuate fastener systems for coupling overlapping bodies"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a fastener that can securely couple two bodies together, particularly in situations where the bodies overlap.\"\n  ],\n  \"objectives\": [\n    \"Design a fastener that can effectively couple two bodies together using an elongate arcuate body with varying cross-sectional area.\"\n  ],\n  \"methods\": [\n    \"Develop a fastener with an elongate arcuate body that increases in cross-sectional area along its longitudinal axis.\",\n    \"Incorporate a retaining portion to selectively secure the elongate arcuate body in the inserted configuration.\"\n  ],\n  \"results\": [\n    \"Provide a secure and effective means of coupling two bodies together using the designed fastener.\"\n  ],\n  \"research_subject\": \"Development of a novel fastener system for coupling overlapping bodies\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a fastener that securely couples two bodies together.\"\n  ],\n  \"objectives\": [\n    \"Provide a fastener with an elongate arcuate body that increases in cross-sectional area from one portion to another.\",\n    \"The fastener should include a retaining portion to secure the elongate arcuate body in the inserted configuration.\"\n  ],\n  \"methods\": [\n    \"Design a fastener with an elongate arcuate body that is curved along a longitudinal axis.\",\n    \"The fastener is configured to be inserted into an arcuate converging passage delineated between the first and second bodies.\"\n  ],\n  \"results\": [\n    \"The fastener can selectively lock the first body and the second body in the coupled configuration.\"\n  ],\n  \"research_subject\": \"Design and functionality of fasteners and fastener systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional fastening methods may not adequately secure overlapping bodies with arcuate interfaces, leading to potential failure or loosening of connections.\",\n    \"There is a need for specialized fasteners that can effectively couple bodies with curved or converging passages while maintaining secure retention.\"\n  ],\n  \"objectives\": [\n    \"Develop a fastener system that can securely couple overlapping bodies through arcuate converging passages.\",\n    \"Create a fastening mechanism with selective locking capability to maintain bodies in a coupled configuration.\"\n  ],\n  \"methods\": [\n    \"Design an elongate arcuate body with varying cross-sectional area that increases from first to second portion along the longitudinal axis.\",\n    \"Incorporate a retaining portion that enables selective securing of the fastener in its inserted configuration.\",\n    \"Configure the fastener for insertion into arcuate converging passages formed between overlapping bodies.\"\n  ],\n  \"results\": [\n    \"The fastener effectively locks overlapping bodies in a coupled configuration through arcuate converging passages.\",\n    \"The design provides secure and selective coupling between first and second bodies with improved retention capabilities.\"\n  ],\n  \"research_subject\": \"Arcuate fastener systems for coupling overlapping bodies\"\n}\n```"
+}

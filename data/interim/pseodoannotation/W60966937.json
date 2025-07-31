@@ -1,0 +1,73 @@
+{
+  "index": 178,
+  "title": "Experimental Evolution of Fission Yeast Genomes in Response to Repeated Environmental Changes",
+  "abstract": "Evolutionary biology has mainly relied on comparative studies. Supported by the advances in genomics, several groups are now using microorganisms for experimental evolution studies to directly observe the evolution process and its genetic basis. To understand how cells adapt to an environmental stress, I developed experimental evolution assays during which fission yeast populations were repeatedly exposed to short heat-shocks, followed immediately by ideal growth conditions. Samples were frozen after each selection cycle for subsequent phenotypic and genotypic analyses. In total, I performed 10 independent such experiments for up to 150 selection cycles, including a control experiment with mock-treated samples. In all experiments, except for the mock-treated control, cells acquired a markedly increased survival to heat and other stresses within only 10-20 selection cycles, while during later cycles there was a more subtle but continuous increase in stress resistance. Surprisingly, all populations, including the mock-treated control, also evolved a more rapid re-initiation of exponential growth following heat shock and a more efficient use of the growth medium, reflected by higher biomass in stationary phase. These rapid adaptations seem to be based on DNA variations as the new phenotypes are stable. The cellular phenotypes and global regulation of gene expression of the evolved strains were determined using stress assays and DNA microarrays. Genomes of 96 strains at selected time points over the course of the evolution experiments were sequenced. We analyzed what genetic changes in regulatory and coding regions occurred in the different independent experiments, with the ultimate goal of uncovering the specific changes that are causing the striking alteration in phenotype. In collaboration with Dr. Ville Mustonen, we determined dynamic allele frequency trajectories that had swept through each population. Genetic variation among the parental cells seems to underlie the rapid initial adaptation of new phenotypes. This analysis led to the discovery of a common haplotype consisting of 9 mutations, which is likely associated with the more rapid recovery of growth after heat shock.",
+  "llama_json": {
+    "motivations": [
+      "Understanding how cells adapt to environmental stress is crucial in evolutionary biology.",
+      "There is a need to directly observe the evolution process and its genetic basis in response to repeated environmental changes."
+    ],
+    "objectives": [
+      "Investigate how fission yeast genomes evolve in response to repeated heat-shocks and ideal growth conditions.",
+      "Identify the genetic changes that underlie the adaptation of new phenotypes in response to environmental stress.",
+      "Determine the dynamic allele frequency trajectories that occur in populations during the evolution process."
+    ],
+    "methods": [
+      "Develop and perform experimental evolution assays using fission yeast populations exposed to repeated heat-shocks and ideal growth conditions.",
+      "Conduct phenotypic and genotypic analyses of samples frozen after each selection cycle.",
+      "Use DNA microarrays and genome sequencing to analyze cellular phenotypes, global regulation of gene expression, and genetic changes in evolved strains."
+    ],
+    "results": [
+      "Fission yeast populations rapidly adapt to heat stress and acquire increased survival and stress resistance within a few selection cycles.",
+      "Evolved strains exhibit rapid re-initiation of exponential growth following heat shock and more efficient use of growth medium.",
+      "A common haplotype consisting of 9 mutations is associated with rapid recovery of growth after heat shock."
+    ],
+    "research_subject": "Experimental evolution of fission yeast genomes in response to repeated environmental changes"
+  },
+  "openai_json": {
+    "motivations": [
+      "Evolutionary biology has traditionally relied on comparative studies, but there is a growing interest in directly observing the evolution process and its genetic basis using experimental evolution studies.",
+      "Understanding how cells adapt to environmental stress, such as heat shocks, can provide insights into the mechanisms of evolution."
+    ],
+    "objectives": [
+      "Develop experimental evolution assays to observe how fission yeast populations adapt to repeated heat-shocks and ideal growth conditions.",
+      "Analyze the phenotypic and genotypic changes in the yeast populations over the course of the experiments.",
+      "Identify the specific genetic changes that lead to observed alterations in phenotype."
+    ],
+    "methods": [
+      "Conduct experimental evolution assays with fission yeast populations, exposing them to repeated cycles of heat-shock and ideal growth conditions.",
+      "Perform phenotypic and genotypic analyses of samples taken after each selection cycle.",
+      "Sequence the genomes of selected strains at different time points and analyze the genetic changes in regulatory and coding regions."
+    ],
+    "results": [
+      "Observed rapid adaptation of yeast populations to heat and other stresses within 10-20 selection cycles.",
+      "Identified a common haplotype consisting of 9 mutations associated with more rapid recovery of growth after heat shock.",
+      "Found that genetic variation among the parental cells seems to underlie the rapid initial adaptation of new phenotypes."
+    ],
+    "research_subject": "Experimental evolution of fission yeast genomes in response to repeated environmental changes"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional evolutionary biology relies on comparative studies, but direct observation of evolution processes and their genetic basis remains limited.",
+      "Understanding how cells adapt to environmental stress requires experimental approaches that can track both phenotypic and genotypic changes over time."
+    ],
+    "objectives": [
+      "Directly observe the evolution process and identify the genetic basis of adaptation in fission yeast populations exposed to repeated environmental changes.",
+      "Determine the specific genetic changes responsible for phenotypic alterations in stress resistance and growth characteristics."
+    ],
+    "methods": [
+      "Conducted experimental evolution assays exposing fission yeast populations to repeated heat-shock cycles followed by ideal growth conditions.",
+      "Analyzed cellular phenotypes and gene expression using stress assays and DNA microarrays.",
+      "Sequenced genomes of evolved strains and determined dynamic allele frequency trajectories to identify genetic variations."
+    ],
+    "results": [
+      "Cells acquired markedly increased survival to heat and other stresses within 10-20 selection cycles, with continuous improvement in later cycles.",
+      "All populations evolved more rapid growth re-initiation after heat shock and more efficient medium utilization.",
+      "Identified a common haplotype of 9 mutations likely associated with rapid recovery of growth after heat shock."
+    ],
+    "research_subject": "Experimental evolution of fission yeast in response to repeated heat-shock stress"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how cells adapt to environmental stress is crucial in evolutionary biology.\",\n    \"There is a need to directly observe the evolution process and its genetic basis in response to repeated environmental changes.\"\n  ],\n  \"objectives\": [\n    \"Investigate how fission yeast genomes evolve in response to repeated heat-shocks and ideal growth conditions.\",\n    \"Identify the genetic changes that underlie the adaptation of new phenotypes in response to environmental stress.\",\n    \"Determine the dynamic allele frequency trajectories that occur in populations during the evolution process.\"\n  ],\n  \"methods\": [\n    \"Develop and perform experimental evolution assays using fission yeast populations exposed to repeated heat-shocks and ideal growth conditions.\",\n    \"Conduct phenotypic and genotypic analyses of samples frozen after each selection cycle.\",\n    \"Use DNA microarrays and genome sequencing to analyze cellular phenotypes, global regulation of gene expression, and genetic changes in evolved strains.\"\n  ],\n  \"results\": [\n    \"Fission yeast populations rapidly adapt to heat stress and acquire increased survival and stress resistance within a few selection cycles.\",\n    \"Evolved strains exhibit rapid re-initiation of exponential growth following heat shock and more efficient use of growth medium.\",\n    \"A common haplotype consisting of 9 mutations is associated with rapid recovery of growth after heat shock.\"\n  ],\n  \"research_subject\": \"Experimental evolution of fission yeast genomes in response to repeated environmental changes\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Evolutionary biology has traditionally relied on comparative studies, but there is a growing interest in directly observing the evolution process and its genetic basis using experimental evolution studies.\",\n    \"Understanding how cells adapt to environmental stress, such as heat shocks, can provide insights into the mechanisms of evolution.\"\n  ],\n  \"objectives\": [\n    \"Develop experimental evolution assays to observe how fission yeast populations adapt to repeated heat-shocks and ideal growth conditions.\",\n    \"Analyze the phenotypic and genotypic changes in the yeast populations over the course of the experiments.\",\n    \"Identify the specific genetic changes that lead to observed alterations in phenotype.\"\n  ],\n  \"methods\": [\n    \"Conduct experimental evolution assays with fission yeast populations, exposing them to repeated cycles of heat-shock and ideal growth conditions.\",\n    \"Perform phenotypic and genotypic analyses of samples taken after each selection cycle.\",\n    \"Sequence the genomes of selected strains at different time points and analyze the genetic changes in regulatory and coding regions.\"\n  ],\n  \"results\": [\n    \"Observed rapid adaptation of yeast populations to heat and other stresses within 10-20 selection cycles.\",\n    \"Identified a common haplotype consisting of 9 mutations associated with more rapid recovery of growth after heat shock.\",\n    \"Found that genetic variation among the parental cells seems to underlie the rapid initial adaptation of new phenotypes.\"\n  ],\n  \"research_subject\": \"Experimental evolution of fission yeast genomes in response to repeated environmental changes\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional evolutionary biology relies on comparative studies, but direct observation of evolution processes and their genetic basis remains limited.\",\n    \"Understanding how cells adapt to environmental stress requires experimental approaches that can track both phenotypic and genotypic changes over time.\"\n  ],\n  \"objectives\": [\n    \"Directly observe the evolution process and identify the genetic basis of adaptation in fission yeast populations exposed to repeated environmental changes.\",\n    \"Determine the specific genetic changes responsible for phenotypic alterations in stress resistance and growth characteristics.\"\n  ],\n  \"methods\": [\n    \"Conducted experimental evolution assays exposing fission yeast populations to repeated heat-shock cycles followed by ideal growth conditions.\",\n    \"Analyzed cellular phenotypes and gene expression using stress assays and DNA microarrays.\",\n    \"Sequenced genomes of evolved strains and determined dynamic allele frequency trajectories to identify genetic variations.\"\n  ],\n  \"results\": [\n    \"Cells acquired markedly increased survival to heat and other stresses within 10-20 selection cycles, with continuous improvement in later cycles.\",\n    \"All populations evolved more rapid growth re-initiation after heat shock and more efficient medium utilization.\",\n    \"Identified a common haplotype of 9 mutations likely associated with rapid recovery of growth after heat shock.\"\n  ],\n  \"research_subject\": \"Experimental evolution of fission yeast in response to repeated heat-shock stress\"\n}\n```"
+}

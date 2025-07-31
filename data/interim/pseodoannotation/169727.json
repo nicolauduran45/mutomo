@@ -1,0 +1,73 @@
+{
+  "index": 281,
+  "title": "Infrastructure for nmr, em and x-rays for translational research",
+  "abstract": "Structural biology provides insight into the molecular architecture of cells up to atomic resolution, revealing the biological mechanisms that are fundamental to life. It is thus key to many innovations in chemistry, biotechnology and medicine such as engineered enzymes, new potent drugs, innovative vaccines and novel biomaterials. iNEXT (infrastructure for NMR, EM and X-rays for Translational research) will provide high-end structural biology instrumentation and expertise, facilitating expert and non-expert European users to translate their fundamental research into biomedical and biotechnological applications. iNEXT brings together leading European structural biology facilities under one interdisciplinary organizational umbrella and includes synchrotron sites for X-rays, NMR centers with ultra-high field instruments, and, for the first time, advanced electron microscopy and light imaging facilities. Together with key partners in biological and biomedical institutions, partners focusing on training and dissemination activities, and ESFRI projects (Instruct, Euro-BioImaging, EU-OPENSCREEN and future neutron-provider ESS), iNEXT forms an inclusive European network of world class. iNEXT joint research projects (fragment screening for drug development, membrane protein structure, and multimodal cellular imaging) and networking, training and transnational access activities will be important for SMEs, established industries and academics alike. In particular, iNEXT will provide novel access modes to attract new and non-expert users, which are often hindered from engaging in structural biology projects through lack of instrumentation and expertise: a Structural Audit procedure, whereby a sample is assessed for its suitability for structural studies; Enhanced Project Support, allowing users to get expert help in an iNEXT facility; and High-End Data Collection, enabling experienced users to take full benefit of the iNEXT state-of-the-art equipment.",
+  "llama_json": {
+    "motivations": [
+      "Structural biology research requires high-end instrumentation and expertise to translate fundamental research into biomedical and biotechnological applications.",
+      "Current limitations in access to structural biology facilities hinder non-expert users from engaging in research projects due to lack of instrumentation and expertise."
+    ],
+    "objectives": [
+      "Provide high-end structural biology instrumentation and expertise to facilitate expert and non-expert European users in translating fundamental research into applications.",
+      "Establish an inclusive European network of world-class structural biology facilities, including synchrotron sites, NMR centers, and electron microscopy and light imaging facilities.",
+      "Develop novel access modes to attract new and non-expert users to structural biology research."
+    ],
+    "methods": [
+      "Unite leading European structural biology facilities under one interdisciplinary organizational umbrella.",
+      "Offer joint research projects, networking, training, and transnational access activities to support SMEs, industries, and academics.",
+      "Develop and implement novel access modes, including Structural Audit, Enhanced Project Support, and High-End Data Collection."
+    ],
+    "results": [
+      "Enhance the translation of fundamental research into biomedical and biotechnological applications.",
+      "Increase access to structural biology facilities for non-expert users.",
+      "Support innovation in chemistry, biotechnology, and medicine through advanced structural biology research."
+    ],
+    "research_subject": "Infrastructure development for structural biology research using NMR, EM, and X-rays"
+  },
+  "openai_json": {
+    "motivations": [
+      "Structural biology is crucial to innovations in various fields, but access to high-end structural biology instrumentation and expertise is limited.",
+      "Non-expert users often face barriers in engaging in structural biology projects due to lack of instrumentation and expertise."
+    ],
+    "objectives": [
+      "Provide high-end structural biology instrumentation and expertise to facilitate fundamental research translation into biomedical and biotechnological applications.",
+      "Establish an inclusive European network of leading structural biology facilities under one interdisciplinary organizational umbrella.",
+      "Implement novel access modes to attract new and non-expert users to structural biology."
+    ],
+    "methods": [
+      "Combine leading European structural biology facilities, including synchrotron sites for X-rays, NMR centers with ultra-high field instruments, and advanced electron microscopy and light imaging facilities.",
+      "Implement joint research projects, networking, training and transnational access activities.",
+      "Provide novel access modes such as a Structural Audit procedure, Enhanced Project Support, and High-End Data Collection."
+    ],
+    "results": [
+      "Facilitate the translation of fundamental research into biomedical and biotechnological applications.",
+      "Increase accessibility of structural biology instrumentation and expertise to a wider range of users, including non-experts.",
+      "Promote engagement in structural biology projects through novel access modes."
+    ],
+    "research_subject": "Infrastructure for NMR, EM and X-rays for translational research in structural biology"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Structural biology is fundamental to innovations in chemistry, biotechnology, and medicine, but access to high-end instrumentation and expertise remains limited for many researchers.",
+      "Non-expert users and those lacking resources are often hindered from engaging in structural biology projects, limiting the translation of fundamental research into practical applications."
+    ],
+    "objectives": [
+      "Provide integrated access to high-end structural biology instrumentation and expertise across Europe to facilitate translational research in biomedical and biotechnological applications.",
+      "Create an inclusive interdisciplinary network that brings together X-ray, NMR, electron microscopy, and light imaging facilities to support both expert and non-expert users."
+    ],
+    "methods": [
+      "Establish novel access modes including Structural Audit procedures, Enhanced Project Support, and High-End Data Collection services.",
+      "Implement joint research projects focusing on fragment screening for drug development, membrane protein structure, and multimodal cellular imaging.",
+      "Integrate leading European structural biology facilities with training, dissemination activities, and collaboration with ESFRI projects."
+    ],
+    "results": [
+      "Enable researchers to translate fundamental structural biology research into practical biomedical and biotechnological applications.",
+      "Expand access to structural biology techniques for SMEs, established industries, and academic users who previously lacked instrumentation or expertise.",
+      "Advance drug development, protein structure determination, and cellular imaging through collaborative research and state-of-the-art facilities."
+    ],
+    "research_subject": "European infrastructure for structural biology instrumentation and translational research"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Structural biology research requires high-end instrumentation and expertise to translate fundamental research into biomedical and biotechnological applications.\",\n    \"Current limitations in access to structural biology facilities hinder non-expert users from engaging in research projects due to lack of instrumentation and expertise.\"\n  ],\n  \"objectives\": [\n    \"Provide high-end structural biology instrumentation and expertise to facilitate expert and non-expert European users in translating fundamental research into applications.\",\n    \"Establish an inclusive European network of world-class structural biology facilities, including synchrotron sites, NMR centers, and electron microscopy and light imaging facilities.\",\n    \"Develop novel access modes to attract new and non-expert users to structural biology research.\"\n  ],\n  \"methods\": [\n    \"Unite leading European structural biology facilities under one interdisciplinary organizational umbrella.\",\n    \"Offer joint research projects, networking, training, and transnational access activities to support SMEs, industries, and academics.\",\n    \"Develop and implement novel access modes, including Structural Audit, Enhanced Project Support, and High-End Data Collection.\"\n  ],\n  \"results\": [\n    \"Enhance the translation of fundamental research into biomedical and biotechnological applications.\",\n    \"Increase access to structural biology facilities for non-expert users.\",\n    \"Support innovation in chemistry, biotechnology, and medicine through advanced structural biology research.\"\n  ],\n  \"research_subject\": \"Infrastructure development for structural biology research using NMR, EM, and X-rays\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Structural biology is crucial to innovations in various fields, but access to high-end structural biology instrumentation and expertise is limited.\",\n    \"Non-expert users often face barriers in engaging in structural biology projects due to lack of instrumentation and expertise.\"\n  ],\n  \"objectives\": [\n    \"Provide high-end structural biology instrumentation and expertise to facilitate fundamental research translation into biomedical and biotechnological applications.\",\n    \"Establish an inclusive European network of leading structural biology facilities under one interdisciplinary organizational umbrella.\",\n    \"Implement novel access modes to attract new and non-expert users to structural biology.\"\n  ],\n  \"methods\": [\n    \"Combine leading European structural biology facilities, including synchrotron sites for X-rays, NMR centers with ultra-high field instruments, and advanced electron microscopy and light imaging facilities.\",\n    \"Implement joint research projects, networking, training and transnational access activities.\",\n    \"Provide novel access modes such as a Structural Audit procedure, Enhanced Project Support, and High-End Data Collection.\"\n  ],\n  \"results\": [\n    \"Facilitate the translation of fundamental research into biomedical and biotechnological applications.\",\n    \"Increase accessibility of structural biology instrumentation and expertise to a wider range of users, including non-experts.\",\n    \"Promote engagement in structural biology projects through novel access modes.\"\n  ],\n  \"research_subject\": \"Infrastructure for NMR, EM and X-rays for translational research in structural biology\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Structural biology is fundamental to innovations in chemistry, biotechnology, and medicine, but access to high-end instrumentation and expertise remains limited for many researchers.\",\n    \"Non-expert users and those lacking resources are often hindered from engaging in structural biology projects, limiting the translation of fundamental research into practical applications.\"\n  ],\n  \"objectives\": [\n    \"Provide integrated access to high-end structural biology instrumentation and expertise across Europe to facilitate translational research in biomedical and biotechnological applications.\",\n    \"Create an inclusive interdisciplinary network that brings together X-ray, NMR, electron microscopy, and light imaging facilities to support both expert and non-expert users.\"\n  ],\n  \"methods\": [\n    \"Establish novel access modes including Structural Audit procedures, Enhanced Project Support, and High-End Data Collection services.\",\n    \"Implement joint research projects focusing on fragment screening for drug development, membrane protein structure, and multimodal cellular imaging.\",\n    \"Integrate leading European structural biology facilities with training, dissemination activities, and collaboration with ESFRI projects.\"\n  ],\n  \"results\": [\n    \"Enable researchers to translate fundamental structural biology research into practical biomedical and biotechnological applications.\",\n    \"Expand access to structural biology techniques for SMEs, established industries, and academic users who previously lacked instrumentation or expertise.\",\n    \"Advance drug development, protein structure determination, and cellular imaging through collaborative research and state-of-the-art facilities.\"\n  ],\n  \"research_subject\": \"European infrastructure for structural biology instrumentation and translational research\"\n}\n```"
+}

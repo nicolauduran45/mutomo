@@ -1,0 +1,65 @@
+{
+  "index": 182,
+  "title": "Zircon U-Pb SHRIMP Dating of the Monzonite Granite-Porphyry from the Bangpu Large Porphyry Molybdenum-Copper Deposits,Tibet,and its geological Significance",
+  "abstract": "The zircon U-Pb SHRIMP technique was applied to measure the age of the monzonite granite-porphyry from the Bangpu porphy deposits in the eastern Gangdese porphyry belt.It was obtained that the 206Pb/238U mean age is 13.9±0.3 Ma(MSWD =3.05),which belongs to the late period of Himalaya.The Bangpu monzonite granite-porphyry was formed during the period of ore-bearing porphyries forming in the Gangdese metallogenic belt to the extension environment of post-collision(12~18 Ma).Our new data suggest that the Bangpu monzonite granite-porphyry shared similar metallogenic dynamics settings to the Gangdese copper belt,which belongs to a rapid outbreak of large-scale mineralization process.Our new result is very important in confirming the active time of the Gangdese magma,provides chronological data and new inspiration for evolution studies of the whole Gangdese metallogenic belt.",
+  "llama_json": {
+    "motivations": [
+      "The age and geological significance of the monzonite granite-porphyry from the Bangpu large porphyry molybdenum-copper deposits in Tibet are not well understood.",
+      "There is a need to determine the metallogenic dynamics settings of the Bangpu monzonite granite-porphyry to understand its relationship with the Gangdese copper belt."
+    ],
+    "objectives": [
+      "Determine the age of the monzonite granite-porphyry from the Bangpu porphyry deposits using the zircon U-Pb SHRIMP technique.",
+      "Understand the geological significance of the Bangpu monzonite granite-porphyry in the context of the Gangdese metallogenic belt."
+    ],
+    "methods": [
+      "Apply the zircon U-Pb SHRIMP technique to measure the age of the monzonite granite-porphyry.",
+      "Analyze the 206Pb/238U mean age to determine the formation period of the Bangpu monzonite granite-porphyry."
+    ],
+    "results": [
+      "The Bangpu monzonite granite-porphyry has a 206Pb/238U mean age of 13.9±0.3 Ma, indicating formation during the late period of Himalaya.",
+      "The Bangpu monzonite granite-porphyry shares similar metallogenic dynamics settings with the Gangdese copper belt, suggesting a rapid outbreak of large-scale mineralization process."
+    ],
+    "research_subject": "Geochronology and geological significance of the Bangpu monzonite granite-porphyry in the Gangdese metallogenic belt"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to accurately date the monzonite granite-porphyry from the Bangpu porphyry deposits to understand its formation period.",
+      "Understanding the geological significance of the Bangpu monzonite granite-porphyry can provide insights into the metallogenic dynamics of the Gangdese copper belt."
+    ],
+    "objectives": [
+      "Determine the age of the monzonite granite-porphyry from the Bangpu porphyry deposits using the zircon U-Pb SHRIMP technique.",
+      "Analyze the geological significance of the Bangpu monzonite granite-porphyry in relation to the Gangdese copper belt."
+    ],
+    "methods": [
+      "Use the zircon U-Pb SHRIMP technique to measure the age of the monzonite granite-porphyry.",
+      "Compare the metallogenic dynamics settings of the Bangpu monzonite granite-porphyry to the Gangdese copper belt."
+    ],
+    "results": [
+      "The Bangpu monzonite granite-porphyry was formed during the late period of Himalaya, specifically during the period of ore-bearing porphyries forming in the Gangdese metallogenic belt.",
+      "The Bangpu monzonite granite-porphyry shares similar metallogenic dynamics settings to the Gangdese copper belt, indicating a rapid outbreak of large-scale mineralization process."
+    ],
+    "research_subject": "Dating and geological significance of the monzonite granite-porphyry from the Bangpu porphyry deposits"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The timing and geological context of ore-bearing porphyries in the Gangdese metallogenic belt require precise chronological constraints to understand mineralization processes.",
+      "Understanding the relationship between the Bangpu porphyry deposits and the broader Gangdese copper belt is crucial for regional metallogenic studies."
+    ],
+    "objectives": [
+      "Determine the precise age of the monzonite granite-porphyry from the Bangpu porphyry molybdenum-copper deposits using zircon U-Pb SHRIMP dating.",
+      "Establish the geological significance and metallogenic context of the Bangpu deposits within the Gangdese metallogenic belt."
+    ],
+    "methods": [
+      "Apply zircon U-Pb SHRIMP dating technique to measure the age of monzonite granite-porphyry samples from the Bangpu deposits."
+    ],
+    "results": [
+      "The monzonite granite-porphyry yielded a 206Pb/238U mean age of 13.9±0.3 Ma, placing it in the late Himalayan period.",
+      "The Bangpu deposits formed during the post-collision extension environment (12-18 Ma) and share similar metallogenic dynamics with the Gangdese copper belt.",
+      "The findings provide crucial chronological data for understanding the evolution of the Gangdese metallogenic belt and confirm the timing of magmatic activity."
+    ],
+    "research_subject": "Geochronology and metallogenic significance of the Bangpu porphyry molybdenum-copper deposits in Tibet"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The age and geological significance of the monzonite granite-porphyry from the Bangpu large porphyry molybdenum-copper deposits in Tibet are not well understood.\",\n    \"There is a need to determine the metallogenic dynamics settings of the Bangpu monzonite granite-porphyry to understand its relationship with the Gangdese copper belt.\"\n  ],\n  \"objectives\": [\n    \"Determine the age of the monzonite granite-porphyry from the Bangpu porphyry deposits using the zircon U-Pb SHRIMP technique.\",\n    \"Understand the geological significance of the Bangpu monzonite granite-porphyry in the context of the Gangdese metallogenic belt.\"\n  ],\n  \"methods\": [\n    \"Apply the zircon U-Pb SHRIMP technique to measure the age of the monzonite granite-porphyry.\",\n    \"Analyze the 206Pb/238U mean age to determine the formation period of the Bangpu monzonite granite-porphyry.\"\n  ],\n  \"results\": [\n    \"The Bangpu monzonite granite-porphyry has a 206Pb/238U mean age of 13.9±0.3 Ma, indicating formation during the late period of Himalaya.\",\n    \"The Bangpu monzonite granite-porphyry shares similar metallogenic dynamics settings with the Gangdese copper belt, suggesting a rapid outbreak of large-scale mineralization process.\"\n  ],\n  \"research_subject\": \"Geochronology and geological significance of the Bangpu monzonite granite-porphyry in the Gangdese metallogenic belt\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to accurately date the monzonite granite-porphyry from the Bangpu porphyry deposits to understand its formation period.\",\n    \"Understanding the geological significance of the Bangpu monzonite granite-porphyry can provide insights into the metallogenic dynamics of the Gangdese copper belt.\"\n  ],\n  \"objectives\": [\n    \"Determine the age of the monzonite granite-porphyry from the Bangpu porphyry deposits using the zircon U-Pb SHRIMP technique.\",\n    \"Analyze the geological significance of the Bangpu monzonite granite-porphyry in relation to the Gangdese copper belt.\"\n  ],\n  \"methods\": [\n    \"Use the zircon U-Pb SHRIMP technique to measure the age of the monzonite granite-porphyry.\",\n    \"Compare the metallogenic dynamics settings of the Bangpu monzonite granite-porphyry to the Gangdese copper belt.\"\n  ],\n  \"results\": [\n    \"The Bangpu monzonite granite-porphyry was formed during the late period of Himalaya, specifically during the period of ore-bearing porphyries forming in the Gangdese metallogenic belt.\",\n    \"The Bangpu monzonite granite-porphyry shares similar metallogenic dynamics settings to the Gangdese copper belt, indicating a rapid outbreak of large-scale mineralization process.\"\n  ],\n  \"research_subject\": \"Dating and geological significance of the monzonite granite-porphyry from the Bangpu porphyry deposits\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The timing and geological context of ore-bearing porphyries in the Gangdese metallogenic belt require precise chronological constraints to understand mineralization processes.\",\n    \"Understanding the relationship between the Bangpu porphyry deposits and the broader Gangdese copper belt is crucial for regional metallogenic studies.\"\n  ],\n  \"objectives\": [\n    \"Determine the precise age of the monzonite granite-porphyry from the Bangpu porphyry molybdenum-copper deposits using zircon U-Pb SHRIMP dating.\",\n    \"Establish the geological significance and metallogenic context of the Bangpu deposits within the Gangdese metallogenic belt.\"\n  ],\n  \"methods\": [\n    \"Apply zircon U-Pb SHRIMP dating technique to measure the age of monzonite granite-porphyry samples from the Bangpu deposits.\"\n  ],\n  \"results\": [\n    \"The monzonite granite-porphyry yielded a 206Pb/238U mean age of 13.9±0.3 Ma, placing it in the late Himalayan period.\",\n    \"The Bangpu deposits formed during the post-collision extension environment (12-18 Ma) and share similar metallogenic dynamics with the Gangdese copper belt.\",\n    \"The findings provide crucial chronological data for understanding the evolution of the Gangdese metallogenic belt and confirm the timing of magmatic activity.\"\n  ],\n  \"research_subject\": \"Geochronology and metallogenic significance of the Bangpu porphyry molybdenum-copper deposits in Tibet\"\n}\n```"
+}

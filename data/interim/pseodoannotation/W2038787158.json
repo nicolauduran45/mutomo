@@ -1,0 +1,65 @@
+{
+  "index": 225,
+  "title": "Synthesis of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives as potent antibacterial and antifungal agents",
+  "abstract": "Twelve compounds belonging to series N-[3-chloro-2-oxo-4-(substituted)phenylazetidin-1-yl]-2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide (5a–l) were synthesized. These compounds were evaluated for their in vitro antibacterial against E. coli, S. aureus, K. pneumoniae, P. aeruginosa and antifungal activity against C. albicans, A. niger and A. flavus by cup-plate method. Structures of all the newly synthesized compounds were confirmed by their spectral data interpretation. Compound 5g having p-dimethylaminophenyl group on 4-position of azetidinone ring attached to N-atom of acetamido group on 1-position of 3-methyl-1H-quinoxaline-2-one, was found to be active against all the bacterial and fungal strains under investigation. A new series of compounds belonging to N-[3-chloro-2-oxo-4-(substituted) phenylazetidin-1-yl]-2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide was synthesized and all the newly synthesized compounds were evaluated for their in vitro antibacterial and antifungal activities.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective antibacterial and antifungal agents to combat various microbial infections.",
+      "Existing treatments may have limitations, such as resistance or inadequate potency, necessitating the development of new compounds."
+    ],
+    "objectives": [
+      "Synthesize a series of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives with potential antibacterial and antifungal properties.",
+      "Evaluate the in vitro antibacterial and antifungal activities of the synthesized compounds against various microbial strains."
+    ],
+    "methods": [
+      "Synthesize twelve compounds belonging to the series N-[3-chloro-2-oxo-4-(substituted)phenylazetidin-1-yl]-2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide.",
+      "Use the cup-plate method to evaluate the in vitro antibacterial and antifungal activities of the synthesized compounds.",
+      "Confirm the structures of the newly synthesized compounds through spectral data interpretation."
+    ],
+    "results": [
+      "Identify potent antibacterial and antifungal agents among the synthesized compounds, such as compound 5g, which showed activity against all tested bacterial and fungal strains.",
+      "Contribute to the development of new treatments for microbial infections by providing a series of compounds with potential therapeutic applications."
+    ],
+    "research_subject": "Synthesis and evaluation of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives as antibacterial and antifungal agents"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for new antibacterial and antifungal agents to combat various bacterial and fungal strains."
+    ],
+    "objectives": [
+      "Synthesize a series of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives.",
+      "Evaluate the in vitro antibacterial and antifungal activities of the synthesized compounds."
+    ],
+    "methods": [
+      "Synthesize a series of N-[3-chloro-2-oxo-4-(substituted)phenylazetidin-1-yl]-2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide compounds.",
+      "Evaluate the antibacterial activity of the compounds against E. coli, S. aureus, K. pneumoniae, P. aeruginosa.",
+      "Evaluate the antifungal activity of the compounds against C. albicans, A. niger and A. flavus using the cup-plate method."
+    ],
+    "results": [
+      "A series of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives were successfully synthesized.",
+      "The synthesized compounds demonstrated in vitro antibacterial and antifungal activities.",
+      "Compound 5g was found to be active against all the bacterial and fungal strains under investigation."
+    ],
+    "research_subject": "Synthesis and evaluation of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives as antibacterial and antifungal agents"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for new antibacterial and antifungal agents to combat microbial infections."
+    ],
+    "objectives": [
+      "Synthesize and evaluate novel 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives for their antibacterial and antifungal activities."
+    ],
+    "methods": [
+      "Synthesize twelve N-[3-chloro-2-oxo-4-(substituted)phenylazetidin-1-yl]-2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide compounds and confirm their structures through spectral data interpretation.",
+      "Evaluate in vitro antibacterial activity against E. coli, S. aureus, K. pneumoniae, and P. aeruginosa, and antifungal activity against C. albicans, A. niger, and A. flavus using the cup-plate method."
+    ],
+    "results": [
+      "Compound 5g with p-dimethylaminophenyl group showed activity against all tested bacterial and fungal strains.",
+      "Successfully synthesized and characterized a new series of quinoxaline-based azetidinone derivatives with antimicrobial properties."
+    ],
+    "research_subject": "Synthesis and antimicrobial evaluation of quinoxaline-based azetidinone derivatives"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective antibacterial and antifungal agents to combat various microbial infections.\",\n    \"Existing treatments may have limitations, such as resistance or inadequate potency, necessitating the development of new compounds.\"\n  ],\n  \"objectives\": [\n    \"Synthesize a series of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives with potential antibacterial and antifungal properties.\",\n    \"Evaluate the in vitro antibacterial and antifungal activities of the synthesized compounds against various microbial strains.\"\n  ],\n  \"methods\": [\n    \"Synthesize twelve compounds belonging to the series N-[3-chloro-2-oxo-4-(substituted)phenylazetidin-1-yl]-2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide.\",\n    \"Use the cup-plate method to evaluate the in vitro antibacterial and antifungal activities of the synthesized compounds.\",\n    \"Confirm the structures of the newly synthesized compounds through spectral data interpretation.\"\n  ],\n  \"results\": [\n    \"Identify potent antibacterial and antifungal agents among the synthesized compounds, such as compound 5g, which showed activity against all tested bacterial and fungal strains.\",\n    \"Contribute to the development of new treatments for microbial infections by providing a series of compounds with potential therapeutic applications.\"\n  ],\n  \"research_subject\": \"Synthesis and evaluation of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives as antibacterial and antifungal agents\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for new antibacterial and antifungal agents to combat various bacterial and fungal strains.\"\n  ],\n  \"objectives\": [\n    \"Synthesize a series of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives.\",\n    \"Evaluate the in vitro antibacterial and antifungal activities of the synthesized compounds.\"\n  ],\n  \"methods\": [\n    \"Synthesize a series of N-[3-chloro-2-oxo-4-(substituted)phenylazetidin-1-yl]-2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide compounds.\",\n    \"Evaluate the antibacterial activity of the compounds against E. coli, S. aureus, K. pneumoniae, P. aeruginosa.\",\n    \"Evaluate the antifungal activity of the compounds against C. albicans, A. niger and A. flavus using the cup-plate method.\"\n  ],\n  \"results\": [\n    \"A series of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives were successfully synthesized.\",\n    \"The synthesized compounds demonstrated in vitro antibacterial and antifungal activities.\",\n    \"Compound 5g was found to be active against all the bacterial and fungal strains under investigation.\"\n  ],\n  \"research_subject\": \"Synthesis and evaluation of 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives as antibacterial and antifungal agents\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for new antibacterial and antifungal agents to combat microbial infections.\"\n  ],\n  \"objectives\": [\n    \"Synthesize and evaluate novel 2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide-based azetidinone derivatives for their antibacterial and antifungal activities.\"\n  ],\n  \"methods\": [\n    \"Synthesize twelve N-[3-chloro-2-oxo-4-(substituted)phenylazetidin-1-yl]-2-(3-methyl-2-oxoquinoxalin-1(2H)-yl)acetamide compounds and confirm their structures through spectral data interpretation.\",\n    \"Evaluate in vitro antibacterial activity against E. coli, S. aureus, K. pneumoniae, and P. aeruginosa, and antifungal activity against C. albicans, A. niger, and A. flavus using the cup-plate method.\"\n  ],\n  \"results\": [\n    \"Compound 5g with p-dimethylaminophenyl group showed activity against all tested bacterial and fungal strains.\",\n    \"Successfully synthesized and characterized a new series of quinoxaline-based azetidinone derivatives with antimicrobial properties.\"\n  ],\n  \"research_subject\": \"Synthesis and antimicrobial evaluation of quinoxaline-based azetidinone derivatives\"\n}\n```"
+}

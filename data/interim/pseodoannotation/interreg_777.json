@@ -1,0 +1,76 @@
+{
+  "index": 31,
+  "title": "Coordinated Wetland management in Italy-Croatia cross border region",
+  "abstract": "CREW project aims at achieving the following objectives: set up a cross border Observatory to monitor best practices and data on Italian and Croatian coastal wetlands; protect the biodiversity in Italian and Croatian coastal wetlands by the implementation of a coordinated methodology for wetlands management (Wetland Contract); share a cross border strategy and strengthen synergies among Italian and Croatian coastal wetlands; improve the public awareness about the value of the wetlands ecosystems among policy makers, managers, professionals, and general public and strengthen their active engagement in territorial governance.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for coordinated management and protection of coastal wetlands in the Italy-Croatia cross-border region to preserve biodiversity.",
+      "Lack of public awareness about the value of wetland ecosystems hinders effective governance and conservation efforts."
+    ],
+    "objectives": [
+      "Establish a cross-border Observatory to monitor best practices and data on Italian and Croatian coastal wetlands.",
+      "Implement a coordinated methodology for wetlands management through the Wetland Contract to protect biodiversity.",
+      "Enhance public awareness and engagement in territorial governance among stakeholders."
+    ],
+    "methods": [
+      "Set up a cross-border Observatory to monitor and share data on coastal wetlands.",
+      "Develop and implement a coordinated methodology for wetlands management.",
+      "Share a cross-border strategy and strengthen synergies among Italian and Croatian coastal wetlands."
+    ],
+    "results": [
+      "Improved protection and preservation of biodiversity in Italian and Croatian coastal wetlands.",
+      "Enhanced public awareness and engagement in wetland conservation efforts.",
+      "Strengthened synergies and coordination among stakeholders in the Italy-Croatia cross-border region."
+    ],
+    "research_subject": "Coordinated management and conservation of coastal wetlands in the Italy-Croatia cross-border region"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for coordinated management and protection of biodiversity in Italian and Croatian coastal wetlands.",
+      "There is a lack of public awareness about the value of wetlands ecosystems and the need for active engagement in territorial governance."
+    ],
+    "objectives": [
+      "Establish a cross-border observatory to monitor best practices and data on Italian and Croatian coastal wetlands.",
+      "Implement a coordinated methodology for wetlands management to protect biodiversity.",
+      "Share a cross-border strategy and strengthen synergies among Italian and Croatian coastal wetlands.",
+      "Improve public awareness about the value of the wetlands ecosystems and strengthen their active engagement in territorial governance."
+    ],
+    "methods": [
+      "Setting up a cross-border observatory for monitoring best practices and data.",
+      "Implementing a coordinated methodology for wetlands management, known as the Wetland Contract.",
+      "Sharing a cross-border strategy and strengthening synergies among wetlands.",
+      "Improving public awareness and engagement through various initiatives."
+    ],
+    "results": [
+      "Improved management and protection of biodiversity in Italian and Croatian coastal wetlands.",
+      "Increased public awareness and active engagement in territorial governance.",
+      "Strengthened synergies among Italian and Croatian coastal wetlands."
+    ],
+    "research_subject": "Coordinated Wetland Management in Italy-Croatia Cross Border Region"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Coastal wetlands in the Italy-Croatia cross-border region lack coordinated management approaches, threatening biodiversity conservation.",
+      "There is insufficient public awareness and engagement regarding the ecological value of wetland ecosystems among stakeholders and the general public."
+    ],
+    "objectives": [
+      "Establish a cross-border Observatory to monitor best practices and data on Italian and Croatian coastal wetlands.",
+      "Protect biodiversity through implementation of a coordinated wetland management methodology (Wetland Contract) and develop a shared cross-border strategy.",
+      "Improve public awareness about wetland ecosystem values and strengthen stakeholder engagement in territorial governance."
+    ],
+    "methods": [
+      "Create a cross-border Observatory for monitoring and data collection on coastal wetlands.",
+      "Implement a coordinated Wetland Contract methodology for integrated wetland management.",
+      "Develop awareness campaigns and engagement activities targeting policy makers, managers, professionals, and the general public."
+    ],
+    "results": [
+      "Enhanced protection of biodiversity in Italian and Croatian coastal wetlands through coordinated management.",
+      "Strengthened cross-border cooperation and synergies in wetland conservation efforts.",
+      "Increased public awareness and active stakeholder participation in wetland governance and protection."
+    ],
+    "research_subject": "Cross-border coordinated management of coastal wetlands in the Italy-Croatia region"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for coordinated management and protection of coastal wetlands in the Italy-Croatia cross-border region to preserve biodiversity.\",\n    \"Lack of public awareness about the value of wetland ecosystems hinders effective governance and conservation efforts.\"\n  ],\n  \"objectives\": [\n    \"Establish a cross-border Observatory to monitor best practices and data on Italian and Croatian coastal wetlands.\",\n    \"Implement a coordinated methodology for wetlands management through the Wetland Contract to protect biodiversity.\",\n    \"Enhance public awareness and engagement in territorial governance among stakeholders.\"\n  ],\n  \"methods\": [\n    \"Set up a cross-border Observatory to monitor and share data on coastal wetlands.\",\n    \"Develop and implement a coordinated methodology for wetlands management.\",\n    \"Share a cross-border strategy and strengthen synergies among Italian and Croatian coastal wetlands.\"\n  ],\n  \"results\": [\n    \"Improved protection and preservation of biodiversity in Italian and Croatian coastal wetlands.\",\n    \"Enhanced public awareness and engagement in wetland conservation efforts.\",\n    \"Strengthened synergies and coordination among stakeholders in the Italy-Croatia cross-border region.\"\n  ],\n  \"research_subject\": \"Coordinated management and conservation of coastal wetlands in the Italy-Croatia cross-border region\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for coordinated management and protection of biodiversity in Italian and Croatian coastal wetlands.\",\n    \"There is a lack of public awareness about the value of wetlands ecosystems and the need for active engagement in territorial governance.\"\n  ],\n  \"objectives\": [\n    \"Establish a cross-border observatory to monitor best practices and data on Italian and Croatian coastal wetlands.\",\n    \"Implement a coordinated methodology for wetlands management to protect biodiversity.\",\n    \"Share a cross-border strategy and strengthen synergies among Italian and Croatian coastal wetlands.\",\n    \"Improve public awareness about the value of the wetlands ecosystems and strengthen their active engagement in territorial governance.\"\n  ],\n  \"methods\": [\n    \"Setting up a cross-border observatory for monitoring best practices and data.\",\n    \"Implementing a coordinated methodology for wetlands management, known as the Wetland Contract.\",\n    \"Sharing a cross-border strategy and strengthening synergies among wetlands.\",\n    \"Improving public awareness and engagement through various initiatives.\"\n  ],\n  \"results\": [\n    \"Improved management and protection of biodiversity in Italian and Croatian coastal wetlands.\",\n    \"Increased public awareness and active engagement in territorial governance.\",\n    \"Strengthened synergies among Italian and Croatian coastal wetlands.\"\n  ],\n  \"research_subject\": \"Coordinated Wetland Management in Italy-Croatia Cross Border Region\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Coastal wetlands in the Italy-Croatia cross-border region lack coordinated management approaches, threatening biodiversity conservation.\",\n    \"There is insufficient public awareness and engagement regarding the ecological value of wetland ecosystems among stakeholders and the general public.\"\n  ],\n  \"objectives\": [\n    \"Establish a cross-border Observatory to monitor best practices and data on Italian and Croatian coastal wetlands.\",\n    \"Protect biodiversity through implementation of a coordinated wetland management methodology (Wetland Contract) and develop a shared cross-border strategy.\",\n    \"Improve public awareness about wetland ecosystem values and strengthen stakeholder engagement in territorial governance.\"\n  ],\n  \"methods\": [\n    \"Create a cross-border Observatory for monitoring and data collection on coastal wetlands.\",\n    \"Implement a coordinated Wetland Contract methodology for integrated wetland management.\",\n    \"Develop awareness campaigns and engagement activities targeting policy makers, managers, professionals, and the general public.\"\n  ],\n  \"results\": [\n    \"Enhanced protection of biodiversity in Italian and Croatian coastal wetlands through coordinated management.\",\n    \"Strengthened cross-border cooperation and synergies in wetland conservation efforts.\",\n    \"Increased public awareness and active stakeholder participation in wetland governance and protection.\"\n  ],\n  \"research_subject\": \"Cross-border coordinated management of coastal wetlands in the Italy-Croatia region\"\n}\n```"
+}

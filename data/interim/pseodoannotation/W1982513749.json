@@ -1,0 +1,66 @@
+{
+  "index": 417,
+  "title": "Women's experiential journey toward voluntary childlessness: An interpretative phenomenological analysis",
+  "abstract": "Voluntary childlessness is a relatively novel yet growing phenomenon. This idiographic study explored three women's experiential journeys toward voluntary childlessness. Semi-structured interviews were carried out and analysed using Interpretative Phenomenological Analysis. Themes identified were: Owning the choice to be childless, social expectations, and models of mothering. Despite defining ‘voluntary childlessness’ as an unequivocal decision, the women's experiential accounts revealed an intrinsic fluidity in their journeys toward childlessness. Factors including beliefs in equality, independence and career aspirations competed with constructs of mothering/motherhood, partnership and choice to create a complex tapestry of contributory factors in these women's childlessness. The findings question the notion of choice and particularly women's ownership of that choice. The journeys toward childlessness these women shared reveal a synthesis of agentic decision-making, personal histories and challenging lifestyle choices bound up within an existential need to be a woman. More research is needed to determine the place of voluntary childlessness within society. Copyright © 2010 John Wiley & Sons, Ltd",
+  "llama_json": {
+    "motivations": [
+      "There is a growing trend of voluntary childlessness among women, yet the underlying factors and experiences leading to this choice are not well understood.",
+      "The concept of choice in voluntary childlessness is complex and warrants exploration, particularly in relation to women's ownership of that choice."
+    ],
+    "objectives": [
+      "Explore the experiential journeys of women toward voluntary childlessness using an idiographic approach.",
+      "Identify the key themes and factors contributing to women's decisions to remain childless."
+    ],
+    "methods": [
+      "Conduct semi-structured interviews with women who have chosen voluntary childlessness.",
+      "Analyse the interview data using Interpretative Phenomenological Analysis to identify emergent themes."
+    ],
+    "results": [
+      "The women's experiential accounts reveal a complex interplay of factors, including social expectations, models of mothering, and personal aspirations, influencing their decisions to remain childless.",
+      "The findings challenge the notion of choice in voluntary childlessness, highlighting the tension between agentic decision-making and societal constructs."
+    ],
+    "research_subject": "Women's experiences and decision-making processes leading to voluntary childlessness"
+  },
+  "openai_json": {
+    "motivations": [
+      "Voluntary childlessness is a growing phenomenon that is not well understood.",
+      "There is a need to explore the experiential journey of women towards voluntary childlessness and the factors influencing this decision."
+    ],
+    "objectives": [
+      "Explore the experiential journeys of three women towards voluntary childlessness.",
+      "Identify the themes and factors that contribute to the decision of voluntary childlessness."
+    ],
+    "methods": [
+      "Conduct semi-structured interviews with three women who have chosen to be childless.",
+      "Analyze the interview data using Interpretative Phenomenological Analysis."
+    ],
+    "results": [
+      "Identified themes related to voluntary childlessness, including owning the choice to be childless, social expectations, and models of mothering.",
+      "Revealed a complex interplay of factors, including beliefs in equality, independence, career aspirations, and constructs of motherhood, influencing the decision towards childlessness."
+    ],
+    "research_subject": "Experiential journey towards voluntary childlessness in women"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Voluntary childlessness is an emerging phenomenon that requires deeper understanding of women's experiences and decision-making processes.",
+      "There is limited research exploring the complex factors and personal journeys that lead women to choose childlessness."
+    ],
+    "objectives": [
+      "Explore women's experiential journeys toward voluntary childlessness and understand the factors influencing their decisions.",
+      "Examine the interplay between personal choice, social expectations, and constructs of motherhood in women's childlessness decisions."
+    ],
+    "methods": [
+      "Conducted semi-structured interviews with women who chose voluntary childlessness.",
+      "Applied Interpretative Phenomenological Analysis to analyze the interview data and identify key themes."
+    ],
+    "results": [
+      "Women's journeys toward childlessness revealed intrinsic fluidity and complexity, challenging the notion of it being an unequivocal decision.",
+      "Identified competing factors including beliefs in equality, independence, career aspirations, and constructs of motherhood that influence childlessness decisions.",
+      "The findings question the concept of choice and women's ownership of that choice in the context of voluntary childlessness."
+    ],
+    "research_subject": "Women's experiential journeys and decision-making processes toward voluntary childlessness"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a growing trend of voluntary childlessness among women, yet the underlying factors and experiences leading to this choice are not well understood.\",\n    \"The concept of choice in voluntary childlessness is complex and warrants exploration, particularly in relation to women's ownership of that choice.\"\n  ],\n  \"objectives\": [\n    \"Explore the experiential journeys of women toward voluntary childlessness using an idiographic approach.\",\n    \"Identify the key themes and factors contributing to women's decisions to remain childless.\"\n  ],\n  \"methods\": [\n    \"Conduct semi-structured interviews with women who have chosen voluntary childlessness.\",\n    \"Analyse the interview data using Interpretative Phenomenological Analysis to identify emergent themes.\"\n  ],\n  \"results\": [\n    \"The women's experiential accounts reveal a complex interplay of factors, including social expectations, models of mothering, and personal aspirations, influencing their decisions to remain childless.\",\n    \"The findings challenge the notion of choice in voluntary childlessness, highlighting the tension between agentic decision-making and societal constructs.\"\n  ],\n  \"research_subject\": \"Women's experiences and decision-making processes leading to voluntary childlessness\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Voluntary childlessness is a growing phenomenon that is not well understood.\",\n    \"There is a need to explore the experiential journey of women towards voluntary childlessness and the factors influencing this decision.\"\n  ],\n  \"objectives\": [\n    \"Explore the experiential journeys of three women towards voluntary childlessness.\",\n    \"Identify the themes and factors that contribute to the decision of voluntary childlessness.\"\n  ],\n  \"methods\": [\n    \"Conduct semi-structured interviews with three women who have chosen to be childless.\",\n    \"Analyze the interview data using Interpretative Phenomenological Analysis.\"\n  ],\n  \"results\": [\n    \"Identified themes related to voluntary childlessness, including owning the choice to be childless, social expectations, and models of mothering.\",\n    \"Revealed a complex interplay of factors, including beliefs in equality, independence, career aspirations, and constructs of motherhood, influencing the decision towards childlessness.\"\n  ],\n  \"research_subject\": \"Experiential journey towards voluntary childlessness in women\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Voluntary childlessness is an emerging phenomenon that requires deeper understanding of women's experiences and decision-making processes.\",\n    \"There is limited research exploring the complex factors and personal journeys that lead women to choose childlessness.\"\n  ],\n  \"objectives\": [\n    \"Explore women's experiential journeys toward voluntary childlessness and understand the factors influencing their decisions.\",\n    \"Examine the interplay between personal choice, social expectations, and constructs of motherhood in women's childlessness decisions.\"\n  ],\n  \"methods\": [\n    \"Conducted semi-structured interviews with women who chose voluntary childlessness.\",\n    \"Applied Interpretative Phenomenological Analysis to analyze the interview data and identify key themes.\"\n  ],\n  \"results\": [\n    \"Women's journeys toward childlessness revealed intrinsic fluidity and complexity, challenging the notion of it being an unequivocal decision.\",\n    \"Identified competing factors including beliefs in equality, independence, career aspirations, and constructs of motherhood that influence childlessness decisions.\",\n    \"The findings question the concept of choice and women's ownership of that choice in the context of voluntary childlessness.\"\n  ],\n  \"research_subject\": \"Women's experiential journeys and decision-making processes toward voluntary childlessness\"\n}\n```"
+}

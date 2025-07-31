@@ -1,0 +1,52 @@
+{
+  "index": 219,
+  "title": "Oseltamivir-Resistant Pandemic A/H1N1 Virus Is as Virulent as Its Wild-Type Counterpart in Mice and Ferrets",
+  "abstract": "The neuraminidase inhibitor oseltamivir is currently used for treatment of patients infected with the pandemic A/H1N1 (pH1N1) influenza virus, although drug-resistant mutants can emerge rapidly and possibly be transmitted. We describe the characteristics of a pair of oseltamivir-resistant and oseltamivir-susceptible pH1N1 clinical isolates that differed by a single change (H274Y) in the neuraminidase protein. Viral fitness of pH1N1 isolates was assessed in vitro by determining replication kinetics in MDCK alpha2,6 cells and in vivo by performing experimental infections of BALB/c mice and ferrets. Despite slightly reduced propagation of the mutant isolate in vitro during the first 24 h, the wild-type (WT) and mutant resistant viruses induced similar maximum weight loss in mice and ferrets with an identical pyrexic response in ferrets (AUC of 233.9 and 233.2, P = 0.5156). Similarly, comparable titers were obtained for the WT and the mutant strains on days 1, 3, 6 and 9 post-infection in mouse lungs and on days 1-7 in ferret nasal washes. A more important perivascular (day 6) and pleural (days 6 and 12) inflammation was noted in the lungs of mice infected with the H274Y mutant, which correlated with increased pulmonary levels of IL-6 and KC. Such increased levels of IL-6 were also observed in lymph nodes of ferrets infected with the mutant strain. Furthermore, the H274Y mutant strain was transmitted to ferrets. In conclusion, viral fitness of the H274Y pH1N1 isolate is not substantially altered and has the potential to induce severe disease and to disseminate.",
+  "llama_json": {
+    "motivations": [
+      "The emergence of oseltamivir-resistant pandemic A/H1N1 virus poses a concern for public health, as it may impact the effectiveness of treatment and potentially lead to severe disease.",
+      "Understanding the characteristics and transmissibility of oseltamivir-resistant pH1N1 virus is crucial for developing effective strategies to combat its spread."
+    ],
+    "objectives": [
+      "Assess the viral fitness of oseltamivir-resistant pH1N1 virus in vitro and in vivo.",
+      "Compare the virulence and transmissibility of oseltamivir-resistant pH1N1 virus with its wild-type counterpart in mice and ferrets."
+    ],
+    "methods": [
+      "Perform experimental infections of BALB/c mice and ferrets with oseltamivir-resistant and oseltamivir-susceptible pH1N1 clinical isolates.",
+      "Assess viral replication kinetics in MDCK alpha2,6 cells and measure viral titers in mouse lungs and ferret nasal washes.",
+      "Evaluate the inflammatory response and cytokine levels in infected mice and ferrets."
+    ],
+    "results": [
+      "Oseltamivir-resistant pH1N1 virus exhibits similar virulence and transmissibility to its wild-type counterpart in mice and ferrets.",
+      "The H274Y mutant strain induces increased pulmonary inflammation and elevated cytokine levels in mice and ferrets.",
+      "The oseltamivir-resistant pH1N1 virus has the potential to induce severe disease and disseminate."
+    ],
+    "research_subject": "Characterization of oseltamivir-resistant pandemic A/H1N1 virus in mice and ferrets"
+  },
+  "openai_json": {
+    "motivations": [
+      "Oseltamivir is used to treat patients infected with the pandemic A/H1N1 influenza virus, but drug-resistant mutants can emerge rapidly and possibly be transmitted.",
+      "There is a need to understand the characteristics and virulence of oseltamivir-resistant pandemic A/H1N1 virus compared to its wild-type counterpart."
+    ],
+    "objectives": [
+      "Describe the characteristics of a pair of oseltamivir-resistant and oseltamivir-susceptible pH1N1 clinical isolates that differed by a single change in the neuraminidase protein.",
+      "Assess the viral fitness of pH1N1 isolates in vitro and in vivo.",
+      "Investigate the potential of the H274Y pH1N1 isolate to induce severe disease and disseminate."
+    ],
+    "methods": [
+      "Determine replication kinetics of the pH1N1 isolates in MDCK alpha2,6 cells in vitro.",
+      "Perform experimental infections of BALB/c mice and ferrets to assess the viral fitness in vivo.",
+      "Monitor the inflammatory response and IL-6 levels in the lungs and lymph nodes of infected mice and ferrets."
+    ],
+    "results": [
+      "The oseltamivir-resistant pH1N1 isolate showed slightly reduced propagation in vitro during the first 24 hours, but induced similar maximum weight loss in mice and ferrets as the wild-type virus.",
+      "Increased perivascular and pleural inflammation was observed in the lungs of mice infected with the H274Y mutant, correlating with increased pulmonary levels of IL-6 and KC.",
+      "The H274Y mutant strain was transmitted to ferrets, indicating its potential to induce severe disease and disseminate."
+    ],
+    "research_subject": "Virulence and characteristics of oseltamivir-resistant pandemic A/H1N1 virus"
+  },
+  "anthropic_json": null,
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The emergence of oseltamivir-resistant pandemic A/H1N1 virus poses a concern for public health, as it may impact the effectiveness of treatment and potentially lead to severe disease.\",\n    \"Understanding the characteristics and transmissibility of oseltamivir-resistant pH1N1 virus is crucial for developing effective strategies to combat its spread.\"\n  ],\n  \"objectives\": [\n    \"Assess the viral fitness of oseltamivir-resistant pH1N1 virus in vitro and in vivo.\",\n    \"Compare the virulence and transmissibility of oseltamivir-resistant pH1N1 virus with its wild-type counterpart in mice and ferrets.\"\n  ],\n  \"methods\": [\n    \"Perform experimental infections of BALB/c mice and ferrets with oseltamivir-resistant and oseltamivir-susceptible pH1N1 clinical isolates.\",\n    \"Assess viral replication kinetics in MDCK alpha2,6 cells and measure viral titers in mouse lungs and ferret nasal washes.\",\n    \"Evaluate the inflammatory response and cytokine levels in infected mice and ferrets.\"\n  ],\n  \"results\": [\n    \"Oseltamivir-resistant pH1N1 virus exhibits similar virulence and transmissibility to its wild-type counterpart in mice and ferrets.\",\n    \"The H274Y mutant strain induces increased pulmonary inflammation and elevated cytokine levels in mice and ferrets.\",\n    \"The oseltamivir-resistant pH1N1 virus has the potential to induce severe disease and disseminate.\"\n  ],\n  \"research_subject\": \"Characterization of oseltamivir-resistant pandemic A/H1N1 virus in mice and ferrets\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Oseltamivir is used to treat patients infected with the pandemic A/H1N1 influenza virus, but drug-resistant mutants can emerge rapidly and possibly be transmitted.\",\n    \"There is a need to understand the characteristics and virulence of oseltamivir-resistant pandemic A/H1N1 virus compared to its wild-type counterpart.\"\n  ],\n  \"objectives\": [\n    \"Describe the characteristics of a pair of oseltamivir-resistant and oseltamivir-susceptible pH1N1 clinical isolates that differed by a single change in the neuraminidase protein.\",\n    \"Assess the viral fitness of pH1N1 isolates in vitro and in vivo.\",\n    \"Investigate the potential of the H274Y pH1N1 isolate to induce severe disease and disseminate.\"\n  ],\n  \"methods\": [\n    \"Determine replication kinetics of the pH1N1 isolates in MDCK alpha2,6 cells in vitro.\",\n    \"Perform experimental infections of BALB/c mice and ferrets to assess the viral fitness in vivo.\",\n    \"Monitor the inflammatory response and IL-6 levels in the lungs and lymph nodes of infected mice and ferrets.\"\n  ],\n  \"results\": [\n    \"The oseltamivir-resistant pH1N1 isolate showed slightly reduced propagation in vitro during the first 24 hours, but induced similar maximum weight loss in mice and ferrets as the wild-type virus.\",\n    \"Increased perivascular and pleural inflammation was observed in the lungs of mice infected with the H274Y mutant, correlating with increased pulmonary levels of IL-6 and KC.\",\n    \"The H274Y mutant strain was transmitted to ferrets, indicating its potential to induce severe disease and disseminate.\"\n  ],\n  \"research_subject\": \"Virulence and characteristics of oseltamivir-resistant pandemic A/H1N1 virus\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Oseltamivir-resistant mutants of pandemic H1N1 influenza virus can emerge rapidly during treatment and potentially be transmitted between hosts.\",\n    \"Understanding the virulence and transmission potential of oseltamivir-resistant H1N1 strains is crucial for public health management and treatment strategies.\"\n  ],\n  \"objectives\": [\n    \"Characterize and compare the viral fitness of oseltamivir-resistant and oseltamivir-susceptible pandemic H1N1 influenza virus isolates that differ by a single H274Y mutation.\",\n    \"Assess the pathogenicity, replication kinetics, and transmission potential of"
+}

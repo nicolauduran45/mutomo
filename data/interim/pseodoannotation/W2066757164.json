@@ -1,0 +1,68 @@
+{
+  "index": 241,
+  "title": "Quantum-Chemical Study of the Effect of Triethylaluminum on the Chain-End Structure, Reactivity, and Microtacticity of Poly(N,N-dimethylacrylamide) with Lithium Counterion in Nonpolar Solvents",
+  "abstract": "Reactions of chain growth in the anionic polymerization of N,N-dimethylacrylamide (DMAAm) with lithium counterion in the presence of triethylaluminum (Et3Al) were studied using quantum-chemical DFT methods. The active sites were simulated by chain fragments consisting of two DMAAm units, the lithium counterion being coordinated to carbonyl oxygen atoms of both ultimate and penultimate units. For all local minima and transition states zero-point vibration energies and free energies, ΔG, at 200 K were calculated. It was shown that in the absence of Et3Al iso-addition of the monomer to the model chain end is the most favorable, while in the presence of two Et3Al molecules syndio- and iso-additions of DMAAm are equally probable. In the presence of one Et3Al molecule, an unambiguous prediction of the prevailing stereomode of DMAAm addition is impossible because different stereomodes are preferred at the BHLYP/SVP (syndio-addition via 1LA-DAS mechanism) and BHLYP/aug-cc-pVTZ//BHLYP/SVP (iso-addition via 1LA-AM ...",
+  "llama_json": {
+    "motivations": [
+      "Understanding the effect of triethylaluminum on the chain-end structure, reactivity, and microtacticity of poly(N,N-dimethylacrylamide) with lithium counterion in nonpolar solvents is crucial for optimizing anionic polymerization reactions.",
+      "There is a need to elucidate the role of triethylaluminum in influencing the stereomode of monomer addition during the polymerization process."
+    ],
+    "objectives": [
+      "Investigate the impact of triethylaluminum on the reactions of chain growth in the anionic polymerization of N,N-dimethylacrylamide with lithium counterion using quantum-chemical DFT methods.",
+      "Determine the most favorable stereomode of monomer addition in the presence and absence of triethylaluminum."
+    ],
+    "methods": [
+      "Employ quantum-chemical DFT methods to simulate the active sites of the polymerization reaction using chain fragments consisting of two N,N-dimethylacrylamide units.",
+      "Calculate zero-point vibration energies and free energies for local minima and transition states at 200 K to predict the prevailing stereomode of monomer addition."
+    ],
+    "results": [
+      "Triethylaluminum influences the stereomode of monomer addition, with iso-addition being the most favorable in its absence and syndio- and iso-additions being equally probable in the presence of two triethylaluminum molecules.",
+      "The presence of one triethylaluminum molecule leads to ambiguous predictions of the prevailing stereomode due to differences in preferred mechanisms at varying levels of theory."
+    ],
+    "research_subject": "Quantum-chemical study of triethylaluminum's effect on anionic polymerization of poly(N,N-dimethylacrylamide) with lithium counterion"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the effect of triethylaluminum on the chain growth reactions in the anionic polymerization of N,N-dimethylacrylamide with lithium counterion is crucial for polymer chemistry.",
+      "There is a need to study the impact of triethylaluminum on the chain-end structure, reactivity, and microtacticity of poly(N,N-dimethylacrylamide) in nonpolar solvents."
+    ],
+    "objectives": [
+      "Investigate the reactions of chain growth in the anionic polymerization of N,N-dimethylacrylamide with lithium counterion in the presence of triethylaluminum using quantum-chemical DFT methods.",
+      "Analyze the effect of triethylaluminum on the stereomode of DMAAm addition."
+    ],
+    "methods": [
+      "Use quantum-chemical DFT methods to simulate the active sites by chain fragments consisting of two DMAAm units.",
+      "Calculate zero-point vibration energies and free energies, ΔG, at 200 K for all local minima and transition states."
+    ],
+    "results": [
+      "In the absence of Et3Al, iso-addition of the monomer to the model chain end is the most favorable.",
+      "In the presence of two Et3Al molecules, syndio- and iso-additions of DMAAm are equally probable.",
+      "In the presence of one Et3Al molecule, an unambiguous prediction of the prevailing stereomode of DMAAm addition is impossible."
+    ],
+    "research_subject": "Quantum-chemical study of the effect of triethylaluminum on the anionic polymerization of N,N-dimethylacrylamide"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the effect of triethylaluminum on the stereochemistry and reactivity of anionic polymerization of N,N-dimethylacrylamide is crucial for controlling polymer microstructure.",
+      "The mechanism of chain growth in anionic polymerization with lithium counterion in nonpolar solvents requires detailed investigation at the molecular level."
+    ],
+    "objectives": [
+      "Investigate the influence of triethylaluminum on the chain-end structure and stereoselectivity during anionic polymerization of N,N-dimethylacrylamide.",
+      "Determine the preferred stereomode of monomer addition under different conditions using quantum-chemical calculations."
+    ],
+    "methods": [
+      "Employ density functional theory (DFT) calculations to model chain growth reactions and active sites.",
+      "Calculate zero-point vibration energies and free energies for all local minima and transition states.",
+      "Compare different computational approaches (BHLYP/SVP and BHLYP/aug-cc-pVTZ//BHLYP/SVP) to evaluate stereomodes of addition."
+    ],
+    "results": [
+      "In the absence of triethylaluminum, iso-addition is the most favorable pathway, while syndio- and iso-additions become equally probable with two triethylaluminum molecules.",
+      "The presence of one triethylaluminum molecule leads to ambiguous predictions, with different computational methods favoring different stereomodes.",
+      "The study reveals the complex role of triethylaluminum in modulating the stereochemistry of anionic polymerization."
+    ],
+    "research_subject": "Quantum-chemical investigation of triethylaluminum effects on anionic polymerization of N,N-dimethylacrylamide"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the effect of triethylaluminum on the chain-end structure, reactivity, and microtacticity of poly(N,N-dimethylacrylamide) with lithium counterion in nonpolar solvents is crucial for optimizing anionic polymerization reactions.\",\n    \"There is a need to elucidate the role of triethylaluminum in influencing the stereomode of monomer addition during the polymerization process.\"\n  ],\n  \"objectives\": [\n    \"Investigate the impact of triethylaluminum on the reactions of chain growth in the anionic polymerization of N,N-dimethylacrylamide with lithium counterion using quantum-chemical DFT methods.\",\n    \"Determine the most favorable stereomode of monomer addition in the presence and absence of triethylaluminum.\"\n  ],\n  \"methods\": [\n    \"Employ quantum-chemical DFT methods to simulate the active sites of the polymerization reaction using chain fragments consisting of two N,N-dimethylacrylamide units.\",\n    \"Calculate zero-point vibration energies and free energies for local minima and transition states at 200 K to predict the prevailing stereomode of monomer addition.\"\n  ],\n  \"results\": [\n    \"Triethylaluminum influences the stereomode of monomer addition, with iso-addition being the most favorable in its absence and syndio- and iso-additions being equally probable in the presence of two triethylaluminum molecules.\",\n    \"The presence of one triethylaluminum molecule leads to ambiguous predictions of the prevailing stereomode due to differences in preferred mechanisms at varying levels of theory.\"\n  ],\n  \"research_subject\": \"Quantum-chemical study of triethylaluminum's effect on anionic polymerization of poly(N,N-dimethylacrylamide) with lithium counterion\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the effect of triethylaluminum on the chain growth reactions in the anionic polymerization of N,N-dimethylacrylamide with lithium counterion is crucial for polymer chemistry.\",\n    \"There is a need to study the impact of triethylaluminum on the chain-end structure, reactivity, and microtacticity of poly(N,N-dimethylacrylamide) in nonpolar solvents.\"\n  ],\n  \"objectives\": [\n    \"Investigate the reactions of chain growth in the anionic polymerization of N,N-dimethylacrylamide with lithium counterion in the presence of triethylaluminum using quantum-chemical DFT methods.\",\n    \"Analyze the effect of triethylaluminum on the stereomode of DMAAm addition.\"\n  ],\n  \"methods\": [\n    \"Use quantum-chemical DFT methods to simulate the active sites by chain fragments consisting of two DMAAm units.\",\n    \"Calculate zero-point vibration energies and free energies, ΔG, at 200 K for all local minima and transition states.\"\n  ],\n  \"results\": [\n    \"In the absence of Et3Al, iso-addition of the monomer to the model chain end is the most favorable.\",\n    \"In the presence of two Et3Al molecules, syndio- and iso-additions of DMAAm are equally probable.\",\n    \"In the presence of one Et3Al molecule, an unambiguous prediction of the prevailing stereomode of DMAAm addition is impossible.\"\n  ],\n  \"research_subject\": \"Quantum-chemical study of the effect of triethylaluminum on the anionic polymerization of N,N-dimethylacrylamide\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the effect of triethylaluminum on the stereochemistry and reactivity of anionic polymerization of N,N-dimethylacrylamide is crucial for controlling polymer microstructure.\",\n    \"The mechanism of chain growth in anionic polymerization with lithium counterion in nonpolar solvents requires detailed investigation at the molecular level.\"\n  ],\n  \"objectives\": [\n    \"Investigate the influence of triethylaluminum on the chain-end structure and stereoselectivity during anionic polymerization of N,N-dimethylacrylamide.\",\n    \"Determine the preferred stereomode of monomer addition under different conditions using quantum-chemical calculations.\"\n  ],\n  \"methods\": [\n    \"Employ density functional theory (DFT) calculations to model chain growth reactions and active sites.\",\n    \"Calculate zero-point vibration energies and free energies for all local minima and transition states.\",\n    \"Compare different computational approaches (BHLYP/SVP and BHLYP/aug-cc-pVTZ//BHLYP/SVP) to evaluate stereomodes of addition.\"\n  ],\n  \"results\": [\n    \"In the absence of triethylaluminum, iso-addition is the most favorable pathway, while syndio- and iso-additions become equally probable with two triethylaluminum molecules.\",\n    \"The presence of one triethylaluminum molecule leads to ambiguous predictions, with different computational methods favoring different stereomodes.\",\n    \"The study reveals the complex role of triethylaluminum in modulating the stereochemistry of anionic polymerization.\"\n  ],\n  \"research_subject\": \"Quantum-chemical investigation of triethylaluminum effects on anionic polymerization of N,N-dimethylacrylamide\"\n}\n```"
+}

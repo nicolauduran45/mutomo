@@ -1,0 +1,75 @@
+{
+  "index": 462,
+  "title": "Synthesis of functional multi-component supramolecular systems and materials",
+  "abstract": "This ERC proposal targets novel synthetic strategies to arrive at functional multi-component systems and materials. They possess architectures of such high complexity that it is hard to imagine access to these systems by self-assembly or self-organization only. We will explore tools required to introduce multi-step non-covalent synthesis. We have taken inspiration from Nature, but more importantly we propose to mimic the impressive progress in the field of covalent organic and polymer synthesis. Three connected approaches are defined:  The first section focusses on supramolecular polymers and how their polymerization can be compared to that of traditional covalent polymerization; unprecedented similarities are foreseen. Unexplored areas like controlled co-polymerization and achieving “tacticity” in asymmetrically modified building blocks are proposed, with special attention to kinetics and structure characterization.   The second section is aiming at synthesizing a multi-component hydrogel leading to a system that is able to recruit receptors in a dynamic and reversible fashion. This work is proposed to culminate in new insights for preparing an artificial extracellular matrix for stem cell to organoid growth. The latter is proposed using a double supramolecular network.   The final section takes inspiration from the recent finding that chirality can control spin-selective chemistry. Novel chiral structures with control over pitch and diameter are proposed by two-step synthetic processes. In a three-step non-covalent synthetic procedure, a space-controlled arrangement of chiral quartets on surfaces is proposed using discrete block co-oligomers.  Since molecules only have structures and properties, their functions can only be expressed when they are part of complex molecular systems. Hence, if chemists want to synthesize functions in lifelike materials, they have to introduce new approaches and technologies, a game changer is proposed in this ERC proposal.",
+  "llama_json": {
+    "motivations": [
+      "Current synthetic strategies are limited in creating functional multi-component systems and materials with high complexity.",
+      "There is a need to develop novel approaches to introduce multi-step non-covalent synthesis to mimic the complexity of natural systems."
+    ],
+    "objectives": [
+      "Explore and develop novel synthetic strategies for creating functional multi-component supramolecular systems and materials.",
+      "Mimic the progress in covalent organic and polymer synthesis to introduce multi-step non-covalent synthesis.",
+      "Synthesize complex molecular systems that can express specific functions."
+    ],
+    "methods": [
+      "Investigate supramolecular polymers and their polymerization processes to identify unprecedented similarities with traditional covalent polymerization.",
+      "Develop novel approaches for synthesizing multi-component hydrogels and double supramolecular networks.",
+      "Utilize two-step and three-step non-covalent synthetic procedures to create chiral structures with control over pitch and diameter."
+    ],
+    "results": [
+      "Gain new insights into preparing artificial extracellular matrices for stem cell to organoid growth.",
+      "Develop novel chiral structures with control over pitch and diameter.",
+      "Create complex molecular systems that can express specific functions, leading to the synthesis of lifelike materials."
+    ],
+    "research_subject": "Synthesis of functional multi-component supramolecular systems and materials using novel non-covalent synthetic strategies"
+  },
+  "openai_json": {
+    "motivations": [
+      "The synthesis of functional multi-component systems and materials with high complexity is challenging and cannot be achieved by self-assembly or self-organization alone.",
+      "There is a need for novel synthetic strategies that can mimic the progress in the field of covalent organic and polymer synthesis.",
+      "The development of lifelike materials with synthesized functions requires the introduction of new approaches and technologies."
+    ],
+    "objectives": [
+      "Develop tools for multi-step non-covalent synthesis to create complex functional multi-component systems and materials.",
+      "Explore controlled co-polymerization and tacticity in asymmetrically modified building blocks in the context of supramolecular polymers.",
+      "Synthesize a multi-component hydrogel capable of recruiting receptors dynamically and reversibly, with potential applications in creating an artificial extracellular matrix for stem cell to organoid growth."
+    ],
+    "methods": [
+      "Adopt a multi-step non-covalent synthesis approach inspired by Nature and the progress in covalent organic and polymer synthesis.",
+      "Create supramolecular polymers, exploring controlled co-polymerization and tacticity, and focusing on kinetics and structure characterization.",
+      "Synthesize a multi-component hydrogel and a double supramolecular network for potential use in stem cell to organoid growth."
+    ],
+    "results": [
+      "Achieve synthesis of functional multi-component systems and materials of high complexity.",
+      "Gain new insights into the synthesis of supramolecular polymers and multi-component hydrogels.",
+      "Potentially develop an artificial extracellular matrix for stem cell to organoid growth."
+    ],
+    "research_subject": "Synthesis of functional multi-component supramolecular systems and materials"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current self-assembly and self-organization methods are insufficient to create functional multi-component systems with the architectural complexity required for advanced applications.",
+      "There is a need to develop synthetic strategies that can produce lifelike materials with emergent functions, moving beyond traditional molecular synthesis approaches."
+    ],
+    "objectives": [
+      "Develop novel synthetic strategies for creating functional multi-component supramolecular systems and materials through multi-step non-covalent synthesis.",
+      "Explore and establish unprecedented similarities between supramolecular polymerization and traditional covalent polymerization processes.",
+      "Create advanced functional materials including artificial extracellular matrices and chiral structures with controlled spin-selective chemistry properties."
+    ],
+    "methods": [
+      "Implement controlled co-polymerization techniques and achieve tacticity in asymmetrically modified building blocks for supramolecular polymers.",
+      "Synthesize multi-component hydrogels using double supramolecular networks that can dynamically recruit receptors.",
+      "Develop two- and three-step non-covalent synthetic procedures to create chiral structures with controlled pitch and diameter on surfaces."
+    ],
+    "results": [
+      "Enable the synthesis of complex molecular systems with emergent functions that mimic lifelike materials.",
+      "Provide new insights for creating artificial extracellular matrices suitable for stem cell to organoid growth.",
+      "Achieve space-controlled arrangements of chiral structures that demonstrate spin-selective chemistry capabilities."
+    ],
+    "research_subject": "Multi-step non-covalent synthesis of functional supramolecular systems and materials"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current synthetic strategies are limited in creating functional multi-component systems and materials with high complexity.\",\n    \"There is a need to develop novel approaches to introduce multi-step non-covalent synthesis to mimic the complexity of natural systems.\"\n  ],\n  \"objectives\": [\n    \"Explore and develop novel synthetic strategies for creating functional multi-component supramolecular systems and materials.\",\n    \"Mimic the progress in covalent organic and polymer synthesis to introduce multi-step non-covalent synthesis.\",\n    \"Synthesize complex molecular systems that can express specific functions.\"\n  ],\n  \"methods\": [\n    \"Investigate supramolecular polymers and their polymerization processes to identify unprecedented similarities with traditional covalent polymerization.\",\n    \"Develop novel approaches for synthesizing multi-component hydrogels and double supramolecular networks.\",\n    \"Utilize two-step and three-step non-covalent synthetic procedures to create chiral structures with control over pitch and diameter.\"\n  ],\n  \"results\": [\n    \"Gain new insights into preparing artificial extracellular matrices for stem cell to organoid growth.\",\n    \"Develop novel chiral structures with control over pitch and diameter.\",\n    \"Create complex molecular systems that can express specific functions, leading to the synthesis of lifelike materials.\"\n  ],\n  \"research_subject\": \"Synthesis of functional multi-component supramolecular systems and materials using novel non-covalent synthetic strategies\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The synthesis of functional multi-component systems and materials with high complexity is challenging and cannot be achieved by self-assembly or self-organization alone.\",\n    \"There is a need for novel synthetic strategies that can mimic the progress in the field of covalent organic and polymer synthesis.\",\n    \"The development of lifelike materials with synthesized functions requires the introduction of new approaches and technologies.\"\n  ],\n  \"objectives\": [\n    \"Develop tools for multi-step non-covalent synthesis to create complex functional multi-component systems and materials.\",\n    \"Explore controlled co-polymerization and tacticity in asymmetrically modified building blocks in the context of supramolecular polymers.\",\n    \"Synthesize a multi-component hydrogel capable of recruiting receptors dynamically and reversibly, with potential applications in creating an artificial extracellular matrix for stem cell to organoid growth.\"\n  ],\n  \"methods\": [\n    \"Adopt a multi-step non-covalent synthesis approach inspired by Nature and the progress in covalent organic and polymer synthesis.\",\n    \"Create supramolecular polymers, exploring controlled co-polymerization and tacticity, and focusing on kinetics and structure characterization.\",\n    \"Synthesize a multi-component hydrogel and a double supramolecular network for potential use in stem cell to organoid growth.\"\n  ],\n  \"results\": [\n    \"Achieve synthesis of functional multi-component systems and materials of high complexity.\",\n    \"Gain new insights into the synthesis of supramolecular polymers and multi-component hydrogels.\",\n    \"Potentially develop an artificial extracellular matrix for stem cell to organoid growth.\"\n  ],\n  \"research_subject\": \"Synthesis of functional multi-component supramolecular systems and materials\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current self-assembly and self-organization methods are insufficient to create functional multi-component systems with the architectural complexity required for advanced applications.\",\n    \"There is a need to develop synthetic strategies that can produce lifelike materials with emergent functions, moving beyond traditional molecular synthesis approaches.\"\n  ],\n  \"objectives\": [\n    \"Develop novel synthetic strategies for creating functional multi-component supramolecular systems and materials through multi-step non-covalent synthesis.\",\n    \"Explore and establish unprecedented similarities between supramolecular polymerization and traditional covalent polymerization processes.\",\n    \"Create advanced functional materials including artificial extracellular matrices and chiral structures with controlled spin-selective chemistry properties.\"\n  ],\n  \"methods\": [\n    \"Implement controlled co-polymerization techniques and achieve tacticity in asymmetrically modified building blocks for supramolecular polymers.\",\n    \"Synthesize multi-component hydrogels using double supramolecular networks that can dynamically recruit receptors.\",\n    \"Develop two- and three-step non-covalent synthetic procedures to create chiral structures with controlled pitch and diameter on surfaces.\"\n  ],\n  \"results\": [\n    \"Enable the synthesis of complex molecular systems with emergent functions that mimic lifelike materials.\",\n    \"Provide new insights for creating artificial extracellular matrices suitable for stem cell to organoid growth.\",\n    \"Achieve space-controlled arrangements of chiral structures that demonstrate spin-selective chemistry capabilities.\"\n  ],\n  \"research_subject\": \"Multi-step non-covalent synthesis of functional supramolecular systems and materials\"\n}\n```"
+}

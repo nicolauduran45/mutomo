@@ -1,0 +1,67 @@
+{
+  "index": 148,
+  "title": "A thz communication evaluation kit",
+  "abstract": "The FASTERA evaluation kit is a THz receiver designed for next-generation 6G technology covering indoor and short-range environments. The FASTERA kit is intended to answer the increasing data-rate demand of current consumer and industrial markets. The THz evaluation kit goes beyond the capabilities of current 5G technology, enabling the exploitation of the THz frequency range for data communication applications. The FASTERA kit is based on a patented antenna-coupled graphene-enabled detector able to operate at room temperature, with high sensitivity (~80 pW/Hz1/2), fast response (>100 GHz), and broadband (from 100 GHz up to 5 THz) tuneable spectral range defined by the antenna itself. The FASTERA evaluation kit will be defined in collaboration with Ericsson and will be tested in a 6G communications testbed.",
+  "llama_json": {
+    "motivations": [
+      "Current 5G technology cannot meet the increasing data-rate demands of consumer and industrial markets.",
+      "There is a need for next-generation communication technologies that can exploit the THz frequency range for high-speed data communication."
+    ],
+    "objectives": [
+      "Develop a THz receiver evaluation kit (FASTERA) for next-generation 6G technology, targeting indoor and short-range environments.",
+      "Enable the exploitation of the THz frequency range for data communication applications beyond current 5G capabilities."
+    ],
+    "methods": [
+      "Design the FASTERA kit based on a patented antenna-coupled graphene-enabled detector operating at room temperature.",
+      "Collaborate with Ericsson to define the evaluation kit and test it in a 6G communications testbed."
+    ],
+    "results": [
+      "Provide a high-sensitivity, fast-response, and broadband THz receiver for 6G technology applications.",
+      "Enable the evaluation and development of next-generation communication technologies exploiting the THz frequency range."
+    ],
+    "research_subject": "Development of a THz communication evaluation kit for next-generation 6G technology"
+  },
+  "openai_json": {
+    "motivations": [
+      "The increasing data-rate demand of consumer and industrial markets necessitates the development of next-generation communication technologies.",
+      "Current 5G technology is insufficient for exploiting the THz frequency range for data communication applications."
+    ],
+    "objectives": [
+      "Design a THz receiver, the FASTERA evaluation kit, for next-generation 6G technology suitable for indoor and short-range environments.",
+      "Develop a patented antenna-coupled graphene-enabled detector with high sensitivity, fast response, and a broadband tuneable spectral range."
+    ],
+    "methods": [
+      "Use a patented antenna-coupled graphene-enabled detector in the FASTERA kit to enable operation at room temperature and broadband tuneability.",
+      "Collaborate with Ericsson to define the FASTERA evaluation kit and test it in a 6G communications testbed."
+    ],
+    "results": [
+      "The FASTERA evaluation kit will provide a solution for the increasing data-rate demand in consumer and industrial markets.",
+      "The kit will enable the exploitation of the THz frequency range for data communication applications, going beyond the capabilities of current 5G technology."
+    ],
+    "research_subject": "Development of a THz communication evaluation kit for next-generation 6G technology"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current 5G technology cannot meet the increasing data-rate demands of consumer and industrial markets.",
+      "There is a need to exploit the THz frequency range for next-generation 6G communication applications in indoor and short-range environments."
+    ],
+    "objectives": [
+      "Develop a THz receiver evaluation kit that enables data communication in the THz frequency range for 6G technology.",
+      "Demonstrate the capabilities of antenna-coupled graphene-enabled detectors for high-performance THz communication applications."
+    ],
+    "methods": [
+      "Utilize a patented antenna-coupled graphene-enabled detector operating at room temperature with high sensitivity and fast response.",
+      "Design a broadband tuneable system covering frequencies from 100 GHz up to 5 THz.",
+      "Collaborate with Ericsson to define specifications and test the kit in a 6G communications testbed."
+    ],
+    "results": [
+      "Enable exploitation of THz frequency range for next-generation 6G communication applications.",
+      "Provide a high-performance THz receiver with superior sensitivity and broadband capabilities compared to current technology.",
+      "Advance the development of 6G technology for indoor and short-range communication environments."
+    ],
+    "research_subject": "THz communication evaluation kit for 6G technology using graphene-enabled detectors"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current 5G technology cannot meet the increasing data-rate demands of consumer and industrial markets.\",\n    \"There is a need for next-generation communication technologies that can exploit the THz frequency range for high-speed data communication.\"\n  ],\n  \"objectives\": [\n    \"Develop a THz receiver evaluation kit (FASTERA) for next-generation 6G technology, targeting indoor and short-range environments.\",\n    \"Enable the exploitation of the THz frequency range for data communication applications beyond current 5G capabilities.\"\n  ],\n  \"methods\": [\n    \"Design the FASTERA kit based on a patented antenna-coupled graphene-enabled detector operating at room temperature.\",\n    \"Collaborate with Ericsson to define the evaluation kit and test it in a 6G communications testbed.\"\n  ],\n  \"results\": [\n    \"Provide a high-sensitivity, fast-response, and broadband THz receiver for 6G technology applications.\",\n    \"Enable the evaluation and development of next-generation communication technologies exploiting the THz frequency range.\"\n  ],\n  \"research_subject\": \"Development of a THz communication evaluation kit for next-generation 6G technology\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The increasing data-rate demand of consumer and industrial markets necessitates the development of next-generation communication technologies.\",\n    \"Current 5G technology is insufficient for exploiting the THz frequency range for data communication applications.\"\n  ],\n  \"objectives\": [\n    \"Design a THz receiver, the FASTERA evaluation kit, for next-generation 6G technology suitable for indoor and short-range environments.\",\n    \"Develop a patented antenna-coupled graphene-enabled detector with high sensitivity, fast response, and a broadband tuneable spectral range.\"\n  ],\n  \"methods\": [\n    \"Use a patented antenna-coupled graphene-enabled detector in the FASTERA kit to enable operation at room temperature and broadband tuneability.\",\n    \"Collaborate with Ericsson to define the FASTERA evaluation kit and test it in a 6G communications testbed.\"\n  ],\n  \"results\": [\n    \"The FASTERA evaluation kit will provide a solution for the increasing data-rate demand in consumer and industrial markets.\",\n    \"The kit will enable the exploitation of the THz frequency range for data communication applications, going beyond the capabilities of current 5G technology.\"\n  ],\n  \"research_subject\": \"Development of a THz communication evaluation kit for next-generation 6G technology\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current 5G technology cannot meet the increasing data-rate demands of consumer and industrial markets.\",\n    \"There is a need to exploit the THz frequency range for next-generation 6G communication applications in indoor and short-range environments.\"\n  ],\n  \"objectives\": [\n    \"Develop a THz receiver evaluation kit that enables data communication in the THz frequency range for 6G technology.\",\n    \"Demonstrate the capabilities of antenna-coupled graphene-enabled detectors for high-performance THz communication applications.\"\n  ],\n  \"methods\": [\n    \"Utilize a patented antenna-coupled graphene-enabled detector operating at room temperature with high sensitivity and fast response.\",\n    \"Design a broadband tuneable system covering frequencies from 100 GHz up to 5 THz.\",\n    \"Collaborate with Ericsson to define specifications and test the kit in a 6G communications testbed.\"\n  ],\n  \"results\": [\n    \"Enable exploitation of THz frequency range for next-generation 6G communication applications.\",\n    \"Provide a high-performance THz receiver with superior sensitivity and broadband capabilities compared to current technology.\",\n    \"Advance the development of 6G technology for indoor and short-range communication environments.\"\n  ],\n  \"research_subject\": \"THz communication evaluation kit for 6G technology using graphene-enabled detectors\"\n}\n```"
+}

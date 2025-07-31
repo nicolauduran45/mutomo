@@ -1,0 +1,69 @@
+{
+  "index": 452,
+  "title": "Planet Design",
+  "abstract": "The project Planet Design stems from the future and explicit needs of the European Wooden Furnishing sector, which are now recognized at all levels of the production chain. Innovating and differentiating the production offer are today the fundamental leverages for supporting the leadership of the European furnishing production system which, in the light of new changes occurring on the market and legislations environmental issues, must develop an offer which skillfully combines innovation, aesthetics and sustainability. The ability to “devise and manage innovation must become a widespread expertise within company structures, re-designing the NPD processes in a strategic manner. The Planet Design project will offer support to the furnishing production system for achieving this strategic objective, providing an ‘accompaniment’ service that is able to cover those phases of the NPD processes which are managed with greater difficulty by companies internally. Using a systematized approach to innovation does not mean “blocking” companies which quite rightly have distinguished themselves on the domestic and international markets: innovation can never be considered a completely rational and therefore replicable route. However today it is definitely necessary to intervene by integrating those moments of vital “ingenuity” with others of further investigation and rationalization of ideas.",
+  "llama_json": {
+    "motivations": [
+      "The European Wooden Furnishing sector faces challenges in maintaining leadership due to changing market conditions and environmental legislation.",
+      "There is a need for innovation and differentiation in the production offer to support the sector's competitiveness."
+    ],
+    "objectives": [
+      "Support the European furnishing production system in developing an offer that combines innovation, aesthetics, and sustainability.",
+      "Provide a service to help companies manage innovation and redesign their New Product Development (NPD) processes strategically."
+    ],
+    "methods": [
+      "Offer an 'accompaniment' service to cover challenging phases of NPD processes for companies.",
+      "Use a systematized approach to innovation while allowing for creative ingenuity and rationalization of ideas."
+    ],
+    "results": [
+      "Enhance the competitiveness of the European Wooden Furnishing sector through innovative and sustainable production offers.",
+      "Improve companies' ability to devise and manage innovation within their structures."
+    ],
+    "research_subject": "Innovation and sustainability in the European Wooden Furnishing sector through strategic NPD process redesign"
+  },
+  "openai_json": {
+    "motivations": [
+      "The European Wooden Furnishing sector recognizes the need for innovation and differentiation in their production offer to maintain leadership in the market.",
+      "There is a need to develop a production offer that combines innovation, aesthetics, and sustainability in response to market changes and environmental legislations.",
+      "Companies struggle to manage innovation within their structures and redesign their New Product Development (NPD) processes strategically."
+    ],
+    "objectives": [
+      "Support the furnishing production system in achieving strategic innovation and redesigning the NPD processes.",
+      "Provide an 'accompaniment' service to cover phases of the NPD processes that are difficult for companies to manage internally.",
+      "Integrate moments of 'ingenuity' with further investigation and rationalization of ideas in the innovation process."
+    ],
+    "methods": [
+      "Offer support to the furnishing production system for strategic innovation and redesign of NPD processes.",
+      "Provide an 'accompaniment' service to assist in difficult phases of the NPD processes.",
+      "Use a systematized approach to innovation, integrating 'ingenuity' with investigation and rationalization of ideas."
+    ],
+    "results": [
+      "Enhance the innovation and differentiation of the European Wooden Furnishing sector's production offer.",
+      "Improve the management of innovation within company structures and the strategic redesign of NPD processes.",
+      "Promote a balance between 'ingenuity' and rationalization in the innovation process."
+    ],
+    "research_subject": "Innovation and strategic redesign of New Product Development processes in the European Wooden Furnishing sector"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The European Wooden Furnishing sector needs to innovate and differentiate its production to maintain market leadership amid changing market conditions and environmental regulations.",
+      "Companies in the furnishing sector struggle to effectively manage New Product Development (NPD) processes internally, requiring external support to integrate innovation systematically."
+    ],
+    "objectives": [
+      "Provide an accompaniment service to support the furnishing production system in managing and optimizing NPD processes.",
+      "Help companies develop products that combine innovation, aesthetics, and sustainability through a systematized approach to innovation."
+    ],
+    "methods": [
+      "Implement a systematized approach to innovation that integrates creative ingenuity with rational investigation and idea development.",
+      "Provide external support services covering the most challenging phases of NPD processes for furnishing companies."
+    ],
+    "results": [
+      "Enhanced innovation capabilities and NPD process management within the European furnishing production system.",
+      "Development of products that successfully combine innovation, aesthetics, and sustainability to maintain European market leadership."
+    ],
+    "research_subject": "Innovation management and NPD process optimization in the European Wooden Furnishing sector"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The European Wooden Furnishing sector faces challenges in maintaining leadership due to changing market conditions and environmental legislation.\",\n    \"There is a need for innovation and differentiation in the production offer to support the sector's competitiveness.\"\n  ],\n  \"objectives\": [\n    \"Support the European furnishing production system in developing an offer that combines innovation, aesthetics, and sustainability.\",\n    \"Provide a service to help companies manage innovation and redesign their New Product Development (NPD) processes strategically.\"\n  ],\n  \"methods\": [\n    \"Offer an 'accompaniment' service to cover challenging phases of NPD processes for companies.\",\n    \"Use a systematized approach to innovation while allowing for creative ingenuity and rationalization of ideas.\"\n  ],\n  \"results\": [\n    \"Enhance the competitiveness of the European Wooden Furnishing sector through innovative and sustainable production offers.\",\n    \"Improve companies' ability to devise and manage innovation within their structures.\"\n  ],\n  \"research_subject\": \"Innovation and sustainability in the European Wooden Furnishing sector through strategic NPD process redesign\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The European Wooden Furnishing sector recognizes the need for innovation and differentiation in their production offer to maintain leadership in the market.\",\n    \"There is a need to develop a production offer that combines innovation, aesthetics, and sustainability in response to market changes and environmental legislations.\",\n    \"Companies struggle to manage innovation within their structures and redesign their New Product Development (NPD) processes strategically.\"\n  ],\n  \"objectives\": [\n    \"Support the furnishing production system in achieving strategic innovation and redesigning the NPD processes.\",\n    \"Provide an 'accompaniment' service to cover phases of the NPD processes that are difficult for companies to manage internally.\",\n    \"Integrate moments of 'ingenuity' with further investigation and rationalization of ideas in the innovation process.\"\n  ],\n  \"methods\": [\n    \"Offer support to the furnishing production system for strategic innovation and redesign of NPD processes.\",\n    \"Provide an 'accompaniment' service to assist in difficult phases of the NPD processes.\",\n    \"Use a systematized approach to innovation, integrating 'ingenuity' with investigation and rationalization of ideas.\"\n  ],\n  \"results\": [\n    \"Enhance the innovation and differentiation of the European Wooden Furnishing sector's production offer.\",\n    \"Improve the management of innovation within company structures and the strategic redesign of NPD processes.\",\n    \"Promote a balance between 'ingenuity' and rationalization in the innovation process.\"\n  ],\n  \"research_subject\": \"Innovation and strategic redesign of New Product Development processes in the European Wooden Furnishing sector\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The European Wooden Furnishing sector needs to innovate and differentiate its production to maintain market leadership amid changing market conditions and environmental regulations.\",\n    \"Companies in the furnishing sector struggle to effectively manage New Product Development (NPD) processes internally, requiring external support to integrate innovation systematically.\"\n  ],\n  \"objectives\": [\n    \"Provide an accompaniment service to support the furnishing production system in managing and optimizing NPD processes.\",\n    \"Help companies develop products that combine innovation, aesthetics, and sustainability through a systematized approach to innovation.\"\n  ],\n  \"methods\": [\n    \"Implement a systematized approach to innovation that integrates creative ingenuity with rational investigation and idea development.\",\n    \"Provide external support services covering the most challenging phases of NPD processes for furnishing companies.\"\n  ],\n  \"results\": [\n    \"Enhanced innovation capabilities and NPD process management within the European furnishing production system.\",\n    \"Development of products that successfully combine innovation, aesthetics, and sustainability to maintain European market leadership.\"\n  ],\n  \"research_subject\": \"Innovation management and NPD process optimization in the European Wooden Furnishing sector\"\n}\n```"
+}

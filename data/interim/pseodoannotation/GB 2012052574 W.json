@@ -1,0 +1,62 @@
+{
+  "index": 325,
+  "title": "ROTARY PISTON INTERNAL COMBUSTION ENGINE",
+  "abstract": "A rotary internal combustion engine of the Wankel type having a housing with a two lobed epitrochoidal inner peripheral surface, a shaft journalled in end housings and a rotor eccentrically mounted on the shaft and geared to rotate at one third the speed of said shaft whereby working chambers are formed between the flanks of the rotor and the housings which vary in volume as the rotor rotates. The rotor is cooled by a fully closed circuit system wherein pressurised gasses are circulated by a centrifugal fan which is directly mounted on the main eccentric shaft, and circulates the gases through a heat exchanger which is integrated into the cool sector of the rotor housing, all components being enclosed within the pressurised system and only one drive shaft using a single high pressure shaft seal assembly emerges from this system.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for improved cooling systems in rotary internal combustion engines to enhance performance and efficiency."
+    ],
+    "objectives": [
+      "Design a rotary piston internal combustion engine with an integrated cooling system to improve thermal management."
+    ],
+    "methods": [
+      "Implement a fully closed circuit cooling system utilizing pressurized gases circulated by a centrifugal fan mounted on the main eccentric shaft.",
+      "Integrate a heat exchanger into the cool sector of the rotor housing to facilitate efficient heat transfer."
+    ],
+    "results": [
+      "Enhance the thermal management and overall efficiency of the rotary internal combustion engine."
+    ],
+    "research_subject": "Rotary piston internal combustion engine with integrated cooling system"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for improved cooling systems in rotary internal combustion engines of the Wankel type."
+    ],
+    "objectives": [
+      "Develop a fully closed circuit system for cooling the rotor in a rotary internal combustion engine."
+    ],
+    "methods": [
+      "Use a centrifugal fan mounted on the main eccentric shaft to circulate pressurized gases.",
+      "Integrate a heat exchanger into the cool sector of the rotor housing.",
+      "Enclose all components within the pressurized system, with only one drive shaft emerging from the system."
+    ],
+    "results": [
+      "Achieve improved cooling of the rotor in a rotary internal combustion engine."
+    ],
+    "research_subject": "Improvement of cooling systems in rotary internal combustion engines"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Rotary internal combustion engines require effective cooling systems to manage heat generated during operation and maintain optimal performance.",
+      "Traditional cooling methods for rotary engines may be inefficient or require complex external components and multiple shaft seals."
+    ],
+    "objectives": [
+      "Develop an improved cooling system for Wankel-type rotary engines using a fully closed circuit pressurized gas circulation system.",
+      "Integrate cooling components within the engine housing to create a more compact and efficient design with minimal shaft seal requirements."
+    ],
+    "methods": [
+      "Implement a centrifugal fan directly mounted on the main eccentric shaft to circulate pressurized cooling gases.",
+      "Integrate a heat exchanger into the cool sector of the rotor housing within the pressurized system.",
+      "Design a fully enclosed cooling system that requires only a single high-pressure shaft seal assembly."
+    ],
+    "results": [
+      "Enhanced cooling efficiency for rotary engines through a self-contained pressurized gas circulation system.",
+      "Reduced complexity and improved reliability by minimizing the number of shaft seals and external cooling components.",
+      "More compact engine design with integrated cooling components within the housing."
+    ],
+    "research_subject": "Closed-circuit cooling system for Wankel-type rotary internal combustion engines"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved cooling systems in rotary internal combustion engines to enhance performance and efficiency.\"\n  ],\n  \"objectives\": [\n    \"Design a rotary piston internal combustion engine with an integrated cooling system to improve thermal management.\"\n  ],\n  \"methods\": [\n    \"Implement a fully closed circuit cooling system utilizing pressurized gases circulated by a centrifugal fan mounted on the main eccentric shaft.\",\n    \"Integrate a heat exchanger into the cool sector of the rotor housing to facilitate efficient heat transfer.\"\n  ],\n  \"results\": [\n    \"Enhance the thermal management and overall efficiency of the rotary internal combustion engine.\"\n  ],\n  \"research_subject\": \"Rotary piston internal combustion engine with integrated cooling system\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for improved cooling systems in rotary internal combustion engines of the Wankel type.\"\n  ],\n  \"objectives\": [\n    \"Develop a fully closed circuit system for cooling the rotor in a rotary internal combustion engine.\"\n  ],\n  \"methods\": [\n    \"Use a centrifugal fan mounted on the main eccentric shaft to circulate pressurized gases.\",\n    \"Integrate a heat exchanger into the cool sector of the rotor housing.\",\n    \"Enclose all components within the pressurized system, with only one drive shaft emerging from the system.\"\n  ],\n  \"results\": [\n    \"Achieve improved cooling of the rotor in a rotary internal combustion engine.\"\n  ],\n  \"research_subject\": \"Improvement of cooling systems in rotary internal combustion engines\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Rotary internal combustion engines require effective cooling systems to manage heat generated during operation and maintain optimal performance.\",\n    \"Traditional cooling methods for rotary engines may be inefficient or require complex external components and multiple shaft seals.\"\n  ],\n  \"objectives\": [\n    \"Develop an improved cooling system for Wankel-type rotary engines using a fully closed circuit pressurized gas circulation system.\",\n    \"Integrate cooling components within the engine housing to create a more compact and efficient design with minimal shaft seal requirements.\"\n  ],\n  \"methods\": [\n    \"Implement a centrifugal fan directly mounted on the main eccentric shaft to circulate pressurized cooling gases.\",\n    \"Integrate a heat exchanger into the cool sector of the rotor housing within the pressurized system.\",\n    \"Design a fully enclosed cooling system that requires only a single high-pressure shaft seal assembly.\"\n  ],\n  \"results\": [\n    \"Enhanced cooling efficiency for rotary engines through a self-contained pressurized gas circulation system.\",\n    \"Reduced complexity and improved reliability by minimizing the number of shaft seals and external cooling components.\",\n    \"More compact engine design with integrated cooling components within the housing.\"\n  ],\n  \"research_subject\": \"Closed-circuit cooling system for Wankel-type rotary internal combustion engines\"\n}\n```"
+}

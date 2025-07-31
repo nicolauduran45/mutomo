@@ -1,0 +1,64 @@
+{
+  "index": 101,
+  "title": "“El Araceli” Non-destructive Test from the “Misterio de Elche” Play",
+  "abstract": "In the city of Elche, every year, on August 14 and 15, it is celebrated a sacred musical drama of the death, the passage into heaven (known as the Assumption) and the crowning of the Virgin Mary. This event, known as “Misterio de Elche” play is unique in Europe. Since the mid-fifteenth century it has been performed in the Basilica of Saint Mary and in the streets of the old city of Elche, situated in the region of Valencia. The stage has two levels: the horizontal “terrestrial” stage and the vertical “celestial” stage, characteristic of the medieval mystery play. Ancient aerial machinery is used to enhance the spectacle by means of special effects. From the upper level, several aerial devices are raised and lowered in a controlled manner. These devices are called “La Mangrana”, “El Araceli” and “La Santísima Trinidad”. To give context to the reader, it is important to highlight that “El Araceli” is a device prepared to support five people situated in a special layout. The original supporting structure of this apparatus was made up of forged steel, wood and hemp ropes, but with the passage of time, some successive renovations were required. In 2010, wear was detected in some parts by the technical department that could cause security problems. Due to this circumstance, it was ordered a deep study. This paper analyzes a non-destructive test that was carried out on “El Araceli”. A data acquisition system customized to the device was used to verify that the apparatus was suitable for the loads for which it was designed.",
+  "llama_json": {
+    "motivations": [
+      "The 'El Araceli' device, a crucial part of the 'Misterio de Elche' play, showed signs of wear that could compromise its safety and functionality.",
+      "There was a need to assess the condition of the device without causing damage, to ensure its continued safe use."
+    ],
+    "objectives": [
+      "Conduct a non-destructive test on the 'El Araceli' device to evaluate its suitability for the intended loads.",
+      "Verify the structural integrity of the device and identify any potential safety risks."
+    ],
+    "methods": [
+      "Utilize a customized data acquisition system to collect data on the device's condition and performance.",
+      "Analyze the data to assess the device's ability to support the designed loads."
+    ],
+    "results": [
+      "Determine the suitability of the 'El Araceli' device for continued use in the 'Misterio de Elche' play.",
+      "Identify any necessary repairs or modifications to ensure the device's safe and reliable operation."
+    ],
+    "research_subject": "Non-destructive testing and evaluation of the 'El Araceli' device"
+  },
+  "openai_json": {
+    "motivations": [
+      "The 'El Araceli' device, part of the 'Misterio de Elche' play, showed signs of wear that could potentially lead to safety issues.",
+      "There was a need to verify that the 'El Araceli' device was still suitable for the loads it was designed to carry."
+    ],
+    "objectives": [
+      "Conduct a non-destructive test on the 'El Araceli' device to assess its structural integrity and safety.",
+      "Use a customized data acquisition system to measure the load-bearing capacity of the 'El Araceli' device."
+    ],
+    "methods": [
+      "A non-destructive test was conducted on the 'El Araceli' device to assess its structural integrity.",
+      "A customized data acquisition system was used to measure the load-bearing capacity of the 'El Araceli' device."
+    ],
+    "results": [
+      "The non-destructive test and data acquisition system provided insights into the structural integrity and load-bearing capacity of the 'El Araceli' device."
+    ],
+    "research_subject": "Non-destructive testing of the 'El Araceli' device from the 'Misterio de Elche' play"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Wear was detected in parts of the historic aerial device 'El Araceli' used in the Misterio de Elche play, raising safety concerns for the performers.",
+      "The need to ensure the structural integrity of a centuries-old theatrical apparatus that supports five people during performances."
+    ],
+    "objectives": [
+      "Conduct a comprehensive safety assessment of 'El Araceli' to verify its suitability for supporting the designed loads.",
+      "Perform non-destructive testing to evaluate the structural condition without damaging the historic apparatus."
+    ],
+    "methods": [
+      "Implementation of a customized data acquisition system specifically designed for the device.",
+      "Application of non-destructive testing techniques to assess the structural integrity of the apparatus."
+    ],
+    "results": [
+      "Verification of whether 'El Araceli' apparatus is suitable for the loads for which it was designed.",
+      "Assessment of the safety and structural condition of the historic aerial device without causing damage."
+    ],
+    "research_subject": "Non-destructive structural assessment of the historic aerial device 'El Araceli' from the Misterio de Elche play"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The 'El Araceli' device, a crucial part of the 'Misterio de Elche' play, showed signs of wear that could compromise its safety and functionality.\",\n    \"There was a need to assess the condition of the device without causing damage, to ensure its continued safe use.\"\n  ],\n  \"objectives\": [\n    \"Conduct a non-destructive test on the 'El Araceli' device to evaluate its suitability for the intended loads.\",\n    \"Verify the structural integrity of the device and identify any potential safety risks.\"\n  ],\n  \"methods\": [\n    \"Utilize a customized data acquisition system to collect data on the device's condition and performance.\",\n    \"Analyze the data to assess the device's ability to support the designed loads.\"\n  ],\n  \"results\": [\n    \"Determine the suitability of the 'El Araceli' device for continued use in the 'Misterio de Elche' play.\",\n    \"Identify any necessary repairs or modifications to ensure the device's safe and reliable operation.\"\n  ],\n  \"research_subject\": \"Non-destructive testing and evaluation of the 'El Araceli' device\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The 'El Araceli' device, part of the 'Misterio de Elche' play, showed signs of wear that could potentially lead to safety issues.\",\n    \"There was a need to verify that the 'El Araceli' device was still suitable for the loads it was designed to carry.\"\n  ],\n  \"objectives\": [\n    \"Conduct a non-destructive test on the 'El Araceli' device to assess its structural integrity and safety.\",\n    \"Use a customized data acquisition system to measure the load-bearing capacity of the 'El Araceli' device.\"\n  ],\n  \"methods\": [\n    \"A non-destructive test was conducted on the 'El Araceli' device to assess its structural integrity.\",\n    \"A customized data acquisition system was used to measure the load-bearing capacity of the 'El Araceli' device.\"\n  ],\n  \"results\": [\n    \"The non-destructive test and data acquisition system provided insights into the structural integrity and load-bearing capacity of the 'El Araceli' device.\"\n  ],\n  \"research_subject\": \"Non-destructive testing of the 'El Araceli' device from the 'Misterio de Elche' play\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Wear was detected in parts of the historic aerial device 'El Araceli' used in the Misterio de Elche play, raising safety concerns for the performers.\",\n    \"The need to ensure the structural integrity of a centuries-old theatrical apparatus that supports five people during performances.\"\n  ],\n  \"objectives\": [\n    \"Conduct a comprehensive safety assessment of 'El Araceli' to verify its suitability for supporting the designed loads.\",\n    \"Perform non-destructive testing to evaluate the structural condition without damaging the historic apparatus.\"\n  ],\n  \"methods\": [\n    \"Implementation of a customized data acquisition system specifically designed for the device.\",\n    \"Application of non-destructive testing techniques to assess the structural integrity of the apparatus.\"\n  ],\n  \"results\": [\n    \"Verification of whether 'El Araceli' apparatus is suitable for the loads for which it was designed.\",\n    \"Assessment of the safety and structural condition of the historic aerial device without causing damage.\"\n  ],\n  \"research_subject\": \"Non-destructive structural assessment of the historic aerial device 'El Araceli' from the Misterio de Elche play\"\n}\n```"
+}

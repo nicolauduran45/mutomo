@@ -1,0 +1,70 @@
+{
+  "index": 220,
+  "title": "Design of RLWE Cryptoprocessor Based on Vector-Instruction Extension with RISC-V Architecture",
+  "abstract": "A ring learning with errors(RLWE) cryptoprocessor based on the RISC-V instruction set architecture is proposed in this work. The cryptoprocessor is the integration of RISC-V core and co-processor. The co-processor is designed to complete complex polynomial operation such as addition, subtraction and multiplication. And RISC-V core is responsible for sending simple signals to control the operation of co-processor. To support parallel data processing and increase the bandwidth of accessing memory, this work extends vector channels and uses vector paths in internal data bus to transfer data. Besides, Operands adopt a memory-memory approach to reduce the latency of accessing data. The polynomial multiplication chooses the algorithm based on number theoretic transform(NTT). In the cryptosystem, arithmetic operations are performed on the NTT domain, which avoids the frequent operations of conversion to the finite-loop domain. And polynomial processing unit adopts the architecture of 8-lanes commutator to improve the degree of data parallelism. Barrett algorithm is chosen as module reduction operation in finite-loop domain. Simulation results show that RLWE cryptoprocessor operates properly and requires 60.5/22.0us to complete encryption/decryption. Results depict time-taken in encryption and decryption are both reduced comparing to designs based on FPGA Virtrex.",
+  "llama_json": {
+    "motivations": [
+      "Existing RLWE cryptoprocessors have limitations in terms of processing speed and efficiency, particularly in polynomial operations.",
+      "There is a need for improved architectures that can support parallel data processing and reduce latency in accessing data."
+    ],
+    "objectives": [
+      "Design an RLWE cryptoprocessor based on the RISC-V instruction set architecture with improved performance and efficiency.",
+      "Develop a co-processor that can handle complex polynomial operations, such as addition, subtraction, and multiplication."
+    ],
+    "methods": [
+      "Integrate a RISC-V core with a co-processor to enable efficient polynomial operations.",
+      "Extend vector channels and use vector paths in internal data bus to support parallel data processing and increase memory bandwidth.",
+      "Adopt a memory-memory approach for operands to reduce latency in accessing data."
+    ],
+    "results": [
+      "The proposed RLWE cryptoprocessor achieves improved performance, with encryption and decryption times of 60.5us and 22.0us, respectively.",
+      "The design demonstrates reduced processing time compared to FPGA Virtex-based designs."
+    ],
+    "research_subject": "Design of RLWE cryptoprocessor based on RISC-V architecture with vector-instruction extension"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need for a cryptoprocessor that can handle complex polynomial operations efficiently.",
+      "The requirement for parallel data processing and increased memory access bandwidth in cryptoprocessors.",
+      "The necessity to reduce the latency of data access and improve the degree of data parallelism in cryptosystems."
+    ],
+    "objectives": [
+      "Design a RLWE cryptoprocessor based on the RISC-V instruction set architecture.",
+      "Extend vector channels and use vector paths in the internal data bus to support parallel data processing and increase memory access bandwidth.",
+      "Adopt a memory-memory approach for operands to reduce data access latency and choose the NTT-based algorithm for polynomial multiplication."
+    ],
+    "methods": [
+      "Integrate RISC-V core and co-processor to handle complex polynomial operations.",
+      "Extend vector channels and use vector paths in the internal data bus for parallel data processing and increased memory access bandwidth.",
+      "Use the NTT-based algorithm for polynomial multiplication and the Barrett algorithm for module reduction operation in the finite-loop domain."
+    ],
+    "results": [
+      "The RLWE cryptoprocessor operates properly and requires 60.5/22.0us to complete encryption/decryption.",
+      "The time taken for encryption and decryption is reduced compared to designs based on FPGA Virtrex."
+    ],
+    "research_subject": "Design of RLWE Cryptoprocessor Based on Vector-Instruction Extension with RISC-V Architecture"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Complex polynomial operations in RLWE cryptography require specialized hardware acceleration to achieve efficient performance.",
+      "Existing cryptographic implementations face challenges in data parallelism and memory access latency that limit their performance."
+    ],
+    "objectives": [
+      "Design and implement an RLWE cryptoprocessor that integrates RISC-V core with a specialized co-processor for efficient polynomial operations.",
+      "Enhance data processing performance through vector instruction extensions and parallel processing architectures."
+    ],
+    "methods": [
+      "Integrate RISC-V core with a co-processor designed for polynomial operations including addition, subtraction, and multiplication.",
+      "Implement vector channels and memory-memory operand approach to increase bandwidth and reduce data access latency.",
+      "Utilize number theoretic transform (NTT) algorithm for polynomial multiplication and Barrett algorithm for modular reduction, with an 8-lane commutator architecture for parallel processing."
+    ],
+    "results": [
+      "The cryptoprocessor successfully performs RLWE encryption in 60.5 microseconds and decryption in 22.0 microseconds.",
+      "Achieved reduced encryption and decryption times compared to existing FPGA Virtex-based designs."
+    ],
+    "research_subject": "RLWE cryptoprocessor design with RISC-V vector instruction extensions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing RLWE cryptoprocessors have limitations in terms of processing speed and efficiency, particularly in polynomial operations.\",\n    \"There is a need for improved architectures that can support parallel data processing and reduce latency in accessing data.\"\n  ],\n  \"objectives\": [\n    \"Design an RLWE cryptoprocessor based on the RISC-V instruction set architecture with improved performance and efficiency.\",\n    \"Develop a co-processor that can handle complex polynomial operations, such as addition, subtraction, and multiplication.\"\n  ],\n  \"methods\": [\n    \"Integrate a RISC-V core with a co-processor to enable efficient polynomial operations.\",\n    \"Extend vector channels and use vector paths in internal data bus to support parallel data processing and increase memory bandwidth.\",\n    \"Adopt a memory-memory approach for operands to reduce latency in accessing data.\"\n  ],\n  \"results\": [\n    \"The proposed RLWE cryptoprocessor achieves improved performance, with encryption and decryption times of 60.5us and 22.0us, respectively.\",\n    \"The design demonstrates reduced processing time compared to FPGA Virtex-based designs.\"\n  ],\n  \"research_subject\": \"Design of RLWE cryptoprocessor based on RISC-V architecture with vector-instruction extension\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need for a cryptoprocessor that can handle complex polynomial operations efficiently.\",\n    \"The requirement for parallel data processing and increased memory access bandwidth in cryptoprocessors.\",\n    \"The necessity to reduce the latency of data access and improve the degree of data parallelism in cryptosystems.\"\n  ],\n  \"objectives\": [\n    \"Design a RLWE cryptoprocessor based on the RISC-V instruction set architecture.\",\n    \"Extend vector channels and use vector paths in the internal data bus to support parallel data processing and increase memory access bandwidth.\",\n    \"Adopt a memory-memory approach for operands to reduce data access latency and choose the NTT-based algorithm for polynomial multiplication.\"\n  ],\n  \"methods\": [\n    \"Integrate RISC-V core and co-processor to handle complex polynomial operations.\",\n    \"Extend vector channels and use vector paths in the internal data bus for parallel data processing and increased memory access bandwidth.\",\n    \"Use the NTT-based algorithm for polynomial multiplication and the Barrett algorithm for module reduction operation in the finite-loop domain.\"\n  ],\n  \"results\": [\n    \"The RLWE cryptoprocessor operates properly and requires 60.5/22.0us to complete encryption/decryption.\",\n    \"The time taken for encryption and decryption is reduced compared to designs based on FPGA Virtrex.\"\n  ],\n  \"research_subject\": \"Design of RLWE Cryptoprocessor Based on Vector-Instruction Extension with RISC-V Architecture\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Complex polynomial operations in RLWE cryptography require specialized hardware acceleration to achieve efficient performance.\",\n    \"Existing cryptographic implementations face challenges in data parallelism and memory access latency that limit their performance.\"\n  ],\n  \"objectives\": [\n    \"Design and implement an RLWE cryptoprocessor that integrates RISC-V core with a specialized co-processor for efficient polynomial operations.\",\n    \"Enhance data processing performance through vector instruction extensions and parallel processing architectures.\"\n  ],\n  \"methods\": [\n    \"Integrate RISC-V core with a co-processor designed for polynomial operations including addition, subtraction, and multiplication.\",\n    \"Implement vector channels and memory-memory operand approach to increase bandwidth and reduce data access latency.\",\n    \"Utilize number theoretic transform (NTT) algorithm for polynomial multiplication and Barrett algorithm for modular reduction, with an 8-lane commutator architecture for parallel processing.\"\n  ],\n  \"results\": [\n    \"The cryptoprocessor successfully performs RLWE encryption in 60.5 microseconds and decryption in 22.0 microseconds.\",\n    \"Achieved reduced encryption and decryption times compared to existing FPGA Virtex-based designs.\"\n  ],\n  \"research_subject\": \"RLWE cryptoprocessor design with RISC-V vector instruction extensions\"\n}\n```"
+}

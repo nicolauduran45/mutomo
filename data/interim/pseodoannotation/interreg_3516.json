@@ -1,0 +1,73 @@
+{
+  "index": 90,
+  "title": "Enchancing the Entrepreneurship of SMEs in Circular Economy of the Agri-Food Chain",
+  "abstract": "Circular economy is a new approach of economic development models. It provides the potential to use one’s waste as resource input to others productive chain thus offering a longer life cycle of the products and a more environmentally friendly business approach. This regenerative system is of high priority in the EU. SinCE-AFC is being developed along with the on-going EU action plan for Circular Economy and the respective National Circular Economy Action Plans across the EU countries. Although the principles of circular economy are already applied by many large industries, SMEs, which represent the 99% of the businesses sector, still remain uninvolved due to lack of motivation and support. Thus, the regional SMEs policies improvement towards a more regenerative economy is of high importance. SinCE-AFC aims at involving SMEs of the Agri-Food chain in circular economy through the promotion of the appropriate managing and financial horizontal mechanisms. All the Agri-Food agents committed to production, processing, packaging, distribution and final consumption are expected to operate in a coordinated way to better adapt to circular economy. This objective will be achieved via the intense collaboration and interregional exchange of experience of 9 partners representing 7 Regions from 7 EU countries. The partnership’s tasks will focus on the investigation of efficient practices via interregional learning events, study visits, import workshops, stakeholders’ meetings and consultation processes, of how the relevant policy instruments can be improved in order to assist SMEs to enter circular economy. The regulatory framework and good practices at regional and EU level will be reflected on the Agri-Food circular economy e-Book on the project website. The project will promote innovation, derive knowledge and develop close collaboration with the Interreg Europe Learning Platform as well as with the European Circular Economy Stakeholder Platform and the RIS3 Platform Group.",
+  "llama_json": {
+    "motivations": [
+      "Small and Medium-sized Enterprises (SMEs) in the Agri-Food chain lack motivation and support to adopt circular economy practices, hindering their potential for sustainable growth and environmental benefits.",
+      "Current economic development models result in waste and inefficient use of resources, emphasizing the need for a more regenerative and environmentally friendly approach."
+    ],
+    "objectives": [
+      "Involve SMEs of the Agri-Food chain in circular economy practices through improved managing and financial mechanisms.",
+      "Enhance regional SME policies to promote a more regenerative economy.",
+      "Foster interregional collaboration and knowledge sharing to support SMEs in adapting to circular economy principles."
+    ],
+    "methods": [
+      "Investigate efficient practices through interregional learning events, study visits, workshops, and stakeholders' meetings.",
+      "Improve policy instruments to assist SMEs in entering the circular economy.",
+      "Develop an Agri-Food circular economy e-Book and collaborate with European platforms to promote innovation and knowledge sharing."
+    ],
+    "results": [
+      "Increased involvement of SMEs in circular economy practices, leading to more sustainable and environmentally friendly business approaches.",
+      "Improved regional policies and regulatory frameworks supporting SMEs in the Agri-Food chain.",
+      "Enhanced innovation, knowledge sharing, and collaboration among SMEs and regional stakeholders."
+    ],
+    "research_subject": "Enhancing entrepreneurship of SMEs in the circular economy of the Agri-Food chain"
+  },
+  "openai_json": {
+    "motivations": [
+      "Circular economy is a new approach to economic development that is environmentally friendly, but SMEs in the Agri-Food chain remain uninvolved due to lack of motivation and support.",
+      "The need to improve regional SMEs policies towards a more regenerative economy is of high importance."
+    ],
+    "objectives": [
+      "Involve SMEs of the Agri-Food chain in circular economy through the promotion of appropriate managing and financial horizontal mechanisms.",
+      "Achieve coordinated operation among all Agri-Food agents committed to production, processing, packaging, distribution and final consumption to better adapt to circular economy.",
+      "Improve relevant policy instruments to assist SMEs to enter circular economy through intense collaboration and interregional exchange of experience."
+    ],
+    "methods": [
+      "Investigate efficient practices via interregional learning events, study visits, import workshops, stakeholders’ meetings and consultation processes.",
+      "Reflect the regulatory framework and good practices at regional and EU level on the Agri-Food circular economy e-Book on the project website.",
+      "Promote innovation, derive knowledge and develop close collaboration with the Interreg Europe Learning Platform, the European Circular Economy Stakeholder Platform and the RIS3 Platform Group."
+    ],
+    "results": [
+      "Increased involvement of SMEs in the Agri-Food chain in the circular economy.",
+      "Improved policy instruments to assist SMEs to enter circular economy.",
+      "Promotion of innovation and knowledge derivation in the field of circular economy."
+    ],
+    "research_subject": "Enhancing the Entrepreneurship of SMEs in Circular Economy of the Agri-Food Chain"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "SMEs, representing 99% of the business sector, remain largely uninvolved in circular economy practices due to lack of motivation and support.",
+      "There is a need to improve regional SME policies to facilitate the transition towards a regenerative circular economy in the agri-food sector."
+    ],
+    "objectives": [
+      "Involve SMEs in the agri-food chain in circular economy through the promotion of appropriate managing and financial horizontal mechanisms.",
+      "Improve policy instruments to assist SMEs in entering the circular economy through interregional collaboration and exchange of experiences."
+    ],
+    "methods": [
+      "Conduct interregional learning events, study visits, workshops, and stakeholder meetings to investigate efficient circular economy practices.",
+      "Facilitate collaboration among 9 partners from 7 EU regions to share experiences and best practices.",
+      "Develop an e-Book documenting regulatory frameworks and good practices for agri-food circular economy."
+    ],
+    "results": [
+      "Enhanced participation of agri-food SMEs in circular economy practices through improved policy instruments and support mechanisms.",
+      "Strengthened interregional collaboration and knowledge sharing on circular economy implementation.",
+      "Creation of comprehensive resources and platforms to support SMEs' transition to circular economy models."
+    ],
+    "research_subject": "Circular economy adoption by SMEs in the agri-food chain"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Small and Medium-sized Enterprises (SMEs) in the Agri-Food chain lack motivation and support to adopt circular economy practices, hindering their potential for sustainable growth and environmental benefits.\",\n    \"Current economic development models result in waste and inefficient use of resources, emphasizing the need for a more regenerative and environmentally friendly approach.\"\n  ],\n  \"objectives\": [\n    \"Involve SMEs of the Agri-Food chain in circular economy practices through improved managing and financial mechanisms.\",\n    \"Enhance regional SME policies to promote a more regenerative economy.\",\n    \"Foster interregional collaboration and knowledge sharing to support SMEs in adapting to circular economy principles.\"\n  ],\n  \"methods\": [\n    \"Investigate efficient practices through interregional learning events, study visits, workshops, and stakeholders' meetings.\",\n    \"Improve policy instruments to assist SMEs in entering the circular economy.\",\n    \"Develop an Agri-Food circular economy e-Book and collaborate with European platforms to promote innovation and knowledge sharing.\"\n  ],\n  \"results\": [\n    \"Increased involvement of SMEs in circular economy practices, leading to more sustainable and environmentally friendly business approaches.\",\n    \"Improved regional policies and regulatory frameworks supporting SMEs in the Agri-Food chain.\",\n    \"Enhanced innovation, knowledge sharing, and collaboration among SMEs and regional stakeholders.\"\n  ],\n  \"research_subject\": \"Enhancing entrepreneurship of SMEs in the circular economy of the Agri-Food chain\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Circular economy is a new approach to economic development that is environmentally friendly, but SMEs in the Agri-Food chain remain uninvolved due to lack of motivation and support.\",\n    \"The need to improve regional SMEs policies towards a more regenerative economy is of high importance.\"\n  ],\n  \"objectives\": [\n    \"Involve SMEs of the Agri-Food chain in circular economy through the promotion of appropriate managing and financial horizontal mechanisms.\",\n    \"Achieve coordinated operation among all Agri-Food agents committed to production, processing, packaging, distribution and final consumption to better adapt to circular economy.\",\n    \"Improve relevant policy instruments to assist SMEs to enter circular economy through intense collaboration and interregional exchange of experience.\"\n  ],\n  \"methods\": [\n    \"Investigate efficient practices via interregional learning events, study visits, import workshops, stakeholders’ meetings and consultation processes.\",\n    \"Reflect the regulatory framework and good practices at regional and EU level on the Agri-Food circular economy e-Book on the project website.\",\n    \"Promote innovation, derive knowledge and develop close collaboration with the Interreg Europe Learning Platform, the European Circular Economy Stakeholder Platform and the RIS3 Platform Group.\"\n  ],\n  \"results\": [\n    \"Increased involvement of SMEs in the Agri-Food chain in the circular economy.\",\n    \"Improved policy instruments to assist SMEs to enter circular economy.\",\n    \"Promotion of innovation and knowledge derivation in the field of circular economy.\"\n  ],\n  \"research_subject\": \"Enhancing the Entrepreneurship of SMEs in Circular Economy of the Agri-Food Chain\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"SMEs, representing 99% of the business sector, remain largely uninvolved in circular economy practices due to lack of motivation and support.\",\n    \"There is a need to improve regional SME policies to facilitate the transition towards a regenerative circular economy in the agri-food sector.\"\n  ],\n  \"objectives\": [\n    \"Involve SMEs in the agri-food chain in circular economy through the promotion of appropriate managing and financial horizontal mechanisms.\",\n    \"Improve policy instruments to assist SMEs in entering the circular economy through interregional collaboration and exchange of experiences.\"\n  ],\n  \"methods\": [\n    \"Conduct interregional learning events, study visits, workshops, and stakeholder meetings to investigate efficient circular economy practices.\",\n    \"Facilitate collaboration among 9 partners from 7 EU regions to share experiences and best practices.\",\n    \"Develop an e-Book documenting regulatory frameworks and good practices for agri-food circular economy.\"\n  ],\n  \"results\": [\n    \"Enhanced participation of agri-food SMEs in circular economy practices through improved policy instruments and support mechanisms.\",\n    \"Strengthened interregional collaboration and knowledge sharing on circular economy implementation.\",\n    \"Creation of comprehensive resources and platforms to support SMEs' transition to circular economy models.\"\n  ],\n  \"research_subject\": \"Circular economy adoption by SMEs in the agri-food chain\"\n}\n```"
+}

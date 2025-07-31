@@ -1,0 +1,73 @@
+{
+  "index": 195,
+  "title": "Social innovation community",
+  "abstract": "Developing an enabling environment for social innovation that links actions across the whole field and supports the full exploitation of their potential is vital to addressing societal challenges both in Europe and globally. While there is increasing interest for social innovation as a means of addressing societal challenges, there is also considerable variation in the extent to which different countries and regions have embraced social innovation. There are many research and policy projects and incubation and acceleration programmes with valuable outcomes but these are still largely disconnected. Thus, the overarching aim of this project is to create a ‘network of networks’ of social innovation actors. This Social Innovation Community (SIC) will identify, engage and connect actors including researchers, social innovators, citizens, policy-makers, as well as intermediaries, businesses, civil society organisations and public sector employees. Through our cross-cutting Work Packages, we will deliver engagement, research, experimentation, learning and policy activities that engage with and support each of the networks. We will ensure that our cross-cutting activities are complementary and build on each other’s work, rather than operating in silos. As such, this SIC aims to deepen and strengthen existing networks, forge new connections between networks, and create new links to actors and networks which hitherto have not been included in the field of social innovation. The aims of such a community are to generate new social innovations, develop and scale up successful ideas to share and spread knowledge more effectively in order to improve research, practice and policy-making. By creating an enabling environment for social innovation, the project will improve the overall framework conditions for social innovation in Europe. This in turn will support the creation of opportunities for growth and for overcoming the current social and economic crisis affecting much of Europe.",
+  "llama_json": {
+    "motivations": [
+      "Societal challenges in Europe and globally require innovative solutions that can be achieved through social innovation.",
+      "Despite increasing interest in social innovation, there is a lack of connection and coordination among various research, policy, and incubation projects."
+    ],
+    "objectives": [
+      "Create a 'network of networks' of social innovation actors to identify, engage, and connect key stakeholders.",
+      "Deliver engagement, research, experimentation, learning, and policy activities to support social innovation networks.",
+      "Strengthen existing networks, forge new connections, and create links to previously excluded actors and networks in the field of social innovation."
+    ],
+    "methods": [
+      "Establish cross-cutting Work Packages to deliver complementary activities that engage with and support social innovation networks.",
+      "Ensure collaboration and knowledge-sharing among networks to generate new social innovations and scale up successful ideas.",
+      "Create an enabling environment for social innovation to improve framework conditions and support growth and crisis resolution in Europe."
+    ],
+    "results": [
+      "Generate new social innovations and scale up successful ideas to address societal challenges.",
+      "Improve research, practice, and policy-making through effective knowledge-sharing and collaboration.",
+      "Support the creation of opportunities for growth and crisis resolution in Europe through social innovation."
+    ],
+    "research_subject": "Social innovation community development and network coordination"
+  },
+  "openai_json": {
+    "motivations": [
+      "Addressing societal challenges requires an enabling environment for social innovation that links actions across the field and supports their full potential.",
+      "There is considerable variation in the adoption of social innovation across different countries and regions, and many valuable outcomes from research and policy projects remain largely disconnected."
+    ],
+    "objectives": [
+      "Create a 'network of networks' of social innovation actors, including researchers, social innovators, citizens, policy-makers, intermediaries, businesses, civil society organisations, and public sector employees.",
+      "Deepen and strengthen existing networks, forge new connections, and create new links to actors and networks not previously included in the field of social innovation.",
+      "Generate new social innovations, develop and scale up successful ideas, and improve the sharing and spreading of knowledge to enhance research, practice, and policy-making."
+    ],
+    "methods": [
+      "Deliver engagement, research, experimentation, learning, and policy activities that support each of the networks through cross-cutting work packages.",
+      "Ensure that cross-cutting activities are complementary and build on each other's work, rather than operating in silos."
+    ],
+    "results": [
+      "Improve the overall framework conditions for social innovation in Europe, creating opportunities for growth and overcoming social and economic crises.",
+      "Establish a connected, inclusive community of social innovation actors that can generate and scale up new social innovations."
+    ],
+    "research_subject": "Creation and strengthening of a networked community for social innovation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Social innovation efforts across Europe remain largely disconnected despite their potential to address societal challenges.",
+      "There is considerable variation in how different countries and regions embrace social innovation, limiting its full exploitation.",
+      "The current social and economic crisis in Europe requires improved framework conditions for social innovation to create opportunities for growth."
+    ],
+    "objectives": [
+      "Create a 'network of networks' that connects social innovation actors including researchers, innovators, citizens, policy-makers, and various organizations.",
+      "Strengthen existing networks while forging new connections and including previously excluded actors in the social innovation field.",
+      "Generate, develop, and scale up social innovations while improving knowledge sharing to enhance research, practice, and policy-making."
+    ],
+    "methods": [
+      "Implement cross-cutting Work Packages delivering engagement, research, experimentation, learning, and policy activities.",
+      "Identify, engage, and connect diverse stakeholders across the social innovation ecosystem.",
+      "Ensure complementary activities that build on each other's work rather than operating in silos."
+    ],
+    "results": [
+      "Creation of an enabling environment that improves the overall framework conditions for social innovation in Europe.",
+      "Enhanced generation, scaling, and spread of social innovations through improved knowledge sharing.",
+      "Support for addressing societal challenges and overcoming the social and economic crisis affecting Europe."
+    ],
+    "research_subject": "Building a European social innovation community network"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Societal challenges in Europe and globally require innovative solutions that can be achieved through social innovation.\",\n    \"Despite increasing interest in social innovation, there is a lack of connection and coordination among various research, policy, and incubation projects.\"\n  ],\n  \"objectives\": [\n    \"Create a 'network of networks' of social innovation actors to identify, engage, and connect key stakeholders.\",\n    \"Deliver engagement, research, experimentation, learning, and policy activities to support social innovation networks.\",\n    \"Strengthen existing networks, forge new connections, and create links to previously excluded actors and networks in the field of social innovation.\"\n  ],\n  \"methods\": [\n    \"Establish cross-cutting Work Packages to deliver complementary activities that engage with and support social innovation networks.\",\n    \"Ensure collaboration and knowledge-sharing among networks to generate new social innovations and scale up successful ideas.\",\n    \"Create an enabling environment for social innovation to improve framework conditions and support growth and crisis resolution in Europe.\"\n  ],\n  \"results\": [\n    \"Generate new social innovations and scale up successful ideas to address societal challenges.\",\n    \"Improve research, practice, and policy-making through effective knowledge-sharing and collaboration.\",\n    \"Support the creation of opportunities for growth and crisis resolution in Europe through social innovation.\"\n  ],\n  \"research_subject\": \"Social innovation community development and network coordination\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Addressing societal challenges requires an enabling environment for social innovation that links actions across the field and supports their full potential.\",\n    \"There is considerable variation in the adoption of social innovation across different countries and regions, and many valuable outcomes from research and policy projects remain largely disconnected.\"\n  ],\n  \"objectives\": [\n    \"Create a 'network of networks' of social innovation actors, including researchers, social innovators, citizens, policy-makers, intermediaries, businesses, civil society organisations, and public sector employees.\",\n    \"Deepen and strengthen existing networks, forge new connections, and create new links to actors and networks not previously included in the field of social innovation.\",\n    \"Generate new social innovations, develop and scale up successful ideas, and improve the sharing and spreading of knowledge to enhance research, practice, and policy-making.\"\n  ],\n  \"methods\": [\n    \"Deliver engagement, research, experimentation, learning, and policy activities that support each of the networks through cross-cutting work packages.\",\n    \"Ensure that cross-cutting activities are complementary and build on each other's work, rather than operating in silos.\"\n  ],\n  \"results\": [\n    \"Improve the overall framework conditions for social innovation in Europe, creating opportunities for growth and overcoming social and economic crises.\",\n    \"Establish a connected, inclusive community of social innovation actors that can generate and scale up new social innovations.\"\n  ],\n  \"research_subject\": \"Creation and strengthening of a networked community for social innovation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Social innovation efforts across Europe remain largely disconnected despite their potential to address societal challenges.\",\n    \"There is considerable variation in how different countries and regions embrace social innovation, limiting its full exploitation.\",\n    \"The current social and economic crisis in Europe requires improved framework conditions for social innovation to create opportunities for growth.\"\n  ],\n  \"objectives\": [\n    \"Create a 'network of networks' that connects social innovation actors including researchers, innovators, citizens, policy-makers, and various organizations.\",\n    \"Strengthen existing networks while forging new connections and including previously excluded actors in the social innovation field.\",\n    \"Generate, develop, and scale up social innovations while improving knowledge sharing to enhance research, practice, and policy-making.\"\n  ],\n  \"methods\": [\n    \"Implement cross-cutting Work Packages delivering engagement, research, experimentation, learning, and policy activities.\",\n    \"Identify, engage, and connect diverse stakeholders across the social innovation ecosystem.\",\n    \"Ensure complementary activities that build on each other's work rather than operating in silos.\"\n  ],\n  \"results\": [\n    \"Creation of an enabling environment that improves the overall framework conditions for social innovation in Europe.\",\n    \"Enhanced generation, scaling, and spread of social innovations through improved knowledge sharing.\",\n    \"Support for addressing societal challenges and overcoming the social and economic crisis affecting Europe.\"\n  ],\n  \"research_subject\": \"Building a European social innovation community network\"\n}\n```"
+}

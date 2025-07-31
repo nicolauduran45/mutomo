@@ -1,0 +1,65 @@
+{
+  "index": 228,
+  "title": "Televizní vysílání po internetu",
+  "abstract": "In the theoretical part, this Bachelor’s thesis on “On-line Television Broadcasting“ outlines the legal regulation of television broadcasting by definition in order to provide a better understanding of the issue, as it differs from the “on-demand audiovisual media services” both by law and in the ways of broadcasting, transmission and delivery of electronic data to public. The new regulation of on-demand audiovisual media services adopted in 2010 has been initiated by the Directive 2007/65/EC of the European Parliament and of the Council of 11 December 2007. It introduced certain changes in the field of broadcast regulation towards all providers of audiovisual media services, revising also the television broadcasting and on-demand audiovisual services. The amended regulation addresses not only the on-demand audiovisual media services, but also reforms radio and television broadcasting as such, mainly the Act No. 231/2006 Coll., as amended.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to clarify the legal regulation of television broadcasting, particularly in relation to on-demand audiovisual media services.",
+      "The introduction of new regulations in 2010 has led to changes in broadcast regulation that require examination and analysis."
+    ],
+    "objectives": [
+      "Provide a comprehensive understanding of the legal regulation of television broadcasting and its distinction from on-demand audiovisual media services.",
+      "Examine the impact of the Directive 2007/65/EC on the regulation of television broadcasting and on-demand audiovisual services."
+    ],
+    "methods": [
+      "Conduct a theoretical analysis of the legal framework governing television broadcasting and on-demand audiovisual media services.",
+      "Examine the changes introduced by the Directive 2007/65/EC and their implications for broadcast regulation."
+    ],
+    "results": [
+      "Enhance understanding of the legal regulation of television broadcasting and its differences from on-demand audiovisual media services.",
+      "Clarify the implications of the amended regulation for providers of audiovisual media services."
+    ],
+    "research_subject": "Legal regulation of television broadcasting and on-demand audiovisual media services"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the legal regulation of online television broadcasting, which differs from on-demand audiovisual media services in terms of law and broadcasting methods.",
+      "The recent changes in the field of broadcast regulation initiated by the Directive 2007/65/EC of the European Parliament and of the Council of 11 December 2007 require a comprehensive analysis."
+    ],
+    "objectives": [
+      "Outline the legal regulation of online television broadcasting to provide a better understanding of the issue.",
+      "Analyze the impact of the new regulation of on-demand audiovisual media services adopted in 2010 on television broadcasting and on-demand audiovisual services."
+    ],
+    "methods": [
+      "Review and analyze the legal definitions and regulations related to online television broadcasting.",
+      "Examine the changes introduced by the Directive 2007/65/EC and their impact on the field of broadcast regulation."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of the legal regulation of online television broadcasting.",
+      "Offer insights into the changes in broadcast regulation introduced by the Directive 2007/65/EC."
+    ],
+    "research_subject": "Legal regulation of online television broadcasting"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The legal regulation of television broadcasting differs from on-demand audiovisual media services, creating a need for clearer understanding of these distinctions.",
+      "The 2007 EU Directive introduced significant changes to broadcast regulation that require comprehensive analysis of their impact on television and on-demand services."
+    ],
+    "objectives": [
+      "Outline and analyze the legal regulation of television broadcasting and its distinction from on-demand audiovisual media services.",
+      "Examine the impact of the 2007 EU Directive and subsequent 2010 regulations on audiovisual media service providers."
+    ],
+    "methods": [
+      "Theoretical analysis of legal frameworks governing television broadcasting and on-demand audiovisual media services.",
+      "Examination of EU Directive 2007/65/EC and its implementation in national legislation, particularly Act No. 231/2006 Coll."
+    ],
+    "results": [
+      "Provide a comprehensive understanding of the legal distinctions between television broadcasting and on-demand audiovisual media services.",
+      "Clarify the regulatory changes introduced by EU legislation and their impact on broadcast providers."
+    ],
+    "research_subject": "Legal regulation of online television broadcasting and on-demand audiovisual media services"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to clarify the legal regulation of television broadcasting, particularly in relation to on-demand audiovisual media services.\",\n    \"The introduction of new regulations in 2010 has led to changes in broadcast regulation that require examination and analysis.\"\n  ],\n  \"objectives\": [\n    \"Provide a comprehensive understanding of the legal regulation of television broadcasting and its distinction from on-demand audiovisual media services.\",\n    \"Examine the impact of the Directive 2007/65/EC on the regulation of television broadcasting and on-demand audiovisual services.\"\n  ],\n  \"methods\": [\n    \"Conduct a theoretical analysis of the legal framework governing television broadcasting and on-demand audiovisual media services.\",\n    \"Examine the changes introduced by the Directive 2007/65/EC and their implications for broadcast regulation.\"\n  ],\n  \"results\": [\n    \"Enhance understanding of the legal regulation of television broadcasting and its differences from on-demand audiovisual media services.\",\n    \"Clarify the implications of the amended regulation for providers of audiovisual media services.\"\n  ],\n  \"research_subject\": \"Legal regulation of television broadcasting and on-demand audiovisual media services\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the legal regulation of online television broadcasting, which differs from on-demand audiovisual media services in terms of law and broadcasting methods.\",\n    \"The recent changes in the field of broadcast regulation initiated by the Directive 2007/65/EC of the European Parliament and of the Council of 11 December 2007 require a comprehensive analysis.\"\n  ],\n  \"objectives\": [\n    \"Outline the legal regulation of online television broadcasting to provide a better understanding of the issue.\",\n    \"Analyze the impact of the new regulation of on-demand audiovisual media services adopted in 2010 on television broadcasting and on-demand audiovisual services.\"\n  ],\n  \"methods\": [\n    \"Review and analyze the legal definitions and regulations related to online television broadcasting.\",\n    \"Examine the changes introduced by the Directive 2007/65/EC and their impact on the field of broadcast regulation.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of the legal regulation of online television broadcasting.\",\n    \"Offer insights into the changes in broadcast regulation introduced by the Directive 2007/65/EC.\"\n  ],\n  \"research_subject\": \"Legal regulation of online television broadcasting\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The legal regulation of television broadcasting differs from on-demand audiovisual media services, creating a need for clearer understanding of these distinctions.\",\n    \"The 2007 EU Directive introduced significant changes to broadcast regulation that require comprehensive analysis of their impact on television and on-demand services.\"\n  ],\n  \"objectives\": [\n    \"Outline and analyze the legal regulation of television broadcasting and its distinction from on-demand audiovisual media services.\",\n    \"Examine the impact of the 2007 EU Directive and subsequent 2010 regulations on audiovisual media service providers.\"\n  ],\n  \"methods\": [\n    \"Theoretical analysis of legal frameworks governing television broadcasting and on-demand audiovisual media services.\",\n    \"Examination of EU Directive 2007/65/EC and its implementation in national legislation, particularly Act No. 231/2006 Coll.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive understanding of the legal distinctions between television broadcasting and on-demand audiovisual media services.\",\n    \"Clarify the regulatory changes introduced by EU legislation and their impact on broadcast providers.\"\n  ],\n  \"research_subject\": \"Legal regulation of online television broadcasting and on-demand audiovisual media services\"\n}\n```"
+}

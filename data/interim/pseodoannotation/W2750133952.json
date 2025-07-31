@@ -1,0 +1,72 @@
+{
+  "index": 244,
+  "title": "Intrinsically Safe Grounding Systems and Global Grounding Systems",
+  "abstract": "This paper introduces a characterization of grounding systems (GSs) and defines their condition of “conventionally safe” and “intrinsically safe.” A single GS and a set of GSs are intrinsically safe if they guarantee touch/step voltages permanently permissible for an assigned ground fault value. A new definition of global grounding systems (GGSs) is proposed, revising that offered by the Standards IEC 61936-1/EN 50522. A safety criterion, useful for urban and industrial areas with reduced accessibility, allows identifying the safety zone of influence, and the intrinsically safe condition of a single GS and of a GGS, constituted by a set of interconnected single GSs.",
+  "llama_json": {
+    "motivations": [
+      "Existing grounding systems may not guarantee permanently permissible touch/step voltages for assigned ground fault values, posing safety risks.",
+      "Current standards for global grounding systems may be inadequate or outdated, requiring revision for improved safety."
+    ],
+    "objectives": [
+      "Characterize and define the conditions for 'conventionally safe' and 'intrinsically safe' grounding systems.",
+      "Propose a revised definition of global grounding systems (GGSs) for enhanced safety.",
+      "Establish a safety criterion for identifying the safety zone of influence and ensuring the intrinsically safe condition of grounding systems."
+    ],
+    "methods": [
+      "Develop a new definition of global grounding systems, revising existing standards such as IEC 61936-1/EN 50522.",
+      "Introduce a safety criterion for evaluating the safety of grounding systems, particularly in urban and industrial areas with reduced accessibility."
+    ],
+    "results": [
+      "Ensure permanently permissible touch/step voltages for assigned ground fault values, enhancing the safety of grounding systems.",
+      "Provide a revised framework for designing and evaluating global grounding systems, promoting improved safety in urban and industrial areas."
+    ],
+    "research_subject": "Intrinsically safe grounding systems and global grounding systems for enhanced safety"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a clear characterization of grounding systems and their safety conditions.",
+      "Existing definitions and standards for global grounding systems may not be comprehensive or accurate."
+    ],
+    "objectives": [
+      "Introduce a characterization of grounding systems and define their 'conventionally safe' and 'intrinsically safe' conditions.",
+      "Propose a new definition for global grounding systems, revising the existing standards.",
+      "Identify the safety zone of influence and the intrinsically safe condition of a single grounding system and a global grounding system."
+    ],
+    "methods": [
+      "Characterize grounding systems and define their safety conditions.",
+      "Revise and propose a new definition for global grounding systems based on the introduced characterization.",
+      "Identify the safety zone of influence and the intrinsically safe condition using a safety criterion."
+    ],
+    "results": [
+      "Provide a clear characterization of grounding systems and their safety conditions.",
+      "Offer a revised and more comprehensive definition for global grounding systems.",
+      "Enable identification of the safety zone of influence and the intrinsically safe condition of grounding systems."
+    ],
+    "research_subject": "Characterization and safety of grounding systems and global grounding systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current grounding system standards and definitions may not adequately ensure permanent safety against touch and step voltages during ground faults.",
+      "There is a need for improved safety criteria for grounding systems in urban and industrial areas with reduced accessibility."
+    ],
+    "objectives": [
+      "Characterize grounding systems and establish definitions for 'conventionally safe' and 'intrinsically safe' conditions.",
+      "Propose a revised definition of global grounding systems that improves upon existing standards IEC 61936-1/EN 50522.",
+      "Develop a safety criterion to identify safety zones of influence for grounding systems in areas with limited accessibility."
+    ],
+    "methods": [
+      "Develop theoretical characterizations and definitions for different safety conditions of grounding systems.",
+      "Formulate a new safety criterion applicable to urban and industrial environments.",
+      "Analyze interconnected grounding systems to establish conditions for intrinsic safety in global grounding systems."
+    ],
+    "results": [
+      "Established clear definitions distinguishing between conventionally safe and intrinsically safe grounding systems.",
+      "Provided a revised framework for global grounding systems that enhances safety standards.",
+      "Enabled identification of safety zones and intrinsically safe conditions for both individual and interconnected grounding systems."
+    ],
+    "research_subject": "Safety characterization and standards for grounding systems and global grounding systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Existing grounding systems may not guarantee permanently permissible touch/step voltages for assigned ground fault values, posing safety risks.\",\n    \"Current standards for global grounding systems may be inadequate or outdated, requiring revision for improved safety.\"\n  ],\n  \"objectives\": [\n    \"Characterize and define the conditions for 'conventionally safe' and 'intrinsically safe' grounding systems.\",\n    \"Propose a revised definition of global grounding systems (GGSs) for enhanced safety.\",\n    \"Establish a safety criterion for identifying the safety zone of influence and ensuring the intrinsically safe condition of grounding systems.\"\n  ],\n  \"methods\": [\n    \"Develop a new definition of global grounding systems, revising existing standards such as IEC 61936-1/EN 50522.\",\n    \"Introduce a safety criterion for evaluating the safety of grounding systems, particularly in urban and industrial areas with reduced accessibility.\"\n  ],\n  \"results\": [\n    \"Ensure permanently permissible touch/step voltages for assigned ground fault values, enhancing the safety of grounding systems.\",\n    \"Provide a revised framework for designing and evaluating global grounding systems, promoting improved safety in urban and industrial areas.\"\n  ],\n  \"research_subject\": \"Intrinsically safe grounding systems and global grounding systems for enhanced safety\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a clear characterization of grounding systems and their safety conditions.\",\n    \"Existing definitions and standards for global grounding systems may not be comprehensive or accurate.\"\n  ],\n  \"objectives\": [\n    \"Introduce a characterization of grounding systems and define their 'conventionally safe' and 'intrinsically safe' conditions.\",\n    \"Propose a new definition for global grounding systems, revising the existing standards.\",\n    \"Identify the safety zone of influence and the intrinsically safe condition of a single grounding system and a global grounding system.\"\n  ],\n  \"methods\": [\n    \"Characterize grounding systems and define their safety conditions.\",\n    \"Revise and propose a new definition for global grounding systems based on the introduced characterization.\",\n    \"Identify the safety zone of influence and the intrinsically safe condition using a safety criterion.\"\n  ],\n  \"results\": [\n    \"Provide a clear characterization of grounding systems and their safety conditions.\",\n    \"Offer a revised and more comprehensive definition for global grounding systems.\",\n    \"Enable identification of the safety zone of influence and the intrinsically safe condition of grounding systems.\"\n  ],\n  \"research_subject\": \"Characterization and safety of grounding systems and global grounding systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current grounding system standards and definitions may not adequately ensure permanent safety against touch and step voltages during ground faults.\",\n    \"There is a need for improved safety criteria for grounding systems in urban and industrial areas with reduced accessibility.\"\n  ],\n  \"objectives\": [\n    \"Characterize grounding systems and establish definitions for 'conventionally safe' and 'intrinsically safe' conditions.\",\n    \"Propose a revised definition of global grounding systems that improves upon existing standards IEC 61936-1/EN 50522.\",\n    \"Develop a safety criterion to identify safety zones of influence for grounding systems in areas with limited accessibility.\"\n  ],\n  \"methods\": [\n    \"Develop theoretical characterizations and definitions for different safety conditions of grounding systems.\",\n    \"Formulate a new safety criterion applicable to urban and industrial environments.\",\n    \"Analyze interconnected grounding systems to establish conditions for intrinsic safety in global grounding systems.\"\n  ],\n  \"results\": [\n    \"Established clear definitions distinguishing between conventionally safe and intrinsically safe grounding systems.\",\n    \"Provided a revised framework for global grounding systems that enhances safety standards.\",\n    \"Enabled identification of safety zones and intrinsically safe conditions for both individual and interconnected grounding systems.\"\n  ],\n  \"research_subject\": \"Safety characterization and standards for grounding systems and global grounding systems\"\n}\n```"
+}

@@ -1,0 +1,67 @@
+{
+  "index": 85,
+  "title": "Malleable surgical retractor for complete exposure of mitral valve",
+  "abstract": "Heart valves play a key role in the way blood flow, opening and closing with each heartbeat. Almost all interventions in cardiac surgery are performed to repair or replace the mitral, aortic or tricuspid valve. In specific case of mitral valve surgery, good exposure of mitral valve and its ring is essential for the surgeon Conventional mitral valve surgery is performed opening the sternum (20-25cm) with a retractor and then surgical operation is carried out. The use of minimally invasive (MIS) surgery allows decrease of recovery time, decrease of surgical trauma, reduction of pain improving patient satisfaction and reducing hospital resource utilization. All this advantages, make that nowadays half of mitral surgery operations are made in developed countries following MIS techniques. Main drawback of MIS surgery is that operation areas exposure is limited which makes surgeons work harder than doing it in open surgery. Better exposure translates into better surgical results, optimal stability of the surgery and optimal long-time clinical results. In Minimall invasive mitral surgery, only an anterior traction retractor is used but the exposure that allows to the surgeon is limited. Due to aging of population and development of emerging countries, mitral valve surgical procedures are growing market worldwide expecting to double its actual size for 2030. In this scenario, ANSABERE in collaboration with Dr. Anas Sarraj (surgeon of Hospital La Princesa in Madrid and associate professor of Autonomous University of Madrid) has developed an innovative device for both mitral conventional and MIS surgery, called SALAS, that provide better and complete exposition of the mitral valve and its ring from inside the left atrium. The instrument allows to surgeon to adjust and adapt the working area due to the use of the lateral flap and the malleability of the arms of the invention.",
+  "llama_json": {
+    "motivations": [
+      "Conventional mitral valve surgery requires a large incision and has limitations in terms of exposure, leading to increased surgical trauma and recovery time.",
+      "Minimally invasive surgery (MIS) for mitral valve repair has limited exposure, making it challenging for surgeons to achieve optimal results.",
+      "There is a growing need for improved surgical tools and techniques to address the increasing demand for mitral valve surgical procedures."
+    ],
+    "objectives": [
+      "Develop an innovative device that provides better and complete exposure of the mitral valve and its ring for both conventional and MIS surgery.",
+      "Improve surgical results, stability, and long-term clinical outcomes for mitral valve repair and replacement procedures."
+    ],
+    "methods": [
+      "Design and develop a malleable surgical retractor, called SALAS, that allows for adjustable and adaptable exposure of the mitral valve and its ring.",
+      "Collaborate with medical professionals to test and refine the device for use in both conventional and MIS surgery."
+    ],
+    "results": [
+      "Enhance surgical exposure and accessibility for mitral valve repair and replacement procedures.",
+      "Improve surgical outcomes, reduce recovery time, and decrease surgical trauma for patients undergoing mitral valve surgery.",
+      "Address the growing demand for mitral valve surgical procedures with a innovative and effective solution."
+    ],
+    "research_subject": "Development of a malleable surgical retractor for improved exposure in mitral valve surgery"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current surgical procedures for mitral valve surgery, including minimally invasive surgery (MIS), often provide limited exposure of the operation area, making the surgeon's work more difficult and potentially affecting surgical outcomes.",
+      "There is a growing demand for mitral valve surgical procedures due to aging populations and development in emerging countries, necessitating improved surgical tools."
+    ],
+    "objectives": [
+      "Develop an innovative surgical device, SALAS, that provides better and complete exposure of the mitral valve and its ring during both conventional and MIS surgery.",
+      "Enable surgeons to adjust and adapt the working area during surgery through the malleability of the device's arms and the use of a lateral flap."
+    ],
+    "methods": [
+      "Design and develop the SALAS device in collaboration with Dr. Anas Sarraj, a surgeon at Hospital La Princesa in Madrid.",
+      "Incorporate malleable arms and a lateral flap into the device to allow for adjustment and adaptation of the working area during surgery."
+    ],
+    "results": [
+      "Improved exposure of the mitral valve and its ring during surgery, potentially leading to better surgical outcomes and optimal long-term clinical results.",
+      "Increased ease and efficiency for surgeons during mitral valve surgical procedures."
+    ],
+    "research_subject": "Development of a malleable surgical retractor for improved exposure during mitral valve surgery"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Minimally invasive mitral valve surgery offers significant patient benefits but is limited by poor surgical exposure, making operations more challenging for surgeons.",
+      "The growing global demand for mitral valve surgical procedures due to aging populations requires improved surgical tools to enhance outcomes."
+    ],
+    "objectives": [
+      "Develop an innovative surgical retractor that provides complete exposure of the mitral valve and its ring during both conventional and minimally invasive surgery.",
+      "Improve surgical outcomes and stability through better visualization and access to the operative field."
+    ],
+    "methods": [
+      "Design a malleable surgical retractor with adjustable lateral flaps and flexible arms that can adapt to different surgical approaches.",
+      "Collaborate between ANSABERE and clinical experts to develop a device that works from inside the left atrium."
+    ],
+    "results": [
+      "The SALAS device enables surgeons to achieve better and complete exposure of the mitral valve during surgery.",
+      "Enhanced surgical visibility and adaptability are expected to improve surgical outcomes and long-term clinical results."
+    ],
+    "research_subject": "Development of a malleable surgical retractor for improved mitral valve exposure"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Conventional mitral valve surgery requires a large incision and has limitations in terms of exposure, leading to increased surgical trauma and recovery time.\",\n    \"Minimally invasive surgery (MIS) for mitral valve repair has limited exposure, making it challenging for surgeons to achieve optimal results.\",\n    \"There is a growing need for improved surgical tools and techniques to address the increasing demand for mitral valve surgical procedures.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative device that provides better and complete exposure of the mitral valve and its ring for both conventional and MIS surgery.\",\n    \"Improve surgical results, stability, and long-term clinical outcomes for mitral valve repair and replacement procedures.\"\n  ],\n  \"methods\": [\n    \"Design and develop a malleable surgical retractor, called SALAS, that allows for adjustable and adaptable exposure of the mitral valve and its ring.\",\n    \"Collaborate with medical professionals to test and refine the device for use in both conventional and MIS surgery.\"\n  ],\n  \"results\": [\n    \"Enhance surgical exposure and accessibility for mitral valve repair and replacement procedures.\",\n    \"Improve surgical outcomes, reduce recovery time, and decrease surgical trauma for patients undergoing mitral valve surgery.\",\n    \"Address the growing demand for mitral valve surgical procedures with a innovative and effective solution.\"\n  ],\n  \"research_subject\": \"Development of a malleable surgical retractor for improved exposure in mitral valve surgery\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current surgical procedures for mitral valve surgery, including minimally invasive surgery (MIS), often provide limited exposure of the operation area, making the surgeon's work more difficult and potentially affecting surgical outcomes.\",\n    \"There is a growing demand for mitral valve surgical procedures due to aging populations and development in emerging countries, necessitating improved surgical tools.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative surgical device, SALAS, that provides better and complete exposure of the mitral valve and its ring during both conventional and MIS surgery.\",\n    \"Enable surgeons to adjust and adapt the working area during surgery through the malleability of the device's arms and the use of a lateral flap.\"\n  ],\n  \"methods\": [\n    \"Design and develop the SALAS device in collaboration with Dr. Anas Sarraj, a surgeon at Hospital La Princesa in Madrid.\",\n    \"Incorporate malleable arms and a lateral flap into the device to allow for adjustment and adaptation of the working area during surgery.\"\n  ],\n  \"results\": [\n    \"Improved exposure of the mitral valve and its ring during surgery, potentially leading to better surgical outcomes and optimal long-term clinical results.\",\n    \"Increased ease and efficiency for surgeons during mitral valve surgical procedures.\"\n  ],\n  \"research_subject\": \"Development of a malleable surgical retractor for improved exposure during mitral valve surgery\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Minimally invasive mitral valve surgery offers significant patient benefits but is limited by poor surgical exposure, making operations more challenging for surgeons.\",\n    \"The growing global demand for mitral valve surgical procedures due to aging populations requires improved surgical tools to enhance outcomes.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative surgical retractor that provides complete exposure of the mitral valve and its ring during both conventional and minimally invasive surgery.\",\n    \"Improve surgical outcomes and stability through better visualization and access to the operative field.\"\n  ],\n  \"methods\": [\n    \"Design a malleable surgical retractor with adjustable lateral flaps and flexible arms that can adapt to different surgical approaches.\",\n    \"Collaborate between ANSABERE and clinical experts to develop a device that works from inside the left atrium.\"\n  ],\n  \"results\": [\n    \"The SALAS device enables surgeons to achieve better and complete exposure of the mitral valve during surgery.\",\n    \"Enhanced surgical visibility and adaptability are expected to improve surgical outcomes and long-term clinical results.\"\n  ],\n  \"research_subject\": \"Development of a malleable surgical retractor for improved mitral valve exposure\"\n}\n```"
+}

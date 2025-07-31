@@ -1,0 +1,76 @@
+{
+  "index": 261,
+  "title": "INNOVATIVE SOCIAL ENTERPRISE DEVELOPMENT NETWORK",
+  "abstract": "The ISEDE -NET concept was conceived within a TCA dissemination conference on Social Entrepreneurship (SE) financed through the EQUAL C.I. in October 2007. It is a link between 2 Programming periods of SF, capitalizing results of 2000-2006 along as new experimentations to be undertaken by the project, and projecting them into the 2007-2013 period. Moreover ISEDE-NET is planned in a period of financial turmoil, when real economy based on innovation, sustainability, inclusion is expected to have a renewed role. The global objective of ISEDE-NET is to support the development of SE across the SEES, contributing to social and economic cohesion. Specific objectives are: 1) identify driving forces for SE development; 2) mobilize a transnational network of SE and promote participation to ISEDE-NET social network; 3) implement pilot innovative actions (finance, business support services, market development); 4) promote innovation and new SE creation; 5) commit stakeholders to SE development 6) providing a chance for social inclusion of disadvantaged groups. 5 thematic WPs are delivered: WP3: Research on SE; WP4: Establishment of the ISEDE?NET Portal; WP5: Development of an innovative financial tool; WP6: Development of business support services; WP7: Development of market niches. Main expected outputs: 8 national research studies on SE; ISEDE-NET social network populated by min. 400 SE; n. 1 feasibility study for innovative financial tool, informative and training material in 8 languages and online local help-desks, n. min. 4 feasibility studies on new potential market niches. Main expected results are: 1) better knowledge about driving forces of SE at PP and stakeholder level; 2) permanent transnational public-private network committed to the development of SE; 3) permanent transnational network of SE with increased business capacities and improved road to market; 4) implementation of pilot actions for the development of SE sector.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to support the development of social entrepreneurship across South Eastern European countries to contribute to social and economic cohesion.",
+      "The current financial turmoil highlights the importance of innovation, sustainability, and inclusion in the real economy."
+    ],
+    "objectives": [
+      "Identify driving forces for social entrepreneurship development and mobilize a transnational network of social enterprises.",
+      "Implement pilot innovative actions to support social entrepreneurship, such as finance, business support services, and market development.",
+      "Promote innovation, new social enterprise creation, and social inclusion of disadvantaged groups."
+    ],
+    "methods": [
+      "Conduct research on social entrepreneurship and establish a portal for the ISEDE-NET social network.",
+      "Develop innovative financial tools, business support services, and market niches for social enterprises.",
+      "Deliver thematic work packages, including research, portal establishment, and development of financial tools and business support services."
+    ],
+    "results": [
+      "Improved knowledge about driving forces of social entrepreneurship among policymakers and stakeholders.",
+      "Establishment of a permanent transnational public-private network committed to social entrepreneurship development.",
+      "Increased business capacities and improved market access for social enterprises."
+    ],
+    "research_subject": "Development of social entrepreneurship across South Eastern European countries"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need to support the development of Social Entrepreneurship (SE) across the South East Europe Space (SEES) for social and economic cohesion.",
+      "The desire to identify driving forces for SE development and mobilize a transnational network of SE.",
+      "The requirement to implement innovative actions for finance, business support services, and market development in the SE sector."
+    ],
+    "objectives": [
+      "Identify driving forces for SE development and mobilize a transnational network of SE.",
+      "Implement pilot innovative actions in finance, business support services, and market development.",
+      "Promote innovation and new SE creation, and commit stakeholders to SE development."
+    ],
+    "methods": [
+      "Conduct research on SE and establish the ISEDE-NET Portal.",
+      "Develop an innovative financial tool and business support services.",
+      "Identify and develop market niches for SE."
+    ],
+    "results": [
+      "Better knowledge about driving forces of SE at project partner and stakeholder level.",
+      "Establishment of a permanent transnational public-private network committed to the development of SE.",
+      "Creation of a permanent transnational network of SE with increased business capacities and improved road to market."
+    ],
+    "research_subject": "Development of Social Entrepreneurship across the South East Europe Space"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Social enterprises face challenges in accessing finance, business support services, and market opportunities, limiting their development and impact on social and economic cohesion.",
+      "There is a need to capitalize on previous social entrepreneurship initiatives and bridge programming periods to ensure continuity and innovation in the sector.",
+      "The financial crisis has created an urgent need for sustainable, inclusive economic models that can provide opportunities for disadvantaged groups."
+    ],
+    "objectives": [
+      "Identify driving forces for social enterprise development and mobilize a transnational network of social enterprises across Southeast European countries.",
+      "Implement pilot innovative actions in finance, business support services, and market development to strengthen the social enterprise sector.",
+      "Promote innovation, new social enterprise creation, and stakeholder commitment while providing social inclusion opportunities for disadvantaged groups."
+    ],
+    "methods": [
+      "Conduct national research studies on social entrepreneurship across participating countries.",
+      "Establish an online portal and social network to connect social enterprises and provide business support services.",
+      "Develop feasibility studies for innovative financial tools and identify new market niches for social enterprises."
+    ],
+    "results": [
+      "Enhanced knowledge about social enterprise driving forces and establishment of a permanent transnational network of social enterprises with improved business capacities.",
+      "Creation of innovative financial tools, business support services, and market opportunities for social enterprises.",
+      "Increased social and economic cohesion through the development of the social enterprise sector and inclusion of disadvantaged groups."
+    ],
+    "research_subject": "Development of social enterprises through transnational networking and innovative support mechanisms"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to support the development of social entrepreneurship across South Eastern European countries to contribute to social and economic cohesion.\",\n    \"The current financial turmoil highlights the importance of innovation, sustainability, and inclusion in the real economy.\"\n  ],\n  \"objectives\": [\n    \"Identify driving forces for social entrepreneurship development and mobilize a transnational network of social enterprises.\",\n    \"Implement pilot innovative actions to support social entrepreneurship, such as finance, business support services, and market development.\",\n    \"Promote innovation, new social enterprise creation, and social inclusion of disadvantaged groups.\"\n  ],\n  \"methods\": [\n    \"Conduct research on social entrepreneurship and establish a portal for the ISEDE-NET social network.\",\n    \"Develop innovative financial tools, business support services, and market niches for social enterprises.\",\n    \"Deliver thematic work packages, including research, portal establishment, and development of financial tools and business support services.\"\n  ],\n  \"results\": [\n    \"Improved knowledge about driving forces of social entrepreneurship among policymakers and stakeholders.\",\n    \"Establishment of a permanent transnational public-private network committed to social entrepreneurship development.\",\n    \"Increased business capacities and improved market access for social enterprises.\"\n  ],\n  \"research_subject\": \"Development of social entrepreneurship across South Eastern European countries\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need to support the development of Social Entrepreneurship (SE) across the South East Europe Space (SEES) for social and economic cohesion.\",\n    \"The desire to identify driving forces for SE development and mobilize a transnational network of SE.\",\n    \"The requirement to implement innovative actions for finance, business support services, and market development in the SE sector.\"\n  ],\n  \"objectives\": [\n    \"Identify driving forces for SE development and mobilize a transnational network of SE.\",\n    \"Implement pilot innovative actions in finance, business support services, and market development.\",\n    \"Promote innovation and new SE creation, and commit stakeholders to SE development.\"\n  ],\n  \"methods\": [\n    \"Conduct research on SE and establish the ISEDE-NET Portal.\",\n    \"Develop an innovative financial tool and business support services.\",\n    \"Identify and develop market niches for SE.\"\n  ],\n  \"results\": [\n    \"Better knowledge about driving forces of SE at project partner and stakeholder level.\",\n    \"Establishment of a permanent transnational public-private network committed to the development of SE.\",\n    \"Creation of a permanent transnational network of SE with increased business capacities and improved road to market.\"\n  ],\n  \"research_subject\": \"Development of Social Entrepreneurship across the South East Europe Space\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Social enterprises face challenges in accessing finance, business support services, and market opportunities, limiting their development and impact on social and economic cohesion.\",\n    \"There is a need to capitalize on previous social entrepreneurship initiatives and bridge programming periods to ensure continuity and innovation in the sector.\",\n    \"The financial crisis has created an urgent need for sustainable, inclusive economic models that can provide opportunities for disadvantaged groups.\"\n  ],\n  \"objectives\": [\n    \"Identify driving forces for social enterprise development and mobilize a transnational network of social enterprises across Southeast European countries.\",\n    \"Implement pilot innovative actions in finance, business support services, and market development to strengthen the social enterprise sector.\",\n    \"Promote innovation, new social enterprise creation, and stakeholder commitment while providing social inclusion opportunities for disadvantaged groups.\"\n  ],\n  \"methods\": [\n    \"Conduct national research studies on social entrepreneurship across participating countries.\",\n    \"Establish an online portal and social network to connect social enterprises and provide business support services.\",\n    \"Develop feasibility studies for innovative financial tools and identify new market niches for social enterprises.\"\n  ],\n  \"results\": [\n    \"Enhanced knowledge about social enterprise driving forces and establishment of a permanent transnational network of social enterprises with improved business capacities.\",\n    \"Creation of innovative financial tools, business support services, and market opportunities for social enterprises.\",\n    \"Increased social and economic cohesion through the development of the social enterprise sector and inclusion of disadvantaged groups.\"\n  ],\n  \"research_subject\": \"Development of social enterprises through transnational networking and innovative support mechanisms\"\n}\n```"
+}

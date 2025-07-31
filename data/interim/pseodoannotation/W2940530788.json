@@ -1,0 +1,69 @@
+{
+  "index": 494,
+  "title": "Ground Pressure Damage Evolution Mechanism of Extraction Level Excavations Induced by Poor Undercutting in Block Caving Method",
+  "abstract": "Under the condition of bad undercutting, ore pillars are easily left in undercut level in block caving method. In order to reveal the evolution mechanism of ground pressure damage induced by bad undercutting, according to the actual engineering and physical parameters of the mine, a numerical simulation model was established by finite difference software FLAC3D. In the simulation process, the extraction level excavations were excavated first according to the post-undercutting method, and the process of the undercutting were divided into three steps. In the first step, a pillar of 15 m × 5 m was formed. The stress state of extraction level excavations and overlying ore body after each step was monitored and analyzed separately, and it was compared with the actual situation of ground pressure disaster on site. The results show that: Under the influence of high horizontal in situ stress, with the development of undercutting, the special stress state in the extraction level excavations are gradually formed, which is that the compressive stress concentrates on the upper part and the tensile stress concentrates on the lower part. With the development of undercutting, the remaining ore pillar form a certain range of tension stress release area above the undercut level, which makes it difficult for overlying ore and rock to cave in, thus causing the phenomenon of “less ore and no ore” in the draw bells.",
+  "llama_json": {
+    "motivations": [
+      "Poor undercutting in block caving method can lead to ore pillars being left in the undercut level, causing ground pressure damage.",
+      "There is a need to understand the evolution mechanism of ground pressure damage induced by bad undercutting to mitigate its effects."
+    ],
+    "objectives": [
+      "Reveal the evolution mechanism of ground pressure damage induced by bad undercutting in block caving method.",
+      "Analyze the stress state of extraction level excavations and overlying ore body under the influence of poor undercutting."
+    ],
+    "methods": [
+      "Establish a numerical simulation model using finite difference software FLAC3D to simulate the extraction level excavations and undercutting process.",
+      "Monitor and analyze the stress state of extraction level excavations and overlying ore body after each step of the undercutting process."
+    ],
+    "results": [
+      "The compressive stress concentrates on the upper part and the tensile stress concentrates on the lower part of the extraction level excavations under the influence of high horizontal in situ stress.",
+      "The remaining ore pillar forms a tension stress release area above the undercut level, making it difficult for overlying ore and rock to cave in.",
+      "The phenomenon of 'less ore and no ore' in the draw bells is caused by the special stress state formed in the extraction level excavations."
+    ],
+    "research_subject": "Ground pressure damage evolution mechanism in block caving method due to poor undercutting"
+  },
+  "openai_json": {
+    "motivations": [
+      "In block caving mining methods, poor undercutting often results in leftover ore pillars, which can lead to ground pressure damage.",
+      "There is a need to understand the evolution mechanism of this ground pressure damage induced by poor undercutting."
+    ],
+    "objectives": [
+      "Reveal the evolution mechanism of ground pressure damage induced by bad undercutting in block caving mining.",
+      "Monitor and analyze the stress state of extraction level excavations and overlying ore body after each step of undercutting."
+    ],
+    "methods": [
+      "Establish a numerical simulation model using finite difference software FLAC3D, based on actual engineering and physical parameters of the mine.",
+      "Excavate extraction level excavations first according to the post-undercutting method, and divide the undercutting process into three steps.",
+      "Monitor and analyze the stress state after each step and compare it with the actual situation of ground pressure disaster on site."
+    ],
+    "results": [
+      "Under high horizontal in situ stress, a special stress state in the extraction level excavations is gradually formed with the development of undercutting.",
+      "The remaining ore pillar forms a certain range of tension stress release area above the undercut level, making it difficult for overlying ore and rock to cave in, thus causing the phenomenon of 'less ore and no ore' in the draw bells."
+    ],
+    "research_subject": "Ground pressure damage evolution mechanism in block caving mining induced by poor undercutting"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Poor undercutting in block caving mining leads to ore pillars remaining in the undercut level, causing ground pressure damage and operational challenges.",
+      "The evolution mechanism of ground pressure damage induced by bad undercutting in block caving method is not well understood."
+    ],
+    "objectives": [
+      "Reveal the evolution mechanism of ground pressure damage in extraction level excavations caused by poor undercutting in block caving mining.",
+      "Analyze the stress state changes in extraction level excavations and overlying ore body during the undercutting process."
+    ],
+    "methods": [
+      "Establish a numerical simulation model using finite difference software FLAC3D based on actual mine engineering and physical parameters.",
+      "Simulate the post-undercutting excavation process in three steps and monitor stress state changes at each stage.",
+      "Compare simulation results with actual ground pressure disaster conditions observed on site."
+    ],
+    "results": [
+      "High horizontal in situ stress causes compressive stress concentration in the upper part and tensile stress concentration in the lower part of extraction level excavations.",
+      "Remaining ore pillars create tension stress release areas above the undercut level, preventing proper caving of overlying ore and rock.",
+      "The stress evolution mechanism explains the phenomenon of reduced or absent ore flow in draw bells."
+    ],
+    "research_subject": "Ground pressure damage evolution in block caving mining due to poor undercutting"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Poor undercutting in block caving method can lead to ore pillars being left in the undercut level, causing ground pressure damage.\",\n    \"There is a need to understand the evolution mechanism of ground pressure damage induced by bad undercutting to mitigate its effects.\"\n  ],\n  \"objectives\": [\n    \"Reveal the evolution mechanism of ground pressure damage induced by bad undercutting in block caving method.\",\n    \"Analyze the stress state of extraction level excavations and overlying ore body under the influence of poor undercutting.\"\n  ],\n  \"methods\": [\n    \"Establish a numerical simulation model using finite difference software FLAC3D to simulate the extraction level excavations and undercutting process.\",\n    \"Monitor and analyze the stress state of extraction level excavations and overlying ore body after each step of the undercutting process.\"\n  ],\n  \"results\": [\n    \"The compressive stress concentrates on the upper part and the tensile stress concentrates on the lower part of the extraction level excavations under the influence of high horizontal in situ stress.\",\n    \"The remaining ore pillar forms a tension stress release area above the undercut level, making it difficult for overlying ore and rock to cave in.\",\n    \"The phenomenon of 'less ore and no ore' in the draw bells is caused by the special stress state formed in the extraction level excavations.\"\n  ],\n  \"research_subject\": \"Ground pressure damage evolution mechanism in block caving method due to poor undercutting\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"In block caving mining methods, poor undercutting often results in leftover ore pillars, which can lead to ground pressure damage.\",\n    \"There is a need to understand the evolution mechanism of this ground pressure damage induced by poor undercutting.\"\n  ],\n  \"objectives\": [\n    \"Reveal the evolution mechanism of ground pressure damage induced by bad undercutting in block caving mining.\",\n    \"Monitor and analyze the stress state of extraction level excavations and overlying ore body after each step of undercutting.\"\n  ],\n  \"methods\": [\n    \"Establish a numerical simulation model using finite difference software FLAC3D, based on actual engineering and physical parameters of the mine.\",\n    \"Excavate extraction level excavations first according to the post-undercutting method, and divide the undercutting process into three steps.\",\n    \"Monitor and analyze the stress state after each step and compare it with the actual situation of ground pressure disaster on site.\"\n  ],\n  \"results\": [\n    \"Under high horizontal in situ stress, a special stress state in the extraction level excavations is gradually formed with the development of undercutting.\",\n    \"The remaining ore pillar forms a certain range of tension stress release area above the undercut level, making it difficult for overlying ore and rock to cave in, thus causing the phenomenon of 'less ore and no ore' in the draw bells.\"\n  ],\n  \"research_subject\": \"Ground pressure damage evolution mechanism in block caving mining induced by poor undercutting\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Poor undercutting in block caving mining leads to ore pillars remaining in the undercut level, causing ground pressure damage and operational challenges.\",\n    \"The evolution mechanism of ground pressure damage induced by bad undercutting in block caving method is not well understood.\"\n  ],\n  \"objectives\": [\n    \"Reveal the evolution mechanism of ground pressure damage in extraction level excavations caused by poor undercutting in block caving mining.\",\n    \"Analyze the stress state changes in extraction level excavations and overlying ore body during the undercutting process.\"\n  ],\n  \"methods\": [\n    \"Establish a numerical simulation model using finite difference software FLAC3D based on actual mine engineering and physical parameters.\",\n    \"Simulate the post-undercutting excavation process in three steps and monitor stress state changes at each stage.\",\n    \"Compare simulation results with actual ground pressure disaster conditions observed on site.\"\n  ],\n  \"results\": [\n    \"High horizontal in situ stress causes compressive stress concentration in the upper part and tensile stress concentration in the lower part of extraction level excavations.\",\n    \"Remaining ore pillars create tension stress release areas above the undercut level, preventing proper caving of overlying ore and rock.\",\n    \"The stress evolution mechanism explains the phenomenon of reduced or absent ore flow in draw bells.\"\n  ],\n  \"research_subject\": \"Ground pressure damage evolution in block caving mining due to poor undercutting\"\n}\n```"
+}

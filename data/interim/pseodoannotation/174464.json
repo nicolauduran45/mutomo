@@ -1,0 +1,74 @@
+{
+  "index": 329,
+  "title": "Solution processed low-dimensional oxide semiconducting structures and devices",
+  "abstract": "Progress in thin-film transistor (TFTs) over the past 40 years has been based primarily on the development/processing of new materials and on implementation of innovative device architectures together with new material combinations. The SUPERSOL project is a highly multidisciplinary research effort that aims to develop the next generation TFT technology based primarily on solution-processable low-dimensional (ultra-thin) metal oxide structures. The most important aspects of the technology include; (i) the potential for low-cost and scalable manufacturing, and (ii) performance characteristics well beyond the current state-of-the-art. To achieve these objectives I will develop low-dimensional metal oxide superlattices (SLs) comprised of sequentially deposited (via solution methods) dissimilar ultra-thin metal oxide layers. Device fabrication will be performed solely from solution methods such as spin casting, dip-coating and ultrasonic spray pyrolysis at plastic-compatible temperatures (100-200°C). By exploring the charge transport phenomena occurring at the critical 2DEG interfaces, I will be able to develop transistors with carrier mobility well beyond incumbent technologies (i.e. poly-Si TFTs with carrier mobility ~70 cm2/Vs). The first part of the project I will investigate the critical conditions that determine the formation of 2DEG systems within the oxide SLs. Best performing oxide SLs will then be used for the fabrication of TFTs on arbitrary substrates including plastic. This work will form the basis for the second part of the project which will focus solely on the development of technologically relevant devices including: memristors and novel quantum devices by manipulating at will the nature of the 2DEG formed within these simple to manufacture oxide SL based devices. Evaluation of the technology reliability/manufacturability and potential for scale-up will be performed in collaboration with the Holst Centre during the agreed secondment periods.",
+  "llama_json": {
+    "motivations": [
+      "Current thin-film transistor (TFT) technology has limitations in terms of performance and manufacturing costs.",
+      "There is a need for new materials and device architectures to advance TFT technology beyond the current state-of-the-art."
+    ],
+    "objectives": [
+      "Develop low-dimensional metal oxide superlattices (SLs) using solution-processable methods for next-generation TFT technology.",
+      "Achieve performance characteristics beyond the current state-of-the-art, including high carrier mobility.",
+      "Demonstrate the potential for low-cost and scalable manufacturing of the developed technology."
+    ],
+    "methods": [
+      "Use solution methods such as spin casting, dip-coating, and ultrasonic spray pyrolysis to deposit ultra-thin metal oxide layers.",
+      "Investigate charge transport phenomena at 2DEG interfaces to optimize device performance.",
+      "Fabricate TFTs on arbitrary substrates, including plastic, and evaluate their reliability and manufacturability."
+    ],
+    "results": [
+      "Develop transistors with carrier mobility exceeding incumbent technologies.",
+      "Enable the creation of novel devices, including memristors and quantum devices, using the developed oxide SL technology.",
+      "Demonstrate the potential for scalable and low-cost manufacturing of the developed technology."
+    ],
+    "research_subject": "Solution-processed low-dimensional oxide semiconducting structures and devices for next-generation TFT technology"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need for the next generation thin-film transistor (TFT) technology that is low-cost, scalable, and exhibits performance characteristics beyond the current state-of-the-art.",
+      "The desire to explore charge transport phenomena at the critical 2DEG interfaces to develop transistors with superior carrier mobility."
+    ],
+    "objectives": [
+      "Develop low-dimensional metal oxide superlattices (SLs) comprised of sequentially deposited ultra-thin metal oxide layers using solution methods.",
+      "Fabricate TFTs on arbitrary substrates including plastic using the best performing oxide SLs.",
+      "Develop technologically relevant devices such as memristors and novel quantum devices by manipulating the nature of the 2DEG formed within these oxide SL based devices."
+    ],
+    "methods": [
+      "Use solution methods such as spin casting, dip-coating, and ultrasonic spray pyrolysis at plastic-compatible temperatures for device fabrication.",
+      "Explore the charge transport phenomena occurring at the critical 2DEG interfaces.",
+      "Evaluate the technology reliability, manufacturability, and potential for scale-up in collaboration with the Holst Centre."
+    ],
+    "results": [
+      "Achievement of the next generation TFT technology based on solution-processable low-dimensional metal oxide structures.",
+      "Development of transistors with superior carrier mobility by exploring charge transport phenomena at 2DEG interfaces.",
+      "Creation of technologically relevant devices such as memristors and novel quantum devices."
+    ],
+    "research_subject": "Development of low-dimensional oxide semiconducting structures and devices through solution processing"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current thin-film transistor technologies face limitations in performance and manufacturing costs that hinder their widespread adoption.",
+      "There is a need for scalable, low-cost manufacturing methods that can produce high-performance electronic devices on flexible substrates."
+    ],
+    "objectives": [
+      "Develop next-generation thin-film transistor technology using solution-processable low-dimensional metal oxide structures with performance beyond current state-of-the-art.",
+      "Create metal oxide superlattices through sequential deposition of ultra-thin layers to achieve carrier mobility exceeding incumbent technologies.",
+      "Fabricate technologically relevant devices including memristors and quantum devices using the developed oxide superlattice technology."
+    ],
+    "methods": [
+      "Employ solution-based fabrication methods including spin casting, dip-coating, and ultrasonic spray pyrolysis at plastic-compatible temperatures.",
+      "Investigate charge transport phenomena at two-dimensional electron gas interfaces within oxide superlattices.",
+      "Develop and optimize metal oxide superlattice structures through sequential deposition of dissimilar ultra-thin metal oxide layers."
+    ],
+    "results": [
+      "Achievement of transistors with carrier mobility significantly exceeding current poly-Si thin-film transistors.",
+      "Successful fabrication of high-performance electronic devices on arbitrary substrates including plastic using low-cost solution processing.",
+      "Development of novel memristors and quantum devices with enhanced functionality through manipulation of two-dimensional electron gas properties."
+    ],
+    "research_subject": "Solution-processed low-dimensional metal oxide superlattices for next-generation thin-film transistors and electronic devices"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current thin-film transistor (TFT) technology has limitations in terms of performance and manufacturing costs.\",\n    \"There is a need for new materials and device architectures to advance TFT technology beyond the current state-of-the-art.\"\n  ],\n  \"objectives\": [\n    \"Develop low-dimensional metal oxide superlattices (SLs) using solution-processable methods for next-generation TFT technology.\",\n    \"Achieve performance characteristics beyond the current state-of-the-art, including high carrier mobility.\",\n    \"Demonstrate the potential for low-cost and scalable manufacturing of the developed technology.\"\n  ],\n  \"methods\": [\n    \"Use solution methods such as spin casting, dip-coating, and ultrasonic spray pyrolysis to deposit ultra-thin metal oxide layers.\",\n    \"Investigate charge transport phenomena at 2DEG interfaces to optimize device performance.\",\n    \"Fabricate TFTs on arbitrary substrates, including plastic, and evaluate their reliability and manufacturability.\"\n  ],\n  \"results\": [\n    \"Develop transistors with carrier mobility exceeding incumbent technologies.\",\n    \"Enable the creation of novel devices, including memristors and quantum devices, using the developed oxide SL technology.\",\n    \"Demonstrate the potential for scalable and low-cost manufacturing of the developed technology.\"\n  ],\n  \"research_subject\": \"Solution-processed low-dimensional oxide semiconducting structures and devices for next-generation TFT technology\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need for the next generation thin-film transistor (TFT) technology that is low-cost, scalable, and exhibits performance characteristics beyond the current state-of-the-art.\",\n    \"The desire to explore charge transport phenomena at the critical 2DEG interfaces to develop transistors with superior carrier mobility.\"\n  ],\n  \"objectives\": [\n    \"Develop low-dimensional metal oxide superlattices (SLs) comprised of sequentially deposited ultra-thin metal oxide layers using solution methods.\",\n    \"Fabricate TFTs on arbitrary substrates including plastic using the best performing oxide SLs.\",\n    \"Develop technologically relevant devices such as memristors and novel quantum devices by manipulating the nature of the 2DEG formed within these oxide SL based devices.\"\n  ],\n  \"methods\": [\n    \"Use solution methods such as spin casting, dip-coating, and ultrasonic spray pyrolysis at plastic-compatible temperatures for device fabrication.\",\n    \"Explore the charge transport phenomena occurring at the critical 2DEG interfaces.\",\n    \"Evaluate the technology reliability, manufacturability, and potential for scale-up in collaboration with the Holst Centre.\"\n  ],\n  \"results\": [\n    \"Achievement of the next generation TFT technology based on solution-processable low-dimensional metal oxide structures.\",\n    \"Development of transistors with superior carrier mobility by exploring charge transport phenomena at 2DEG interfaces.\",\n    \"Creation of technologically relevant devices such as memristors and novel quantum devices.\"\n  ],\n  \"research_subject\": \"Development of low-dimensional oxide semiconducting structures and devices through solution processing\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current thin-film transistor technologies face limitations in performance and manufacturing costs that hinder their widespread adoption.\",\n    \"There is a need for scalable, low-cost manufacturing methods that can produce high-performance electronic devices on flexible substrates.\"\n  ],\n  \"objectives\": [\n    \"Develop next-generation thin-film transistor technology using solution-processable low-dimensional metal oxide structures with performance beyond current state-of-the-art.\",\n    \"Create metal oxide superlattices through sequential deposition of ultra-thin layers to achieve carrier mobility exceeding incumbent technologies.\",\n    \"Fabricate technologically relevant devices including memristors and quantum devices using the developed oxide superlattice technology.\"\n  ],\n  \"methods\": [\n    \"Employ solution-based fabrication methods including spin casting, dip-coating, and ultrasonic spray pyrolysis at plastic-compatible temperatures.\",\n    \"Investigate charge transport phenomena at two-dimensional electron gas interfaces within oxide superlattices.\",\n    \"Develop and optimize metal oxide superlattice structures through sequential deposition of dissimilar ultra-thin metal oxide layers.\"\n  ],\n  \"results\": [\n    \"Achievement of transistors with carrier mobility significantly exceeding current poly-Si thin-film transistors.\",\n    \"Successful fabrication of high-performance electronic devices on arbitrary substrates including plastic using low-cost solution processing.\",\n    \"Development of novel memristors and quantum devices with enhanced functionality through manipulation of two-dimensional electron gas properties.\"\n  ],\n  \"research_subject\": \"Solution-processed low-dimensional metal oxide superlattices for next-generation thin-film transistors and electronic devices\"\n}\n```"
+}

@@ -1,0 +1,71 @@
+{
+  "index": 278,
+  "title": "Combined Therapy with Cytokine-Induced Killer Cells and Oncolytic Adenovirus Expressing IL-12 Induce Enhanced Antitumor Activity in Liver Tumor Model",
+  "abstract": "Both adoptive immunotherapy and gene therapy hold a great promise for treatment of malignancies. However, these strategies exhibit limited anti-tumor activity, when they are used alone. In this study, we explore whether combination of cytokine-induced killer (CIK) adoptive immunotherapy with oncolytic adenovirus-mediated transfer of human interleukin-12 (hIL-12) gene induce the enhanced antitumor potency. Our results showed that oncolytic adenovirus carrying hIL-12 (AdCN205-IL12) could produce high levels of hIL-12 in liver cancer cells, as compared with replication-defective adenovirus expressing hIL-12 (Ad-IL12). AdCN205-IL12 could specifically induce cytotoxocity to liver cancer cells. Combination of CIK cells with AdCN205-IL12 could induce higher antitumor activity to liver cancer cells in vitro than that induced by either CIK or AdCN205-IL12 alone, or combination of CIK and control vector AdCN205-GFP. Furthermore, treatment of the established liver tumors with the combined therapy of CIK cells and AdCN205-IL12 resulted in tumor regression and long-term survival. High level expression of hIL-12 in tumor tissues could increase traffic of CIK cells to tumor tissues and enhance their antitumor activities. Our study provides a novel strategy for the therapy of cancer by the combination of CIK adoptive immunotherapy with oncolytic adenovirus-mediated transfer of immune stimulatory molecule hIL-12.",
+  "llama_json": {
+    "motivations": [
+      "Current adoptive immunotherapy and gene therapy approaches exhibit limited anti-tumor activity when used alone.",
+      "There is a need for more effective treatments for malignancies, particularly for liver cancer."
+    ],
+    "objectives": [
+      "Investigate the potential of combining cytokine-induced killer (CIK) adoptive immunotherapy with oncolytic adenovirus-mediated transfer of human interleukin-12 (hIL-12) gene to enhance antitumor activity.",
+      "Evaluate the efficacy of this combined therapy in a liver tumor model."
+    ],
+    "methods": [
+      "Use oncolytic adenovirus carrying hIL-12 (AdCN205-IL12) to produce high levels of hIL-12 in liver cancer cells.",
+      "Combine CIK cells with AdCN205-IL12 to induce antitumor activity in liver cancer cells in vitro and in vivo.",
+      "Assess the effects of this combined therapy on tumor regression and long-term survival."
+    ],
+    "results": [
+      "The combined therapy of CIK cells and AdCN205-IL12 induces higher antitumor activity than either treatment alone.",
+      "High-level expression of hIL-12 in tumor tissues increases the traffic of CIK cells to tumor tissues and enhances their antitumor activities.",
+      "This combined therapy results in tumor regression and long-term survival in a liver tumor model."
+    ],
+    "research_subject": "Combination therapy using cytokine-induced killer cells and oncolytic adenovirus expressing IL-12 for enhanced antitumor activity in liver cancer"
+  },
+  "openai_json": {
+    "motivations": [
+      "Adoptive immunotherapy and gene therapy show promise for treating malignancies, but their anti-tumor activity is limited when used alone.",
+      "There is a need to explore combinations of these therapies to enhance anti-tumor potency."
+    ],
+    "objectives": [
+      "Investigate the combined effect of cytokine-induced killer (CIK) adoptive immunotherapy and oncolytic adenovirus-mediated transfer of human interleukin-12 (hIL-12) gene on anti-tumor activity.",
+      "Evaluate the antitumor activity of the combined therapy in a liver cancer model."
+    ],
+    "methods": [
+      "Use an oncolytic adenovirus carrying hIL-12 to produce high levels of hIL-12 in liver cancer cells.",
+      "Combine CIK cells with the oncolytic adenovirus to assess the antitumor activity in vitro and in established liver tumors.",
+      "Analyze the effect of high level expression of hIL-12 in tumor tissues on the traffic of CIK cells and their antitumor activities."
+    ],
+    "results": [
+      "The combination of CIK cells and oncolytic adenovirus carrying hIL-12 induced higher antitumor activity than either treatment alone or the combination of CIK and control vector.",
+      "The combined therapy resulted in tumor regression and long-term survival in a liver tumor model.",
+      "High level expression of hIL-12 in tumor tissues increased the traffic of CIK cells to tumor tissues and enhanced their antitumor activities."
+    ],
+    "research_subject": "Combination of adoptive immunotherapy and gene therapy for enhanced antitumor activity in liver cancer"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Individual cancer therapies such as adoptive immunotherapy and gene therapy show limited anti-tumor activity when used alone.",
+      "There is a need for more effective treatment strategies for liver cancer that can enhance therapeutic outcomes."
+    ],
+    "objectives": [
+      "Investigate whether combining cytokine-induced killer (CIK) cell adoptive immunotherapy with oncolytic adenovirus-mediated IL-12 gene transfer enhances antitumor activity.",
+      "Evaluate the therapeutic efficacy of this combined approach in liver tumor models."
+    ],
+    "methods": [
+      "Develop and utilize oncolytic adenovirus carrying human IL-12 gene (AdCN205-IL12) for targeted gene delivery to liver cancer cells.",
+      "Combine CIK cell therapy with AdCN205-IL12 treatment and assess antitumor effects both in vitro and in vivo.",
+      "Compare the efficacy of combined therapy against individual treatments and control vectors."
+    ],
+    "results": [
+      "Combined CIK and AdCN205-IL12 therapy induced superior antitumor activity compared to either treatment alone, resulting in tumor regression and improved survival.",
+      "High IL-12 expression in tumor tissues enhanced CIK cell trafficking to tumors and amplified their antitumor activities.",
+      "The oncolytic adenovirus produced higher levels of IL-12 in liver cancer cells compared to replication-defective adenovirus."
+    ],
+    "research_subject": "Combined immunotherapy using CIK cells and oncolytic adenovirus expressing IL-12 for liver cancer treatment"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current adoptive immunotherapy and gene therapy approaches exhibit limited anti-tumor activity when used alone.\",\n    \"There is a need for more effective treatments for malignancies, particularly for liver cancer.\"\n  ],\n  \"objectives\": [\n    \"Investigate the potential of combining cytokine-induced killer (CIK) adoptive immunotherapy with oncolytic adenovirus-mediated transfer of human interleukin-12 (hIL-12) gene to enhance antitumor activity.\",\n    \"Evaluate the efficacy of this combined therapy in a liver tumor model.\"\n  ],\n  \"methods\": [\n    \"Use oncolytic adenovirus carrying hIL-12 (AdCN205-IL12) to produce high levels of hIL-12 in liver cancer cells.\",\n    \"Combine CIK cells with AdCN205-IL12 to induce antitumor activity in liver cancer cells in vitro and in vivo.\",\n    \"Assess the effects of this combined therapy on tumor regression and long-term survival.\"\n  ],\n  \"results\": [\n    \"The combined therapy of CIK cells and AdCN205-IL12 induces higher antitumor activity than either treatment alone.\",\n    \"High-level expression of hIL-12 in tumor tissues increases the traffic of CIK cells to tumor tissues and enhances their antitumor activities.\",\n    \"This combined therapy results in tumor regression and long-term survival in a liver tumor model.\"\n  ],\n  \"research_subject\": \"Combination therapy using cytokine-induced killer cells and oncolytic adenovirus expressing IL-12 for enhanced antitumor activity in liver cancer\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Adoptive immunotherapy and gene therapy show promise for treating malignancies, but their anti-tumor activity is limited when used alone.\",\n    \"There is a need to explore combinations of these therapies to enhance anti-tumor potency.\"\n  ],\n  \"objectives\": [\n    \"Investigate the combined effect of cytokine-induced killer (CIK) adoptive immunotherapy and oncolytic adenovirus-mediated transfer of human interleukin-12 (hIL-12) gene on anti-tumor activity.\",\n    \"Evaluate the antitumor activity of the combined therapy in a liver cancer model.\"\n  ],\n  \"methods\": [\n    \"Use an oncolytic adenovirus carrying hIL-12 to produce high levels of hIL-12 in liver cancer cells.\",\n    \"Combine CIK cells with the oncolytic adenovirus to assess the antitumor activity in vitro and in established liver tumors.\",\n    \"Analyze the effect of high level expression of hIL-12 in tumor tissues on the traffic of CIK cells and their antitumor activities.\"\n  ],\n  \"results\": [\n    \"The combination of CIK cells and oncolytic adenovirus carrying hIL-12 induced higher antitumor activity than either treatment alone or the combination of CIK and control vector.\",\n    \"The combined therapy resulted in tumor regression and long-term survival in a liver tumor model.\",\n    \"High level expression of hIL-12 in tumor tissues increased the traffic of CIK cells to tumor tissues and enhanced their antitumor activities.\"\n  ],\n  \"research_subject\": \"Combination of adoptive immunotherapy and gene therapy for enhanced antitumor activity in liver cancer\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Individual cancer therapies such as adoptive immunotherapy and gene therapy show limited anti-tumor activity when used alone.\",\n    \"There is a need for more effective treatment strategies for liver cancer that can enhance therapeutic outcomes.\"\n  ],\n  \"objectives\": [\n    \"Investigate whether combining cytokine-induced killer (CIK) cell adoptive immunotherapy with oncolytic adenovirus-mediated IL-12 gene transfer enhances antitumor activity.\",\n    \"Evaluate the therapeutic efficacy of this combined approach in liver tumor models.\"\n  ],\n  \"methods\": [\n    \"Develop and utilize oncolytic adenovirus carrying human IL-12 gene (AdCN205-IL12) for targeted gene delivery to liver cancer cells.\",\n    \"Combine CIK cell therapy with AdCN205-IL12 treatment and assess antitumor effects both in vitro and in vivo.\",\n    \"Compare the efficacy of combined therapy against individual treatments and control vectors.\"\n  ],\n  \"results\": [\n    \"Combined CIK and AdCN205-IL12 therapy induced superior antitumor activity compared to either treatment alone, resulting in tumor regression and improved survival.\",\n    \"High IL-12 expression in tumor tissues enhanced CIK cell trafficking to tumors and amplified their antitumor activities.\",\n    \"The oncolytic adenovirus produced higher levels of IL-12 in liver cancer cells compared to replication-defective adenovirus.\"\n  ],\n  \"research_subject\": \"Combined immunotherapy using CIK cells and oncolytic adenovirus expressing IL-12 for liver cancer treatment\"\n}\n```"
+}

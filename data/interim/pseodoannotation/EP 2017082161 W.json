@@ -1,0 +1,64 @@
+{
+  "index": 120,
+  "title": "METHOD AND DEVICE FOR TRENCHLESS LAYING OF A CABLE OR PIPE IN THE GROUND",
+  "abstract": "The invention proposes a method and devices that can be used in the method for trenchless laying of a cable (1) in the ground (13), in which method vertical multifunction bores (3) are created along a drilling line (4) in the ground (13), via which in the subsequent performance of controlled horizontal drilling (2) the drilling fluid (11) used is drained away and after a protective pipe (12) is drawn into the horizontal bore (2) binding agents (14) are supplied to anchor the protective pipe (12) in the ground (13), followed by drawing the cable (1) into the protective pipe (12) anchored in the ground (13).",
+  "llama_json": {
+    "motivations": [
+      "Traditional methods of laying cables or pipes in the ground often require trenching, which can be time-consuming, costly, and cause environmental disruption."
+    ],
+    "objectives": [
+      "Develop a method and device for trenchless laying of cables or pipes in the ground, minimizing environmental impact and improving efficiency."
+    ],
+    "methods": [
+      "Create vertical multifunction bores along a drilling line to facilitate controlled horizontal drilling and drainage of drilling fluid.",
+      "Use a protective pipe and binding agents to anchor the pipe in the ground, enabling secure cable installation."
+    ],
+    "results": [
+      "Enable efficient and environmentally friendly installation of cables or pipes without the need for trenching."
+    ],
+    "research_subject": "Trenchless laying of cables or pipes in the ground using multifunction bores and binding agents"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for efficient and effective methods for trenchless laying of cables or pipes in the ground."
+    ],
+    "objectives": [
+      "Propose a method and devices for trenchless laying of a cable in the ground using vertical multifunction bores and controlled horizontal drilling.",
+      "Ensure the protective pipe is securely anchored in the ground before drawing the cable into it."
+    ],
+    "methods": [
+      "Create vertical multifunction bores along a drilling line in the ground.",
+      "Perform controlled horizontal drilling, drain away the used drilling fluid, and draw a protective pipe into the horizontal bore.",
+      "Supply binding agents to anchor the protective pipe in the ground, followed by drawing the cable into the anchored protective pipe."
+    ],
+    "results": [
+      "Enable trenchless laying of a cable or pipe in the ground using the proposed method and devices.",
+      "Ensure the stability and security of the cable or pipe in the ground."
+    ],
+    "research_subject": "Method and device for trenchless laying of a cable or pipe in the ground"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional cable and pipe laying methods require extensive excavation, causing disruption to the surface and surrounding environment.",
+      "There is a need for efficient methods to securely anchor protective pipes in the ground during trenchless installation."
+    ],
+    "objectives": [
+      "Develop a trenchless method for laying cables or pipes in the ground that minimizes surface disruption.",
+      "Create a system that effectively drains drilling fluid and anchors protective pipes using binding agents."
+    ],
+    "methods": [
+      "Create vertical multifunction bores along a drilling line to facilitate horizontal drilling operations.",
+      "Use controlled horizontal drilling with drilling fluid drainage through vertical bores.",
+      "Apply binding agents through the vertical bores to anchor the protective pipe before cable insertion."
+    ],
+    "results": [
+      "Enable trenchless installation of cables and pipes with minimal surface disruption.",
+      "Achieve secure anchoring of protective pipes in the ground through the application of binding agents.",
+      "Provide an efficient method for cable installation that reduces environmental impact and construction time."
+    ],
+    "research_subject": "Trenchless cable and pipe laying technology using multifunction bores and binding agents"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional methods of laying cables or pipes in the ground often require trenching, which can be time-consuming, costly, and cause environmental disruption.\"\n  ],\n  \"objectives\": [\n    \"Develop a method and device for trenchless laying of cables or pipes in the ground, minimizing environmental impact and improving efficiency.\"\n  ],\n  \"methods\": [\n    \"Create vertical multifunction bores along a drilling line to facilitate controlled horizontal drilling and drainage of drilling fluid.\",\n    \"Use a protective pipe and binding agents to anchor the pipe in the ground, enabling secure cable installation.\"\n  ],\n  \"results\": [\n    \"Enable efficient and environmentally friendly installation of cables or pipes without the need for trenching.\"\n  ],\n  \"research_subject\": \"Trenchless laying of cables or pipes in the ground using multifunction bores and binding agents\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient and effective methods for trenchless laying of cables or pipes in the ground.\"\n  ],\n  \"objectives\": [\n    \"Propose a method and devices for trenchless laying of a cable in the ground using vertical multifunction bores and controlled horizontal drilling.\",\n    \"Ensure the protective pipe is securely anchored in the ground before drawing the cable into it.\"\n  ],\n  \"methods\": [\n    \"Create vertical multifunction bores along a drilling line in the ground.\",\n    \"Perform controlled horizontal drilling, drain away the used drilling fluid, and draw a protective pipe into the horizontal bore.\",\n    \"Supply binding agents to anchor the protective pipe in the ground, followed by drawing the cable into the anchored protective pipe.\"\n  ],\n  \"results\": [\n    \"Enable trenchless laying of a cable or pipe in the ground using the proposed method and devices.\",\n    \"Ensure the stability and security of the cable or pipe in the ground.\"\n  ],\n  \"research_subject\": \"Method and device for trenchless laying of a cable or pipe in the ground\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional cable and pipe laying methods require extensive excavation, causing disruption to the surface and surrounding environment.\",\n    \"There is a need for efficient methods to securely anchor protective pipes in the ground during trenchless installation.\"\n  ],\n  \"objectives\": [\n    \"Develop a trenchless method for laying cables or pipes in the ground that minimizes surface disruption.\",\n    \"Create a system that effectively drains drilling fluid and anchors protective pipes using binding agents.\"\n  ],\n  \"methods\": [\n    \"Create vertical multifunction bores along a drilling line to facilitate horizontal drilling operations.\",\n    \"Use controlled horizontal drilling with drilling fluid drainage through vertical bores.\",\n    \"Apply binding agents through the vertical bores to anchor the protective pipe before cable insertion.\"\n  ],\n  \"results\": [\n    \"Enable trenchless installation of cables and pipes with minimal surface disruption.\",\n    \"Achieve secure anchoring of protective pipes in the ground through the application of binding agents.\",\n    \"Provide an efficient method for cable installation that reduces environmental impact and construction time.\"\n  ],\n  \"research_subject\": \"Trenchless cable and pipe laying technology using multifunction bores and binding agents\"\n}\n```"
+}

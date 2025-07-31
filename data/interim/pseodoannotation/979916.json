@@ -1,0 +1,66 @@
+{
+  "index": 191,
+  "title": "How to break mendel’s laws? the role of sexual conflict in the evolution of unusual transmission genetics",
+  "abstract": "Under Mendelian inheritance, individuals receive one set of chromosomes from each of their parents, and transmit one set of these chromosomes at random to their offspring. Yet, in thousands of animals Mendel's laws are broken and the transmission of maternal and paternal alleles lose their symmetry. A large body of theory suggests that these asymmetries might arise because of maternal–paternal genetic conflict, but empirical tests are sorely needed to test whether the plausible is actual. This proposal aims to understand why, when and how the transmission of genes from one generation to the next deviates from Mendel’s laws. We ask how different types of sexual conflict -- both directly between parents (interlocus sexual conflict), indirectly between the parent’s genes within their offspring (intragenomic sexual conflict), and between genes expressed in males and females (intralocus sexual conflict) -- can affect the evolution of non-Mendelian reproduction. We focus on species with extreme reproductive asymmetry known as Paternal Genome Elimination (PGE). PGE males systematically transmit only those chromosomes that they inherited from their mother. This unusual reproductive strategy is thought to originate from a clash of interests between the sexes, where mothers have “won” by monopolizing the parentage of their sons. Although PGE is rarely studied, its repeated evolution and experimental tractability make it an ideal test case for understanding the role of sexual conflict in the evolution of genetic systems.",
+  "llama_json": {
+    "motivations": [
+      "Mendel's laws of inheritance are broken in thousands of animals, resulting in asymmetrical transmission of maternal and paternal alleles.",
+      "There is a need for empirical tests to determine whether maternal-paternal genetic conflict drives the evolution of non-Mendelian reproduction."
+    ],
+    "objectives": [
+      "Understand why, when, and how the transmission of genes from one generation to the next deviates from Mendel's laws.",
+      "Investigate how different types of sexual conflict affect the evolution of non-Mendelian reproduction."
+    ],
+    "methods": [
+      "Study species with extreme reproductive asymmetry, specifically Paternal Genome Elimination (PGE), to understand the role of sexual conflict in the evolution of genetic systems.",
+      "Analyze the effects of interlocus, intr!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!gen!omic!! and!! intr!alocus! sexual! conflict! on! the! evolution! of! non-Mendelian! reproduction."
+    ],
+    "results": [
+      "Gain insights into the evolution of unusual transmission genetics and the role of sexual conflict in shaping genetic systems.",
+      "Understand the mechanisms driving the evolution of Paternal Genome Elimination and its implications for our understanding of genetic inheritance."
+    ],
+    "research_subject": "The role of sexual conflict in the evolution of non-Mendelian reproduction and unusual transmission genetics"
+  },
+  "openai_json": {
+    "motivations": [
+      "Mendel's laws of inheritance are not universally applicable, with many animals exhibiting asymmetrical transmission of maternal and paternal alleles.",
+      "There is a theoretical suggestion that these asymmetries might arise due to maternal-paternal genetic conflict, but empirical evidence is lacking."
+    ],
+    "objectives": [
+      "Understand why, when, and how the transmission of genes from one generation to the next deviates from Mendel’s laws.",
+      "Investigate how different types of sexual conflict can affect the evolution of non-Mendelian reproduction.",
+      "Focus on species with Paternal Genome Elimination (PGE) to understand the role of sexual conflict in the evolution of genetic systems."
+    ],
+    "methods": [
+      "Study species with Paternal Genome Elimination (PGE), where males transmit only the chromosomes inherited from their mother.",
+      "Analyze the role of different types of sexual conflict in the evolution of non-Mendelian reproduction."
+    ],
+    "results": [
+      "Provide empirical evidence on the role of sexual conflict in the evolution of non-Mendelian reproduction.",
+      "Enhance understanding of genetic systems and the deviations from Mendel's laws."
+    ],
+    "research_subject": "Role of sexual conflict in the evolution of non-Mendelian genetic transmission"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Thousands of animal species violate Mendelian inheritance laws, showing asymmetric transmission of maternal and paternal alleles, but the underlying causes remain poorly understood.",
+      "While theory suggests sexual conflict drives non-Mendelian inheritance patterns, empirical evidence is lacking to confirm these theoretical predictions."
+    ],
+    "objectives": [
+      "Understand why, when, and how gene transmission deviates from Mendelian inheritance laws.",
+      "Investigate how different types of sexual conflict influence the evolution of non-Mendelian reproduction, particularly in species with Paternal Genome Elimination."
+    ],
+    "methods": [
+      "Study species exhibiting Paternal Genome Elimination as model systems for non-Mendelian inheritance.",
+      "Examine three types of sexual conflict: interlocus conflict between parents, intragenomic conflict within offspring, and intralocus conflict between male and female gene expression."
+    ],
+    "results": [
+      "Provide empirical evidence for the role of sexual conflict in driving the evolution of non-Mendelian genetic systems.",
+      "Elucidate the mechanisms underlying asymmetric gene transmission and maternal monopolization of genetic inheritance in certain species."
+    ],
+    "research_subject": "Sexual conflict and the evolution of non-Mendelian inheritance patterns"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Mendel's laws of inheritance are broken in thousands of animals, resulting in asymmetrical transmission of maternal and paternal alleles.\",\n    \"There is a need for empirical tests to determine whether maternal-paternal genetic conflict drives the evolution of non-Mendelian reproduction.\"\n  ],\n  \"objectives\": [\n    \"Understand why, when, and how the transmission of genes from one generation to the next deviates from Mendel's laws.\",\n    \"Investigate how different types of sexual conflict affect the evolution of non-Mendelian reproduction.\"\n  ],\n  \"methods\": [\n    \"Study species with extreme reproductive asymmetry, specifically Paternal Genome Elimination (PGE), to understand the role of sexual conflict in the evolution of genetic systems.\",\n    \"Analyze the effects of interlocus, intr!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!gen!omic!! and!! intr!alocus! sexual! conflict! on! the! evolution! of! non-Mendelian! reproduction.\"\n  ],\n  \"results\": [\n    \"Gain insights into the evolution of unusual transmission genetics and the role of sexual conflict in shaping genetic systems.\",\n    \"Understand the mechanisms driving the evolution of Paternal Genome Elimination and its implications for our understanding of genetic inheritance.\"\n  ],\n  \"research_subject\": \"The role of sexual conflict in the evolution of non-Mendelian reproduction and unusual transmission genetics\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Mendel's laws of inheritance are not universally applicable, with many animals exhibiting asymmetrical transmission of maternal and paternal alleles.\",\n    \"There is a theoretical suggestion that these asymmetries might arise due to maternal-paternal genetic conflict, but empirical evidence is lacking.\"\n  ],\n  \"objectives\": [\n    \"Understand why, when, and how the transmission of genes from one generation to the next deviates from Mendel’s laws.\",\n    \"Investigate how different types of sexual conflict can affect the evolution of non-Mendelian reproduction.\",\n    \"Focus on species with Paternal Genome Elimination (PGE) to understand the role of sexual conflict in the evolution of genetic systems.\"\n  ],\n  \"methods\": [\n    \"Study species with Paternal Genome Elimination (PGE), where males transmit only the chromosomes inherited from their mother.\",\n    \"Analyze the role of different types of sexual conflict in the evolution of non-Mendelian reproduction.\"\n  ],\n  \"results\": [\n    \"Provide empirical evidence on the role of sexual conflict in the evolution of non-Mendelian reproduction.\",\n    \"Enhance understanding of genetic systems and the deviations from Mendel's laws.\"\n  ],\n  \"research_subject\": \"Role of sexual conflict in the evolution of non-Mendelian genetic transmission\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Thousands of animal species violate Mendelian inheritance laws, showing asymmetric transmission of maternal and paternal alleles, but the underlying causes remain poorly understood.\",\n    \"While theory suggests sexual conflict drives non-Mendelian inheritance patterns, empirical evidence is lacking to confirm these theoretical predictions.\"\n  ],\n  \"objectives\": [\n    \"Understand why, when, and how gene transmission deviates from Mendelian inheritance laws.\",\n    \"Investigate how different types of sexual conflict influence the evolution of non-Mendelian reproduction, particularly in species with Paternal Genome Elimination.\"\n  ],\n  \"methods\": [\n    \"Study species exhibiting Paternal Genome Elimination as model systems for non-Mendelian inheritance.\",\n    \"Examine three types of sexual conflict: interlocus conflict between parents, intragenomic conflict within offspring, and intralocus conflict between male and female gene expression.\"\n  ],\n  \"results\": [\n    \"Provide empirical evidence for the role of sexual conflict in driving the evolution of non-Mendelian genetic systems.\",\n    \"Elucidate the mechanisms underlying asymmetric gene transmission and maternal monopolization of genetic inheritance in certain species.\"\n  ],\n  \"research_subject\": \"Sexual conflict and the evolution of non-Mendelian inheritance patterns\"\n}\n```"
+}

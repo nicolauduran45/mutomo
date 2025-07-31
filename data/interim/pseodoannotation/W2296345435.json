@@ -1,0 +1,66 @@
+{
+  "index": 176,
+  "title": "Good eggs? Evaluating consent forms for egg donation",
+  "abstract": "Beyond gaps in the provision of information, the informed consent process for egg donation is complicated by conflicts of interest, payment and a lack of longitudinal data about physiological and psychological risks. Recent scholarship has suggested that egg donation programmes could improve the informed consent process by revising consent documents. At a minimum, these documents should include information about eight key criteria: the nature and objectives of treatment; the benefits, risks and inconveniences of egg donation; the privacy of donors and their anonymity (where applicable); disclosure that participation is voluntary (withdrawal); the availability of counselling; financial considerations; the possibility of an unsuccessful cycle and potential uses of the eggs retrieved. This study evaluates the incorporation of these minimum criteria in consent forms for egg donation, obtained through requests to Canadian fertility clinics. Even when clinics were considered to have met criteria simply by mentioning them, among the eight consent forms assessed, none met the minimum standards. Only half of clinics addressed privacy/anonymity concerns, financial issues and the possibility of a future cycle. Improving the quality of consent documentation to meet the minimum standards established by this study may not be an onerous task. For some, this will include re-evaluating how they include one or two elements of disclosure, and for others, this will require a substantial overhaul. Using the criteria provided by this study as the minimum standard for consent could ensure that donors have the basic information they need to make informed decisions.",
+  "llama_json": {
+    "motivations": [
+      "The informed consent process for egg donation is complicated by conflicts of interest, payment, and a lack of longitudinal data about physiological and psychological risks.",
+      "Current consent forms for egg donation may not provide adequate information for donors to make informed decisions."
+    ],
+    "objectives": [
+      "Evaluate the incorporation of minimum criteria in consent forms for egg donation obtained from Canadian fertility clinics.",
+      "Assess the quality of consent documentation and identify areas for improvement to meet minimum standards."
+    ],
+    "methods": [
+      "Analyze consent forms from Canadian fertility clinics to determine if they meet the minimum criteria for informed consent.",
+      "Use a set of eight key criteria to evaluate the completeness and adequacy of the consent forms."
+    ],
+    "results": [
+      "None of the evaluated consent forms met the minimum standards for informed consent.",
+      "Improving the quality of consent documentation may require re-evaluation or substantial overhaul of current practices."
+    ],
+    "research_subject": "Evaluation of consent forms for egg donation in Canadian fertility clinics"
+  },
+  "openai_json": {
+    "motivations": [
+      "The informed consent process for egg donation is complicated by information gaps, conflicts of interest, payment issues, and lack of data about risks.",
+      "Current consent forms for egg donation may not meet minimum standards for providing key information to potential donors."
+    ],
+    "objectives": [
+      "Evaluate the incorporation of eight key criteria in consent forms for egg donation used by Canadian fertility clinics.",
+      "Suggest improvements to consent documentation to ensure potential donors have the necessary information to make informed decisions."
+    ],
+    "methods": [
+      "Obtain and assess consent forms for egg donation from Canadian fertility clinics based on eight key criteria.",
+      "Evaluate whether the consent forms meet the minimum standards by simply mentioning the key criteria."
+    ],
+    "results": [
+      "None of the eight consent forms assessed met the minimum standards for providing key information to potential donors.",
+      "Improving the quality of consent documentation to meet the minimum standards may require minor adjustments for some clinics and substantial overhauls for others."
+    ],
+    "research_subject": "Evaluation of consent forms for egg donation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The informed consent process for egg donation is compromised by conflicts of interest, payment issues, and insufficient longitudinal data on risks.",
+      "Current consent forms for egg donation fail to provide adequate information to ensure donors can make truly informed decisions."
+    ],
+    "objectives": [
+      "Evaluate whether consent forms for egg donation meet minimum standards for informed consent based on eight key criteria.",
+      "Identify gaps in current consent documentation and provide recommendations for improvement to ensure donors receive essential information."
+    ],
+    "methods": [
+      "Analyzed consent forms obtained from Canadian fertility clinics against eight established criteria for informed consent.",
+      "Assessed whether clinics met minimum standards by evaluating the inclusion of key information elements in their consent documentation."
+    ],
+    "results": [
+      "None of the eight consent forms evaluated met the minimum standards for informed consent.",
+      "Only half of the clinics addressed critical issues such as privacy/anonymity, financial considerations, and the possibility of future cycles.",
+      "Improving consent documentation to meet minimum standards would require varying levels of revision, from minor adjustments to substantial overhauls."
+    ],
+    "research_subject": "Evaluation of informed consent forms for egg donation in Canadian fertility clinics"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The informed consent process for egg donation is complicated by conflicts of interest, payment, and a lack of longitudinal data about physiological and psychological risks.\",\n    \"Current consent forms for egg donation may not provide adequate information for donors to make informed decisions.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the incorporation of minimum criteria in consent forms for egg donation obtained from Canadian fertility clinics.\",\n    \"Assess the quality of consent documentation and identify areas for improvement to meet minimum standards.\"\n  ],\n  \"methods\": [\n    \"Analyze consent forms from Canadian fertility clinics to determine if they meet the minimum criteria for informed consent.\",\n    \"Use a set of eight key criteria to evaluate the completeness and adequacy of the consent forms.\"\n  ],\n  \"results\": [\n    \"None of the evaluated consent forms met the minimum standards for informed consent.\",\n    \"Improving the quality of consent documentation may require re-evaluation or substantial overhaul of current practices.\"\n  ],\n  \"research_subject\": \"Evaluation of consent forms for egg donation in Canadian fertility clinics\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The informed consent process for egg donation is complicated by information gaps, conflicts of interest, payment issues, and lack of data about risks.\",\n    \"Current consent forms for egg donation may not meet minimum standards for providing key information to potential donors.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the incorporation of eight key criteria in consent forms for egg donation used by Canadian fertility clinics.\",\n    \"Suggest improvements to consent documentation to ensure potential donors have the necessary information to make informed decisions.\"\n  ],\n  \"methods\": [\n    \"Obtain and assess consent forms for egg donation from Canadian fertility clinics based on eight key criteria.\",\n    \"Evaluate whether the consent forms meet the minimum standards by simply mentioning the key criteria.\"\n  ],\n  \"results\": [\n    \"None of the eight consent forms assessed met the minimum standards for providing key information to potential donors.\",\n    \"Improving the quality of consent documentation to meet the minimum standards may require minor adjustments for some clinics and substantial overhauls for others.\"\n  ],\n  \"research_subject\": \"Evaluation of consent forms for egg donation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The informed consent process for egg donation is compromised by conflicts of interest, payment issues, and insufficient longitudinal data on risks.\",\n    \"Current consent forms for egg donation fail to provide adequate information to ensure donors can make truly informed decisions.\"\n  ],\n  \"objectives\": [\n    \"Evaluate whether consent forms for egg donation meet minimum standards for informed consent based on eight key criteria.\",\n    \"Identify gaps in current consent documentation and provide recommendations for improvement to ensure donors receive essential information.\"\n  ],\n  \"methods\": [\n    \"Analyzed consent forms obtained from Canadian fertility clinics against eight established criteria for informed consent.\",\n    \"Assessed whether clinics met minimum standards by evaluating the inclusion of key information elements in their consent documentation.\"\n  ],\n  \"results\": [\n    \"None of the eight consent forms evaluated met the minimum standards for informed consent.\",\n    \"Only half of the clinics addressed critical issues such as privacy/anonymity, financial considerations, and the possibility of future cycles.\",\n    \"Improving consent documentation to meet minimum standards would require varying levels of revision, from minor adjustments to substantial overhauls.\"\n  ],\n  \"research_subject\": \"Evaluation of informed consent forms for egg donation in Canadian fertility clinics\"\n}\n```"
+}

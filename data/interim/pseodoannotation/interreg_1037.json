@@ -1,0 +1,70 @@
+{
+  "index": 160,
+  "title": "Destination SMEs",
+  "abstract": "CONTEXT: Policies aiming at supporting SMEs lack some effectiveness and efficiency in the tourism sector in many European regions. With a more favourable environment, SMEs could grow faster and create more jobs. For tourist SMEs, it would require the creation of a management strategy of the territory, i.e. a Destination Management strategy. PARTNERSHIP: The project brings together 7 partners from 7 EU countries (FR, IT, MT, IE, FI, LT, SI) consisting of a mix of public authorities at national, regional and local level and agencies having a delegation of competences from their public authority. When relevant, authorities in charge of targeted policies are committed to provide their entire support. Relevant stakeholders within each area will be strongly involved in the exchange of experience at interregional level and planned adaptation of policy instruments. OBJECTIVE: Improve public policies (through structural funds, national or regional policy instruments) dedicated to the support of tourist SMEs and their competitiveness. APPROACH: Three-steps approach in Phase 1. Interregional exchange of experiences in that field and subsequent introduction into their policies of solutions for a better destination management of the territory (final purpose under Phase 2). MAIN ACTIVITIES AND OUTPUTS: 7 policy instruments are addressed (1 per region), among which 5 relate to structural funds programmes. Basis for exchange of experience: Reciprocal improvement analysis and 7 study trips with peer-review of each partner’s practices. Video newsletters and a movie for an effective dissemination towards other territories in Europe. MAIN EXPECTED RESULTS: At least 14 good practices identified. 7 targeted policy instruments improved. At least 21 staff members will transfer new capacities in their intervention fields. At least 30 involved stakeholders with increased skills and knowledge from exchange of experience. Expected 15 appearances in press and media, including at European level.",
+  "llama_json": {
+    "motivations": [
+      "Current policies supporting SMEs in the tourism sector lack effectiveness and efficiency in many European regions.",
+      "SMEs in the tourism sector face challenges in growing and creating jobs due to the absence of a favourable environment and a Destination Management strategy."
+    ],
+    "objectives": [
+      "Improve public policies dedicated to supporting tourist SMEs and their competitiveness through structural funds, national or regional policy instruments.",
+      "Enhance destination management of territories to foster a more favourable environment for SME growth and job creation."
+    ],
+    "methods": [
+      "Implement a three-step approach involving interregional exchange of experiences, introduction of solutions for better destination management, and improvement of policy instruments.",
+      "Conduct reciprocal improvement analysis, study trips, peer-review of practices, and dissemination of results through video newsletters and a movie."
+    ],
+    "results": [
+      "Identification of at least 14 good practices and improvement of 7 targeted policy instruments.",
+      "Enhanced capacities of at least 21 staff members and increased skills and knowledge of at least 30 involved stakeholders.",
+      "Increased visibility and dissemination of results through at least 15 appearances in press and media."
+    ],
+    "research_subject": "Improving public policies for supporting SMEs in the tourism sector through enhanced destination management"
+  },
+  "openai_json": {
+    "motivations": [
+      "Policies aimed at supporting SMEs in the tourism sector in many European regions lack effectiveness and efficiency.",
+      "SMEs in the tourism sector could grow faster and create more jobs with a more favorable environment."
+    ],
+    "objectives": [
+      "Improve public policies dedicated to the support of tourist SMEs and their competitiveness.",
+      "Introduce solutions for better destination management of the territory into policies."
+    ],
+    "methods": [
+      "Establish a partnership of 7 partners from 7 EU countries, consisting of a mix of public authorities and agencies.",
+      "Implement a three-step approach, including interregional exchange of experiences and subsequent introduction of solutions into policies.",
+      "Conduct reciprocal improvement analysis and 7 study trips with peer-review of each partner’s practices."
+    ],
+    "results": [
+      "Improve 7 targeted policy instruments.",
+      "Transfer new capacities in their intervention fields to at least 21 staff members.",
+      "Increase skills and knowledge of at least 30 involved stakeholders from exchange of experience."
+    ],
+    "research_subject": "Improvement of public policies supporting SMEs in the tourism sector"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current policies supporting SMEs in the tourism sector lack effectiveness and efficiency across many European regions.",
+      "Tourist SMEs need a more favorable environment and destination management strategies to grow faster and create more jobs."
+    ],
+    "objectives": [
+      "Improve public policies dedicated to supporting tourist SMEs and enhancing their competitiveness through structural funds and policy instruments.",
+      "Facilitate interregional exchange of experiences and introduce destination management solutions into regional policies."
+    ],
+    "methods": [
+      "Implement a three-phase approach involving interregional exchange of experiences among 7 EU partners.",
+      "Conduct reciprocal improvement analysis and study trips with peer-review of practices.",
+      "Engage stakeholders in knowledge transfer and dissemination through video newsletters and media outreach."
+    ],
+    "results": [
+      "Identification of at least 14 good practices and improvement of 7 targeted policy instruments.",
+      "Enhanced capacities for at least 21 staff members and increased skills for 30 stakeholders.",
+      "Widespread dissemination with 15 expected media appearances at European level."
+    ],
+    "research_subject": "Improving public policies for tourism SME competitiveness through destination management strategies"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current policies supporting SMEs in the tourism sector lack effectiveness and efficiency in many European regions.\",\n    \"SMEs in the tourism sector face challenges in growing and creating jobs due to the absence of a favourable environment and a Destination Management strategy.\"\n  ],\n  \"objectives\": [\n    \"Improve public policies dedicated to supporting tourist SMEs and their competitiveness through structural funds, national or regional policy instruments.\",\n    \"Enhance destination management of territories to foster a more favourable environment for SME growth and job creation.\"\n  ],\n  \"methods\": [\n    \"Implement a three-step approach involving interregional exchange of experiences, introduction of solutions for better destination management, and improvement of policy instruments.\",\n    \"Conduct reciprocal improvement analysis, study trips, peer-review of practices, and dissemination of results through video newsletters and a movie.\"\n  ],\n  \"results\": [\n    \"Identification of at least 14 good practices and improvement of 7 targeted policy instruments.\",\n    \"Enhanced capacities of at least 21 staff members and increased skills and knowledge of at least 30 involved stakeholders.\",\n    \"Increased visibility and dissemination of results through at least 15 appearances in press and media.\"\n  ],\n  \"research_subject\": \"Improving public policies for supporting SMEs in the tourism sector through enhanced destination management\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Policies aimed at supporting SMEs in the tourism sector in many European regions lack effectiveness and efficiency.\",\n    \"SMEs in the tourism sector could grow faster and create more jobs with a more favorable environment.\"\n  ],\n  \"objectives\": [\n    \"Improve public policies dedicated to the support of tourist SMEs and their competitiveness.\",\n    \"Introduce solutions for better destination management of the territory into policies.\"\n  ],\n  \"methods\": [\n    \"Establish a partnership of 7 partners from 7 EU countries, consisting of a mix of public authorities and agencies.\",\n    \"Implement a three-step approach, including interregional exchange of experiences and subsequent introduction of solutions into policies.\",\n    \"Conduct reciprocal improvement analysis and 7 study trips with peer-review of each partner’s practices.\"\n  ],\n  \"results\": [\n    \"Improve 7 targeted policy instruments.\",\n    \"Transfer new capacities in their intervention fields to at least 21 staff members.\",\n    \"Increase skills and knowledge of at least 30 involved stakeholders from exchange of experience.\"\n  ],\n  \"research_subject\": \"Improvement of public policies supporting SMEs in the tourism sector\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current policies supporting SMEs in the tourism sector lack effectiveness and efficiency across many European regions.\",\n    \"Tourist SMEs need a more favorable environment and destination management strategies to grow faster and create more jobs.\"\n  ],\n  \"objectives\": [\n    \"Improve public policies dedicated to supporting tourist SMEs and enhancing their competitiveness through structural funds and policy instruments.\",\n    \"Facilitate interregional exchange of experiences and introduce destination management solutions into regional policies.\"\n  ],\n  \"methods\": [\n    \"Implement a three-phase approach involving interregional exchange of experiences among 7 EU partners.\",\n    \"Conduct reciprocal improvement analysis and study trips with peer-review of practices.\",\n    \"Engage stakeholders in knowledge transfer and dissemination through video newsletters and media outreach.\"\n  ],\n  \"results\": [\n    \"Identification of at least 14 good practices and improvement of 7 targeted policy instruments.\",\n    \"Enhanced capacities for at least 21 staff members and increased skills for 30 stakeholders.\",\n    \"Widespread dissemination with 15 expected media appearances at European level.\"\n  ],\n  \"research_subject\": \"Improving public policies for tourism SME competitiveness through destination management strategies\"\n}\n```"
+}

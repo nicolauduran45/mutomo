@@ -1,0 +1,72 @@
+{
+  "index": 464,
+  "title": "Geology of the Campanian M1 sandstone oil reservoir of eastern Ecuador: A delta system sourced from the Amazon Craton",
+  "abstract": "Abstract The Campanian M1 sandstone Member of the Napo Formation is one of the main reservoirs of the Capiron-Tiputini oil play system of the eastern part of the Oriente Basin of Ecuador. This study presents a geological model for this reservoir at the Apaika and Nenke oil fields included within the Block 31, and the Eden Yuturi oil field, operated by PETROAMAZONAS EP. The geological characterization of the M1 sandstone is based on an integrated study, which includes core description, electric log analyses and seismic data interpretation. The sedimentological descriptions from available cored sections show that M1 sandstone records a variety of fluvial to shallow marine processes, including mass flow and delta-front turbidity currents not previously documented. The stratal stacking pattern interpreted from electric logs indicates that the succession reflects deltaic progradation rather than the backstepping pattern typically displayed by the underlying Albian to Santonian sediments of the Napo Formation. Seismic RMS amplitude defines clinoform geometries with sigmoidal sand body architecture prograding from east to west. Correlation with neighboring regions in Colombia suggest that the M1 sandstone was probably part of a large river-dominated delta system sourced from the east during major Campanian progradation. The location of the source area of sediment was determined using U-Pb detrital zircon dating. Provenance ages are uniform within the M1 Sandstone cluster in a population that ranges from 1.4 to 1.6 billion years. These ages indicate that sands were derived mostly from erosion of the lithotectonic Rio Negro-Jurena province, located to the northeast of the studied area. Detrital ages from the overlying Maastrichtian Tena Formation include ages between 80 and 200 Ma pointing to an important change in the source areas, located in the Eastern Cordillera of Ecuador. The change in sediment supply from east to west recorded in the Tena Formation coincide with the initial episodes of the Andean orogeny, and may be driven by the collision of fragments of the Caribbean large igneous province (CLIP) against the continental margin of northwestern South America.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the geological characteristics of the Campanian M1 sandstone oil reservoir in eastern Ecuador to improve oil exploration and production.",
+      "The existing geological models of the Napo Formation do not fully capture the complexity of the M1 sandstone reservoir, requiring a more detailed and integrated study."
+    ],
+    "objectives": [
+      "Develop a comprehensive geological model of the M1 sandstone reservoir in the Apaika, Nenke, and Eden Yuturi oil fields.",
+      "Characterize the sedimentological and stratigraphic features of the M1 sandstone using core description, electric log analyses, and seismic data interpretation.",
+      "Determine the source area of sediment for the M1 sandstone using U-Pb detrital zircon dating."
+    ],
+    "methods": [
+      "Integrate core description, electric log analyses, and seismic data interpretation to characterize the M1 sandstone reservoir.",
+      "Use U-Pb detrital zircon dating to determine the source area of sediment for the M1 sandstone.",
+      "Correlate the results with neighboring regions in Colombia to understand the regional geological context."
+    ],
+    "results": [
+      "The M1 sandstone reservoir is a delta system sourced from the Amazon Craton, with a river-dominated deltaic progradation pattern.",
+      "The sediment supply for the M1 sandstone changed from east to west during the initial episodes of the Andean orogeny.",
+      "The study provides a detailed geological model of the M1 sandstone reservoir, which can be used to improve oil exploration and production in the region."
+    ],
+    "research_subject": "Geological characterization of the Campanian M1 sandstone oil reservoir in eastern Ecuador"
+  },
+  "openai_json": {
+    "motivations": [
+      "The Campanian M1 sandstone Member of the Napo Formation is a significant oil reservoir in eastern Ecuador, but its geological characteristics and formation processes are not fully understood.",
+      "Understanding the geological model of this reservoir is crucial for efficient oil extraction and management."
+    ],
+    "objectives": [
+      "Present a geological model for the M1 sandstone reservoir based on an integrated study of core descriptions, electric log analyses, and seismic data interpretation.",
+      "Identify the sedimentary processes and source area of the M1 sandstone using sedimentological descriptions and U-Pb detrital zircon dating."
+    ],
+    "methods": [
+      "Conduct an integrated study involving core description, electric log analyses, and seismic data interpretation.",
+      "Use sedimentological descriptions to identify the variety of fluvial to shallow marine processes recorded in the M1 sandstone.",
+      "Employ U-Pb detrital zircon dating to determine the source area of the sediment."
+    ],
+    "results": [
+      "The M1 sandstone records a variety of fluvial to shallow marine processes, including mass flow and delta-front turbidity currents.",
+      "The stratal stacking pattern indicates deltaic progradation, and the source area of sediment was determined to be the lithotectonic Rio Negro-Jurena province.",
+      "A significant change in sediment supply was observed in the overlying Maastrichtian Tena Formation, coinciding with the initial episodes of the Andean orogeny."
+    ],
+    "research_subject": "Geological characterization of the Campanian M1 sandstone oil reservoir in eastern Ecuador"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Campanian M1 sandstone Member is a major oil reservoir in Ecuador's Oriente Basin, but its geological characteristics and depositional environment require better understanding.",
+      "Previous interpretations of the M1 sandstone's sedimentary processes and source areas need revision based on new integrated geological data."
+    ],
+    "objectives": [
+      "Develop a comprehensive geological model for the M1 sandstone reservoir in the Apaika, Nenke, and Eden Yuturi oil fields.",
+      "Determine the sedimentary processes, depositional environment, and sediment source areas of the M1 sandstone using integrated geological data."
+    ],
+    "methods": [
+      "Integrate core descriptions, electric log analyses, and seismic data interpretation to characterize the M1 sandstone reservoir.",
+      "Apply U-Pb detrital zircon dating to determine sediment provenance and source areas.",
+      "Analyze stratal stacking patterns and seismic RMS amplitude to interpret depositional geometries and sedimentary architecture."
+    ],
+    "results": [
+      "The M1 sandstone represents a river-dominated delta system that prograded from east to west, with sediments sourced from the Rio Negro-Jurena province of the Amazon Craton.",
+      "A major change in sediment source occurred during the Maastrichtian, shifting from eastern cratonic sources to the emerging Eastern Cordillera, coinciding with early Andean orogeny.",
+      "Previously undocumented mass flow and delta-front turbidity current processes were identified in the M1 sandstone depositional system."
+    ],
+    "research_subject": "Geological characterization of the Campanian M1 sandstone oil reservoir in eastern Ecuador"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the geological characteristics of the Campanian M1 sandstone oil reservoir in eastern Ecuador to improve oil exploration and production.\",\n    \"The existing geological models of the Napo Formation do not fully capture the complexity of the M1 sandstone reservoir, requiring a more detailed and integrated study.\"\n  ],\n  \"objectives\": [\n    \"Develop a comprehensive geological model of the M1 sandstone reservoir in the Apaika, Nenke, and Eden Yuturi oil fields.\",\n    \"Characterize the sedimentological and stratigraphic features of the M1 sandstone using core description, electric log analyses, and seismic data interpretation.\",\n    \"Determine the source area of sediment for the M1 sandstone using U-Pb detrital zircon dating.\"\n  ],\n  \"methods\": [\n    \"Integrate core description, electric log analyses, and seismic data interpretation to characterize the M1 sandstone reservoir.\",\n    \"Use U-Pb detrital zircon dating to determine the source area of sediment for the M1 sandstone.\",\n    \"Correlate the results with neighboring regions in Colombia to understand the regional geological context.\"\n  ],\n  \"results\": [\n    \"The M1 sandstone reservoir is a delta system sourced from the Amazon Craton, with a river-dominated deltaic progradation pattern.\",\n    \"The sediment supply for the M1 sandstone changed from east to west during the initial episodes of the Andean orogeny.\",\n    \"The study provides a detailed geological model of the M1 sandstone reservoir, which can be used to improve oil exploration and production in the region.\"\n  ],\n  \"research_subject\": \"Geological characterization of the Campanian M1 sandstone oil reservoir in eastern Ecuador\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The Campanian M1 sandstone Member of the Napo Formation is a significant oil reservoir in eastern Ecuador, but its geological characteristics and formation processes are not fully understood.\",\n    \"Understanding the geological model of this reservoir is crucial for efficient oil extraction and management.\"\n  ],\n  \"objectives\": [\n    \"Present a geological model for the M1 sandstone reservoir based on an integrated study of core descriptions, electric log analyses, and seismic data interpretation.\",\n    \"Identify the sedimentary processes and source area of the M1 sandstone using sedimentological descriptions and U-Pb detrital zircon dating.\"\n  ],\n  \"methods\": [\n    \"Conduct an integrated study involving core description, electric log analyses, and seismic data interpretation.\",\n    \"Use sedimentological descriptions to identify the variety of fluvial to shallow marine processes recorded in the M1 sandstone.\",\n    \"Employ U-Pb detrital zircon dating to determine the source area of the sediment.\"\n  ],\n  \"results\": [\n    \"The M1 sandstone records a variety of fluvial to shallow marine processes, including mass flow and delta-front turbidity currents.\",\n    \"The stratal stacking pattern indicates deltaic progradation, and the source area of sediment was determined to be the lithotectonic Rio Negro-Jurena province.\",\n    \"A significant change in sediment supply was observed in the overlying Maastrichtian Tena Formation, coinciding with the initial episodes of the Andean orogeny.\"\n  ],\n  \"research_subject\": \"Geological characterization of the Campanian M1 sandstone oil reservoir in eastern Ecuador\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The Campanian M1 sandstone Member is a major oil reservoir in Ecuador's Oriente Basin, but its geological characteristics and depositional environment require better understanding.\",\n    \"Previous interpretations of the M1 sandstone's sedimentary processes and source areas need revision based on new integrated geological data.\"\n  ],\n  \"objectives\": [\n    \"Develop a comprehensive geological model for the M1 sandstone reservoir in the Apaika, Nenke, and Eden Yuturi oil fields.\",\n    \"Determine the sedimentary processes, depositional environment, and sediment source areas of the M1 sandstone using integrated geological data.\"\n  ],\n  \"methods\": [\n    \"Integrate core descriptions, electric log analyses, and seismic data interpretation to characterize the M1 sandstone reservoir.\",\n    \"Apply U-Pb detrital zircon dating to determine sediment provenance and source areas.\",\n    \"Analyze stratal stacking patterns and seismic RMS amplitude to interpret depositional geometries and sedimentary architecture.\"\n  ],\n  \"results\": [\n    \"The M1 sandstone represents a river-dominated delta system that prograded from east to west, with sediments sourced from the Rio Negro-Jurena province of the Amazon Craton.\",\n    \"A major change in sediment source occurred during the Maastrichtian, shifting from eastern cratonic sources to the emerging Eastern Cordillera, coinciding with early Andean orogeny.\",\n    \"Previously undocumented mass flow and delta-front turbidity current processes were identified in the M1 sandstone depositional system.\"\n  ],\n  \"research_subject\": \"Geological characterization of the Campanian M1 sandstone oil reservoir in eastern Ecuador\"\n}\n```"
+}

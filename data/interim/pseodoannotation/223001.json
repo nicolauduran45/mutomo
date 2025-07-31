@@ -1,0 +1,74 @@
+{
+  "index": 289,
+  "title": "Holistic digital-to-physical prototyping and production pilot for microfluidic mems",
+  "abstract": "The project aims at a holistic new design strategy, coordinated pilot lines and business model for the prototyping, fabrication and commercialization of polymer-based microfluidic systems. It stems from the recognition that a microfluidic chip is a key part of a microfluidic MEMS, but only a part. Many limitations to fast prototyping, industrialization and ultimate performances lie not in the chip itself, but in the world-to-chip connections and integration of multiple external components. We shall address in a single strategy the streamlined construction of whole microfluidic systems, starting from existing pilot lines in injection moulding, 3D printing and instrument construction. This will specific innovations. First, the resolution of 3D printing will be increased by a factor at least 10, down to 1~3µm, with a throughput 10 to 100x higher than that of current high resolution 3D printing machines, to support the flexible production of chips with complex 3D architectures. New soft, bio, environment-friendly and/or active materials will be integrated in the production chain using a technology patented by the partners. Large-scale markets requiring mass production at the lowest cost will be addressed by a fully integrated pilot line, streamlining injection moulding of raw chips, reagents and components integration, sealing and quality control. Inter-compatibility between 3D printing and injection moulding, regarding architectures and materials, will be developed to accelerate the prototype to product value chain. After development and upscaling, the technology will be demonstrated and qualified in operational environment by end-users with lab-on-chip applications in health (cancer diagnosis, organ-on chip) and environment (water control). Partners jointly have the production lines onto which the project’s innovation will be readily integrated, helping microfluidics to become a major component of the 4th industrial revolution.",
+  "llama_json": {
+    "motivations": [
+      "Current microfluidic MEMS prototyping and production face limitations in terms of speed, industrialization, and performance due to integration challenges with external components.",
+      "There is a need for a holistic design strategy and coordinated pilot lines to streamline the construction of whole microfluidic systems, beyond just the microfluidic chip itself."
+    ],
+    "objectives": [
+      "Develop a holistic design strategy and coordinated pilot lines for the prototyping, fabrication, and commercialization of polymer-based microfluidic systems.",
+      "Improve the resolution and throughput of 3D printing for flexible production of chips with complex 3D architectures.",
+      "Integrate new materials and technologies into the production chain to support large-scale markets and mass production at lower costs."
+    ],
+    "methods": [
+      "Increase the resolution of 3D printing by a factor of at least 10 and throughput by 10 to 100 times.",
+      "Integrate new soft, bio, environment-friendly, and/or active materials into the production chain using patented technology.",
+      "Develop a fully integrated pilot line for injection moulding, reagents and components integration, sealing, and quality control."
+    ],
+    "results": [
+      "Accelerate the prototype-to-product value chain through inter-compatibility between 3D printing and injection moulding.",
+      "Demonstrate and qualify the technology in operational environments through lab-on-chip applications in health and environment.",
+      "Contribute to microfluidics becoming a major component of the 4th industrial revolution."
+    ],
+    "research_subject": "Holistic digital-to-physical prototyping and production of microfluidic MEMS"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current limitations in fast prototyping, industrialization, and performance of microfluidic systems lie in the world-to-chip connections and integration of external components.",
+      "There is a need for a holistic design strategy and coordinated pilot lines for the prototyping, fabrication, and commercialization of polymer-based microfluidic systems."
+    ],
+    "objectives": [
+      "Develop a holistic design strategy for the streamlined construction of whole microfluidic systems, leveraging existing pilot lines in injection moulding, 3D printing, and instrument construction.",
+      "Increase the resolution of 3D printing by at least a factor of 10 and improve throughput to support the production of chips with complex 3D architectures.",
+      "Integrate new soft, bio, environment-friendly and/or active materials into the production chain and develop inter-compatibility between 3D printing and injection moulding."
+    ],
+    "methods": [
+      "Improve 3D printing resolution and throughput for the flexible production of chips with complex 3D architectures.",
+      "Integrate new materials into the production chain using a patented technology.",
+      "Develop a fully integrated pilot line for mass production, streamlining injection moulding of raw chips, reagents and components integration, sealing and quality control."
+    ],
+    "results": [
+      "Accelerate the prototype to product value chain for microfluidic systems.",
+      "Demonstrate and qualify the technology in operational environments with lab-on-chip applications in health and environment.",
+      "Contribute to the advancement of microfluidics as a major component of the 4th industrial revolution."
+    ],
+    "research_subject": "Holistic digital-to-physical prototyping and production of polymer-based microfluidic systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current microfluidic MEMS prototyping and production face limitations in world-to-chip connections and integration of external components, hindering fast industrialization and performance.",
+      "There is a need for streamlined, cost-effective production methods that can bridge the gap between prototyping and mass production of microfluidic systems."
+    ],
+    "objectives": [
+      "Develop a holistic design strategy and coordinated pilot lines for prototyping, fabrication, and commercialization of polymer-based microfluidic systems.",
+      "Achieve 10x improvement in 3D printing resolution and 10-100x higher throughput while ensuring compatibility between 3D printing and injection molding processes.",
+      "Integrate new soft, biocompatible, and active materials into the production chain for advanced microfluidic applications."
+    ],
+    "methods": [
+      "Enhance 3D printing technology to achieve 1-3µm resolution with significantly increased throughput for flexible production of complex 3D architectures.",
+      "Develop a fully integrated pilot line combining injection molding, reagent integration, sealing, and quality control for mass production.",
+      "Establish inter-compatibility between 3D printing and injection molding technologies to accelerate the prototype-to-product value chain."
+    ],
+    "results": [
+      "Enable streamlined construction of complete microfluidic systems with improved performance and reduced production costs.",
+      "Demonstrate and qualify the technology in operational environments for health and environmental applications.",
+      "Position microfluidics as a major component of the 4th industrial revolution through scalable production capabilities."
+    ],
+    "research_subject": "Holistic prototyping and production strategy for polymer-based microfluidic MEMS systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current microfluidic MEMS prototyping and production face limitations in terms of speed, industrialization, and performance due to integration challenges with external components.\",\n    \"There is a need for a holistic design strategy and coordinated pilot lines to streamline the construction of whole microfluidic systems, beyond just the microfluidic chip itself.\"\n  ],\n  \"objectives\": [\n    \"Develop a holistic design strategy and coordinated pilot lines for the prototyping, fabrication, and commercialization of polymer-based microfluidic systems.\",\n    \"Improve the resolution and throughput of 3D printing for flexible production of chips with complex 3D architectures.\",\n    \"Integrate new materials and technologies into the production chain to support large-scale markets and mass production at lower costs.\"\n  ],\n  \"methods\": [\n    \"Increase the resolution of 3D printing by a factor of at least 10 and throughput by 10 to 100 times.\",\n    \"Integrate new soft, bio, environment-friendly, and/or active materials into the production chain using patented technology.\",\n    \"Develop a fully integrated pilot line for injection moulding, reagents and components integration, sealing, and quality control.\"\n  ],\n  \"results\": [\n    \"Accelerate the prototype-to-product value chain through inter-compatibility between 3D printing and injection moulding.\",\n    \"Demonstrate and qualify the technology in operational environments through lab-on-chip applications in health and environment.\",\n    \"Contribute to microfluidics becoming a major component of the 4th industrial revolution.\"\n  ],\n  \"research_subject\": \"Holistic digital-to-physical prototyping and production of microfluidic MEMS\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current limitations in fast prototyping, industrialization, and performance of microfluidic systems lie in the world-to-chip connections and integration of external components.\",\n    \"There is a need for a holistic design strategy and coordinated pilot lines for the prototyping, fabrication, and commercialization of polymer-based microfluidic systems.\"\n  ],\n  \"objectives\": [\n    \"Develop a holistic design strategy for the streamlined construction of whole microfluidic systems, leveraging existing pilot lines in injection moulding, 3D printing, and instrument construction.\",\n    \"Increase the resolution of 3D printing by at least a factor of 10 and improve throughput to support the production of chips with complex 3D architectures.\",\n    \"Integrate new soft, bio, environment-friendly and/or active materials into the production chain and develop inter-compatibility between 3D printing and injection moulding.\"\n  ],\n  \"methods\": [\n    \"Improve 3D printing resolution and throughput for the flexible production of chips with complex 3D architectures.\",\n    \"Integrate new materials into the production chain using a patented technology.\",\n    \"Develop a fully integrated pilot line for mass production, streamlining injection moulding of raw chips, reagents and components integration, sealing and quality control.\"\n  ],\n  \"results\": [\n    \"Accelerate the prototype to product value chain for microfluidic systems.\",\n    \"Demonstrate and qualify the technology in operational environments with lab-on-chip applications in health and environment.\",\n    \"Contribute to the advancement of microfluidics as a major component of the 4th industrial revolution.\"\n  ],\n  \"research_subject\": \"Holistic digital-to-physical prototyping and production of polymer-based microfluidic systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current microfluidic MEMS prototyping and production face limitations in world-to-chip connections and integration of external components, hindering fast industrialization and performance.\",\n    \"There is a need for streamlined, cost-effective production methods that can bridge the gap between prototyping and mass production of microfluidic systems.\"\n  ],\n  \"objectives\": [\n    \"Develop a holistic design strategy and coordinated pilot lines for prototyping, fabrication, and commercialization of polymer-based microfluidic systems.\",\n    \"Achieve 10x improvement in 3D printing resolution and 10-100x higher throughput while ensuring compatibility between 3D printing and injection molding processes.\",\n    \"Integrate new soft, biocompatible, and active materials into the production chain for advanced microfluidic applications.\"\n  ],\n  \"methods\": [\n    \"Enhance 3D printing technology to achieve 1-3µm resolution with significantly increased throughput for flexible production of complex 3D architectures.\",\n    \"Develop a fully integrated pilot line combining injection molding, reagent integration, sealing, and quality control for mass production.\",\n    \"Establish inter-compatibility between 3D printing and injection molding technologies to accelerate the prototype-to-product value chain.\"\n  ],\n  \"results\": [\n    \"Enable streamlined construction of complete microfluidic systems with improved performance and reduced production costs.\",\n    \"Demonstrate and qualify the technology in operational environments for health and environmental applications.\",\n    \"Position microfluidics as a major component of the 4th industrial revolution through scalable production capabilities.\"\n  ],\n  \"research_subject\": \"Holistic prototyping and production strategy for polymer-based microfluidic MEMS systems\"\n}\n```"
+}

@@ -1,0 +1,71 @@
+{
+  "index": 351,
+  "title": "Disrupting a socio-ecological system: How could traditional ecological knowledge be the key to preserving the Araucaria Forest in Brazil under climate change?",
+  "abstract": "Abstract Socio-ecological systems (SESs) hinge on human groups and ecosystems, promoting interdependence and resilience to environmental disturbances. Climate change effects propagate from organisms to biomes, likely influencing SESs. In southern Brazil, the Araucaria Forest is a typical SES due to the historical interaction between humans and biodiversity. Thus, we empirically and theoretically evaluated how climate change could disrupt this system by interviewing 97 smallholders and assessing their traditional ecological knowledge (TEK). We evaluated and measured the socioeconomic impact of the araucaria’s ( Araucaria angustifolia ) nut-like seed (pinhão) trade and the ethnoecological knowledge about climate change, as well as generated an ecosystem services network. We used these empirical data with a projected loss of 50–70% of the Araucaria Forest due to climate change to quantify the risks of the potential disruption of this SES. We found evidence that to avoid the disruption of the Araucaria Forests, it is paramount to value TEK holders, safeguard the historical socio-ecological interaction, and promote non-mutually exclusive measures in an integrative response to maintain the resilience of this forest to future disturbances.",
+  "llama_json": {
+    "motivations": [
+      "Climate change poses a significant threat to the resilience and stability of socio-ecological systems, including the Araucaria Forest in Brazil.",
+      "The loss of traditional ecological knowledge (TEK) could exacerbate the disruption of the Araucaria Forest ecosystem under climate change."
+    ],
+    "objectives": [
+      "Evaluate the impact of climate change on the Araucaria Forest socio-ecological system.",
+      "Assess the role of traditional ecological knowledge (TEK) in preserving the Araucaria Forest under climate change.",
+      "Identify measures to maintain the resilience of the Araucaria Forest ecosystem."
+    ],
+    "methods": [
+      "Conduct empirical research through interviews with smallholders to gather data on TEK and socioeconomic impacts.",
+      "Assess the ethnoecological knowledge about climate change and generate an ecosystem services network.",
+      "Use projected climate change data to quantify the risks of disrupting the Araucaria Forest socio-ecological system."
+    ],
+    "results": [
+      "Valuing TEK holders and safeguarding historical socio-ecological interactions are crucial for maintaining the resilience of the Araucaria Forest.",
+      "Promoting non-mutually exclusive measures can help mitigate the disruption of the Araucaria Forest ecosystem under climate change.",
+      "Integrative responses can support the preservation of the Araucaria Forest and its ecosystem services."
+    ],
+    "research_subject": "Preserving the Araucaria Forest in Brazil under climate change using traditional ecological knowledge"
+  },
+  "openai_json": {
+    "motivations": [
+      "Climate change is likely to disrupt socio-ecological systems (SESs), such as the Araucaria Forest in southern Brazil, which relies on the interaction between humans and biodiversity.",
+      "There is a need to understand the potential impact of climate change on this SES and identify strategies to preserve it."
+    ],
+    "objectives": [
+      "Evaluate how climate change could disrupt the Araucaria Forest SES by assessing the traditional ecological knowledge (TEK) of local smallholders.",
+      "Measure the socioeconomic impact of the araucaria’s nut-like seed trade and the ethnoecological knowledge about climate change.",
+      "Quantify the risks of potential disruption of this SES due to projected loss of 50–70% of the Araucaria Forest due to climate change."
+    ],
+    "methods": [
+      "Conduct interviews with 97 smallholders to assess their traditional ecological knowledge (TEK).",
+      "Evaluate and measure the socioeconomic impact of the araucaria’s nut-like seed trade and the ethnoecological knowledge about climate change.",
+      "Generate an ecosystem services network and use these empirical data with projected loss estimates to quantify the risks of potential disruption."
+    ],
+    "results": [
+      "Identify the importance of valuing TEK holders, safeguarding the historical socio-ecological interaction, and promoting non-mutually exclusive measures to maintain the resilience of the Araucaria Forest.",
+      "Provide empirical evidence of the potential disruption of the Araucaria Forest SES due to climate change."
+    ],
+    "research_subject": "Impact of climate change on the Araucaria Forest socio-ecological system and the role of traditional ecological knowledge in its preservation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Climate change threatens to disrupt socio-ecological systems by affecting the interdependence between human communities and ecosystems.",
+      "The Araucaria Forest in southern Brazil faces a projected loss of 50-70% due to climate change, potentially disrupting the historical interaction between humans and biodiversity."
+    ],
+    "objectives": [
+      "Evaluate how climate change could disrupt the Araucaria Forest socio-ecological system and assess the role of traditional ecological knowledge in maintaining its resilience.",
+      "Quantify the socioeconomic impact of the araucaria seed trade and measure ethnoecological knowledge about climate change among local communities."
+    ],
+    "methods": [
+      "Conducted interviews with smallholders to assess their traditional ecological knowledge and understanding of climate change impacts.",
+      "Generated an ecosystem services network and analyzed the socioeconomic importance of the araucaria seed trade.",
+      "Combined empirical data with climate change projections to evaluate risks to the socio-ecological system."
+    ],
+    "results": [
+      "Traditional ecological knowledge holders and the preservation of historical socio-ecological interactions are critical for maintaining the Araucaria Forest's resilience to climate change.",
+      "Integrative measures that value local knowledge and promote sustainable practices can help prevent the disruption of this socio-ecological system."
+    ],
+    "research_subject": "Traditional ecological knowledge and climate change impacts on the Araucaria Forest socio-ecological system in Brazil"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Climate change poses a significant threat to the resilience and stability of socio-ecological systems, including the Araucaria Forest in Brazil.\",\n    \"The loss of traditional ecological knowledge (TEK) could exacerbate the disruption of the Araucaria Forest ecosystem under climate change.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the impact of climate change on the Araucaria Forest socio-ecological system.\",\n    \"Assess the role of traditional ecological knowledge (TEK) in preserving the Araucaria Forest under climate change.\",\n    \"Identify measures to maintain the resilience of the Araucaria Forest ecosystem.\"\n  ],\n  \"methods\": [\n    \"Conduct empirical research through interviews with smallholders to gather data on TEK and socioeconomic impacts.\",\n    \"Assess the ethnoecological knowledge about climate change and generate an ecosystem services network.\",\n    \"Use projected climate change data to quantify the risks of disrupting the Araucaria Forest socio-ecological system.\"\n  ],\n  \"results\": [\n    \"Valuing TEK holders and safeguarding historical socio-ecological interactions are crucial for maintaining the resilience of the Araucaria Forest.\",\n    \"Promoting non-mutually exclusive measures can help mitigate the disruption of the Araucaria Forest ecosystem under climate change.\",\n    \"Integrative responses can support the preservation of the Araucaria Forest and its ecosystem services.\"\n  ],\n  \"research_subject\": \"Preserving the Araucaria Forest in Brazil under climate change using traditional ecological knowledge\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Climate change is likely to disrupt socio-ecological systems (SESs), such as the Araucaria Forest in southern Brazil, which relies on the interaction between humans and biodiversity.\",\n    \"There is a need to understand the potential impact of climate change on this SES and identify strategies to preserve it.\"\n  ],\n  \"objectives\": [\n    \"Evaluate how climate change could disrupt the Araucaria Forest SES by assessing the traditional ecological knowledge (TEK) of local smallholders.\",\n    \"Measure the socioeconomic impact of the araucaria’s nut-like seed trade and the ethnoecological knowledge about climate change.\",\n    \"Quantify the risks of potential disruption of this SES due to projected loss of 50–70% of the Araucaria Forest due to climate change.\"\n  ],\n  \"methods\": [\n    \"Conduct interviews with 97 smallholders to assess their traditional ecological knowledge (TEK).\",\n    \"Evaluate and measure the socioeconomic impact of the araucaria’s nut-like seed trade and the ethnoecological knowledge about climate change.\",\n    \"Generate an ecosystem services network and use these empirical data with projected loss estimates to quantify the risks of potential disruption.\"\n  ],\n  \"results\": [\n    \"Identify the importance of valuing TEK holders, safeguarding the historical socio-ecological interaction, and promoting non-mutually exclusive measures to maintain the resilience of the Araucaria Forest.\",\n    \"Provide empirical evidence of the potential disruption of the Araucaria Forest SES due to climate change.\"\n  ],\n  \"research_subject\": \"Impact of climate change on the Araucaria Forest socio-ecological system and the role of traditional ecological knowledge in its preservation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Climate change threatens to disrupt socio-ecological systems by affecting the interdependence between human communities and ecosystems.\",\n    \"The Araucaria Forest in southern Brazil faces a projected loss of 50-70% due to climate change, potentially disrupting the historical interaction between humans and biodiversity.\"\n  ],\n  \"objectives\": [\n    \"Evaluate how climate change could disrupt the Araucaria Forest socio-ecological system and assess the role of traditional ecological knowledge in maintaining its resilience.\",\n    \"Quantify the socioeconomic impact of the araucaria seed trade and measure ethnoecological knowledge about climate change among local communities.\"\n  ],\n  \"methods\": [\n    \"Conducted interviews with smallholders to assess their traditional ecological knowledge and understanding of climate change impacts.\",\n    \"Generated an ecosystem services network and analyzed the socioeconomic importance of the araucaria seed trade.\",\n    \"Combined empirical data with climate change projections to evaluate risks to the socio-ecological system.\"\n  ],\n  \"results\": [\n    \"Traditional ecological knowledge holders and the preservation of historical socio-ecological interactions are critical for maintaining the Araucaria Forest's resilience to climate change.\",\n    \"Integrative measures that value local knowledge and promote sustainable practices can help prevent the disruption of this socio-ecological system.\"\n  ],\n  \"research_subject\": \"Traditional ecological knowledge and climate change impacts on the Araucaria Forest socio-ecological system in Brazil\"\n}\n```"
+}

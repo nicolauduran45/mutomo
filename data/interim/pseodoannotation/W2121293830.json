@@ -1,0 +1,68 @@
+{
+  "index": 467,
+  "title": "Paternal age and assisted reproductive outcomes in ICSI donor oocytes: is there an effect of older fathers?",
+  "abstract": "Does paternal age affect semen quality and reproductive outcomes in oocyte donor cycles with ICSI?Paternal age is associated with a decrease in sperm quality, however it does not affect either pregnancy or live birth rates in reproductive treatments when the oocytes come from donors <36 years old and ICSI is used.The weight of evidence suggest that paternal age is associated with decreasing sperm quality, but uncertainty remains as to whether reproductive outcomes are affected. Although developed to treat severe sperm factor infertility, ICSI is gaining popularity and is often used even in the presence of mild male factor infertility.A retrospective cohort study spanning the period between February 2007 and June 2010. A total of 4887 oocyte donation cycles were included.Fertilization was carried out by ICSI in all cycles included, and the semen sample used was from the male partner in all cases. The association of male age with semen parameters (volume, concentration, percentage of motile spermatozoa) was analyzed by multiple analysis of covariance. The association of male age with reproductive outcomes (biochemical pregnancy, miscarriage, ongoing pregnancy and live birth rate) was modeled by logistic regression, where the following covariates were introduced: donor age, recipient age, semen state (fresh versus frozen) and number of transferred embryos (3 and 2 versus 1).We identified a significant relationship between paternal age and all sperm parameters analyzed: for every 5 years of age, sperm volume decreases by 0.22 ml (P < 0.001), concentration increases by 3.1 million sperm/ml (P = 0.003) and percentage motile spermatozoa decreases by 1.2% (P < 0.001). No differences were found in reproductive outcomes (biochemical pregnancy, miscarriage, clinical pregnancy, ongoing pregnancy and live birth) among different male age groups.The use of donor oocytes, while extremely useful in highlighting the role of male age in reproductive outcomes, limits the generalization of our results to a population of young women with older male partners. No data were available on perinatal and obstetrical outcomes of these pregnancies. Most (75%) cycles used frozen/thawed sperm samples which might have introduced a bias owing to loss of viability after thawing. ICSI was performed in all cycles to control for fertilization method; this technique could mask the natural fertilization rate of poorer sperm samples. Furthermore, we did not use stringent ICSI indications; and our data are therefore not generalizable to cases where only severe male factor is considered. However, male patients were of different racial background, thus allowing generalizing our results to a wider patient base.Our study suggests that paternal age does not affect reproductive outcomes when the oocyte donor is <36 years of age, indicating that ICSI and oocyte quality can jointly overcome the lower reproductive potential of older semen.This study was supported in part by Fundació Privada EUGIN. The authors have no conflicts of interest to declare.",
+  "llama_json": {
+    "motivations": [
+      "There is uncertainty about the impact of paternal age on reproductive outcomes in assisted reproductive treatments.",
+      "The relationship between paternal age and semen quality is well-established, but its effect on reproductive outcomes is not well understood."
+    ],
+    "objectives": [
+      "Investigate the association between paternal age and semen quality in oocyte donor cycles with ICSI.",
+      "Examine the impact of paternal age on reproductive outcomes, including pregnancy and live birth rates, in oocyte donor cycles with ICSI."
+    ],
+    "methods": [
+      "Conduct a retrospective cohort study of oocyte donation cycles with ICSI.",
+      "Analyze the association between paternal age and semen parameters using multiple analysis of covariance.",
+      "Model the association between paternal age and reproductive outcomes using logistic regression."
+    ],
+    "results": [
+      "Paternal age is associated with a decrease in sperm quality, but does not affect reproductive outcomes in oocyte donor cycles with ICSI.",
+      "The use of ICSI and oocyte quality can jointly overcome the lower reproductive potential of older semen."
+    ],
+    "research_subject": "The impact of paternal age on reproductive outcomes in assisted reproductive treatments using ICSI and donor oocytes"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is uncertainty about the impact of paternal age on sperm quality and reproductive outcomes, especially in the context of oocyte donor cycles with ICSI.",
+      "The increasing use of ICSI in the presence of mild male factor infertility necessitates a better understanding of the role of paternal age."
+    ],
+    "objectives": [
+      "Investigate the association of paternal age with semen parameters and reproductive outcomes in oocyte donor cycles with ICSI.",
+      "Determine whether ICSI and oocyte quality can overcome the potential decrease in reproductive potential associated with older semen."
+    ],
+    "methods": [
+      "Conduct a retrospective cohort study of oocyte donation cycles, analyzing the association of male age with semen parameters and reproductive outcomes.",
+      "Use multiple analysis of covariance to analyze semen parameters and logistic regression to model reproductive outcomes."
+    ],
+    "results": [
+      "Identified a significant relationship between paternal age and all analyzed sperm parameters.",
+      "Found no differences in reproductive outcomes among different male age groups when the oocyte donor is less than 36 years old."
+    ],
+    "research_subject": "Impact of paternal age on semen quality and reproductive outcomes in ICSI donor oocytes"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The impact of paternal age on sperm quality and reproductive outcomes remains uncertain, particularly in assisted reproductive treatments.",
+      "ICSI is increasingly used even for mild male factor infertility, but its effectiveness in overcoming age-related sperm quality decline needs clarification."
+    ],
+    "objectives": [
+      "Determine whether paternal age affects semen quality and reproductive outcomes in oocyte donor cycles using ICSI.",
+      "Evaluate the relationship between male age and various reproductive parameters including pregnancy and live birth rates."
+    ],
+    "methods": [
+      "Conducted a retrospective cohort study analyzing oocyte donation cycles where fertilization was performed exclusively through ICSI.",
+      "Used multiple analysis of covariance to assess the association between male age and semen parameters.",
+      "Applied logistic regression modeling to analyze the relationship between paternal age and reproductive outcomes while controlling for multiple covariates."
+    ],
+    "results": [
+      "Paternal age significantly correlates with decreased sperm volume and motility but increased concentration.",
+      "No significant differences were found in reproductive outcomes across different male age groups when using donor oocytes from women under 36 years.",
+      "ICSI combined with young donor oocytes can effectively overcome the reduced reproductive potential associated with advanced paternal age."
+    ],
+    "research_subject": "Impact of paternal age on semen quality and reproductive outcomes in ICSI donor oocyte cycles"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is uncertainty about the impact of paternal age on reproductive outcomes in assisted reproductive treatments.\",\n    \"The relationship between paternal age and semen quality is well-established, but its effect on reproductive outcomes is not well understood.\"\n  ],\n  \"objectives\": [\n    \"Investigate the association between paternal age and semen quality in oocyte donor cycles with ICSI.\",\n    \"Examine the impact of paternal age on reproductive outcomes, including pregnancy and live birth rates, in oocyte donor cycles with ICSI.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective cohort study of oocyte donation cycles with ICSI.\",\n    \"Analyze the association between paternal age and semen parameters using multiple analysis of covariance.\",\n    \"Model the association between paternal age and reproductive outcomes using logistic regression.\"\n  ],\n  \"results\": [\n    \"Paternal age is associated with a decrease in sperm quality, but does not affect reproductive outcomes in oocyte donor cycles with ICSI.\",\n    \"The use of ICSI and oocyte quality can jointly overcome the lower reproductive potential of older semen.\"\n  ],\n  \"research_subject\": \"The impact of paternal age on reproductive outcomes in assisted reproductive treatments using ICSI and donor oocytes\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is uncertainty about the impact of paternal age on sperm quality and reproductive outcomes, especially in the context of oocyte donor cycles with ICSI.\",\n    \"The increasing use of ICSI in the presence of mild male factor infertility necessitates a better understanding of the role of paternal age.\"\n  ],\n  \"objectives\": [\n    \"Investigate the association of paternal age with semen parameters and reproductive outcomes in oocyte donor cycles with ICSI.\",\n    \"Determine whether ICSI and oocyte quality can overcome the potential decrease in reproductive potential associated with older semen.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective cohort study of oocyte donation cycles, analyzing the association of male age with semen parameters and reproductive outcomes.\",\n    \"Use multiple analysis of covariance to analyze semen parameters and logistic regression to model reproductive outcomes.\"\n  ],\n  \"results\": [\n    \"Identified a significant relationship between paternal age and all analyzed sperm parameters.\",\n    \"Found no differences in reproductive outcomes among different male age groups when the oocyte donor is less than 36 years old.\"\n  ],\n  \"research_subject\": \"Impact of paternal age on semen quality and reproductive outcomes in ICSI donor oocytes\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The impact of paternal age on sperm quality and reproductive outcomes remains uncertain, particularly in assisted reproductive treatments.\",\n    \"ICSI is increasingly used even for mild male factor infertility, but its effectiveness in overcoming age-related sperm quality decline needs clarification.\"\n  ],\n  \"objectives\": [\n    \"Determine whether paternal age affects semen quality and reproductive outcomes in oocyte donor cycles using ICSI.\",\n    \"Evaluate the relationship between male age and various reproductive parameters including pregnancy and live birth rates.\"\n  ],\n  \"methods\": [\n    \"Conducted a retrospective cohort study analyzing oocyte donation cycles where fertilization was performed exclusively through ICSI.\",\n    \"Used multiple analysis of covariance to assess the association between male age and semen parameters.\",\n    \"Applied logistic regression modeling to analyze the relationship between paternal age and reproductive outcomes while controlling for multiple covariates.\"\n  ],\n  \"results\": [\n    \"Paternal age significantly correlates with decreased sperm volume and motility but increased concentration.\",\n    \"No significant differences were found in reproductive outcomes across different male age groups when using donor oocytes from women under 36 years.\",\n    \"ICSI combined with young donor oocytes can effectively overcome the reduced reproductive potential associated with advanced paternal age.\"\n  ],\n  \"research_subject\": \"Impact of paternal age on semen quality and reproductive outcomes in ICSI donor oocyte cycles\"\n}\n```"
+}

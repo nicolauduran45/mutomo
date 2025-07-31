@@ -1,0 +1,67 @@
+{
+  "index": 431,
+  "title": "Quantification of mixing and dynamic uncertainty for transport in heterogeneous porous media",
+  "abstract": "Natural and engineered porous systems exhibit heterogeneity across several spatial scales leading to complex flow fields with strong fluctuations. The latter enhance the segregation and distortion of a transported scalar mixture, while diffusion promotes the local homogenization of it. In this context, spreading has been traditionally identified with the overall growth of the dissolved plume while mixing with the internal plume homogenization. Accurate quantification of mixing in heterogeneous media is one of the most relevant and still open challenges. Our current failure lay in the inability of capturing the interplay between flow fluctuations and local diffusion: the former promotes both the internal plume segregation (at early times, dominance of pure advection) and the subsequent homogenization (at late times; dominance of dispersion) by the sampling of flow fluctuations which trigger the internal folding and distortion of the plume enabling local homogenization by diffusion (coalescence mechanism). We here propose to predict mixing within a unified framework (Work package 1) which leverage on the Lamellar description of transport and capture the early (segregation) and late (coalescence) time impact of fluctuations by viewing spreading as a sub-plume scale process: the dispersion and interactions of Lamellae are captured through a continuous time random walk (CTRW) approach. At the same time, uncertainty about concentration distribution is a dynamic quantity ruled by the same physical mechanisms: plume segregation (uncertainty production) and homogenization (uncertainty reduction). We here take advantage of the insight from the novel transport model to close evolution equations (e.g., for the variance and the probability density function) apt to describe the dynamic uncertainty (Work package 2). We then explore the establishment of ergodicity for mixing under a variety of conditions (e.g., degree of heterogeneity, strength of diffusion and advection)",
+  "llama_json": {
+    "motivations": [
+      "Accurate quantification of mixing in heterogeneous porous media is a significant challenge due to the complex interplay between flow fluctuations and local diffusion.",
+      "Current methods fail to capture the dynamic uncertainty of concentration distributions, which is crucial for predicting mixing and transport in porous systems."
+    ],
+    "objectives": [
+      "Develop a unified framework to predict mixing in heterogeneous porous media, accounting for both segregation and homogenization processes.",
+      "Capture the dynamic uncertainty of concentration distributions using evolution equations and explore the establishment of ergodicity for mixing under various conditions."
+    ],
+    "methods": [
+      "Utilize the Lamellar description of transport and a continuous time random walk (CTRW) approach to model the dispersion and interactions of Lamellae.",
+      "Develop evolution equations (e.g., for variance and probability density function) to describe dynamic uncertainty and explore ergodicity under different conditions."
+    ],
+    "results": [
+      "Improve the accuracy of mixing predictions in heterogeneous porous media by capturing the interplay between flow fluctuations and local diffusion.",
+      "Provide a framework for quantifying dynamic uncertainty in concentration distributions, enabling better assessment of mixing and transport in porous systems."
+    ],
+    "research_subject": "Quantification of mixing and dynamic uncertainty in heterogeneous porous media"
+  },
+  "openai_json": {
+    "motivations": [
+      "Heterogeneity in natural and engineered porous systems leads to complex flow fields and strong fluctuations, making accurate quantification of mixing a significant challenge.",
+      "Current methods fail to capture the interplay between flow fluctuations and local diffusion, which are crucial for understanding the segregation and homogenization of transported scalar mixtures."
+    ],
+    "objectives": [
+      "Develop a unified framework to predict mixing in heterogeneous media, capturing both early and late time impacts of fluctuations.",
+      "Describe dynamic uncertainty in concentration distribution using insights from the novel transport model.",
+      "Explore the establishment of ergodicity for mixing under various conditions such as degree of heterogeneity, strength of diffusion and advection."
+    ],
+    "methods": [
+      "Leverage the Lamellar description of transport to capture the dispersion and interactions of sub-plume scale processes through a continuous time random walk (CTRW) approach.",
+      "Use the novel transport model to close evolution equations apt to describe the dynamic uncertainty."
+    ],
+    "results": [
+      "Provide a more accurate quantification of mixing in heterogeneous media by capturing the interplay between flow fluctuations and local diffusion.",
+      "Offer a better understanding of dynamic uncertainty in concentration distribution in heterogeneous porous systems.",
+      "Contribute to the understanding of the establishment of ergodicity for mixing under various conditions."
+    ],
+    "research_subject": "Quantification of mixing and dynamic uncertainty for transport in heterogeneous porous media"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Natural and engineered porous systems exhibit complex heterogeneity that creates strong flow fluctuations, making accurate quantification of mixing one of the most relevant open challenges.",
+      "Current approaches fail to capture the interplay between flow fluctuations and local diffusion, which governs both segregation and homogenization of transported scalar mixtures."
+    ],
+    "objectives": [
+      "Develop a unified framework to predict mixing in heterogeneous porous media by capturing both early-time segregation and late-time coalescence mechanisms.",
+      "Establish evolution equations to describe dynamic uncertainty in concentration distributions and explore the conditions for ergodicity in mixing processes."
+    ],
+    "methods": [
+      "Apply a Lamellar description of transport combined with continuous time random walk (CTRW) approach to model dispersion and interactions at sub-plume scales.",
+      "Develop evolution equations for variance and probability density functions to quantify dynamic uncertainty in concentration distributions."
+    ],
+    "results": [
+      "Provide accurate predictions of mixing processes in heterogeneous media by capturing the interplay between advection and diffusion at multiple scales.",
+      "Quantify the dynamic evolution of uncertainty in concentration distributions and establish conditions for ergodicity under varying degrees of heterogeneity and flow conditions."
+    ],
+    "research_subject": "Mixing and transport dynamics in heterogeneous porous media"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Accurate quantification of mixing in heterogeneous porous media is a significant challenge due to the complex interplay between flow fluctuations and local diffusion.\",\n    \"Current methods fail to capture the dynamic uncertainty of concentration distributions, which is crucial for predicting mixing and transport in porous systems.\"\n  ],\n  \"objectives\": [\n    \"Develop a unified framework to predict mixing in heterogeneous porous media, accounting for both segregation and homogenization processes.\",\n    \"Capture the dynamic uncertainty of concentration distributions using evolution equations and explore the establishment of ergodicity for mixing under various conditions.\"\n  ],\n  \"methods\": [\n    \"Utilize the Lamellar description of transport and a continuous time random walk (CTRW) approach to model the dispersion and interactions of Lamellae.\",\n    \"Develop evolution equations (e.g., for variance and probability density function) to describe dynamic uncertainty and explore ergodicity under different conditions.\"\n  ],\n  \"results\": [\n    \"Improve the accuracy of mixing predictions in heterogeneous porous media by capturing the interplay between flow fluctuations and local diffusion.\",\n    \"Provide a framework for quantifying dynamic uncertainty in concentration distributions, enabling better assessment of mixing and transport in porous systems.\"\n  ],\n  \"research_subject\": \"Quantification of mixing and dynamic uncertainty in heterogeneous porous media\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Heterogeneity in natural and engineered porous systems leads to complex flow fields and strong fluctuations, making accurate quantification of mixing a significant challenge.\",\n    \"Current methods fail to capture the interplay between flow fluctuations and local diffusion, which are crucial for understanding the segregation and homogenization of transported scalar mixtures.\"\n  ],\n  \"objectives\": [\n    \"Develop a unified framework to predict mixing in heterogeneous media, capturing both early and late time impacts of fluctuations.\",\n    \"Describe dynamic uncertainty in concentration distribution using insights from the novel transport model.\",\n    \"Explore the establishment of ergodicity for mixing under various conditions such as degree of heterogeneity, strength of diffusion and advection.\"\n  ],\n  \"methods\": [\n    \"Leverage the Lamellar description of transport to capture the dispersion and interactions of sub-plume scale processes through a continuous time random walk (CTRW) approach.\",\n    \"Use the novel transport model to close evolution equations apt to describe the dynamic uncertainty.\"\n  ],\n  \"results\": [\n    \"Provide a more accurate quantification of mixing in heterogeneous media by capturing the interplay between flow fluctuations and local diffusion.\",\n    \"Offer a better understanding of dynamic uncertainty in concentration distribution in heterogeneous porous systems.\",\n    \"Contribute to the understanding of the establishment of ergodicity for mixing under various conditions.\"\n  ],\n  \"research_subject\": \"Quantification of mixing and dynamic uncertainty for transport in heterogeneous porous media\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Natural and engineered porous systems exhibit complex heterogeneity that creates strong flow fluctuations, making accurate quantification of mixing one of the most relevant open challenges.\",\n    \"Current approaches fail to capture the interplay between flow fluctuations and local diffusion, which governs both segregation and homogenization of transported scalar mixtures.\"\n  ],\n  \"objectives\": [\n    \"Develop a unified framework to predict mixing in heterogeneous porous media by capturing both early-time segregation and late-time coalescence mechanisms.\",\n    \"Establish evolution equations to describe dynamic uncertainty in concentration distributions and explore the conditions for ergodicity in mixing processes.\"\n  ],\n  \"methods\": [\n    \"Apply a Lamellar description of transport combined with continuous time random walk (CTRW) approach to model dispersion and interactions at sub-plume scales.\",\n    \"Develop evolution equations for variance and probability density functions to quantify dynamic uncertainty in concentration distributions.\"\n  ],\n  \"results\": [\n    \"Provide accurate predictions of mixing processes in heterogeneous media by capturing the interplay between advection and diffusion at multiple scales.\",\n    \"Quantify the dynamic evolution of uncertainty in concentration distributions and establish conditions for ergodicity under varying degrees of heterogeneity and flow conditions.\"\n  ],\n  \"research_subject\": \"Mixing and transport dynamics in heterogeneous porous media\"\n}\n```"
+}

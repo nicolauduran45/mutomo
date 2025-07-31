@@ -1,0 +1,46 @@
+{
+  "index": 108,
+  "title": "Support for maintaining the business activity of the company E-LEKTROMEDIA.PL Marzena Kościuk in the context of a significant decrease in turnover due to COVID-19.",
+  "abstract": "The project concerns support for the working capital of E-LEKTROMEDIA.PL Marzena Koścuk in the event of a significant decrease in turnover (revenue from sales) due to the disruption of the economy as a result of COVID-19.",
+  "llama_json": {
+    "motivations": [
+      "The company E-LEKTROMEDIA.PL Marzena Kościuk is facing a significant decrease in turnover due to the disruption of the economy caused by COVID-19."
+    ],
+    "objectives": [
+      "Provide support for the working capital of E-LEKTROMEDIA.PL Marzena Kościuk to help maintain business activity."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Support for maintaining business activity during economic disruption caused by COVID-19"
+  },
+  "openai_json": {
+    "motivations": [
+      "The company E-LEKTROMEDIA.PL Marzena Kościuk is experiencing a significant decrease in turnover due to the economic disruption caused by COVID-19."
+    ],
+    "objectives": [
+      "Provide support for the working capital of E-LEKTROMEDIA.PL Marzena Kościuk to maintain business activity during the COVID-19 pandemic."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Support for maintaining business activity during COVID-19"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The COVID-19 pandemic has caused significant disruption to the economy, resulting in decreased turnover for businesses.",
+      "Companies experiencing revenue decline due to COVID-19 require financial support to maintain their business operations."
+    ],
+    "objectives": [
+      "Provide working capital support to E-LEKTROMEDIA.PL Marzena Kościuk to maintain business activity during the COVID-19 crisis."
+    ],
+    "methods": [
+      "Financial support mechanism for working capital to address revenue shortfalls."
+    ],
+    "results": [
+      "Enable the company to maintain business operations despite significant decrease in sales revenue due to COVID-19."
+    ],
+    "research_subject": "Financial support for business continuity during COVID-19 economic disruption"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The company E-LEKTROMEDIA.PL Marzena Kościuk is facing a significant decrease in turnover due to the disruption of the economy caused by COVID-19.\"\n  ],\n  \"objectives\": [\n    \"Provide support for the working capital of E-LEKTROMEDIA.PL Marzena Kościuk to help maintain business activity.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Support for maintaining business activity during economic disruption caused by COVID-19\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The company E-LEKTROMEDIA.PL Marzena Kościuk is experiencing a significant decrease in turnover due to the economic disruption caused by COVID-19.\"\n  ],\n  \"objectives\": [\n    \"Provide support for the working capital of E-LEKTROMEDIA.PL Marzena Kościuk to maintain business activity during the COVID-19 pandemic.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Support for maintaining business activity during COVID-19\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The COVID-19 pandemic has caused significant disruption to the economy, resulting in decreased turnover for businesses.\",\n    \"Companies experiencing revenue decline due to COVID-19 require financial support to maintain their business operations.\"\n  ],\n  \"objectives\": [\n    \"Provide working capital support to E-LEKTROMEDIA.PL Marzena Kościuk to maintain business activity during the COVID-19 crisis.\"\n  ],\n  \"methods\": [\n    \"Financial support mechanism for working capital to address revenue shortfalls.\"\n  ],\n  \"results\": [\n    \"Enable the company to maintain business operations despite significant decrease in sales revenue due to COVID-19.\"\n  ],\n  \"research_subject\": \"Financial support for business continuity during COVID-19 economic disruption\"\n}\n```"
+}

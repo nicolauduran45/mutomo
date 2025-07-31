@@ -1,0 +1,73 @@
+{
+  "index": 247,
+  "title": "Temporality of permanence –material and socio-spatial practices in african urbanism",
+  "abstract": "The constructed materiality of African urbanism can be seen in buildings and the urban layout, especially when they aspire to permanence by building in stone. These built environments have mostly been analysed through the rather static lens of individual periods and social forces, resulting in uniformly interpreted organic growth (for pre-colonial periods), or as in stages of progress towards the fulfilment of a grand master plan (predominantly in the colonial and post-colonial era). This project seeks to explore the social temporality of African urbanism against the context of its material complements from the perspectives of a range of social and human sciences, in order to obtain a dynamic picture from before to after the colonial era. I aim to provide analyses relevant to the ever more pressing issues of urban ethnic/social coexistence and the implications of urban development. I would like to extend my research on material expression and change in urban Swahili archaeology, and incorporate aspects of sociology (living in neighbourhoods in densely populated environments), history (representations and accounts of past experience) and social anthropology (the meanings of space). I will study the spatial materiality of African cities, as it is demonstrated in their layout and in the organisation of buildings, looking at how these urban patterns are produced, used and continually altered, and how a 'building heritage' emerges from these. My aim is to derive how this influences the social life of inhabitants and visitors, and how it in turn induces ongoing processes of change in material representations. First phase of the project is to be undertaken at the Centre of African Studies, University of Basel, Switzerland, which can provide me with excellent support in African social studies. In the 2nd phase at Uppsala University, Sweden, under the supervision of Professor Paul Lane, I will focus on the implications for the Swahili coast and African archaeology.",
+  "llama_json": {
+    "motivations": [
+      "Current analyses of African urbanism often rely on static perspectives, neglecting the dynamic interplay between material and socio-spatial practices.",
+      "There is a need to better understand the social temporality of African urbanism and its implications for urban development and ethnic/social coexistence."
+    ],
+    "objectives": [
+      "Explore the social temporality of African urbanism through a multidisciplinary approach, incorporating archaeology, sociology, history, and social anthropology.",
+      "Analyze the spatial materiality of African cities and its impact on the social life of inhabitants and visitors.",
+      "Derive insights into the ongoing processes of change in material representations and their implications for urban development."
+    ],
+    "methods": [
+      "Conduct research on material expression and change in urban Swahili archaeology.",
+      "Incorporate sociological, historical, and social anthropological perspectives to study the meanings of space and the organization of buildings.",
+      "Undertake a two-phase project at the Centre of African Studies, University of Basel, and Uppsala University, Sweden, under the supervision of Professor Paul Lane."
+    ],
+    "results": [
+      "Gain a dynamic understanding of African urbanism and its material and socio-spatial practices.",
+      "Provide insights into the implications of urban development for ethnic/social coexistence and the emergence of a 'building heritage'.",
+      "Contribute to a more nuanced understanding of the Swahili coast and African archaeology."
+    ],
+    "research_subject": "The temporality of permanence in African urbanism, focusing on material and socio-spatial practices"
+  },
+  "openai_json": {
+    "motivations": [
+      "Existing analyses of African urbanism have been largely static, focusing on individual periods and social forces, resulting in a lack of dynamic understanding of its evolution.",
+      "There is a need to understand the social and material aspects of African urbanism in a more integrated and dynamic way, especially in the context of urban ethnic/social coexistence and urban development."
+    ],
+    "objectives": [
+      "Explore the social temporality of African urbanism in relation to its material aspects, aiming to provide a dynamic picture from pre-colonial to post-colonial era.",
+      "Extend research on material expression and change in urban Swahili archaeology, incorporating aspects of sociology, history, and social anthropology.",
+      "Study the spatial materiality of African cities, their layout, organization of buildings, and how these urban patterns are produced, used, and continually altered."
+    ],
+    "methods": [
+      "Analyse the spatial materiality of African cities, focusing on their layout and the organization of buildings.",
+      "Investigate how urban patterns are produced, used, and continually altered, and how a 'building heritage' emerges from these.",
+      "Conduct the research in two phases, first at the Centre of African Studies, University of Basel, Switzerland, focusing on African social studies, and then at Uppsala University, Sweden, focusing on implications for the Swahili coast and African archaeology."
+    ],
+    "results": [
+      "Provide a dynamic understanding of African urbanism, integrating material and social aspects.",
+      "Offer insights into the implications of urban development and ethnic/social coexistence in African cities.",
+      "Contribute to the understanding of how urban patterns influence the social life of inhabitants and visitors, and how they induce ongoing processes of change in material representations."
+    ],
+    "research_subject": "Material and socio-spatial practices in African urbanism"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "African urban environments have been analyzed through static perspectives that fail to capture their dynamic nature and temporal changes.",
+      "There is a need to understand how material and spatial practices in African cities influence social coexistence and urban development across different historical periods."
+    ],
+    "objectives": [
+      "Explore the social temporality of African urbanism and its material expressions from pre-colonial to post-colonial periods through interdisciplinary perspectives.",
+      "Analyze how urban spatial patterns are produced, used, and altered, and how this influences the social life of inhabitants and the emergence of building heritage."
+    ],
+    "methods": [
+      "Integrate approaches from archaeology, sociology, history, and social anthropology to study material expression and change in African urban contexts.",
+      "Examine the spatial materiality of African cities through analysis of urban layouts and building organization.",
+      "Conduct research in two phases at specialized African studies centers to investigate urban patterns and their implications for the Swahili coast."
+    ],
+    "results": [
+      "Provide a dynamic understanding of African urbanism that addresses issues of urban ethnic and social coexistence.",
+      "Reveal how material representations in African cities influence social life and induce ongoing processes of urban change.",
+      "Contribute new insights on the relationship between building heritage and social practices in African urban development."
+    ],
+    "research_subject": "Material and socio-spatial practices in African urbanism from pre-colonial to post-colonial periods"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current analyses of African urbanism often rely on static perspectives, neglecting the dynamic interplay between material and socio-spatial practices.\",\n    \"There is a need to better understand the social temporality of African urbanism and its implications for urban development and ethnic/social coexistence.\"\n  ],\n  \"objectives\": [\n    \"Explore the social temporality of African urbanism through a multidisciplinary approach, incorporating archaeology, sociology, history, and social anthropology.\",\n    \"Analyze the spatial materiality of African cities and its impact on the social life of inhabitants and visitors.\",\n    \"Derive insights into the ongoing processes of change in material representations and their implications for urban development.\"\n  ],\n  \"methods\": [\n    \"Conduct research on material expression and change in urban Swahili archaeology.\",\n    \"Incorporate sociological, historical, and social anthropological perspectives to study the meanings of space and the organization of buildings.\",\n    \"Undertake a two-phase project at the Centre of African Studies, University of Basel, and Uppsala University, Sweden, under the supervision of Professor Paul Lane.\"\n  ],\n  \"results\": [\n    \"Gain a dynamic understanding of African urbanism and its material and socio-spatial practices.\",\n    \"Provide insights into the implications of urban development for ethnic/social coexistence and the emergence of a 'building heritage'.\",\n    \"Contribute to a more nuanced understanding of the Swahili coast and African archaeology.\"\n  ],\n  \"research_subject\": \"The temporality of permanence in African urbanism, focusing on material and socio-spatial practices\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Existing analyses of African urbanism have been largely static, focusing on individual periods and social forces, resulting in a lack of dynamic understanding of its evolution.\",\n    \"There is a need to understand the social and material aspects of African urbanism in a more integrated and dynamic way, especially in the context of urban ethnic/social coexistence and urban development.\"\n  ],\n  \"objectives\": [\n    \"Explore the social temporality of African urbanism in relation to its material aspects, aiming to provide a dynamic picture from pre-colonial to post-colonial era.\",\n    \"Extend research on material expression and change in urban Swahili archaeology, incorporating aspects of sociology, history, and social anthropology.\",\n    \"Study the spatial materiality of African cities, their layout, organization of buildings, and how these urban patterns are produced, used, and continually altered.\"\n  ],\n  \"methods\": [\n    \"Analyse the spatial materiality of African cities, focusing on their layout and the organization of buildings.\",\n    \"Investigate how urban patterns are produced, used, and continually altered, and how a 'building heritage' emerges from these.\",\n    \"Conduct the research in two phases, first at the Centre of African Studies, University of Basel, Switzerland, focusing on African social studies, and then at Uppsala University, Sweden, focusing on implications for the Swahili coast and African archaeology.\"\n  ],\n  \"results\": [\n    \"Provide a dynamic understanding of African urbanism, integrating material and social aspects.\",\n    \"Offer insights into the implications of urban development and ethnic/social coexistence in African cities.\",\n    \"Contribute to the understanding of how urban patterns influence the social life of inhabitants and visitors, and how they induce ongoing processes of change in material representations.\"\n  ],\n  \"research_subject\": \"Material and socio-spatial practices in African urbanism\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"African urban environments have been analyzed through static perspectives that fail to capture their dynamic nature and temporal changes.\",\n    \"There is a need to understand how material and spatial practices in African cities influence social coexistence and urban development across different historical periods.\"\n  ],\n  \"objectives\": [\n    \"Explore the social temporality of African urbanism and its material expressions from pre-colonial to post-colonial periods through interdisciplinary perspectives.\",\n    \"Analyze how urban spatial patterns are produced, used, and altered, and how this influences the social life of inhabitants and the emergence of building heritage.\"\n  ],\n  \"methods\": [\n    \"Integrate approaches from archaeology, sociology, history, and social anthropology to study material expression and change in African urban contexts.\",\n    \"Examine the spatial materiality of African cities through analysis of urban layouts and building organization.\",\n    \"Conduct research in two phases at specialized African studies centers to investigate urban patterns and their implications for the Swahili coast.\"\n  ],\n  \"results\": [\n    \"Provide a dynamic understanding of African urbanism that addresses issues of urban ethnic and social coexistence.\",\n    \"Reveal how material representations in African cities influence social life and induce ongoing processes of urban change.\",\n    \"Contribute new insights on the relationship between building heritage and social practices in African urban development.\"\n  ],\n  \"research_subject\": \"Material and socio-spatial practices in African urbanism from pre-colonial to post-colonial periods\"\n}\n```"
+}

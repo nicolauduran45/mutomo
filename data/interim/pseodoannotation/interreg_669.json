@@ -1,0 +1,71 @@
+{
+  "index": 292,
+  "title": "Upgraded Health Structures in the Cross Border Area",
+  "abstract": "In recent years there has been a constant movement of patients from rural to urban areas. Within this framework of healthcare disparity within regions, the project aims to:                                                                          • Create upgraded secondary care structures for citizens in the cross border area • Increase the quality of health service provision both to local and moving population (tourists, migrants etc).                                                                            • Improve provided services • Eliminate the conditions excluding sensitive social groups by encouraging cross border healthcare cooperation among structures and their management ",
+  "llama_json": {
+    "motivations": [
+      "There is a significant disparity in healthcare services between rural and urban areas, leading to a movement of patients from rural to urban areas.",
+      "Sensitive social groups face exclusion from adequate healthcare services in the cross-border area."
+    ],
+    "objectives": [
+      "Create upgraded secondary care structures to improve healthcare services for citizens in the cross-border area.",
+      "Enhance the quality of health service provision for both local and mobile populations, including tourists and migrants.",
+      "Promote cross-border healthcare cooperation to eliminate exclusions and improve services for sensitive social groups."
+    ],
+    "methods": [
+      "Develop and upgrade healthcare infrastructure in the cross-border area.",
+      "Foster cooperation and coordination among healthcare structures and their management to improve service provision."
+    ],
+    "results": [
+      "Improved access to quality healthcare services for citizens in the cross-border area.",
+      "Enhanced healthcare provision for sensitive social groups and mobile populations.",
+      "Increased cooperation and coordination among healthcare structures in the region."
+    ],
+    "research_subject": "Upgrading healthcare structures and services in cross-border areas"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a growing disparity in healthcare access between rural and urban areas, leading to a constant movement of patients.",
+      "There is a need to improve the quality of health service provision to both local and moving populations.",
+      "Sensitive social groups are often excluded from healthcare services, necessitating measures to eliminate such conditions."
+    ],
+    "objectives": [
+      "Create upgraded secondary care structures for citizens in the cross border area.",
+      "Increase the quality of health service provision to both local and moving populations.",
+      "Encourage cross border healthcare cooperation among structures and their management to eliminate conditions excluding sensitive social groups."
+    ],
+    "methods": [
+      "Establish upgraded secondary care structures in the cross border area.",
+      "Implement measures to improve the quality of health service provision.",
+      "Promote cross border healthcare cooperation among different healthcare structures and their management."
+    ],
+    "results": [
+      "Improved healthcare access and quality for citizens in the cross border area.",
+      "Enhanced health service provision to both local and moving populations.",
+      "Reduced healthcare exclusion of sensitive social groups through cross border cooperation."
+    ],
+    "research_subject": "Upgrading health structures and improving healthcare provision in cross border areas"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Healthcare disparities exist between rural and urban areas, with patients constantly moving from rural to urban regions for medical care.",
+      "Sensitive social groups face exclusion from adequate healthcare services in cross-border regions."
+    ],
+    "objectives": [
+      "Create upgraded secondary care structures and improve the quality of health service provision for citizens in the cross-border area.",
+      "Eliminate conditions that exclude sensitive social groups and encourage cross-border healthcare cooperation among structures and their management."
+    ],
+    "methods": [
+      "Develop and upgrade secondary healthcare infrastructure in the cross-border area.",
+      "Implement cross-border healthcare cooperation mechanisms among healthcare structures and management systems."
+    ],
+    "results": [
+      "Enhanced healthcare services will be available to both local residents and mobile populations including tourists and migrants.",
+      "Improved access to healthcare for sensitive social groups through better cross-border cooperation and upgraded facilities."
+    ],
+    "research_subject": "Cross-border healthcare infrastructure development and cooperation"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a significant disparity in healthcare services between rural and urban areas, leading to a movement of patients from rural to urban areas.\",\n    \"Sensitive social groups face exclusion from adequate healthcare services in the cross-border area.\"\n  ],\n  \"objectives\": [\n    \"Create upgraded secondary care structures to improve healthcare services for citizens in the cross-border area.\",\n    \"Enhance the quality of health service provision for both local and mobile populations, including tourists and migrants.\",\n    \"Promote cross-border healthcare cooperation to eliminate exclusions and improve services for sensitive social groups.\"\n  ],\n  \"methods\": [\n    \"Develop and upgrade healthcare infrastructure in the cross-border area.\",\n    \"Foster cooperation and coordination among healthcare structures and their management to improve service provision.\"\n  ],\n  \"results\": [\n    \"Improved access to quality healthcare services for citizens in the cross-border area.\",\n    \"Enhanced healthcare provision for sensitive social groups and mobile populations.\",\n    \"Increased cooperation and coordination among healthcare structures in the region.\"\n  ],\n  \"research_subject\": \"Upgrading healthcare structures and services in cross-border areas\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a growing disparity in healthcare access between rural and urban areas, leading to a constant movement of patients.\",\n    \"There is a need to improve the quality of health service provision to both local and moving populations.\",\n    \"Sensitive social groups are often excluded from healthcare services, necessitating measures to eliminate such conditions.\"\n  ],\n  \"objectives\": [\n    \"Create upgraded secondary care structures for citizens in the cross border area.\",\n    \"Increase the quality of health service provision to both local and moving populations.\",\n    \"Encourage cross border healthcare cooperation among structures and their management to eliminate conditions excluding sensitive social groups.\"\n  ],\n  \"methods\": [\n    \"Establish upgraded secondary care structures in the cross border area.\",\n    \"Implement measures to improve the quality of health service provision.\",\n    \"Promote cross border healthcare cooperation among different healthcare structures and their management.\"\n  ],\n  \"results\": [\n    \"Improved healthcare access and quality for citizens in the cross border area.\",\n    \"Enhanced health service provision to both local and moving populations.\",\n    \"Reduced healthcare exclusion of sensitive social groups through cross border cooperation.\"\n  ],\n  \"research_subject\": \"Upgrading health structures and improving healthcare provision in cross border areas\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Healthcare disparities exist between rural and urban areas, with patients constantly moving from rural to urban regions for medical care.\",\n    \"Sensitive social groups face exclusion from adequate healthcare services in cross-border regions.\"\n  ],\n  \"objectives\": [\n    \"Create upgraded secondary care structures and improve the quality of health service provision for citizens in the cross-border area.\",\n    \"Eliminate conditions that exclude sensitive social groups and encourage cross-border healthcare cooperation among structures and their management.\"\n  ],\n  \"methods\": [\n    \"Develop and upgrade secondary healthcare infrastructure in the cross-border area.\",\n    \"Implement cross-border healthcare cooperation mechanisms among healthcare structures and management systems.\"\n  ],\n  \"results\": [\n    \"Enhanced healthcare services will be available to both local residents and mobile populations including tourists and migrants.\",\n    \"Improved access to healthcare for sensitive social groups through better cross-border cooperation and upgraded facilities.\"\n  ],\n  \"research_subject\": \"Cross-border healthcare infrastructure development and cooperation\"\n}\n```"
+}

@@ -1,0 +1,65 @@
+{
+  "index": 145,
+  "title": "Age-Related Changes in Postural Responses to Backward Platform Translation",
+  "abstract": "The aim of the study was to investigate age-related changes in postural responses to platform translation with 3 various velocities. We focused on the influence of linear velocity using the smoothed profile of platform acceleration (till 100 cm.s−2). Eleven healthy young (20-31 years) and eleven healthy elderly (65-76 years) subjects were examined. The subjects stood on the force platform with their eyes closed. Each trial (lasting for 8 sec) with different velocity (10, 15, 20 cm.s−1) of 20 cm backward platform translation was repeated 4 times. We have recorded displacements of the centre of pressure (CoP) and the EMG activity of gastrocnemius muscle (GS) and tibialis anterior muscle (TA). The results showed increased maximal values of CoP responses to the platform translation. There was also observed a scaling delay of CoP responses to platform translation with different velocities in elderly. The EMG activity of GS muscle during backward platform translation was of about similar shape in both groups during the slowest platform velocity, but it increased depending on rising velocity. EMG activity of TA was not related to the platform velocity. Early parts of postural responses showed significant co-activation of TA and GS muscles of elderly. It is likely that elderly increased body stiffening in order to help their further balance control.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand how aging affects postural responses to different velocities of platform translation.",
+      "Age-related changes in balance control mechanisms are not well understood, particularly in relation to platform translation velocities."
+    ],
+    "objectives": [
+      "Investigate age-related changes in postural responses to backward platform translation with varying velocities.",
+      "Examine the influence of linear velocity on postural responses in young and elderly subjects."
+    ],
+    "methods": [
+      "Use a force platform to measure displacements of the centre of pressure and EMG activity of gastrocnemius and tibialis anterior muscles.",
+      "Compare postural responses between young and elderly subjects at different platform translation velocities."
+    ],
+    "results": [
+      "Elderly subjects showed increased maximal values of centre of pressure responses and scaling delays in response to platform translation.",
+      "Elderly subjects exhibited co-activation of gastrocnemius and tibialis anterior muscles during early postural responses, indicating increased body stiffening for balance control."
+    ],
+    "research_subject": "Age-related changes in postural responses to backward platform translation"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand how age-related changes affect postural responses to platform translation at different velocities."
+    ],
+    "objectives": [
+      "Investigate the influence of linear velocity on postural responses in young and elderly subjects during backward platform translation.",
+      "Analyze the displacement of the centre of pressure (CoP) and the EMG activity of gastrocnemius muscle (GS) and tibialis anterior muscle (TA) in response to platform translation."
+    ],
+    "methods": [
+      "Conduct trials with different velocities of backward platform translation on young and elderly subjects.",
+      "Record the displacement of the CoP and the EMG activity of GS and TA muscles during the trials."
+    ],
+    "results": [
+      "Identified increased maximal values of CoP responses and a scaling delay of CoP responses to platform translation with different velocities in elderly subjects.",
+      "Observed similar EMG activity of GS muscle in both age groups during the slowest platform velocity, but it increased with rising velocity.",
+      "Noted significant co-activation of TA and GS muscles in elderly subjects during early parts of postural responses."
+    ],
+    "research_subject": "Age-related changes in postural responses to backward platform translation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding how aging affects postural control mechanisms is crucial for preventing falls and maintaining mobility in elderly populations.",
+      "There is limited knowledge about how different platform translation velocities influence age-related changes in postural responses."
+    ],
+    "objectives": [
+      "Investigate age-related differences in postural responses to backward platform translations at various velocities.",
+      "Examine the influence of linear velocity on center of pressure displacement and muscle activation patterns in young versus elderly subjects."
+    ],
+    "methods": [
+      "Subjects stood on a force platform with eyes closed during backward platform translations at three different velocities.",
+      "Center of pressure displacements and EMG activity of gastrocnemius and tibialis anterior muscles were recorded and analyzed."
+    ],
+    "results": [
+      "Elderly subjects showed increased maximal center of pressure responses and delayed scaling of responses to different platform velocities compared to young subjects.",
+      "Elderly subjects demonstrated significant co-activation of antagonist muscles in early postural responses, suggesting increased body stiffening as a compensatory strategy for balance control."
+    ],
+    "research_subject": "Age-related changes in postural control responses to dynamic perturbations"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand how aging affects postural responses to different velocities of platform translation.\",\n    \"Age-related changes in balance control mechanisms are not well understood, particularly in relation to platform translation velocities.\"\n  ],\n  \"objectives\": [\n    \"Investigate age-related changes in postural responses to backward platform translation with varying velocities.\",\n    \"Examine the influence of linear velocity on postural responses in young and elderly subjects.\"\n  ],\n  \"methods\": [\n    \"Use a force platform to measure displacements of the centre of pressure and EMG activity of gastrocnemius and tibialis anterior muscles.\",\n    \"Compare postural responses between young and elderly subjects at different platform translation velocities.\"\n  ],\n  \"results\": [\n    \"Elderly subjects showed increased maximal values of centre of pressure responses and scaling delays in response to platform translation.\",\n    \"Elderly subjects exhibited co-activation of gastrocnemius and tibialis anterior muscles during early postural responses, indicating increased body stiffening for balance control.\"\n  ],\n  \"research_subject\": \"Age-related changes in postural responses to backward platform translation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand how age-related changes affect postural responses to platform translation at different velocities.\"\n  ],\n  \"objectives\": [\n    \"Investigate the influence of linear velocity on postural responses in young and elderly subjects during backward platform translation.\",\n    \"Analyze the displacement of the centre of pressure (CoP) and the EMG activity of gastrocnemius muscle (GS) and tibialis anterior muscle (TA) in response to platform translation.\"\n  ],\n  \"methods\": [\n    \"Conduct trials with different velocities of backward platform translation on young and elderly subjects.\",\n    \"Record the displacement of the CoP and the EMG activity of GS and TA muscles during the trials.\"\n  ],\n  \"results\": [\n    \"Identified increased maximal values of CoP responses and a scaling delay of CoP responses to platform translation with different velocities in elderly subjects.\",\n    \"Observed similar EMG activity of GS muscle in both age groups during the slowest platform velocity, but it increased with rising velocity.\",\n    \"Noted significant co-activation of TA and GS muscles in elderly subjects during early parts of postural responses.\"\n  ],\n  \"research_subject\": \"Age-related changes in postural responses to backward platform translation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how aging affects postural control mechanisms is crucial for preventing falls and maintaining mobility in elderly populations.\",\n    \"There is limited knowledge about how different platform translation velocities influence age-related changes in postural responses.\"\n  ],\n  \"objectives\": [\n    \"Investigate age-related differences in postural responses to backward platform translations at various velocities.\",\n    \"Examine the influence of linear velocity on center of pressure displacement and muscle activation patterns in young versus elderly subjects.\"\n  ],\n  \"methods\": [\n    \"Subjects stood on a force platform with eyes closed during backward platform translations at three different velocities.\",\n    \"Center of pressure displacements and EMG activity of gastrocnemius and tibialis anterior muscles were recorded and analyzed.\"\n  ],\n  \"results\": [\n    \"Elderly subjects showed increased maximal center of pressure responses and delayed scaling of responses to different platform velocities compared to young subjects.\",\n    \"Elderly subjects demonstrated significant co-activation of antagonist muscles in early postural responses, suggesting increased body stiffening as a compensatory strategy for balance control.\"\n  ],\n  \"research_subject\": \"Age-related changes in postural control responses to dynamic perturbations\"\n}\n```"
+}

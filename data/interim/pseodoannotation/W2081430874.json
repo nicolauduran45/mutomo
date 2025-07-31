@@ -1,0 +1,67 @@
+{
+  "index": 140,
+  "title": "The deconvolution of thermoluminescence glow-curves using general expressions derived from the one trap-one recombination (OTOR) level model",
+  "abstract": "The new developed thermoluminescence (TL) glow-peak expressions derived from the one trap-one recombination (OTOR) level model were used to analyze the TL glow-curves recorded with linear and exponential heating function profiles under various experimental conditions. The results showed that these expressions can, accurately, analyze the TL glow-curves even with the overlapped glow-peaks. Low values of R = A n / A m were reported for glow-peaks in different TL materials. A glow-peak with the possibility of A n > A m was also pointed out. • The accuracy of the TL expressions derived from the OTOR model was verified. • EHF and LHF glow-curves were deconvoluted using TL expressions based on OTOR model. • Low values of R = A n / A m were reported for some glow-peaks. • A glow-peak with the possibility of A n > A m was pointed out.",
+  "llama_json": {
+    "motivations": [
+      "Thermoluminescence (TL) glow-curves often exhibit overlapped glow-peaks, making accurate analysis challenging.",
+      "Existing methods may struggle to accurately deconvolute TL glow-curves, particularly under varying experimental conditions."
+    ],
+    "objectives": [
+      "Evaluate the effectiveness of newly developed TL glow-peak expressions derived from the one trap-one recombination (OTOR) level model in analyzing TL glow-curves.",
+      "Demonstrate the accuracy of these expressions in deconvoluting TL glow-curves with overlapped glow-peaks under different experimental conditions."
+    ],
+    "methods": [
+      "Utilize TL glow-peak expressions derived from the OTOR model to analyze TL glow-curves recorded with linear and exponential heating function profiles.",
+      "Apply these expressions to deconvolute TL glow-curves with overlapped glow-peaks under various experimental conditions."
+    ],
+    "results": [
+      "The TL expressions derived from the OTOR model accurately analyzed TL glow-curves, even with overlapped glow-peaks.",
+      "Low values of R = A n / A m were reported for glow-peaks in different TL materials, and a glow-peak with the possibility of A n > A m was identified."
+    ],
+    "research_subject": "Deconvolution of thermoluminescence glow-curves using the one trap-one recombination (OTOR) level model"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for accurate analysis of thermoluminescence (TL) glow-curves, especially those with overlapped glow-peaks.",
+      "The one trap-one recombination (OTOR) level model has potential for deriving expressions to analyze TL glow-curves under various experimental conditions."
+    ],
+    "objectives": [
+      "Use the newly developed TL glow-peak expressions derived from the OTOR level model to analyze TL glow-curves with linear and exponential heating function profiles.",
+      "Verify the accuracy of the TL expressions derived from the OTOR model.",
+      "Identify and report the values of R = A n / A m for glow-peaks in different TL materials."
+    ],
+    "methods": [
+      "Apply the TL glow-peak expressions derived from the OTOR model to analyze TL glow-curves recorded under various experimental conditions.",
+      "Deconvolute EHF and LHF glow-curves using TL expressions based on the OTOR model."
+    ],
+    "results": [
+      "The TL expressions derived from the OTOR model accurately analyzed the TL glow-curves, even those with overlapped glow-peaks.",
+      "Low values of R = A n / A m were reported for some glow-peaks.",
+      "A glow-peak with the possibility of A n > A m was identified."
+    ],
+    "research_subject": "Deconvolution of thermoluminescence glow-curves using expressions derived from the one trap-one recombination level model"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Existing methods for analyzing thermoluminescence glow-curves face challenges in accurately deconvoluting overlapped glow-peaks.",
+      "There is a need for improved theoretical models to analyze TL glow-curves under various experimental conditions and heating profiles."
+    ],
+    "objectives": [
+      "Develop and validate new thermoluminescence glow-peak expressions derived from the one trap-one recombination (OTOR) level model.",
+      "Analyze TL glow-curves recorded with linear and exponential heating function profiles to demonstrate the accuracy of the new expressions."
+    ],
+    "methods": [
+      "Derive general expressions for TL glow-peaks based on the one trap-one recombination (OTOR) level model.",
+      "Apply these expressions to deconvolute TL glow-curves recorded under various experimental conditions with different heating profiles."
+    ],
+    "results": [
+      "The new expressions accurately analyzed TL glow-curves including those with overlapped glow-peaks.",
+      "Low values of R = An/Am were identified for glow-peaks in different TL materials, with some peaks showing the possibility of An > Am."
+    ],
+    "research_subject": "Deconvolution of thermoluminescence glow-curves using the one trap-one recombination (OTOR) model"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Thermoluminescence (TL) glow-curves often exhibit overlapped glow-peaks, making accurate analysis challenging.\",\n    \"Existing methods may struggle to accurately deconvolute TL glow-curves, particularly under varying experimental conditions.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the effectiveness of newly developed TL glow-peak expressions derived from the one trap-one recombination (OTOR) level model in analyzing TL glow-curves.\",\n    \"Demonstrate the accuracy of these expressions in deconvoluting TL glow-curves with overlapped glow-peaks under different experimental conditions.\"\n  ],\n  \"methods\": [\n    \"Utilize TL glow-peak expressions derived from the OTOR model to analyze TL glow-curves recorded with linear and exponential heating function profiles.\",\n    \"Apply these expressions to deconvolute TL glow-curves with overlapped glow-peaks under various experimental conditions.\"\n  ],\n  \"results\": [\n    \"The TL expressions derived from the OTOR model accurately analyzed TL glow-curves, even with overlapped glow-peaks.\",\n    \"Low values of R = A n / A m were reported for glow-peaks in different TL materials, and a glow-peak with the possibility of A n > A m was identified.\"\n  ],\n  \"research_subject\": \"Deconvolution of thermoluminescence glow-curves using the one trap-one recombination (OTOR) level model\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for accurate analysis of thermoluminescence (TL) glow-curves, especially those with overlapped glow-peaks.\",\n    \"The one trap-one recombination (OTOR) level model has potential for deriving expressions to analyze TL glow-curves under various experimental conditions.\"\n  ],\n  \"objectives\": [\n    \"Use the newly developed TL glow-peak expressions derived from the OTOR level model to analyze TL glow-curves with linear and exponential heating function profiles.\",\n    \"Verify the accuracy of the TL expressions derived from the OTOR model.\",\n    \"Identify and report the values of R = A n / A m for glow-peaks in different TL materials.\"\n  ],\n  \"methods\": [\n    \"Apply the TL glow-peak expressions derived from the OTOR model to analyze TL glow-curves recorded under various experimental conditions.\",\n    \"Deconvolute EHF and LHF glow-curves using TL expressions based on the OTOR model.\"\n  ],\n  \"results\": [\n    \"The TL expressions derived from the OTOR model accurately analyzed the TL glow-curves, even those with overlapped glow-peaks.\",\n    \"Low values of R = A n / A m were reported for some glow-peaks.\",\n    \"A glow-peak with the possibility of A n > A m was identified.\"\n  ],\n  \"research_subject\": \"Deconvolution of thermoluminescence glow-curves using expressions derived from the one trap-one recombination level model\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Existing methods for analyzing thermoluminescence glow-curves face challenges in accurately deconvoluting overlapped glow-peaks.\",\n    \"There is a need for improved theoretical models to analyze TL glow-curves under various experimental conditions and heating profiles.\"\n  ],\n  \"objectives\": [\n    \"Develop and validate new thermoluminescence glow-peak expressions derived from the one trap-one recombination (OTOR) level model.\",\n    \"Analyze TL glow-curves recorded with linear and exponential heating function profiles to demonstrate the accuracy of the new expressions.\"\n  ],\n  \"methods\": [\n    \"Derive general expressions for TL glow-peaks based on the one trap-one recombination (OTOR) level model.\",\n    \"Apply these expressions to deconvolute TL glow-curves recorded under various experimental conditions with different heating profiles.\"\n  ],\n  \"results\": [\n    \"The new expressions accurately analyzed TL glow-curves including those with overlapped glow-peaks.\",\n    \"Low values of R = An/Am were identified for glow-peaks in different TL materials, with some peaks showing the possibility of An > Am.\"\n  ],\n  \"research_subject\": \"Deconvolution of thermoluminescence glow-curves using the one trap-one recombination (OTOR) model\"\n}\n```"
+}

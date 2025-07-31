@@ -1,0 +1,70 @@
+{
+  "index": 363,
+  "title": "Assessment of co-composting process with high load of an inorganic industrial waste",
+  "abstract": "This study aims to investigate the co-composting of an inorganic industrial waste (eggshell - ES) in very high levels (up to 60% w/w). Since composting is a process in which solid, liquid and gaseous phases interact in a very complex way, there is a need to shed light on statistical tools that can unravel the main relationships structuring the variability associated to this process. In this study, PCA and data visualisation were used with that purpose. The co-composting tests were designed with increasing quantities of ES (0, 10, 20, 30 and 60%ES w/w) mixed with industrial potato peel and rice husks. Principal component analysis showed that physical properties like free air space, bulk density and moisture are the most relevant variables for explaining the variability due to ES content. On the other hand, variability in time dynamics is mostly driven by some chemical and phytoxicological parameters, such as organic matter decay and nitrate content. Higher ES incorporation (60% ES) enhanced the initial biological activity of the mixture, but the higher bulk density and lower water holding capacity had a negative effect on the aerobic biological activity as the process evolved. Nevertheless, pathogen-killing temperatures (>70°C for 11h) were attained. All the final products obtained after 90days were stable and non-phytotoxic. This work proved that valorisation of high amounts of eggshell by co-composting is feasible, but prone to be influenced by the physical properties of the mixtures.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to investigate the feasibility of co-composting with high loads of inorganic industrial waste, such as eggshell.",
+      "The complex interactions between solid, liquid, and gaseous phases in composting processes require statistical tools to understand the relationships structuring the variability associated with this process."
+    ],
+    "objectives": [
+      "Assess the co-composting process with high loads of eggshell (up to 60% w/w) mixed with industrial potato peel and rice husks.",
+      "Identify the main relationships structuring the variability associated with the co-composting process using statistical tools such as PCA and data visualization."
+    ],
+    "methods": [
+      "Design co-composting tests with increasing quantities of eggshell (0, 10, 20, 30, and 60% w/w) mixed with industrial potato peel and rice husks.",
+      "Apply principal component analysis and data visualization to understand the relationships between variables.",
+      "Monitor physical, chemical, and phytoxicological parameters during the co-composting process."
+    ],
+    "results": [
+      "Higher eggshell incorporation (60% ES) enhances initial biological activity but negatively affects aerobic biological activity as the process evolves.",
+      "Pathogen-killing temperatures can be attained, and final products are stable and non-phytotoxic.",
+      "Physical properties like free air space, bulk density, and moisture are key variables explaining variability due to eggshell content."
+    ],
+    "research_subject": "Co-composting of inorganic industrial waste (eggshell) with organic materials"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to investigate the co-composting of inorganic industrial waste, specifically eggshell, in high quantities.",
+      "Understanding the complex interactions in the composting process requires the use of statistical tools."
+    ],
+    "objectives": [
+      "Investigate the co-composting process of eggshell waste in high levels mixed with industrial potato peel and rice husks.",
+      "Use statistical tools like PCA and data visualization to understand the variability associated with the composting process."
+    ],
+    "methods": [
+      "Co-composting tests were conducted with increasing quantities of eggshell mixed with industrial potato peel and rice husks.",
+      "Principal component analysis and data visualization were used to analyze the variability in the composting process."
+    ],
+    "results": [
+      "Physical properties like free air space, bulk density, and moisture are the most relevant variables for explaining the variability due to eggshell content.",
+      "Higher eggshell incorporation enhanced the initial biological activity of the mixture, but negatively affected the aerobic biological activity as the process evolved.",
+      "All final products obtained after 90 days were stable and non-phytotoxic, proving that valorisation of high amounts of eggshell by co-composting is feasible."
+    ],
+    "research_subject": "Co-composting process with high load of inorganic industrial waste (eggshell)"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to valorize inorganic industrial waste such as eggshells through sustainable waste management practices.",
+      "The complex interactions between solid, liquid, and gaseous phases in composting processes require better understanding through statistical analysis."
+    ],
+    "objectives": [
+      "Investigate the feasibility of co-composting with very high levels of inorganic industrial waste (eggshell) up to 60% w/w.",
+      "Identify the key variables and relationships that structure the variability in the co-composting process using statistical tools."
+    ],
+    "methods": [
+      "Conduct co-composting experiments with increasing eggshell content mixed with industrial potato peel and rice husks.",
+      "Apply Principal Component Analysis (PCA) and data visualization techniques to analyze the relationships between process variables.",
+      "Monitor physical, chemical, and phytotoxicological parameters throughout the composting process."
+    ],
+    "results": [
+      "Physical properties like free air space, bulk density, and moisture were identified as the most relevant variables explaining variability due to eggshell content.",
+      "All final products achieved stability and non-phytotoxicity after 90 days, with pathogen-killing temperatures attained despite some negative effects on aerobic activity at high eggshell incorporation.",
+      "Valorization of high amounts of eggshell through co-composting was proven feasible but influenced by the physical properties of the mixtures."
+    ],
+    "research_subject": "Co-composting of inorganic industrial waste (eggshell) at high incorporation levels"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to investigate the feasibility of co-composting with high loads of inorganic industrial waste, such as eggshell.\",\n    \"The complex interactions between solid, liquid, and gaseous phases in composting processes require statistical tools to understand the relationships structuring the variability associated with this process.\"\n  ],\n  \"objectives\": [\n    \"Assess the co-composting process with high loads of eggshell (up to 60% w/w) mixed with industrial potato peel and rice husks.\",\n    \"Identify the main relationships structuring the variability associated with the co-composting process using statistical tools such as PCA and data visualization.\"\n  ],\n  \"methods\": [\n    \"Design co-composting tests with increasing quantities of eggshell (0, 10, 20, 30, and 60% w/w) mixed with industrial potato peel and rice husks.\",\n    \"Apply principal component analysis and data visualization to understand the relationships between variables.\",\n    \"Monitor physical, chemical, and phytoxicological parameters during the co-composting process.\"\n  ],\n  \"results\": [\n    \"Higher eggshell incorporation (60% ES) enhances initial biological activity but negatively affects aerobic biological activity as the process evolves.\",\n    \"Pathogen-killing temperatures can be attained, and final products are stable and non-phytotoxic.\",\n    \"Physical properties like free air space, bulk density, and moisture are key variables explaining variability due to eggshell content.\"\n  ],\n  \"research_subject\": \"Co-composting of inorganic industrial waste (eggshell) with organic materials\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to investigate the co-composting of inorganic industrial waste, specifically eggshell, in high quantities.\",\n    \"Understanding the complex interactions in the composting process requires the use of statistical tools.\"\n  ],\n  \"objectives\": [\n    \"Investigate the co-composting process of eggshell waste in high levels mixed with industrial potato peel and rice husks.\",\n    \"Use statistical tools like PCA and data visualization to understand the variability associated with the composting process.\"\n  ],\n  \"methods\": [\n    \"Co-composting tests were conducted with increasing quantities of eggshell mixed with industrial potato peel and rice husks.\",\n    \"Principal component analysis and data visualization were used to analyze the variability in the composting process.\"\n  ],\n  \"results\": [\n    \"Physical properties like free air space, bulk density, and moisture are the most relevant variables for explaining the variability due to eggshell content.\",\n    \"Higher eggshell incorporation enhanced the initial biological activity of the mixture, but negatively affected the aerobic biological activity as the process evolved.\",\n    \"All final products obtained after 90 days were stable and non-phytotoxic, proving that valorisation of high amounts of eggshell by co-composting is feasible.\"\n  ],\n  \"research_subject\": \"Co-composting process with high load of inorganic industrial waste (eggshell)\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to valorize inorganic industrial waste such as eggshells through sustainable waste management practices.\",\n    \"The complex interactions between solid, liquid, and gaseous phases in composting processes require better understanding through statistical analysis.\"\n  ],\n  \"objectives\": [\n    \"Investigate the feasibility of co-composting with very high levels of inorganic industrial waste (eggshell) up to 60% w/w.\",\n    \"Identify the key variables and relationships that structure the variability in the co-composting process using statistical tools.\"\n  ],\n  \"methods\": [\n    \"Conduct co-composting experiments with increasing eggshell content mixed with industrial potato peel and rice husks.\",\n    \"Apply Principal Component Analysis (PCA) and data visualization techniques to analyze the relationships between process variables.\",\n    \"Monitor physical, chemical, and phytotoxicological parameters throughout the composting process.\"\n  ],\n  \"results\": [\n    \"Physical properties like free air space, bulk density, and moisture were identified as the most relevant variables explaining variability due to eggshell content.\",\n    \"All final products achieved stability and non-phytotoxicity after 90 days, with pathogen-killing temperatures attained despite some negative effects on aerobic activity at high eggshell incorporation.\",\n    \"Valorization of high amounts of eggshell through co-composting was proven feasible but influenced by the physical properties of the mixtures.\"\n  ],\n  \"research_subject\": \"Co-composting of inorganic industrial waste (eggshell) at high incorporation levels\"\n}\n```"
+}

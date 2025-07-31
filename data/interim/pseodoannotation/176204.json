@@ -1,0 +1,77 @@
+{
+  "index": 412,
+  "title": "Standardised approaches and products for the systemic retrofit of residential buildings, focusing on heating and cooling consumptions attenuation.",
+  "abstract": "Heating consumption in the residential sector in Europe is around 2300 TWh/y, DHW consumptions reaches 500 TWh/y, while cooling consumption is less than 100 TWh/y. The construction sector offers unique opportunities to decarbonise the European economy. However, as the replacement rate of the existing stock is very small (1-1.5 % per year), acceleration is needed. On top of this, the reorganisation of the sector poses tremendous challenges due to its extreme fragmentation: more than 50% of the residential buildings are owned by private single owners. Moreover, whilst few major industrial players are active on the market, it is largely dominated (more than 95%) by SMEs both on the manufacturers’ and the professionals’ side. BuildHEAT addresses this challenging sector by: - elaborating systemic packages for the deep rehabilitation of residential buildings - developing innovative technologies facilitating the implementation of the renovation measures - developing financial tools enabling large public and private investments - involving the construction chain from the very beginning and all along the building life cycle. A set of reliable, energy efficient and affordable retrofit solutions will be mad available, which execution is facilitated by industrialised, modular and flexible HVAC, façade and ICT systems developed. Despite the affordability, innovative solutions are more expensive compared to off the shelf ones. Therefore financing models are needed to facilitate the massive entry to market of the new technologies. BuildHEAT aims to leverage large private investments by using European structural funds, thus promoting retrofit actions at quarter level. Finally, BuildHEAT involves the entire construction chain – from owners to professionals to investors – in the retrofit process and all along the lifetime of the building, by addressing technical, behavioural, cultural and economic perspectives. In this way, awareness and involvement are triggered.",
+  "llama_json": {
+    "motivations": [
+      "The residential sector in Europe has high heating and cooling consumption, contributing significantly to the region's carbon footprint.",
+      "The replacement rate of existing buildings is very low, necessitating accelerated retrofitting efforts to achieve decarbonization goals.",
+      "The construction sector is highly fragmented, with many small and medium-sized enterprises, making it challenging to implement large-scale retrofitting projects."
+    ],
+    "objectives": [
+      "Develop systemic packages for the deep rehabilitation of residential buildings to reduce heating and cooling consumption.",
+      "Create innovative technologies and financial tools to facilitate the implementation of renovation measures and attract large investments.",
+      "Involve the entire construction chain in the retrofit process to promote awareness, involvement, and adoption of new technologies."
+    ],
+    "methods": [
+      "Develop industrialized, modular, and flexible HVAC, façade, and ICT systems to facilitate the execution of retrofit solutions.",
+      "Create financing models to facilitate the entry of new technologies into the market and leverage large private investments.",
+      "Involve the construction chain in the retrofit process through a comprehensive approach addressing technical, behavioral, cultural, and economic perspectives."
+    ],
+    "results": [
+      "Provide reliable, energy-efficient, and affordable retrofit solutions for residential buildings.",
+      "Facilitate the massive entry of new technologies into the market through financing models and large private investments.",
+      "Promote awareness and involvement among building owners, professionals, and investors to accelerate retrofit actions."
+    ],
+    "research_subject": "Systemic retrofit of residential buildings for heating and cooling consumption attenuation"
+  },
+  "openai_json": {
+    "motivations": [
+      "The residential sector in Europe has high heating and cooling consumptions, contributing to carbon emissions.",
+      "The construction sector is highly fragmented, with a majority of residential buildings owned by private single owners and the market dominated by SMEs.",
+      "There is a need for acceleration in the replacement rate of existing stock to decarbonise the European economy."
+    ],
+    "objectives": [
+      "Develop systemic packages for the deep rehabilitation of residential buildings to reduce heating and cooling consumptions.",
+      "Create innovative technologies to facilitate the implementation of renovation measures.",
+      "Develop financial tools to enable large public and private investments in retrofit solutions."
+    ],
+    "methods": [
+      "Elaborate on systemic packages for deep rehabilitation of residential buildings.",
+      "Develop industrialised, modular and flexible HVAC, façade and ICT systems to facilitate renovation measures.",
+      "Leverage European structural funds to promote retrofit actions at the quarter level."
+    ],
+    "results": [
+      "Provide a set of reliable, energy efficient and affordable retrofit solutions.",
+      "Facilitate the massive entry to market of new technologies through financing models.",
+      "Involve the entire construction chain in the retrofit process, addressing technical, behavioural, cultural and economic perspectives."
+    ],
+    "research_subject": "Systemic retrofit of residential buildings for heating and cooling consumptions attenuation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The residential sector in Europe consumes significant energy for heating and cooling, requiring urgent decarbonization efforts.",
+      "The construction sector's extreme fragmentation and slow replacement rate of existing building stock pose challenges to implementing energy-efficient retrofits.",
+      "High costs of innovative retrofit solutions compared to conventional options create barriers to widespread adoption."
+    ],
+    "objectives": [
+      "Develop systemic packages and innovative technologies for deep energy-efficient rehabilitation of residential buildings.",
+      "Create financial tools and models to enable large-scale public and private investments in building retrofits.",
+      "Engage the entire construction chain throughout the building lifecycle to promote awareness and implementation of retrofit solutions."
+    ],
+    "methods": [
+      "Develop industrialized, modular, and flexible HVAC, façade, and ICT systems for building retrofits.",
+      "Design financing models that leverage European structural funds to attract private investments.",
+      "Implement a comprehensive approach involving all stakeholders from owners to professionals to investors throughout the retrofit process."
+    ],
+    "results": [
+      "Provide reliable, energy-efficient, and affordable retrofit solutions for residential buildings.",
+      "Enable large-scale investments and implementation of energy-efficient retrofits at quarter level.",
+      "Increase awareness and involvement of the construction chain in sustainable building practices."
+    ],
+    "research_subject": "Systemic energy-efficient retrofit solutions for residential buildings focusing on heating and cooling consumption reduction"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The residential sector in Europe has high heating and cooling consumption, contributing significantly to the region's carbon footprint.\",\n    \"The replacement rate of existing buildings is very low, necessitating accelerated retrofitting efforts to achieve decarbonization goals.\",\n    \"The construction sector is highly fragmented, with many small and medium-sized enterprises, making it challenging to implement large-scale retrofitting projects.\"\n  ],\n  \"objectives\": [\n    \"Develop systemic packages for the deep rehabilitation of residential buildings to reduce heating and cooling consumption.\",\n    \"Create innovative technologies and financial tools to facilitate the implementation of renovation measures and attract large investments.\",\n    \"Involve the entire construction chain in the retrofit process to promote awareness, involvement, and adoption of new technologies.\"\n  ],\n  \"methods\": [\n    \"Develop industrialized, modular, and flexible HVAC, façade, and ICT systems to facilitate the execution of retrofit solutions.\",\n    \"Create financing models to facilitate the entry of new technologies into the market and leverage large private investments.\",\n    \"Involve the construction chain in the retrofit process through a comprehensive approach addressing technical, behavioral, cultural, and economic perspectives.\"\n  ],\n  \"results\": [\n    \"Provide reliable, energy-efficient, and affordable retrofit solutions for residential buildings.\",\n    \"Facilitate the massive entry of new technologies into the market through financing models and large private investments.\",\n    \"Promote awareness and involvement among building owners, professionals, and investors to accelerate retrofit actions.\"\n  ],\n  \"research_subject\": \"Systemic retrofit of residential buildings for heating and cooling consumption attenuation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The residential sector in Europe has high heating and cooling consumptions, contributing to carbon emissions.\",\n    \"The construction sector is highly fragmented, with a majority of residential buildings owned by private single owners and the market dominated by SMEs.\",\n    \"There is a need for acceleration in the replacement rate of existing stock to decarbonise the European economy.\"\n  ],\n  \"objectives\": [\n    \"Develop systemic packages for the deep rehabilitation of residential buildings to reduce heating and cooling consumptions.\",\n    \"Create innovative technologies to facilitate the implementation of renovation measures.\",\n    \"Develop financial tools to enable large public and private investments in retrofit solutions.\"\n  ],\n  \"methods\": [\n    \"Elaborate on systemic packages for deep rehabilitation of residential buildings.\",\n    \"Develop industrialised, modular and flexible HVAC, façade and ICT systems to facilitate renovation measures.\",\n    \"Leverage European structural funds to promote retrofit actions at the quarter level.\"\n  ],\n  \"results\": [\n    \"Provide a set of reliable, energy efficient and affordable retrofit solutions.\",\n    \"Facilitate the massive entry to market of new technologies through financing models.\",\n    \"Involve the entire construction chain in the retrofit process, addressing technical, behavioural, cultural and economic perspectives.\"\n  ],\n  \"research_subject\": \"Systemic retrofit of residential buildings for heating and cooling consumptions attenuation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The residential sector in Europe consumes significant energy for heating and cooling, requiring urgent decarbonization efforts.\",\n    \"The construction sector's extreme fragmentation and slow replacement rate of existing building stock pose challenges to implementing energy-efficient retrofits.\",\n    \"High costs of innovative retrofit solutions compared to conventional options create barriers to widespread adoption.\"\n  ],\n  \"objectives\": [\n    \"Develop systemic packages and innovative technologies for deep energy-efficient rehabilitation of residential buildings.\",\n    \"Create financial tools and models to enable large-scale public and private investments in building retrofits.\",\n    \"Engage the entire construction chain throughout the building lifecycle to promote awareness and implementation of retrofit solutions.\"\n  ],\n  \"methods\": [\n    \"Develop industrialized, modular, and flexible HVAC, façade, and ICT systems for building retrofits.\",\n    \"Design financing models that leverage European structural funds to attract private investments.\",\n    \"Implement a comprehensive approach involving all stakeholders from owners to professionals to investors throughout the retrofit process.\"\n  ],\n  \"results\": [\n    \"Provide reliable, energy-efficient, and affordable retrofit solutions for residential buildings.\",\n    \"Enable large-scale investments and implementation of energy-efficient retrofits at quarter level.\",\n    \"Increase awareness and involvement of the construction chain in sustainable building practices.\"\n  ],\n  \"research_subject\": \"Systemic energy-efficient retrofit solutions for residential buildings focusing on heating and cooling consumption reduction\"\n}\n```"
+}

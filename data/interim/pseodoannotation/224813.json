@@ -1,0 +1,75 @@
+{
+  "index": 362,
+  "title": "Language, families, and society",
+  "abstract": "Building on my previous research on Family Language Policy (FLP), LaFS (‘Language, Families, and Society’) will focus on three types of linguistic minority families—autochthonous, immigrant, and refugee—as a means to elucidating more about how social inequality is perpetuated (or arrested) along linguistic lines, and how policy at the local, national, and international levels can better support linguistic minority families. The project will therefore provide a key means to understanding more about Europe’s three main sociolinguistic challenges: the decline of its many autochthonous minority languages; increased linguistic diversity due to increased mobility among European member states; and the refugee crisis. LaFS will centre on families who speak Irish as a home language (autochthonous); Polish (immigrant); and Arabic (refugee) as a means to understanding the challenges these linguistic minority families face and how these challenges affect their sense of identity, belonging, and overall well-being. This understanding will be broadened by a secondment with the Glasgow Refugee, Asylum, and Migration Network (GRAMNet). LaFS will be hosted by the National University of Ireland, Galway, complementing NUIG’s Centre for Population and Migration Research and UNESCO Child and Family Research Centre. The project will be supervised by Prof. Tadhg Ó hIfearnáin, a leading expert in minority language issues. The secondment will be supervised by Professor Alison Phipps, UNESCO Chair in Refugee Integration through Languages and the Arts. My professional development over the course of the project in terms of innovative research practice; high-impact dissemination and communication skills; and effective project management skills will be invaluable to my long-term goal of embedding sociolinguistics into social justice research.",
+  "llama_json": {
+    "motivations": [
+      "Social inequality is perpetuated along linguistic lines, affecting linguistic minority families and their sense of identity, belonging, and well-being.",
+      "There is a need to understand how policy can better support linguistic minority families in the face of Europe's sociolinguistic challenges."
+    ],
+    "objectives": [
+      "Investigate how social inequality is perpetuated or arrested along linguistic lines in linguistic minority families.",
+      "Understand the challenges faced by linguistic minority families and their impact on identity, belonging, and well-being.",
+      "Inform policy at local, national, and international levels to better support linguistic minority families."
+    ],
+    "methods": [
+      "Conduct research on three types of linguistic minority families: autochthonous, immigrant, and refugee.",
+      "Focus on families speaking Irish, Polish, and Arabic as home languages to understand their specific challenges.",
+      "Collaborate with the Glasgow Refugee, Asylum, and Migration Network (GRAMNet) through a secondment to broaden understanding."
+    ],
+    "results": [
+      "Provide insights into the challenges faced by linguistic minority families and their impact on identity, belonging, and well-being.",
+      "Inform policy to address Europe's sociolinguistic challenges, including the decline of autochthonous minority languages and increased linguistic diversity.",
+      "Contribute to the development of sociolinguistics as a key component of social justice research."
+    ],
+    "research_subject": "Language, families, and society: understanding social inequality and informing policy for linguistic minority families"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand how social inequality is perpetuated or arrested along linguistic lines, particularly in linguistic minority families.",
+      "There is a need to address Europe's sociolinguistic challenges, including the decline of autochthonous minority languages, increased linguistic diversity, and the refugee crisis."
+    ],
+    "objectives": [
+      "Investigate the challenges faced by three types of linguistic minority families—autochthonous, immigrant, and refugee—and how these challenges affect their identity, belonging, and well-being.",
+      "Understand how policy at various levels can better support linguistic minority families.",
+      "Embed sociolinguistics into social justice research."
+    ],
+    "methods": [
+      "Focus on families who speak Irish (autochthonous), Polish (immigrant), and Arabic (refugee) to understand the challenges these linguistic minority families face.",
+      "Broaden understanding through a secondment with the Glasgow Refugee, Asylum, and Migration Network (GRAMNet).",
+      "Host the project at the National University of Ireland, Galway, complementing NUIG’s Centre for Population and Migration Research and UNESCO Child and Family Research Centre."
+    ],
+    "results": [
+      "Provide insights into the perpetuation or arrest of social inequality along linguistic lines.",
+      "Offer recommendations for policy at various levels to better support linguistic minority families.",
+      "Contribute to the embedding of sociolinguistics into social justice research."
+    ],
+    "research_subject": "Investigation of linguistic minority families and their role in social inequality"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Social inequality is perpetuated along linguistic lines, affecting linguistic minority families' identity, belonging, and well-being.",
+      "Europe faces three major sociolinguistic challenges: decline of autochthonous minority languages, increased linguistic diversity from EU mobility, and the refugee crisis.",
+      "There is a need to understand how policy at various levels can better support linguistic minority families."
+    ],
+    "objectives": [
+      "Investigate how social inequality is perpetuated or arrested along linguistic lines in three types of linguistic minority families: autochthonous, immigrant, and refugee.",
+      "Examine the challenges faced by families speaking Irish, Polish, and Arabic as home languages and their impact on identity, belonging, and well-being.",
+      "Develop policy recommendations to better support linguistic minority families at local, national, and international levels."
+    ],
+    "methods": [
+      "Conduct comparative research on three linguistic minority family types using Irish-speaking (autochthonous), Polish-speaking (immigrant), and Arabic-speaking (refugee) families as case studies.",
+      "Undertake a secondment with the Glasgow Refugee, Asylum, and Migration Network to broaden understanding of refugee linguistic challenges.",
+      "Apply Family Language Policy framework to analyze how linguistic practices affect social inequality and family well-being."
+    ],
+    "results": [
+      "Provide comprehensive understanding of Europe's main sociolinguistic challenges and their impact on minority families.",
+      "Generate insights into how linguistic practices affect identity, belonging, and well-being of minority families.",
+      "Develop evidence-based policy recommendations to support linguistic minority families and address social inequality."
+    ],
+    "research_subject": "Family Language Policy and social inequality among linguistic minority families in Europe"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Social inequality is perpetuated along linguistic lines, affecting linguistic minority families and their sense of identity, belonging, and well-being.\",\n    \"There is a need to understand how policy can better support linguistic minority families in the face of Europe's sociolinguistic challenges.\"\n  ],\n  \"objectives\": [\n    \"Investigate how social inequality is perpetuated or arrested along linguistic lines in linguistic minority families.\",\n    \"Understand the challenges faced by linguistic minority families and their impact on identity, belonging, and well-being.\",\n    \"Inform policy at local, national, and international levels to better support linguistic minority families.\"\n  ],\n  \"methods\": [\n    \"Conduct research on three types of linguistic minority families: autochthonous, immigrant, and refugee.\",\n    \"Focus on families speaking Irish, Polish, and Arabic as home languages to understand their specific challenges.\",\n    \"Collaborate with the Glasgow Refugee, Asylum, and Migration Network (GRAMNet) through a secondment to broaden understanding.\"\n  ],\n  \"results\": [\n    \"Provide insights into the challenges faced by linguistic minority families and their impact on identity, belonging, and well-being.\",\n    \"Inform policy to address Europe's sociolinguistic challenges, including the decline of autochthonous minority languages and increased linguistic diversity.\",\n    \"Contribute to the development of sociolinguistics as a key component of social justice research.\"\n  ],\n  \"research_subject\": \"Language, families, and society: understanding social inequality and informing policy for linguistic minority families\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand how social inequality is perpetuated or arrested along linguistic lines, particularly in linguistic minority families.\",\n    \"There is a need to address Europe's sociolinguistic challenges, including the decline of autochthonous minority languages, increased linguistic diversity, and the refugee crisis.\"\n  ],\n  \"objectives\": [\n    \"Investigate the challenges faced by three types of linguistic minority families—autochthonous, immigrant, and refugee—and how these challenges affect their identity, belonging, and well-being.\",\n    \"Understand how policy at various levels can better support linguistic minority families.\",\n    \"Embed sociolinguistics into social justice research.\"\n  ],\n  \"methods\": [\n    \"Focus on families who speak Irish (autochthonous), Polish (immigrant), and Arabic (refugee) to understand the challenges these linguistic minority families face.\",\n    \"Broaden understanding through a secondment with the Glasgow Refugee, Asylum, and Migration Network (GRAMNet).\",\n    \"Host the project at the National University of Ireland, Galway, complementing NUIG’s Centre for Population and Migration Research and UNESCO Child and Family Research Centre.\"\n  ],\n  \"results\": [\n    \"Provide insights into the perpetuation or arrest of social inequality along linguistic lines.\",\n    \"Offer recommendations for policy at various levels to better support linguistic minority families.\",\n    \"Contribute to the embedding of sociolinguistics into social justice research.\"\n  ],\n  \"research_subject\": \"Investigation of linguistic minority families and their role in social inequality\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Social inequality is perpetuated along linguistic lines, affecting linguistic minority families' identity, belonging, and well-being.\",\n    \"Europe faces three major sociolinguistic challenges: decline of autochthonous minority languages, increased linguistic diversity from EU mobility, and the refugee crisis.\",\n    \"There is a need to understand how policy at various levels can better support linguistic minority families.\"\n  ],\n  \"objectives\": [\n    \"Investigate how social inequality is perpetuated or arrested along linguistic lines in three types of linguistic minority families: autochthonous, immigrant, and refugee.\",\n    \"Examine the challenges faced by families speaking Irish, Polish, and Arabic as home languages and their impact on identity, belonging, and well-being.\",\n    \"Develop policy recommendations to better support linguistic minority families at local, national, and international levels.\"\n  ],\n  \"methods\": [\n    \"Conduct comparative research on three linguistic minority family types using Irish-speaking (autochthonous), Polish-speaking (immigrant), and Arabic-speaking (refugee) families as case studies.\",\n    \"Undertake a secondment with the Glasgow Refugee, Asylum, and Migration Network to broaden understanding of refugee linguistic challenges.\",\n    \"Apply Family Language Policy framework to analyze how linguistic practices affect social inequality and family well-being.\"\n  ],\n  \"results\": [\n    \"Provide comprehensive understanding of Europe's main sociolinguistic challenges and their impact on minority families.\",\n    \"Generate insights into how linguistic practices affect identity, belonging, and well-being of minority families.\",\n    \"Develop evidence-based policy recommendations to support linguistic minority families and address social inequality.\"\n  ],\n  \"research_subject\": \"Family Language Policy and social inequality among linguistic minority families in Europe\"\n}\n```"
+}

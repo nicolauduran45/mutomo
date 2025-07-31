@@ -1,0 +1,67 @@
+{
+  "index": 312,
+  "title": "State Level Expenditure Management Policy in India: An Empirical Analysis of Odisha State Finance",
+  "abstract": "This study makes an empirical analysis on state finance in India with a special reference to the State of Odisha. Thekey deficit indicators of state have declined significantly, since 2002–03. Bringing down the revenue expenditure without adversely affecting capital expenditure, implementation of fiscal rules in the state and effective liquidity management policy are the key for sound state financial position since 2002–03. The long run elasticity of capital outlay on growth of the gross state domestic product is estimated by employing Vector Error Correction Mechanism in order to provide a policy direction for further reforms in the state finance. This study suggests more capital outlay and capital expenditure through Public Private Partnership (PPP) to further induce growth which will help in more revenue mobilization.",
+  "llama_json": {
+    "motivations": [
+      "State finances in India, particularly in Odisha, require effective management to achieve sound financial positions and promote economic growth.",
+      "There is a need to analyze the impact of expenditure management policies on state finances and identify areas for further reforms."
+    ],
+    "objectives": [
+      "Conduct an empirical analysis of Odisha's state finance, focusing on key deficit indicators, expenditure patterns, and fiscal rules.",
+      "Estimate the long-run elasticity of capital outlay on the growth of the gross state domestic product to inform policy decisions.",
+      "Provide recommendations for further reforms in state finance to promote economic growth and revenue mobilization."
+    ],
+    "methods": [
+      "Analyze state finance data, particularly deficit indicators, revenue expenditure, and capital expenditure, since 2002-03.",
+      "Employ Vector Error Correction Mechanism to estimate the long-run elasticity of capital outlay on growth.",
+      "Examine the impact of fiscal rules and liquidity management policies on state finances."
+    ],
+    "results": [
+      "The study finds a significant decline in key deficit indicators in Odisha since 2002-03, driven by reduced revenue expenditure and effective fiscal management.",
+      "The analysis suggests that increased capital outlay and capital expenditure through Public Private Partnership (PPP) can induce growth and enhance revenue mobilization."
+    ],
+    "research_subject": "State-level expenditure management policy in India, with a focus on Odisha state finance"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the factors that have contributed to the significant decline in deficit indicators in Odisha since 2002-03.",
+      "There is a need for empirical analysis of state finance in India, specifically in the State of Odisha."
+    ],
+    "objectives": [
+      "Analyze the impact of revenue expenditure, fiscal rules, and liquidity management policy on the financial position of Odisha.",
+      "Estimate the long-run elasticity of capital outlay on the growth of the gross state domestic product to provide policy direction for further reforms."
+    ],
+    "methods": [
+      "Use Vector Error Correction Mechanism to estimate the long-run elasticity of capital outlay on the growth of the gross state domestic product.",
+      "Analyze the impact of fiscal rules and liquidity management policy on the financial position of the state."
+    ],
+    "results": [
+      "Identify key factors contributing to the sound financial position of Odisha since 2002-03.",
+      "Provide policy direction for further reforms in state finance, including the suggestion of more capital outlay and capital expenditure through Public Private Partnership."
+    ],
+    "research_subject": "Empirical analysis of state finance in Odisha, India"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "State finances in India require empirical analysis to understand the effectiveness of fiscal management policies and their impact on economic growth.",
+      "There is a need to examine how fiscal reforms and expenditure management have affected state-level financial health and economic development."
+    ],
+    "objectives": [
+      "Analyze the state finance of Odisha to understand the impact of fiscal management policies on deficit indicators and financial position.",
+      "Estimate the long-run relationship between capital outlay and gross state domestic product growth to provide policy recommendations for state finance reforms."
+    ],
+    "methods": [
+      "Conduct empirical analysis of state financial indicators and deficit trends.",
+      "Apply Vector Error Correction Mechanism to estimate the long-run elasticity of capital outlay on gross state domestic product growth."
+    ],
+    "results": [
+      "Key deficit indicators in Odisha have declined significantly since 2002-03 due to effective fiscal management and implementation of fiscal rules.",
+      "The study recommends increased capital outlay and capital expenditure through Public Private Partnership to enhance growth and revenue mobilization."
+    ],
+    "research_subject": "State-level expenditure management and fiscal policy analysis in Odisha, India"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"State finances in India, particularly in Odisha, require effective management to achieve sound financial positions and promote economic growth.\",\n    \"There is a need to analyze the impact of expenditure management policies on state finances and identify areas for further reforms.\"\n  ],\n  \"objectives\": [\n    \"Conduct an empirical analysis of Odisha's state finance, focusing on key deficit indicators, expenditure patterns, and fiscal rules.\",\n    \"Estimate the long-run elasticity of capital outlay on the growth of the gross state domestic product to inform policy decisions.\",\n    \"Provide recommendations for further reforms in state finance to promote economic growth and revenue mobilization.\"\n  ],\n  \"methods\": [\n    \"Analyze state finance data, particularly deficit indicators, revenue expenditure, and capital expenditure, since 2002-03.\",\n    \"Employ Vector Error Correction Mechanism to estimate the long-run elasticity of capital outlay on growth.\",\n    \"Examine the impact of fiscal rules and liquidity management policies on state finances.\"\n  ],\n  \"results\": [\n    \"The study finds a significant decline in key deficit indicators in Odisha since 2002-03, driven by reduced revenue expenditure and effective fiscal management.\",\n    \"The analysis suggests that increased capital outlay and capital expenditure through Public Private Partnership (PPP) can induce growth and enhance revenue mobilization.\"\n  ],\n  \"research_subject\": \"State-level expenditure management policy in India, with a focus on Odisha state finance\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the factors that have contributed to the significant decline in deficit indicators in Odisha since 2002-03.\",\n    \"There is a need for empirical analysis of state finance in India, specifically in the State of Odisha.\"\n  ],\n  \"objectives\": [\n    \"Analyze the impact of revenue expenditure, fiscal rules, and liquidity management policy on the financial position of Odisha.\",\n    \"Estimate the long-run elasticity of capital outlay on the growth of the gross state domestic product to provide policy direction for further reforms.\"\n  ],\n  \"methods\": [\n    \"Use Vector Error Correction Mechanism to estimate the long-run elasticity of capital outlay on the growth of the gross state domestic product.\",\n    \"Analyze the impact of fiscal rules and liquidity management policy on the financial position of the state.\"\n  ],\n  \"results\": [\n    \"Identify key factors contributing to the sound financial position of Odisha since 2002-03.\",\n    \"Provide policy direction for further reforms in state finance, including the suggestion of more capital outlay and capital expenditure through Public Private Partnership.\"\n  ],\n  \"research_subject\": \"Empirical analysis of state finance in Odisha, India\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"State finances in India require empirical analysis to understand the effectiveness of fiscal management policies and their impact on economic growth.\",\n    \"There is a need to examine how fiscal reforms and expenditure management have affected state-level financial health and economic development.\"\n  ],\n  \"objectives\": [\n    \"Analyze the state finance of Odisha to understand the impact of fiscal management policies on deficit indicators and financial position.\",\n    \"Estimate the long-run relationship between capital outlay and gross state domestic product growth to provide policy recommendations for state finance reforms.\"\n  ],\n  \"methods\": [\n    \"Conduct empirical analysis of state financial indicators and deficit trends.\",\n    \"Apply Vector Error Correction Mechanism to estimate the long-run elasticity of capital outlay on gross state domestic product growth.\"\n  ],\n  \"results\": [\n    \"Key deficit indicators in Odisha have declined significantly since 2002-03 due to effective fiscal management and implementation of fiscal rules.\",\n    \"The study recommends increased capital outlay and capital expenditure through Public Private Partnership to enhance growth and revenue mobilization.\"\n  ],\n  \"research_subject\": \"State-level expenditure management and fiscal policy analysis in Odisha, India\"\n}\n```"
+}

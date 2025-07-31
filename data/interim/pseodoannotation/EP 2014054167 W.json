@@ -1,0 +1,68 @@
+{
+  "index": 100,
+  "title": "METHOD FOR SUPPLYING A VEHICLE WITH ENERGY",
+  "abstract": "The invention relates to a method for supplying a first vehicle with energy. In order to design the supplying of energy to the first vehicle by means of an assisting second vehicle in case of a shortage of energy for the first vehicle to be safer for both vehicles, with low expense, the invention proposes that a minimum energy requirement of the first vehicle is determined in advance, an energy reserve of the second vehicle is determined and thereafter said energy reserve is compared to the minimum energy requirement of the first vehicle, possibly taking into account any travel paths deviating from the originally planned route in the course of the assistance. The invention further relates to a corresponding device.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a safer method to supply energy to a vehicle in case of energy shortage.",
+      "Current methods of energy supply may pose risks to both the vehicle in need and the assisting vehicle."
+    ],
+    "objectives": [
+      "Design a method for supplying energy to a vehicle with improved safety features.",
+      "Minimize expenses associated with the energy supply process."
+    ],
+    "methods": [
+      "Determine the minimum energy requirement of the vehicle in need in advance.",
+      "Compare the energy reserve of the assisting vehicle to the minimum energy requirement of the vehicle in need.",
+      "Consider alternative travel paths that deviate from the original planned route during assistance."
+    ],
+    "results": [
+      "Enhance the safety of both vehicles involved in the energy supply process.",
+      "Reduce expenses associated with energy supply."
+    ],
+    "research_subject": "Method for safe and efficient energy supply to vehicles using an assisting vehicle"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a safer and less expensive method to supply energy to a vehicle from an assisting vehicle in case of an energy shortage."
+    ],
+    "objectives": [
+      "Design a method to determine the minimum energy requirement of a vehicle in need and the energy reserve of an assisting vehicle.",
+      "Compare the energy reserve of the assisting vehicle to the minimum energy requirement of the vehicle in need, considering any deviations from the original route."
+    ],
+    "methods": [
+      "Determine the minimum energy requirement of the first vehicle in advance.",
+      "Determine the energy reserve of the second, assisting vehicle.",
+      "Compare the energy reserve of the second vehicle to the minimum energy requirement of the first vehicle, taking into account any deviations from the originally planned route."
+    ],
+    "results": [
+      "Safer and less expensive energy supply to a vehicle in need from an assisting vehicle.",
+      "Improved energy management in vehicles through the consideration of minimum energy requirements and available energy reserves."
+    ],
+    "research_subject": "Method for supplying a vehicle with energy from an assisting vehicle"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current methods for supplying energy to vehicles experiencing energy shortage through assistance from other vehicles pose safety risks and operational challenges.",
+      "There is a need for a safer and more efficient approach to vehicle-to-vehicle energy transfer that minimizes expense and complexity."
+    ],
+    "objectives": [
+      "Develop a method that enables safe and efficient energy transfer from an assisting vehicle to a vehicle experiencing energy shortage.",
+      "Create a system that determines and compares energy requirements and reserves to ensure adequate energy supply while accounting for potential route deviations."
+    ],
+    "methods": [
+      "Determine the minimum energy requirement of the energy-deficient vehicle in advance.",
+      "Calculate the energy reserve of the assisting vehicle and compare it against the minimum energy requirement.",
+      "Account for potential deviations from planned routes during the assistance process."
+    ],
+    "results": [
+      "Enhanced safety for both vehicles during energy transfer operations.",
+      "Reduced operational expense and complexity in vehicle-to-vehicle energy assistance.",
+      "Improved reliability of energy supply assistance through systematic energy requirement and reserve assessment."
+    ],
+    "research_subject": "Vehicle-to-vehicle energy transfer method for emergency assistance"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a safer method to supply energy to a vehicle in case of energy shortage.\",\n    \"Current methods of energy supply may pose risks to both the vehicle in need and the assisting vehicle.\"\n  ],\n  \"objectives\": [\n    \"Design a method for supplying energy to a vehicle with improved safety features.\",\n    \"Minimize expenses associated with the energy supply process.\"\n  ],\n  \"methods\": [\n    \"Determine the minimum energy requirement of the vehicle in need in advance.\",\n    \"Compare the energy reserve of the assisting vehicle to the minimum energy requirement of the vehicle in need.\",\n    \"Consider alternative travel paths that deviate from the original planned route during assistance.\"\n  ],\n  \"results\": [\n    \"Enhance the safety of both vehicles involved in the energy supply process.\",\n    \"Reduce expenses associated with energy supply.\"\n  ],\n  \"research_subject\": \"Method for safe and efficient energy supply to vehicles using an assisting vehicle\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a safer and less expensive method to supply energy to a vehicle from an assisting vehicle in case of an energy shortage.\"\n  ],\n  \"objectives\": [\n    \"Design a method to determine the minimum energy requirement of a vehicle in need and the energy reserve of an assisting vehicle.\",\n    \"Compare the energy reserve of the assisting vehicle to the minimum energy requirement of the vehicle in need, considering any deviations from the original route.\"\n  ],\n  \"methods\": [\n    \"Determine the minimum energy requirement of the first vehicle in advance.\",\n    \"Determine the energy reserve of the second, assisting vehicle.\",\n    \"Compare the energy reserve of the second vehicle to the minimum energy requirement of the first vehicle, taking into account any deviations from the originally planned route.\"\n  ],\n  \"results\": [\n    \"Safer and less expensive energy supply to a vehicle in need from an assisting vehicle.\",\n    \"Improved energy management in vehicles through the consideration of minimum energy requirements and available energy reserves.\"\n  ],\n  \"research_subject\": \"Method for supplying a vehicle with energy from an assisting vehicle\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current methods for supplying energy to vehicles experiencing energy shortage through assistance from other vehicles pose safety risks and operational challenges.\",\n    \"There is a need for a safer and more efficient approach to vehicle-to-vehicle energy transfer that minimizes expense and complexity.\"\n  ],\n  \"objectives\": [\n    \"Develop a method that enables safe and efficient energy transfer from an assisting vehicle to a vehicle experiencing energy shortage.\",\n    \"Create a system that determines and compares energy requirements and reserves to ensure adequate energy supply while accounting for potential route deviations.\"\n  ],\n  \"methods\": [\n    \"Determine the minimum energy requirement of the energy-deficient vehicle in advance.\",\n    \"Calculate the energy reserve of the assisting vehicle and compare it against the minimum energy requirement.\",\n    \"Account for potential deviations from planned routes during the assistance process.\"\n  ],\n  \"results\": [\n    \"Enhanced safety for both vehicles during energy transfer operations.\",\n    \"Reduced operational expense and complexity in vehicle-to-vehicle energy assistance.\",\n    \"Improved reliability of energy supply assistance through systematic energy requirement and reserve assessment.\"\n  ],\n  \"research_subject\": \"Vehicle-to-vehicle energy transfer method for emergency assistance\"\n}\n```"
+}

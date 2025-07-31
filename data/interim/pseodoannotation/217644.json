@@ -1,0 +1,74 @@
+{
+  "index": 443,
+  "title": "Combinatorics of networks and computation",
+  "abstract": "Networks are present in our lives in numerous different environments: to name just a few, networks can model social relationships, they can model the Internet and links between web pages, they might model the spread of a virus infection between people, and they might represent computer processors/sensors that have to exchange information. This project aims to obtain new insights into the behaviour of networks, which are studied from a geometric and computational perspective. Thereto, the project brings together researchers from different areas such as computational geometry, discrete mathematics, graph drawing, and probability. Among of the topics of research are enumerative problems on geometric networks, crossing numbers, random networks, imprecise models of data, restricted orientation geometry. Combinatorial approaches are combined with algorithms. Algorithmic applications of networks are also studied in the context of unmanned aerial vehicles (UAVs) and in the context of musical information retrieval (MIR). The project contains the work packages: “Geometric networks”, \"\"Stochastic Geometry and Networks\"\", “Restricted orientation geometry”, “Graph-based algorithms for UAVs and for MIR”, and “Dissemination and gender equality promotion”. The project connects researchers from 14 universities located in Austria, Belgium, Canada, Chile, Czech Republic, Italy, Mexico, and Spain, who will collaborate and share their different expertise in order to obtain new knowledge on the combinatorics of networks and applications. ",
+  "llama_json": {
+    "motivations": [
+      "Networks are ubiquitous in various environments, and understanding their behavior is crucial for modeling and analyzing complex systems.",
+      "There is a need for new insights into the behavior of networks from a geometric and computational perspective to tackle various real-world problems."
+    ],
+    "objectives": [
+      "Obtain new insights into the behavior of networks by studying them from a geometric and computational perspective.",
+      "Combine combinatorial approaches with algorithms to tackle enumerative problems, crossing numbers, random networks, and imprecise models of data.",
+      "Explore algorithmic applications of networks in the context of unmanned aerial vehicles and musical information retrieval."
+    ],
+    "methods": [
+      "Bring together researchers from different areas, such as computational geometry, discrete mathematics, graph drawing, and probability, to collaborate and share expertise.",
+      "Use combinatorial approaches and algorithms to study geometric networks, stochastic geometry, restricted orientation geometry, and graph-based algorithms.",
+      "Collaborate among researchers from 14 universities across different countries to share knowledge and expertise."
+    ],
+    "results": [
+      "Gain new knowledge on the combinatorics of networks and their applications in various fields.",
+      "Develop new algorithms and approaches for analyzing and modeling complex networks.",
+      "Enhance understanding of network behavior in different environments, such as social relationships, the Internet, and virus spread."
+    ],
+    "research_subject": "Combinatorics of networks and computation"
+  },
+  "openai_json": {
+    "motivations": [
+      "Networks are ubiquitous in various environments, modeling social relationships, internet links, virus spread, and information exchange in computer processors, necessitating a deeper understanding of their behavior.",
+      "There is a need to explore the combinatorics of networks from a geometric and computational perspective, which can have significant applications in areas like unmanned aerial vehicles (UAVs) and musical information retrieval (MIR)."
+    ],
+    "objectives": [
+      "Obtain new insights into the behavior of networks from a geometric and computational perspective.",
+      "Combine combinatorial approaches with algorithms to study topics such as enumerative problems on geometric networks, crossing numbers, random networks, imprecise models of data, and restricted orientation geometry.",
+      "Promote collaboration and knowledge sharing among researchers from different universities and areas of expertise."
+    ],
+    "methods": [
+      "Bring together researchers from computational geometry, discrete mathematics, graph drawing, and probability to study networks.",
+      "Apply combinatorial approaches and algorithms to various research topics related to networks.",
+      "Study algorithmic applications of networks in the context of UAVs and MIR."
+    ],
+    "results": [
+      "Generate new insights into the behavior and applications of networks from a geometric and computational perspective.",
+      "Develop new combinatorial approaches and algorithms for studying networks.",
+      "Foster collaboration and knowledge sharing among researchers from different areas and universities."
+    ],
+    "research_subject": "Combinatorics of networks from a geometric and computational perspective"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Networks are ubiquitous in modern life, modeling everything from social relationships to virus spread, yet their geometric and computational properties remain incompletely understood.",
+      "There is a need for new insights into network behavior that combine perspectives from computational geometry, discrete mathematics, and probability theory."
+    ],
+    "objectives": [
+      "Obtain new insights into network behavior through geometric and computational analysis, bringing together expertise from multiple mathematical and computational disciplines.",
+      "Develop combinatorial approaches and algorithms for network analysis with applications to unmanned aerial vehicles and musical information retrieval.",
+      "Foster international collaboration among researchers to advance knowledge on the combinatorics of networks and their applications."
+    ],
+    "methods": [
+      "Apply combinatorial and algorithmic approaches to study enumerative problems, crossing numbers, and random networks in geometric contexts.",
+      "Integrate techniques from computational geometry, discrete mathematics, graph drawing, and probability theory.",
+      "Develop and implement graph-based algorithms for specific applications in UAVs and musical information retrieval."
+    ],
+    "results": [
+      "Generate new theoretical insights into the geometric and computational properties of networks.",
+      "Produce practical algorithms for network analysis with applications in UAV systems and musical information retrieval.",
+      "Establish collaborative research connections across 14 universities in 8 countries to advance network combinatorics."
+    ],
+    "research_subject": "Geometric and computational analysis of networks through combinatorial approaches"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Networks are ubiquitous in various environments, and understanding their behavior is crucial for modeling and analyzing complex systems.\",\n    \"There is a need for new insights into the behavior of networks from a geometric and computational perspective to tackle various real-world problems.\"\n  ],\n  \"objectives\": [\n    \"Obtain new insights into the behavior of networks by studying them from a geometric and computational perspective.\",\n    \"Combine combinatorial approaches with algorithms to tackle enumerative problems, crossing numbers, random networks, and imprecise models of data.\",\n    \"Explore algorithmic applications of networks in the context of unmanned aerial vehicles and musical information retrieval.\"\n  ],\n  \"methods\": [\n    \"Bring together researchers from different areas, such as computational geometry, discrete mathematics, graph drawing, and probability, to collaborate and share expertise.\",\n    \"Use combinatorial approaches and algorithms to study geometric networks, stochastic geometry, restricted orientation geometry, and graph-based algorithms.\",\n    \"Collaborate among researchers from 14 universities across different countries to share knowledge and expertise.\"\n  ],\n  \"results\": [\n    \"Gain new knowledge on the combinatorics of networks and their applications in various fields.\",\n    \"Develop new algorithms and approaches for analyzing and modeling complex networks.\",\n    \"Enhance understanding of network behavior in different environments, such as social relationships, the Internet, and virus spread.\"\n  ],\n  \"research_subject\": \"Combinatorics of networks and computation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Networks are ubiquitous in various environments, modeling social relationships, internet links, virus spread, and information exchange in computer processors, necessitating a deeper understanding of their behavior.\",\n    \"There is a need to explore the combinatorics of networks from a geometric and computational perspective, which can have significant applications in areas like unmanned aerial vehicles (UAVs) and musical information retrieval (MIR).\"\n  ],\n  \"objectives\": [\n    \"Obtain new insights into the behavior of networks from a geometric and computational perspective.\",\n    \"Combine combinatorial approaches with algorithms to study topics such as enumerative problems on geometric networks, crossing numbers, random networks, imprecise models of data, and restricted orientation geometry.\",\n    \"Promote collaboration and knowledge sharing among researchers from different universities and areas of expertise.\"\n  ],\n  \"methods\": [\n    \"Bring together researchers from computational geometry, discrete mathematics, graph drawing, and probability to study networks.\",\n    \"Apply combinatorial approaches and algorithms to various research topics related to networks.\",\n    \"Study algorithmic applications of networks in the context of UAVs and MIR.\"\n  ],\n  \"results\": [\n    \"Generate new insights into the behavior and applications of networks from a geometric and computational perspective.\",\n    \"Develop new combinatorial approaches and algorithms for studying networks.\",\n    \"Foster collaboration and knowledge sharing among researchers from different areas and universities.\"\n  ],\n  \"research_subject\": \"Combinatorics of networks from a geometric and computational perspective\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Networks are ubiquitous in modern life, modeling everything from social relationships to virus spread, yet their geometric and computational properties remain incompletely understood.\",\n    \"There is a need for new insights into network behavior that combine perspectives from computational geometry, discrete mathematics, and probability theory.\"\n  ],\n  \"objectives\": [\n    \"Obtain new insights into network behavior through geometric and computational analysis, bringing together expertise from multiple mathematical and computational disciplines.\",\n    \"Develop combinatorial approaches and algorithms for network analysis with applications to unmanned aerial vehicles and musical information retrieval.\",\n    \"Foster international collaboration among researchers to advance knowledge on the combinatorics of networks and their applications.\"\n  ],\n  \"methods\": [\n    \"Apply combinatorial and algorithmic approaches to study enumerative problems, crossing numbers, and random networks in geometric contexts.\",\n    \"Integrate techniques from computational geometry, discrete mathematics, graph drawing, and probability theory.\",\n    \"Develop and implement graph-based algorithms for specific applications in UAVs and musical information retrieval.\"\n  ],\n  \"results\": [\n    \"Generate new theoretical insights into the geometric and computational properties of networks.\",\n    \"Produce practical algorithms for network analysis with applications in UAV systems and musical information retrieval.\",\n    \"Establish collaborative research connections across 14 universities in 8 countries to advance network combinatorics.\"\n  ],\n  \"research_subject\": \"Geometric and computational analysis of networks through combinatorial approaches\"\n}\n```"
+}

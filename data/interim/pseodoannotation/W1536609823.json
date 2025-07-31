@@ -1,0 +1,71 @@
+{
+  "index": 36,
+  "title": "Optimal precoder design for non-regenerative multiple-input multiple-output cognitive relay systems with perfect and imperfect channel state information",
+  "abstract": "This paper studies optimal precoder design for non-regenerative multiple-input multiple-output MIMO cognitive relay systems, where the secondary user SU and relay station RS share the same spectrum with the primary user PU. We aim to maximize the system capacity subject to the transmit power constraints at the SU transmitter SU-Tx and RS, and the interference power constraint at the PU. We jointly optimize precoders for the SU-Tx and RS with perfect and imperfect channel state information CSI between the SU-Tx/RS and PU, where our design approach is based on the alternate optimization method. With perfect CSI, we derive the optimal structures of the RS and SU-Tx precoding matrices and develop the gradient projection algorithm to find numerical solution of the RS precoder. Under imperfect CSI, we derive equivalent conditions for the interference power constraints and convert the robust SU-Tx precoder optimization into the form of semi-definite programming. For the robust RS precoder optimization, we relax the interference power constraint related with the RS precoder to be convex by using an upper bound and apply the gradient projection algorithm to deal with it. Simulation results demonstrate the effectiveness of the proposed schemes. Copyright © 2013 John Wiley & Sons, Ltd.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to optimize precoder design for non-regenerative multiple-input multiple-output cognitive relay systems to maximize system capacity.",
+      "Interference power constraints at the primary user must be considered in the design of precoders for secondary user transmitter and relay station."
+    ],
+    "objectives": [
+      "Maximize system capacity in non-regenerative MIMO cognitive relay systems subject to transmit power and interference power constraints.",
+      "Jointly optimize precoders for secondary user transmitter and relay station with perfect and imperfect channel state information."
+    ],
+    "methods": [
+      "Use alternate optimization method to design precoders for secondary user transmitter and relay station.",
+      "Apply gradient projection algorithm to find numerical solution of relay station precoder with perfect channel state information.",
+      "Utilize semi-definite programming for robust secondary user transmitter precoder optimization under imperfect channel state information."
+    ],
+    "results": [
+      "Derive optimal structures of relay station and secondary user transmitter precoding matrices with perfect channel state information.",
+      "Develop effective robust precoder optimization schemes under imperfect channel state information.",
+      "Demonstrate the effectiveness of the proposed schemes through simulation results."
+    ],
+    "research_subject": "Optimal precoder design for non-regenerative MIMO cognitive relay systems"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need to maximize system capacity in non-regenerative MIMO cognitive relay systems while adhering to transmit power constraints and interference power constraints.",
+      "The challenge of optimizing precoders for the SU-Tx and RS with both perfect and imperfect channel state information."
+    ],
+    "objectives": [
+      "Design optimal precoders for non-regenerative MIMO cognitive relay systems to maximize system capacity.",
+      "Develop a robust SU-Tx precoder optimization method under imperfect channel state information.",
+      "Create a gradient projection algorithm to find a numerical solution for the RS precoder."
+    ],
+    "methods": [
+      "Use the alternate optimization method to jointly optimize precoders for the SU-Tx and RS.",
+      "Derive the optimal structures of the RS and SU-Tx precoding matrices under perfect channel state information.",
+      "Convert the robust SU-Tx precoder optimization into the form of semi-definite programming under imperfect channel state information."
+    ],
+    "results": [
+      "Achieve maximized system capacity in non-regenerative MIMO cognitive relay systems.",
+      "Successfully optimize precoders for the SU-Tx and RS under both perfect and imperfect channel state information.",
+      "Demonstrate the effectiveness of the proposed schemes through simulation results."
+    ],
+    "research_subject": "Optimal precoder design for non-regenerative MIMO cognitive relay systems"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Cognitive relay systems need to share spectrum efficiently with primary users while maximizing secondary user capacity.",
+      "Existing precoder designs do not adequately address the challenges of both perfect and imperfect channel state information in MIMO cognitive relay systems."
+    ],
+    "objectives": [
+      "Maximize system capacity for non-regenerative MIMO cognitive relay systems while satisfying transmit power and interference constraints.",
+      "Jointly optimize precoders for secondary user transmitter and relay station under both perfect and imperfect channel state information conditions."
+    ],
+    "methods": [
+      "Apply alternate optimization method to jointly design precoders for secondary user transmitter and relay station.",
+      "Develop gradient projection algorithm for numerical solution of relay station precoder with perfect CSI.",
+      "Convert robust precoder optimization problems into semi-definite programming and convex optimization forms for imperfect CSI scenarios."
+    ],
+    "results": [
+      "Derived optimal structures of precoding matrices for both relay station and secondary user transmitter.",
+      "Demonstrated effective precoder designs that maximize capacity while maintaining interference constraints through simulation results."
+    ],
+    "research_subject": "Optimal precoder design for non-regenerative MIMO cognitive relay systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to optimize precoder design for non-regenerative multiple-input multiple-output cognitive relay systems to maximize system capacity.\",\n    \"Interference power constraints at the primary user must be considered in the design of precoders for secondary user transmitter and relay station.\"\n  ],\n  \"objectives\": [\n    \"Maximize system capacity in non-regenerative MIMO cognitive relay systems subject to transmit power and interference power constraints.\",\n    \"Jointly optimize precoders for secondary user transmitter and relay station with perfect and imperfect channel state information.\"\n  ],\n  \"methods\": [\n    \"Use alternate optimization method to design precoders for secondary user transmitter and relay station.\",\n    \"Apply gradient projection algorithm to find numerical solution of relay station precoder with perfect channel state information.\",\n    \"Utilize semi-definite programming for robust secondary user transmitter precoder optimization under imperfect channel state information.\"\n  ],\n  \"results\": [\n    \"Derive optimal structures of relay station and secondary user transmitter precoding matrices with perfect channel state information.\",\n    \"Develop effective robust precoder optimization schemes under imperfect channel state information.\",\n    \"Demonstrate the effectiveness of the proposed schemes through simulation results.\"\n  ],\n  \"research_subject\": \"Optimal precoder design for non-regenerative MIMO cognitive relay systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need to maximize system capacity in non-regenerative MIMO cognitive relay systems while adhering to transmit power constraints and interference power constraints.\",\n    \"The challenge of optimizing precoders for the SU-Tx and RS with both perfect and imperfect channel state information.\"\n  ],\n  \"objectives\": [\n    \"Design optimal precoders for non-regenerative MIMO cognitive relay systems to maximize system capacity.\",\n    \"Develop a robust SU-Tx precoder optimization method under imperfect channel state information.\",\n    \"Create a gradient projection algorithm to find a numerical solution for the RS precoder.\"\n  ],\n  \"methods\": [\n    \"Use the alternate optimization method to jointly optimize precoders for the SU-Tx and RS.\",\n    \"Derive the optimal structures of the RS and SU-Tx precoding matrices under perfect channel state information.\",\n    \"Convert the robust SU-Tx precoder optimization into the form of semi-definite programming under imperfect channel state information.\"\n  ],\n  \"results\": [\n    \"Achieve maximized system capacity in non-regenerative MIMO cognitive relay systems.\",\n    \"Successfully optimize precoders for the SU-Tx and RS under both perfect and imperfect channel state information.\",\n    \"Demonstrate the effectiveness of the proposed schemes through simulation results.\"\n  ],\n  \"research_subject\": \"Optimal precoder design for non-regenerative MIMO cognitive relay systems\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Cognitive relay systems need to share spectrum efficiently with primary users while maximizing secondary user capacity.\",\n    \"Existing precoder designs do not adequately address the challenges of both perfect and imperfect channel state information in MIMO cognitive relay systems.\"\n  ],\n  \"objectives\": [\n    \"Maximize system capacity for non-regenerative MIMO cognitive relay systems while satisfying transmit power and interference constraints.\",\n    \"Jointly optimize precoders for secondary user transmitter and relay station under both perfect and imperfect channel state information conditions.\"\n  ],\n  \"methods\": [\n    \"Apply alternate optimization method to jointly design precoders for secondary user transmitter and relay station.\",\n    \"Develop gradient projection algorithm for numerical solution of relay station precoder with perfect CSI.\",\n    \"Convert robust precoder optimization problems into semi-definite programming and convex optimization forms for imperfect CSI scenarios.\"\n  ],\n  \"results\": [\n    \"Derived optimal structures of precoding matrices for both relay station and secondary user transmitter.\",\n    \"Demonstrated effective precoder designs that maximize capacity while maintaining interference constraints through simulation results.\"\n  ],\n  \"research_subject\": \"Optimal precoder design for non-regenerative MIMO cognitive relay systems\"\n}\n```"
+}

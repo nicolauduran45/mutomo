@@ -1,0 +1,72 @@
+{
+  "index": 372,
+  "title": "PXD101 significantly improves nuclear reprogramming and the in vitro developmental competence of porcine SCNT embryos",
+  "abstract": "In this study, we investigated the effects of the histone deacetylase inhibitor PXD101 (belinostat) on the preimplantation development of porcine somatic cell nuclear transfer (SCNT) embryos and their expression of the epigenetic markers histone H3 acetylated at lysine 9 (AcH3K9). We compared the in vitro developmental competence of SCNT embryos treated with various concentrations of PXD101 for 24h. Treatment with 0.5 μM PXD101 significantly increased the proportion of SCNT embryos that reached the blastocyst stage, in comparison to the control group (23.3% vs. 11.5%, P<0.05). We tested the in vitro developmental competence of SCNT embryos treated with 0.5 μM PXD101 for various amounts of times following activation. Treatment for 24h significantly improved the development of porcine SCNT embryos, with a significantly higher proportion of embryos reaching the blastocyst stage in comparison to the control group (25.7% vs. 10.6%, P<0.05). PXD101-treated SCNT embryos were transferred into two surrogate sows, one of whom became pregnant and four fetuses developed. PXD101 treatment significantly increased the fluorescence intensity of immunostaining for AcH3K9 in embryos at the pseudo-pronuclear and 2-cell stages. At these stages, the fluorescence intensities of immunostaining for AcH3K9 were significantly higher in PXD101-treated embryos than in control untreated embryos. In conclusion, this study demonstrates that PXD101 can significantly improve the in vitro and in vivo developmental competence of porcine SCNT embryos and can enhance their nuclear reprogramming.",
+  "llama_json": {
+    "motivations": [
+      "Porcine somatic cell nuclear transfer (SCNT) embryos have limited developmental competence and nuclear reprogramming efficiency.",
+      "Improving the preimplantation development and epigenetic marker expression of SCNT embryos is crucial for their successful application."
+    ],
+    "objectives": [
+      "Investigate the effects of the histone deacetylase inhibitor PXD101 on the preimplantation development of porcine SCNT embryos.",
+      "Evaluate the impact of PXD101 on the expression of epigenetic markers, specifically histone H3 acetylated at lysine 9 (AcH3K9), in SCNT embryos."
+    ],
+    "methods": [
+      "Treat SCNT embryos with various concentrations of PXD101 for 24h and compare their in vitro developmental competence.",
+      "Assess the fluorescence intensity of immunostaining for AcH3K9 in PXD101-treated and control embryos at different stages.",
+      "Transfer PXD101-treated SCNT embryos into surrogate sows to evaluate their in vivo developmental competence."
+    ],
+    "results": [
+      "PXD101 treatment significantly improves the in vitro developmental competence of porcine SCNT embryos and increases their nuclear reprogramming efficiency.",
+      "PXD101 enhances the expression of epigenetic markers, specifically AcH3K9, in SCNT embryos.",
+      "PXD101-treated SCNT embryos can develop into fetuses when transferred into surrogate sows."
+    ],
+    "research_subject": "Improving the developmental competence and nuclear reprogramming of porcine SCNT embryos using PXD101"
+  },
+  "openai_json": {
+    "motivations": [
+      "The developmental competence of porcine somatic cell nuclear transfer (SCNT) embryos is a challenge in the field of reproductive biology.",
+      "There is a need to investigate the effects of histone deacetylase inhibitors, such as PXD101, on the development and nuclear reprogramming of SCNT embryos."
+    ],
+    "objectives": [
+      "Investigate the effects of PXD101 on the preimplantation development of porcine SCNT embryos and their expression of the epigenetic marker AcH3K9.",
+      "Compare the in vitro developmental competence of SCNT embryos treated with various concentrations of PXD101.",
+      "Examine the impact of PXD101 treatment duration on the development of porcine SCNT embryos."
+    ],
+    "methods": [
+      "Treat SCNT embryos with various concentrations of PXD101 and observe their in vitro development.",
+      "Transfer PXD101-treated SCNT embryos into surrogate sows and monitor pregnancy and fetal development.",
+      "Measure the fluorescence intensity of AcH3K9 immunostaining in PXD101-treated and control embryos at different developmental stages."
+    ],
+    "results": [
+      "PXD101 treatment significantly improved the in vitro and in vivo developmental competence of porcine SCNT embryos.",
+      "PXD101 treatment enhanced the nuclear reprogramming of SCNT embryos, as evidenced by increased AcH3K9 expression.",
+      "Optimal concentration and duration of PXD101 treatment were identified for improving the development of porcine SCNT embryos."
+    ],
+    "research_subject": "Improvement of nuclear reprogramming and development of porcine SCNT embryos using PXD101"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Somatic cell nuclear transfer (SCNT) in porcine embryos suffers from low developmental competence and inefficient nuclear reprogramming.",
+      "There is a need to improve the success rate of porcine SCNT for applications in agriculture and biomedical research."
+    ],
+    "objectives": [
+      "Investigate the effects of histone deacetylase inhibitor PXD101 on the development and nuclear reprogramming of porcine SCNT embryos.",
+      "Determine optimal PXD101 concentration and treatment duration to enhance SCNT embryo developmental competence."
+    ],
+    "methods": [
+      "Treat porcine SCNT embryos with various concentrations of PXD101 and assess in vitro developmental competence.",
+      "Analyze epigenetic markers through immunostaining for histone H3 acetylated at lysine 9 (AcH3K9).",
+      "Transfer PXD101-treated SCNT embryos into surrogate sows to evaluate in vivo development."
+    ],
+    "results": [
+      "PXD101 treatment significantly increased blastocyst development rates from 11.5% to 23.3% in vitro.",
+      "Enhanced nuclear reprogramming was demonstrated through increased AcH3K9 levels in treated embryos.",
+      "Successful pregnancy was achieved with PXD101-treated embryos, resulting in four developing fetuses."
+    ],
+    "research_subject": "Enhancement of porcine somatic cell nuclear transfer embryo development using histone deacetylase inhibitor PXD101"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Porcine somatic cell nuclear transfer (SCNT) embryos have limited developmental competence and nuclear reprogramming efficiency.\",\n    \"Improving the preimplantation development and epigenetic marker expression of SCNT embryos is crucial for their successful application.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effects of the histone deacetylase inhibitor PXD101 on the preimplantation development of porcine SCNT embryos.\",\n    \"Evaluate the impact of PXD101 on the expression of epigenetic markers, specifically histone H3 acetylated at lysine 9 (AcH3K9), in SCNT embryos.\"\n  ],\n  \"methods\": [\n    \"Treat SCNT embryos with various concentrations of PXD101 for 24h and compare their in vitro developmental competence.\",\n    \"Assess the fluorescence intensity of immunostaining for AcH3K9 in PXD101-treated and control embryos at different stages.\",\n    \"Transfer PXD101-treated SCNT embryos into surrogate sows to evaluate their in vivo developmental competence.\"\n  ],\n  \"results\": [\n    \"PXD101 treatment significantly improves the in vitro developmental competence of porcine SCNT embryos and increases their nuclear reprogramming efficiency.\",\n    \"PXD101 enhances the expression of epigenetic markers, specifically AcH3K9, in SCNT embryos.\",\n    \"PXD101-treated SCNT embryos can develop into fetuses when transferred into surrogate sows.\"\n  ],\n  \"research_subject\": \"Improving the developmental competence and nuclear reprogramming of porcine SCNT embryos using PXD101\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The developmental competence of porcine somatic cell nuclear transfer (SCNT) embryos is a challenge in the field of reproductive biology.\",\n    \"There is a need to investigate the effects of histone deacetylase inhibitors, such as PXD101, on the development and nuclear reprogramming of SCNT embryos.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effects of PXD101 on the preimplantation development of porcine SCNT embryos and their expression of the epigenetic marker AcH3K9.\",\n    \"Compare the in vitro developmental competence of SCNT embryos treated with various concentrations of PXD101.\",\n    \"Examine the impact of PXD101 treatment duration on the development of porcine SCNT embryos.\"\n  ],\n  \"methods\": [\n    \"Treat SCNT embryos with various concentrations of PXD101 and observe their in vitro development.\",\n    \"Transfer PXD101-treated SCNT embryos into surrogate sows and monitor pregnancy and fetal development.\",\n    \"Measure the fluorescence intensity of AcH3K9 immunostaining in PXD101-treated and control embryos at different developmental stages.\"\n  ],\n  \"results\": [\n    \"PXD101 treatment significantly improved the in vitro and in vivo developmental competence of porcine SCNT embryos.\",\n    \"PXD101 treatment enhanced the nuclear reprogramming of SCNT embryos, as evidenced by increased AcH3K9 expression.\",\n    \"Optimal concentration and duration of PXD101 treatment were identified for improving the development of porcine SCNT embryos.\"\n  ],\n  \"research_subject\": \"Improvement of nuclear reprogramming and development of porcine SCNT embryos using PXD101\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Somatic cell nuclear transfer (SCNT) in porcine embryos suffers from low developmental competence and inefficient nuclear reprogramming.\",\n    \"There is a need to improve the success rate of porcine SCNT for applications in agriculture and biomedical research.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effects of histone deacetylase inhibitor PXD101 on the development and nuclear reprogramming of porcine SCNT embryos.\",\n    \"Determine optimal PXD101 concentration and treatment duration to enhance SCNT embryo developmental competence.\"\n  ],\n  \"methods\": [\n    \"Treat porcine SCNT embryos with various concentrations of PXD101 and assess in vitro developmental competence.\",\n    \"Analyze epigenetic markers through immunostaining for histone H3 acetylated at lysine 9 (AcH3K9).\",\n    \"Transfer PXD101-treated SCNT embryos into surrogate sows to evaluate in vivo development.\"\n  ],\n  \"results\": [\n    \"PXD101 treatment significantly increased blastocyst development rates from 11.5% to 23.3% in vitro.\",\n    \"Enhanced nuclear reprogramming was demonstrated through increased AcH3K9 levels in treated embryos.\",\n    \"Successful pregnancy was achieved with PXD101-treated embryos, resulting in four developing fetuses.\"\n  ],\n  \"research_subject\": \"Enhancement of porcine somatic cell nuclear transfer embryo development using histone deacetylase inhibitor PXD101\"\n}\n```"
+}

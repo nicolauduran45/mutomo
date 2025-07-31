@@ -1,0 +1,61 @@
+{
+  "index": 470,
+  "title": "SEMICONDUCTOR WAFER STORAGE KIOSK",
+  "abstract": "A semiconductor wafer cassette storage cabinet or stocker (10) having retrieval and transfer system constructed in the form of a kiosk encircling a pick-up and transfer apparatus. The structure is fo rmed of a plurality of identical sections (12) having walls and a roofjoined together to form a nearly semi-circular enclosure aroundt he pick-up and transfer apparatus. Each section has multiple level input/output ports adjacent to each other with a shelf (26,28) for supporting a semiconductor wafer cassette (16). Shelves (26,28) at the input/ouput ports are constructed of rails (30,32) supporting drive rollers (36) and a photo-detector (40) to activate the drive rollers to fill an output port whenever a casstte has been retrieved and transferred.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for efficient storage and retrieval systems for semiconductor wafers to streamline manufacturing processes."
+    ],
+    "objectives": [
+      "Design a semiconductor wafer storage kiosk that enables efficient retrieval and transfer of wafer cassettes."
+    ],
+    "methods": [
+      "Develop a modular, semi-circular enclosure with multiple level input/output ports and shelves for supporting wafer cassettes.",
+      "Implement a pick-up and transfer apparatus with automated drive rollers and photo-detectors for cassette retrieval and transfer."
+    ],
+    "results": [
+      "Improve the efficiency and organization of semiconductor wafer storage and retrieval processes."
+    ],
+    "research_subject": "Design of a semiconductor wafer storage kiosk with automated retrieval and transfer system"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an efficient system for storing and retrieving semiconductor wafer cassettes."
+    ],
+    "objectives": [
+      "Design a semiconductor wafer cassette storage cabinet or stocker with a retrieval and transfer system in the form of a kiosk."
+    ],
+    "methods": [
+      "Construct the structure from identical sections forming a nearly semi-circular enclosure around the pick-up and transfer apparatus.",
+      "Equip each section with multiple level input/output ports with shelves for supporting a semiconductor wafer cassette.",
+      "Implement drive rollers and a photo-detector to activate the drive rollers to fill an output port whenever a cassette has been retrieved and transferred."
+    ],
+    "results": [
+      "Provide an efficient system for storing and retrieving semiconductor wafer cassettes."
+    ],
+    "research_subject": "Semiconductor wafer storage kiosk design and implementation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for efficient storage and retrieval systems for semiconductor wafer cassettes in manufacturing environments.",
+      "Current storage solutions may lack automated transfer capabilities and optimal space utilization for semiconductor wafer handling."
+    ],
+    "objectives": [
+      "Design and develop a semiconductor wafer cassette storage cabinet with integrated automated retrieval and transfer capabilities.",
+      "Create a modular kiosk structure that optimizes space utilization while providing multiple input/output ports for wafer cassette handling."
+    ],
+    "methods": [
+      "Construct a semi-circular kiosk enclosure using identical modular sections around a central pick-up and transfer apparatus.",
+      "Implement shelves with drive rollers and photo-detectors for automated cassette movement and detection.",
+      "Design multiple level input/output ports with rail-supported shelves for cassette storage and retrieval."
+    ],
+    "results": [
+      "Automated semiconductor wafer cassette storage system with efficient retrieval and transfer capabilities.",
+      "Improved space utilization and workflow efficiency in semiconductor manufacturing environments through modular kiosk design."
+    ],
+    "research_subject": "Automated semiconductor wafer cassette storage and retrieval system"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient storage and retrieval systems for semiconductor wafers to streamline manufacturing processes.\"\n  ],\n  \"objectives\": [\n    \"Design a semiconductor wafer storage kiosk that enables efficient retrieval and transfer of wafer cassettes.\"\n  ],\n  \"methods\": [\n    \"Develop a modular, semi-circular enclosure with multiple level input/output ports and shelves for supporting wafer cassettes.\",\n    \"Implement a pick-up and transfer apparatus with automated drive rollers and photo-detectors for cassette retrieval and transfer.\"\n  ],\n  \"results\": [\n    \"Improve the efficiency and organization of semiconductor wafer storage and retrieval processes.\"\n  ],\n  \"research_subject\": \"Design of a semiconductor wafer storage kiosk with automated retrieval and transfer system\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient system for storing and retrieving semiconductor wafer cassettes.\"\n  ],\n  \"objectives\": [\n    \"Design a semiconductor wafer cassette storage cabinet or stocker with a retrieval and transfer system in the form of a kiosk.\"\n  ],\n  \"methods\": [\n    \"Construct the structure from identical sections forming a nearly semi-circular enclosure around the pick-up and transfer apparatus.\",\n    \"Equip each section with multiple level input/output ports with shelves for supporting a semiconductor wafer cassette.\",\n    \"Implement drive rollers and a photo-detector to activate the drive rollers to fill an output port whenever a cassette has been retrieved and transferred.\"\n  ],\n  \"results\": [\n    \"Provide an efficient system for storing and retrieving semiconductor wafer cassettes.\"\n  ],\n  \"research_subject\": \"Semiconductor wafer storage kiosk design and implementation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient storage and retrieval systems for semiconductor wafer cassettes in manufacturing environments.\",\n    \"Current storage solutions may lack automated transfer capabilities and optimal space utilization for semiconductor wafer handling.\"\n  ],\n  \"objectives\": [\n    \"Design and develop a semiconductor wafer cassette storage cabinet with integrated automated retrieval and transfer capabilities.\",\n    \"Create a modular kiosk structure that optimizes space utilization while providing multiple input/output ports for wafer cassette handling.\"\n  ],\n  \"methods\": [\n    \"Construct a semi-circular kiosk enclosure using identical modular sections around a central pick-up and transfer apparatus.\",\n    \"Implement shelves with drive rollers and photo-detectors for automated cassette movement and detection.\",\n    \"Design multiple level input/output ports with rail-supported shelves for cassette storage and retrieval.\"\n  ],\n  \"results\": [\n    \"Automated semiconductor wafer cassette storage system with efficient retrieval and transfer capabilities.\",\n    \"Improved space utilization and workflow efficiency in semiconductor manufacturing environments through modular kiosk design.\"\n  ],\n  \"research_subject\": \"Automated semiconductor wafer cassette storage and retrieval system\"\n}\n```"
+}

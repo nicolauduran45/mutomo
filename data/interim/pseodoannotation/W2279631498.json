@@ -1,0 +1,65 @@
+{
+  "index": 377,
+  "title": "Agent-Based Privacy Aware Feedback System",
+  "abstract": "In the field of information technology, a feedback system is a computer program that receives information from the users and guides the target audiences in order to achieve the desired outcomes. The Feedback systems can be used as a part of an intervention in organizations to increase awareness and improve performance. However, due to many factors such as possibility of losing jobs and facing social problems, people of the organizations are not interested to disclose their identities while providing feedbacks about their organizations. This is the most significant problem of current feedback systems. Therefore, in this paper, we introduce a framework to provide feedbacks without disclosing individuals’ record’s values. In our approach, we introduce an agent-based parallel computation technique that can collect feedbacks from the users in a secure environment. We provide an extensive experimental evaluation to show the effectiveness of our approach.KeywordsFeedback systemsprivacy aware systemsagent-based computation",
+  "llama_json": {
+    "motivations": [
+      "Current feedback systems face challenges due to users' reluctance to disclose their identities, fearing job loss or social problems.",
+      "There is a need for a secure and private feedback system that protects users' identities while still providing valuable insights."
+    ],
+    "objectives": [
+      "Design a framework for a feedback system that allows users to provide feedback without disclosing their identities.",
+      "Develop an agent-based parallel computation technique to collect feedback in a secure environment."
+    ],
+    "methods": [
+      "Implement an agent-based approach to enable parallel computation and secure feedback collection.",
+      "Conduct extensive experimental evaluation to demonstrate the effectiveness of the proposed approach."
+    ],
+    "results": [
+      "Enable users to provide feedback without compromising their identities, increasing the willingness to participate.",
+      "Improve the overall effectiveness of feedback systems in organizations, leading to increased awareness and performance."
+    ],
+    "research_subject": "Development of a privacy-aware feedback system using agent-based computation"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current feedback systems in organizations often fail to protect the anonymity of users, leading to reluctance in providing honest feedback due to fear of job loss or social problems.",
+      "There is a need for a secure environment that allows users to provide feedback without disclosing their identities."
+    ],
+    "objectives": [
+      "Introduce a framework that enables users to provide feedback without disclosing their personal information.",
+      "Implement an agent-based parallel computation technique to collect feedback in a secure environment."
+    ],
+    "methods": [
+      "Use an agent-based parallel computation technique to collect feedback securely.",
+      "Conduct extensive experimental evaluation to assess the effectiveness of the proposed approach."
+    ],
+    "results": [
+      "The proposed framework allows for secure and anonymous feedback collection, improving the honesty and quality of feedback.",
+      "The agent-based computation technique effectively collects feedback in a secure environment."
+    ],
+    "research_subject": "Privacy-aware feedback system using agent-based computation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "People in organizations are reluctant to provide feedback due to fears of job loss and social problems when their identities are disclosed.",
+      "Current feedback systems lack adequate privacy protection mechanisms, limiting their effectiveness in collecting honest organizational feedback."
+    ],
+    "objectives": [
+      "Develop a framework that enables users to provide feedback without disclosing their individual record values or identities.",
+      "Create a secure environment for collecting organizational feedback while maintaining user privacy."
+    ],
+    "methods": [
+      "Implement an agent-based parallel computation technique for secure feedback collection.",
+      "Design a privacy-aware framework that protects individual record values during the feedback process."
+    ],
+    "results": [
+      "The approach demonstrates effectiveness in enabling privacy-protected feedback collection through experimental evaluation.",
+      "The system provides a secure environment where users can share organizational feedback without identity disclosure concerns."
+    ],
+    "research_subject": "Privacy-preserving feedback systems using agent-based computation"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current feedback systems face challenges due to users' reluctance to disclose their identities, fearing job loss or social problems.\",\n    \"There is a need for a secure and private feedback system that protects users' identities while still providing valuable insights.\"\n  ],\n  \"objectives\": [\n    \"Design a framework for a feedback system that allows users to provide feedback without disclosing their identities.\",\n    \"Develop an agent-based parallel computation technique to collect feedback in a secure environment.\"\n  ],\n  \"methods\": [\n    \"Implement an agent-based approach to enable parallel computation and secure feedback collection.\",\n    \"Conduct extensive experimental evaluation to demonstrate the effectiveness of the proposed approach.\"\n  ],\n  \"results\": [\n    \"Enable users to provide feedback without compromising their identities, increasing the willingness to participate.\",\n    \"Improve the overall effectiveness of feedback systems in organizations, leading to increased awareness and performance.\"\n  ],\n  \"research_subject\": \"Development of a privacy-aware feedback system using agent-based computation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current feedback systems in organizations often fail to protect the anonymity of users, leading to reluctance in providing honest feedback due to fear of job loss or social problems.\",\n    \"There is a need for a secure environment that allows users to provide feedback without disclosing their identities.\"\n  ],\n  \"objectives\": [\n    \"Introduce a framework that enables users to provide feedback without disclosing their personal information.\",\n    \"Implement an agent-based parallel computation technique to collect feedback in a secure environment.\"\n  ],\n  \"methods\": [\n    \"Use an agent-based parallel computation technique to collect feedback securely.\",\n    \"Conduct extensive experimental evaluation to assess the effectiveness of the proposed approach.\"\n  ],\n  \"results\": [\n    \"The proposed framework allows for secure and anonymous feedback collection, improving the honesty and quality of feedback.\",\n    \"The agent-based computation technique effectively collects feedback in a secure environment.\"\n  ],\n  \"research_subject\": \"Privacy-aware feedback system using agent-based computation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"People in organizations are reluctant to provide feedback due to fears of job loss and social problems when their identities are disclosed.\",\n    \"Current feedback systems lack adequate privacy protection mechanisms, limiting their effectiveness in collecting honest organizational feedback.\"\n  ],\n  \"objectives\": [\n    \"Develop a framework that enables users to provide feedback without disclosing their individual record values or identities.\",\n    \"Create a secure environment for collecting organizational feedback while maintaining user privacy.\"\n  ],\n  \"methods\": [\n    \"Implement an agent-based parallel computation technique for secure feedback collection.\",\n    \"Design a privacy-aware framework that protects individual record values during the feedback process.\"\n  ],\n  \"results\": [\n    \"The approach demonstrates effectiveness in enabling privacy-protected feedback collection through experimental evaluation.\",\n    \"The system provides a secure environment where users can share organizational feedback without identity disclosure concerns.\"\n  ],\n  \"research_subject\": \"Privacy-preserving feedback systems using agent-based computation\"\n}\n```"
+}

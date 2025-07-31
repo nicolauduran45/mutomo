@@ -1,0 +1,74 @@
+{
+  "index": 255,
+  "title": "Topological phononics in crystalline materials",
+  "abstract": "Phonons are the quantized vibration of the crystal lattice that carry heat in insulators and semiconductors and thus the ability of manipulating them is central in many applications, ranging from thermal management, thermoelectricity and ,perhaps the most visionary of them, phonon-based logic and computing. Topological nontrivial phonons have been studied in artificial periodic structures, i.e. phononic crystals, and as intrinsic quantized collective excitations of atomic vibrations at terahertz frequency. The latter are of particular importance and can promote fundamental investigations and promising applications related to phonons, such as dissipationless phonon transport, quantized Hall effect, etc. The goal of this project is to investigate the intrinsic topological phononic states inside realistic crystalline solids and provide recipes for their experimental realization and engineering. The TOPological pHONonics In Crystalline materiALS (TOPHONICALS) project will deliver a framework aimed at designing and realizing nontrivial topological phonon states in realistic crystalline materials, exploring their use in applications related to renewable energy and information technology. Specifically, TOPHONICALS will focus on topological phononic states like quantum anomalous/spin/valley hall-like (Q(A/S/V)H-like) states and Weyl phonons with the purpose to achieve these states in the realistic materials, so that thermal devices such as dissipationless phonon waveguides, phonon diodes, negative refraction materials can be further designed and engineered. The challenge and novelty of TOPHONICALS is delivering a set of recipes to realize these devices not simply using theoretical models but realistic materials. This approach would allow us to imagine a low power phononic circuits, highly efficient phonon valley filters and an ideal phonon diode, as the topological phononic states are promising one-way boundary states immune to scattering.",
+  "llama_json": {
+    "motivations": [
+      "Manipulating phonons is crucial for various applications, including thermal management, thermoelectricity, and phonon-based logic and computing.",
+      "Current research on topological phonons is limited to artificial periodic structures, and there is a need to investigate intrinsic topological phononic states in realistic crystalline solids."
+    ],
+    "objectives": [
+      "Investigate intrinsic topological phononic states in realistic crystalline solids.",
+      "Provide recipes for the experimental realization and engineering of topological phononic states.",
+      "Explore the use of topological phononic states in applications related to renewable energy and information technology."
+    ],
+    "methods": [
+      "Develop a framework for designing and realizing nontrivial topological phonon states in realistic crystalline materials.",
+      "Focus on topological phononic states like quantum anomalous/spin/valley hall-like states and Weyl phonons.",
+      "Use theoretical models and realistic materials to design and engineer thermal devices such as dissipationless phonon waveguides and phonon diodes."
+    ],
+    "results": [
+      "Achieve dissipationless phonon transport and quantized Hall effect in realistic crystalline materials.",
+      "Enable the design and engineering of low-power phononic circuits, highly efficient phonon valley filters, and ideal phonon diodes.",
+      "Realize topological phononic states that are immune to scattering and can be used for various applications."
+    ],
+    "research_subject": "Topological phononics in crystalline materials for thermal management and phonon-based logic and computing"
+  },
+  "openai_json": {
+    "motivations": [
+      "The manipulation of phonons, the quantized vibration of the crystal lattice, is crucial in many applications, including thermal management, thermoelectricity, and phonon-based logic and computing.",
+      "There is a need to investigate the intrinsic topological phononic states in realistic crystalline solids and provide methods for their experimental realization and engineering."
+    ],
+    "objectives": [
+      "Investigate the intrinsic topological phononic states inside realistic crystalline solids.",
+      "Develop a framework for designing and realizing nontrivial topological phonon states in realistic crystalline materials.",
+      "Explore the use of topological phononic states in applications related to renewable energy and information technology."
+    ],
+    "methods": [
+      "Focus on topological phononic states like quantum anomalous/spin/valley hall-like states and Weyl phonons.",
+      "Design and engineer thermal devices such as dissipationless phonon waveguides, phonon diodes, and negative refraction materials using these states.",
+      "Deliver a set of recipes to realize these devices using realistic materials, not just theoretical models."
+    ],
+    "results": [
+      "Provide a framework for designing and realizing nontrivial topological phonon states in realistic crystalline materials.",
+      "Enable the creation of low power phononic circuits, highly efficient phonon valley filters, and an ideal phonon diode.",
+      "Promote the use of topological phononic states in applications related to renewable energy and information technology."
+    ],
+    "research_subject": "Investigation and engineering of topological phononic states in crystalline materials"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The ability to manipulate phonons is crucial for applications in thermal management, thermoelectricity, and phonon-based logic and computing.",
+      "Current understanding of topological phonons is limited to artificial structures, while intrinsic topological phononic states in realistic crystalline materials remain largely unexplored."
+    ],
+    "objectives": [
+      "Investigate intrinsic topological phononic states in realistic crystalline solids and provide experimental recipes for their realization and engineering.",
+      "Design and realize nontrivial topological phonon states such as quantum anomalous/spin/valley hall-like states and Weyl phonons in realistic materials.",
+      "Develop thermal devices including dissipationless phonon waveguides, phonon diodes, and negative refraction materials based on topological phononic states."
+    ],
+    "methods": [
+      "Develop a framework for designing and realizing topological phononic states in crystalline materials.",
+      "Focus on engineering quantum anomalous/spin/valley hall-like states and Weyl phonons in realistic materials.",
+      "Create practical recipes for experimental realization of topological phononic devices beyond theoretical models."
+    ],
+    "results": [
+      "Enable the development of low power phononic circuits, highly efficient phonon valley filters, and ideal phonon diodes.",
+      "Achieve one-way boundary states immune to scattering through topological phononic states.",
+      "Advance applications in renewable energy and information technology through engineered topological phononic materials."
+    ],
+    "research_subject": "Topological phononic states in crystalline materials for thermal and information technology applications"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Manipulating phonons is crucial for various applications, including thermal management, thermoelectricity, and phonon-based logic and computing.\",\n    \"Current research on topological phonons is limited to artificial periodic structures, and there is a need to investigate intrinsic topological phononic states in realistic crystalline solids.\"\n  ],\n  \"objectives\": [\n    \"Investigate intrinsic topological phononic states in realistic crystalline solids.\",\n    \"Provide recipes for the experimental realization and engineering of topological phononic states.\",\n    \"Explore the use of topological phononic states in applications related to renewable energy and information technology.\"\n  ],\n  \"methods\": [\n    \"Develop a framework for designing and realizing nontrivial topological phonon states in realistic crystalline materials.\",\n    \"Focus on topological phononic states like quantum anomalous/spin/valley hall-like states and Weyl phonons.\",\n    \"Use theoretical models and realistic materials to design and engineer thermal devices such as dissipationless phonon waveguides and phonon diodes.\"\n  ],\n  \"results\": [\n    \"Achieve dissipationless phonon transport and quantized Hall effect in realistic crystalline materials.\",\n    \"Enable the design and engineering of low-power phononic circuits, highly efficient phonon valley filters, and ideal phonon diodes.\",\n    \"Realize topological phononic states that are immune to scattering and can be used for various applications.\"\n  ],\n  \"research_subject\": \"Topological phononics in crystalline materials for thermal management and phonon-based logic and computing\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The manipulation of phonons, the quantized vibration of the crystal lattice, is crucial in many applications, including thermal management, thermoelectricity, and phonon-based logic and computing.\",\n    \"There is a need to investigate the intrinsic topological phononic states in realistic crystalline solids and provide methods for their experimental realization and engineering.\"\n  ],\n  \"objectives\": [\n    \"Investigate the intrinsic topological phononic states inside realistic crystalline solids.\",\n    \"Develop a framework for designing and realizing nontrivial topological phonon states in realistic crystalline materials.\",\n    \"Explore the use of topological phononic states in applications related to renewable energy and information technology.\"\n  ],\n  \"methods\": [\n    \"Focus on topological phononic states like quantum anomalous/spin/valley hall-like states and Weyl phonons.\",\n    \"Design and engineer thermal devices such as dissipationless phonon waveguides, phonon diodes, and negative refraction materials using these states.\",\n    \"Deliver a set of recipes to realize these devices using realistic materials, not just theoretical models.\"\n  ],\n  \"results\": [\n    \"Provide a framework for designing and realizing nontrivial topological phonon states in realistic crystalline materials.\",\n    \"Enable the creation of low power phononic circuits, highly efficient phonon valley filters, and an ideal phonon diode.\",\n    \"Promote the use of topological phononic states in applications related to renewable energy and information technology.\"\n  ],\n  \"research_subject\": \"Investigation and engineering of topological phononic states in crystalline materials\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The ability to manipulate phonons is crucial for applications in thermal management, thermoelectricity, and phonon-based logic and computing.\",\n    \"Current understanding of topological phonons is limited to artificial structures, while intrinsic topological phononic states in realistic crystalline materials remain largely unexplored.\"\n  ],\n  \"objectives\": [\n    \"Investigate intrinsic topological phononic states in realistic crystalline solids and provide experimental recipes for their realization and engineering.\",\n    \"Design and realize nontrivial topological phonon states such as quantum anomalous/spin/valley hall-like states and Weyl phonons in realistic materials.\",\n    \"Develop thermal devices including dissipationless phonon waveguides, phonon diodes, and negative refraction materials based on topological phononic states.\"\n  ],\n  \"methods\": [\n    \"Develop a framework for designing and realizing topological phononic states in crystalline materials.\",\n    \"Focus on engineering quantum anomalous/spin/valley hall-like states and Weyl phonons in realistic materials.\",\n    \"Create practical recipes for experimental realization of topological phononic devices beyond theoretical models.\"\n  ],\n  \"results\": [\n    \"Enable the development of low power phononic circuits, highly efficient phonon valley filters, and ideal phonon diodes.\",\n    \"Achieve one-way boundary states immune to scattering through topological phononic states.\",\n    \"Advance applications in renewable energy and information technology through engineered topological phononic materials.\"\n  ],\n  \"research_subject\": \"Topological phononic states in crystalline materials for thermal and information technology applications\"\n}\n```"
+}

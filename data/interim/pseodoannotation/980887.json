@@ -1,0 +1,76 @@
+{
+  "index": 333,
+  "title": "Polling beehives to monitor parasitic infestations and gather pollination information",
+  "abstract": "One out of every three bites of food we eat is there because of pollinators. However, pollinator and especially bee diversity has declined markedly in Europe and a study from 2014 by the university of Reading calculates the existing shortage at seven billion bees. In addition to the challenges from climate change and an ever growing world population the agricultural sector is under tremendous pressure to produce a lot more crop on limited acres and a declining pollinator population. Hivepoll aims to establish a novel data exchange platform between beekeepers and other stakeholder in the agriculture market. The project will not only offer a low-cost visual computing system to detect threats and effectively manage bee hives in real time but also unprecedented insights into the performance of bee colonies as pollinators. Hivepoll allows to predict crop yield and using better models to manage crop failure risks, two features which are among the biggest opportunities for Big Data applications in agriculture. With hivepoll it will become possible to provide an early warning system in case of a low pollination performance as well as being able to counter these adverse effects. Furthermore, an effective parasite detection will contribute to the health of bee colonies and their survival in good health over the winter which is a prime concern of bee keepers and farmers as honey bees are among the few pollinators which are active in sufficient force early in the planting cycle. A fast pollination of crops is extremely important as it alleviates the negative effects of unstable weather conditions such as spring frost. We predict an up to 10% increase in crop yield due to the improved management of pollination by hivepoll. Hivepoll is based on a successfully concluded 2 years research project with universities. In the project important follow-up steps for commercialization will be carried out.",
+  "llama_json": {
+    "motivations": [
+      "Pollinator diversity, particularly bee populations, has declined significantly in Europe, threatening food production and agricultural sustainability.",
+      "The agricultural sector faces immense pressure to increase crop yields on limited land with a declining pollinator population, exacerbated by climate change and a growing world population."
+    ],
+    "objectives": [
+      "Establish a novel data exchange platform between beekeepers and agricultural stakeholders to enhance pollination management and crop yield prediction.",
+      "Develop a low-cost visual computing system for real-time threat detection and effective bee hive management.",
+      "Provide early warning systems for low pollination performance and countermeasures to mitigate adverse effects."
+    ],
+    "methods": [
+      "Implement a data exchange platform to collect and analyze data from beekeepers and other stakeholders.",
+      "Utilize visual computing systems for real-time monitoring and threat detection in bee hives.",
+      "Develop predictive models to forecast crop yields and manage crop failure risks."
+    ],
+    "results": [
+      "Improve crop yields by up to 10% through enhanced pollination management.",
+      "Contribute to the health and survival of bee colonies through effective parasite detection and early warning systems.",
+      "Enhance agricultural sustainability and alleviate the negative effects of unstable weather conditions."
+    ],
+    "research_subject": "Monitoring and managing pollinator health and pollination performance using data exchange platforms and visual computing systems"
+  },
+  "openai_json": {
+    "motivations": [
+      "The decline in pollinator and bee diversity in Europe has led to a shortage of bees, impacting food production and putting pressure on the agricultural sector.",
+      "There is a need for real-time, effective management of bee hives and a system to predict crop yield and manage crop failure risks.",
+      "The health and survival of bee colonies, especially over the winter, is a prime concern due to their role as early pollinators in the planting cycle."
+    ],
+    "objectives": [
+      "Establish a novel data exchange platform between beekeepers and stakeholders in the agriculture market.",
+      "Develop a low-cost visual computing system to detect threats and manage bee hives in real time.",
+      "Provide insights into the performance of bee colonies as pollinators, predict crop yield, and manage crop failure risks."
+    ],
+    "methods": [
+      "Implement a visual computing system for real-time threat detection and hive management.",
+      "Develop a data exchange platform to facilitate communication between beekeepers and agricultural stakeholders.",
+      "Use the data gathered to predict crop yield and manage crop failure risks."
+    ],
+    "results": [
+      "Enable early warning system for low pollination performance and counter adverse effects.",
+      "Contribute to the health and survival of bee colonies, particularly over the winter period.",
+      "Predict up to a 10% increase in crop yield due to improved management of pollination."
+    ],
+    "research_subject": "Monitoring and management of bee hives for improved pollination and crop yield"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Pollinator populations, particularly bees, have declined significantly in Europe, creating a shortage that threatens agricultural productivity and food security.",
+      "The agricultural sector faces pressure to increase crop yields on limited land while dealing with declining pollinator populations and climate change challenges.",
+      "Beekeepers and farmers lack real-time monitoring tools to detect parasitic infestations and assess pollination performance of bee colonies."
+    ],
+    "objectives": [
+      "Establish a data exchange platform between beekeepers and agricultural stakeholders to monitor bee health and pollination performance.",
+      "Develop a low-cost visual computing system for real-time detection of threats and management of bee hives.",
+      "Enable prediction of crop yields and provide early warning systems for low pollination performance to improve agricultural outcomes."
+    ],
+    "methods": [
+      "Implement a visual computing system to monitor bee hives and detect parasitic infestations in real time.",
+      "Create a data exchange platform that connects beekeepers with agricultural stakeholders for sharing pollination and hive health information.",
+      "Apply Big Data analytics to predict crop yields and develop models for managing crop failure risks."
+    ],
+    "results": [
+      "Up to 10% increase in crop yield through improved pollination management.",
+      "Enhanced survival rates of bee colonies through effective parasite detection and management.",
+      "Improved risk management for crop failures and early warning capabilities for pollination issues."
+    ],
+    "research_subject": "Real-time monitoring of bee hives for parasite detection and pollination performance assessment"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Pollinator diversity, particularly bee populations, has declined significantly in Europe, threatening food production and agricultural sustainability.\",\n    \"The agricultural sector faces immense pressure to increase crop yields on limited land with a declining pollinator population, exacerbated by climate change and a growing world population.\"\n  ],\n  \"objectives\": [\n    \"Establish a novel data exchange platform between beekeepers and agricultural stakeholders to enhance pollination management and crop yield prediction.\",\n    \"Develop a low-cost visual computing system for real-time threat detection and effective bee hive management.\",\n    \"Provide early warning systems for low pollination performance and countermeasures to mitigate adverse effects.\"\n  ],\n  \"methods\": [\n    \"Implement a data exchange platform to collect and analyze data from beekeepers and other stakeholders.\",\n    \"Utilize visual computing systems for real-time monitoring and threat detection in bee hives.\",\n    \"Develop predictive models to forecast crop yields and manage crop failure risks.\"\n  ],\n  \"results\": [\n    \"Improve crop yields by up to 10% through enhanced pollination management.\",\n    \"Contribute to the health and survival of bee colonies through effective parasite detection and early warning systems.\",\n    \"Enhance agricultural sustainability and alleviate the negative effects of unstable weather conditions.\"\n  ],\n  \"research_subject\": \"Monitoring and managing pollinator health and pollination performance using data exchange platforms and visual computing systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The decline in pollinator and bee diversity in Europe has led to a shortage of bees, impacting food production and putting pressure on the agricultural sector.\",\n    \"There is a need for real-time, effective management of bee hives and a system to predict crop yield and manage crop failure risks.\",\n    \"The health and survival of bee colonies, especially over the winter, is a prime concern due to their role as early pollinators in the planting cycle.\"\n  ],\n  \"objectives\": [\n    \"Establish a novel data exchange platform between beekeepers and stakeholders in the agriculture market.\",\n    \"Develop a low-cost visual computing system to detect threats and manage bee hives in real time.\",\n    \"Provide insights into the performance of bee colonies as pollinators, predict crop yield, and manage crop failure risks.\"\n  ],\n  \"methods\": [\n    \"Implement a visual computing system for real-time threat detection and hive management.\",\n    \"Develop a data exchange platform to facilitate communication between beekeepers and agricultural stakeholders.\",\n    \"Use the data gathered to predict crop yield and manage crop failure risks.\"\n  ],\n  \"results\": [\n    \"Enable early warning system for low pollination performance and counter adverse effects.\",\n    \"Contribute to the health and survival of bee colonies, particularly over the winter period.\",\n    \"Predict up to a 10% increase in crop yield due to improved management of pollination.\"\n  ],\n  \"research_subject\": \"Monitoring and management of bee hives for improved pollination and crop yield\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Pollinator populations, particularly bees, have declined significantly in Europe, creating a shortage that threatens agricultural productivity and food security.\",\n    \"The agricultural sector faces pressure to increase crop yields on limited land while dealing with declining pollinator populations and climate change challenges.\",\n    \"Beekeepers and farmers lack real-time monitoring tools to detect parasitic infestations and assess pollination performance of bee colonies.\"\n  ],\n  \"objectives\": [\n    \"Establish a data exchange platform between beekeepers and agricultural stakeholders to monitor bee health and pollination performance.\",\n    \"Develop a low-cost visual computing system for real-time detection of threats and management of bee hives.\",\n    \"Enable prediction of crop yields and provide early warning systems for low pollination performance to improve agricultural outcomes.\"\n  ],\n  \"methods\": [\n    \"Implement a visual computing system to monitor bee hives and detect parasitic infestations in real time.\",\n    \"Create a data exchange platform that connects beekeepers with agricultural stakeholders for sharing pollination and hive health information.\",\n    \"Apply Big Data analytics to predict crop yields and develop models for managing crop failure risks.\"\n  ],\n  \"results\": [\n    \"Up to 10% increase in crop yield through improved pollination management.\",\n    \"Enhanced survival rates of bee colonies through effective parasite detection and management.\",\n    \"Improved risk management for crop failures and early warning capabilities for pollination issues.\"\n  ],\n  \"research_subject\": \"Real-time monitoring of bee hives for parasite detection and pollination performance assessment\"\n}\n```"
+}

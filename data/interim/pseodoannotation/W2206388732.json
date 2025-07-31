@@ -1,0 +1,71 @@
+{
+  "index": 232,
+  "title": "從《敕封粵東義民廟祀典簿》看清代竹塹地區的米價變化（1835-1893）",
+  "abstract": "Topic: An Investigation of the Rice Price Changes in the Zhu Qian Region in Qing Dynasty from the Yue Don I-min Temple Investiture Offering Ceremony Register This study utilized historical documents as its source materials (account books) and adopted a scientific statistical method to research the local grain prices (rice). This research extracted valid grain price data from the Yue Don I-min Temple Investiture Offering Ceremony Register (the account book of I-min Temple) to set up a valid rice price sequence. Meanwhile, all the data was broken down by time series in order to observe the long-time trends and identify the rice price changes (price changes) in the Zhu Qian Region in Qing Dynasty. The rice / grain prices listed in the Yue Don I-min Temple Investiture Offering Ceremony Register are a part of the data recorded in accordance with the trading results of the rice market in the Zhu Qian Region in Qing Dynasty. Therefore, the rice price changes listed in the account book clearly show the rice price changes in the Zhu Qian Region in Qing Dynasty. After consulting the data in the account book, the study used time series to analyze the data. It can be seen from the long-term trends that the price of rice in this region went up yearly. In fact, at the beginning of the first period of time (1841-1856), in 1841, the lowest price was 69 cents; however, by 1856, the lowest price raised to 85 cents. Furthermore, during the second period of time (1857 – 1884), the rice price had risen rapidly since 1856 and reached the second highest price in 1864 (from 85 cents to 194 cents). However, ever since 1864, the price had gone down sharply from 194 cents to 89 cents in just 4 years. The biggest decrease was in 1866-1867 (from 190 cents to 120 cents). However, the price went up again from 1868 (it reached 199 cents in 1876 from 140, 128 cents). However, the price change in the third period (1885-1893) became more stable after 1885. Aside from that, after comparing with the rice sequences from different sources and accounting for extreme prices and disasters, the rises and falls are fairly similar with the rice sequence set up in accordance with the Yue Don I-min Temple Investiture Offering Ceremony Register. Therefore, it can be concluded that the rice sequence should have a fairly high reliability because of the quality of the available data.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the historical changes in rice prices in the Zhu Qian Region during the Qing Dynasty.",
+      "Historical documents, such as the Yue Don I-min Temple Investiture Offering Ceremony Register, can provide valuable insights into local grain prices and economic trends."
+    ],
+    "objectives": [
+      "Extract and analyze valid grain price data from the Yue Don I-min Temple Investiture Offering Ceremony Register to establish a reliable rice price sequence.",
+      "Examine the long-term trends and fluctuations in rice prices in the Zhu Qian Region during the Qing Dynasty.",
+      "Evaluate the reliability of the rice price sequence by comparing it with other sources and accounting for extreme prices and disasters."
+    ],
+    "methods": [
+      "Utilize historical documents, specifically account books, as source materials for the research.",
+      "Apply scientific statistical methods to analyze the extracted grain price data and identify trends and changes.",
+      "Break down the data by time series to observe long-term trends and fluctuations in rice prices."
+    ],
+    "results": [
+      "The study reveals a general upward trend in rice prices in the Zhu Qian Region during the Qing Dynasty, with fluctuations and changes over time.",
+      "The rice price sequence established from the Yue Don I-min Temple Investiture Offering Ceremony Register shows a high reliability when compared with other sources.",
+      "The research provides valuable insights into the economic trends and changes in the Zhu Qian Region during the Qing Dynasty."
+    ],
+    "research_subject": "Historical analysis of rice price changes in the Zhu Qian Region during the Qing Dynasty"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the long-term trends and changes in rice prices in the Zhu Qian Region during the Qing Dynasty.",
+      "Historical documents such as the Yue Don I-min Temple Investiture Offering Ceremony Register provide valuable data for studying these price changes."
+    ],
+    "objectives": [
+      "Extract valid grain price data from the Yue Don I-min Temple Investiture Offering Ceremony Register to establish a reliable rice price sequence.",
+      "Analyze the data using time series to identify long-term trends and changes in rice prices in the Zhu Qian Region during the Qing Dynasty."
+    ],
+    "methods": [
+      "Utilize historical documents, specifically account books, as source materials for data extraction.",
+      "Apply scientific statistical methods and time series analysis to study the extracted data."
+    ],
+    "results": [
+      "Established a valid rice price sequence for the Zhu Qian Region during the Qing Dynasty.",
+      "Identified a general upward trend in rice prices over the studied period, with periods of rapid increase and decrease.",
+      "Confirmed the reliability of the rice price sequence by comparing it with sequences from other sources and considering factors such as extreme prices and disasters."
+    ],
+    "research_subject": "Investigation of rice price changes in the Zhu Qian Region during the Qing Dynasty"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding historical rice price fluctuations in the Zhu Qian region during the Qing Dynasty provides insights into economic conditions and market dynamics of that era.",
+      "Historical account books from temples offer valuable but underutilized data sources for reconstructing past economic trends."
+    ],
+    "objectives": [
+      "Extract and analyze rice price data from the Yue Don I-min Temple Investiture Offering Ceremony Register to establish a valid price sequence for the Zhu Qian region.",
+      "Identify long-term trends and patterns in rice price changes during the Qing Dynasty period from 1835 to 1893."
+    ],
+    "methods": [
+      "Extract rice price data from historical temple account books and organize it into time series.",
+      "Apply statistical analysis to identify long-term trends and price fluctuations across different time periods.",
+      "Validate findings by comparing rice price sequences with other historical sources and accounting for extreme events."
+    ],
+    "results": [
+      "Rice prices in the Zhu Qian region showed an overall upward trend from 69 cents in 1841 to higher levels by 1893, with significant volatility including a sharp rise to 194 cents in 1864.",
+      "Three distinct periods were identified: gradual increase (1841-1856), high volatility with rapid rises and falls (1857-1884), and relative stability (1885-1893).",
+      "The rice price sequence derived from temple records demonstrated high reliability when compared with other historical sources."
+    ],
+    "research_subject": "Historical rice price changes in the Qing Dynasty Zhu Qian region using temple account book data"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the historical changes in rice prices in the Zhu Qian Region during the Qing Dynasty.\",\n    \"Historical documents, such as the Yue Don I-min Temple Investiture Offering Ceremony Register, can provide valuable insights into local grain prices and economic trends.\"\n  ],\n  \"objectives\": [\n    \"Extract and analyze valid grain price data from the Yue Don I-min Temple Investiture Offering Ceremony Register to establish a reliable rice price sequence.\",\n    \"Examine the long-term trends and fluctuations in rice prices in the Zhu Qian Region during the Qing Dynasty.\",\n    \"Evaluate the reliability of the rice price sequence by comparing it with other sources and accounting for extreme prices and disasters.\"\n  ],\n  \"methods\": [\n    \"Utilize historical documents, specifically account books, as source materials for the research.\",\n    \"Apply scientific statistical methods to analyze the extracted grain price data and identify trends and changes.\",\n    \"Break down the data by time series to observe long-term trends and fluctuations in rice prices.\"\n  ],\n  \"results\": [\n    \"The study reveals a general upward trend in rice prices in the Zhu Qian Region during the Qing Dynasty, with fluctuations and changes over time.\",\n    \"The rice price sequence established from the Yue Don I-min Temple Investiture Offering Ceremony Register shows a high reliability when compared with other sources.\",\n    \"The research provides valuable insights into the economic trends and changes in the Zhu Qian Region during the Qing Dynasty.\"\n  ],\n  \"research_subject\": \"Historical analysis of rice price changes in the Zhu Qian Region during the Qing Dynasty\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the long-term trends and changes in rice prices in the Zhu Qian Region during the Qing Dynasty.\",\n    \"Historical documents such as the Yue Don I-min Temple Investiture Offering Ceremony Register provide valuable data for studying these price changes.\"\n  ],\n  \"objectives\": [\n    \"Extract valid grain price data from the Yue Don I-min Temple Investiture Offering Ceremony Register to establish a reliable rice price sequence.\",\n    \"Analyze the data using time series to identify long-term trends and changes in rice prices in the Zhu Qian Region during the Qing Dynasty.\"\n  ],\n  \"methods\": [\n    \"Utilize historical documents, specifically account books, as source materials for data extraction.\",\n    \"Apply scientific statistical methods and time series analysis to study the extracted data.\"\n  ],\n  \"results\": [\n    \"Established a valid rice price sequence for the Zhu Qian Region during the Qing Dynasty.\",\n    \"Identified a general upward trend in rice prices over the studied period, with periods of rapid increase and decrease.\",\n    \"Confirmed the reliability of the rice price sequence by comparing it with sequences from other sources and considering factors such as extreme prices and disasters.\"\n  ],\n  \"research_subject\": \"Investigation of rice price changes in the Zhu Qian Region during the Qing Dynasty\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding historical rice price fluctuations in the Zhu Qian region during the Qing Dynasty provides insights into economic conditions and market dynamics of that era.\",\n    \"Historical account books from temples offer valuable but underutilized data sources for reconstructing past economic trends.\"\n  ],\n  \"objectives\": [\n    \"Extract and analyze rice price data from the Yue Don I-min Temple Investiture Offering Ceremony Register to establish a valid price sequence for the Zhu Qian region.\",\n    \"Identify long-term trends and patterns in rice price changes during the Qing Dynasty period from 1835 to 1893.\"\n  ],\n  \"methods\": [\n    \"Extract rice price data from historical temple account books and organize it into time series.\",\n    \"Apply statistical analysis to identify long-term trends and price fluctuations across different time periods.\",\n    \"Validate findings by comparing rice price sequences with other historical sources and accounting for extreme events.\"\n  ],\n  \"results\": [\n    \"Rice prices in the Zhu Qian region showed an overall upward trend from 69 cents in 1841 to higher levels by 1893, with significant volatility including a sharp rise to 194 cents in 1864.\",\n    \"Three distinct periods were identified: gradual increase (1841-1856), high volatility with rapid rises and falls (1857-1884), and relative stability (1885-1893).\",\n    \"The rice price sequence derived from temple records demonstrated high reliability when compared with other historical sources.\"\n  ],\n  \"research_subject\": \"Historical rice price changes in the Qing Dynasty Zhu Qian region using temple account book data\"\n}\n```"
+}

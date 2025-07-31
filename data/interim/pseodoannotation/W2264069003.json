@@ -1,0 +1,63 @@
+{
+  "index": 149,
+  "title": "Cuando el opio se rebela: La Confraternidad Cristiana de Iglesias (Evangélicas) en su crítica a la dictadura militar y su proyecto de sociedad (1981-1989)",
+  "abstract": "This article is an analysis of the Confraternidad Cristiana de Iglesias (Christian Fellowship of Churches), which was founded in 1981 as an evangelical and Pentecostal religious minority active and liberationist, which deprivatize in entering the public world and protest against the political, social and economic; fight for democracy, and assumes a political stance peaceful and non-violent, against the dictatorship. This is an analysis of four public statements made between 1984-1988 that were published in the Magazine Evangelio y Sociedad. The purpose of this article is to discuss and refute previous research on the Chilean evangelical movement conceived as ideological-religious supporters of the military dictatorship.",
+  "llama_json": {
+    "motivations": [
+      "Previous research has inaccurately portrayed the Chilean evangelical movement as supporters of the military dictatorship.",
+      "There is a need to understand the role of religious minorities in promoting democracy and social change during periods of authoritarian rule."
+    ],
+    "objectives": [
+      "Analyze the Confraternidad Cristiana de Iglesias' public statements and actions against the military dictatorship in Chile.",
+      "Refute the notion that the Chilean evangelical movement supported the dictatorship and instead highlight its role in promoting democracy and social justice."
+    ],
+    "methods": [
+      "Conduct a critical analysis of four public statements made by the Confraternidad Cristiana de Iglesias between 1984-1988.",
+      "Examine the content of the Magazine Evangelio y Sociedad to understand the movement's ideology and actions."
+    ],
+    "results": [
+      "Provide a nuanced understanding of the Confraternidad Cristiana de Iglesias' role in promoting democracy and social change in Chile.",
+      "Challenge previous research on the Chilean evangelical movement and its relationship with the military dictatorship."
+    ],
+    "research_subject": "The Confraternidad Cristiana de Iglesias' resistance to the military dictatorship in Chile (1981-1989)"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the role and stance of the Confraternidad Cristiana de Iglesias during the military dictatorship.",
+      "Previous research has portrayed the Chilean evangelical movement as supporters of the military dictatorship, which needs to be critically examined."
+    ],
+    "objectives": [
+      "Analyze the Confraternidad Cristiana de Iglesias' public statements and actions against the dictatorship between 1984-1988.",
+      "Challenge and refute the conception of the Chilean evangelical movement as ideological-religious supporters of the military dictatorship."
+    ],
+    "methods": [
+      "Analyze four public statements made by the Confraternidad Cristiana de Iglesias between 1984-1988 that were published in the Magazine Evangelio y Sociedad."
+    ],
+    "results": [
+      "Provide a nuanced understanding of the Confraternidad Cristiana de Iglesias' stance and actions during the military dictatorship.",
+      "Challenge the existing narrative of the Chilean evangelical movement's support for the military dictatorship."
+    ],
+    "research_subject": "Analysis of the Confraternidad Cristiana de Iglesias' stance against the military dictatorship"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Previous research has characterized the Chilean evangelical movement as ideological-religious supporters of the military dictatorship, which requires critical examination and refutation.",
+      "There is a need to understand how religious minorities engaged in political activism and public protest against authoritarian regimes."
+    ],
+    "objectives": [
+      "Analyze the role of the Confraternidad Cristiana de Iglesias as an evangelical and Pentecostal minority that actively opposed the military dictatorship through peaceful and non-violent means.",
+      "Refute previous research that portrayed the Chilean evangelical movement as supporters of the military dictatorship."
+    ],
+    "methods": [
+      "Conduct analysis of four public statements made by the Confraternidad Cristiana de Iglesias between 1984-1988 that were published in the Magazine Evangelio y Sociedad."
+    ],
+    "results": [
+      "Demonstrates that the Confraternidad Cristiana de Iglesias actively criticized the military dictatorship and advocated for democracy through peaceful resistance.",
+      "Challenges existing narratives about Chilean evangelical movements' relationship with the military regime."
+    ],
+    "research_subject": "The political activism of the Confraternidad Cristiana de Iglesias against Chile's military dictatorship (1981-1989)"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Previous research has inaccurately portrayed the Chilean evangelical movement as supporters of the military dictatorship.\",\n    \"There is a need to understand the role of religious minorities in promoting democracy and social change during periods of authoritarian rule.\"\n  ],\n  \"objectives\": [\n    \"Analyze the Confraternidad Cristiana de Iglesias' public statements and actions against the military dictatorship in Chile.\",\n    \"Refute the notion that the Chilean evangelical movement supported the dictatorship and instead highlight its role in promoting democracy and social justice.\"\n  ],\n  \"methods\": [\n    \"Conduct a critical analysis of four public statements made by the Confraternidad Cristiana de Iglesias between 1984-1988.\",\n    \"Examine the content of the Magazine Evangelio y Sociedad to understand the movement's ideology and actions.\"\n  ],\n  \"results\": [\n    \"Provide a nuanced understanding of the Confraternidad Cristiana de Iglesias' role in promoting democracy and social change in Chile.\",\n    \"Challenge previous research on the Chilean evangelical movement and its relationship with the military dictatorship.\"\n  ],\n  \"research_subject\": \"The Confraternidad Cristiana de Iglesias' resistance to the military dictatorship in Chile (1981-1989)\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the role and stance of the Confraternidad Cristiana de Iglesias during the military dictatorship.\",\n    \"Previous research has portrayed the Chilean evangelical movement as supporters of the military dictatorship, which needs to be critically examined.\"\n  ],\n  \"objectives\": [\n    \"Analyze the Confraternidad Cristiana de Iglesias' public statements and actions against the dictatorship between 1984-1988.\",\n    \"Challenge and refute the conception of the Chilean evangelical movement as ideological-religious supporters of the military dictatorship.\"\n  ],\n  \"methods\": [\n    \"Analyze four public statements made by the Confraternidad Cristiana de Iglesias between 1984-1988 that were published in the Magazine Evangelio y Sociedad.\"\n  ],\n  \"results\": [\n    \"Provide a nuanced understanding of the Confraternidad Cristiana de Iglesias' stance and actions during the military dictatorship.\",\n    \"Challenge the existing narrative of the Chilean evangelical movement's support for the military dictatorship.\"\n  ],\n  \"research_subject\": \"Analysis of the Confraternidad Cristiana de Iglesias' stance against the military dictatorship\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Previous research has characterized the Chilean evangelical movement as ideological-religious supporters of the military dictatorship, which requires critical examination and refutation.\",\n    \"There is a need to understand how religious minorities engaged in political activism and public protest against authoritarian regimes.\"\n  ],\n  \"objectives\": [\n    \"Analyze the role of the Confraternidad Cristiana de Iglesias as an evangelical and Pentecostal minority that actively opposed the military dictatorship through peaceful and non-violent means.\",\n    \"Refute previous research that portrayed the Chilean evangelical movement as supporters of the military dictatorship.\"\n  ],\n  \"methods\": [\n    \"Conduct analysis of four public statements made by the Confraternidad Cristiana de Iglesias between 1984-1988 that were published in the Magazine Evangelio y Sociedad.\"\n  ],\n  \"results\": [\n    \"Demonstrates that the Confraternidad Cristiana de Iglesias actively criticized the military dictatorship and advocated for democracy through peaceful resistance.\",\n    \"Challenges existing narratives about Chilean evangelical movements' relationship with the military regime.\"\n  ],\n  \"research_subject\": \"The political activism of the Confraternidad Cristiana de Iglesias against Chile's military dictatorship (1981-1989)\"\n}\n```"
+}

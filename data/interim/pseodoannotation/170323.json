@@ -1,0 +1,72 @@
+{
+  "index": 296,
+  "title": "Eye fundus colour images enhancement service for diabetic retinopathy diagnosis",
+  "abstract": "Diabetic retinopathy (“DR”) is considered as a priority eye disease by the World Health Organisation, as one of the main causes of visual impairment. It is a complication of the eye that can affect anyone who has diabetes. Diabetic retinopathy causes damage to the blood vessels supplying the retina – the “seeing” part of the eye. Because retinopathy generally has no obvious symptoms until it is advanced, early detection is essential. Detection is made by retinal screening. This is a straightforward procedure which includes assessment of visual acuity and eye fundus photography. Then a medical specialist, who looks for signs of diabetic retinopathy, gives a grade allowing a further diagnosis. This makes the diagnosis heavily dependent on the image quality. iPRI, which current activity is based on consulting expertise in public health, has identified a need for delivering a practical solution to the DR diagnosis challenge. iPRI has created a new prototype of software to enhance the quality of colour eye fundus exams. Several tests on representative databases have shown to DR experts that there is an important medical interest to introduce this service in the diagnostic procedure. IPRI’s international network of Key Opinion Leaders in Diabetes has confirmed this interest. Through the EYE-LIGHT project, iPRI aims to integrate this proven technology into a medical device. It will be provided as a professional application software service in order to facilitate the DR diagnosis, improve the image quality, allow comparisons and make images sharable through telemedicine. In order to address the unmet medical need, iPRI has to scale up, industrialise and sell this medical device. Through the SME Instrument programme, iPRI intends to refine the business model of this new activity during phase 1, and to set up and clinically validate the medical device during phase 2.",
+  "llama_json": {
+    "motivations": [
+      "Diabetic retinopathy is a major cause of visual impairment, and early detection is crucial for effective treatment.",
+      "Current diagnosis methods rely heavily on high-quality eye fundus images, which can be a limiting factor in accurate diagnosis."
+    ],
+    "objectives": [
+      "Develop and integrate a software solution to enhance the quality of colour eye fundus images for diabetic retinopathy diagnosis.",
+      "Provide a professional application software service to facilitate diagnosis, improve image quality, and enable comparisons and sharing through telemedicine."
+    ],
+    "methods": [
+      "Refine and scale up the existing prototype software for image enhancement.",
+      "Integrate the technology into a medical device and clinically validate it.",
+      "Develop a business model for the new activity and set up the medical device for commercialization."
+    ],
+    "results": [
+      "Improve the accuracy and reliability of diabetic retinopathy diagnosis through enhanced image quality.",
+      "Facilitate early detection and treatment of diabetic retinopathy, reducing the risk of visual impairment.",
+      "Enable wider access to diagnostic services through telemedicine and improved image sharing capabilities."
+    ],
+    "research_subject": "Enhancement of eye fundus colour images for diabetic retinopathy diagnosis using software technology"
+  },
+  "openai_json": {
+    "motivations": [
+      "Diabetic retinopathy is a leading cause of visual impairment, and early detection is essential but often hindered by the quality of retinal images.",
+      "There is a need for a practical solution to enhance the quality of eye fundus images to improve the diagnosis of diabetic retinopathy."
+    ],
+    "objectives": [
+      "Develop a software prototype to enhance the quality of colour eye fundus exams for better diagnosis of diabetic retinopathy.",
+      "Integrate the technology into a medical device and provide it as a professional application software service to facilitate diagnosis and telemedicine.",
+      "Refine the business model and set up and clinically validate the medical device through the SME Instrument programme."
+    ],
+    "methods": [
+      "Develop a software prototype to enhance the quality of eye fundus images.",
+      "Integrate the software into a medical device and provide it as a service for professional use.",
+      "Use the SME Instrument programme to refine the business model and clinically validate the medical device."
+    ],
+    "results": [
+      "Improved quality of eye fundus images for better diagnosis of diabetic retinopathy.",
+      "Facilitated diagnosis process and enhanced telemedicine capabilities through the professional application software service.",
+      "Clinically validated medical device for enhancing eye fundus images."
+    ],
+    "research_subject": "Enhancement of eye fundus images for improved diagnosis of diabetic retinopathy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Diabetic retinopathy is a leading cause of visual impairment that often has no obvious symptoms until advanced stages, making early detection essential.",
+      "Current diagnosis of diabetic retinopathy is heavily dependent on the quality of eye fundus images, which can limit accurate assessment by medical specialists."
+    ],
+    "objectives": [
+      "Develop and integrate image enhancement software into a medical device to improve the quality of eye fundus examinations for diabetic retinopathy diagnosis.",
+      "Create a professional application software service that facilitates diagnosis, enables image comparisons, and supports telemedicine sharing."
+    ],
+    "methods": [
+      "Develop software prototype to enhance the quality of colour eye fundus images.",
+      "Integrate the proven technology into a medical device and validate it through clinical testing.",
+      "Refine the business model and industrialize the solution through the SME Instrument programme."
+    ],
+    "results": [
+      "Improved quality of eye fundus images leading to more accurate diabetic retinopathy diagnosis.",
+      "Enhanced diagnostic capabilities through better image quality, comparison features, and telemedicine functionality.",
+      "Development of a validated medical device that addresses the unmet medical need in diabetic retinopathy screening."
+    ],
+    "research_subject": "Eye fundus image enhancement technology for diabetic retinopathy diagnosis"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Diabetic retinopathy is a major cause of visual impairment, and early detection is crucial for effective treatment.\",\n    \"Current diagnosis methods rely heavily on high-quality eye fundus images, which can be a limiting factor in accurate diagnosis.\"\n  ],\n  \"objectives\": [\n    \"Develop and integrate a software solution to enhance the quality of colour eye fundus images for diabetic retinopathy diagnosis.\",\n    \"Provide a professional application software service to facilitate diagnosis, improve image quality, and enable comparisons and sharing through telemedicine.\"\n  ],\n  \"methods\": [\n    \"Refine and scale up the existing prototype software for image enhancement.\",\n    \"Integrate the technology into a medical device and clinically validate it.\",\n    \"Develop a business model for the new activity and set up the medical device for commercialization.\"\n  ],\n  \"results\": [\n    \"Improve the accuracy and reliability of diabetic retinopathy diagnosis through enhanced image quality.\",\n    \"Facilitate early detection and treatment of diabetic retinopathy, reducing the risk of visual impairment.\",\n    \"Enable wider access to diagnostic services through telemedicine and improved image sharing capabilities.\"\n  ],\n  \"research_subject\": \"Enhancement of eye fundus colour images for diabetic retinopathy diagnosis using software technology\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Diabetic retinopathy is a leading cause of visual impairment, and early detection is essential but often hindered by the quality of retinal images.\",\n    \"There is a need for a practical solution to enhance the quality of eye fundus images to improve the diagnosis of diabetic retinopathy.\"\n  ],\n  \"objectives\": [\n    \"Develop a software prototype to enhance the quality of colour eye fundus exams for better diagnosis of diabetic retinopathy.\",\n    \"Integrate the technology into a medical device and provide it as a professional application software service to facilitate diagnosis and telemedicine.\",\n    \"Refine the business model and set up and clinically validate the medical device through the SME Instrument programme.\"\n  ],\n  \"methods\": [\n    \"Develop a software prototype to enhance the quality of eye fundus images.\",\n    \"Integrate the software into a medical device and provide it as a service for professional use.\",\n    \"Use the SME Instrument programme to refine the business model and clinically validate the medical device.\"\n  ],\n  \"results\": [\n    \"Improved quality of eye fundus images for better diagnosis of diabetic retinopathy.\",\n    \"Facilitated diagnosis process and enhanced telemedicine capabilities through the professional application software service.\",\n    \"Clinically validated medical device for enhancing eye fundus images.\"\n  ],\n  \"research_subject\": \"Enhancement of eye fundus images for improved diagnosis of diabetic retinopathy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Diabetic retinopathy is a leading cause of visual impairment that often has no obvious symptoms until advanced stages, making early detection essential.\",\n    \"Current diagnosis of diabetic retinopathy is heavily dependent on the quality of eye fundus images, which can limit accurate assessment by medical specialists.\"\n  ],\n  \"objectives\": [\n    \"Develop and integrate image enhancement software into a medical device to improve the quality of eye fundus examinations for diabetic retinopathy diagnosis.\",\n    \"Create a professional application software service that facilitates diagnosis, enables image comparisons, and supports telemedicine sharing.\"\n  ],\n  \"methods\": [\n    \"Develop software prototype to enhance the quality of colour eye fundus images.\",\n    \"Integrate the proven technology into a medical device and validate it through clinical testing.\",\n    \"Refine the business model and industrialize the solution through the SME Instrument programme.\"\n  ],\n  \"results\": [\n    \"Improved quality of eye fundus images leading to more accurate diabetic retinopathy diagnosis.\",\n    \"Enhanced diagnostic capabilities through better image quality, comparison features, and telemedicine functionality.\",\n    \"Development of a validated medical device that addresses the unmet medical need in diabetic retinopathy screening.\"\n  ],\n  \"research_subject\": \"Eye fundus image enhancement technology for diabetic retinopathy diagnosis\"\n}\n```"
+}

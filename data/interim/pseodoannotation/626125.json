@@ -1,0 +1,72 @@
+{
+  "index": 6,
+  "title": "Democratized cryo electron microscopy image system",
+  "abstract": "DeCEMIS will bring to full technical maturity and commercial readiness the world’s first low energy detection system optimized for Cryo Electron Microscopy (CryoEM). CryoEM is an emerging and key enabling technology for reliable and cost-effective structural molecular analysis. The DeCEMIS FTI project will give more users world-wide access to CryoEM, leading to the development of new drugs and vaccines in Life Sciences and next generation of solar cells, batteries and catalysts in Material Sciences. CryoEM is becoming the gold standard for molecular structural analysis. Compared to alternative existing structural methods (e.g. X-ray crystallography or Nuclear Magnetic Resonance), CryoEM offers higher analysis flexibility and accuracy, particularly for heterogenous and radiation sensitive samples such as proteins and polymers. Among other achievements, CryoEM recently determined the first ever molecular structure of the COVID19 spike protein, providing key information for development of vaccines. Today, high-quality CryoEM structures are most commonly obtained using high energy, 300 keV microscopes, which due to their complexity and cost are accessible to only a limited number of research laboratories worldwide. Our innovative, direct detection Swift camera, based around a high-speed, wafer-scale CMOS image sensor, will enable high-quality molecular structure determination using less expensive 100keV CryoEM microscopes at a competitive price-to-performance ratio. By maturing our prototype for commercialization, the DeCEMIS project will pave the way for a new series of more affordable 100 keV Transmission Electron Microscopes with accessible, high-quality detection, aimed at making cryoEM available to more scientists. Commercialisation of the Swift direct detection camera will accelerate democratization of CryoEM for more applications while realizing large savings potential for CryoEM users.",
+  "llama_json": {
+    "motivations": [
+      "Current Cryo Electron Microscopy (CryoEM) technology is limited by high energy requirements and expensive equipment, restricting accessibility for many research laboratories.",
+      "There is a need for more affordable and accessible CryoEM solutions to facilitate the development of new drugs, vaccines, and materials."
+    ],
+    "objectives": [
+      "Bring to technical maturity and commercial readiness a low energy detection system optimized for CryoEM.",
+      "Enable high-quality molecular structure determination using less expensive 100keV CryoEM microscopes.",
+      "Accelerate the democratization of CryoEM technology for various applications."
+    ],
+    "methods": [
+      "Develop and commercialize an innovative direct detection camera, the Swift camera, based on a high-speed, wafer-scale CMOS image sensor.",
+      "Mature the prototype for commercialization to pave the way for more affordable 100 keV Transmission Electron Microscopes."
+    ],
+    "results": [
+      "Make CryoEM technology more accessible to researchers worldwide, leading to advancements in Life Sciences and Material Sciences.",
+      "Enable cost-effective structural molecular analysis with improved accuracy and flexibility.",
+      "Realize large savings potential for CryoEM users and accelerate the development of new applications."
+    ],
+    "research_subject": "Democratization of Cryo Electron Microscopy technology through low energy detection systems"
+  },
+  "openai_json": {
+    "motivations": [
+      "Cryo Electron Microscopy (CryoEM) is a key technology for structural molecular analysis, but its high cost and complexity limit its accessibility.",
+      "There is a need for a cost-effective and reliable CryoEM system to facilitate the development of new drugs, vaccines, and materials."
+    ],
+    "objectives": [
+      "Bring to full technical maturity and commercial readiness the world’s first low energy detection system optimized for CryoEM.",
+      "Increase the accessibility of CryoEM by developing a high-quality molecular structure determination system using less expensive 100keV CryoEM microscopes.",
+      "Commercialize the Swift direct detection camera to accelerate the democratization of CryoEM."
+    ],
+    "methods": [
+      "Develop the Swift camera, a high-speed, wafer-scale CMOS image sensor, for high-quality molecular structure determination.",
+      "Optimize the Swift camera for use with less expensive 100keV CryoEM microscopes.",
+      "Mature the prototype of the Swift camera for commercialization."
+    ],
+    "results": [
+      "Enable more scientists to access CryoEM technology for structural molecular analysis.",
+      "Facilitate the development of new drugs, vaccines, and materials through increased access to CryoEM.",
+      "Realize large savings potential for CryoEM users through the commercialization of the Swift direct detection camera."
+    ],
+    "research_subject": "Democratization of Cryo Electron Microscopy through the development and commercialization of a low energy detection system"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "High-quality CryoEM structures currently require expensive 300 keV microscopes that are only accessible to a limited number of research laboratories worldwide.",
+      "There is a need for more affordable CryoEM technology to enable broader access to molecular structural analysis for drug development, vaccine research, and material sciences applications."
+    ],
+    "objectives": [
+      "Develop and commercialize the world's first low energy detection system optimized for Cryo Electron Microscopy to enable high-quality molecular structure determination using less expensive 100keV microscopes.",
+      "Democratize access to CryoEM technology by providing a competitive price-to-performance ratio detection system for a wider range of research laboratories."
+    ],
+    "methods": [
+      "Develop a direct detection Swift camera based on high-speed, wafer-scale CMOS image sensor technology.",
+      "Optimize the detection system for 100keV CryoEM microscopes to achieve high-quality molecular structure determination.",
+      "Mature the prototype technology for commercial readiness and market deployment."
+    ],
+    "results": [
+      "Enable more scientists worldwide to access high-quality CryoEM technology for molecular structural analysis.",
+      "Accelerate the development of new drugs, vaccines, and next-generation materials including solar cells, batteries, and catalysts.",
+      "Achieve significant cost savings for CryoEM users while maintaining competitive analytical capabilities."
+    ],
+    "research_subject": "Low energy detection system for democratizing Cryo Electron Microscopy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current Cryo Electron Microscopy (CryoEM) technology is limited by high energy requirements and expensive equipment, restricting accessibility for many research laboratories.\",\n    \"There is a need for more affordable and accessible CryoEM solutions to facilitate the development of new drugs, vaccines, and materials.\"\n  ],\n  \"objectives\": [\n    \"Bring to technical maturity and commercial readiness a low energy detection system optimized for CryoEM.\",\n    \"Enable high-quality molecular structure determination using less expensive 100keV CryoEM microscopes.\",\n    \"Accelerate the democratization of CryoEM technology for various applications.\"\n  ],\n  \"methods\": [\n    \"Develop and commercialize an innovative direct detection camera, the Swift camera, based on a high-speed, wafer-scale CMOS image sensor.\",\n    \"Mature the prototype for commercialization to pave the way for more affordable 100 keV Transmission Electron Microscopes.\"\n  ],\n  \"results\": [\n    \"Make CryoEM technology more accessible to researchers worldwide, leading to advancements in Life Sciences and Material Sciences.\",\n    \"Enable cost-effective structural molecular analysis with improved accuracy and flexibility.\",\n    \"Realize large savings potential for CryoEM users and accelerate the development of new applications.\"\n  ],\n  \"research_subject\": \"Democratization of Cryo Electron Microscopy technology through low energy detection systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Cryo Electron Microscopy (CryoEM) is a key technology for structural molecular analysis, but its high cost and complexity limit its accessibility.\",\n    \"There is a need for a cost-effective and reliable CryoEM system to facilitate the development of new drugs, vaccines, and materials.\"\n  ],\n  \"objectives\": [\n    \"Bring to full technical maturity and commercial readiness the world’s first low energy detection system optimized for CryoEM.\",\n    \"Increase the accessibility of CryoEM by developing a high-quality molecular structure determination system using less expensive 100keV CryoEM microscopes.\",\n    \"Commercialize the Swift direct detection camera to accelerate the democratization of CryoEM.\"\n  ],\n  \"methods\": [\n    \"Develop the Swift camera, a high-speed, wafer-scale CMOS image sensor, for high-quality molecular structure determination.\",\n    \"Optimize the Swift camera for use with less expensive 100keV CryoEM microscopes.\",\n    \"Mature the prototype of the Swift camera for commercialization.\"\n  ],\n  \"results\": [\n    \"Enable more scientists to access CryoEM technology for structural molecular analysis.\",\n    \"Facilitate the development of new drugs, vaccines, and materials through increased access to CryoEM.\",\n    \"Realize large savings potential for CryoEM users through the commercialization of the Swift direct detection camera.\"\n  ],\n  \"research_subject\": \"Democratization of Cryo Electron Microscopy through the development and commercialization of a low energy detection system\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"High-quality CryoEM structures currently require expensive 300 keV microscopes that are only accessible to a limited number of research laboratories worldwide.\",\n    \"There is a need for more affordable CryoEM technology to enable broader access to molecular structural analysis for drug development, vaccine research, and material sciences applications.\"\n  ],\n  \"objectives\": [\n    \"Develop and commercialize the world's first low energy detection system optimized for Cryo Electron Microscopy to enable high-quality molecular structure determination using less expensive 100keV microscopes.\",\n    \"Democratize access to CryoEM technology by providing a competitive price-to-performance ratio detection system for a wider range of research laboratories.\"\n  ],\n  \"methods\": [\n    \"Develop a direct detection Swift camera based on high-speed, wafer-scale CMOS image sensor technology.\",\n    \"Optimize the detection system for 100keV CryoEM microscopes to achieve high-quality molecular structure determination.\",\n    \"Mature the prototype technology for commercial readiness and market deployment.\"\n  ],\n  \"results\": [\n    \"Enable more scientists worldwide to access high-quality CryoEM technology for molecular structural analysis.\",\n    \"Accelerate the development of new drugs, vaccines, and next-generation materials including solar cells, batteries, and catalysts.\",\n    \"Achieve significant cost savings for CryoEM users while maintaining competitive analytical capabilities.\"\n  ],\n  \"research_subject\": \"Low energy detection system for democratizing Cryo Electron Microscopy\"\n}\n```"
+}

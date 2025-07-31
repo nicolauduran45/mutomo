@@ -1,0 +1,75 @@
+{
+  "index": 361,
+  "title": "Climates of listening: amplifying pacific experiences of environmental crisis",
+  "abstract": "Climates of Listening: Amplifying Pacific Experiences of Environmental Crisis (CoL) is the first practice-led research project to use sound and listening as a framework for expanding understandings of Indigenous Pacific human-environmental relations in the face of rapid ecosystemic transformation. Sonic practices such as storytelling, poetry, singing, music and listening are widely used in Pacific cultures to connect to, make sense of, and communicate knowledge about, the world. Drawing on these practices, this project innovates an interdisciplinary \"\"sonic geography\"\" to help scholars and advocates better conceive of the holistic, multifarious and hyperlocalised ways that environmental crisis is felt and attended to. In doing so, it expands existing literature beyond narratives of \"\"vulnerability\"\" and \"\"resilience\"\", and problematises the politics of representation and translation of Indigenous Pacific experiences into Western ideas and knowledges. CoL deploys ethnographic material from five frontline Pacific Island sites as a foundation for understanding and communicating Pacific Indigenous-environmental relations through written and artistic forms, including a research monograph, workshops, original sound art pieces and a research exhibition. Based at the world leading Centre for the GeoHumanities (RHUL) in the Department of Geography, the Fellow will be supported in a rich research environment. The Fellow's time at the CGH will not only enhance their trajectory as a research leader in their discipline of Geography, but will also advance their transferable research skills and build their Geography teaching profile. Through a comprehensive suite of research, dissemination and career training activities, this MSCA will greatly increase the Fellow's capacity to secure a permanent academic post in the UK or Europe.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to expand understandings of Indigenous Pacific human-environmental relations in the face of rapid ecosystemic transformation.",
+      "Current narratives of vulnerability and resilience are insufficient to capture the holistic and multifaceted ways that environmental crisis is experienced in Pacific cultures."
+    ],
+    "objectives": [
+      "Develop an interdisciplinary 'sonic geography' framework to better conceive of the ways that environmental crisis is felt and attended to in Pacific cultures.",
+      "Amplify Pacific experiences of environmental crisis through ethnographic research, sound art, and written forms.",
+      "Challenge Western representations and translations of Indigenous Pacific experiences and knowledge."
+    ],
+    "methods": [
+      "Conduct ethnographic research in five frontline Pacific Island sites to gather material on Indigenous-environmental relations.",
+      "Use sonic practices such as storytelling, poetry, singing, music, and listening to connect to and communicate knowledge about the world.",
+      "Create written and artistic forms, including a research monograph, workshops, original sound art pieces, and a research exhibition."
+    ],
+    "results": [
+      "Enhance understanding of the holistic and multifaceted ways that environmental crisis is experienced in Pacific cultures.",
+      "Challenge dominant narratives of vulnerability and resilience and promote more nuanced representations of Indigenous Pacific experiences.",
+      "Advance the Fellow's research leadership and teaching profile in the discipline of Geography."
+    ],
+    "research_subject": "Amplifying Pacific experiences of environmental crisis through sonic geography and Indigenous knowledge"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to expand understandings of Indigenous Pacific human-environmental relations in the face of rapid ecosystemic transformation.",
+      "Current narratives of 'vulnerability' and 'resilience' may not fully capture the holistic, multifarious, and hyperlocalized ways that environmental crisis is experienced and addressed in Pacific cultures.",
+      "Indigenous Pacific experiences and knowledge are often misrepresented or lost in translation into Western ideas and knowledges."
+    ],
+    "objectives": [
+      "Use sound and listening as a framework to explore Indigenous Pacific human-environmental relations and responses to environmental crisis.",
+      "Innovate an interdisciplinary 'sonic geography' to better understand and communicate the diverse ways that environmental crisis is experienced and addressed in Pacific cultures.",
+      "Challenge and expand beyond existing narratives of 'vulnerability' and 'resilience' in the context of environmental crisis."
+    ],
+    "methods": [
+      "Draw on sonic practices such as storytelling, poetry, singing, music, and listening, which are widely used in Pacific cultures.",
+      "Deploy ethnographic material from five frontline Pacific Island sites to understand and communicate Pacific Indigenous-environmental relations.",
+      "Communicate research findings through written and artistic forms, including a research monograph, workshops, original sound art pieces, and a research exhibition."
+    ],
+    "results": [
+      "Provide a more holistic and nuanced understanding of how environmental crisis is experienced and addressed in Pacific cultures.",
+      "Contribute to the development of 'sonic geography' as an interdisciplinary field of study.",
+      "Challenge and expand beyond existing narratives of 'vulnerability' and 'resilience' in the context of environmental crisis."
+    ],
+    "research_subject": "Exploring Indigenous Pacific human-environmental relations through the lens of sound and listening"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Indigenous Pacific communities face rapid ecosystemic transformation and environmental crisis, yet their experiences are often misrepresented through Western frameworks of vulnerability and resilience.",
+      "Existing approaches to understanding Pacific human-environmental relations fail to capture the holistic and culturally-specific ways these communities experience and respond to environmental change through sonic practices."
+    ],
+    "objectives": [
+      "Develop an interdisciplinary 'sonic geography' framework that uses sound and listening to expand understandings of Indigenous Pacific human-environmental relations.",
+      "Challenge Western-centric narratives by authentically representing Pacific experiences of environmental crisis through culturally-grounded sonic practices.",
+      "Create diverse outputs including academic and artistic works to communicate Pacific Indigenous-environmental knowledge to broader audiences."
+    ],
+    "methods": [
+      "Conduct ethnographic research at five frontline Pacific Island sites to document sonic practices and environmental experiences.",
+      "Apply practice-led research approaches integrating storytelling, poetry, singing, music and listening as analytical frameworks.",
+      "Produce multiple forms of output including a research monograph, workshops, original sound art pieces and a research exhibition."
+    ],
+    "results": [
+      "Expand scholarly understanding beyond simplistic narratives of vulnerability and resilience to capture nuanced Pacific experiences of environmental crisis.",
+      "Develop innovative methodological approaches that integrate sonic practices into geographical research on human-environment relations.",
+      "Enhance the Fellow's research leadership capabilities and trajectory toward securing a permanent academic position."
+    ],
+    "research_subject": "Indigenous Pacific sonic practices and human-environmental relations in the context of environmental crisis"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to expand understandings of Indigenous Pacific human-environmental relations in the face of rapid ecosystemic transformation.\",\n    \"Current narratives of vulnerability and resilience are insufficient to capture the holistic and multifaceted ways that environmental crisis is experienced in Pacific cultures.\"\n  ],\n  \"objectives\": [\n    \"Develop an interdisciplinary 'sonic geography' framework to better conceive of the ways that environmental crisis is felt and attended to in Pacific cultures.\",\n    \"Amplify Pacific experiences of environmental crisis through ethnographic research, sound art, and written forms.\",\n    \"Challenge Western representations and translations of Indigenous Pacific experiences and knowledge.\"\n  ],\n  \"methods\": [\n    \"Conduct ethnographic research in five frontline Pacific Island sites to gather material on Indigenous-environmental relations.\",\n    \"Use sonic practices such as storytelling, poetry, singing, music, and listening to connect to and communicate knowledge about the world.\",\n    \"Create written and artistic forms, including a research monograph, workshops, original sound art pieces, and a research exhibition.\"\n  ],\n  \"results\": [\n    \"Enhance understanding of the holistic and multifaceted ways that environmental crisis is experienced in Pacific cultures.\",\n    \"Challenge dominant narratives of vulnerability and resilience and promote more nuanced representations of Indigenous Pacific experiences.\",\n    \"Advance the Fellow's research leadership and teaching profile in the discipline of Geography.\"\n  ],\n  \"research_subject\": \"Amplifying Pacific experiences of environmental crisis through sonic geography and Indigenous knowledge\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to expand understandings of Indigenous Pacific human-environmental relations in the face of rapid ecosystemic transformation.\",\n    \"Current narratives of 'vulnerability' and 'resilience' may not fully capture the holistic, multifarious, and hyperlocalized ways that environmental crisis is experienced and addressed in Pacific cultures.\",\n    \"Indigenous Pacific experiences and knowledge are often misrepresented or lost in translation into Western ideas and knowledges.\"\n  ],\n  \"objectives\": [\n    \"Use sound and listening as a framework to explore Indigenous Pacific human-environmental relations and responses to environmental crisis.\",\n    \"Innovate an interdisciplinary 'sonic geography' to better understand and communicate the diverse ways that environmental crisis is experienced and addressed in Pacific cultures.\",\n    \"Challenge and expand beyond existing narratives of 'vulnerability' and 'resilience' in the context of environmental crisis.\"\n  ],\n  \"methods\": [\n    \"Draw on sonic practices such as storytelling, poetry, singing, music, and listening, which are widely used in Pacific cultures.\",\n    \"Deploy ethnographic material from five frontline Pacific Island sites to understand and communicate Pacific Indigenous-environmental relations.\",\n    \"Communicate research findings through written and artistic forms, including a research monograph, workshops, original sound art pieces, and a research exhibition.\"\n  ],\n  \"results\": [\n    \"Provide a more holistic and nuanced understanding of how environmental crisis is experienced and addressed in Pacific cultures.\",\n    \"Contribute to the development of 'sonic geography' as an interdisciplinary field of study.\",\n    \"Challenge and expand beyond existing narratives of 'vulnerability' and 'resilience' in the context of environmental crisis.\"\n  ],\n  \"research_subject\": \"Exploring Indigenous Pacific human-environmental relations through the lens of sound and listening\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Indigenous Pacific communities face rapid ecosystemic transformation and environmental crisis, yet their experiences are often misrepresented through Western frameworks of vulnerability and resilience.\",\n    \"Existing approaches to understanding Pacific human-environmental relations fail to capture the holistic and culturally-specific ways these communities experience and respond to environmental change through sonic practices.\"\n  ],\n  \"objectives\": [\n    \"Develop an interdisciplinary 'sonic geography' framework that uses sound and listening to expand understandings of Indigenous Pacific human-environmental relations.\",\n    \"Challenge Western-centric narratives by authentically representing Pacific experiences of environmental crisis through culturally-grounded sonic practices.\",\n    \"Create diverse outputs including academic and artistic works to communicate Pacific Indigenous-environmental knowledge to broader audiences.\"\n  ],\n  \"methods\": [\n    \"Conduct ethnographic research at five frontline Pacific Island sites to document sonic practices and environmental experiences.\",\n    \"Apply practice-led research approaches integrating storytelling, poetry, singing, music and listening as analytical frameworks.\",\n    \"Produce multiple forms of output including a research monograph, workshops, original sound art pieces and a research exhibition.\"\n  ],\n  \"results\": [\n    \"Expand scholarly understanding beyond simplistic narratives of vulnerability and resilience to capture nuanced Pacific experiences of environmental crisis.\",\n    \"Develop innovative methodological approaches that integrate sonic practices into geographical research on human-environment relations.\",\n    \"Enhance the Fellow's research leadership capabilities and trajectory toward securing a permanent academic position.\"\n  ],\n  \"research_subject\": \"Indigenous Pacific sonic practices and human-environmental relations in the context of environmental crisis\"\n}\n```"
+}

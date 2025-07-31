@@ -1,0 +1,69 @@
+{
+  "index": 215,
+  "title": "Distributed Cooperative Search Control Method of Multiple UAVs for Moving Target",
+  "abstract": "To reduce the impact of uncertainties caused by unknown motion parameters on searching plan of moving targets and improve the efficiency of UAV’s searching, a novel distributed Multi-UAVs cooperative search control method for moving target is proposed in this paper. Based on detection results of onboard sensors, target probability map is updated using Bayesian theory. A Gaussian distribution of target transition probability density function is introduced to calculate prediction probability of moving target existence, and then target probability map can be further updated in real-time. A performance index function combining with target cost, environment cost, and cooperative cost is constructed, and the cooperative searching problem can be transformed into a central optimization problem. To improve computational efficiency, the distributed model predictive control method is presented, and thus the control command of each UAV can be obtained. The simulation results have verified that the proposed method can avoid the blindness of UAV searching better and improve overall efficiency of the team effectively.",
+  "llama_json": {
+    "motivations": [
+      "The unknown motion parameters of moving targets can significantly impact the efficiency of UAV search plans.",
+      "Current search methods may suffer from blindness and inefficiency in cooperative searching tasks."
+    ],
+    "objectives": [
+      "Develop a distributed cooperative search control method for multiple UAVs to effectively track moving targets.",
+      "Improve the efficiency of UAV searching by reducing the impact of uncertainties caused by unknown motion parameters."
+    ],
+    "methods": [
+      "Utilize Bayesian theory to update the target probability map based on onboard sensor detection results.",
+      "Employ a Gaussian distribution of target transition probability density function to predict the moving target's existence.",
+      "Implement a distributed model predictive control method to optimize the cooperative searching problem."
+    ],
+    "results": [
+      "The proposed method can effectively avoid the blindness of UAV searching and improve the overall efficiency of the team.",
+      "The distributed cooperative search control method can accurately track moving targets in real-time."
+    ],
+    "research_subject": "Distributed cooperative search control of multiple UAVs for moving targets"
+  },
+  "openai_json": {
+    "motivations": [
+      "Uncertainties caused by unknown motion parameters impact the search plan of moving targets, affecting the efficiency of UAV's searching.",
+      "There is a need for a more efficient and effective method for multi-UAV cooperative search control for moving targets."
+    ],
+    "objectives": [
+      "Propose a novel distributed multi-UAV cooperative search control method for moving targets to improve search efficiency.",
+      "Develop a method to update target probability maps in real-time based on onboard sensor detection results and Bayesian theory.",
+      "Construct a performance index function that combines target cost, environment cost, and cooperative cost, transforming the cooperative searching problem into a central optimization problem."
+    ],
+    "methods": [
+      "Use Bayesian theory to update target probability maps based on onboard sensor detection results.",
+      "Introduce a Gaussian distribution of target transition probability density function to calculate prediction probability of moving target existence.",
+      "Implement a distributed model predictive control method to improve computational efficiency and obtain control command of each UAV."
+    ],
+    "results": [
+      "The proposed method can avoid the blindness of UAV searching and improve the overall efficiency of the team.",
+      "Real-time updates of target probability maps enhance the accuracy and efficiency of moving target search."
+    ],
+    "research_subject": "Distributed Cooperative Search Control of Multiple UAVs for Moving Targets"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Uncertainties from unknown motion parameters of moving targets significantly impact the effectiveness of UAV search planning.",
+      "Existing UAV search methods suffer from blindness and inefficiency when tracking moving targets."
+    ],
+    "objectives": [
+      "Develop a distributed cooperative search control method for multiple UAVs to efficiently locate and track moving targets.",
+      "Improve computational efficiency and real-time performance of multi-UAV cooperative search systems."
+    ],
+    "methods": [
+      "Update target probability maps using Bayesian theory based on onboard sensor detection results and Gaussian distribution of target transition probability.",
+      "Construct a performance index function combining target cost, environment cost, and cooperative cost to transform the search problem into an optimization problem.",
+      "Apply distributed model predictive control to generate control commands for each UAV while maintaining computational efficiency."
+    ],
+    "results": [
+      "The proposed method reduces the blindness of UAV searching and improves the overall efficiency of multi-UAV teams.",
+      "The distributed control approach enables real-time cooperative search with better computational performance."
+    ],
+    "research_subject": "Distributed cooperative search control for multiple UAVs tracking moving targets"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The unknown motion parameters of moving targets can significantly impact the efficiency of UAV search plans.\",\n    \"Current search methods may suffer from blindness and inefficiency in cooperative searching tasks.\"\n  ],\n  \"objectives\": [\n    \"Develop a distributed cooperative search control method for multiple UAVs to effectively track moving targets.\",\n    \"Improve the efficiency of UAV searching by reducing the impact of uncertainties caused by unknown motion parameters.\"\n  ],\n  \"methods\": [\n    \"Utilize Bayesian theory to update the target probability map based on onboard sensor detection results.\",\n    \"Employ a Gaussian distribution of target transition probability density function to predict the moving target's existence.\",\n    \"Implement a distributed model predictive control method to optimize the cooperative searching problem.\"\n  ],\n  \"results\": [\n    \"The proposed method can effectively avoid the blindness of UAV searching and improve the overall efficiency of the team.\",\n    \"The distributed cooperative search control method can accurately track moving targets in real-time.\"\n  ],\n  \"research_subject\": \"Distributed cooperative search control of multiple UAVs for moving targets\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Uncertainties caused by unknown motion parameters impact the search plan of moving targets, affecting the efficiency of UAV's searching.\",\n    \"There is a need for a more efficient and effective method for multi-UAV cooperative search control for moving targets.\"\n  ],\n  \"objectives\": [\n    \"Propose a novel distributed multi-UAV cooperative search control method for moving targets to improve search efficiency.\",\n    \"Develop a method to update target probability maps in real-time based on onboard sensor detection results and Bayesian theory.\",\n    \"Construct a performance index function that combines target cost, environment cost, and cooperative cost, transforming the cooperative searching problem into a central optimization problem.\"\n  ],\n  \"methods\": [\n    \"Use Bayesian theory to update target probability maps based on onboard sensor detection results.\",\n    \"Introduce a Gaussian distribution of target transition probability density function to calculate prediction probability of moving target existence.\",\n    \"Implement a distributed model predictive control method to improve computational efficiency and obtain control command of each UAV.\"\n  ],\n  \"results\": [\n    \"The proposed method can avoid the blindness of UAV searching and improve the overall efficiency of the team.\",\n    \"Real-time updates of target probability maps enhance the accuracy and efficiency of moving target search.\"\n  ],\n  \"research_subject\": \"Distributed Cooperative Search Control of Multiple UAVs for Moving Targets\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Uncertainties from unknown motion parameters of moving targets significantly impact the effectiveness of UAV search planning.\",\n    \"Existing UAV search methods suffer from blindness and inefficiency when tracking moving targets.\"\n  ],\n  \"objectives\": [\n    \"Develop a distributed cooperative search control method for multiple UAVs to efficiently locate and track moving targets.\",\n    \"Improve computational efficiency and real-time performance of multi-UAV cooperative search systems.\"\n  ],\n  \"methods\": [\n    \"Update target probability maps using Bayesian theory based on onboard sensor detection results and Gaussian distribution of target transition probability.\",\n    \"Construct a performance index function combining target cost, environment cost, and cooperative cost to transform the search problem into an optimization problem.\",\n    \"Apply distributed model predictive control to generate control commands for each UAV while maintaining computational efficiency.\"\n  ],\n  \"results\": [\n    \"The proposed method reduces the blindness of UAV searching and improves the overall efficiency of multi-UAV teams.\",\n    \"The distributed control approach enables real-time cooperative search with better computational performance.\"\n  ],\n  \"research_subject\": \"Distributed cooperative search control for multiple UAVs tracking moving targets\"\n}\n```"
+}

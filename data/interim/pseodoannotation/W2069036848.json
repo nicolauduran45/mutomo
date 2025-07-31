@@ -1,0 +1,71 @@
+{
+  "index": 135,
+  "title": "Precise measurements of the thick target neutron yields of the 7Li(p,n) reaction",
+  "abstract": "Abstract Thick target neutron yield of the 7 Li(p,n) 7 Be reaction was measured in the proton energy range from 1.95 to 2.3 MeV by determining induced activity of the 7 Be. A HPGe detector was used to detect the 478 keV gamma-rays emitted through 7 Be decay. A series of irradiations with nominal proton energies of 1.95, 2.0, 2.1, 2.2, and 2.3 MeV were carried out. In an independent experiment, raw neutron spectra were collected by a 3 He ion chamber for the same series of proton energies. From the raw neutron spectra, it was noted, that the effective proton energies were lower than the nominal by 50–58 keV. After corrections for the proton energy offsets were applied, the measured neutron yields matched the analytically calculated yields within 20%. Long term stability of neutron yield was tested at two nominal proton energies, 2.1 and 1.95 MeV over an experimental period of one year. The results show that the yield at 2.1 MeV was stable within rmse variation coefficient of 4.7% and remained consistent even when the lithium target was replaced, whereas at 1.95 MeV, the maximum fluctuations reached a factor of 10.",
+  "llama_json": {
+    "motivations": [
+      "Precise measurements of thick target neutron yields of the 7Li(p,n) reaction are needed for various applications.",
+      "Existing measurements may have uncertainties or inconsistencies that need to be addressed."
+    ],
+    "objectives": [
+      "Measure the thick target neutron yield of the 7Li(p,n) reaction in the proton energy range from 1.95 to 2.3 MeV.",
+      "Evaluate the long-term stability of neutron yield at specific proton energies."
+    ],
+    "methods": [
+      "Use a HPGe detector to measure the induced activity of 7Be by detecting 478 keV gamma-rays emitted through 7Be decay.",
+      "Employ a 3He ion chamber to collect raw neutron spectra for the same series of proton energies.",
+      "Apply corrections for proton energy offsets to match measured neutron yields with analytically calculated yields."
+    ],
+    "results": [
+      "Measured neutron yields matched analytically calculated yields within 20% after corrections for proton energy offsets.",
+      "Long-term stability of neutron yield was demonstrated at 2.1 MeV with an rmse variation coefficient of 4.7% over one year.",
+      "Significant fluctuations in neutron yield were observed at 1.95 MeV, reaching a factor of 10."
+    ],
+    "research_subject": "Precise measurements of thick target neutron yields of the 7Li(p,n) reaction"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for precise measurements of the thick target neutron yields of the 7Li(p,n) reaction in the proton energy range from 1.95 to 2.3 MeV.",
+      "Understanding the stability of neutron yield over time and the impact of replacing the lithium target is crucial."
+    ],
+    "objectives": [
+      "Measure the thick target neutron yield of the 7Li(p,n)7Be reaction in the specified proton energy range.",
+      "Determine the effective proton energies and compare them with the nominal energies.",
+      "Test the long-term stability of neutron yield at two nominal proton energies over a period of one year."
+    ],
+    "methods": [
+      "Use a HPGe detector to detect the 478 keV gamma-rays emitted through 7Be decay.",
+      "Carry out a series of irradiations with nominal proton energies and collect raw neutron spectra using a 3He ion chamber.",
+      "Apply corrections for the proton energy offsets and compare the measured neutron yields with the analytically calculated yields."
+    ],
+    "results": [
+      "The effective proton energies were found to be lower than the nominal by 50–58 keV.",
+      "After corrections, the measured neutron yields matched the analytically calculated yields within 20%.",
+      "The yield at 2.1 MeV was stable within rmse variation coefficient of 4.7% over a year, even when the lithium target was replaced, whereas at 1.95 MeV, the maximum fluctuations reached a factor of 10."
+    ],
+    "research_subject": "Precise measurements and stability of the thick target neutron yields of the 7Li(p,n) reaction"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Accurate measurements of neutron yields from the 7Li(p,n) reaction are needed for various applications in nuclear physics and neutron source characterization.",
+      "Understanding the long-term stability of neutron yields is crucial for reliable neutron source operation."
+    ],
+    "objectives": [
+      "Measure the thick target neutron yields of the 7Li(p,n)7Be reaction in the proton energy range from 1.95 to 2.3 MeV.",
+      "Investigate the long-term stability of neutron yields at different proton energies over an extended experimental period."
+    ],
+    "methods": [
+      "Determine neutron yields by measuring the induced activity of 7Be using a HPGe detector to detect 478 keV gamma-rays from 7Be decay.",
+      "Collect raw neutron spectra using a 3He ion chamber to verify effective proton energies.",
+      "Conduct irradiations at multiple proton energies and apply corrections for proton energy offsets."
+    ],
+    "results": [
+      "Measured neutron yields matched analytically calculated yields within 20% after applying proton energy offset corrections.",
+      "Neutron yield at 2.1 MeV showed stable performance with 4.7% variation, while yield at 1.95 MeV exhibited fluctuations up to a factor of 10."
+    ],
+    "research_subject": "Neutron yield measurements of the 7Li(p,n) reaction"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Precise measurements of thick target neutron yields of the 7Li(p,n) reaction are needed for various applications.\",\n    \"Existing measurements may have uncertainties or inconsistencies that need to be addressed.\"\n  ],\n  \"objectives\": [\n    \"Measure the thick target neutron yield of the 7Li(p,n) reaction in the proton energy range from 1.95 to 2.3 MeV.\",\n    \"Evaluate the long-term stability of neutron yield at specific proton energies.\"\n  ],\n  \"methods\": [\n    \"Use a HPGe detector to measure the induced activity of 7Be by detecting 478 keV gamma-rays emitted through 7Be decay.\",\n    \"Employ a 3He ion chamber to collect raw neutron spectra for the same series of proton energies.\",\n    \"Apply corrections for proton energy offsets to match measured neutron yields with analytically calculated yields.\"\n  ],\n  \"results\": [\n    \"Measured neutron yields matched analytically calculated yields within 20% after corrections for proton energy offsets.\",\n    \"Long-term stability of neutron yield was demonstrated at 2.1 MeV with an rmse variation coefficient of 4.7% over one year.\",\n    \"Significant fluctuations in neutron yield were observed at 1.95 MeV, reaching a factor of 10.\"\n  ],\n  \"research_subject\": \"Precise measurements of thick target neutron yields of the 7Li(p,n) reaction\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for precise measurements of the thick target neutron yields of the 7Li(p,n) reaction in the proton energy range from 1.95 to 2.3 MeV.\",\n    \"Understanding the stability of neutron yield over time and the impact of replacing the lithium target is crucial.\"\n  ],\n  \"objectives\": [\n    \"Measure the thick target neutron yield of the 7Li(p,n)7Be reaction in the specified proton energy range.\",\n    \"Determine the effective proton energies and compare them with the nominal energies.\",\n    \"Test the long-term stability of neutron yield at two nominal proton energies over a period of one year.\"\n  ],\n  \"methods\": [\n    \"Use a HPGe detector to detect the 478 keV gamma-rays emitted through 7Be decay.\",\n    \"Carry out a series of irradiations with nominal proton energies and collect raw neutron spectra using a 3He ion chamber.\",\n    \"Apply corrections for the proton energy offsets and compare the measured neutron yields with the analytically calculated yields.\"\n  ],\n  \"results\": [\n    \"The effective proton energies were found to be lower than the nominal by 50–58 keV.\",\n    \"After corrections, the measured neutron yields matched the analytically calculated yields within 20%.\",\n    \"The yield at 2.1 MeV was stable within rmse variation coefficient of 4.7% over a year, even when the lithium target was replaced, whereas at 1.95 MeV, the maximum fluctuations reached a factor of 10.\"\n  ],\n  \"research_subject\": \"Precise measurements and stability of the thick target neutron yields of the 7Li(p,n) reaction\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Accurate measurements of neutron yields from the 7Li(p,n) reaction are needed for various applications in nuclear physics and neutron source characterization.\",\n    \"Understanding the long-term stability of neutron yields is crucial for reliable neutron source operation.\"\n  ],\n  \"objectives\": [\n    \"Measure the thick target neutron yields of the 7Li(p,n)7Be reaction in the proton energy range from 1.95 to 2.3 MeV.\",\n    \"Investigate the long-term stability of neutron yields at different proton energies over an extended experimental period.\"\n  ],\n  \"methods\": [\n    \"Determine neutron yields by measuring the induced activity of 7Be using a HPGe detector to detect 478 keV gamma-rays from 7Be decay.\",\n    \"Collect raw neutron spectra using a 3He ion chamber to verify effective proton energies.\",\n    \"Conduct irradiations at multiple proton energies and apply corrections for proton energy offsets.\"\n  ],\n  \"results\": [\n    \"Measured neutron yields matched analytically calculated yields within 20% after applying proton energy offset corrections.\",\n    \"Neutron yield at 2.1 MeV showed stable performance with 4.7% variation, while yield at 1.95 MeV exhibited fluctuations up to a factor of 10.\"\n  ],\n  \"research_subject\": \"Neutron yield measurements of the 7Li(p,n) reaction\"\n}\n```"
+}

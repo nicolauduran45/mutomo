@@ -1,0 +1,73 @@
+{
+  "index": 154,
+  "title": "A retrospective study of oral manifestations in patients with paracoccidioidomycosis",
+  "abstract": "South American blastomycosis, paracoccidioidomycosis (Pb mycosis) or Lutz disease is an endemically fungal infection in Latin America. It is caused by the dimorphic fungus Paracoccidioides brasiliensis and may cause oral mucosal lesions. The incidence of Pb mycosis oral lesions was evaluated in patients assisted at a Brazilian Dental School's Specialized Oral Diagnosis Service with special focus on the different clinical forms of these lesions, its location, patients' occupation, deleterious habits, and diagnosis methodology. Students' and professionals' initial diagnoses were compared with the definitive diagnosis. Lesions were detected 31 cases (18 patients). The results show that 88.8% of the patients were male with a mean age of 50 years and 39% work(ed) with activities related to agriculture. As much as 88.9% were smokers and 72.2% were alcohol users. Exfoliative cytology was performed in 66.6% of the patients. Oral mucosa (30%), gingiva (16.6%) and lips 16.6% were the most common sites of Pb mycosis oral lesions. Comparing the initial with the definitive diagnosis made by the professionals their accuracy was 33% (6 out of 18 patients). Students' diagnosis was more accurate demonstrating 72.5% of initial correct diagnosis (13 out of 18). Statistical analysis by ANOVA (α=0.05, SPSS WIN) demonstrated a significant difference between the diagnosis of Pb mycosis made by students and professionals when considering initial diagnosis and final diagnosis (after histopathological analysis) (p=0.25). Incisional biopsy and exfoliate cytology are efficient for an early diagnosis of this disease in mouth. Students' training in diagnosis of oral pathologies to recognize lesions is urgent to improve public health.",
+  "llama_json": {
+    "motivations": [
+      "Paracoccidioidomycosis (Pb mycosis) is an endemic fungal infection in Latin America that can cause oral mucosal lesions, and its oral manifestations need to be better understood.",
+      "There is a need to evaluate the accuracy of diagnoses made by dental students and professionals in identifying Pb mycosis oral lesions."
+    ],
+    "objectives": [
+      "Evaluate the incidence of Pb mycosis oral lesions in patients at a Brazilian Dental School's Specialized Oral Diagnosis Service.",
+      "Assess the accuracy of initial diagnoses made by dental students and professionals compared to definitive diagnoses.",
+      "Identify the most common sites of Pb mycosis oral lesions and the effectiveness of diagnostic methods such as exfoliative cytology and incisional biopsy."
+    ],
+    "methods": [
+      "Conducted a retrospective study of patients with Pb mycosis oral lesions at a Brazilian Dental School's Specialized Oral Diagnosis Service.",
+      "Compared the initial diagnoses made by dental students and professionals with the definitive diagnoses.",
+      "Analyzed the results using statistical methods (ANOVA) to identify significant differences between the diagnoses made by students and professionals."
+    ],
+    "results": [
+      "Found that 88.8% of patients with Pb mycosis oral lesions were male, with a mean age of 50 years, and 39% worked in agriculture-related activities.",
+      "Showed that dental students' diagnoses were more accurate (72.5%) than those made by professionals (33%) when compared to definitive diagnoses.",
+      "Identified that exfoliative cytology and incisional biopsy are efficient methods for early diagnosis of Pb mycosis in the mouth."
+    ],
+    "research_subject": "Oral manifestations of paracoccidioidomycosis and the accuracy of diagnoses made by dental students and professionals"
+  },
+  "openai_json": {
+    "motivations": [
+      "Paracoccidioidomycosis, an endemic fungal infection in Latin America, can cause oral mucosal lesions, but the incidence and characteristics of these lesions are not well-studied.",
+      "There is a need to evaluate the accuracy of initial diagnoses made by students and professionals compared to the definitive diagnosis of paracoccidioidomycosis oral lesions."
+    ],
+    "objectives": [
+      "Evaluate the incidence of paracoccidioidomycosis oral lesions in patients at a Brazilian Dental School's Specialized Oral Diagnosis Service.",
+      "Analyze the clinical forms, location, patients' occupation, deleterious habits, and diagnosis methodology of these lesions.",
+      "Compare the initial diagnoses made by students and professionals with the definitive diagnosis."
+    ],
+    "methods": [
+      "Conduct a retrospective study of patients with paracoccidioidomycosis assisted at a Brazilian Dental School's Specialized Oral Diagnosis Service.",
+      "Perform exfoliative cytology and incisional biopsy for diagnosis.",
+      "Use ANOVA for statistical analysis of the accuracy of initial diagnoses made by students and professionals."
+    ],
+    "results": [
+      "Oral mucosa, gingiva, and lips were identified as the most common sites of paracoccidioidomycosis oral lesions.",
+      "Students demonstrated higher accuracy in initial diagnosis compared to professionals.",
+      "Incisional biopsy and exfoliate cytology were found to be efficient for early diagnosis of this disease in the mouth."
+    ],
+    "research_subject": "Oral manifestations in patients with paracoccidioidomycosis and the accuracy of initial diagnoses"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Paracoccidioidomycosis is an endemic fungal infection in Latin America that can cause oral mucosal lesions, requiring better understanding of its clinical manifestations.",
+      "There is a need to evaluate the diagnostic accuracy of students and professionals in identifying oral paracoccidioidomycosis lesions."
+    ],
+    "objectives": [
+      "Evaluate the incidence and clinical characteristics of oral lesions in patients with paracoccidioidomycosis.",
+      "Compare the diagnostic accuracy between students and professionals in identifying paracoccidioidomycosis oral lesions."
+    ],
+    "methods": [
+      "Retrospective analysis of patients with paracoccidioidomycosis at a Brazilian Dental School's Specialized Oral Diagnosis Service.",
+      "Comparison of initial diagnoses made by students and professionals with definitive diagnoses confirmed by histopathological analysis.",
+      "Use of exfoliative cytology and incisional biopsy for diagnosis confirmation."
+    ],
+    "results": [
+      "The majority of patients were male smokers with agricultural backgrounds, and oral mucosa, gingiva, and lips were the most common sites for lesions.",
+      "Students demonstrated significantly higher diagnostic accuracy (72.5%) compared to professionals (33%) in initial diagnosis of paracoccidioidomycosis.",
+      "Both incisional biopsy and exfoliative cytology proved effective for early diagnosis of oral paracoccidioidomycosis."
+    ],
+    "research_subject": "Oral manifestations and diagnostic accuracy of paracoccidioidomycosis"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Paracoccidioidomycosis (Pb mycosis) is an endemic fungal infection in Latin America that can cause oral mucosal lesions, and its oral manifestations need to be better understood.\",\n    \"There is a need to evaluate the accuracy of diagnoses made by dental students and professionals in identifying Pb mycosis oral lesions.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the incidence of Pb mycosis oral lesions in patients at a Brazilian Dental School's Specialized Oral Diagnosis Service.\",\n    \"Assess the accuracy of initial diagnoses made by dental students and professionals compared to definitive diagnoses.\",\n    \"Identify the most common sites of Pb mycosis oral lesions and the effectiveness of diagnostic methods such as exfoliative cytology and incisional biopsy.\"\n  ],\n  \"methods\": [\n    \"Conducted a retrospective study of patients with Pb mycosis oral lesions at a Brazilian Dental School's Specialized Oral Diagnosis Service.\",\n    \"Compared the initial diagnoses made by dental students and professionals with the definitive diagnoses.\",\n    \"Analyzed the results using statistical methods (ANOVA) to identify significant differences between the diagnoses made by students and professionals.\"\n  ],\n  \"results\": [\n    \"Found that 88.8% of patients with Pb mycosis oral lesions were male, with a mean age of 50 years, and 39% worked in agriculture-related activities.\",\n    \"Showed that dental students' diagnoses were more accurate (72.5%) than those made by professionals (33%) when compared to definitive diagnoses.\",\n    \"Identified that exfoliative cytology and incisional biopsy are efficient methods for early diagnosis of Pb mycosis in the mouth.\"\n  ],\n  \"research_subject\": \"Oral manifestations of paracoccidioidomycosis and the accuracy of diagnoses made by dental students and professionals\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Paracoccidioidomycosis, an endemic fungal infection in Latin America, can cause oral mucosal lesions, but the incidence and characteristics of these lesions are not well-studied.\",\n    \"There is a need to evaluate the accuracy of initial diagnoses made by students and professionals compared to the definitive diagnosis of paracoccidioidomycosis oral lesions.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the incidence of paracoccidioidomycosis oral lesions in patients at a Brazilian Dental School's Specialized Oral Diagnosis Service.\",\n    \"Analyze the clinical forms, location, patients' occupation, deleterious habits, and diagnosis methodology of these lesions.\",\n    \"Compare the initial diagnoses made by students and professionals with the definitive diagnosis.\"\n  ],\n  \"methods\": [\n    \"Conduct a retrospective study of patients with paracoccidioidomycosis assisted at a Brazilian Dental School's Specialized Oral Diagnosis Service.\",\n    \"Perform exfoliative cytology and incisional biopsy for diagnosis.\",\n    \"Use ANOVA for statistical analysis of the accuracy of initial diagnoses made by students and professionals.\"\n  ],\n  \"results\": [\n    \"Oral mucosa, gingiva, and lips were identified as the most common sites of paracoccidioidomycosis oral lesions.\",\n    \"Students demonstrated higher accuracy in initial diagnosis compared to professionals.\",\n    \"Incisional biopsy and exfoliate cytology were found to be efficient for early diagnosis of this disease in the mouth.\"\n  ],\n  \"research_subject\": \"Oral manifestations in patients with paracoccidioidomycosis and the accuracy of initial diagnoses\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Paracoccidioidomycosis is an endemic fungal infection in Latin America that can cause oral mucosal lesions, requiring better understanding of its clinical manifestations.\",\n    \"There is a need to evaluate the diagnostic accuracy of students and professionals in identifying oral paracoccidioidomycosis lesions.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the incidence and clinical characteristics of oral lesions in patients with paracoccidioidomycosis.\",\n    \"Compare the diagnostic accuracy between students and professionals in identifying paracoccidioidomycosis oral lesions.\"\n  ],\n  \"methods\": [\n    \"Retrospective analysis of patients with paracoccidioidomycosis at a Brazilian Dental School's Specialized Oral Diagnosis Service.\",\n    \"Comparison of initial diagnoses made by students and professionals with definitive diagnoses confirmed by histopathological analysis.\",\n    \"Use of exfoliative cytology and incisional biopsy for diagnosis confirmation.\"\n  ],\n  \"results\": [\n    \"The majority of patients were male smokers with agricultural backgrounds, and oral mucosa, gingiva, and lips were the most common sites for lesions.\",\n    \"Students demonstrated significantly higher diagnostic accuracy (72.5%) compared to professionals (33%) in initial diagnosis of paracoccidioidomycosis.\",\n    \"Both incisional biopsy and exfoliative cytology proved effective for early diagnosis of oral paracoccidioidomycosis.\"\n  ],\n  \"research_subject\": \"Oral manifestations and diagnostic accuracy of paracoccidioidomycosis\"\n}\n```"
+}

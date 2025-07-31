@@ -1,0 +1,60 @@
+{
+  "index": 263,
+  "title": "CONTRACEPTIVE COMPOSITION WITH REDUCED CARDIOVASCULAR EFFECTS",
+  "abstract": "The present invention relates to a contraceptive method with reduced cardiovascular effects, such as reduced thromboembolism risk, such as reduced venous thromboembolism (VTE) risk and reduced aortic thromboembolism (ATE) risk. The method of the invention comprises administering to a female mammal an effective amount of an estetrol component in combination with a progestogenic component. The method enjoys a favourable profile for thromboembolism compared to currently available methods which employs contraceptives from the so-called second, third or fourth generation.",
+  "llama_json": {
+    "motivations": [
+      "Current contraceptive methods have significant cardiovascular effects, including increased risk of thromboembolism.",
+      "There is a need for a contraceptive method with reduced cardiovascular risks while maintaining effectiveness."
+    ],
+    "objectives": [
+      "Develop a contraceptive composition that reduces the risk of cardiovascular effects, particularly thromboembolism.",
+      "Create a method with a favorable profile compared to existing second, third, and fourth-generation contraceptives."
+    ],
+    "methods": [
+      "Combine an estetrol component with a progestogenic component to create a novel contraceptive composition.",
+      "Administer the composition to female mammals to evaluate its effectiveness and cardiovascular safety."
+    ],
+    "results": [
+      "Reduce the risk of thromboembolism, including venous thromboembolism (VTE) and aortic thromboembolism (ATE), associated with contraceptive use.",
+      "Provide a safer alternative to existing contraceptive methods without compromising effectiveness."
+    ],
+    "research_subject": "Development of a contraceptive composition with reduced cardiovascular effects"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current contraceptive methods are associated with cardiovascular risks, such as thromboembolism.",
+      "There is a need for contraceptive methods with reduced cardiovascular effects."
+    ],
+    "objectives": [
+      "Develop a contraceptive method with reduced cardiovascular effects, specifically thromboembolism risks."
+    ],
+    "methods": [
+      "Administer an effective amount of an estetrol component in combination with a progestogenic component to a female mammal."
+    ],
+    "results": [
+      "The proposed contraceptive method has a favorable profile for thromboembolism compared to currently available methods."
+    ],
+    "research_subject": "Contraceptive method with reduced cardiovascular effects"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current contraceptive methods are associated with increased cardiovascular risks, particularly thromboembolism including venous and aortic thromboembolism.",
+      "There is a need for safer contraceptive options that minimize cardiovascular side effects compared to existing second, third, and fourth generation contraceptives."
+    ],
+    "objectives": [
+      "Develop a contraceptive method that reduces cardiovascular effects, specifically thromboembolism risk, while maintaining contraceptive efficacy."
+    ],
+    "methods": [
+      "Administration of an estetrol component in combination with a progestogenic component to female mammals."
+    ],
+    "results": [
+      "The contraceptive method demonstrates a favorable thromboembolism risk profile compared to currently available contraceptive methods.",
+      "Reduced risk of both venous thromboembolism (VTE) and aortic thromboembolism (ATE) in female mammals."
+    ],
+    "research_subject": "Contraceptive composition combining estetrol and progestogenic components with reduced cardiovascular effects"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current contraceptive methods have significant cardiovascular effects, including increased risk of thromboembolism.\",\n    \"There is a need for a contraceptive method with reduced cardiovascular risks while maintaining effectiveness.\"\n  ],\n  \"objectives\": [\n    \"Develop a contraceptive composition that reduces the risk of cardiovascular effects, particularly thromboembolism.\",\n    \"Create a method with a favorable profile compared to existing second, third, and fourth-generation contraceptives.\"\n  ],\n  \"methods\": [\n    \"Combine an estetrol component with a progestogenic component to create a novel contraceptive composition.\",\n    \"Administer the composition to female mammals to evaluate its effectiveness and cardiovascular safety.\"\n  ],\n  \"results\": [\n    \"Reduce the risk of thromboembolism, including venous thromboembolism (VTE) and aortic thromboembolism (ATE), associated with contraceptive use.\",\n    \"Provide a safer alternative to existing contraceptive methods without compromising effectiveness.\"\n  ],\n  \"research_subject\": \"Development of a contraceptive composition with reduced cardiovascular effects\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current contraceptive methods are associated with cardiovascular risks, such as thromboembolism.\",\n    \"There is a need for contraceptive methods with reduced cardiovascular effects.\"\n  ],\n  \"objectives\": [\n    \"Develop a contraceptive method with reduced cardiovascular effects, specifically thromboembolism risks.\"\n  ],\n  \"methods\": [\n    \"Administer an effective amount of an estetrol component in combination with a progestogenic component to a female mammal.\"\n  ],\n  \"results\": [\n    \"The proposed contraceptive method has a favorable profile for thromboembolism compared to currently available methods.\"\n  ],\n  \"research_subject\": \"Contraceptive method with reduced cardiovascular effects\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current contraceptive methods are associated with increased cardiovascular risks, particularly thromboembolism including venous and aortic thromboembolism.\",\n    \"There is a need for safer contraceptive options that minimize cardiovascular side effects compared to existing second, third, and fourth generation contraceptives.\"\n  ],\n  \"objectives\": [\n    \"Develop a contraceptive method that reduces cardiovascular effects, specifically thromboembolism risk, while maintaining contraceptive efficacy.\"\n  ],\n  \"methods\": [\n    \"Administration of an estetrol component in combination with a progestogenic component to female mammals.\"\n  ],\n  \"results\": [\n    \"The contraceptive method demonstrates a favorable thromboembolism risk profile compared to currently available contraceptive methods.\",\n    \"Reduced risk of both venous thromboembolism (VTE) and aortic thromboembolism (ATE) in female mammals.\"\n  ],\n  \"research_subject\": \"Contraceptive composition combining estetrol and progestogenic components with reduced cardiovascular effects\"\n}\n```"
+}

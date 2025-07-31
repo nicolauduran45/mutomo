@@ -1,0 +1,67 @@
+{
+  "index": 117,
+  "title": "The system of cultivated land requisition-compensation balance in the development of economic society",
+  "abstract": "The cultivated land requisition-compensation balance was an important method to guarantee the quantity and quality of cultivated land.Taking Liaoning province as an example,based on many problems such asoccupying better and supplementing bad,occupying more and supplementing less of cultivated land,the research put forward that the cultivated land gradation conversion in the cultivated land requisition-compensation balance should be carried out based on the cultivated land gradation results,on the conversion results basis,the evaluation index system of the cultivated land requisition-compensation balance was established referring to the LESA system,which would provide scientific test criterion for the projection implementation effect of the cultivated land requisition-compensation balance.",
+  "llama_json": {
+    "motivations": [
+      "The current system of cultivated land requisition-compensation balance faces issues such as occupying better land and supplementing with worse land, or occupying more land and supplementing with less.",
+      "There is a need for a more effective method to guarantee the quantity and quality of cultivated land."
+    ],
+    "objectives": [
+      "Develop a system for cultivated land gradation conversion to improve the requisition-compensation balance.",
+      "Establish an evaluation index system to assess the effectiveness of the cultivated land requisition-compensation balance."
+    ],
+    "methods": [
+      "Conduct research using Liaoning province as a case study to identify problems in the current system.",
+      "Develop a cultivated land gradation conversion system based on cultivated land gradation results.",
+      "Establish an evaluation index system referring to the LESA system."
+    ],
+    "results": [
+      "Improve the quantity and quality of cultivated land through a more effective requisition-compensation balance system.",
+      "Provide a scientific test criterion for evaluating the implementation effect of the cultivated land requisition-compensation balance."
+    ],
+    "research_subject": "Cultivated land requisition-compensation balance system"
+  },
+  "openai_json": {
+    "motivations": [
+      "The cultivated land requisition-compensation balance is crucial to ensure the quantity and quality of cultivated land, but there are issues such as occupying better and supplementing bad, occupying more and supplementing less.",
+      "There is a need for a scientific test criterion for the projection implementation effect of the cultivated land requisition-compensation balance."
+    ],
+    "objectives": [
+      "To address the problems in the cultivated land requisition-compensation balance by proposing a cultivated land gradation conversion.",
+      "To establish an evaluation index system for the cultivated land requisition-compensation balance, referring to the LESA system."
+    ],
+    "methods": [
+      "Use Liaoning province as a case study to examine the issues in the current cultivated land requisition-compensation balance.",
+      "Propose a cultivated land gradation conversion based on the cultivated land gradation results.",
+      "Establish an evaluation index system for the cultivated land requisition-compensation balance, referring to the LESA system."
+    ],
+    "results": [
+      "Provide a scientific test criterion for the projection implementation effect of the cultivated land requisition-compensation balance.",
+      "Improve the cultivated land requisition-compensation balance by addressing the issues of occupying better and supplementing bad, occupying more and supplementing less."
+    ],
+    "research_subject": "Improving the cultivated land requisition-compensation balance in economic society development"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The cultivated land requisition-compensation balance system faces problems such as occupying better quality land while supplementing with inferior quality land, and occupying more land than what is compensated.",
+      "There is a need for scientific criteria to evaluate the effectiveness of cultivated land requisition-compensation balance implementation."
+    ],
+    "objectives": [
+      "Establish an evaluation index system for cultivated land requisition-compensation balance based on land gradation results.",
+      "Provide scientific test criteria for assessing the implementation effectiveness of cultivated land requisition-compensation balance projects."
+    ],
+    "methods": [
+      "Conduct cultivated land gradation conversion based on existing land gradation results.",
+      "Develop an evaluation index system referring to the LESA (Land Evaluation and Site Assessment) system."
+    ],
+    "results": [
+      "A comprehensive evaluation framework that ensures both quantity and quality of cultivated land are maintained in the requisition-compensation process.",
+      "Scientific criteria that can effectively assess the implementation of cultivated land requisition-compensation balance projects."
+    ],
+    "research_subject": "Cultivated land requisition-compensation balance system in Liaoning province"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The current system of cultivated land requisition-compensation balance faces issues such as occupying better land and supplementing with worse land, or occupying more land and supplementing with less.\",\n    \"There is a need for a more effective method to guarantee the quantity and quality of cultivated land.\"\n  ],\n  \"objectives\": [\n    \"Develop a system for cultivated land gradation conversion to improve the requisition-compensation balance.\",\n    \"Establish an evaluation index system to assess the effectiveness of the cultivated land requisition-compensation balance.\"\n  ],\n  \"methods\": [\n    \"Conduct research using Liaoning province as a case study to identify problems in the current system.\",\n    \"Develop a cultivated land gradation conversion system based on cultivated land gradation results.\",\n    \"Establish an evaluation index system referring to the LESA system.\"\n  ],\n  \"results\": [\n    \"Improve the quantity and quality of cultivated land through a more effective requisition-compensation balance system.\",\n    \"Provide a scientific test criterion for evaluating the implementation effect of the cultivated land requisition-compensation balance.\"\n  ],\n  \"research_subject\": \"Cultivated land requisition-compensation balance system\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The cultivated land requisition-compensation balance is crucial to ensure the quantity and quality of cultivated land, but there are issues such as occupying better and supplementing bad, occupying more and supplementing less.\",\n    \"There is a need for a scientific test criterion for the projection implementation effect of the cultivated land requisition-compensation balance.\"\n  ],\n  \"objectives\": [\n    \"To address the problems in the cultivated land requisition-compensation balance by proposing a cultivated land gradation conversion.\",\n    \"To establish an evaluation index system for the cultivated land requisition-compensation balance, referring to the LESA system.\"\n  ],\n  \"methods\": [\n    \"Use Liaoning province as a case study to examine the issues in the current cultivated land requisition-compensation balance.\",\n    \"Propose a cultivated land gradation conversion based on the cultivated land gradation results.\",\n    \"Establish an evaluation index system for the cultivated land requisition-compensation balance, referring to the LESA system.\"\n  ],\n  \"results\": [\n    \"Provide a scientific test criterion for the projection implementation effect of the cultivated land requisition-compensation balance.\",\n    \"Improve the cultivated land requisition-compensation balance by addressing the issues of occupying better and supplementing bad, occupying more and supplementing less.\"\n  ],\n  \"research_subject\": \"Improving the cultivated land requisition-compensation balance in economic society development\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The cultivated land requisition-compensation balance system faces problems such as occupying better quality land while supplementing with inferior quality land, and occupying more land than what is compensated.\",\n    \"There is a need for scientific criteria to evaluate the effectiveness of cultivated land requisition-compensation balance implementation.\"\n  ],\n  \"objectives\": [\n    \"Establish an evaluation index system for cultivated land requisition-compensation balance based on land gradation results.\",\n    \"Provide scientific test criteria for assessing the implementation effectiveness of cultivated land requisition-compensation balance projects.\"\n  ],\n  \"methods\": [\n    \"Conduct cultivated land gradation conversion based on existing land gradation results.\",\n    \"Develop an evaluation index system referring to the LESA (Land Evaluation and Site Assessment) system.\"\n  ],\n  \"results\": [\n    \"A comprehensive evaluation framework that ensures both quantity and quality of cultivated land are maintained in the requisition-compensation process.\",\n    \"Scientific criteria that can effectively assess the implementation of cultivated land requisition-compensation balance projects.\"\n  ],\n  \"research_subject\": \"Cultivated land requisition-compensation balance system in Liaoning province\"\n}\n```"
+}

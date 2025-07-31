@@ -1,0 +1,70 @@
+{
+  "index": 171,
+  "title": "Identifying and visualizing technology evolution: A case study of smart grid technology",
+  "abstract": "Abstract This paper attempts to illustrate the technology evolution for describing the emergence, development, or demise of a technology field. The basic idea is to divide a technology field into tight-knit communities over time and track their inter-year continuity. Then the evolving trajectories are presented through visualizing the timeline plot where each community is drawn as a function of its size, average age, and time. Analyzing a set of patents related to smart grid, we found that this technology consists of several trajectories. Among them, the subjects of network management and e-commerce are relatively young and active. The power system recently has emerged owing to the joining of integration and management concepts. As aging subjects, wireless communication system receives more attention than wired one does. The proposed timeline plot gives insights into evolving trajectories, from which the structure of the technology could be investigated and certain emerging subjects might be figured out. Such understandings are essential information to experts who endeavor to profile technology development and keep up with current trends.",
+  "llama_json": {
+    "motivations": [
+      "Understanding the evolution of technology fields is crucial for experts to profile technology development and stay current with trends.",
+      "Existing methods may not effectively illustrate the emergence, development, or demise of technology fields over time."
+    ],
+    "objectives": [
+      "Develop a method to identify and visualize technology evolution by tracking the continuity of tight-knit communities within a technology field over time.",
+      "Apply the proposed method to a case study of smart grid technology to demonstrate its effectiveness."
+    ],
+    "methods": [
+      "Analyze a set of patents related to smart grid technology to identify evolving trajectories.",
+      "Visualize the timeline plot of technology evolution, representing each community by its size, average age, and time.",
+      "Track the inter-year continuity of communities to understand the structure and emerging subjects of the technology."
+    ],
+    "results": [
+      "The proposed timeline plot provides insights into evolving trajectories, enabling the investigation of technology structure and identification of emerging subjects.",
+      "The case study reveals the composition of smart grid technology, including young and active subjects like network management and e-commerce, and emerging subjects like power system integration and management."
+    ],
+    "research_subject": "Visualizing technology evolution in the smart grid sector"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the evolution of technology fields, including their emergence, development, and demise.",
+      "Profiling technology development and identifying emerging trends is crucial for experts to stay current."
+    ],
+    "objectives": [
+      "Divide a technology field into communities over time and track their inter-year continuity to illustrate technology evolution.",
+      "Visualize the evolving trajectories of a technology field based on community size, average age, and time."
+    ],
+    "methods": [
+      "Analyze a set of patents related to a specific technology field, in this case, smart grid technology.",
+      "Track the inter-year continuity of tight-knit communities within the technology field.",
+      "Visualize the timeline plot of each community as a function of its size, average age, and time."
+    ],
+    "results": [
+      "Identified several evolving trajectories within the smart grid technology field.",
+      "Provided insights into the structure of the technology and identified emerging subjects.",
+      "Aided experts in profiling technology development and keeping up with current trends."
+    ],
+    "research_subject": "Identifying and visualizing the evolution of smart grid technology"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding technology evolution patterns is essential for tracking the emergence, development, and decline of technology fields.",
+      "Experts need effective methods to profile technology development and identify emerging subjects within complex technological domains."
+    ],
+    "objectives": [
+      "Develop a method to illustrate technology evolution by dividing technology fields into communities and tracking their continuity over time.",
+      "Create visualizations that reveal the structure and emerging subjects within technology fields through timeline plots."
+    ],
+    "methods": [
+      "Divide technology fields into tight-knit communities and track their inter-year continuity.",
+      "Visualize evolving trajectories using timeline plots that display communities based on size, average age, and time.",
+      "Analyze patent data to identify and characterize technology evolution patterns."
+    ],
+    "results": [
+      "Smart grid technology was found to consist of multiple trajectories with network management and e-commerce identified as young and active subjects.",
+      "The power system emerged as a new trajectory through the integration of management concepts, while wireless communication systems showed more activity than wired systems.",
+      "The timeline plot visualization effectively revealed technology structure and emerging subjects within the smart grid field."
+    ],
+    "research_subject": "Technology evolution analysis and visualization using patent data in smart grid technology"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the evolution of technology fields is crucial for experts to profile technology development and stay current with trends.\",\n    \"Existing methods may not effectively illustrate the emergence, development, or demise of technology fields over time.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to identify and visualize technology evolution by tracking the continuity of tight-knit communities within a technology field over time.\",\n    \"Apply the proposed method to a case study of smart grid technology to demonstrate its effectiveness.\"\n  ],\n  \"methods\": [\n    \"Analyze a set of patents related to smart grid technology to identify evolving trajectories.\",\n    \"Visualize the timeline plot of technology evolution, representing each community by its size, average age, and time.\",\n    \"Track the inter-year continuity of communities to understand the structure and emerging subjects of the technology.\"\n  ],\n  \"results\": [\n    \"The proposed timeline plot provides insights into evolving trajectories, enabling the investigation of technology structure and identification of emerging subjects.\",\n    \"The case study reveals the composition of smart grid technology, including young and active subjects like network management and e-commerce, and emerging subjects like power system integration and management.\"\n  ],\n  \"research_subject\": \"Visualizing technology evolution in the smart grid sector\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the evolution of technology fields, including their emergence, development, and demise.\",\n    \"Profiling technology development and identifying emerging trends is crucial for experts to stay current.\"\n  ],\n  \"objectives\": [\n    \"Divide a technology field into communities over time and track their inter-year continuity to illustrate technology evolution.\",\n    \"Visualize the evolving trajectories of a technology field based on community size, average age, and time.\"\n  ],\n  \"methods\": [\n    \"Analyze a set of patents related to a specific technology field, in this case, smart grid technology.\",\n    \"Track the inter-year continuity of tight-knit communities within the technology field.\",\n    \"Visualize the timeline plot of each community as a function of its size, average age, and time.\"\n  ],\n  \"results\": [\n    \"Identified several evolving trajectories within the smart grid technology field.\",\n    \"Provided insights into the structure of the technology and identified emerging subjects.\",\n    \"Aided experts in profiling technology development and keeping up with current trends.\"\n  ],\n  \"research_subject\": \"Identifying and visualizing the evolution of smart grid technology\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding technology evolution patterns is essential for tracking the emergence, development, and decline of technology fields.\",\n    \"Experts need effective methods to profile technology development and identify emerging subjects within complex technological domains.\"\n  ],\n  \"objectives\": [\n    \"Develop a method to illustrate technology evolution by dividing technology fields into communities and tracking their continuity over time.\",\n    \"Create visualizations that reveal the structure and emerging subjects within technology fields through timeline plots.\"\n  ],\n  \"methods\": [\n    \"Divide technology fields into tight-knit communities and track their inter-year continuity.\",\n    \"Visualize evolving trajectories using timeline plots that display communities based on size, average age, and time.\",\n    \"Analyze patent data to identify and characterize technology evolution patterns.\"\n  ],\n  \"results\": [\n    \"Smart grid technology was found to consist of multiple trajectories with network management and e-commerce identified as young and active subjects.\",\n    \"The power system emerged as a new trajectory through the integration of management concepts, while wireless communication systems showed more activity than wired systems.\",\n    \"The timeline plot visualization effectively revealed technology structure and emerging subjects within the smart grid field.\"\n  ],\n  \"research_subject\": \"Technology evolution analysis and visualization using patent data in smart grid technology\"\n}\n```"
+}

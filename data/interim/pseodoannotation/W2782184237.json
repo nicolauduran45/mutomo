@@ -1,0 +1,72 @@
+{
+  "index": 8,
+  "title": "WordBytes: Exploring an Intermediate Constraint Format for Rapid Classification of Student Answers on Constructed Response Assessments",
+  "abstract": "Computerized classification of student answers offers the possibility of instant feedback and improved learning. Open response (OR) questions provide greater insight into student thinking and understanding than more constrained multiple choice (MC) questions, but development of automated classifiers is more difficult, often requiring training a machine learning system with many human-classified answers. Here we explore a novel intermediate constraint question format called WordBytes (WB) where students assemble one-sentence answers to two different college evolutionary biology questions by choosing, then ordering, fixed tiles containing words and phrases. We found WB allowed students to construct hundreds to thousands of different answers (≤20 tiles), with multiple ways to express correct and incorrect answers with different misconceptions. We found humans could specify rules for an automated WB grader that could accurately classify answers as correct/incorrect with Cohen's kappa ≥ 0.88, near the measured intra-rater reliability of two human graders and the performance of machine classification of OR answers (Nehm et al., 2012). Finer-grained classification to identify the specific misconception had lower accuracy (Cohen's kappa < 0.75), which could be improved either by using a machine learner or revising the rules, but both would require considerably more development effort. Our results indicate that WB may allow rapid development of automated correct/incorrect answer classification without collecting and hand-grading hundreds of student answers.",
+  "llama_json": {
+    "motivations": [
+      "Computerized classification of student answers on open response questions is challenging and often requires extensive training data.",
+      "There is a need for an efficient and accurate method to provide instant feedback on constructed response assessments."
+    ],
+    "objectives": [
+      "Explore the effectiveness of an intermediate constraint format, WordBytes, for rapid classification of student answers.",
+      "Develop and evaluate an automated grading system for WordBytes using human-specified rules."
+    ],
+    "methods": [
+      "Design and implement the WordBytes format, where students assemble answers by choosing and ordering fixed tiles containing words and phrases.",
+      "Use human-specified rules to develop an automated grader for WordBytes and evaluate its accuracy.",
+      "Compare the performance of the automated grader with human graders and machine classification of open response answers."
+    ],
+    "results": [
+      "The automated WordBytes grader achieved high accuracy in classifying answers as correct/incorrect, with Cohen's kappa ≥ 0.88.",
+      "Finer-grained classification to identify specific misconceptions had lower accuracy, but could be improved with further development.",
+      "WordBytes may enable rapid development of automated answer classification without requiring large amounts of training data."
+    ],
+    "research_subject": "Exploring the WordBytes format for automated classification of student answers on constructed response assessments"
+  },
+  "openai_json": {
+    "motivations": [
+      "Open response questions provide more insight into student understanding but are difficult to automate for instant feedback.",
+      "There is a need for an intermediate constraint format that allows for rapid development of automated grading systems."
+    ],
+    "objectives": [
+      "Explore the WordBytes format where students construct one-sentence answers by choosing and ordering fixed tiles containing words and phrases.",
+      "Develop an automated WordBytes grader that can accurately classify answers as correct or incorrect.",
+      "Investigate the feasibility of finer-grained classification to identify specific misconceptions."
+    ],
+    "methods": [
+      "Use the WordBytes format to allow students to construct a variety of answers to two different college evolutionary biology questions.",
+      "Develop rules for an automated grader to classify WordBytes answers.",
+      "Compare the performance of the automated grader with human graders and machine classification of open response answers."
+    ],
+    "results": [
+      "The automated WordBytes grader could accurately classify answers with a reliability near that of human graders.",
+      "Finer-grained classification had lower accuracy, indicating a need for further development effort.",
+      "WordBytes may allow for rapid development of automated grading systems without the need for extensive hand-grading."
+    ],
+    "research_subject": "Exploration of the WordBytes format for rapid automated classification of student answers"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Open response questions provide better insight into student thinking than multiple choice questions, but developing automated classifiers for them requires extensive training data from human-classified answers.",
+      "There is a need for assessment formats that balance the expressiveness of open responses with the ease of automated grading."
+    ],
+    "objectives": [
+      "Explore WordBytes as an intermediate constraint question format that allows students to construct diverse answers while enabling rapid automated classification.",
+      "Evaluate the accuracy of rule-based automated grading for WordBytes answers compared to human graders and machine learning approaches."
+    ],
+    "methods": [
+      "Develop a WordBytes format where students construct one-sentence answers by selecting and ordering fixed tiles containing words and phrases.",
+      "Create rule-based automated graders for classifying student answers and compare their performance against human inter-rater reliability.",
+      "Test the system on two college evolutionary biology questions to assess classification accuracy at different granularity levels."
+    ],
+    "results": [
+      "WordBytes enabled students to construct hundreds to thousands of unique answers while maintaining high automated classification accuracy (Cohen's kappa ≥ 0.88) for correct/incorrect grading.",
+      "The rule-based classifier achieved performance comparable to human inter-rater reliability and existing machine learning approaches for open response classification.",
+      "Finer-grained misconception identification showed lower accuracy but could be improved with additional development effort."
+    ],
+    "research_subject": "WordBytes intermediate constraint format for automated classification of student constructed responses"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Computerized classification of student answers on open response questions is challenging and often requires extensive training data.\",\n    \"There is a need for an efficient and accurate method to provide instant feedback on constructed response assessments.\"\n  ],\n  \"objectives\": [\n    \"Explore the effectiveness of an intermediate constraint format, WordBytes, for rapid classification of student answers.\",\n    \"Develop and evaluate an automated grading system for WordBytes using human-specified rules.\"\n  ],\n  \"methods\": [\n    \"Design and implement the WordBytes format, where students assemble answers by choosing and ordering fixed tiles containing words and phrases.\",\n    \"Use human-specified rules to develop an automated grader for WordBytes and evaluate its accuracy.\",\n    \"Compare the performance of the automated grader with human graders and machine classification of open response answers.\"\n  ],\n  \"results\": [\n    \"The automated WordBytes grader achieved high accuracy in classifying answers as correct/incorrect, with Cohen's kappa ≥ 0.88.\",\n    \"Finer-grained classification to identify specific misconceptions had lower accuracy, but could be improved with further development.\",\n    \"WordBytes may enable rapid development of automated answer classification without requiring large amounts of training data.\"\n  ],\n  \"research_subject\": \"Exploring the WordBytes format for automated classification of student answers on constructed response assessments\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Open response questions provide more insight into student understanding but are difficult to automate for instant feedback.\",\n    \"There is a need for an intermediate constraint format that allows for rapid development of automated grading systems.\"\n  ],\n  \"objectives\": [\n    \"Explore the WordBytes format where students construct one-sentence answers by choosing and ordering fixed tiles containing words and phrases.\",\n    \"Develop an automated WordBytes grader that can accurately classify answers as correct or incorrect.\",\n    \"Investigate the feasibility of finer-grained classification to identify specific misconceptions.\"\n  ],\n  \"methods\": [\n    \"Use the WordBytes format to allow students to construct a variety of answers to two different college evolutionary biology questions.\",\n    \"Develop rules for an automated grader to classify WordBytes answers.\",\n    \"Compare the performance of the automated grader with human graders and machine classification of open response answers.\"\n  ],\n  \"results\": [\n    \"The automated WordBytes grader could accurately classify answers with a reliability near that of human graders.\",\n    \"Finer-grained classification had lower accuracy, indicating a need for further development effort.\",\n    \"WordBytes may allow for rapid development of automated grading systems without the need for extensive hand-grading.\"\n  ],\n  \"research_subject\": \"Exploration of the WordBytes format for rapid automated classification of student answers\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Open response questions provide better insight into student thinking than multiple choice questions, but developing automated classifiers for them requires extensive training data from human-classified answers.\",\n    \"There is a need for assessment formats that balance the expressiveness of open responses with the ease of automated grading.\"\n  ],\n  \"objectives\": [\n    \"Explore WordBytes as an intermediate constraint question format that allows students to construct diverse answers while enabling rapid automated classification.\",\n    \"Evaluate the accuracy of rule-based automated grading for WordBytes answers compared to human graders and machine learning approaches.\"\n  ],\n  \"methods\": [\n    \"Develop a WordBytes format where students construct one-sentence answers by selecting and ordering fixed tiles containing words and phrases.\",\n    \"Create rule-based automated graders for classifying student answers and compare their performance against human inter-rater reliability.\",\n    \"Test the system on two college evolutionary biology questions to assess classification accuracy at different granularity levels.\"\n  ],\n  \"results\": [\n    \"WordBytes enabled students to construct hundreds to thousands of unique answers while maintaining high automated classification accuracy (Cohen's kappa ≥ 0.88) for correct/incorrect grading.\",\n    \"The rule-based classifier achieved performance comparable to human inter-rater reliability and existing machine learning approaches for open response classification.\",\n    \"Finer-grained misconception identification showed lower accuracy but could be improved with additional development effort.\"\n  ],\n  \"research_subject\": \"WordBytes intermediate constraint format for automated classification of student constructed responses\"\n}\n```"
+}

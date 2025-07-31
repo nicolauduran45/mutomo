@@ -1,0 +1,57 @@
+{
+  "index": 18,
+  "title": "ARYL DIPHOSPHINES AND CATALYSTS CONTAINING THE SAME",
+  "abstract": "The present invention provides novel aryl diphosphines having formula (I) wherein X, Y, R1-18, m, m' and n are defined herein, and which can be complexed with a transition metal to form a novel catalyst useful in such applications as hydroformylation.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for novel catalysts to improve the efficiency and effectiveness of chemical reactions such as hydroformylation."
+    ],
+    "objectives": [
+      "Develop novel aryl diphosphines that can be complexed with transition metals to form effective catalysts."
+    ],
+    "methods": [
+      "Design and synthesize aryl diphosphines with specific structural features defined by formula (I).",
+      "Complex the aryl diphosphines with transition metals to form novel catalysts."
+    ],
+    "results": [
+      "Create novel catalysts useful for applications such as hydroformylation."
+    ],
+    "research_subject": "Development of novel aryl diphosphines and catalysts for improved chemical reactions"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for novel aryl diphosphines that can be complexed with a transition metal to form a new catalyst."
+    ],
+    "objectives": [
+      "Provide novel aryl diphosphines with a specific formula.",
+      "Develop a new catalyst by complexing the novel aryl diphosphines with a transition metal."
+    ],
+    "methods": [
+      "Synthesize novel aryl diphosphines with a specific formula.",
+      "Complex the synthesized aryl diphosphines with a transition metal to form a new catalyst."
+    ],
+    "results": [
+      "Novel aryl diphosphines are provided.",
+      "A new catalyst useful in applications such as hydroformylation is developed."
+    ],
+    "research_subject": "Development of novel aryl diphosphines and catalysts"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for novel catalysts that can effectively facilitate chemical reactions such as hydroformylation."
+    ],
+    "objectives": [
+      "Develop novel aryl diphosphines that can be complexed with transition metals to create new catalysts."
+    ],
+    "methods": [
+      "Synthesize aryl diphosphines with specific structural formula and complex them with transition metals."
+    ],
+    "results": [
+      "Novel catalysts are created that are useful for applications including hydroformylation reactions."
+    ],
+    "research_subject": "Novel aryl diphosphine ligands and their transition metal catalysts"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for novel catalysts to improve the efficiency and effectiveness of chemical reactions such as hydroformylation.\"\n  ],\n  \"objectives\": [\n    \"Develop novel aryl diphosphines that can be complexed with transition metals to form effective catalysts.\"\n  ],\n  \"methods\": [\n    \"Design and synthesize aryl diphosphines with specific structural features defined by formula (I).\",\n    \"Complex the aryl diphosphines with transition metals to form novel catalysts.\"\n  ],\n  \"results\": [\n    \"Create novel catalysts useful for applications such as hydroformylation.\"\n  ],\n  \"research_subject\": \"Development of novel aryl diphosphines and catalysts for improved chemical reactions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for novel aryl diphosphines that can be complexed with a transition metal to form a new catalyst.\"\n  ],\n  \"objectives\": [\n    \"Provide novel aryl diphosphines with a specific formula.\",\n    \"Develop a new catalyst by complexing the novel aryl diphosphines with a transition metal.\"\n  ],\n  \"methods\": [\n    \"Synthesize novel aryl diphosphines with a specific formula.\",\n    \"Complex the synthesized aryl diphosphines with a transition metal to form a new catalyst.\"\n  ],\n  \"results\": [\n    \"Novel aryl diphosphines are provided.\",\n    \"A new catalyst useful in applications such as hydroformylation is developed.\"\n  ],\n  \"research_subject\": \"Development of novel aryl diphosphines and catalysts\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for novel catalysts that can effectively facilitate chemical reactions such as hydroformylation.\"\n  ],\n  \"objectives\": [\n    \"Develop novel aryl diphosphines that can be complexed with transition metals to create new catalysts.\"\n  ],\n  \"methods\": [\n    \"Synthesize aryl diphosphines with specific structural formula and complex them with transition metals.\"\n  ],\n  \"results\": [\n    \"Novel catalysts are created that are useful for applications including hydroformylation reactions.\"\n  ],\n  \"research_subject\": \"Novel aryl diphosphine ligands and their transition metal catalysts\"\n}\n```"
+}

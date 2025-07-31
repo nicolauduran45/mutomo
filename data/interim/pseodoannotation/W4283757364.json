@@ -1,0 +1,65 @@
+{
+  "index": 461,
+  "title": "Entre centre-ville et banlieue : faire la navette à travers des récits audio-visuels ultra-contemporains",
+  "abstract": "La banlieue constitue, aussi bien par sa conception politique que par sa considération et sa configuration sociale, un espace privilégié pour aborder l’évolution de la question identitaire en France au XXIe siècle. Prenant les films Le brio (2017), Les misérables (2019) et la série Marseille (2016) comme point de départ, on verra comment la fiction contemporaine illustre les tensions entre deux mondes – dominant et dominé –, et on analysera la force de l’empreinte dominante dans ces productions audio-visuelles. À travers le regard des personnages-navette –ceux qui traversent constamment la frontière invisible dedans-dehors–, les espaces de la banlieue et du centre-ville se rapprochent l’un de l’autre plus qu’on ne le croirait. Ce constat nous amènera à explorer la pertinence de certains lieux communs qui leur sont apposés.",
+  "llama_json": {
+    "motivations": [
+      "The French suburban area, or banlieue, is a privileged space to explore the evolution of identity issues in 21st-century France due to its unique social and political context.",
+      "There is a need to analyze the representation of tensions between dominant and dominated worlds in contemporary fiction."
+    ],
+    "objectives": [
+      "Analyze how contemporary fiction illustrates the tensions between the dominant and dominated worlds in the French suburban area.",
+      "Explore the relevance of common stereotypes associated with the banlieue and the city center through the perspective of characters who navigate between these spaces."
+    ],
+    "methods": [
+      "Use a selection of contemporary audio-visual narratives, including films and series, as a starting point for analysis.",
+      "Examine the representation of characters who constantly cross the invisible border between the banlieue and the city center."
+    ],
+    "results": [
+      "Gain a deeper understanding of the complex relationships between the banlieue and the city center in contemporary France.",
+      "Challenge common stereotypes associated with these spaces through a nuanced analysis of their representation in fiction."
+    ],
+    "research_subject": "Representation of the French suburban area and its relationship with the city center in contemporary audio-visual narratives"
+  },
+  "openai_json": {
+    "motivations": [
+      "The suburbs, due to their political conception and social configuration, provide a unique space to explore the evolution of identity issues in 21st century France.",
+      "There is a need to understand the tensions between dominant and dominated worlds as depicted in contemporary fiction."
+    ],
+    "objectives": [
+      "Analyze how contemporary audio-visual productions, such as the films 'Le brio' and 'Les misérables', and the series 'Marseille', illustrate the tensions between dominant and dominated worlds.",
+      "Explore the relevance of common places associated with the suburbs and city center through the perspective of 'commuter' characters who constantly cross the invisible inside-outside boundary."
+    ],
+    "methods": [
+      "Use contemporary audio-visual productions as a starting point for analysis.",
+      "Focus on 'commuter' characters to understand the relationship and tensions between the suburbs and city center."
+    ],
+    "results": [
+      "Provide insights into the identity issues and social dynamics in 21st century France as depicted in contemporary fiction.",
+      "Challenge common perceptions about the suburbs and city center in France."
+    ],
+    "research_subject": "Analysis of identity and social dynamics in France through contemporary audio-visual narratives"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The French suburbs represent a privileged space for examining the evolution of identity issues in 21st century France due to their political conception and social configuration.",
+      "Contemporary fiction illustrates tensions between dominant and dominated worlds, revealing the strength of dominant imprints in audiovisual productions."
+    ],
+    "objectives": [
+      "Analyze how contemporary audiovisual narratives depict the relationship and tensions between city centers and suburbs through the lens of identity.",
+      "Explore the relevance of common stereotypes associated with suburban and city center spaces through the perspective of commuter characters."
+    ],
+    "methods": [
+      "Analyze films Le brio (2017), Les misérables (2019) and the series Marseille (2016) as case studies.",
+      "Examine commuter characters who constantly cross the invisible inside-outside boundary between suburbs and city centers."
+    ],
+    "results": [
+      "The spaces of suburbs and city centers are shown to be closer to each other than commonly believed through the perspective of commuter characters.",
+      "The analysis reveals how contemporary fiction reflects and challenges common stereotypes about urban and suburban spaces."
+    ],
+    "research_subject": "Identity and spatial dynamics between French city centers and suburbs in contemporary audiovisual narratives"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The French suburban area, or banlieue, is a privileged space to explore the evolution of identity issues in 21st-century France due to its unique social and political context.\",\n    \"There is a need to analyze the representation of tensions between dominant and dominated worlds in contemporary fiction.\"\n  ],\n  \"objectives\": [\n    \"Analyze how contemporary fiction illustrates the tensions between the dominant and dominated worlds in the French suburban area.\",\n    \"Explore the relevance of common stereotypes associated with the banlieue and the city center through the perspective of characters who navigate between these spaces.\"\n  ],\n  \"methods\": [\n    \"Use a selection of contemporary audio-visual narratives, including films and series, as a starting point for analysis.\",\n    \"Examine the representation of characters who constantly cross the invisible border between the banlieue and the city center.\"\n  ],\n  \"results\": [\n    \"Gain a deeper understanding of the complex relationships between the banlieue and the city center in contemporary France.\",\n    \"Challenge common stereotypes associated with these spaces through a nuanced analysis of their representation in fiction.\"\n  ],\n  \"research_subject\": \"Representation of the French suburban area and its relationship with the city center in contemporary audio-visual narratives\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The suburbs, due to their political conception and social configuration, provide a unique space to explore the evolution of identity issues in 21st century France.\",\n    \"There is a need to understand the tensions between dominant and dominated worlds as depicted in contemporary fiction.\"\n  ],\n  \"objectives\": [\n    \"Analyze how contemporary audio-visual productions, such as the films 'Le brio' and 'Les misérables', and the series 'Marseille', illustrate the tensions between dominant and dominated worlds.\",\n    \"Explore the relevance of common places associated with the suburbs and city center through the perspective of 'commuter' characters who constantly cross the invisible inside-outside boundary.\"\n  ],\n  \"methods\": [\n    \"Use contemporary audio-visual productions as a starting point for analysis.\",\n    \"Focus on 'commuter' characters to understand the relationship and tensions between the suburbs and city center.\"\n  ],\n  \"results\": [\n    \"Provide insights into the identity issues and social dynamics in 21st century France as depicted in contemporary fiction.\",\n    \"Challenge common perceptions about the suburbs and city center in France.\"\n  ],\n  \"research_subject\": \"Analysis of identity and social dynamics in France through contemporary audio-visual narratives\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The French suburbs represent a privileged space for examining the evolution of identity issues in 21st century France due to their political conception and social configuration.\",\n    \"Contemporary fiction illustrates tensions between dominant and dominated worlds, revealing the strength of dominant imprints in audiovisual productions.\"\n  ],\n  \"objectives\": [\n    \"Analyze how contemporary audiovisual narratives depict the relationship and tensions between city centers and suburbs through the lens of identity.\",\n    \"Explore the relevance of common stereotypes associated with suburban and city center spaces through the perspective of commuter characters.\"\n  ],\n  \"methods\": [\n    \"Analyze films Le brio (2017), Les misérables (2019) and the series Marseille (2016) as case studies.\",\n    \"Examine commuter characters who constantly cross the invisible inside-outside boundary between suburbs and city centers.\"\n  ],\n  \"results\": [\n    \"The spaces of suburbs and city centers are shown to be closer to each other than commonly believed through the perspective of commuter characters.\",\n    \"The analysis reveals how contemporary fiction reflects and challenges common stereotypes about urban and suburban spaces.\"\n  ],\n  \"research_subject\": \"Identity and spatial dynamics between French city centers and suburbs in contemporary audiovisual narratives\"\n}\n```"
+}

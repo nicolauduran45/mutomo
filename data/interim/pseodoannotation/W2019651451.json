@@ -1,0 +1,69 @@
+{
+  "index": 359,
+  "title": "Oscillibacter ruminantium sp. nov., isolated from the rumen of Korean native cattle",
+  "abstract": "A strictly anaerobic, Gram-negative, non-spore-forming bacterium, designated GH1 T , was isolated from the rumen of Korean native cattle (HanWoo). Cells were straight to slightly curved rods (2.0–4.5 µm long) and were motile by peritrichous flagella. The isolate grew at 30–45 °C (optimum 40 °C), at pH 5.5–6.5 (optimum pH 6.0) and with up to 3.5 % (w/v) NaCl. Strain GH1 T produced acid from d -glucose, d -ribose and d -xylose, with butyric acid being the major end product. The genomic DNA G+C content was 54.6 mol%. Based on comparative 16S rRNA gene sequence analysis, strain GH1 T was most closely related to Oscillibacter valericigenes Sjm18-20 T (97.3 % 16S rRNA gene sequence similarity). DNA–DNA hybridization between strain GH1 T and O. valericigenes DSM 18026 T showed 24 % reassociation. The major fatty acids were iso-C 13 : 0 (13.0 %), iso-C 15 : 0 (17.6 %), anteiso-C 15 : 0 (8.4 %) and C 14 : 0 (4.1 %), and the cellular fatty acid methyl esters as dimethylacetals (DMAs) were C 16 : 0 DMA (17.8 %), iso-C 15 : 0 DMA (15.2 %) and C 14 : 0 DMA (4.52 %). The cell-wall peptidoglycan of strain GH1 T contained meso -diaminopimelic acid and the major cell-wall sugar was galactose. Based on 16S rRNA gene sequence similarity, phylogenetic analysis, DNA G+C content, DNA–DNA relatedness and distinct phenotypic characteristics, strain GH1 T is classified in the genus Oscillibacter as a member of a novel species, for which the name Oscillibacter ruminantium sp. nov. is proposed. The type strain is GH1 T ( = KCTC 15176 T = NBRC 108824 T = JCM 18333 T ).",
+  "llama_json": {
+    "motivations": [
+      "There is a need to identify and classify new bacterial species to expand our understanding of microbial diversity.",
+      "Unclassified bacteria may possess unique characteristics that could contribute to advancements in fields such as agriculture, medicine, and biotechnology."
+    ],
+    "objectives": [
+      "Isolate and characterize a novel bacterial strain from the rumen of Korean native cattle.",
+      "Determine the taxonomic position of the isolated strain through phylogenetic analysis and comparative studies."
+    ],
+    "methods": [
+      "Isolate the bacterial strain using anaerobic cultivation techniques.",
+      "Perform morphological, biochemical, and molecular characterization, including 16S rRNA gene sequencing and DNA-DNA hybridization.",
+      "Analyze the cellular fatty acid composition and cell-wall peptidoglycan structure."
+    ],
+    "results": [
+      "Identification of a novel bacterial species, Oscillibacter ruminantium sp. nov., with distinct phenotypic and genotypic characteristics.",
+      "Expansion of the Oscillibacter genus and contribution to the understanding of microbial diversity in the rumen ecosystem."
+    ],
+    "research_subject": "Isolation and characterization of a novel bacterial species from the rumen of Korean native cattle"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to identify and classify new bacterial species present in the rumen of Korean native cattle."
+    ],
+    "objectives": [
+      "Isolate and characterize a new bacterial strain from the rumen of Korean native cattle.",
+      "Determine the genetic and phenotypic characteristics of the isolated strain.",
+      "Classify the new strain within the genus Oscillibacter."
+    ],
+    "methods": [
+      "Isolate the bacterium from the rumen of Korean native cattle.",
+      "Perform comparative 16S rRNA gene sequence analysis and DNA-DNA hybridization to determine genetic relatedness.",
+      "Analyze phenotypic characteristics such as cell morphology, growth conditions, acid production, fatty acid composition, and cell-wall components."
+    ],
+    "results": [
+      "Isolated a new bacterial strain, GH1 T, from the rumen of Korean native cattle.",
+      "Identified GH1 T as a strictly anaerobic, Gram-negative, non-spore-forming bacterium, with specific growth conditions and metabolic characteristics.",
+      "Classified GH1 T as a new species within the genus Oscillibacter, named Oscillibacter ruminantium."
+    ],
+    "research_subject": "Identification and classification of a new bacterial species, Oscillibacter ruminantium, from the rumen of Korean native cattle"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to characterize and classify novel bacterial species from the rumen microbiome to better understand microbial diversity in ruminants."
+    ],
+    "objectives": [
+      "Isolate and characterize a novel anaerobic bacterium from Korean native cattle rumen.",
+      "Determine the taxonomic position of the isolate and propose it as a new species within the genus Oscillibacter."
+    ],
+    "methods": [
+      "Performed morphological, physiological, and biochemical characterization of the isolated bacterium.",
+      "Conducted 16S rRNA gene sequence analysis and phylogenetic analysis to determine taxonomic relationships.",
+      "Analyzed genomic DNA G+C content, DNA-DNA hybridization, fatty acid composition, and cell wall components."
+    ],
+    "results": [
+      "Identified strain GH1T as a novel species most closely related to Oscillibacter valericigenes with 97.3% 16S rRNA gene sequence similarity.",
+      "Demonstrated distinct phenotypic and genotypic characteristics supporting classification as Oscillibacter ruminantium sp. nov.",
+      "Deposited the type strain in multiple culture collections for future research access."
+    ],
+    "research_subject": "Novel anaerobic bacterium Oscillibacter ruminantium from cattle rumen"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to identify and classify new bacterial species to expand our understanding of microbial diversity.\",\n    \"Unclassified bacteria may possess unique characteristics that could contribute to advancements in fields such as agriculture, medicine, and biotechnology.\"\n  ],\n  \"objectives\": [\n    \"Isolate and characterize a novel bacterial strain from the rumen of Korean native cattle.\",\n    \"Determine the taxonomic position of the isolated strain through phylogenetic analysis and comparative studies.\"\n  ],\n  \"methods\": [\n    \"Isolate the bacterial strain using anaerobic cultivation techniques.\",\n    \"Perform morphological, biochemical, and molecular characterization, including 16S rRNA gene sequencing and DNA-DNA hybridization.\",\n    \"Analyze the cellular fatty acid composition and cell-wall peptidoglycan structure.\"\n  ],\n  \"results\": [\n    \"Identification of a novel bacterial species, Oscillibacter ruminantium sp. nov., with distinct phenotypic and genotypic characteristics.\",\n    \"Expansion of the Oscillibacter genus and contribution to the understanding of microbial diversity in the rumen ecosystem.\"\n  ],\n  \"research_subject\": \"Isolation and characterization of a novel bacterial species from the rumen of Korean native cattle\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to identify and classify new bacterial species present in the rumen of Korean native cattle.\"\n  ],\n  \"objectives\": [\n    \"Isolate and characterize a new bacterial strain from the rumen of Korean native cattle.\",\n    \"Determine the genetic and phenotypic characteristics of the isolated strain.\",\n    \"Classify the new strain within the genus Oscillibacter.\"\n  ],\n  \"methods\": [\n    \"Isolate the bacterium from the rumen of Korean native cattle.\",\n    \"Perform comparative 16S rRNA gene sequence analysis and DNA-DNA hybridization to determine genetic relatedness.\",\n    \"Analyze phenotypic characteristics such as cell morphology, growth conditions, acid production, fatty acid composition, and cell-wall components.\"\n  ],\n  \"results\": [\n    \"Isolated a new bacterial strain, GH1 T, from the rumen of Korean native cattle.\",\n    \"Identified GH1 T as a strictly anaerobic, Gram-negative, non-spore-forming bacterium, with specific growth conditions and metabolic characteristics.\",\n    \"Classified GH1 T as a new species within the genus Oscillibacter, named Oscillibacter ruminantium.\"\n  ],\n  \"research_subject\": \"Identification and classification of a new bacterial species, Oscillibacter ruminantium, from the rumen of Korean native cattle\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to characterize and classify novel bacterial species from the rumen microbiome to better understand microbial diversity in ruminants.\"\n  ],\n  \"objectives\": [\n    \"Isolate and characterize a novel anaerobic bacterium from Korean native cattle rumen.\",\n    \"Determine the taxonomic position of the isolate and propose it as a new species within the genus Oscillibacter.\"\n  ],\n  \"methods\": [\n    \"Performed morphological, physiological, and biochemical characterization of the isolated bacterium.\",\n    \"Conducted 16S rRNA gene sequence analysis and phylogenetic analysis to determine taxonomic relationships.\",\n    \"Analyzed genomic DNA G+C content, DNA-DNA hybridization, fatty acid composition, and cell wall components.\"\n  ],\n  \"results\": [\n    \"Identified strain GH1T as a novel species most closely related to Oscillibacter valericigenes with 97.3% 16S rRNA gene sequence similarity.\",\n    \"Demonstrated distinct phenotypic and genotypic characteristics supporting classification as Oscillibacter ruminantium sp. nov.\",\n    \"Deposited the type strain in multiple culture collections for future research access.\"\n  ],\n  \"research_subject\": \"Novel anaerobic bacterium Oscillibacter ruminantium from cattle rumen\"\n}\n```"
+}

@@ -1,0 +1,71 @@
+{
+  "index": 193,
+  "title": "Impact of magnetic field on emergent solar spectra",
+  "abstract": "Solar brightness varies at all measured timescales and wavelengths, and can affect terrestrial atmosphere and climate. Variations on timescales longer than a day are driven by the solar surface magnetic activity. Solar magnetic field modifies the structure of the solar atmosphere and its radiative properties, appearing at the surface as dark spots and bright faculae. These features continuously evolve with time and modulate solar brightness. Although significant progress has been made in modeling solar brightness variations, their amplitude in the ultraviolet (UV) range remains controversial. IMagE aims at resolving this controversy. A crucial ingredient of the irradiance models are brightness spectra of the various magnetic components. Spectra that have been used until now relied on a number of simplifications that are not valid in the UV. To properly account for the physical mechanisms which influence the solar variability in the UV, including the line blanketing and departures from local thermodynamic equilibrium (LTE), non-LTE computations of spectra from realistic 3D magnetohydrodynamic (MHD) atmospheres are needed. This is computationally extremely challenging. IMagE will exploit state-of-the-art MHD and radiative transfer simulations to device a method for efficient, yet accurate, synthesis of the non-LTE brightness spectra of the different magnetic components. This method will be validated against high spatial resolution observations of the Sun. Incorporation of the spectra computed with this method in the physics-based irradiance models will lead to a breakthrough in our understanding of the solar UV irradiance variability. The grid of non-LTE spectra for different magnetic field strengths and solar disc positions produced within IMagE can also be used to analyze the data from future missions, for instance SUNRISE III and the maiden Indian solar mission Aditya-L1.",
+  "llama_json": {
+    "motivations": [
+      "The amplitude of solar brightness variations in the ultraviolet (UV) range remains a topic of controversy despite significant progress in modeling.",
+      "Current irradiance models rely on simplified brightness spectra that are not valid in the UV range, necessitating more accurate and realistic computations."
+    ],
+    "objectives": [
+      "Develop a method for efficient and accurate synthesis of non-LTE brightness spectra of different magnetic components using 3D MHD atmospheres.",
+      "Validate the method against high spatial resolution observations of the Sun.",
+      "Incorporate the computed spectra into physics-based irradiance models to improve understanding of solar UV irradiance variability."
+    ],
+    "methods": [
+      "Exploit state-of-the-art MHD and radiative transfer simulations to devise a method for synthesizing non-LTE brightness spectra.",
+      "Utilize realistic 3D MHD atmospheres to account for physical mechanisms influencing solar variability in the UV range.",
+      "Validate the method against high spatial resolution observations of the Sun."
+    ],
+    "results": [
+      "Achieve a breakthrough in understanding solar UV irradiance variability by incorporating accurate non-LTE spectra into irradiance models.",
+      "Provide a grid of non-LTE spectra for different magnetic field strengths and solar disc positions for analyzing data from future missions.",
+      "Enhance the accuracy of physics-based irradiance models for better predicting solar brightness variations."
+    ],
+    "research_subject": "Impact of magnetic field on emergent solar spectra and solar UV irradiance variability"
+  },
+  "openai_json": {
+    "motivations": [
+      "Solar brightness variations, driven by solar surface magnetic activity, can affect terrestrial atmosphere and climate, but their amplitude in the UV range remains controversial.",
+      "Existing brightness spectra of various magnetic components used in irradiance models rely on simplifications that are not valid in the UV."
+    ],
+    "objectives": [
+      "Resolve the controversy surrounding the amplitude of solar brightness variations in the UV range.",
+      "Develop an efficient method for accurate synthesis of non-LTE brightness spectra of different magnetic components using state-of-the-art MHD and radiative transfer simulations.",
+      "Incorporate the computed spectra into physics-based irradiance models to improve understanding of solar UV irradiance variability."
+    ],
+    "methods": [
+      "Use non-LTE computations of spectra from realistic 3D magnetohydrodynamic atmospheres to account for physical mechanisms influencing solar variability in the UV.",
+      "Validate the developed method against high spatial resolution observations of the Sun.",
+      "Incorporate the computed spectra into physics-based irradiance models."
+    ],
+    "results": [
+      "Achieve a breakthrough in understanding solar UV irradiance variability.",
+      "Provide a grid of non-LTE spectra for different magnetic field strengths and solar disc positions, useful for analyzing data from future missions like SUNRISE III and Aditya-L1."
+    ],
+    "research_subject": "Impact of solar magnetic field on solar brightness variations and UV irradiance"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Solar brightness variations in the ultraviolet range remain controversial despite progress in modeling, limiting our understanding of solar impacts on terrestrial atmosphere and climate.",
+      "Current irradiance models rely on simplified brightness spectra that are not valid in the UV range, failing to account for crucial physical mechanisms like line blanketing and departures from local thermodynamic equilibrium."
+    ],
+    "objectives": [
+      "Develop an efficient and accurate method for synthesizing non-LTE brightness spectra of different magnetic components using state-of-the-art MHD and radiative transfer simulations.",
+      "Resolve the controversy surrounding solar UV irradiance variability by incorporating physically accurate spectra into irradiance models."
+    ],
+    "methods": [
+      "Exploit state-of-the-art 3D magnetohydrodynamic and radiative transfer simulations to compute non-LTE brightness spectra.",
+      "Validate the computed spectra against high spatial resolution solar observations.",
+      "Create a grid of non-LTE spectra for different magnetic field strengths and solar disc positions."
+    ],
+    "results": [
+      "Achieve a breakthrough in understanding solar UV irradiance variability through physics-based irradiance models.",
+      "Provide validated non-LTE spectra that can be used to analyze data from future solar missions including SUNRISE III and Aditya-L1."
+    ],
+    "research_subject": "Impact of magnetic field on solar UV brightness spectra and irradiance variability"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The amplitude of solar brightness variations in the ultraviolet (UV) range remains a topic of controversy despite significant progress in modeling.\",\n    \"Current irradiance models rely on simplified brightness spectra that are not valid in the UV range, necessitating more accurate and realistic computations.\"\n  ],\n  \"objectives\": [\n    \"Develop a method for efficient and accurate synthesis of non-LTE brightness spectra of different magnetic components using 3D MHD atmospheres.\",\n    \"Validate the method against high spatial resolution observations of the Sun.\",\n    \"Incorporate the computed spectra into physics-based irradiance models to improve understanding of solar UV irradiance variability.\"\n  ],\n  \"methods\": [\n    \"Exploit state-of-the-art MHD and radiative transfer simulations to devise a method for synthesizing non-LTE brightness spectra.\",\n    \"Utilize realistic 3D MHD atmospheres to account for physical mechanisms influencing solar variability in the UV range.\",\n    \"Validate the method against high spatial resolution observations of the Sun.\"\n  ],\n  \"results\": [\n    \"Achieve a breakthrough in understanding solar UV irradiance variability by incorporating accurate non-LTE spectra into irradiance models.\",\n    \"Provide a grid of non-LTE spectra for different magnetic field strengths and solar disc positions for analyzing data from future missions.\",\n    \"Enhance the accuracy of physics-based irradiance models for better predicting solar brightness variations.\"\n  ],\n  \"research_subject\": \"Impact of magnetic field on emergent solar spectra and solar UV irradiance variability\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Solar brightness variations, driven by solar surface magnetic activity, can affect terrestrial atmosphere and climate, but their amplitude in the UV range remains controversial.\",\n    \"Existing brightness spectra of various magnetic components used in irradiance models rely on simplifications that are not valid in the UV.\"\n  ],\n  \"objectives\": [\n    \"Resolve the controversy surrounding the amplitude of solar brightness variations in the UV range.\",\n    \"Develop an efficient method for accurate synthesis of non-LTE brightness spectra of different magnetic components using state-of-the-art MHD and radiative transfer simulations.\",\n    \"Incorporate the computed spectra into physics-based irradiance models to improve understanding of solar UV irradiance variability.\"\n  ],\n  \"methods\": [\n    \"Use non-LTE computations of spectra from realistic 3D magnetohydrodynamic atmospheres to account for physical mechanisms influencing solar variability in the UV.\",\n    \"Validate the developed method against high spatial resolution observations of the Sun.\",\n    \"Incorporate the computed spectra into physics-based irradiance models.\"\n  ],\n  \"results\": [\n    \"Achieve a breakthrough in understanding solar UV irradiance variability.\",\n    \"Provide a grid of non-LTE spectra for different magnetic field strengths and solar disc positions, useful for analyzing data from future missions like SUNRISE III and Aditya-L1.\"\n  ],\n  \"research_subject\": \"Impact of solar magnetic field on solar brightness variations and UV irradiance\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Solar brightness variations in the ultraviolet range remain controversial despite progress in modeling, limiting our understanding of solar impacts on terrestrial atmosphere and climate.\",\n    \"Current irradiance models rely on simplified brightness spectra that are not valid in the UV range, failing to account for crucial physical mechanisms like line blanketing and departures from local thermodynamic equilibrium.\"\n  ],\n  \"objectives\": [\n    \"Develop an efficient and accurate method for synthesizing non-LTE brightness spectra of different magnetic components using state-of-the-art MHD and radiative transfer simulations.\",\n    \"Resolve the controversy surrounding solar UV irradiance variability by incorporating physically accurate spectra into irradiance models.\"\n  ],\n  \"methods\": [\n    \"Exploit state-of-the-art 3D magnetohydrodynamic and radiative transfer simulations to compute non-LTE brightness spectra.\",\n    \"Validate the computed spectra against high spatial resolution solar observations.\",\n    \"Create a grid of non-LTE spectra for different magnetic field strengths and solar disc positions.\"\n  ],\n  \"results\": [\n    \"Achieve a breakthrough in understanding solar UV irradiance variability through physics-based irradiance models.\",\n    \"Provide validated non-LTE spectra that can be used to analyze data from future solar missions including SUNRISE III and Aditya-L1.\"\n  ],\n  \"research_subject\": \"Impact of magnetic field on solar UV brightness spectra and irradiance variability\"\n}\n```"
+}

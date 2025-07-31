@@ -1,0 +1,56 @@
+{
+  "index": 413,
+  "title": "(14075.09092020.173000270) FR2.0",
+  "abstract": "TWO LINES OF INTERVENTION: 1) INVESTMENTS IN BI FOR E-MARKETING AND E-COMMERCE DEVELOPMENT; 2) REALISATION OF A VERTICAL INTEGRATION TO OPTIMISE THE EXPLOITATION OF INFORMATION FLOWS",
+  "llama_json": {
+    "motivations": [
+      "There is a need to optimize e-marketing and e-commerce development through business intelligence (BI) investments.",
+      "Inefficient exploitation of information flows requires a solution to improve overall performance."
+    ],
+    "objectives": [
+      "Enhance e-marketing and e-commerce capabilities through strategic investments in business intelligence.",
+      "Achieve vertical integration to optimize the utilization of information flows."
+    ],
+    "methods": [
+      "Implement business intelligence solutions to support e-marketing and e-commerce development.",
+      "Realize vertical integration to streamline information flow exploitation."
+    ],
+    "results": [],
+    "research_subject": "Optimization of e-marketing, e-commerce, and information flow exploitation through business intelligence and vertical integration"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for investments in Business Intelligence (BI) to enhance e-marketing and e-commerce development.",
+      "Optimization of information flows through vertical integration is required."
+    ],
+    "objectives": [
+      "Invest in Business Intelligence for the development of e-marketing and e-commerce.",
+      "Achieve vertical integration to optimize the exploitation of information flows."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Investments in Business Intelligence for e-marketing and e-commerce development and vertical integration for information flow optimization"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to enhance e-marketing and e-commerce capabilities through better data utilization and business intelligence.",
+      "Organizations require improved integration systems to optimize the exploitation of information flows across different business processes."
+    ],
+    "objectives": [
+      "Develop and implement business intelligence investments to strengthen e-marketing and e-commerce development.",
+      "Achieve vertical integration to optimize the exploitation and management of information flows."
+    ],
+    "methods": [
+      "Implement business intelligence systems and tools for e-marketing and e-commerce applications.",
+      "Develop vertical integration strategies to streamline information flow processes."
+    ],
+    "results": [
+      "Enhanced e-marketing and e-commerce capabilities through improved business intelligence infrastructure.",
+      "Optimized information flow management through successful vertical integration implementation."
+    ],
+    "research_subject": "Business intelligence implementation for e-commerce and vertical integration of information flows"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to optimize e-marketing and e-commerce development through business intelligence (BI) investments.\",\n    \"Inefficient exploitation of information flows requires a solution to improve overall performance.\"\n  ],\n  \"objectives\": [\n    \"Enhance e-marketing and e-commerce capabilities through strategic investments in business intelligence.\",\n    \"Achieve vertical integration to optimize the utilization of information flows.\"\n  ],\n  \"methods\": [\n    \"Implement business intelligence solutions to support e-marketing and e-commerce development.\",\n    \"Realize vertical integration to streamline information flow exploitation.\"\n  ],\n  \"results\": [],\n  \"research_subject\": \"Optimization of e-marketing, e-commerce, and information flow exploitation through business intelligence and vertical integration\"\n}\n```",
+  "openai_raw": "Output:\n\n```json\n{\n  \"motivations\": [\n    \"There is a need for investments in Business Intelligence (BI) to enhance e-marketing and e-commerce development.\",\n    \"Optimization of information flows through vertical integration is required.\"\n  ],\n  \"objectives\": [\n    \"Invest in Business Intelligence for the development of e-marketing and e-commerce.\",\n    \"Achieve vertical integration to optimize the exploitation of information flows.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Investments in Business Intelligence for e-marketing and e-commerce development and vertical integration for information flow optimization\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to enhance e-marketing and e-commerce capabilities through better data utilization and business intelligence.\",\n    \"Organizations require improved integration systems to optimize the exploitation of information flows across different business processes.\"\n  ],\n  \"objectives\": [\n    \"Develop and implement business intelligence investments to strengthen e-marketing and e-commerce development.\",\n    \"Achieve vertical integration to optimize the exploitation and management of information flows.\"\n  ],\n  \"methods\": [\n    \"Implement business intelligence systems and tools for e-marketing and e-commerce applications.\",\n    \"Develop vertical integration strategies to streamline information flow processes.\"\n  ],\n  \"results\": [\n    \"Enhanced e-marketing and e-commerce capabilities through improved business intelligence infrastructure.\",\n    \"Optimized information flow management through successful vertical integration implementation.\"\n  ],\n  \"research_subject\": \"Business intelligence implementation for e-commerce and vertical integration of information flows\"\n}\n```"
+}

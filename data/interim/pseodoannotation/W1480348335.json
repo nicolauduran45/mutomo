@@ -1,0 +1,71 @@
+{
+  "index": 179,
+  "title": "Anode Baking Process Improvement at ALRO",
+  "abstract": "Along with the partial refractory refurbishment of their three anode baking furnaces, ALRO wanted to reduce their consumption of natural gas and achieve complete combustion of the volatile compounds. Fives Solios proposed its process control expertise and up-to-date technology to upgrade the existing Firing Control System. Advanced software along with CO analysers and high velocity gas injectors were implemented for better combustion control. Port Sealing Ramp and low pressure drop dampers were provided to improve the operating conditions of the furnaces. Additionally, baking profile adjustments, based on CO continuous measurement and balance between the draft and the thermal demand in the heating zones, were jointly conducted by ALRO and Fives Solios resulting in a sustainable reduction of the energy consumption and improved combustion of the volatile compounds while maintaining a consistent anode quality.",
+  "llama_json": {
+    "motivations": [
+      "ALRO aimed to reduce their consumption of natural gas in the anode baking process.",
+      "There was a need to achieve complete combustion of volatile compounds during the anode baking process."
+    ],
+    "objectives": [
+      "Improve the anode baking process by upgrading the existing Firing Control System.",
+      "Achieve better combustion control and reduce energy consumption while maintaining consistent anode quality."
+    ],
+    "methods": [
+      "Implement advanced software, CO analysers, and high velocity gas injectors for enhanced combustion control.",
+      "Utilize Port Sealing Ramp and low pressure drop dampers to improve furnace operating conditions.",
+      "Conduct baking profile adjustments based on continuous CO measurement and balance between draft and thermal demand."
+    ],
+    "results": [
+      "Sustainably reduce energy consumption in the anode baking process.",
+      "Improve combustion of volatile compounds while maintaining consistent anode quality."
+    ],
+    "research_subject": "Improvement of the anode baking process through advanced process control and technology upgrades"
+  },
+  "openai_json": {
+    "motivations": [
+      "ALRO seeks to reduce natural gas consumption and achieve complete combustion of volatile compounds in their anode baking furnaces.",
+      "There is a need to improve the operating conditions of the furnaces."
+    ],
+    "objectives": [
+      "Upgrade the existing Firing Control System with advanced software and technology for better combustion control.",
+      "Implement baking profile adjustments to balance the draft and thermal demand in the heating zones.",
+      "Achieve a sustainable reduction in energy consumption and improved combustion while maintaining consistent anode quality."
+    ],
+    "methods": [
+      "Use advanced software, CO analysers, and high velocity gas injectors for better combustion control.",
+      "Implement Port Sealing Ramp and low pressure drop dampers to improve furnace operating conditions.",
+      "Conduct baking profile adjustments based on continuous CO measurement."
+    ],
+    "results": [
+      "Reduced consumption of natural gas and improved combustion of volatile compounds.",
+      "Improved operating conditions of the anode baking furnaces.",
+      "Maintained consistent anode quality while reducing energy consumption."
+    ],
+    "research_subject": "Improvement of anode baking process at ALRO"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "ALRO needed to reduce natural gas consumption in their anode baking furnaces to improve energy efficiency and reduce operational costs.",
+      "The company sought to achieve complete combustion of volatile compounds to minimize environmental impact and improve process efficiency."
+    ],
+    "objectives": [
+      "Upgrade the existing Firing Control System to improve combustion control and reduce natural gas consumption.",
+      "Achieve complete combustion of volatile compounds while maintaining consistent anode quality."
+    ],
+    "methods": [
+      "Implementation of advanced software with CO analyzers and high velocity gas injectors for enhanced combustion control.",
+      "Installation of Port Sealing Ramp and low pressure drop dampers to optimize furnace operating conditions.",
+      "Adjustment of baking profiles based on continuous CO measurement and balance between draft and thermal demand in heating zones."
+    ],
+    "results": [
+      "Achieved sustainable reduction in energy consumption through improved combustion control.",
+      "Improved combustion of volatile compounds while maintaining consistent anode quality.",
+      "Enhanced overall efficiency of the anode baking process through optimized operating conditions."
+    ],
+    "research_subject": "Industrial process optimization for anode baking furnaces"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"ALRO aimed to reduce their consumption of natural gas in the anode baking process.\",\n    \"There was a need to achieve complete combustion of volatile compounds during the anode baking process.\"\n  ],\n  \"objectives\": [\n    \"Improve the anode baking process by upgrading the existing Firing Control System.\",\n    \"Achieve better combustion control and reduce energy consumption while maintaining consistent anode quality.\"\n  ],\n  \"methods\": [\n    \"Implement advanced software, CO analysers, and high velocity gas injectors for enhanced combustion control.\",\n    \"Utilize Port Sealing Ramp and low pressure drop dampers to improve furnace operating conditions.\",\n    \"Conduct baking profile adjustments based on continuous CO measurement and balance between draft and thermal demand.\"\n  ],\n  \"results\": [\n    \"Sustainably reduce energy consumption in the anode baking process.\",\n    \"Improve combustion of volatile compounds while maintaining consistent anode quality.\"\n  ],\n  \"research_subject\": \"Improvement of the anode baking process through advanced process control and technology upgrades\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"ALRO seeks to reduce natural gas consumption and achieve complete combustion of volatile compounds in their anode baking furnaces.\",\n    \"There is a need to improve the operating conditions of the furnaces.\"\n  ],\n  \"objectives\": [\n    \"Upgrade the existing Firing Control System with advanced software and technology for better combustion control.\",\n    \"Implement baking profile adjustments to balance the draft and thermal demand in the heating zones.\",\n    \"Achieve a sustainable reduction in energy consumption and improved combustion while maintaining consistent anode quality.\"\n  ],\n  \"methods\": [\n    \"Use advanced software, CO analysers, and high velocity gas injectors for better combustion control.\",\n    \"Implement Port Sealing Ramp and low pressure drop dampers to improve furnace operating conditions.\",\n    \"Conduct baking profile adjustments based on continuous CO measurement.\"\n  ],\n  \"results\": [\n    \"Reduced consumption of natural gas and improved combustion of volatile compounds.\",\n    \"Improved operating conditions of the anode baking furnaces.\",\n    \"Maintained consistent anode quality while reducing energy consumption.\"\n  ],\n  \"research_subject\": \"Improvement of anode baking process at ALRO\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"ALRO needed to reduce natural gas consumption in their anode baking furnaces to improve energy efficiency and reduce operational costs.\",\n    \"The company sought to achieve complete combustion of volatile compounds to minimize environmental impact and improve process efficiency.\"\n  ],\n  \"objectives\": [\n    \"Upgrade the existing Firing Control System to improve combustion control and reduce natural gas consumption.\",\n    \"Achieve complete combustion of volatile compounds while maintaining consistent anode quality.\"\n  ],\n  \"methods\": [\n    \"Implementation of advanced software with CO analyzers and high velocity gas injectors for enhanced combustion control.\",\n    \"Installation of Port Sealing Ramp and low pressure drop dampers to optimize furnace operating conditions.\",\n    \"Adjustment of baking profiles based on continuous CO measurement and balance between draft and thermal demand in heating zones.\"\n  ],\n  \"results\": [\n    \"Achieved sustainable reduction in energy consumption through improved combustion control.\",\n    \"Improved combustion of volatile compounds while maintaining consistent anode quality.\",\n    \"Enhanced overall efficiency of the anode baking process through optimized operating conditions.\"\n  ],\n  \"research_subject\": \"Industrial process optimization for anode baking furnaces\"\n}\n```"
+}

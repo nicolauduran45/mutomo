@@ -1,0 +1,66 @@
+{
+  "index": 286,
+  "title": "COOKING CONTROL DEVICE, COOKING CONTROL SYSTEM AND COMPUTER PROGRAM PRODUCT",
+  "abstract": "The present invention relates to a cooking control device that comprises sensors (120) and a communication unit (145) to communicate with a display processing device (170). In this manner, taste values of the cooking substance reflecting the current status of the cooking process can be compared with pre-stored taste values representative of a desired cooking result and seasoning advice according to a recipe can be established and presented to a user to converge the cooking status with the desired cooking result.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for real-time monitoring and control of cooking processes to achieve desired results.",
+      "Users require guidance on seasoning and adjusting cooking parameters to match pre-defined recipes."
+    ],
+    "objectives": [
+      "Develop a cooking control device that integrates sensors and communication capabilities to monitor and adjust cooking processes.",
+      "Provide users with real-time seasoning advice and guidance to achieve desired cooking results based on pre-stored recipes."
+    ],
+    "methods": [
+      "Utilize sensors to monitor the cooking process and communicate with a display processing device.",
+      "Compare real-time taste values with pre-stored values to generate seasoning advice and adjust cooking parameters."
+    ],
+    "results": [
+      "Enable users to achieve consistent and desired cooking results through real-time monitoring and guidance.",
+      "Enhance the cooking experience by providing personalized seasoning advice and adjustments."
+    ],
+    "research_subject": "Development of a cooking control device for real-time monitoring and guidance of cooking processes"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a system that can monitor the cooking process and provide real-time feedback to achieve desired taste results.",
+      "Current cooking methods may not always yield the desired taste, indicating a need for a more controlled and guided approach."
+    ],
+    "objectives": [
+      "Develop a cooking control device that uses sensors and communication units to monitor and guide the cooking process.",
+      "Provide real-time seasoning advice to users based on the comparison of current and desired taste values."
+    ],
+    "methods": [
+      "Use sensors to monitor the taste values of the cooking substance during the cooking process.",
+      "Compare the current taste values with pre-stored taste values representative of a desired cooking result.",
+      "Establish and present seasoning advice to the user through a communication unit and display processing device."
+    ],
+    "results": [
+      "Enable users to achieve desired cooking results by providing real-time feedback and seasoning advice.",
+      "Improve the consistency and quality of cooking outcomes by converging the cooking status with the desired result."
+    ],
+    "research_subject": "Development of a cooking control device for guided and controlled cooking"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Cooking outcomes often deviate from desired results due to lack of real-time feedback on taste parameters during the cooking process.",
+      "Home cooks need guidance to adjust seasonings and achieve recipe-specific taste profiles."
+    ],
+    "objectives": [
+      "Develop a cooking control system that monitors taste values in real-time and compares them with target values for desired cooking results.",
+      "Provide automated seasoning advice to help users achieve recipe-specific taste profiles."
+    ],
+    "methods": [
+      "Utilize sensors to measure taste values of cooking substances during the cooking process.",
+      "Implement a communication system between the cooking control device and a display processing device to present real-time feedback and recommendations."
+    ],
+    "results": [
+      "Enable users to achieve more consistent and desired cooking results through real-time taste monitoring and guidance.",
+      "Improve cooking outcomes by providing automated seasoning adjustments based on sensor data and recipe requirements."
+    ],
+    "research_subject": "Real-time cooking control system with taste monitoring and seasoning guidance"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for real-time monitoring and control of cooking processes to achieve desired results.\",\n    \"Users require guidance on seasoning and adjusting cooking parameters to match pre-defined recipes.\"\n  ],\n  \"objectives\": [\n    \"Develop a cooking control device that integrates sensors and communication capabilities to monitor and adjust cooking processes.\",\n    \"Provide users with real-time seasoning advice and guidance to achieve desired cooking results based on pre-stored recipes.\"\n  ],\n  \"methods\": [\n    \"Utilize sensors to monitor the cooking process and communicate with a display processing device.\",\n    \"Compare real-time taste values with pre-stored values to generate seasoning advice and adjust cooking parameters.\"\n  ],\n  \"results\": [\n    \"Enable users to achieve consistent and desired cooking results through real-time monitoring and guidance.\",\n    \"Enhance the cooking experience by providing personalized seasoning advice and adjustments.\"\n  ],\n  \"research_subject\": \"Development of a cooking control device for real-time monitoring and guidance of cooking processes\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a system that can monitor the cooking process and provide real-time feedback to achieve desired taste results.\",\n    \"Current cooking methods may not always yield the desired taste, indicating a need for a more controlled and guided approach.\"\n  ],\n  \"objectives\": [\n    \"Develop a cooking control device that uses sensors and communication units to monitor and guide the cooking process.\",\n    \"Provide real-time seasoning advice to users based on the comparison of current and desired taste values.\"\n  ],\n  \"methods\": [\n    \"Use sensors to monitor the taste values of the cooking substance during the cooking process.\",\n    \"Compare the current taste values with pre-stored taste values representative of a desired cooking result.\",\n    \"Establish and present seasoning advice to the user through a communication unit and display processing device.\"\n  ],\n  \"results\": [\n    \"Enable users to achieve desired cooking results by providing real-time feedback and seasoning advice.\",\n    \"Improve the consistency and quality of cooking outcomes by converging the cooking status with the desired result.\"\n  ],\n  \"research_subject\": \"Development of a cooking control device for guided and controlled cooking\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Cooking outcomes often deviate from desired results due to lack of real-time feedback on taste parameters during the cooking process.\",\n    \"Home cooks need guidance to adjust seasonings and achieve recipe-specific taste profiles.\"\n  ],\n  \"objectives\": [\n    \"Develop a cooking control system that monitors taste values in real-time and compares them with target values for desired cooking results.\",\n    \"Provide automated seasoning advice to help users achieve recipe-specific taste profiles.\"\n  ],\n  \"methods\": [\n    \"Utilize sensors to measure taste values of cooking substances during the cooking process.\",\n    \"Implement a communication system between the cooking control device and a display processing device to present real-time feedback and recommendations.\"\n  ],\n  \"results\": [\n    \"Enable users to achieve more consistent and desired cooking results through real-time taste monitoring and guidance.\",\n    \"Improve cooking outcomes by providing automated seasoning adjustments based on sensor data and recipe requirements.\"\n  ],\n  \"research_subject\": \"Real-time cooking control system with taste monitoring and seasoning guidance\"\n}\n```"
+}

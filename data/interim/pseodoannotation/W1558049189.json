@@ -1,0 +1,62 @@
+{
+  "index": 93,
+  "title": "QUANTITATION OF 17 β-ESTRADIOL IN RABBIT PLASMA BY HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY WITH FLUORESCENCE DETECTION",
+  "abstract": "A new method was developed for the determination of 17 β-estradiol in rabbit plasma by reversed-phase high performance liquid chromatography (RP-HPLC) with fluorescence (FL) detection. The method employed one-step extraction of 17 β-estradiol from plasma matrix with a mixture of water and ethylacetate (1.9:5, v/v) using estriol as an internal standard. The mobile phase consisted of a mixture of metanol and water (70:30, v/v) flowing at a flow rate of 1.0 mL min−1. Calibration curve was linear between concentration range of 125–6000 ng mL−1. Average recovery of 17 β-estradiol and the internal standard from the biological matrix was more than 94.9 and 92.5%, respectively. The intra-day and inter-day precision and accuracy were between 3.74–8.12 and 3.72–8.80%, respectively. Also, the method was successfully applied to determine of 17 β-estradiol in New Zealand white rabbits.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a reliable and accurate method to quantify 17 β-estradiol in rabbit plasma."
+    ],
+    "objectives": [
+      "Develop a new method for the determination of 17 β-estradiol in rabbit plasma using high-performance liquid chromatography with fluorescence detection."
+    ],
+    "methods": [
+      "Employ reversed-phase high-performance liquid chromatography with fluorescence detection for the quantitation of 17 β-estradiol.",
+      "Use a one-step extraction process with a mixture of water and ethylacetate and estriol as an internal standard."
+    ],
+    "results": [
+      "Achieve a linear calibration curve between 125–6000 ng mL−1 with high recovery rates of 17 β-estradiol and the internal standard.",
+      "Demonstrate good intra-day and inter-day precision and accuracy of the method."
+    ],
+    "research_subject": "Quantitation of 17 β-estradiol in rabbit plasma using high-performance liquid chromatography"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a new method to determine 17 β-estradiol in rabbit plasma."
+    ],
+    "objectives": [
+      "Develop a method for the quantitation of 17 β-estradiol in rabbit plasma using reversed-phase high performance liquid chromatography with fluorescence detection."
+    ],
+    "methods": [
+      "Use one-step extraction of 17 β-estradiol from plasma matrix with a mixture of water and ethylacetate, using estriol as an internal standard.",
+      "Employ a mobile phase consisting of a mixture of metanol and water flowing at a specific rate.",
+      "Apply the developed method to determine 17 β-estradiol in New Zealand white rabbits."
+    ],
+    "results": [
+      "Achieved a linear calibration curve between a specific concentration range.",
+      "Obtained an average recovery of 17 β-estradiol and the internal standard from the biological matrix of more than 94.9 and 92.5%, respectively.",
+      "Ensured the intra-day and inter-day precision and accuracy were within acceptable ranges."
+    ],
+    "research_subject": "Quantitation of 17 β-estradiol in rabbit plasma using high-performance liquid chromatography with fluorescence detection"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for accurate and efficient methods to quantify 17 β-estradiol in biological samples for pharmacological and physiological studies."
+    ],
+    "objectives": [
+      "Develop a new reversed-phase high-performance liquid chromatography method with fluorescence detection for determining 17 β-estradiol in rabbit plasma."
+    ],
+    "methods": [
+      "Employ one-step extraction of 17 β-estradiol from plasma using water and ethylacetate mixture with estriol as internal standard.",
+      "Use reversed-phase HPLC with fluorescence detection and a mobile phase of methanol and water."
+    ],
+    "results": [
+      "Achieved linear calibration curve between 125-6000 ng mL−1 with average recovery rates exceeding 94.9% for 17 β-estradiol.",
+      "Demonstrated high precision and accuracy with intra-day and inter-day variations below 8.80%.",
+      "Successfully applied the method to determine 17 β-estradiol levels in New Zealand white rabbits."
+    ],
+    "research_subject": "Quantification of 17 β-estradiol in rabbit plasma using HPLC with fluorescence detection"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a reliable and accurate method to quantify 17 β-estradiol in rabbit plasma.\"\n  ],\n  \"objectives\": [\n    \"Develop a new method for the determination of 17 β-estradiol in rabbit plasma using high-performance liquid chromatography with fluorescence detection.\"\n  ],\n  \"methods\": [\n    \"Employ reversed-phase high-performance liquid chromatography with fluorescence detection for the quantitation of 17 β-estradiol.\",\n    \"Use a one-step extraction process with a mixture of water and ethylacetate and estriol as an internal standard.\"\n  ],\n  \"results\": [\n    \"Achieve a linear calibration curve between 125–6000 ng mL−1 with high recovery rates of 17 β-estradiol and the internal standard.\",\n    \"Demonstrate good intra-day and inter-day precision and accuracy of the method.\"\n  ],\n  \"research_subject\": \"Quantitation of 17 β-estradiol in rabbit plasma using high-performance liquid chromatography\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a new method to determine 17 β-estradiol in rabbit plasma.\"\n  ],\n  \"objectives\": [\n    \"Develop a method for the quantitation of 17 β-estradiol in rabbit plasma using reversed-phase high performance liquid chromatography with fluorescence detection.\"\n  ],\n  \"methods\": [\n    \"Use one-step extraction of 17 β-estradiol from plasma matrix with a mixture of water and ethylacetate, using estriol as an internal standard.\",\n    \"Employ a mobile phase consisting of a mixture of metanol and water flowing at a specific rate.\",\n    \"Apply the developed method to determine 17 β-estradiol in New Zealand white rabbits.\"\n  ],\n  \"results\": [\n    \"Achieved a linear calibration curve between a specific concentration range.\",\n    \"Obtained an average recovery of 17 β-estradiol and the internal standard from the biological matrix of more than 94.9 and 92.5%, respectively.\",\n    \"Ensured the intra-day and inter-day precision and accuracy were within acceptable ranges.\"\n  ],\n  \"research_subject\": \"Quantitation of 17 β-estradiol in rabbit plasma using high-performance liquid chromatography with fluorescence detection\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for accurate and efficient methods to quantify 17 β-estradiol in biological samples for pharmacological and physiological studies.\"\n  ],\n  \"objectives\": [\n    \"Develop a new reversed-phase high-performance liquid chromatography method with fluorescence detection for determining 17 β-estradiol in rabbit plasma.\"\n  ],\n  \"methods\": [\n    \"Employ one-step extraction of 17 β-estradiol from plasma using water and ethylacetate mixture with estriol as internal standard.\",\n    \"Use reversed-phase HPLC with fluorescence detection and a mobile phase of methanol and water.\"\n  ],\n  \"results\": [\n    \"Achieved linear calibration curve between 125-6000 ng mL−1 with average recovery rates exceeding 94.9% for 17 β-estradiol.\",\n    \"Demonstrated high precision and accuracy with intra-day and inter-day variations below 8.80%.\",\n    \"Successfully applied the method to determine 17 β-estradiol levels in New Zealand white rabbits.\"\n  ],\n  \"research_subject\": \"Quantification of 17 β-estradiol in rabbit plasma using HPLC with fluorescence detection\"\n}\n```"
+}

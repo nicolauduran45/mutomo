@@ -1,0 +1,67 @@
+{
+  "index": 189,
+  "title": "How limiting factors drive agricultural adaptation to climate change",
+  "abstract": "Abstract Consensus is growing that agriculture is vulnerable to climate change and adaptation responses are necessary to minimize impacts. Nonetheless, the diversity of potential impacts, agro-ecological contexts and regional capacity for change make understanding adaptation behaviors challenging and ensure that climate change adaptation will not be the same across all contexts. Considering this heterogeneity, this paper aims to develop a theoretical approach to connect agro-ecosystem diversity with farmer decision-making in the context of agricultural adaptation to climate change. We combine the ecological principle of Liebig’s Law of the Minimum with the Psychological Distance Theory to suggest how adaptation behaviors vary across regional contexts. We argue with our limiting factors hypothesis that limiting factors within a farm system (water or temperature impacts) influence the adoption of adaptation practices differently across regions and farm systems. Limiting factors varied across farm systems and regions, based on historical climate changes, agro-ecological contexts, infrastructure and adaptation capacity. Using farmer survey data from New Zealand we show that limiting factors mediate the effect of past climate experiences on the adoption of adaptation strategies differently in two regions with water acting as a limiting factor in Hawke’s Bay and water and temperature as a limiting factor in Marlborough. This suggests that farmers perceive and respond to climate change in part due to their personal experiences with climate change and the limiting factors within their system. Such results are relevant for the development of regional adaptation strategies, effective policies and targeted climate change communication.",
+  "llama_json": {
+    "motivations": [
+      "Agriculture is vulnerable to climate change, and understanding adaptation behaviors is crucial to minimize impacts.",
+      "The diversity of potential impacts, agro-ecological contexts, and regional capacity for change make it challenging to develop effective adaptation strategies."
+    ],
+    "objectives": [
+      "Develop a theoretical approach to connect agro-ecosystem diversity with farmer decision-making in the context of agricultural adaptation to climate change.",
+      "Understand how limiting factors within a farm system influence the adoption of adaptation practices across regions and farm systems."
+    ],
+    "methods": [
+      "Combine the ecological principle of Liebig’s Law of the Minimum with the Psychological Distance Theory to explain adaptation behaviors.",
+      "Analyze farmer survey data from New Zealand to examine the effect of limiting factors on the adoption of adaptation strategies."
+    ],
+    "results": [
+      "Limiting factors within a farm system mediate the effect of past climate experiences on the adoption of adaptation strategies.",
+      "Farmers perceive and respond to climate change based on their personal experiences and the limiting factors within their system.",
+      "Understanding limiting factors can inform the development of regional adaptation strategies, effective policies, and targeted climate change communication."
+    ],
+    "research_subject": "Agricultural adaptation to climate change and the role of limiting factors in farmer decision-making"
+  },
+  "openai_json": {
+    "motivations": [
+      "Agriculture is increasingly vulnerable to climate change, necessitating adaptation responses to minimize impacts.",
+      "The diversity of potential impacts, agro-ecological contexts, and regional capacities for change make understanding adaptation behaviors challenging."
+    ],
+    "objectives": [
+      "Develop a theoretical approach to connect agro-ecosystem diversity with farmer decision-making in the context of agricultural adaptation to climate change.",
+      "Understand how limiting factors within a farm system influence the adoption of adaptation practices across different regions and farm systems."
+    ],
+    "methods": [
+      "Combine the ecological principle of Liebig’s Law of the Minimum with the Psychological Distance Theory to analyze adaptation behaviors.",
+      "Use farmer survey data from New Zealand to examine how limiting factors mediate the effect of past climate experiences on the adoption of adaptation strategies."
+    ],
+    "results": [
+      "Identify that limiting factors, such as water and temperature, influence the adoption of adaptation practices differently across regions and farm systems.",
+      "Demonstrate that farmers' perceptions and responses to climate change are influenced by their personal experiences and the limiting factors within their system."
+    ],
+    "research_subject": "Agricultural adaptation to climate change in relation to agro-ecosystem diversity and farmer decision-making"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Agriculture is vulnerable to climate change, requiring adaptation responses that must account for diverse impacts, agro-ecological contexts, and regional capacities.",
+      "Understanding adaptation behaviors is challenging due to the heterogeneity of agricultural systems and the varying ways farmers perceive and respond to climate change."
+    ],
+    "objectives": [
+      "Develop a theoretical approach connecting agro-ecosystem diversity with farmer decision-making in climate change adaptation.",
+      "Examine how limiting factors within farm systems influence the adoption of adaptation practices across different regions."
+    ],
+    "methods": [
+      "Combine Liebig's Law of the Minimum with Psychological Distance Theory to create a limiting factors hypothesis.",
+      "Analyze farmer survey data from two regions in New Zealand to test how limiting factors mediate climate experiences and adaptation strategies."
+    ],
+    "results": [
+      "Water acts as a limiting factor in Hawke's Bay while both water and temperature are limiting factors in Marlborough, influencing adaptation strategies differently.",
+      "Farmers' adaptation behaviors are shaped by their personal experiences with climate change and the specific limiting factors in their systems.",
+      "The findings support the development of targeted regional adaptation strategies and climate change communication."
+    ],
+    "research_subject": "Agricultural adaptation to climate change driven by regional limiting factors"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Agriculture is vulnerable to climate change, and understanding adaptation behaviors is crucial to minimize impacts.\",\n    \"The diversity of potential impacts, agro-ecological contexts, and regional capacity for change make it challenging to develop effective adaptation strategies.\"\n  ],\n  \"objectives\": [\n    \"Develop a theoretical approach to connect agro-ecosystem diversity with farmer decision-making in the context of agricultural adaptation to climate change.\",\n    \"Understand how limiting factors within a farm system influence the adoption of adaptation practices across regions and farm systems.\"\n  ],\n  \"methods\": [\n    \"Combine the ecological principle of Liebig’s Law of the Minimum with the Psychological Distance Theory to explain adaptation behaviors.\",\n    \"Analyze farmer survey data from New Zealand to examine the effect of limiting factors on the adoption of adaptation strategies.\"\n  ],\n  \"results\": [\n    \"Limiting factors within a farm system mediate the effect of past climate experiences on the adoption of adaptation strategies.\",\n    \"Farmers perceive and respond to climate change based on their personal experiences and the limiting factors within their system.\",\n    \"Understanding limiting factors can inform the development of regional adaptation strategies, effective policies, and targeted climate change communication.\"\n  ],\n  \"research_subject\": \"Agricultural adaptation to climate change and the role of limiting factors in farmer decision-making\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Agriculture is increasingly vulnerable to climate change, necessitating adaptation responses to minimize impacts.\",\n    \"The diversity of potential impacts, agro-ecological contexts, and regional capacities for change make understanding adaptation behaviors challenging.\"\n  ],\n  \"objectives\": [\n    \"Develop a theoretical approach to connect agro-ecosystem diversity with farmer decision-making in the context of agricultural adaptation to climate change.\",\n    \"Understand how limiting factors within a farm system influence the adoption of adaptation practices across different regions and farm systems.\"\n  ],\n  \"methods\": [\n    \"Combine the ecological principle of Liebig’s Law of the Minimum with the Psychological Distance Theory to analyze adaptation behaviors.\",\n    \"Use farmer survey data from New Zealand to examine how limiting factors mediate the effect of past climate experiences on the adoption of adaptation strategies.\"\n  ],\n  \"results\": [\n    \"Identify that limiting factors, such as water and temperature, influence the adoption of adaptation practices differently across regions and farm systems.\",\n    \"Demonstrate that farmers' perceptions and responses to climate change are influenced by their personal experiences and the limiting factors within their system.\"\n  ],\n  \"research_subject\": \"Agricultural adaptation to climate change in relation to agro-ecosystem diversity and farmer decision-making\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Agriculture is vulnerable to climate change, requiring adaptation responses that must account for diverse impacts, agro-ecological contexts, and regional capacities.\",\n    \"Understanding adaptation behaviors is challenging due to the heterogeneity of agricultural systems and the varying ways farmers perceive and respond to climate change.\"\n  ],\n  \"objectives\": [\n    \"Develop a theoretical approach connecting agro-ecosystem diversity with farmer decision-making in climate change adaptation.\",\n    \"Examine how limiting factors within farm systems influence the adoption of adaptation practices across different regions.\"\n  ],\n  \"methods\": [\n    \"Combine Liebig's Law of the Minimum with Psychological Distance Theory to create a limiting factors hypothesis.\",\n    \"Analyze farmer survey data from two regions in New Zealand to test how limiting factors mediate climate experiences and adaptation strategies.\"\n  ],\n  \"results\": [\n    \"Water acts as a limiting factor in Hawke's Bay while both water and temperature are limiting factors in Marlborough, influencing adaptation strategies differently.\",\n    \"Farmers' adaptation behaviors are shaped by their personal experiences with climate change and the specific limiting factors in their systems.\",\n    \"The findings support the development of targeted regional adaptation strategies and climate change communication.\"\n  ],\n  \"research_subject\": \"Agricultural adaptation to climate change driven by regional limiting factors\"\n}\n```"
+}

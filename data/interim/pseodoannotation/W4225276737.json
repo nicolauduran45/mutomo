@@ -1,0 +1,64 @@
+{
+  "index": 99,
+  "title": "Vacunación contra SARS-CoV-2 y su relación con enfermedad y muerte por COVID-19 en Argentina",
+  "abstract": "<bold>Objetivo.</bold> Conocer la efectividad de la vacunación contra SARS-CoV-2 para prevenir el desarrollo de enfermedad y muerte por COVID-19 en Córdoba, Argentina, en el periodo enero-junio de 2021. <bold>Métodos.</bold> Se llevó a cabo un estudio de cohorte retrospectivo en 1 139 458 residentes en la provincia de Córdoba. Se construyeron modelos de regresión logística múltiple que relacionaron la vacunación con la infección por SARS-CoV-2 o la muerte por COVID-19, considerando comorbilidades y factores de riesgo de enfermedades crónicas y ajustando por sexo y edad. <bold>Resultados.</bold> El haber recibido una o dos dosis de vacuna en la población general redujo el riesgo de enfermar un 98,8% y 99,3%, respectivamente; y de morir un 83% y 96,5%, respectivamente. En quienes contrajeron COVID-19, la probabilidad de morir se redujo en 57% y 80%, respectivamente. En cuanto a la probabilidad de muerte, el riesgo aumentó a medida que aumentaba la edad y con la pertenencia al sexo masculino o la presencia de obesidad, hipertensión arterial o diabetes mellitus. <bold>Conclusión.</bold> La vacunación es efectiva y protege contra la posibilidad de contraer COVID-19, desarrollar enfermedad grave o morir. Presentar obesidad, hipertensión arterial o diabetes mellitus, en orden decreciente, aumentan el riesgo de morir.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the effectiveness of SARS-CoV-2 vaccination in preventing COVID-19 disease and death in Argentina."
+    ],
+    "objectives": [
+      "To determine the effectiveness of SARS-CoV-2 vaccination in preventing COVID-19 disease and death in Córdoba, Argentina, between January and June 2021."
+    ],
+    "methods": [
+      "A retrospective cohort study was conducted among 1,139,458 residents in Córdoba, Argentina.",
+      "Multiple logistic regression models were used to relate vaccination to SARS-CoV-2 infection or COVID-19 death, adjusting for comorbidities, risk factors, sex, and age."
+    ],
+    "results": [
+      "Receiving one or two doses of the vaccine significantly reduced the risk of COVID-19 disease and death in the general population.",
+      "Vaccination also reduced the probability of death among those who contracted COVID-19.",
+      "Age, male sex, obesity, hypertension, and diabetes mellitus were associated with an increased risk of death."
+    ],
+    "research_subject": "Effectiveness of SARS-CoV-2 vaccination in preventing COVID-19 disease and death in Argentina"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the effectiveness of the SARS-CoV-2 vaccination in preventing disease and death from COVID-19 in Córdoba, Argentina."
+    ],
+    "objectives": [
+      "To determine the effectiveness of the SARS-CoV-2 vaccination in preventing the development of disease and death from COVID-19 in Córdoba, Argentina, during the period January-June 2021."
+    ],
+    "methods": [
+      "A retrospective cohort study was conducted involving residents of the province of Córdoba.",
+      "Multiple logistic regression models were constructed to relate vaccination with SARS-CoV-2 infection or death from COVID-19, considering comorbidities and risk factors for chronic diseases and adjusting for sex and age."
+    ],
+    "results": [
+      "Receiving one or two doses of the vaccine in the general population reduced the risk of getting sick by 98.8% and 99.3%, respectively, and of dying by 83% and 96.5%, respectively.",
+      "In those who contracted COVID-19, the probability of dying was reduced by 57% and 80%, respectively.",
+      "The risk of death increased with increasing age and with male sex or the presence of obesity, hypertension or diabetes mellitus."
+    ],
+    "research_subject": "Effectiveness of SARS-CoV-2 vaccination in preventing disease and death from COVID-19 in Argentina"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The COVID-19 pandemic has caused significant morbidity and mortality worldwide, necessitating evaluation of vaccine effectiveness in preventing disease and death.",
+      "Understanding the real-world effectiveness of SARS-CoV-2 vaccination in specific populations is crucial for public health decision-making."
+    ],
+    "objectives": [
+      "Determine the effectiveness of SARS-CoV-2 vaccination in preventing COVID-19 disease and death in Córdoba, Argentina during January-June 2021.",
+      "Evaluate the relationship between vaccination status and COVID-19 outcomes while considering comorbidities and chronic disease risk factors."
+    ],
+    "methods": [
+      "Conducted a retrospective cohort study analyzing vaccination status and COVID-19 outcomes.",
+      "Developed multiple logistic regression models to assess the relationship between vaccination and SARS-CoV-2 infection or COVID-19 death, adjusting for sex, age, and comorbidities."
+    ],
+    "results": [
+      "One or two vaccine doses reduced the risk of disease by 98.8% and 99.3% respectively, and the risk of death by 83% and 96.5% respectively.",
+      "Among those who contracted COVID-19, vaccination reduced mortality probability by 57% with one dose and 80% with two doses.",
+      "Obesity, hypertension, and diabetes mellitus were identified as significant risk factors that increase mortality risk."
+    ],
+    "research_subject": "SARS-CoV-2 vaccine effectiveness against COVID-19 disease and death in Argentina"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the effectiveness of SARS-CoV-2 vaccination in preventing COVID-19 disease and death in Argentina.\"\n  ],\n  \"objectives\": [\n    \"To determine the effectiveness of SARS-CoV-2 vaccination in preventing COVID-19 disease and death in Córdoba, Argentina, between January and June 2021.\"\n  ],\n  \"methods\": [\n    \"A retrospective cohort study was conducted among 1,139,458 residents in Córdoba, Argentina.\",\n    \"Multiple logistic regression models were used to relate vaccination to SARS-CoV-2 infection or COVID-19 death, adjusting for comorbidities, risk factors, sex, and age.\"\n  ],\n  \"results\": [\n    \"Receiving one or two doses of the vaccine significantly reduced the risk of COVID-19 disease and death in the general population.\",\n    \"Vaccination also reduced the probability of death among those who contracted COVID-19.\",\n    \"Age, male sex, obesity, hypertension, and diabetes mellitus were associated with an increased risk of death.\"\n  ],\n  \"research_subject\": \"Effectiveness of SARS-CoV-2 vaccination in preventing COVID-19 disease and death in Argentina\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the effectiveness of the SARS-CoV-2 vaccination in preventing disease and death from COVID-19 in Córdoba, Argentina.\"\n  ],\n  \"objectives\": [\n    \"To determine the effectiveness of the SARS-CoV-2 vaccination in preventing the development of disease and death from COVID-19 in Córdoba, Argentina, during the period January-June 2021.\"\n  ],\n  \"methods\": [\n    \"A retrospective cohort study was conducted involving residents of the province of Córdoba.\",\n    \"Multiple logistic regression models were constructed to relate vaccination with SARS-CoV-2 infection or death from COVID-19, considering comorbidities and risk factors for chronic diseases and adjusting for sex and age.\"\n  ],\n  \"results\": [\n    \"Receiving one or two doses of the vaccine in the general population reduced the risk of getting sick by 98.8% and 99.3%, respectively, and of dying by 83% and 96.5%, respectively.\",\n    \"In those who contracted COVID-19, the probability of dying was reduced by 57% and 80%, respectively.\",\n    \"The risk of death increased with increasing age and with male sex or the presence of obesity, hypertension or diabetes mellitus.\"\n  ],\n  \"research_subject\": \"Effectiveness of SARS-CoV-2 vaccination in preventing disease and death from COVID-19 in Argentina\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The COVID-19 pandemic has caused significant morbidity and mortality worldwide, necessitating evaluation of vaccine effectiveness in preventing disease and death.\",\n    \"Understanding the real-world effectiveness of SARS-CoV-2 vaccination in specific populations is crucial for public health decision-making.\"\n  ],\n  \"objectives\": [\n    \"Determine the effectiveness of SARS-CoV-2 vaccination in preventing COVID-19 disease and death in Córdoba, Argentina during January-June 2021.\",\n    \"Evaluate the relationship between vaccination status and COVID-19 outcomes while considering comorbidities and chronic disease risk factors.\"\n  ],\n  \"methods\": [\n    \"Conducted a retrospective cohort study analyzing vaccination status and COVID-19 outcomes.\",\n    \"Developed multiple logistic regression models to assess the relationship between vaccination and SARS-CoV-2 infection or COVID-19 death, adjusting for sex, age, and comorbidities.\"\n  ],\n  \"results\": [\n    \"One or two vaccine doses reduced the risk of disease by 98.8% and 99.3% respectively, and the risk of death by 83% and 96.5% respectively.\",\n    \"Among those who contracted COVID-19, vaccination reduced mortality probability by 57% with one dose and 80% with two doses.\",\n    \"Obesity, hypertension, and diabetes mellitus were identified as significant risk factors that increase mortality risk.\"\n  ],\n  \"research_subject\": \"SARS-CoV-2 vaccine effectiveness against COVID-19 disease and death in Argentina\"\n}\n```"
+}

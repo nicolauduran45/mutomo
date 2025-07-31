@@ -1,0 +1,77 @@
+{
+  "index": 79,
+  "title": "Sustainable management of industrial heritage as a resource for urban development",
+  "abstract": "CONSIDER aims to develop sustainable management model (SMM) for industrial heritage sites (IHS) for the benefits of the local communities as a resource for strengthening collective identities, improving the urban landscape, promoting eco-friendly solutions, and contributing to the urban economy and a sustainablefuture of the city. It will investigate SMM for industrial heritage while exploring participatory governance models as a tool to better integrate IHS with European society. Deindustrialisation processes all around Europe give rise to social, economic and environmental problems that are resulting from structural change. Thus, there is an urgent need to find SMM to overcome these challenges. 3 research objectives are; i) To expand on what is considered as industrial heritage, how to safeguard them ii) To investigate the history of sites to identify most influential factors used to maximise the benefit iii) To explore inclusive governance and participatory models as a tool to better integrate industrial heritage with society. The innovative side of this model is its inclusive approach to the problem (regionally, sectorial, taking into consideration gender aspects, and its highlight on the exchange of knowledge, technology and labour). This novelcollaboration will be improved by through synergies, networking activities, organisation of workshop, summer school, webinars, and final conference to facilitate sharing of knowledge. The circular knowledge exchange is based on systematic and triple-helix approach between academia (universities), policymakers (municipalities), and practitioners (SME/NGO) that will contribute both in identifying problems and developing guidelines for their improvement. This research brings novelty in respect of geographic regions that previously were not sufficiently investigated and inventoried thus providing the basis for further comparative research undertakings and sustainability of the project outcomes in creation of new knowledge.",
+  "llama_json": {
+    "motivations": [
+      "Deindustrialization processes in Europe have led to social, economic, and environmental problems, necessitating sustainable management models for industrial heritage sites.",
+      "There is a need to strengthen collective identities, improve urban landscapes, and promote eco-friendly solutions through the management of industrial heritage sites.",
+      "Industrial heritage sites are not being effectively utilized as a resource for urban development and community benefit."
+    ],
+    "objectives": [
+      "Develop a sustainable management model for industrial heritage sites that benefits local communities and contributes to urban development.",
+      "Investigate participatory governance models to better integrate industrial heritage sites with European society.",
+      "Identify and safeguard industrial heritage sites, and explore inclusive governance models to maximize their benefits."
+    ],
+    "methods": [
+      "Conduct research on industrial heritage sites to identify influential factors and develop guidelines for their improvement.",
+      "Implement a triple-helix approach involving academia, policymakers, and practitioners to facilitate knowledge exchange and collaboration.",
+      "Organize workshops, summer schools, webinars, and conferences to share knowledge and promote networking among stakeholders."
+    ],
+    "results": [
+      "Develop a novel and inclusive sustainable management model for industrial heritage sites that promotes community engagement and urban development.",
+      "Contribute to the preservation and utilization of industrial heritage sites as a resource for strengthening collective identities and improving urban landscapes.",
+      "Provide a basis for further comparative research and ensure the sustainability of project outcomes through the creation of new knowledge."
+    ],
+    "research_subject": "Sustainable management of industrial heritage sites for urban development and community benefit"
+  },
+  "openai_json": {
+    "motivations": [
+      "Deindustrialization processes in Europe have led to social, economic, and environmental problems, necessitating sustainable management models for industrial heritage sites.",
+      "Industrial heritage sites can serve as resources for strengthening collective identities, improving urban landscapes, promoting eco-friendly solutions, and contributing to urban economies.",
+      "There is a need to better integrate industrial heritage sites with European society through inclusive governance and participatory models."
+    ],
+    "objectives": [
+      "Develop a sustainable management model for industrial heritage sites that benefits local communities and contributes to urban development.",
+      "Investigate the history of industrial heritage sites to identify influential factors that maximize their benefit.",
+      "Explore inclusive governance and participatory models to better integrate industrial heritage sites with society."
+    ],
+    "methods": [
+      "Develop an inclusive model that considers regional, sectorial, and gender aspects, and emphasizes knowledge and technology exchange.",
+      "Organize workshops, summer schools, webinars, and conferences to facilitate knowledge sharing.",
+      "Implement a triple-helix approach for circular knowledge exchange involving academia, policymakers, and practitioners."
+    ],
+    "results": [
+      "Creation of a sustainable management model for industrial heritage sites that can be integrated into urban development and contribute to societal benefits.",
+      "Identification of influential factors and best practices for maximizing the benefit of industrial heritage sites.",
+      "Development of inclusive governance and participatory models for better societal integration of industrial heritage sites."
+    ],
+    "research_subject": "Sustainable management of industrial heritage for urban development"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Deindustrialization processes across Europe create social, economic, and environmental challenges that require sustainable management solutions.",
+      "Industrial heritage sites need better integration with local communities to strengthen collective identities and contribute to urban development.",
+      "There is insufficient investigation and inventory of industrial heritage in certain geographic regions, limiting comparative research opportunities."
+    ],
+    "objectives": [
+      "Develop a sustainable management model for industrial heritage sites that benefits local communities and contributes to urban economy and sustainability.",
+      "Expand understanding of what constitutes industrial heritage and investigate historical factors to maximize societal benefits.",
+      "Explore inclusive governance and participatory models to better integrate industrial heritage with European society."
+    ],
+    "methods": [
+      "Implement a triple-helix approach involving collaboration between academia, policymakers, and practitioners.",
+      "Organize knowledge exchange activities including workshops, summer schools, webinars, and conferences.",
+      "Apply an inclusive approach considering regional, sectorial, and gender aspects in the research framework."
+    ],
+    "results": [
+      "Create guidelines for sustainable management of industrial heritage sites that address deindustrialization challenges.",
+      "Strengthen collective identities and improve urban landscapes through better integration of industrial heritage.",
+      "Provide a foundation for comparative research through investigation of previously understudied geographic regions."
+    ],
+    "research_subject": "Sustainable management models for industrial heritage sites as urban development resources"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Deindustrialization processes in Europe have led to social, economic, and environmental problems, necessitating sustainable management models for industrial heritage sites.\",\n    \"There is a need to strengthen collective identities, improve urban landscapes, and promote eco-friendly solutions through the management of industrial heritage sites.\",\n    \"Industrial heritage sites are not being effectively utilized as a resource for urban development and community benefit.\"\n  ],\n  \"objectives\": [\n    \"Develop a sustainable management model for industrial heritage sites that benefits local communities and contributes to urban development.\",\n    \"Investigate participatory governance models to better integrate industrial heritage sites with European society.\",\n    \"Identify and safeguard industrial heritage sites, and explore inclusive governance models to maximize their benefits.\"\n  ],\n  \"methods\": [\n    \"Conduct research on industrial heritage sites to identify influential factors and develop guidelines for their improvement.\",\n    \"Implement a triple-helix approach involving academia, policymakers, and practitioners to facilitate knowledge exchange and collaboration.\",\n    \"Organize workshops, summer schools, webinars, and conferences to share knowledge and promote networking among stakeholders.\"\n  ],\n  \"results\": [\n    \"Develop a novel and inclusive sustainable management model for industrial heritage sites that promotes community engagement and urban development.\",\n    \"Contribute to the preservation and utilization of industrial heritage sites as a resource for strengthening collective identities and improving urban landscapes.\",\n    \"Provide a basis for further comparative research and ensure the sustainability of project outcomes through the creation of new knowledge.\"\n  ],\n  \"research_subject\": \"Sustainable management of industrial heritage sites for urban development and community benefit\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Deindustrialization processes in Europe have led to social, economic, and environmental problems, necessitating sustainable management models for industrial heritage sites.\",\n    \"Industrial heritage sites can serve as resources for strengthening collective identities, improving urban landscapes, promoting eco-friendly solutions, and contributing to urban economies.\",\n    \"There is a need to better integrate industrial heritage sites with European society through inclusive governance and participatory models.\"\n  ],\n  \"objectives\": [\n    \"Develop a sustainable management model for industrial heritage sites that benefits local communities and contributes to urban development.\",\n    \"Investigate the history of industrial heritage sites to identify influential factors that maximize their benefit.\",\n    \"Explore inclusive governance and participatory models to better integrate industrial heritage sites with society.\"\n  ],\n  \"methods\": [\n    \"Develop an inclusive model that considers regional, sectorial, and gender aspects, and emphasizes knowledge and technology exchange.\",\n    \"Organize workshops, summer schools, webinars, and conferences to facilitate knowledge sharing.\",\n    \"Implement a triple-helix approach for circular knowledge exchange involving academia, policymakers, and practitioners.\"\n  ],\n  \"results\": [\n    \"Creation of a sustainable management model for industrial heritage sites that can be integrated into urban development and contribute to societal benefits.\",\n    \"Identification of influential factors and best practices for maximizing the benefit of industrial heritage sites.\",\n    \"Development of inclusive governance and participatory models for better societal integration of industrial heritage sites.\"\n  ],\n  \"research_subject\": \"Sustainable management of industrial heritage for urban development\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Deindustrialization processes across Europe create social, economic, and environmental challenges that require sustainable management solutions.\",\n    \"Industrial heritage sites need better integration with local communities to strengthen collective identities and contribute to urban development.\",\n    \"There is insufficient investigation and inventory of industrial heritage in certain geographic regions, limiting comparative research opportunities.\"\n  ],\n  \"objectives\": [\n    \"Develop a sustainable management model for industrial heritage sites that benefits local communities and contributes to urban economy and sustainability.\",\n    \"Expand understanding of what constitutes industrial heritage and investigate historical factors to maximize societal benefits.\",\n    \"Explore inclusive governance and participatory models to better integrate industrial heritage with European society.\"\n  ],\n  \"methods\": [\n    \"Implement a triple-helix approach involving collaboration between academia, policymakers, and practitioners.\",\n    \"Organize knowledge exchange activities including workshops, summer schools, webinars, and conferences.\",\n    \"Apply an inclusive approach considering regional, sectorial, and gender aspects in the research framework.\"\n  ],\n  \"results\": [\n    \"Create guidelines for sustainable management of industrial heritage sites that address deindustrialization challenges.\",\n    \"Strengthen collective identities and improve urban landscapes through better integration of industrial heritage.\",\n    \"Provide a foundation for comparative research through investigation of previously understudied geographic regions.\"\n  ],\n  \"research_subject\": \"Sustainable management models for industrial heritage sites as urban development resources\"\n}\n```"
+}

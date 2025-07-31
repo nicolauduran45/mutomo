@@ -1,0 +1,75 @@
+{
+  "index": 103,
+  "title": "Advanced analytics platform for stroke patients rehabilitation",
+  "abstract": "Annually, 16 million people worldwide suffer a stroke. From these, approximately 6.5 millions are left with some degree of physical impairment that will require long-term intensive and effective motor rehabilitation programs. Current traditional rehabilitation services are costly and highly dependent on (scarce) specialized human resources At SWORD Health we believe that the solution for this problem is in the wise combination of novel neuroscience-driven therapeutic methods with effective technologies that facilitate the dissemination of care and the use of all the knowledge produced in the rehabilitation of a large network of patients. Pursuing this vision, we have developed an innovative system that allows the sustainable delivery of a more efficient motor rehabilitation to stroke patients, providing a rich source of data for clinicians and decision makers. The SWORD system was specifically designed to be used by the patient at the hospital or at home, with little or no supervision, extending the therapeutic footprint and empowering the patient with his rehabilitation. The proposed system enables patients to accelerate their recovery with a more intensive and a higher quality therapy. At the same time, SWORD incorporates data mining algorithms specifically designed so that clinicians get continuous access to valuable data and advanced analytics, in order to coordinate teams, improve care, accelerate recovery and reduce time to achieve functional outcomes. For rehabilitation centres, the SWORD system allows for a higher profit margin per therapy unit through a more efficient allocation of specialized human resources. The SWORD project falls under the scope of the Call ICT-37-2014 - topic: Open Disruptive Innovation Scheme. This is because the present project focus on an early-stage, high risk, innovative SME proposing an innovative ICT system that reinvents and ultimately disrupt the motor rehabilitation industry.",
+  "llama_json": {
+    "motivations": [
+      "Millions of stroke patients worldwide require long-term intensive motor rehabilitation, but current traditional services are costly and dependent on scarce specialized human resources.",
+      "There is a need for more efficient and accessible motor rehabilitation programs that can accelerate recovery and improve patient outcomes."
+    ],
+    "objectives": [
+      "Develop an innovative system that enables sustainable delivery of efficient motor rehabilitation to stroke patients, both in hospital and at-home settings.",
+      "Empower patients to take control of their rehabilitation through a user-friendly system with minimal supervision required.",
+      "Provide clinicians and decision-makers with valuable data and advanced analytics to improve care coordination, accelerate recovery, and reduce time to achieve functional outcomes."
+    ],
+    "methods": [
+      "Combine novel neuroscience-driven therapeutic methods with effective technologies to facilitate care dissemination and knowledge sharing.",
+      "Design a system incorporating data mining algorithms for continuous access to valuable data and advanced analytics.",
+      "Implement a user-friendly system for patients to use at hospital or home, with minimal supervision required."
+    ],
+    "results": [
+      "Accelerate recovery and improve patient outcomes through more intensive and higher-quality therapy.",
+      "Enhance care coordination and reduce time to achieve functional outcomes through data-driven insights.",
+      "Increase profit margins for rehabilitation centers through more efficient allocation of specialized human resources."
+    ],
+    "research_subject": "Development of an advanced analytics platform for stroke patients rehabilitation using innovative technologies and neuroscience-driven methods"
+  },
+  "openai_json": {
+    "motivations": [
+      "Stroke patients often require long-term intensive motor rehabilitation, which is currently costly and heavily reliant on specialized human resources.",
+      "There is a need for more efficient and sustainable delivery of motor rehabilitation to stroke patients, especially those with physical impairments.",
+      "The rehabilitation process could benefit from the use of technology to facilitate care dissemination and utilize knowledge from a large network of patients."
+    ],
+    "objectives": [
+      "Develop an innovative system that allows for the sustainable delivery of efficient motor rehabilitation to stroke patients.",
+      "Empower patients with their rehabilitation by designing the system to be used at the hospital or at home with minimal supervision.",
+      "Incorporate data mining algorithms to provide clinicians with continuous access to valuable data and advanced analytics."
+    ],
+    "methods": [
+      "Combine novel neuroscience-driven therapeutic methods with effective technologies for care dissemination.",
+      "Design the system to be used by patients at home or in the hospital with little or no supervision.",
+      "Incorporate data mining algorithms for continuous access to valuable data and advanced analytics."
+    ],
+    "results": [
+      "Enable patients to accelerate their recovery with more intensive and higher quality therapy.",
+      "Provide clinicians with continuous access to valuable data and advanced analytics to improve care and accelerate recovery.",
+      "Allow rehabilitation centers to achieve a higher profit margin per therapy unit through more efficient allocation of specialized human resources."
+    ],
+    "research_subject": "Advanced analytics platform for stroke patients rehabilitation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Stroke affects 16 million people annually worldwide, with 6.5 million requiring long-term motor rehabilitation that is costly and dependent on scarce specialized human resources.",
+      "Current traditional rehabilitation services are inefficient and unsustainable, creating a need for innovative solutions that can deliver effective care at scale."
+    ],
+    "objectives": [
+      "Develop an innovative system that enables sustainable delivery of more efficient motor rehabilitation to stroke patients through technology-enhanced therapeutic methods.",
+      "Empower patients to conduct rehabilitation independently at home or hospital while providing clinicians with continuous access to valuable data and advanced analytics.",
+      "Improve rehabilitation outcomes by enabling more intensive therapy and optimizing the allocation of specialized human resources in rehabilitation centers."
+    ],
+    "methods": [
+      "Combine novel neuroscience-driven therapeutic methods with technology to facilitate dissemination of care and knowledge utilization across patient networks.",
+      "Implement data mining algorithms to provide clinicians with continuous access to patient data and advanced analytics for care coordination.",
+      "Design a system that can be used by patients with minimal supervision, extending therapeutic reach beyond traditional clinical settings."
+    ],
+    "results": [
+      "Patients achieve accelerated recovery through more intensive and higher quality therapy with greater autonomy in their rehabilitation process.",
+      "Rehabilitation centers achieve higher profit margins through more efficient allocation of specialized human resources.",
+      "Clinicians gain improved capabilities to coordinate teams, monitor progress, and make data-driven decisions to optimize patient outcomes."
+    ],
+    "research_subject": "Technology-enhanced motor rehabilitation system for stroke patients"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Millions of stroke patients worldwide require long-term intensive motor rehabilitation, but current traditional services are costly and dependent on scarce specialized human resources.\",\n    \"There is a need for more efficient and accessible motor rehabilitation programs that can accelerate recovery and improve patient outcomes.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative system that enables sustainable delivery of efficient motor rehabilitation to stroke patients, both in hospital and at-home settings.\",\n    \"Empower patients to take control of their rehabilitation through a user-friendly system with minimal supervision required.\",\n    \"Provide clinicians and decision-makers with valuable data and advanced analytics to improve care coordination, accelerate recovery, and reduce time to achieve functional outcomes.\"\n  ],\n  \"methods\": [\n    \"Combine novel neuroscience-driven therapeutic methods with effective technologies to facilitate care dissemination and knowledge sharing.\",\n    \"Design a system incorporating data mining algorithms for continuous access to valuable data and advanced analytics.\",\n    \"Implement a user-friendly system for patients to use at hospital or home, with minimal supervision required.\"\n  ],\n  \"results\": [\n    \"Accelerate recovery and improve patient outcomes through more intensive and higher-quality therapy.\",\n    \"Enhance care coordination and reduce time to achieve functional outcomes through data-driven insights.\",\n    \"Increase profit margins for rehabilitation centers through more efficient allocation of specialized human resources.\"\n  ],\n  \"research_subject\": \"Development of an advanced analytics platform for stroke patients rehabilitation using innovative technologies and neuroscience-driven methods\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Stroke patients often require long-term intensive motor rehabilitation, which is currently costly and heavily reliant on specialized human resources.\",\n    \"There is a need for more efficient and sustainable delivery of motor rehabilitation to stroke patients, especially those with physical impairments.\",\n    \"The rehabilitation process could benefit from the use of technology to facilitate care dissemination and utilize knowledge from a large network of patients.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative system that allows for the sustainable delivery of efficient motor rehabilitation to stroke patients.\",\n    \"Empower patients with their rehabilitation by designing the system to be used at the hospital or at home with minimal supervision.\",\n    \"Incorporate data mining algorithms to provide clinicians with continuous access to valuable data and advanced analytics.\"\n  ],\n  \"methods\": [\n    \"Combine novel neuroscience-driven therapeutic methods with effective technologies for care dissemination.\",\n    \"Design the system to be used by patients at home or in the hospital with little or no supervision.\",\n    \"Incorporate data mining algorithms for continuous access to valuable data and advanced analytics.\"\n  ],\n  \"results\": [\n    \"Enable patients to accelerate their recovery with more intensive and higher quality therapy.\",\n    \"Provide clinicians with continuous access to valuable data and advanced analytics to improve care and accelerate recovery.\",\n    \"Allow rehabilitation centers to achieve a higher profit margin per therapy unit through more efficient allocation of specialized human resources.\"\n  ],\n  \"research_subject\": \"Advanced analytics platform for stroke patients rehabilitation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Stroke affects 16 million people annually worldwide, with 6.5 million requiring long-term motor rehabilitation that is costly and dependent on scarce specialized human resources.\",\n    \"Current traditional rehabilitation services are inefficient and unsustainable, creating a need for innovative solutions that can deliver effective care at scale.\"\n  ],\n  \"objectives\": [\n    \"Develop an innovative system that enables sustainable delivery of more efficient motor rehabilitation to stroke patients through technology-enhanced therapeutic methods.\",\n    \"Empower patients to conduct rehabilitation independently at home or hospital while providing clinicians with continuous access to valuable data and advanced analytics.\",\n    \"Improve rehabilitation outcomes by enabling more intensive therapy and optimizing the allocation of specialized human resources in rehabilitation centers.\"\n  ],\n  \"methods\": [\n    \"Combine novel neuroscience-driven therapeutic methods with technology to facilitate dissemination of care and knowledge utilization across patient networks.\",\n    \"Implement data mining algorithms to provide clinicians with continuous access to patient data and advanced analytics for care coordination.\",\n    \"Design a system that can be used by patients with minimal supervision, extending therapeutic reach beyond traditional clinical settings.\"\n  ],\n  \"results\": [\n    \"Patients achieve accelerated recovery through more intensive and higher quality therapy with greater autonomy in their rehabilitation process.\",\n    \"Rehabilitation centers achieve higher profit margins through more efficient allocation of specialized human resources.\",\n    \"Clinicians gain improved capabilities to coordinate teams, monitor progress, and make data-driven decisions to optimize patient outcomes.\"\n  ],\n  \"research_subject\": \"Technology-enhanced motor rehabilitation system for stroke patients\"\n}\n```"
+}

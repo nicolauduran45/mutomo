@@ -1,0 +1,62 @@
+{
+  "index": 248,
+  "title": "A SYSTEM FOR HANDLING OF LIQUIDS",
+  "abstract": "A device (1, 10, 11, 12, 13) for storing and delivering liquids comprising a watertight bag (2, 102, 112, 122, 132) having at least one opening (3, 103, 113, 123, 133) and a delivery system (5, 6, 7, 8) operatively connected to said opening; the device further comprises a first (20, 60) and a second (30, 70) stiff surfaces connected by flexible flanks (40, 50, 80, 90). The delivery system comprises a connection locking device (200) for connecting the fluid-carrying pipes and fitting system, which comprises a spigot (201) inserted in the collar (501) of a hose (51), an external compression ring (202) positioned onto the portion of the collar (501) which is covering the spigot and a conical threaded sleeve (203) locking said external compression ring (202) onto said portion of the collar covering the spigot.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an efficient and reliable system for storing and delivering liquids."
+    ],
+    "objectives": [
+      "Design a device for storing and delivering liquids that is watertight and has a secure delivery system."
+    ],
+    "methods": [
+      "Develop a device with a watertight bag and a delivery system connected to an opening in the bag.",
+      "Use stiff surfaces connected by flexible flanks to provide structural support to the device.",
+      "Implement a connection locking device to secure fluid-carrying pipes and fittings."
+    ],
+    "results": [
+      "Provide a reliable and efficient system for handling liquids."
+    ],
+    "research_subject": "Liquid handling and delivery system"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an efficient system for storing and delivering liquids."
+    ],
+    "objectives": [
+      "Design a device for storing and delivering liquids that includes a watertight bag and a delivery system.",
+      "Incorporate a connection locking device in the delivery system for connecting fluid-carrying pipes and fitting system."
+    ],
+    "methods": [
+      "Use a watertight bag with at least one opening and a delivery system operatively connected to the opening.",
+      "Implement a connection locking device in the delivery system, which includes a spigot, an external compression ring, and a conical threaded sleeve."
+    ],
+    "results": [
+      "Develop a device that can efficiently store and deliver liquids.",
+      "Improve the connection of fluid-carrying pipes and fitting system with the help of a connection locking device."
+    ],
+    "research_subject": "System for handling of liquids"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional liquid storage and delivery systems lack efficient and secure connection mechanisms for fluid-carrying pipes.",
+      "There is a need for improved watertight storage solutions with reliable delivery systems for handling liquids."
+    ],
+    "objectives": [
+      "Develop a device for storing and delivering liquids with enhanced watertight properties and secure connection mechanisms.",
+      "Create a reliable locking system for connecting fluid-carrying pipes and fittings in liquid handling applications."
+    ],
+    "methods": [
+      "Design a watertight bag with stiff surfaces connected by flexible flanks for liquid storage.",
+      "Implement a connection locking device using a spigot, external compression ring, and conical threaded sleeve configuration."
+    ],
+    "results": [
+      "Improved security and reliability in liquid storage and delivery through enhanced connection mechanisms.",
+      "Prevention of leaks and disconnections in fluid-carrying pipe systems."
+    ],
+    "research_subject": "Liquid storage and delivery system with secure pipe connection mechanism"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient and reliable system for storing and delivering liquids.\"\n  ],\n  \"objectives\": [\n    \"Design a device for storing and delivering liquids that is watertight and has a secure delivery system.\"\n  ],\n  \"methods\": [\n    \"Develop a device with a watertight bag and a delivery system connected to an opening in the bag.\",\n    \"Use stiff surfaces connected by flexible flanks to provide structural support to the device.\",\n    \"Implement a connection locking device to secure fluid-carrying pipes and fittings.\"\n  ],\n  \"results\": [\n    \"Provide a reliable and efficient system for handling liquids.\"\n  ],\n  \"research_subject\": \"Liquid handling and delivery system\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient system for storing and delivering liquids.\"\n  ],\n  \"objectives\": [\n    \"Design a device for storing and delivering liquids that includes a watertight bag and a delivery system.\",\n    \"Incorporate a connection locking device in the delivery system for connecting fluid-carrying pipes and fitting system.\"\n  ],\n  \"methods\": [\n    \"Use a watertight bag with at least one opening and a delivery system operatively connected to the opening.\",\n    \"Implement a connection locking device in the delivery system, which includes a spigot, an external compression ring, and a conical threaded sleeve.\"\n  ],\n  \"results\": [\n    \"Develop a device that can efficiently store and deliver liquids.\",\n    \"Improve the connection of fluid-carrying pipes and fitting system with the help of a connection locking device.\"\n  ],\n  \"research_subject\": \"System for handling of liquids\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional liquid storage and delivery systems lack efficient and secure connection mechanisms for fluid-carrying pipes.\",\n    \"There is a need for improved watertight storage solutions with reliable delivery systems for handling liquids.\"\n  ],\n  \"objectives\": [\n    \"Develop a device for storing and delivering liquids with enhanced watertight properties and secure connection mechanisms.\",\n    \"Create a reliable locking system for connecting fluid-carrying pipes and fittings in liquid handling applications.\"\n  ],\n  \"methods\": [\n    \"Design a watertight bag with stiff surfaces connected by flexible flanks for liquid storage.\",\n    \"Implement a connection locking device using a spigot, external compression ring, and conical threaded sleeve configuration.\"\n  ],\n  \"results\": [\n    \"Improved security and reliability in liquid storage and delivery through enhanced connection mechanisms.\",\n    \"Prevention of leaks and disconnections in fluid-carrying pipe systems.\"\n  ],\n  \"research_subject\": \"Liquid storage and delivery system with secure pipe connection mechanism\"\n}\n```"
+}

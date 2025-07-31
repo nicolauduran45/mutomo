@@ -1,0 +1,53 @@
+{
+  "index": 262,
+  "title": "INDICATING MEANS FOR A DOOR OPERATOR DEVICE",
+  "abstract": "Indicating means (G) for a door operator device. Said indicating means (G) being for indicating either or both of a door fully opened and/or fully closed condition, said door operator device having drive means (M) for moving the door to said positions in response to operation of initiating means (X) connected therewith, said operator device having circuit switch means (A and B) to switch off the drive when the door has reached either of said positions, and wherein said indicating means (G) is operatively interconnectable with said door operator device to provide said indication when the door is in the respective fully opened or closed condition.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a clear indication of a door's fully opened or fully closed condition when using a door operator device."
+    ],
+    "objectives": [
+      "Develop indicating means for a door operator device to signal when the door is fully opened or fully closed."
+    ],
+    "methods": [
+      "Design indicating means that can be operatively interconnected with the door operator device to provide the necessary indication."
+    ],
+    "results": [
+      "Provide clear indication of the door's status to users, enhancing safety and convenience."
+    ],
+    "research_subject": "Indicating means for a door operator device"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a device that can indicate when a door is fully opened or closed."
+    ],
+    "objectives": [
+      "Design an indicating means for a door operator device that can signal when the door is fully opened or closed."
+    ],
+    "methods": [
+      "The indicating means is interconnectable with the door operator device and works in conjunction with the circuit switch means to provide the indication."
+    ],
+    "results": [
+      "The indicating means for a door operator device can effectively signal when the door is in the fully opened or closed condition."
+    ],
+    "research_subject": "Indicating means for a door operator device"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Door operator devices lack clear indication of when doors have reached fully opened or fully closed positions, creating uncertainty about door status."
+    ],
+    "objectives": [
+      "Develop an indicating system that provides clear signals when a door reaches fully opened or fully closed positions in door operator devices."
+    ],
+    "methods": [
+      "Design indicating means that interconnect with door operator devices and activate when circuit switches detect fully opened or closed door positions."
+    ],
+    "results": [
+      "Users receive clear visual or auditory confirmation when doors reach fully opened or fully closed positions, improving operational awareness and safety."
+    ],
+    "research_subject": "Door position indicating system for automated door operators"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a clear indication of a door's fully opened or fully closed condition when using a door operator device.\"\n  ],\n  \"objectives\": [\n    \"Develop indicating means for a door operator device to signal when the door is fully opened or fully closed.\"\n  ],\n  \"methods\": [\n    \"Design indicating means that can be operatively interconnected with the door operator device to provide the necessary indication.\"\n  ],\n  \"results\": [\n    \"Provide clear indication of the door's status to users, enhancing safety and convenience.\"\n  ],\n  \"research_subject\": \"Indicating means for a door operator device\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a device that can indicate when a door is fully opened or closed.\"\n  ],\n  \"objectives\": [\n    \"Design an indicating means for a door operator device that can signal when the door is fully opened or closed.\"\n  ],\n  \"methods\": [\n    \"The indicating means is interconnectable with the door operator device and works in conjunction with the circuit switch means to provide the indication.\"\n  ],\n  \"results\": [\n    \"The indicating means for a door operator device can effectively signal when the door is in the fully opened or closed condition.\"\n  ],\n  \"research_subject\": \"Indicating means for a door operator device\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Door operator devices lack clear indication of when doors have reached fully opened or fully closed positions, creating uncertainty about door status.\"\n  ],\n  \"objectives\": [\n    \"Develop an indicating system that provides clear signals when a door reaches fully opened or fully closed positions in door operator devices.\"\n  ],\n  \"methods\": [\n    \"Design indicating means that interconnect with door operator devices and activate when circuit switches detect fully opened or closed door positions.\"\n  ],\n  \"results\": [\n    \"Users receive clear visual or auditory confirmation when doors reach fully opened or fully closed positions, improving operational awareness and safety.\"\n  ],\n  \"research_subject\": \"Door position indicating system for automated door operators\"\n}\n```"
+}

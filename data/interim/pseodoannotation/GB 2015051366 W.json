@@ -1,0 +1,62 @@
+{
+  "index": 352,
+  "title": "OXYGEN SENSOR COMPOUNDS",
+  "abstract": "The invention provides the use of a luminescent heterometallic complex for detecting oxygen, which luminescent heterometallic complex comprises: a first lanthanide ion, a second lanthanide ion which is a different lanthanide from the first,and a sensitising chromophore. The complex may be used as a ratiometric probe for determining oxygen concentration. Thus, in some embodiments, detecting oxygen comprises estimating, or determining, the concentration of oxygen. The invention thus relates to a method of detecting the presence of oxygen in a sample, and to methods of estimating the concentration of oxygen in a sample. The invention also relates to novel luminescent heterometallic complexes which comprise: a first lanthanide ion, a second lanthanide ion which is a different lanthanide from the first,and a sensitising chromophore.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective methods and compounds to detect and measure oxygen concentration in various samples."
+    ],
+    "objectives": [
+      "Develop and utilize luminescent heterometallic complexes for detecting oxygen presence and estimating its concentration.",
+      "Create novel luminescent heterometallic complexes comprising different lanthanide ions and a sensitising chromophore."
+    ],
+    "methods": [
+      "Design and synthesize luminescent heterometallic complexes with specific lanthanide ions and a sensitising chromophore.",
+      "Use the developed complexes as ratiometric probes for determining oxygen concentration in samples."
+    ],
+    "results": [
+      "Enable accurate detection and estimation of oxygen concentration in various samples using the luminescent heterometallic complexes.",
+      "Provide novel compounds with potential applications in oxygen sensing and measurement."
+    ],
+    "research_subject": "Luminescent heterometallic complexes for oxygen detection and measurement"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective methods to detect the presence of oxygen and estimate its concentration in a sample."
+    ],
+    "objectives": [
+      "Develop a luminescent heterometallic complex for detecting oxygen.",
+      "Use the complex as a ratiometric probe for determining oxygen concentration."
+    ],
+    "methods": [
+      "Use a luminescent heterometallic complex comprising a first lanthanide ion, a second different lanthanide ion, and a sensitising chromophore.",
+      "Apply the complex to detect the presence of oxygen and estimate its concentration in a sample."
+    ],
+    "results": [
+      "Provide a novel method for detecting oxygen and estimating its concentration using a luminescent heterometallic complex."
+    ],
+    "research_subject": "Development and application of a luminescent heterometallic complex for oxygen detection"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for accurate and reliable methods to detect and measure oxygen concentrations in various samples.",
+      "Existing oxygen detection methods may lack the precision or versatility required for certain applications."
+    ],
+    "objectives": [
+      "Develop luminescent heterometallic complexes that can effectively detect oxygen and determine its concentration.",
+      "Create a ratiometric probe system using lanthanide-based complexes for improved oxygen sensing accuracy."
+    ],
+    "methods": [
+      "Synthesize luminescent heterometallic complexes containing two different lanthanide ions and a sensitizing chromophore.",
+      "Utilize the luminescent properties of the complexes as ratiometric probes for oxygen detection and concentration measurement."
+    ],
+    "results": [
+      "Enable accurate detection and quantification of oxygen concentrations in various samples.",
+      "Provide a novel class of oxygen-sensing compounds with improved sensitivity and reliability."
+    ],
+    "research_subject": "Luminescent heterometallic lanthanide complexes for oxygen sensing"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective methods and compounds to detect and measure oxygen concentration in various samples.\"\n  ],\n  \"objectives\": [\n    \"Develop and utilize luminescent heterometallic complexes for detecting oxygen presence and estimating its concentration.\",\n    \"Create novel luminescent heterometallic complexes comprising different lanthanide ions and a sensitising chromophore.\"\n  ],\n  \"methods\": [\n    \"Design and synthesize luminescent heterometallic complexes with specific lanthanide ions and a sensitising chromophore.\",\n    \"Use the developed complexes as ratiometric probes for determining oxygen concentration in samples.\"\n  ],\n  \"results\": [\n    \"Enable accurate detection and estimation of oxygen concentration in various samples using the luminescent heterometallic complexes.\",\n    \"Provide novel compounds with potential applications in oxygen sensing and measurement.\"\n  ],\n  \"research_subject\": \"Luminescent heterometallic complexes for oxygen detection and measurement\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective methods to detect the presence of oxygen and estimate its concentration in a sample.\"\n  ],\n  \"objectives\": [\n    \"Develop a luminescent heterometallic complex for detecting oxygen.\",\n    \"Use the complex as a ratiometric probe for determining oxygen concentration.\"\n  ],\n  \"methods\": [\n    \"Use a luminescent heterometallic complex comprising a first lanthanide ion, a second different lanthanide ion, and a sensitising chromophore.\",\n    \"Apply the complex to detect the presence of oxygen and estimate its concentration in a sample.\"\n  ],\n  \"results\": [\n    \"Provide a novel method for detecting oxygen and estimating its concentration using a luminescent heterometallic complex.\"\n  ],\n  \"research_subject\": \"Development and application of a luminescent heterometallic complex for oxygen detection\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for accurate and reliable methods to detect and measure oxygen concentrations in various samples.\",\n    \"Existing oxygen detection methods may lack the precision or versatility required for certain applications.\"\n  ],\n  \"objectives\": [\n    \"Develop luminescent heterometallic complexes that can effectively detect oxygen and determine its concentration.\",\n    \"Create a ratiometric probe system using lanthanide-based complexes for improved oxygen sensing accuracy.\"\n  ],\n  \"methods\": [\n    \"Synthesize luminescent heterometallic complexes containing two different lanthanide ions and a sensitizing chromophore.\",\n    \"Utilize the luminescent properties of the complexes as ratiometric probes for oxygen detection and concentration measurement.\"\n  ],\n  \"results\": [\n    \"Enable accurate detection and quantification of oxygen concentrations in various samples.\",\n    \"Provide a novel class of oxygen-sensing compounds with improved sensitivity and reliability.\"\n  ],\n  \"research_subject\": \"Luminescent heterometallic lanthanide complexes for oxygen sensing\"\n}\n```"
+}

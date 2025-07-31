@@ -1,0 +1,70 @@
+{
+  "index": 448,
+  "title": "The Inordinately Strange Life of Dyce Sombre: Victorian Anglo Indian MP and Chancery 'Lunatic'",
+  "abstract": "The descendant of German and French Catholic mercenaries, a Scots Presbyterian subaltern, and their secluded Indian wives, David Ochterlony Dyce Sombre defied all classification in the North Indian principality where he was raised. Add to these influences an adoptive mother who began as a Muslim courtesan and rose to become the Catholic ruler of a strategically-placed, cosmopolitan little kingdom, which her foster son was destined to inherit, and you have the origins of a fascinating life that reflects many of the Romantic, political, and colonial trends of a century. As heir to the throne, Sombre took great advantage of the sensuous pleasures of privilege, but he lost his kingdom to the British and went into exile in London with his very considerable fortune. Despite being Indian and Catholic, Sombre married the daughter of an English Protestant Viscount, who was a prominent defender of slavery. Sombre bought himself election as a British MP but then was expelled for corruption. His treatment of his aristocratic wife led to his arrest and confinement as a Chancery lunatic. Fleeing to France, Sombre spent years trying to reclaim his sanity and his fortune from those among the British establishment who had done him down. In this thrilling biography, Michael H. Fisher recovers Sombre's strange story and the echoes of his case for modern conceptions of race, privilege and empire.",
+  "llama_json": {
+    "motivations": [
+      "The life of Dyce Sombre, a Victorian Anglo-Indian MP and Chancery 'lunatic', offers a unique lens through which to examine the complex intersections of colonialism, privilege, and identity in 19th-century Britain and India.",
+      "Sombre's experiences reflect the broader social, cultural, and political trends of his time, including the Romantic movement, colonial expansion, and the construction of racial and national identities."
+    ],
+    "objectives": [
+      "To reconstruct the life of Dyce Sombre and explore its significance within the context of Victorian Britain and colonial India.",
+      "To examine how Sombre's experiences reflect and challenge dominant narratives of empire, privilege, and identity in the 19th century.",
+      "To consider the implications of Sombre's story for modern conceptions of race, privilege, and empire."
+    ],
+    "methods": [
+      "Biographical research and analysis of primary sources related to Dyce Sombre's life and experiences.",
+      "Historical contextualization of Sombre's story within the broader social, cultural, and political trends of 19th-century Britain and India."
+    ],
+    "results": [
+      "A nuanced understanding of the complex intersections of colonialism, privilege, and identity in 19th-century Britain and India.",
+      "Insights into the ways in which individual experiences can reflect and challenge dominant narratives of empire and identity.",
+      "A deeper understanding of the ongoing legacies of colonialism and imperialism in shaping modern conceptions of race, privilege, and empire."
+    ],
+    "research_subject": "The life and experiences of Dyce Sombre, a Victorian Anglo-Indian MP and Chancery 'lunatic'"
+  },
+  "openai_json": {
+    "motivations": [
+      "David Ochterlony Dyce Sombre's life reflects many of the Romantic, political, and colonial trends of a century, yet his story remains largely untold.",
+      "There is a need to explore the implications of Sombre's life and experiences for modern conceptions of race, privilege, and empire."
+    ],
+    "objectives": [
+      "Recover and narrate the complex and fascinating life of Dyce Sombre, an individual who defied classification in his North Indian principality.",
+      "Analyze the influences and impacts of Sombre's life on modern conceptions of race, privilege, and empire."
+    ],
+    "methods": [
+      "Conduct a detailed biographical study of Dyce Sombre, tracing his life from his diverse origins to his exile in London and his struggles in France.",
+      "Analyze the political, colonial, and social contexts of Sombre's life and their implications for modern conceptions of race, privilege, and empire."
+    ],
+    "results": [
+      "Provide a comprehensive biography of Dyce Sombre, shedding light on his unique life and experiences.",
+      "Offer insights into the impact of Sombre's life on modern conceptions of race, privilege, and empire."
+    ],
+    "research_subject": "Life and influence of Dyce Sombre on modern conceptions of race, privilege, and empire"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The complex life of David Ochterlony Dyce Sombre, who defied social classifications in colonial India and Victorian Britain, offers unique insights into the intersections of race, privilege, and empire during the 19th century.",
+      "Sombre's story illuminates the challenges faced by individuals of mixed heritage navigating between Indian and British societies during the colonial period."
+    ],
+    "objectives": [
+      "Recover and document the extraordinary life story of Dyce Sombre, from his multicultural upbringing in North India to his controversial career in Victorian Britain.",
+      "Examine how Sombre's experiences reflect broader themes of Romantic, political, and colonial trends of the 19th century.",
+      "Analyze the implications of Sombre's case for understanding modern conceptions of race, privilege, and empire."
+    ],
+    "methods": [
+      "Conduct biographical research using historical documents to reconstruct Sombre's life trajectory across India and Britain.",
+      "Analyze primary sources related to Sombre's political career, legal troubles, and social relationships.",
+      "Contextualize Sombre's experiences within the broader historical framework of 19th-century colonialism and social hierarchies."
+    ],
+    "results": [
+      "Provides a comprehensive biography that reveals how Sombre's multicultural identity and privileged background shaped his tumultuous life in both colonial India and Victorian Britain.",
+      "Demonstrates how Sombre's story illuminates the complexities of race, class, and colonial power dynamics in the 19th century.",
+      "Offers new perspectives on the experiences of mixed-heritage individuals navigating between Indian and British societies during the colonial period."
+    ],
+    "research_subject": "Biography of David Ochterlony Dyce Sombre, a 19th-century Anglo-Indian figure navigating colonial India and Victorian Britain"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The life of Dyce Sombre, a Victorian Anglo-Indian MP and Chancery 'lunatic', offers a unique lens through which to examine the complex intersections of colonialism, privilege, and identity in 19th-century Britain and India.\",\n    \"Sombre's experiences reflect the broader social, cultural, and political trends of his time, including the Romantic movement, colonial expansion, and the construction of racial and national identities.\"\n  ],\n  \"objectives\": [\n    \"To reconstruct the life of Dyce Sombre and explore its significance within the context of Victorian Britain and colonial India.\",\n    \"To examine how Sombre's experiences reflect and challenge dominant narratives of empire, privilege, and identity in the 19th century.\",\n    \"To consider the implications of Sombre's story for modern conceptions of race, privilege, and empire.\"\n  ],\n  \"methods\": [\n    \"Biographical research and analysis of primary sources related to Dyce Sombre's life and experiences.\",\n    \"Historical contextualization of Sombre's story within the broader social, cultural, and political trends of 19th-century Britain and India.\"\n  ],\n  \"results\": [\n    \"A nuanced understanding of the complex intersections of colonialism, privilege, and identity in 19th-century Britain and India.\",\n    \"Insights into the ways in which individual experiences can reflect and challenge dominant narratives of empire and identity.\",\n    \"A deeper understanding of the ongoing legacies of colonialism and imperialism in shaping modern conceptions of race, privilege, and empire.\"\n  ],\n  \"research_subject\": \"The life and experiences of Dyce Sombre, a Victorian Anglo-Indian MP and Chancery 'lunatic'\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"David Ochterlony Dyce Sombre's life reflects many of the Romantic, political, and colonial trends of a century, yet his story remains largely untold.\",\n    \"There is a need to explore the implications of Sombre's life and experiences for modern conceptions of race, privilege, and empire.\"\n  ],\n  \"objectives\": [\n    \"Recover and narrate the complex and fascinating life of Dyce Sombre, an individual who defied classification in his North Indian principality.\",\n    \"Analyze the influences and impacts of Sombre's life on modern conceptions of race, privilege, and empire.\"\n  ],\n  \"methods\": [\n    \"Conduct a detailed biographical study of Dyce Sombre, tracing his life from his diverse origins to his exile in London and his struggles in France.\",\n    \"Analyze the political, colonial, and social contexts of Sombre's life and their implications for modern conceptions of race, privilege, and empire.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive biography of Dyce Sombre, shedding light on his unique life and experiences.\",\n    \"Offer insights into the impact of Sombre's life on modern conceptions of race, privilege, and empire.\"\n  ],\n  \"research_subject\": \"Life and influence of Dyce Sombre on modern conceptions of race, privilege, and empire\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The complex life of David Ochterlony Dyce Sombre, who defied social classifications in colonial India and Victorian Britain, offers unique insights into the intersections of race, privilege, and empire during the 19th century.\",\n    \"Sombre's story illuminates the challenges faced by individuals of mixed heritage navigating between Indian and British societies during the colonial period.\"\n  ],\n  \"objectives\": [\n    \"Recover and document the extraordinary life story of Dyce Sombre, from his multicultural upbringing in North India to his controversial career in Victorian Britain.\",\n    \"Examine how Sombre's experiences reflect broader themes of Romantic, political, and colonial trends of the 19th century.\",\n    \"Analyze the implications of Sombre's case for understanding modern conceptions of race, privilege, and empire.\"\n  ],\n  \"methods\": [\n    \"Conduct biographical research using historical documents to reconstruct Sombre's life trajectory across India and Britain.\",\n    \"Analyze primary sources related to Sombre's political career, legal troubles, and social relationships.\",\n    \"Contextualize Sombre's experiences within the broader historical framework of 19th-century colonialism and social hierarchies.\"\n  ],\n  \"results\": [\n    \"Provides a comprehensive biography that reveals how Sombre's multicultural identity and privileged background shaped his tumultuous life in both colonial India and Victorian Britain.\",\n    \"Demonstrates how Sombre's story illuminates the complexities of race, class, and colonial power dynamics in the 19th century.\",\n    \"Offers new perspectives on the experiences of mixed-heritage individuals navigating between Indian and British societies during the colonial period.\"\n  ],\n  \"research_subject\": \"Biography of David Ochterlony Dyce Sombre, a 19th-century Anglo-Indian figure navigating colonial India and Victorian Britain\"\n}\n```"
+}

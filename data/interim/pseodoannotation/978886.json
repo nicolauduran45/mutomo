@@ -1,0 +1,72 @@
+{
+  "index": 274,
+  "title": "Circular economy entrepreneurship in denmark",
+  "abstract": "Circular economy entrepreneurship is an emerging field that emphasise joint economic and ecological value creation. Unlike the other forms of entrepreneurship, it combines business practices and sustainable development, which consequently transform business sectors and societies. Circular economy entrepreneurship involves various stakeholders with entrepreneurs playing a central role in providing solutions to natural resources depletion and environmental degradation. To achieve this feat, entrepreneurs need new attitudes and behaviours, new business models and processes, and new partnerships. Although interest in circular economy entrepreneurship is increasing, extant academic research is scarce and boundaries set by existing entrepreneurship literature need extension to take into consideration resource depletion, environmental aspects and socio-technical issues. At present, very little is known about how entrepreneurs build new ventures that create and support a circular economy whilst being economically viable and competitive. The overall purpose of the CEED project is to contribute to the transition to a circular economy by identifying the enablers and barriers for CE entrepreneurship. CEED is an explorative research project that uses a combination of methods to develop innovative solutions to overcome these barriers in Denmark and beyond. CEED will contribute to research excellence in this emerging area through the analysis of best practices to reveal the patterns of the interaction between the circular economy and entrepreneurship. The benefits of the project include strengthening the research, teaching and management skills of the researcher. These skills are necessary for a tenure track position. Identified opportunities for the integration of CE entrepreneurship into the curriculum at SDU and other universities .The findings will be of practical and policy relevance in accelerating the transition to a circular economy at the national and European levels.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to address natural resource depletion and environmental degradation through sustainable business practices.",
+      "Existing entrepreneurship literature lacks consideration of resource depletion, environmental aspects, and socio-technical issues related to circular economy entrepreneurship.",
+      "Little is known about how entrepreneurs can build economically viable and competitive ventures that support a circular economy."
+    ],
+    "objectives": [
+      "Contribute to the transition to a circular economy by identifying enablers and barriers for circular economy entrepreneurship.",
+      "Develop innovative solutions to overcome barriers to circular economy entrepreneurship in Denmark and beyond.",
+      "Strengthen research, teaching, and management skills in the area of circular economy entrepreneurship."
+    ],
+    "methods": [
+      "Use a combination of methods to explore circular economy entrepreneurship and identify best practices.",
+      "Analyze the interaction between the circular economy and entrepreneurship to reveal patterns and opportunities.",
+      "Develop and integrate circular economy entrepreneurship into the curriculum at universities."
+    ],
+    "results": [
+      "Accelerate the transition to a circular economy at the national and European levels through practical and policy-relevant findings.",
+      "Contribute to research excellence in the emerging area of circular economy entrepreneurship.",
+      "Provide innovative solutions to support entrepreneurs in building sustainable and competitive ventures."
+    ],
+    "research_subject": "Circular economy entrepreneurship and its enablers and barriers in Denmark"
+  },
+  "openai_json": {
+    "motivations": [
+      "Circular economy entrepreneurship, which combines business practices and sustainable development, is an emerging field with limited academic research.",
+      "There is a lack of understanding on how entrepreneurs build ventures that support a circular economy while remaining economically viable and competitive.",
+      "The need to identify the enablers and barriers for circular economy entrepreneurship to facilitate the transition to a circular economy."
+    ],
+    "objectives": [
+      "Contribute to the transition to a circular economy by identifying the enablers and barriers for circular economy entrepreneurship.",
+      "Analyze best practices to reveal the patterns of interaction between the circular economy and entrepreneurship.",
+      "Integrate the findings of circular economy entrepreneurship into the curriculum at SDU and other universities."
+    ],
+    "methods": [
+      "Conduct an explorative research project using a combination of methods to develop innovative solutions to overcome barriers in Denmark and beyond.",
+      "Analyze best practices to understand the interaction between the circular economy and entrepreneurship."
+    ],
+    "results": [
+      "Contribute to research excellence in the emerging area of circular economy entrepreneurship.",
+      "Strengthen the research, teaching, and management skills of the researcher.",
+      "Provide practical and policy-relevant findings to accelerate the transition to a circular economy at the national and European levels."
+    ],
+    "research_subject": "Circular economy entrepreneurship in Denmark"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Circular economy entrepreneurship is an emerging field with scarce academic research, requiring extension of existing entrepreneurship literature to address resource depletion and environmental aspects.",
+      "There is limited understanding of how entrepreneurs build economically viable ventures that support a circular economy while remaining competitive."
+    ],
+    "objectives": [
+      "Identify the enablers and barriers for circular economy entrepreneurship to contribute to the transition to a circular economy.",
+      "Analyze best practices to reveal patterns of interaction between circular economy and entrepreneurship, developing innovative solutions to overcome identified barriers."
+    ],
+    "methods": [
+      "Conduct explorative research using a combination of methods to investigate circular economy entrepreneurship practices.",
+      "Analyze best practices and case studies to identify patterns and develop innovative solutions."
+    ],
+    "results": [
+      "Strengthen research, teaching, and management skills necessary for academic advancement and tenure track positions.",
+      "Integrate circular economy entrepreneurship into university curricula and provide practical and policy-relevant findings to accelerate the transition to a circular economy at national and European levels."
+    ],
+    "research_subject": "Circular economy entrepreneurship enablers and barriers in Denmark"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to address natural resource depletion and environmental degradation through sustainable business practices.\",\n    \"Existing entrepreneurship literature lacks consideration of resource depletion, environmental aspects, and socio-technical issues related to circular economy entrepreneurship.\",\n    \"Little is known about how entrepreneurs can build economically viable and competitive ventures that support a circular economy.\"\n  ],\n  \"objectives\": [\n    \"Contribute to the transition to a circular economy by identifying enablers and barriers for circular economy entrepreneurship.\",\n    \"Develop innovative solutions to overcome barriers to circular economy entrepreneurship in Denmark and beyond.\",\n    \"Strengthen research, teaching, and management skills in the area of circular economy entrepreneurship.\"\n  ],\n  \"methods\": [\n    \"Use a combination of methods to explore circular economy entrepreneurship and identify best practices.\",\n    \"Analyze the interaction between the circular economy and entrepreneurship to reveal patterns and opportunities.\",\n    \"Develop and integrate circular economy entrepreneurship into the curriculum at universities.\"\n  ],\n  \"results\": [\n    \"Accelerate the transition to a circular economy at the national and European levels through practical and policy-relevant findings.\",\n    \"Contribute to research excellence in the emerging area of circular economy entrepreneurship.\",\n    \"Provide innovative solutions to support entrepreneurs in building sustainable and competitive ventures.\"\n  ],\n  \"research_subject\": \"Circular economy entrepreneurship and its enablers and barriers in Denmark\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Circular economy entrepreneurship, which combines business practices and sustainable development, is an emerging field with limited academic research.\",\n    \"There is a lack of understanding on how entrepreneurs build ventures that support a circular economy while remaining economically viable and competitive.\",\n    \"The need to identify the enablers and barriers for circular economy entrepreneurship to facilitate the transition to a circular economy.\"\n  ],\n  \"objectives\": [\n    \"Contribute to the transition to a circular economy by identifying the enablers and barriers for circular economy entrepreneurship.\",\n    \"Analyze best practices to reveal the patterns of interaction between the circular economy and entrepreneurship.\",\n    \"Integrate the findings of circular economy entrepreneurship into the curriculum at SDU and other universities.\"\n  ],\n  \"methods\": [\n    \"Conduct an explorative research project using a combination of methods to develop innovative solutions to overcome barriers in Denmark and beyond.\",\n    \"Analyze best practices to understand the interaction between the circular economy and entrepreneurship.\"\n  ],\n  \"results\": [\n    \"Contribute to research excellence in the emerging area of circular economy entrepreneurship.\",\n    \"Strengthen the research, teaching, and management skills of the researcher.\",\n    \"Provide practical and policy-relevant findings to accelerate the transition to a circular economy at the national and European levels.\"\n  ],\n  \"research_subject\": \"Circular economy entrepreneurship in Denmark\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Circular economy entrepreneurship is an emerging field with scarce academic research, requiring extension of existing entrepreneurship literature to address resource depletion and environmental aspects.\",\n    \"There is limited understanding of how entrepreneurs build economically viable ventures that support a circular economy while remaining competitive.\"\n  ],\n  \"objectives\": [\n    \"Identify the enablers and barriers for circular economy entrepreneurship to contribute to the transition to a circular economy.\",\n    \"Analyze best practices to reveal patterns of interaction between circular economy and entrepreneurship, developing innovative solutions to overcome identified barriers.\"\n  ],\n  \"methods\": [\n    \"Conduct explorative research using a combination of methods to investigate circular economy entrepreneurship practices.\",\n    \"Analyze best practices and case studies to identify patterns and develop innovative solutions.\"\n  ],\n  \"results\": [\n    \"Strengthen research, teaching, and management skills necessary for academic advancement and tenure track positions.\",\n    \"Integrate circular economy entrepreneurship into university curricula and provide practical and policy-relevant findings to accelerate the transition to a circular economy at national and European levels.\"\n  ],\n  \"research_subject\": \"Circular economy entrepreneurship enablers and barriers in Denmark\"\n}\n```"
+}

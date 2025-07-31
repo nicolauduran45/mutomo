@@ -1,0 +1,55 @@
+{
+  "index": 164,
+  "title": "Sliding rail arrangement for door drive, has sliding rail lever having lever portions that are displaced against each other for lengthwise adjustment of sliding rail lever by pressurization of hydraulic piston in hydraulic cylinder",
+  "abstract": "The sliding rail arrangement (1) comprises a sliding rail (2) and a length adjustable sliding rail lever (3). One end of the sliding rail lever is connected with a driven shaft (4) of a door drive while other end is guided in the sliding rail. Two lever portions (6,7) of the sliding rail lever are provided with a hydraulic cylinder (8) and a hydraulic piston (11). The lever portions are displaced against each other for the lengthwise adjustment of the sliding rail lever by pressurization of the hydraulic piston in the hydraulic cylinder.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a sliding rail arrangement that allows for lengthwise adjustment to accommodate varying door sizes or positions."
+    ],
+    "objectives": [
+      "Design a sliding rail arrangement with a length-adjustable sliding rail lever for door drives."
+    ],
+    "methods": [
+      "Utilize a hydraulic cylinder and piston to displace lever portions of the sliding rail lever for lengthwise adjustment."
+    ],
+    "results": [
+      "Enable efficient and adjustable door operation through the use of a sliding rail arrangement with a length-adjustable sliding rail lever."
+    ],
+    "research_subject": "Adjustable sliding rail arrangement for door drives"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a sliding rail arrangement that allows for lengthwise adjustment of the sliding rail lever."
+    ],
+    "objectives": [
+      "Design a sliding rail arrangement with a length adjustable sliding rail lever connected to a door drive."
+    ],
+    "methods": [
+      "Incorporate a hydraulic cylinder and piston into the sliding rail lever to enable lengthwise adjustment.",
+      "Displace two lever portions against each other by pressurizing the hydraulic piston in the hydraulic cylinder."
+    ],
+    "results": [
+      "A sliding rail arrangement that allows for lengthwise adjustment of the sliding rail lever, improving the functionality of door drives."
+    ],
+    "research_subject": "Design of a sliding rail arrangement for door drive with adjustable length"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional sliding rail arrangements for door drives lack efficient mechanisms for length adjustment, limiting their adaptability to different door configurations."
+    ],
+    "objectives": [
+      "Develop a sliding rail arrangement with an adjustable sliding rail lever that can be efficiently lengthened or shortened to accommodate various door drive requirements."
+    ],
+    "methods": [
+      "Integrate a hydraulic cylinder and piston system within the sliding rail lever to enable controlled displacement of lever portions.",
+      "Connect one end of the sliding rail lever to the driven shaft of the door drive while guiding the other end in the sliding rail."
+    ],
+    "results": [
+      "The sliding rail arrangement enables precise and efficient length adjustment of the sliding rail lever through hydraulic pressurization, improving adaptability for different door configurations."
+    ],
+    "research_subject": "Hydraulically adjustable sliding rail arrangement for door drives"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a sliding rail arrangement that allows for lengthwise adjustment to accommodate varying door sizes or positions.\"\n  ],\n  \"objectives\": [\n    \"Design a sliding rail arrangement with a length-adjustable sliding rail lever for door drives.\"\n  ],\n  \"methods\": [\n    \"Utilize a hydraulic cylinder and piston to displace lever portions of the sliding rail lever for lengthwise adjustment.\"\n  ],\n  \"results\": [\n    \"Enable efficient and adjustable door operation through the use of a sliding rail arrangement with a length-adjustable sliding rail lever.\"\n  ],\n  \"research_subject\": \"Adjustable sliding rail arrangement for door drives\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a sliding rail arrangement that allows for lengthwise adjustment of the sliding rail lever.\"\n  ],\n  \"objectives\": [\n    \"Design a sliding rail arrangement with a length adjustable sliding rail lever connected to a door drive.\"\n  ],\n  \"methods\": [\n    \"Incorporate a hydraulic cylinder and piston into the sliding rail lever to enable lengthwise adjustment.\",\n    \"Displace two lever portions against each other by pressurizing the hydraulic piston in the hydraulic cylinder.\"\n  ],\n  \"results\": [\n    \"A sliding rail arrangement that allows for lengthwise adjustment of the sliding rail lever, improving the functionality of door drives.\"\n  ],\n  \"research_subject\": \"Design of a sliding rail arrangement for door drive with adjustable length\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional sliding rail arrangements for door drives lack efficient mechanisms for length adjustment, limiting their adaptability to different door configurations.\"\n  ],\n  \"objectives\": [\n    \"Develop a sliding rail arrangement with an adjustable sliding rail lever that can be efficiently lengthened or shortened to accommodate various door drive requirements.\"\n  ],\n  \"methods\": [\n    \"Integrate a hydraulic cylinder and piston system within the sliding rail lever to enable controlled displacement of lever portions.\",\n    \"Connect one end of the sliding rail lever to the driven shaft of the door drive while guiding the other end in the sliding rail.\"\n  ],\n  \"results\": [\n    \"The sliding rail arrangement enables precise and efficient length adjustment of the sliding rail lever through hydraulic pressurization, improving adaptability for different door configurations.\"\n  ],\n  \"research_subject\": \"Hydraulically adjustable sliding rail arrangement for door drives\"\n}\n```"
+}

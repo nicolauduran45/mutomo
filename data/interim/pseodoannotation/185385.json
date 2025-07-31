@@ -1,0 +1,74 @@
+{
+  "index": 96,
+  "title": "Imaging synaptic plasticity by ultra-high field magnetic resonance spectroscopy in health and psychiatric disease",
+  "abstract": "A large number of psychiatric disorders (major and bipolar depression (MDD / BD), schizophrenia, obsessive-compulsive disorder (OCD), addiction, anxiety, attention deficit hyperactivity syndrome (ADHS), posttraumatic stress disorder (PTSD), autism) lack objective criteria for primary diagnosis, early differential diagnosis with regard to subtypes in treatment response and disease progression or effective therapy monitoring. Hence, the search for relevant biomarkers is of high importance. This proposal suggests the development of novel methodology for highly spatially and temporally resolved imaging of disease effects on neurotransmission, membrane processes related to synaptic plasticity and brain energy metabolism in psychiatric disorders and the acute and chronic impact of related pharmacological treatment in the human brain. To that, the advantages of a unique 9.4 T whole body human magnetic resonance imaging (MRI) system for 1H, 31P and 13C magnetic resonance spectroscopic imaging shall be exploited. Highly innovative enabling MRI technology including parallel transmission, very high order B0 shimming, a real time field stabilization and motion correction approach along with the principles of advanced encoding and non-Fourier image reconstruction shall ensure high data quality. Next to obtaining 20 novel image contrasts based on steady state metabolite concentrations, the ultimate goal of the proposed research is to enable functional spectroscopic imaging in the entire human brain in order to investigate adaptation of neurotransmission and brain metabolism to environmental stimuli as well as the impact of acute pharmacological intervention. Finally, the spatially and temporally resolved metabolic imaging technology shall be used for investigation of patients with major depressive disorder to reveal novel biomarkers relevant for diagnostics and patient stratification.",
+  "llama_json": {
+    "motivations": [
+      "Many psychiatric disorders lack objective criteria for diagnosis, differential diagnosis, and therapy monitoring, highlighting the need for relevant biomarkers.",
+      "Current methods for imaging synaptic plasticity and brain metabolism in psychiatric disorders are limited in spatial and temporal resolution."
+    ],
+    "objectives": [
+      "Develop novel methodology for highly resolved imaging of neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.",
+      "Investigate the acute and chronic impact of pharmacological treatment on brain metabolism in psychiatric disorders.",
+      "Identify novel biomarkers for diagnostics and patient stratification in major depressive disorder."
+    ],
+    "methods": [
+      "Utilize a 9.4 T whole-body human magnetic resonance imaging (MRI) system for 1H, 31P, and 13C magnetic resonance spectroscopic imaging.",
+      "Implement advanced MRI technology, including parallel transmission, high-order B0 shimming, and real-time field stabilization and motion correction.",
+      "Develop functional spectroscopic imaging in the entire human brain to investigate adaptation of neurotransmission and brain metabolism."
+    ],
+    "results": [
+      "Enable highly spatially and temporally resolved imaging of disease effects on neurotransmission and brain metabolism.",
+      "Reveal novel biomarkers relevant for diagnostics and patient stratification in major depressive disorder.",
+      "Improve understanding of the impact of pharmacological treatment on brain metabolism in psychiatric disorders."
+    ],
+    "research_subject": "Imaging synaptic plasticity in psychiatric disease using ultra-high field magnetic resonance spectroscopy"
+  },
+  "openai_json": {
+    "motivations": [
+      "Psychiatric disorders lack objective criteria for primary diagnosis, early differential diagnosis, and effective therapy monitoring.",
+      "There is a need for relevant biomarkers to improve diagnosis and treatment of psychiatric disorders."
+    ],
+    "objectives": [
+      "Develop a novel methodology for imaging disease effects on neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.",
+      "Investigate the acute and chronic impact of pharmacological treatment in the human brain using advanced imaging techniques.",
+      "Reveal novel biomarkers relevant for diagnostics and patient stratification in major depressive disorder."
+    ],
+    "methods": [
+      "Utilize a unique 9.4 T whole body human magnetic resonance imaging (MRI) system for highly spatially and temporally resolved imaging.",
+      "Apply innovative MRI technology including parallel transmission, high order B0 shimming, real time field stabilization and motion correction, and advanced encoding and non-Fourier image reconstruction.",
+      "Enable functional spectroscopic imaging in the entire human brain to investigate adaptation of neurotransmission and brain metabolism to environmental stimuli and pharmacological intervention."
+    ],
+    "results": [
+      "Improve understanding of disease effects on neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.",
+      "Provide insights into the impact of pharmacological treatment on the human brain.",
+      "Identify novel biomarkers for diagnostics and patient stratification in major depressive disorder."
+    ],
+    "research_subject": "Imaging synaptic plasticity in health and psychiatric disease using ultra-high field magnetic resonance spectroscopy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Psychiatric disorders lack objective criteria for primary diagnosis, early differential diagnosis, and effective therapy monitoring, necessitating the search for relevant biomarkers.",
+      "Current methods are insufficient for understanding disease effects on neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders."
+    ],
+    "objectives": [
+      "Develop novel methodology for highly spatially and temporally resolved imaging of neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.",
+      "Enable functional spectroscopic imaging in the entire human brain to investigate adaptation to environmental stimuli and acute pharmacological interventions.",
+      "Identify novel biomarkers in major depressive disorder patients for improved diagnostics and patient stratification."
+    ],
+    "methods": [
+      "Utilize a 9.4 T whole body human MRI system for 1H, 31P and 13C magnetic resonance spectroscopic imaging.",
+      "Implement innovative MRI technology including parallel transmission, very high order B0 shimming, real-time field stabilization, and motion correction.",
+      "Apply advanced encoding and non-Fourier image reconstruction principles to obtain 20 novel image contrasts based on steady state metabolite concentrations."
+    ],
+    "results": [
+      "Enable high-quality functional spectroscopic imaging of the entire human brain with unprecedented spatial and temporal resolution.",
+      "Reveal novel biomarkers for major depressive disorder that can improve diagnostics and patient stratification.",
+      "Provide new insights into the acute and chronic impact of pharmacological treatments on brain metabolism and neurotransmission."
+    ],
+    "research_subject": "Ultra-high field magnetic resonance spectroscopy for imaging synaptic plasticity in psychiatric disorders"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Many psychiatric disorders lack objective criteria for diagnosis, differential diagnosis, and therapy monitoring, highlighting the need for relevant biomarkers.\",\n    \"Current methods for imaging synaptic plasticity and brain metabolism in psychiatric disorders are limited in spatial and temporal resolution.\"\n  ],\n  \"objectives\": [\n    \"Develop novel methodology for highly resolved imaging of neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.\",\n    \"Investigate the acute and chronic impact of pharmacological treatment on brain metabolism in psychiatric disorders.\",\n    \"Identify novel biomarkers for diagnostics and patient stratification in major depressive disorder.\"\n  ],\n  \"methods\": [\n    \"Utilize a 9.4 T whole-body human magnetic resonance imaging (MRI) system for 1H, 31P, and 13C magnetic resonance spectroscopic imaging.\",\n    \"Implement advanced MRI technology, including parallel transmission, high-order B0 shimming, and real-time field stabilization and motion correction.\",\n    \"Develop functional spectroscopic imaging in the entire human brain to investigate adaptation of neurotransmission and brain metabolism.\"\n  ],\n  \"results\": [\n    \"Enable highly spatially and temporally resolved imaging of disease effects on neurotransmission and brain metabolism.\",\n    \"Reveal novel biomarkers relevant for diagnostics and patient stratification in major depressive disorder.\",\n    \"Improve understanding of the impact of pharmacological treatment on brain metabolism in psychiatric disorders.\"\n  ],\n  \"research_subject\": \"Imaging synaptic plasticity in psychiatric disease using ultra-high field magnetic resonance spectroscopy\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Psychiatric disorders lack objective criteria for primary diagnosis, early differential diagnosis, and effective therapy monitoring.\",\n    \"There is a need for relevant biomarkers to improve diagnosis and treatment of psychiatric disorders.\"\n  ],\n  \"objectives\": [\n    \"Develop a novel methodology for imaging disease effects on neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.\",\n    \"Investigate the acute and chronic impact of pharmacological treatment in the human brain using advanced imaging techniques.\",\n    \"Reveal novel biomarkers relevant for diagnostics and patient stratification in major depressive disorder.\"\n  ],\n  \"methods\": [\n    \"Utilize a unique 9.4 T whole body human magnetic resonance imaging (MRI) system for highly spatially and temporally resolved imaging.\",\n    \"Apply innovative MRI technology including parallel transmission, high order B0 shimming, real time field stabilization and motion correction, and advanced encoding and non-Fourier image reconstruction.\",\n    \"Enable functional spectroscopic imaging in the entire human brain to investigate adaptation of neurotransmission and brain metabolism to environmental stimuli and pharmacological intervention.\"\n  ],\n  \"results\": [\n    \"Improve understanding of disease effects on neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.\",\n    \"Provide insights into the impact of pharmacological treatment on the human brain.\",\n    \"Identify novel biomarkers for diagnostics and patient stratification in major depressive disorder.\"\n  ],\n  \"research_subject\": \"Imaging synaptic plasticity in health and psychiatric disease using ultra-high field magnetic resonance spectroscopy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Psychiatric disorders lack objective criteria for primary diagnosis, early differential diagnosis, and effective therapy monitoring, necessitating the search for relevant biomarkers.\",\n    \"Current methods are insufficient for understanding disease effects on neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.\"\n  ],\n  \"objectives\": [\n    \"Develop novel methodology for highly spatially and temporally resolved imaging of neurotransmission, synaptic plasticity, and brain energy metabolism in psychiatric disorders.\",\n    \"Enable functional spectroscopic imaging in the entire human brain to investigate adaptation to environmental stimuli and acute pharmacological interventions.\",\n    \"Identify novel biomarkers in major depressive disorder patients for improved diagnostics and patient stratification.\"\n  ],\n  \"methods\": [\n    \"Utilize a 9.4 T whole body human MRI system for 1H, 31P and 13C magnetic resonance spectroscopic imaging.\",\n    \"Implement innovative MRI technology including parallel transmission, very high order B0 shimming, real-time field stabilization, and motion correction.\",\n    \"Apply advanced encoding and non-Fourier image reconstruction principles to obtain 20 novel image contrasts based on steady state metabolite concentrations.\"\n  ],\n  \"results\": [\n    \"Enable high-quality functional spectroscopic imaging of the entire human brain with unprecedented spatial and temporal resolution.\",\n    \"Reveal novel biomarkers for major depressive disorder that can improve diagnostics and patient stratification.\",\n    \"Provide new insights into the acute and chronic impact of pharmacological treatments on brain metabolism and neurotransmission.\"\n  ],\n  \"research_subject\": \"Ultra-high field magnetic resonance spectroscopy for imaging synaptic plasticity in psychiatric disorders\"\n}\n```"
+}

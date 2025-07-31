@@ -1,0 +1,43 @@
+{
+  "index": 44,
+  "title": "Exponential Convergence Towards Consensus for Non-Symmetric Linear First-Order Systems in Finite and Infinite Dimensions",
+  "abstract": "come from teaching and research institutions in France or abroad, or from public or private research centers.L'archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. Exponential convergence towards consensus for non-symmetric linear first-order systems in finite and infinite dimensions",
+  "llama_json": {
+    "motivations": [],
+    "objectives": [
+      "Investigate exponential convergence towards consensus for non-symmetric linear first-order systems."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Exponential convergence towards consensus for non-symmetric linear first-order systems"
+  },
+  "openai_json": {
+    "motivations": [],
+    "objectives": [],
+    "methods": [],
+    "results": [],
+    "research_subject": "Exponential convergence towards consensus for non-symmetric linear first-order systems in finite and infinite dimensions"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding the convergence behavior of non-symmetric linear first-order systems towards consensus is crucial for applications in distributed systems and multi-agent coordination.",
+      "Existing results on consensus convergence often focus on symmetric systems, leaving a gap in the analysis of non-symmetric cases in both finite and infinite dimensions."
+    ],
+    "objectives": [
+      "Establish exponential convergence rates for consensus in non-symmetric linear first-order systems.",
+      "Extend the analysis to both finite-dimensional and infinite-dimensional settings."
+    ],
+    "methods": [
+      "Analyze the spectral properties and stability of non-symmetric linear operators governing the system dynamics.",
+      "Develop mathematical frameworks to prove exponential convergence bounds for consensus formation."
+    ],
+    "results": [
+      "Demonstrate that non-symmetric linear first-order systems can achieve exponential convergence to consensus under appropriate conditions.",
+      "Provide theoretical convergence rates applicable to both finite and infinite-dimensional systems."
+    ],
+    "research_subject": "Exponential convergence analysis of non-symmetric linear first-order consensus systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [\n    \"Investigate exponential convergence towards consensus for non-symmetric linear first-order systems.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Exponential convergence towards consensus for non-symmetric linear first-order systems\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [],\n  \"objectives\": [],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Exponential convergence towards consensus for non-symmetric linear first-order systems in finite and infinite dimensions\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the convergence behavior of non-symmetric linear first-order systems towards consensus is crucial for applications in distributed systems and multi-agent coordination.\",\n    \"Existing results on consensus convergence often focus on symmetric systems, leaving a gap in the analysis of non-symmetric cases in both finite and infinite dimensions.\"\n  ],\n  \"objectives\": [\n    \"Establish exponential convergence rates for consensus in non-symmetric linear first-order systems.\",\n    \"Extend the analysis to both finite-dimensional and infinite-dimensional settings.\"\n  ],\n  \"methods\": [\n    \"Analyze the spectral properties and stability of non-symmetric linear operators governing the system dynamics.\",\n    \"Develop mathematical frameworks to prove exponential convergence bounds for consensus formation.\"\n  ],\n  \"results\": [\n    \"Demonstrate that non-symmetric linear first-order systems can achieve exponential convergence to consensus under appropriate conditions.\",\n    \"Provide theoretical convergence rates applicable to both finite and infinite-dimensional systems.\"\n  ],\n  \"research_subject\": \"Exponential convergence analysis of non-symmetric linear first-order consensus systems\"\n}\n```"
+}

@@ -1,0 +1,67 @@
+{
+  "index": 16,
+  "title": "Perceptions and Performance of Undergraduate Medical Students in Objective Structured Practical Examinations (OSPE) in Biochemistry at Rak Medical and Health Sciences University (Rakmhsu), UAE",
+  "abstract": "INTRODUCTION: Health educators and accrediting bodies have defined objectives and competencies that medical students need to acquire to become a safe doctor. The present study was done to determine the student perception and satisfaction regarding OSPE as an assessment method of laboratory practical sessions in Biochemistry. MATERIAL AND METHODS: During OSPE sessions hundred MBBS first year students were divided into 3 different batches. These students were asked to rotate around 10 different working stations. Each station designed to complete a task comfortably within 5 minutes. One or two rest stations of 5 minutes are given at end or in between to complete the unfinished writing work. All the students perform the same task in the same time frame. Institutional research and effectiveness office (IRO) gets the student feedbacks on OSPE will inevitably result in the refinement of the OSPE as a tool for learning and evaluation. RESULTS: The study showed that 96.5% students agreed that OSPE questions were linked to the curriculum and 93% of students felt objectives were clear. Eight eight percent students perceived that OSPE covered a wide range of learning outcomes. Ninety five percent felt relevant psychomotor skills were assessed using agreed check list. An 86% and 81% of student perceived that it was conducted fairly and is unbiased. In terms of stress we got mixed response as 50.5% percent of students perceived OSPE to be less stressful and other half felt stressful. Seventy two percent of students agreed OSPE preparation facilitated team work. Ninety percent strongly agreed that exam scores are better and 83% said it is easier to pass. Fifty four percent of the students felt that the time given was too short; especially for procedure stations. Ninety six percent of students felt OSPE should be an integral part of assessment tool for the Biochemistry practical's. CONCLUSION: The current study showed several advantages of OSPE as an objective, structured, unbiased, fair, valid and reliable assessment method. In view of the tremendous advantages, OSPE should be included in summative evaluation to improve student's clinical competence.DOI: http://dx.doi.org/10.3126/jucms.v2i4.12071 Journal of Universal College of Medical Sciences (2014) Vol.02 No.04 Issue 08Page: 54-61",
+  "llama_json": {
+    "motivations": [
+      "There is a need to assess the effectiveness of Objective Structured Practical Examinations (OSPE) as a method for evaluating laboratory practical sessions in Biochemistry.",
+      "Understanding student perceptions and satisfaction with OSPE can help refine it as a tool for learning and evaluation."
+    ],
+    "objectives": [
+      "Determine student perception and satisfaction regarding OSPE as an assessment method in Biochemistry.",
+      "Evaluate the effectiveness of OSPE in assessing student learning outcomes and clinical competence."
+    ],
+    "methods": [
+      "Conducted OSPE sessions with 100 MBBS first-year students, divided into 3 batches, rotating around 10 working stations.",
+      "Collected student feedback through the Institutional Research and Effectiveness Office (IRO)."
+    ],
+    "results": [
+      "Students generally perceived OSPE as a fair, unbiased, and relevant assessment method that effectively evaluated their learning outcomes and clinical competence.",
+      "The majority of students agreed that OSPE should be an integral part of the assessment tool for Biochemistry practicals."
+    ],
+    "research_subject": "Student perceptions and performance in Objective Structured Practical Examinations (OSPE) in Biochemistry"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to determine the effectiveness and student perception of Objective Structured Practical Examinations (OSPE) as an assessment method in Biochemistry.",
+      "Understanding how students perceive the fairness, stress levels, and usefulness of OSPE can help refine this tool for learning and evaluation."
+    ],
+    "objectives": [
+      "Assess student perception and satisfaction regarding OSPE as an assessment method for laboratory practical sessions in Biochemistry.",
+      "Evaluate the extent to which OSPE questions are linked to the curriculum, cover a wide range of learning outcomes, and assess relevant psychomotor skills."
+    ],
+    "methods": [
+      "Conduct OSPE sessions with first year MBBS students, rotating them around different working stations designed for specific tasks.",
+      "Collect student feedback on various aspects of OSPE through the Institutional Research and Effectiveness Office (IRO)."
+    ],
+    "results": [
+      "Most students agreed that OSPE questions were linked to the curriculum, objectives were clear, and a wide range of learning outcomes were covered.",
+      "A majority of students perceived OSPE as fair and unbiased, and felt that it facilitated teamwork and led to better exam scores.",
+      "There were mixed responses regarding the stress levels associated with OSPE, and some students felt that the time given was too short."
+    ],
+    "research_subject": "Perceptions and performance of undergraduate medical students in Objective Structured Practical Examinations in Biochemistry"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Medical students need to acquire specific objectives and competencies to become safe doctors, requiring effective assessment methods for laboratory practical sessions.",
+      "There is a need to evaluate student perceptions and satisfaction with assessment methods to improve medical education quality."
+    ],
+    "objectives": [
+      "Determine student perception and satisfaction regarding OSPE as an assessment method for laboratory practical sessions in Biochemistry.",
+      "Evaluate the effectiveness of OSPE in assessing medical students' practical competencies and learning outcomes."
+    ],
+    "methods": [
+      "Implemented OSPE sessions with students rotating through 10 different working stations, each designed for 5-minute tasks.",
+      "Collected student feedback through institutional surveys to assess perceptions of OSPE across multiple dimensions including fairness, clarity, and stress levels."
+    ],
+    "results": [
+      "Over 90% of students agreed that OSPE questions were curriculum-linked, objectives were clear, and the method was fair and unbiased.",
+      "Students reported better exam scores and higher pass rates with OSPE, though opinions were mixed regarding stress levels.",
+      "96% of students felt OSPE should be an integral part of Biochemistry practical assessment."
+    ],
+    "research_subject": "Student perceptions and performance in Objective Structured Practical Examinations (OSPE) for Biochemistry education"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to assess the effectiveness of Objective Structured Practical Examinations (OSPE) as a method for evaluating laboratory practical sessions in Biochemistry.\",\n    \"Understanding student perceptions and satisfaction with OSPE can help refine it as a tool for learning and evaluation.\"\n  ],\n  \"objectives\": [\n    \"Determine student perception and satisfaction regarding OSPE as an assessment method in Biochemistry.\",\n    \"Evaluate the effectiveness of OSPE in assessing student learning outcomes and clinical competence.\"\n  ],\n  \"methods\": [\n    \"Conducted OSPE sessions with 100 MBBS first-year students, divided into 3 batches, rotating around 10 working stations.\",\n    \"Collected student feedback through the Institutional Research and Effectiveness Office (IRO).\"\n  ],\n  \"results\": [\n    \"Students generally perceived OSPE as a fair, unbiased, and relevant assessment method that effectively evaluated their learning outcomes and clinical competence.\",\n    \"The majority of students agreed that OSPE should be an integral part of the assessment tool for Biochemistry practicals.\"\n  ],\n  \"research_subject\": \"Student perceptions and performance in Objective Structured Practical Examinations (OSPE) in Biochemistry\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to determine the effectiveness and student perception of Objective Structured Practical Examinations (OSPE) as an assessment method in Biochemistry.\",\n    \"Understanding how students perceive the fairness, stress levels, and usefulness of OSPE can help refine this tool for learning and evaluation.\"\n  ],\n  \"objectives\": [\n    \"Assess student perception and satisfaction regarding OSPE as an assessment method for laboratory practical sessions in Biochemistry.\",\n    \"Evaluate the extent to which OSPE questions are linked to the curriculum, cover a wide range of learning outcomes, and assess relevant psychomotor skills.\"\n  ],\n  \"methods\": [\n    \"Conduct OSPE sessions with first year MBBS students, rotating them around different working stations designed for specific tasks.\",\n    \"Collect student feedback on various aspects of OSPE through the Institutional Research and Effectiveness Office (IRO).\"\n  ],\n  \"results\": [\n    \"Most students agreed that OSPE questions were linked to the curriculum, objectives were clear, and a wide range of learning outcomes were covered.\",\n    \"A majority of students perceived OSPE as fair and unbiased, and felt that it facilitated teamwork and led to better exam scores.\",\n    \"There were mixed responses regarding the stress levels associated with OSPE, and some students felt that the time given was too short.\"\n  ],\n  \"research_subject\": \"Perceptions and performance of undergraduate medical students in Objective Structured Practical Examinations in Biochemistry\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Medical students need to acquire specific objectives and competencies to become safe doctors, requiring effective assessment methods for laboratory practical sessions.\",\n    \"There is a need to evaluate student perceptions and satisfaction with assessment methods to improve medical education quality.\"\n  ],\n  \"objectives\": [\n    \"Determine student perception and satisfaction regarding OSPE as an assessment method for laboratory practical sessions in Biochemistry.\",\n    \"Evaluate the effectiveness of OSPE in assessing medical students' practical competencies and learning outcomes.\"\n  ],\n  \"methods\": [\n    \"Implemented OSPE sessions with students rotating through 10 different working stations, each designed for 5-minute tasks.\",\n    \"Collected student feedback through institutional surveys to assess perceptions of OSPE across multiple dimensions including fairness, clarity, and stress levels.\"\n  ],\n  \"results\": [\n    \"Over 90% of students agreed that OSPE questions were curriculum-linked, objectives were clear, and the method was fair and unbiased.\",\n    \"Students reported better exam scores and higher pass rates with OSPE, though opinions were mixed regarding stress levels.\",\n    \"96% of students felt OSPE should be an integral part of Biochemistry practical assessment.\"\n  ],\n  \"research_subject\": \"Student perceptions and performance in Objective Structured Practical Examinations (OSPE) for Biochemistry education\"\n}\n```"
+}

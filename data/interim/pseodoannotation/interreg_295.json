@@ -1,0 +1,76 @@
+{
+  "index": 51,
+  "title": "Agricultural Waste valorization for a competitive and sustainable Regional Development",
+  "abstract": "The project stems from the observation of the massive use of plastic materials in agriculture, whose disposal is a high cost for companies, besides being a serious environmental problem. The general aim of the project is, therefore, to enhance competitiveness for the agricultural companies by reducing the costs of collection and disposal of plastic wastes. The specific objectives are: - to introduce the use of technologies (web based GIS) - to promote the application of international standards in public policies and to develop common local plans and procedures - to test the procedures of collection through the implementation of a temporary pilot station of disposal, cleaning and re-use - to transfer to small agricultural businesses the innovation and technological findings - to raise awareness of farmers on the possibility of making value of the plastic waste stream - to stimulate the creation of new small businesses in the field of collection and recycling of plastic waste, - to promote the mainstreaming of results in regional and national policies.",
+  "llama_json": {
+    "motivations": [
+      "The massive use of plastic materials in agriculture poses a significant environmental problem and high disposal costs for companies.",
+      "There is a need to enhance competitiveness for agricultural companies by reducing waste management costs and promoting sustainable practices."
+    ],
+    "objectives": [
+      "Reduce the costs of collection and disposal of plastic wastes for agricultural companies.",
+      "Promote the application of international standards in public policies and develop common local plans and procedures for waste management.",
+      "Transfer innovation and technological findings to small agricultural businesses and raise awareness on the value of plastic waste recycling."
+    ],
+    "methods": [
+      "Introduce the use of web-based GIS technologies for waste management.",
+      "Implement a temporary pilot station for disposal, cleaning, and re-use of plastic waste.",
+      "Develop and promote local plans and procedures for waste collection and recycling."
+    ],
+    "results": [
+      "Enhance competitiveness and sustainability of agricultural companies through reduced waste management costs.",
+      "Promote the creation of new small businesses in the field of plastic waste collection and recycling.",
+      "Raise awareness and stimulate mainstreaming of sustainable waste management practices in regional and national policies."
+    ],
+    "research_subject": "Agricultural waste valorization for sustainable regional development"
+  },
+  "openai_json": {
+    "motivations": [
+      "The massive use of plastic materials in agriculture leads to high disposal costs and serious environmental problems.",
+      "There is a need to enhance competitiveness for agricultural companies by reducing the costs of collection and disposal of plastic wastes."
+    ],
+    "objectives": [
+      "Introduce the use of web-based GIS technologies to manage agricultural plastic waste.",
+      "Promote the application of international standards in public policies and develop common local plans and procedures for waste management.",
+      "Test the procedures of collection through a temporary pilot station of disposal, cleaning, and re-use.",
+      "Transfer innovation and technological findings to small agricultural businesses.",
+      "Raise awareness among farmers about the value of the plastic waste stream and stimulate the creation of new small businesses in the field of collection and recycling of plastic waste."
+    ],
+    "methods": [
+      "Implement web-based GIS technologies for waste management.",
+      "Develop and test procedures for collection, disposal, cleaning, and re-use of plastic waste through a temporary pilot station.",
+      "Transfer technological findings to small agricultural businesses and promote the creation of new businesses in the field of waste collection and recycling."
+    ],
+    "results": [
+      "Reduce the costs of collection and disposal of plastic wastes for agricultural companies.",
+      "Increase awareness among farmers about the value of plastic waste and stimulate the creation of new businesses in waste collection and recycling.",
+      "Influence regional and national policies through the mainstreaming of project results."
+    ],
+    "research_subject": "Valorization of agricultural plastic waste for sustainable regional development"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Agricultural companies face high costs for the collection and disposal of plastic waste materials used in farming operations.",
+      "The massive use of plastic materials in agriculture creates serious environmental problems that require sustainable solutions."
+    ],
+    "objectives": [
+      "Enhance competitiveness of agricultural companies by reducing costs associated with plastic waste collection and disposal.",
+      "Introduce web-based GIS technologies and international standards for waste management in agricultural sectors.",
+      "Stimulate the creation of new businesses in plastic waste collection and recycling while promoting policy integration at regional and national levels."
+    ],
+    "methods": [
+      "Implement web-based GIS technologies for waste management optimization.",
+      "Establish a pilot station for testing procedures of plastic waste collection, cleaning, and reuse.",
+      "Conduct knowledge transfer activities and awareness campaigns targeting small agricultural businesses and farmers."
+    ],
+    "results": [
+      "Reduced operational costs for agricultural companies through improved plastic waste management systems.",
+      "Creation of new business opportunities in the plastic waste collection and recycling sector.",
+      "Integration of sustainable waste management practices into regional and national agricultural policies."
+    ],
+    "research_subject": "Valorization of agricultural plastic waste for regional competitiveness and sustainability"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The massive use of plastic materials in agriculture poses a significant environmental problem and high disposal costs for companies.\",\n    \"There is a need to enhance competitiveness for agricultural companies by reducing waste management costs and promoting sustainable practices.\"\n  ],\n  \"objectives\": [\n    \"Reduce the costs of collection and disposal of plastic wastes for agricultural companies.\",\n    \"Promote the application of international standards in public policies and develop common local plans and procedures for waste management.\",\n    \"Transfer innovation and technological findings to small agricultural businesses and raise awareness on the value of plastic waste recycling.\"\n  ],\n  \"methods\": [\n    \"Introduce the use of web-based GIS technologies for waste management.\",\n    \"Implement a temporary pilot station for disposal, cleaning, and re-use of plastic waste.\",\n    \"Develop and promote local plans and procedures for waste collection and recycling.\"\n  ],\n  \"results\": [\n    \"Enhance competitiveness and sustainability of agricultural companies through reduced waste management costs.\",\n    \"Promote the creation of new small businesses in the field of plastic waste collection and recycling.\",\n    \"Raise awareness and stimulate mainstreaming of sustainable waste management practices in regional and national policies.\"\n  ],\n  \"research_subject\": \"Agricultural waste valorization for sustainable regional development\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The massive use of plastic materials in agriculture leads to high disposal costs and serious environmental problems.\",\n    \"There is a need to enhance competitiveness for agricultural companies by reducing the costs of collection and disposal of plastic wastes.\"\n  ],\n  \"objectives\": [\n    \"Introduce the use of web-based GIS technologies to manage agricultural plastic waste.\",\n    \"Promote the application of international standards in public policies and develop common local plans and procedures for waste management.\",\n    \"Test the procedures of collection through a temporary pilot station of disposal, cleaning, and re-use.\",\n    \"Transfer innovation and technological findings to small agricultural businesses.\",\n    \"Raise awareness among farmers about the value of the plastic waste stream and stimulate the creation of new small businesses in the field of collection and recycling of plastic waste.\"\n  ],\n  \"methods\": [\n    \"Implement web-based GIS technologies for waste management.\",\n    \"Develop and test procedures for collection, disposal, cleaning, and re-use of plastic waste through a temporary pilot station.\",\n    \"Transfer technological findings to small agricultural businesses and promote the creation of new businesses in the field of waste collection and recycling.\"\n  ],\n  \"results\": [\n    \"Reduce the costs of collection and disposal of plastic wastes for agricultural companies.\",\n    \"Increase awareness among farmers about the value of plastic waste and stimulate the creation of new businesses in waste collection and recycling.\",\n    \"Influence regional and national policies through the mainstreaming of project results.\"\n  ],\n  \"research_subject\": \"Valorization of agricultural plastic waste for sustainable regional development\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Agricultural companies face high costs for the collection and disposal of plastic waste materials used in farming operations.\",\n    \"The massive use of plastic materials in agriculture creates serious environmental problems that require sustainable solutions.\"\n  ],\n  \"objectives\": [\n    \"Enhance competitiveness of agricultural companies by reducing costs associated with plastic waste collection and disposal.\",\n    \"Introduce web-based GIS technologies and international standards for waste management in agricultural sectors.\",\n    \"Stimulate the creation of new businesses in plastic waste collection and recycling while promoting policy integration at regional and national levels.\"\n  ],\n  \"methods\": [\n    \"Implement web-based GIS technologies for waste management optimization.\",\n    \"Establish a pilot station for testing procedures of plastic waste collection, cleaning, and reuse.\",\n    \"Conduct knowledge transfer activities and awareness campaigns targeting small agricultural businesses and farmers.\"\n  ],\n  \"results\": [\n    \"Reduced operational costs for agricultural companies through improved plastic waste management systems.\",\n    \"Creation of new business opportunities in the plastic waste collection and recycling sector.\",\n    \"Integration of sustainable waste management practices into regional and national agricultural policies.\"\n  ],\n  \"research_subject\": \"Valorization of agricultural plastic waste for regional competitiveness and sustainability\"\n}\n```"
+}

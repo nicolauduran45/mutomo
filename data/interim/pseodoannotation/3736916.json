@@ -1,0 +1,71 @@
+{
+  "index": 472,
+  "title": "Polyhedral discretisation methods for geomechanical simulation of faults and fractures in poroelastic media",
+  "abstract": "Understanding subsurface geological processes is crucial for the prevention of environmental damage and the development of renewable alternatives for energy generation. The key for the successful assessment of subsurface activities is the ability to perform accurate numerical simulations able to predict the effects of soil exploitation. Envisioned research activities will focus on the design and analysis of advanced nonconforming polyhedral discretisation methods for simulating fault mechanics and fracture propagation in poroelastic media. The main goal is to provide an efficient mathematical and numerical framework to evaluate and prevent risks related to several human geological activities. In this project, we aim at developing and analysing new nonconforming polyhedral finite element methods able to tame the mathematical and numerical challenges that have to be accounted for in geomechanical modelling: the geometric complexity arising from the presence of various layers and fractures, the strong coupling between the flow and the mechanics, and the possible rough variations of the physical parameters. In this context, for inner interface and moving discontinuities problems, such as fault slip and fracture growth, the versatility of polyhedral finite element methods allows to successfully tame the geometric complexity as well as facilitate mesh adaptivity and provide a greater robustness with respect to mesh distortions. The research will target the investigation of the models describing fault mechanics and the interaction between propagating fractures and fluid flow. The computational performance of the proposed discretisation schemes will be assessed on a complete panel of realistic test cases.",
+  "llama_json": {
+    "motivations": [
+      "Understanding subsurface geological processes is crucial for preventing environmental damage and developing renewable energy alternatives.",
+      "Accurate numerical simulations are needed to predict the effects of soil exploitation and assess subsurface activities."
+    ],
+    "objectives": [
+      "Design and analyze advanced nonconforming polyhedral discretisation methods for simulating fault mechanics and fracture propagation in poroelastic media.",
+      "Develop an efficient mathematical and numerical framework to evaluate and prevent risks related to human geological activities."
+    ],
+    "methods": [
+      "Develop and analyze new nonconforming polyhedral finite element methods to address geometric complexity, strong coupling, and rough variations of physical parameters.",
+      "Utilize polyhedral finite element methods to tame geometric complexity, facilitate mesh adaptivity, and provide robustness against mesh distortions."
+    ],
+    "results": [
+      "Provide an efficient numerical framework for simulating fault mechanics and fracture propagation in poroelastic media.",
+      "Enable accurate predictions of subsurface geological processes and risk assessments related to human geological activities."
+    ],
+    "research_subject": "Polyhedral discretisation methods for geomechanical simulation of faults and fractures in poroelastic media"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding subsurface geological processes is essential for environmental protection and the development of renewable energy alternatives.",
+      "Accurate numerical simulations are needed to predict the effects of soil exploitation and assess subsurface activities.",
+      "There are mathematical and numerical challenges in geomechanical modelling, such as geometric complexity, strong coupling between flow and mechanics, and rough variations of physical parameters."
+    ],
+    "objectives": [
+      "Design and analyze advanced nonconforming polyhedral discretisation methods for simulating fault mechanics and fracture propagation in poroelastic media.",
+      "Develop an efficient mathematical and numerical framework to evaluate and prevent risks related to human geological activities.",
+      "Investigate the models describing fault mechanics and the interaction between propagating fractures and fluid flow."
+    ],
+    "methods": [
+      "Develop and analyze new nonconforming polyhedral finite element methods to address the challenges in geomechanical modelling.",
+      "Use the versatility of polyhedral finite element methods to manage geometric complexity, facilitate mesh adaptivity, and provide robustness against mesh distortions.",
+      "Assess the computational performance of the proposed discretisation schemes on a complete panel of realistic test cases."
+    ],
+    "results": [
+      "Provide an efficient mathematical and numerical framework for risk evaluation and prevention in human geological activities.",
+      "Improve the accuracy of numerical simulations for subsurface geological processes.",
+      "Enhance the understanding of fault mechanics and the interaction between propagating fractures and fluid flow."
+    ],
+    "research_subject": "Polyhedral discretisation methods for geomechanical simulation of faults and fractures in poroelastic media"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding subsurface geological processes is essential for preventing environmental damage and developing renewable energy alternatives.",
+      "Current numerical methods face challenges in accurately simulating fault mechanics and fracture propagation in complex geological media with varying physical parameters."
+    ],
+    "objectives": [
+      "Design and analyze advanced nonconforming polyhedral discretisation methods for simulating fault mechanics and fracture propagation in poroelastic media.",
+      "Develop an efficient mathematical and numerical framework to evaluate and prevent risks associated with human geological activities."
+    ],
+    "methods": [
+      "Develop nonconforming polyhedral finite element methods to handle geometric complexity from layers and fractures in geological media.",
+      "Implement discretisation schemes that address strong coupling between flow and mechanics, and accommodate rough variations in physical parameters.",
+      "Utilize the versatility of polyhedral finite element methods to facilitate mesh adaptivity and ensure robustness against mesh distortions."
+    ],
+    "results": [
+      "Provide accurate numerical simulations for predicting the effects of soil exploitation and subsurface activities.",
+      "Enable better assessment and prevention of risks related to geological activities through improved modeling of fault mechanics and fracture-fluid interactions.",
+      "Demonstrate computational performance of the proposed methods through realistic test cases."
+    ],
+    "research_subject": "Polyhedral discretisation methods for geomechanical simulation of faults and fractures in poroelastic media"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding subsurface geological processes is crucial for preventing environmental damage and developing renewable energy alternatives.\",\n    \"Accurate numerical simulations are needed to predict the effects of soil exploitation and assess subsurface activities.\"\n  ],\n  \"objectives\": [\n    \"Design and analyze advanced nonconforming polyhedral discretisation methods for simulating fault mechanics and fracture propagation in poroelastic media.\",\n    \"Develop an efficient mathematical and numerical framework to evaluate and prevent risks related to human geological activities.\"\n  ],\n  \"methods\": [\n    \"Develop and analyze new nonconforming polyhedral finite element methods to address geometric complexity, strong coupling, and rough variations of physical parameters.\",\n    \"Utilize polyhedral finite element methods to tame geometric complexity, facilitate mesh adaptivity, and provide robustness against mesh distortions.\"\n  ],\n  \"results\": [\n    \"Provide an efficient numerical framework for simulating fault mechanics and fracture propagation in poroelastic media.\",\n    \"Enable accurate predictions of subsurface geological processes and risk assessments related to human geological activities.\"\n  ],\n  \"research_subject\": \"Polyhedral discretisation methods for geomechanical simulation of faults and fractures in poroelastic media\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding subsurface geological processes is essential for environmental protection and the development of renewable energy alternatives.\",\n    \"Accurate numerical simulations are needed to predict the effects of soil exploitation and assess subsurface activities.\",\n    \"There are mathematical and numerical challenges in geomechanical modelling, such as geometric complexity, strong coupling between flow and mechanics, and rough variations of physical parameters.\"\n  ],\n  \"objectives\": [\n    \"Design and analyze advanced nonconforming polyhedral discretisation methods for simulating fault mechanics and fracture propagation in poroelastic media.\",\n    \"Develop an efficient mathematical and numerical framework to evaluate and prevent risks related to human geological activities.\",\n    \"Investigate the models describing fault mechanics and the interaction between propagating fractures and fluid flow.\"\n  ],\n  \"methods\": [\n    \"Develop and analyze new nonconforming polyhedral finite element methods to address the challenges in geomechanical modelling.\",\n    \"Use the versatility of polyhedral finite element methods to manage geometric complexity, facilitate mesh adaptivity, and provide robustness against mesh distortions.\",\n    \"Assess the computational performance of the proposed discretisation schemes on a complete panel of realistic test cases.\"\n  ],\n  \"results\": [\n    \"Provide an efficient mathematical and numerical framework for risk evaluation and prevention in human geological activities.\",\n    \"Improve the accuracy of numerical simulations for subsurface geological processes.\",\n    \"Enhance the understanding of fault mechanics and the interaction between propagating fractures and fluid flow.\"\n  ],\n  \"research_subject\": \"Polyhedral discretisation methods for geomechanical simulation of faults and fractures in poroelastic media\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding subsurface geological processes is essential for preventing environmental damage and developing renewable energy alternatives.\",\n    \"Current numerical methods face challenges in accurately simulating fault mechanics and fracture propagation in complex geological media with varying physical parameters.\"\n  ],\n  \"objectives\": [\n    \"Design and analyze advanced nonconforming polyhedral discretisation methods for simulating fault mechanics and fracture propagation in poroelastic media.\",\n    \"Develop an efficient mathematical and numerical framework to evaluate and prevent risks associated with human geological activities.\"\n  ],\n  \"methods\": [\n    \"Develop nonconforming polyhedral finite element methods to handle geometric complexity from layers and fractures in geological media.\",\n    \"Implement discretisation schemes that address strong coupling between flow and mechanics, and accommodate rough variations in physical parameters.\",\n    \"Utilize the versatility of polyhedral finite element methods to facilitate mesh adaptivity and ensure robustness against mesh distortions.\"\n  ],\n  \"results\": [\n    \"Provide accurate numerical simulations for predicting the effects of soil exploitation and subsurface activities.\",\n    \"Enable better assessment and prevention of risks related to geological activities through improved modeling of fault mechanics and fracture-fluid interactions.\",\n    \"Demonstrate computational performance of the proposed methods through realistic test cases.\"\n  ],\n  \"research_subject\": \"Polyhedral discretisation methods for geomechanical simulation of faults and fractures in poroelastic media\"\n}\n```"
+}

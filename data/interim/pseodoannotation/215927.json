@@ -1,0 +1,76 @@
+{
+  "index": 378,
+  "title": "Disruptive cybersecurity saas for smes and freelance developers",
+  "abstract": "After obtaining the Seal of Excellence from the EU (Attached), this is an improved version of the proposal. Given the accelerating growth and importance of cybersecurity across many sectors of the economy and society, we have detected and aim to solve the lack of effective security provision in software engineering. Our system automates the vulnerability scanning of software assets and reduces the effort required for development teams to adopt security best practices. Further, our solution reduces costs by 80% compared to hiring consultants for like-for-like tasks. By enabling developers to scan their code before going to production, we can save firms between 3 to 30 times the cost of development, help firms build trust with end-users, empower and educate developers. Confirming market need, the product has been tested and is currently being adopted by 25 companies. The objective of our proposal is to enhance research and development into specific use cases. In particular, we shall focus our efforts on the needs of developers active in the Internet of Things, where security is in its infancy. While our system currently automatically scans ports, web servers, applications and containers, the goal of continued R&D is to expand this disruptive platform to integrate with IoT technologies and platforms to offer scanning encompassing both broader and deeper use cases than the competition, who tend to focus on providing tools to cover compliance standards. Our market is worldwide and shall be targeted through a network of partners and direct online sales via a subscription model. With a balanced, experienced team and carefully architected system, as well as impressive early market traction, we are optimistic about the long term adoption of Secure Secure's services by developers who are growing ever more conscious about the importance of security.",
+  "llama_json": {
+    "motivations": [
+      "There is a lack of effective security provision in software engineering, particularly for SMEs and freelance developers.",
+      "Current cybersecurity solutions are costly and inefficient, with firms often relying on hiring consultants for vulnerability scanning and security best practices."
+    ],
+    "objectives": [
+      "Enhance research and development of a disruptive cybersecurity SaaS platform to address specific use cases, particularly for Internet of Things (IoT) developers.",
+      "Expand the platform's capabilities to integrate with IoT technologies and offer broader and deeper scanning use cases.",
+      "Reduce costs and effort required for development teams to adopt security best practices."
+    ],
+    "methods": [
+      "Automate vulnerability scanning of software assets using a SaaS platform.",
+      "Develop and integrate the platform with IoT technologies to offer expanded scanning capabilities.",
+      "Utilize a subscription-based model and partner network for worldwide market targeting."
+    ],
+    "results": [
+      "Reduce costs for firms by 80% compared to hiring consultants for like-for-like tasks.",
+      "Save firms between 3 to 30 times the cost of development by enabling developers to scan code before production.",
+      "Empower and educate developers to build trust with end-users and prioritize security."
+    ],
+    "research_subject": "Disruptive cybersecurity SaaS for SMEs and freelance developers using automated vulnerability scanning"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a growing need for effective cybersecurity in software engineering, particularly in the context of the accelerating importance of cybersecurity across various sectors.",
+      "There is a lack of automated tools for vulnerability scanning of software assets, which increases the effort required for development teams to adopt security best practices.",
+      "The cost of hiring consultants for security tasks is high, creating a need for more cost-effective solutions."
+    ],
+    "objectives": [
+      "Automate the vulnerability scanning of software assets to reduce the effort required by development teams and decrease costs.",
+      "Enhance research and development to cater to specific use cases, particularly focusing on the needs of developers active in the Internet of Things.",
+      "Expand the platform to integrate with IoT technologies and platforms, offering scanning that encompasses broader and deeper use cases than the competition."
+    ],
+    "methods": [
+      "Develop an automated system that scans software assets for vulnerabilities, reducing the need for manual effort and lowering costs.",
+      "Conduct research and development to tailor the system to the needs of developers in the Internet of Things sector.",
+      "Expand the platform's capabilities to integrate with IoT technologies and platforms, enabling broader and deeper scanning."
+    ],
+    "results": [
+      "Reduce the cost of software security by automating vulnerability scanning, potentially saving firms between 3 to 30 times the cost of development.",
+      "Help firms build trust with end-users and educate developers about security best practices.",
+      "Expand the platform's capabilities to offer broader and deeper scanning for IoT technologies and platforms, outperforming competitors who focus on compliance standards."
+    ],
+    "research_subject": "Disruptive cybersecurity software as a service for SMEs and freelance developers"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Software engineering lacks effective security provision, leading to vulnerabilities that can cost firms 3 to 30 times the development cost when discovered in production.",
+      "Small and medium enterprises and freelance developers need affordable cybersecurity solutions as consultant-based security assessments are prohibitively expensive.",
+      "The Internet of Things sector has immature security practices that require specialized vulnerability scanning capabilities."
+    ],
+    "objectives": [
+      "Develop and enhance an automated vulnerability scanning platform that reduces security implementation costs by 80% compared to traditional consulting services.",
+      "Expand the platform's capabilities to integrate with IoT technologies and provide comprehensive security scanning for emerging use cases.",
+      "Enable developers to identify and fix security vulnerabilities before production deployment through accessible and educational tools."
+    ],
+    "methods": [
+      "Automate vulnerability scanning across ports, web servers, applications, and containers through a SaaS platform.",
+      "Conduct research and development focused on IoT-specific security requirements and integration capabilities.",
+      "Deploy the solution through a subscription-based model with distribution via partner networks and direct online sales."
+    ],
+    "results": [
+      "Reduce security implementation costs for SMEs and developers while preventing expensive post-production vulnerability fixes.",
+      "Establish market adoption with initial traction from 25 companies testing and implementing the platform.",
+      "Build developer trust and security awareness through accessible cybersecurity tools that cover broader use cases than compliance-focused competitors."
+    ],
+    "research_subject": "Automated cybersecurity vulnerability scanning platform for SMEs and developers with IoT integration"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of effective security provision in software engineering, particularly for SMEs and freelance developers.\",\n    \"Current cybersecurity solutions are costly and inefficient, with firms often relying on hiring consultants for vulnerability scanning and security best practices.\"\n  ],\n  \"objectives\": [\n    \"Enhance research and development of a disruptive cybersecurity SaaS platform to address specific use cases, particularly for Internet of Things (IoT) developers.\",\n    \"Expand the platform's capabilities to integrate with IoT technologies and offer broader and deeper scanning use cases.\",\n    \"Reduce costs and effort required for development teams to adopt security best practices.\"\n  ],\n  \"methods\": [\n    \"Automate vulnerability scanning of software assets using a SaaS platform.\",\n    \"Develop and integrate the platform with IoT technologies to offer expanded scanning capabilities.\",\n    \"Utilize a subscription-based model and partner network for worldwide market targeting.\"\n  ],\n  \"results\": [\n    \"Reduce costs for firms by 80% compared to hiring consultants for like-for-like tasks.\",\n    \"Save firms between 3 to 30 times the cost of development by enabling developers to scan code before production.\",\n    \"Empower and educate developers to build trust with end-users and prioritize security.\"\n  ],\n  \"research_subject\": \"Disruptive cybersecurity SaaS for SMEs and freelance developers using automated vulnerability scanning\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a growing need for effective cybersecurity in software engineering, particularly in the context of the accelerating importance of cybersecurity across various sectors.\",\n    \"There is a lack of automated tools for vulnerability scanning of software assets, which increases the effort required for development teams to adopt security best practices.\",\n    \"The cost of hiring consultants for security tasks is high, creating a need for more cost-effective solutions.\"\n  ],\n  \"objectives\": [\n    \"Automate the vulnerability scanning of software assets to reduce the effort required by development teams and decrease costs.\",\n    \"Enhance research and development to cater to specific use cases, particularly focusing on the needs of developers active in the Internet of Things.\",\n    \"Expand the platform to integrate with IoT technologies and platforms, offering scanning that encompasses broader and deeper use cases than the competition.\"\n  ],\n  \"methods\": [\n    \"Develop an automated system that scans software assets for vulnerabilities, reducing the need for manual effort and lowering costs.\",\n    \"Conduct research and development to tailor the system to the needs of developers in the Internet of Things sector.\",\n    \"Expand the platform's capabilities to integrate with IoT technologies and platforms, enabling broader and deeper scanning.\"\n  ],\n  \"results\": [\n    \"Reduce the cost of software security by automating vulnerability scanning, potentially saving firms between 3 to 30 times the cost of development.\",\n    \"Help firms build trust with end-users and educate developers about security best practices.\",\n    \"Expand the platform's capabilities to offer broader and deeper scanning for IoT technologies and platforms, outperforming competitors who focus on compliance standards.\"\n  ],\n  \"research_subject\": \"Disruptive cybersecurity software as a service for SMEs and freelance developers\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Software engineering lacks effective security provision, leading to vulnerabilities that can cost firms 3 to 30 times the development cost when discovered in production.\",\n    \"Small and medium enterprises and freelance developers need affordable cybersecurity solutions as consultant-based security assessments are prohibitively expensive.\",\n    \"The Internet of Things sector has immature security practices that require specialized vulnerability scanning capabilities.\"\n  ],\n  \"objectives\": [\n    \"Develop and enhance an automated vulnerability scanning platform that reduces security implementation costs by 80% compared to traditional consulting services.\",\n    \"Expand the platform's capabilities to integrate with IoT technologies and provide comprehensive security scanning for emerging use cases.\",\n    \"Enable developers to identify and fix security vulnerabilities before production deployment through accessible and educational tools.\"\n  ],\n  \"methods\": [\n    \"Automate vulnerability scanning across ports, web servers, applications, and containers through a SaaS platform.\",\n    \"Conduct research and development focused on IoT-specific security requirements and integration capabilities.\",\n    \"Deploy the solution through a subscription-based model with distribution via partner networks and direct online sales.\"\n  ],\n  \"results\": [\n    \"Reduce security implementation costs for SMEs and developers while preventing expensive post-production vulnerability fixes.\",\n    \"Establish market adoption with initial traction from 25 companies testing and implementing the platform.\",\n    \"Build developer trust and security awareness through accessible cybersecurity tools that cover broader use cases than compliance-focused competitors.\"\n  ],\n  \"research_subject\": \"Automated cybersecurity vulnerability scanning platform for SMEs and developers with IoT integration\"\n}\n```"
+}

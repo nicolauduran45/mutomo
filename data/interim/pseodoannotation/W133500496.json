@@ -1,0 +1,60 @@
+{
+  "index": 303,
+  "title": "A case report of acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer.",
+  "abstract": "Local antibiotics are effective adjunct therapy for the treatment of orthopedic infections and antibiotic loaded bone cement is successfully used in revision procedures of infected hip and knee arthroplasties. Different antibiotics in isolation or in combination can be added into bone cement. The theory behind the use of antibiotic loaded cement is that anti-infective drug incorporated into the cement diffuses into surrounding tissues over a period of weeks to months, thereby providing prolonged high local concentration of antibiotic while minimizing systemic drug toxicities. Although kidney toxicity due to acute tubular necrosis has been previously described, we report for the first time a case of a 58-year-old male who developed acute kidney injury clinically consistent with acute interstitial nephritis, after undergoing revision treatment for septic knee arthritis with the use of cement spacer impregnated with a combination of vancomycin and tobramycin.",
+  "llama_json": {
+    "motivations": [
+      "Local antibiotics used in orthopedic procedures can cause systemic toxicity, highlighting the need for careful consideration of their effects on other organs.",
+      "There is a gap in understanding the potential renal complications associated with the use of antibiotic-impregnated bone cement spacers in orthopedic treatments."
+    ],
+    "objectives": [
+      "Report a case of acute interstitial nephritis associated with the use of antibiotic-impregnated orthopedic bone-cement spacer.",
+      "Highlight the potential kidney toxicity risks related to the use of local antibiotics in orthopedic treatments."
+    ],
+    "methods": [
+      "Document a case study of a patient who developed acute kidney injury after undergoing revision treatment with antibiotic-impregnated bone cement.",
+      "Analyze the clinical presentation and outcomes of the patient to identify potential correlations with the use of the antibiotic-impregnated spacer."
+    ],
+    "results": [
+      "Identify acute interstitial nephritis as a potential complication of using antibiotic-impregnated bone cement spacers in orthopedic treatments.",
+      "Raise awareness about the importance of monitoring renal function in patients undergoing such treatments."
+    ],
+    "research_subject": "Acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer"
+  },
+  "openai_json": {
+    "motivations": [
+      "Antibiotic loaded bone cement is widely used in orthopedic procedures, but its systemic effects are not fully understood.",
+      "There is a need to investigate potential kidney toxicity associated with the use of antibiotic-impregnated orthopedic bone-cement spacers."
+    ],
+    "objectives": [
+      "Report a case of acute interstitial nephritis associated with the use of antibiotic-impregnated orthopedic bone-cement spacer.",
+      "Contribute to the understanding of potential systemic toxicities of local antibiotics used in orthopedic procedures."
+    ],
+    "methods": [
+      "Analyze a case of a 58-year-old male who developed acute kidney injury after undergoing a procedure using a cement spacer impregnated with a combination of vancomycin and tobramycin."
+    ],
+    "results": [
+      "Identified a potential link between the use of antibiotic-impregnated orthopedic bone-cement spacers and acute interstitial nephritis.",
+      "Highlighted the need for further research into the systemic effects of local antibiotics used in orthopedic procedures."
+    ],
+    "research_subject": "Acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Antibiotic-loaded bone cement is widely used in orthopedic infections, but its potential for causing kidney toxicity beyond acute tubular necrosis has not been fully documented."
+    ],
+    "objectives": [
+      "Report the first documented case of acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer."
+    ],
+    "methods": [
+      "Clinical case report documenting the development and diagnosis of acute kidney injury in a patient treated with vancomycin and tobramycin-impregnated cement spacer."
+    ],
+    "results": [
+      "A 58-year-old male developed acute kidney injury consistent with acute interstitial nephritis following treatment with antibiotic-loaded cement spacer, representing a previously unreported complication."
+    ],
+    "research_subject": "Acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Local antibiotics used in orthopedic procedures can cause systemic toxicity, highlighting the need for careful consideration of their effects on other organs.\",\n    \"There is a gap in understanding the potential renal complications associated with the use of antibiotic-impregnated bone cement spacers in orthopedic treatments.\"\n  ],\n  \"objectives\": [\n    \"Report a case of acute interstitial nephritis associated with the use of antibiotic-impregnated orthopedic bone-cement spacer.\",\n    \"Highlight the potential kidney toxicity risks related to the use of local antibiotics in orthopedic treatments.\"\n  ],\n  \"methods\": [\n    \"Document a case study of a patient who developed acute kidney injury after undergoing revision treatment with antibiotic-impregnated bone cement.\",\n    \"Analyze the clinical presentation and outcomes of the patient to identify potential correlations with the use of the antibiotic-impregnated spacer.\"\n  ],\n  \"results\": [\n    \"Identify acute interstitial nephritis as a potential complication of using antibiotic-impregnated bone cement spacers in orthopedic treatments.\",\n    \"Raise awareness about the importance of monitoring renal function in patients undergoing such treatments.\"\n  ],\n  \"research_subject\": \"Acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Antibiotic loaded bone cement is widely used in orthopedic procedures, but its systemic effects are not fully understood.\",\n    \"There is a need to investigate potential kidney toxicity associated with the use of antibiotic-impregnated orthopedic bone-cement spacers.\"\n  ],\n  \"objectives\": [\n    \"Report a case of acute interstitial nephritis associated with the use of antibiotic-impregnated orthopedic bone-cement spacer.\",\n    \"Contribute to the understanding of potential systemic toxicities of local antibiotics used in orthopedic procedures.\"\n  ],\n  \"methods\": [\n    \"Analyze a case of a 58-year-old male who developed acute kidney injury after undergoing a procedure using a cement spacer impregnated with a combination of vancomycin and tobramycin.\"\n  ],\n  \"results\": [\n    \"Identified a potential link between the use of antibiotic-impregnated orthopedic bone-cement spacers and acute interstitial nephritis.\",\n    \"Highlighted the need for further research into the systemic effects of local antibiotics used in orthopedic procedures.\"\n  ],\n  \"research_subject\": \"Acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Antibiotic-loaded bone cement is widely used in orthopedic infections, but its potential for causing kidney toxicity beyond acute tubular necrosis has not been fully documented.\"\n  ],\n  \"objectives\": [\n    \"Report the first documented case of acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer.\"\n  ],\n  \"methods\": [\n    \"Clinical case report documenting the development and diagnosis of acute kidney injury in a patient treated with vancomycin and tobramycin-impregnated cement spacer.\"\n  ],\n  \"results\": [\n    \"A 58-year-old male developed acute kidney injury consistent with acute interstitial nephritis following treatment with antibiotic-loaded cement spacer, representing a previously unreported complication.\"\n  ],\n  \"research_subject\": \"Acute interstitial nephritis associated with antibiotic-impregnated orthopedic bone-cement spacer\"\n}\n```"
+}

@@ -1,0 +1,71 @@
+{
+  "index": 339,
+  "title": "Contribution of case-mix classification to profiling hospital characteristics and productivity",
+  "abstract": "Case-mix classification has made it possible to analyze acute care delivery case volumes and resources. Data arising from observed differences have a role in planning health policy. Aggregated length of hospital stay (LOS) and total charges (TC) as measures of resource use were calculated from 34 case-mix groups at 469 hospitals (1,721,274 eligible patients). The difference between mean resource use of all hospitals and the mean resource use of each hospital was subdivided into three components: amount of variation attributable to hospital practice behavior (efficiency); amount attributable to hospital case-mix (complexity); and amount attributable to the interaction. Hospital characteristics were teaching status (academic or community), ownership, disease coverage, patients, and hospital volume. Multivariate analysis was employed to determine the impact of hospital characteristics on efficiency. Mean LOS and TC were greater for academic than community hospitals. Academic hospitals were least associated with LOS and TC efficiency. Low disease coverage was a predictor of TC efficiency while low patient volume was a predictor of unnecessarily long hospital stays. There was an inverse correlation between complexity and efficiency for both LOS and TC. Policy makers should acknowledge that differentiation of hospital function needs careful consideration when measuring efficiency.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to analyze and understand the characteristics and productivity of hospitals to inform health policy planning.",
+      "Existing methods for evaluating hospital efficiency may not account for variations in case-mix complexity and hospital practice behavior."
+    ],
+    "objectives": [
+      "Investigate the contribution of case-mix classification to profiling hospital characteristics and productivity.",
+      "Analyze the relationship between hospital characteristics, such as teaching status and disease coverage, and measures of resource use like length of stay and total charges."
+    ],
+    "methods": [
+      "Employ case-mix classification to analyze data from 469 hospitals and calculate aggregated length of hospital stay and total charges.",
+      "Use multivariate analysis to determine the impact of hospital characteristics on efficiency.",
+      "Subdivide variations in resource use into components attributable to hospital practice behavior, case-mix complexity, and interaction."
+    ],
+    "results": [
+      "Academic hospitals tend to have longer lengths of stay and higher total charges compared to community hospitals.",
+      "Hospital characteristics like teaching status, disease coverage, and patient volume are predictors of efficiency in terms of length of stay and total charges.",
+      "There is an inverse correlation between case-mix complexity and hospital efficiency."
+    ],
+    "research_subject": "Analyzing hospital characteristics and productivity using case-mix classification"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the role of case-mix classification in acute care delivery and resource allocation is crucial for health policy planning.",
+      "There is a need to analyze how hospital characteristics impact efficiency in resource use."
+    ],
+    "objectives": [
+      "Analyze the contribution of case-mix classification to profiling hospital characteristics and productivity.",
+      "Determine the impact of hospital characteristics on efficiency in resource use."
+    ],
+    "methods": [
+      "Calculate resource use measures from case-mix groups at multiple hospitals.",
+      "Subdivide the difference between mean resource use of all hospitals and each hospital into components attributable to efficiency, complexity, and interaction.",
+      "Employ multivariate analysis to assess the impact of hospital characteristics on efficiency."
+    ],
+    "results": [
+      "Academic hospitals have greater mean length of stay and total charges than community hospitals, and are least associated with efficiency.",
+      "Low disease coverage predicts total charge efficiency, while low patient volume predicts unnecessarily long hospital stays.",
+      "There is an inverse correlation between complexity and efficiency for both length of stay and total charges."
+    ],
+    "research_subject": "Impact of case-mix classification on hospital characteristics and productivity"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Case-mix classification enables analysis of acute care delivery volumes and resources, but there is a need to understand how hospital characteristics influence resource use efficiency.",
+      "Policy makers require evidence-based insights to differentiate hospital functions and measure efficiency accurately for health policy planning."
+    ],
+    "objectives": [
+      "Analyze the contribution of case-mix classification to profiling hospital characteristics and productivity by examining resource use patterns.",
+      "Determine the impact of hospital characteristics on efficiency by decomposing variations in resource use into components related to practice behavior, case-mix complexity, and their interaction."
+    ],
+    "methods": [
+      "Calculate aggregated length of stay and total charges as resource use measures across case-mix groups and hospitals.",
+      "Decompose differences in mean resource use into three components: hospital practice behavior efficiency, case-mix complexity, and interaction effects.",
+      "Employ multivariate analysis to assess the impact of hospital characteristics on efficiency measures."
+    ],
+    "results": [
+      "Academic hospitals showed greater mean length of stay and total charges compared to community hospitals, with lower efficiency in both measures.",
+      "Low disease coverage predicted total charges efficiency while low patient volume predicted unnecessarily long hospital stays.",
+      "An inverse correlation was found between case-mix complexity and efficiency for both length of stay and total charges."
+    ],
+    "research_subject": "Hospital efficiency and productivity analysis using case-mix classification"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to analyze and understand the characteristics and productivity of hospitals to inform health policy planning.\",\n    \"Existing methods for evaluating hospital efficiency may not account for variations in case-mix complexity and hospital practice behavior.\"\n  ],\n  \"objectives\": [\n    \"Investigate the contribution of case-mix classification to profiling hospital characteristics and productivity.\",\n    \"Analyze the relationship between hospital characteristics, such as teaching status and disease coverage, and measures of resource use like length of stay and total charges.\"\n  ],\n  \"methods\": [\n    \"Employ case-mix classification to analyze data from 469 hospitals and calculate aggregated length of hospital stay and total charges.\",\n    \"Use multivariate analysis to determine the impact of hospital characteristics on efficiency.\",\n    \"Subdivide variations in resource use into components attributable to hospital practice behavior, case-mix complexity, and interaction.\"\n  ],\n  \"results\": [\n    \"Academic hospitals tend to have longer lengths of stay and higher total charges compared to community hospitals.\",\n    \"Hospital characteristics like teaching status, disease coverage, and patient volume are predictors of efficiency in terms of length of stay and total charges.\",\n    \"There is an inverse correlation between case-mix complexity and hospital efficiency.\"\n  ],\n  \"research_subject\": \"Analyzing hospital characteristics and productivity using case-mix classification\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the role of case-mix classification in acute care delivery and resource allocation is crucial for health policy planning.\",\n    \"There is a need to analyze how hospital characteristics impact efficiency in resource use.\"\n  ],\n  \"objectives\": [\n    \"Analyze the contribution of case-mix classification to profiling hospital characteristics and productivity.\",\n    \"Determine the impact of hospital characteristics on efficiency in resource use.\"\n  ],\n  \"methods\": [\n    \"Calculate resource use measures from case-mix groups at multiple hospitals.\",\n    \"Subdivide the difference between mean resource use of all hospitals and each hospital into components attributable to efficiency, complexity, and interaction.\",\n    \"Employ multivariate analysis to assess the impact of hospital characteristics on efficiency.\"\n  ],\n  \"results\": [\n    \"Academic hospitals have greater mean length of stay and total charges than community hospitals, and are least associated with efficiency.\",\n    \"Low disease coverage predicts total charge efficiency, while low patient volume predicts unnecessarily long hospital stays.\",\n    \"There is an inverse correlation between complexity and efficiency for both length of stay and total charges.\"\n  ],\n  \"research_subject\": \"Impact of case-mix classification on hospital characteristics and productivity\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Case-mix classification enables analysis of acute care delivery volumes and resources, but there is a need to understand how hospital characteristics influence resource use efficiency.\",\n    \"Policy makers require evidence-based insights to differentiate hospital functions and measure efficiency accurately for health policy planning.\"\n  ],\n  \"objectives\": [\n    \"Analyze the contribution of case-mix classification to profiling hospital characteristics and productivity by examining resource use patterns.\",\n    \"Determine the impact of hospital characteristics on efficiency by decomposing variations in resource use into components related to practice behavior, case-mix complexity, and their interaction.\"\n  ],\n  \"methods\": [\n    \"Calculate aggregated length of stay and total charges as resource use measures across case-mix groups and hospitals.\",\n    \"Decompose differences in mean resource use into three components: hospital practice behavior efficiency, case-mix complexity, and interaction effects.\",\n    \"Employ multivariate analysis to assess the impact of hospital characteristics on efficiency measures.\"\n  ],\n  \"results\": [\n    \"Academic hospitals showed greater mean length of stay and total charges compared to community hospitals, with lower efficiency in both measures.\",\n    \"Low disease coverage predicted total charges efficiency while low patient volume predicted unnecessarily long hospital stays.\",\n    \"An inverse correlation was found between case-mix complexity and efficiency for both length of stay and total charges.\"\n  ],\n  \"research_subject\": \"Hospital efficiency and productivity analysis using case-mix classification\"\n}\n```"
+}

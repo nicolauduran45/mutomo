@@ -1,0 +1,71 @@
+{
+  "index": 64,
+  "title": "Intensification of export activity of the company Spółdzielnia Invalidów “METAL” on foreign markets in order to promote the brand of the Polish Economy.",
+  "abstract": "SA 42799(2015/X) The object of the project is the participation of the Invalidity Cooperative “METAL” in the Programme for the promotion of the machinery and equipment industry. As a result of its participation in the Programme, the company will significantly increase its export activity on selected foreign markets: the US (non-EU forward market), German and Scandinavian (in particular Finland and Sweden) through the promotion of the SI “METAL” product brand. According to the Programme, in the period 01.06.2020-31.12.2022: 1) Participation in international fairs as an exhibitor: — Hannover MESSE, Hannover 2020, – INNOTRANS, Berlin 2020, – HANNOVER MESSE, Hannover 2021, – EASTEC, USA 2021. — Subcontracting, Poznań 2021, – SUBCONTRACTING Alihankinta, Finland 2021, – ELMIA SUBCONTRACTING, Sweden 2021, – Bautec, Berlin 2022, – BAUMA, Munich 2022. 2) Additional promotional activities. The object of the promotion will be the range of products – finished metal products. The scope of the company’s activities is in line with the Programme for the Promotion of Machines and Devices, and the implementation of the project will have a positive impact on the promotion of the product brand of the Polish economy. Through planned projects, the Applicant will have the opportunity to expand his export activity and gain new foreign markets by attracting a wide group of customers interested in the company’s products. Participation in the Programme will enable effective promotion of the SI “METAL” brand and will contribute to building a positive image of the Polish industrial industry on the international stage. The company has a stable financial situation, allowing for smooth implementation of the tasks planned in the project. Pending reimbursement and/or advance payment from EU funds, the project will be financed from the company’s own resources.",
+  "llama_json": {
+    "motivations": [
+      "The company Spółdzielnia Invalidów 'METAL' seeks to expand its export activity and promote its brand on foreign markets.",
+      "There is a need to promote the Polish Economy brand through the export of machinery and equipment industry products."
+    ],
+    "objectives": [
+      "Increase export activity on selected foreign markets, including the US, Germany, Finland, and Sweden.",
+      "Promote the SI 'METAL' product brand through participation in international fairs and additional promotional activities.",
+      "Build a positive image of the Polish industrial industry on the international stage."
+    ],
+    "methods": [
+      "Participate in international fairs as an exhibitor to showcase finished metal products.",
+      "Conduct additional promotional activities to attract new customers and expand export activity.",
+      "Utilize EU funds to support project implementation, with the company's own resources as a backup."
+    ],
+    "results": [
+      "Significantly increase export activity on targeted foreign markets.",
+      "Effectively promote the SI 'METAL' brand and contribute to a positive image of the Polish industrial industry.",
+      "Gain new foreign markets and attract a wide group of customers interested in the company's products."
+    ],
+    "research_subject": "Export activity intensification and brand promotion of Spółdzielnia Invalidów 'METAL' on foreign markets"
+  },
+  "openai_json": {
+    "motivations": [
+      "The Invalidity Cooperative 'METAL' seeks to intensify its export activity and promote its brand in selected foreign markets.",
+      "There is a need to build a positive image of the Polish industrial industry on the international stage."
+    ],
+    "objectives": [
+      "Participate in the Programme for the promotion of the machinery and equipment industry to increase export activity.",
+      "Promote the SI 'METAL' product brand in the US, German, and Scandinavian markets.",
+      "Expand export activity and attract a wide group of customers interested in the company's products."
+    ],
+    "methods": [
+      "Participate in international fairs as an exhibitor in various locations including Hannover, Berlin, USA, Poznań, Finland, Sweden, and Munich.",
+      "Implement additional promotional activities to promote the range of finished metal products.",
+      "Finance the project from the company's own resources, pending reimbursement and/or advance payment from EU funds."
+    ],
+    "results": [
+      "Significant increase in the company's export activity on selected foreign markets.",
+      "Effective promotion of the SI 'METAL' brand and a positive image of the Polish industrial industry on the international stage.",
+      "Expansion of export activity and attraction of a wide group of customers interested in the company's products."
+    ],
+    "research_subject": "Intensification of export activity and brand promotion of the Invalidity Cooperative 'METAL' on foreign markets"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The company seeks to expand its presence in international markets and increase export activity to promote Polish industrial products globally.",
+      "There is a need to build a positive image of the Polish machinery and equipment industry on the international stage."
+    ],
+    "objectives": [
+      "Increase export activity of Spółdzielnia Invalidów 'METAL' in selected foreign markets including the US, Germany, and Scandinavian countries.",
+      "Promote the SI 'METAL' product brand and contribute to the promotion of the Polish Economy brand through participation in international trade fairs."
+    ],
+    "methods": [
+      "Participate as an exhibitor in major international trade fairs across Europe and the United States.",
+      "Implement additional promotional activities to showcase finished metal products to international customers."
+    ],
+    "results": [
+      "Expand export activity and gain access to new foreign markets with a wider customer base.",
+      "Build a positive international image for the Polish industrial industry and strengthen the SI 'METAL' brand recognition globally."
+    ],
+    "research_subject": "International market expansion and brand promotion for Polish machinery and equipment industry"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The company Spółdzielnia Invalidów 'METAL' seeks to expand its export activity and promote its brand on foreign markets.\",\n    \"There is a need to promote the Polish Economy brand through the export of machinery and equipment industry products.\"\n  ],\n  \"objectives\": [\n    \"Increase export activity on selected foreign markets, including the US, Germany, Finland, and Sweden.\",\n    \"Promote the SI 'METAL' product brand through participation in international fairs and additional promotional activities.\",\n    \"Build a positive image of the Polish industrial industry on the international stage.\"\n  ],\n  \"methods\": [\n    \"Participate in international fairs as an exhibitor to showcase finished metal products.\",\n    \"Conduct additional promotional activities to attract new customers and expand export activity.\",\n    \"Utilize EU funds to support project implementation, with the company's own resources as a backup.\"\n  ],\n  \"results\": [\n    \"Significantly increase export activity on targeted foreign markets.\",\n    \"Effectively promote the SI 'METAL' brand and contribute to a positive image of the Polish industrial industry.\",\n    \"Gain new foreign markets and attract a wide group of customers interested in the company's products.\"\n  ],\n  \"research_subject\": \"Export activity intensification and brand promotion of Spółdzielnia Invalidów 'METAL' on foreign markets\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The Invalidity Cooperative 'METAL' seeks to intensify its export activity and promote its brand in selected foreign markets.\",\n    \"There is a need to build a positive image of the Polish industrial industry on the international stage.\"\n  ],\n  \"objectives\": [\n    \"Participate in the Programme for the promotion of the machinery and equipment industry to increase export activity.\",\n    \"Promote the SI 'METAL' product brand in the US, German, and Scandinavian markets.\",\n    \"Expand export activity and attract a wide group of customers interested in the company's products.\"\n  ],\n  \"methods\": [\n    \"Participate in international fairs as an exhibitor in various locations including Hannover, Berlin, USA, Poznań, Finland, Sweden, and Munich.\",\n    \"Implement additional promotional activities to promote the range of finished metal products.\",\n    \"Finance the project from the company's own resources, pending reimbursement and/or advance payment from EU funds.\"\n  ],\n  \"results\": [\n    \"Significant increase in the company's export activity on selected foreign markets.\",\n    \"Effective promotion of the SI 'METAL' brand and a positive image of the Polish industrial industry on the international stage.\",\n    \"Expansion of export activity and attraction of a wide group of customers interested in the company's products.\"\n  ],\n  \"research_subject\": \"Intensification of export activity and brand promotion of the Invalidity Cooperative 'METAL' on foreign markets\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The company seeks to expand its presence in international markets and increase export activity to promote Polish industrial products globally.\",\n    \"There is a need to build a positive image of the Polish machinery and equipment industry on the international stage.\"\n  ],\n  \"objectives\": [\n    \"Increase export activity of Spółdzielnia Invalidów 'METAL' in selected foreign markets including the US, Germany, and Scandinavian countries.\",\n    \"Promote the SI 'METAL' product brand and contribute to the promotion of the Polish Economy brand through participation in international trade fairs.\"\n  ],\n  \"methods\": [\n    \"Participate as an exhibitor in major international trade fairs across Europe and the United States.\",\n    \"Implement additional promotional activities to showcase finished metal products to international customers.\"\n  ],\n  \"results\": [\n    \"Expand export activity and gain access to new foreign markets with a wider customer base.\",\n    \"Build a positive international image for the Polish industrial industry and strengthen the SI 'METAL' brand recognition globally.\"\n  ],\n  \"research_subject\": \"International market expansion and brand promotion for Polish machinery and equipment industry\"\n}\n```"
+}

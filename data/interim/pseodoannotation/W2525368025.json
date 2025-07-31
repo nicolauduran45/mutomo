@@ -1,0 +1,68 @@
+{
+  "index": 169,
+  "title": "Critical behavior of<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mi>k</mml:mi></mml:math>-core percolation: Numerical studies",
+  "abstract": "$k$-Core percolation has served as a paradigmatic model of discontinuous percolation for a long time. Recently it was revealed that the order parameter of $k$-core percolation of random networks additionally exhibits critical behavior. Thus $k$-core percolation exhibits a hybrid phase transition. Unlike the critical behaviors of ordinary percolation that are well understood, those of hybrid percolation transitions have not been thoroughly understood yet. Here, we investigate the critical behavior of $k$-core percolation of Erd\\H{o}s-R\\'enyi networks. We find numerically that the fluctuations of the order parameter and the mean avalanche size diverge in different ways. Thus, we classify the critical exponents into two types: those associated with the order parameter and those with finite avalanches. The conventional scaling relations hold within each set, however, these two critical exponents are coupled. Finally we discuss some universal features of the critical behaviors of $k$-core percolation and the cascade failure model on multiplex networks.",
+  "llama_json": {
+    "motivations": [
+      "The critical behaviors of hybrid percolation transitions, such as k-core percolation, are not thoroughly understood.",
+      "Understanding the critical behavior of k-core percolation is essential for gaining insights into discontinuous percolation and its applications."
+    ],
+    "objectives": [
+      "Investigate the critical behavior of k-core percolation in Erdős-Rényi networks.",
+      "Determine the critical exponents associated with the order parameter and finite avalanches in k-core percolation."
+    ],
+    "methods": [
+      "Numerical studies of k-core percolation in Erdős-Rényi networks.",
+      "Analysis of the fluctuations of the order parameter and the mean avalanche size."
+    ],
+    "results": [
+      "The critical exponents of k-core percolation can be classified into two types: those associated with the order parameter and those with finite avalanches.",
+      "The conventional scaling relations hold within each set of critical exponents, but the two sets are coupled."
+    ],
+    "research_subject": "Critical behavior of k-core percolation in random networks"
+  },
+  "openai_json": {
+    "motivations": [
+      "The critical behaviors of hybrid percolation transitions, such as k-core percolation, are not thoroughly understood.",
+      "There is a need to investigate the critical behavior of k-core percolation of Erdős-Rényi networks."
+    ],
+    "objectives": [
+      "Investigate the critical behavior of k-core percolation of Erdős-Rényi networks.",
+      "Classify the critical exponents into two types: those associated with the order parameter and those with finite avalanches.",
+      "Discuss the universal features of the critical behaviors of k-core percolation and the cascade failure model on multiplex networks."
+    ],
+    "methods": [
+      "Use numerical studies to investigate the critical behavior of k-core percolation.",
+      "Analyze the fluctuations of the order parameter and the mean avalanche size."
+    ],
+    "results": [
+      "Identify that the fluctuations of the order parameter and the mean avalanche size diverge in different ways.",
+      "Establish that the conventional scaling relations hold within each set of critical exponents, but these two types are coupled."
+    ],
+    "research_subject": "Critical behavior of k-core percolation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The critical behavior of k-core percolation, which exhibits a hybrid phase transition, is not thoroughly understood unlike ordinary percolation.",
+      "There is a need to understand how the order parameter and avalanche dynamics behave differently in hybrid percolation transitions."
+    ],
+    "objectives": [
+      "Investigate the critical behavior of k-core percolation in Erdős-Rényi networks through numerical analysis.",
+      "Classify and characterize the critical exponents associated with the order parameter and finite avalanches in k-core percolation."
+    ],
+    "methods": [
+      "Perform numerical simulations of k-core percolation on Erdős-Rényi networks.",
+      "Analyze the fluctuations of the order parameter and mean avalanche size to determine critical exponents.",
+      "Apply scaling analysis to examine the relationships between different critical exponents."
+    ],
+    "results": [
+      "The fluctuations of the order parameter and mean avalanche size diverge in fundamentally different ways, requiring two distinct types of critical exponents.",
+      "Conventional scaling relations hold within each set of critical exponents, but the two types are coupled.",
+      "Universal features of critical behaviors are identified for k-core percolation and cascade failure models on multiplex networks."
+    ],
+    "research_subject": "Critical behavior of k-core percolation in random networks"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The critical behaviors of hybrid percolation transitions, such as k-core percolation, are not thoroughly understood.\",\n    \"Understanding the critical behavior of k-core percolation is essential for gaining insights into discontinuous percolation and its applications.\"\n  ],\n  \"objectives\": [\n    \"Investigate the critical behavior of k-core percolation in Erdős-Rényi networks.\",\n    \"Determine the critical exponents associated with the order parameter and finite avalanches in k-core percolation.\"\n  ],\n  \"methods\": [\n    \"Numerical studies of k-core percolation in Erdős-Rényi networks.\",\n    \"Analysis of the fluctuations of the order parameter and the mean avalanche size.\"\n  ],\n  \"results\": [\n    \"The critical exponents of k-core percolation can be classified into two types: those associated with the order parameter and those with finite avalanches.\",\n    \"The conventional scaling relations hold within each set of critical exponents, but the two sets are coupled.\"\n  ],\n  \"research_subject\": \"Critical behavior of k-core percolation in random networks\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The critical behaviors of hybrid percolation transitions, such as k-core percolation, are not thoroughly understood.\",\n    \"There is a need to investigate the critical behavior of k-core percolation of Erdős-Rényi networks.\"\n  ],\n  \"objectives\": [\n    \"Investigate the critical behavior of k-core percolation of Erdős-Rényi networks.\",\n    \"Classify the critical exponents into two types: those associated with the order parameter and those with finite avalanches.\",\n    \"Discuss the universal features of the critical behaviors of k-core percolation and the cascade failure model on multiplex networks.\"\n  ],\n  \"methods\": [\n    \"Use numerical studies to investigate the critical behavior of k-core percolation.\",\n    \"Analyze the fluctuations of the order parameter and the mean avalanche size.\"\n  ],\n  \"results\": [\n    \"Identify that the fluctuations of the order parameter and the mean avalanche size diverge in different ways.\",\n    \"Establish that the conventional scaling relations hold within each set of critical exponents, but these two types are coupled.\"\n  ],\n  \"research_subject\": \"Critical behavior of k-core percolation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The critical behavior of k-core percolation, which exhibits a hybrid phase transition, is not thoroughly understood unlike ordinary percolation.\",\n    \"There is a need to understand how the order parameter and avalanche dynamics behave differently in hybrid percolation transitions.\"\n  ],\n  \"objectives\": [\n    \"Investigate the critical behavior of k-core percolation in Erdős-Rényi networks through numerical analysis.\",\n    \"Classify and characterize the critical exponents associated with the order parameter and finite avalanches in k-core percolation.\"\n  ],\n  \"methods\": [\n    \"Perform numerical simulations of k-core percolation on Erdős-Rényi networks.\",\n    \"Analyze the fluctuations of the order parameter and mean avalanche size to determine critical exponents.\",\n    \"Apply scaling analysis to examine the relationships between different critical exponents.\"\n  ],\n  \"results\": [\n    \"The fluctuations of the order parameter and mean avalanche size diverge in fundamentally different ways, requiring two distinct types of critical exponents.\",\n    \"Conventional scaling relations hold within each set of critical exponents, but the two types are coupled.\",\n    \"Universal features of critical behaviors are identified for k-core percolation and cascade failure models on multiplex networks.\"\n  ],\n  \"research_subject\": \"Critical behavior of k-core percolation in random networks\"\n}\n```"
+}

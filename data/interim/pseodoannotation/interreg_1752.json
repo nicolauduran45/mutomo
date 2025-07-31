@@ -1,0 +1,74 @@
+{
+  "index": 91,
+  "title": "INterregional Ecosystem for entRepreneurship, ReseArch and Technology",
+  "abstract": "In the past years, Countries have understood the importance to bet on innovative entrepreneurship, promoting the launch of companies based on the research activities of youngs, researchers, startuppers. However, in the territories involved in this Programme, the lack of funding and networking opportunities are hampering these enterprises to grow. Moreover, research centers often do not know how to turn successful ideas into concrete products and services. This project aims at creating an innovative ecosystem, inter-linked with research and entrepreneurial actors in public-private logic, able to foster dialogue between different territories, enhance collaborative research actions, supporting talents mobility and strengthen the capacity of attracting private capitals. To realize this, it will implement the following main operative steps: Supporting the creation of an interregional network among the main stakeholders: research and technological centers, companies and public administrations; Defining a model for the technology centre, exportable in Albania and Montenegro and based on the Italian 20 years&#39; experience; Facilitating knowledge sharing & talents mobility. The Main outputs of the project will be: The Interregional Ecosystem, networking businesses, research centers, technological districts and Public Administrations, an international cluster for the promotion of Spin-offs, Start-ups, and innovative organizations operating, in the mid-long term, as an international Hub able to catalyze experiences, knowledge and expertise; the Albanian Technological Center, set in Tirana; International liveshows and workshops across project partners’ territories, to promote the project cluster, attract private investment funds, and look for new creative talents and potential innovative SMEs; continuous training Fund.",
+  "llama_json": {
+    "motivations": [
+      "Young entrepreneurs and researchers face challenges in launching and growing innovative companies due to a lack of funding and networking opportunities.",
+      "Research centers struggle to turn successful ideas into concrete products and services, hindering the development of innovative enterprises."
+    ],
+    "objectives": [
+      "Create an interregional ecosystem that fosters dialogue, collaborative research, and talent mobility among research and entrepreneurial actors.",
+      "Support the growth of innovative enterprises by providing networking opportunities, funding, and knowledge sharing.",
+      "Strengthen the capacity to attract private capital and promote the development of spin-offs, start-ups, and innovative organizations."
+    ],
+    "methods": [
+      "Establish an interregional network among research and technological centers, companies, and public administrations.",
+      "Develop a model for a technology center based on Italian experience and export it to Albania and Montenegro.",
+      "Facilitate knowledge sharing and talent mobility through international workshops and training programs."
+    ],
+    "results": [
+      "Establish a functional interregional ecosystem that networks businesses, research centers, and public administrations.",
+      "Create an international cluster that promotes spin-offs, start-ups, and innovative organizations, attracting private investment funds and new talents.",
+      "Enhance the capacity for innovation and entrepreneurship in the involved territories, supporting the growth of innovative enterprises."
+    ],
+    "research_subject": "Development of an interregional ecosystem for entrepreneurship, research, and technology"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a recognized need to support innovative entrepreneurship, but lack of funding and networking opportunities are hindering growth in certain territories.",
+      "Research centers often struggle to transform successful ideas into tangible products and services."
+    ],
+    "objectives": [
+      "Create an innovative, interlinked ecosystem that fosters dialogue between different territories, enhances collaborative research, supports talent mobility, and strengthens the capacity to attract private capital.",
+      "Establish an interregional network among key stakeholders, including research and technological centers, companies, and public administrations.",
+      "Define a model for a technology center, based on Italian experience, that can be exported to Albania and Montenegro."
+    ],
+    "methods": [
+      "Support the creation of an interregional network among key stakeholders.",
+      "Define a model for a technology center that can be exported to other countries.",
+      "Facilitate knowledge sharing and talent mobility."
+    ],
+    "results": [
+      "Establishment of an Interregional Ecosystem that networks businesses, research centers, technological districts, and public administrations.",
+      "Creation of an international cluster for the promotion of spin-offs, start-ups, and innovative organizations.",
+      "Establishment of the Albanian Technological Center in Tirana."
+    ],
+    "research_subject": "Creation of an interregional ecosystem for entrepreneurship, research, and technology"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Innovative entrepreneurship in the involved territories is hampered by lack of funding and networking opportunities, preventing growth of research-based companies.",
+      "Research centers struggle to transform successful ideas into concrete products and services due to insufficient commercialization capabilities."
+    ],
+    "objectives": [
+      "Create an interregional ecosystem that fosters dialogue between territories and enhances collaborative research actions while attracting private capital.",
+      "Establish a technology center model based on Italian experience that can be exported to Albania and Montenegro.",
+      "Support talent mobility and knowledge sharing across the participating regions."
+    ],
+    "methods": [
+      "Build an interregional network connecting research centers, technological districts, companies, and public administrations.",
+      "Develop and implement a replicable technology center model for Albania and Montenegro.",
+      "Organize international workshops and liveshows to promote the cluster and attract investment."
+    ],
+    "results": [
+      "An operational interregional ecosystem serving as an international hub for spin-offs, start-ups, and innovative organizations.",
+      "Establishment of the Albanian Technological Center in Tirana and enhanced capacity for attracting private investment funds.",
+      "Improved knowledge sharing and talent mobility across territories with continuous training opportunities."
+    ],
+    "research_subject": "Interregional ecosystem development for entrepreneurship, research, and technology transfer"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Young entrepreneurs and researchers face challenges in launching and growing innovative companies due to a lack of funding and networking opportunities.\",\n    \"Research centers struggle to turn successful ideas into concrete products and services, hindering the development of innovative enterprises.\"\n  ],\n  \"objectives\": [\n    \"Create an interregional ecosystem that fosters dialogue, collaborative research, and talent mobility among research and entrepreneurial actors.\",\n    \"Support the growth of innovative enterprises by providing networking opportunities, funding, and knowledge sharing.\",\n    \"Strengthen the capacity to attract private capital and promote the development of spin-offs, start-ups, and innovative organizations.\"\n  ],\n  \"methods\": [\n    \"Establish an interregional network among research and technological centers, companies, and public administrations.\",\n    \"Develop a model for a technology center based on Italian experience and export it to Albania and Montenegro.\",\n    \"Facilitate knowledge sharing and talent mobility through international workshops and training programs.\"\n  ],\n  \"results\": [\n    \"Establish a functional interregional ecosystem that networks businesses, research centers, and public administrations.\",\n    \"Create an international cluster that promotes spin-offs, start-ups, and innovative organizations, attracting private investment funds and new talents.\",\n    \"Enhance the capacity for innovation and entrepreneurship in the involved territories, supporting the growth of innovative enterprises.\"\n  ],\n  \"research_subject\": \"Development of an interregional ecosystem for entrepreneurship, research, and technology\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a recognized need to support innovative entrepreneurship, but lack of funding and networking opportunities are hindering growth in certain territories.\",\n    \"Research centers often struggle to transform successful ideas into tangible products and services.\"\n  ],\n  \"objectives\": [\n    \"Create an innovative, interlinked ecosystem that fosters dialogue between different territories, enhances collaborative research, supports talent mobility, and strengthens the capacity to attract private capital.\",\n    \"Establish an interregional network among key stakeholders, including research and technological centers, companies, and public administrations.\",\n    \"Define a model for a technology center, based on Italian experience, that can be exported to Albania and Montenegro.\"\n  ],\n  \"methods\": [\n    \"Support the creation of an interregional network among key stakeholders.\",\n    \"Define a model for a technology center that can be exported to other countries.\",\n    \"Facilitate knowledge sharing and talent mobility.\"\n  ],\n  \"results\": [\n    \"Establishment of an Interregional Ecosystem that networks businesses, research centers, technological districts, and public administrations.\",\n    \"Creation of an international cluster for the promotion of spin-offs, start-ups, and innovative organizations.\",\n    \"Establishment of the Albanian Technological Center in Tirana.\"\n  ],\n  \"research_subject\": \"Creation of an interregional ecosystem for entrepreneurship, research, and technology\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Innovative entrepreneurship in the involved territories is hampered by lack of funding and networking opportunities, preventing growth of research-based companies.\",\n    \"Research centers struggle to transform successful ideas into concrete products and services due to insufficient commercialization capabilities.\"\n  ],\n  \"objectives\": [\n    \"Create an interregional ecosystem that fosters dialogue between territories and enhances collaborative research actions while attracting private capital.\",\n    \"Establish a technology center model based on Italian experience that can be exported to Albania and Montenegro.\",\n    \"Support talent mobility and knowledge sharing across the participating regions.\"\n  ],\n  \"methods\": [\n    \"Build an interregional network connecting research centers, technological districts, companies, and public administrations.\",\n    \"Develop and implement a replicable technology center model for Albania and Montenegro.\",\n    \"Organize international workshops and liveshows to promote the cluster and attract investment.\"\n  ],\n  \"results\": [\n    \"An operational interregional ecosystem serving as an international hub for spin-offs, start-ups, and innovative organizations.\",\n    \"Establishment of the Albanian Technological Center in Tirana and enhanced capacity for attracting private investment funds.\",\n    \"Improved knowledge sharing and talent mobility across territories with continuous training opportunities.\"\n  ],\n  \"research_subject\": \"Interregional ecosystem development for entrepreneurship, research, and technology transfer\"\n}\n```"
+}

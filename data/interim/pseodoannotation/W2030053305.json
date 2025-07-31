@@ -1,0 +1,69 @@
+{
+  "index": 322,
+  "title": "Surgical Management of Pancreatic Cancer—Pancreaticoduodenectomy",
+  "abstract": "Pancreaticoduodenectomy, the Whipple resection, is a complex operation that is commonly performed for patients with pancreatic ductal adenocarcinoma and other malignant or benign lesions in the head of the pancreas. It can be done with low morbidity and mortality rates, particularly when performed at high-volume hospitals and by high-volume surgeons. While it has been conventionally reserved for patients with early-stage malignant disease, it is being used increasingly for patients with locally extensive tumors who have undergone neoadjuvant therapy and downstaging. This article summarizes the role of pancreaticoduodenectomy for the treatment of patients with pancreatic cancer. It highlights the surgical staging of disease, the technical aspects of the operation and perioperative care, and the oncologic outcome.",
+  "llama_json": {
+    "motivations": [
+      "Pancreatic cancer is a complex disease requiring effective surgical management.",
+      "There is a need to improve treatment outcomes for patients with pancreatic cancer, particularly those with locally extensive tumors."
+    ],
+    "objectives": [
+      "Summarize the role of pancreaticoduodenectomy in the treatment of pancreatic cancer.",
+      "Highlight the surgical staging, technical aspects, and perioperative care of pancreaticoduodenectomy.",
+      "Discuss the oncologic outcomes of pancreaticoduodenectomy for patients with pancreatic cancer."
+    ],
+    "methods": [
+      "Review the application of pancreaticoduodenectomy for patients with pancreatic ductal adenocarcinoma and other lesions.",
+      "Analyze the impact of high-volume hospitals and surgeons on morbidity and mortality rates.",
+      "Examine the use of neoadjuvant therapy and downstaging for patients with locally extensive tumors."
+    ],
+    "results": [
+      "Improved understanding of the role of pancreaticoduodenectomy in treating pancreatic cancer.",
+      "Enhanced awareness of the technical aspects and perioperative care of the operation.",
+      "Better oncologic outcomes for patients undergoing pancreaticoduodenectomy."
+    ],
+    "research_subject": "Surgical management of pancreatic cancer using pancreaticoduodenectomy"
+  },
+  "openai_json": {
+    "motivations": [
+      "Pancreaticoduodenectomy is a complex operation often performed for patients with pancreatic cancer, but its use and outcomes need further exploration.",
+      "There is a growing trend of using pancreaticoduodenectomy for patients with locally extensive tumors after neoadjuvant therapy and downstaging."
+    ],
+    "objectives": [
+      "To summarize the role of pancreaticoduodenectomy in the treatment of patients with pancreatic cancer.",
+      "To highlight the surgical staging of disease, the technical aspects of the operation, perioperative care, and the oncologic outcome."
+    ],
+    "methods": [
+      "Review and summarize existing literature and practices on pancreaticoduodenectomy.",
+      "Discuss the surgical staging of disease, technical aspects of the operation, perioperative care, and oncologic outcomes."
+    ],
+    "results": [
+      "Provide a comprehensive overview of the role of pancreaticoduodenectomy in treating pancreatic cancer.",
+      "Highlight the surgical staging, technical aspects, perioperative care, and oncologic outcomes of pancreaticoduodenectomy."
+    ],
+    "research_subject": "Surgical management of pancreatic cancer through pancreaticoduodenectomy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Pancreaticoduodenectomy is a complex surgical procedure with significant morbidity and mortality risks that requires optimization of surgical techniques and perioperative care.",
+      "There is increasing use of pancreaticoduodenectomy for locally extensive tumors following neoadjuvant therapy, necessitating updated guidance on patient selection and management."
+    ],
+    "objectives": [
+      "Summarize the role and indications of pancreaticoduodenectomy in the treatment of pancreatic cancer.",
+      "Describe the surgical staging, technical aspects, perioperative care, and oncologic outcomes of pancreaticoduodenectomy."
+    ],
+    "methods": [
+      "Review and synthesis of current practices in surgical staging of pancreatic disease.",
+      "Analysis of technical aspects of pancreaticoduodenectomy and perioperative management strategies.",
+      "Evaluation of oncologic outcomes following pancreaticoduodenectomy."
+    ],
+    "results": [
+      "Pancreaticoduodenectomy can be performed with low morbidity and mortality when conducted at high-volume centers by experienced surgeons.",
+      "The procedure is increasingly applicable to patients with locally extensive tumors who have undergone successful neoadjuvant therapy and tumor downstaging."
+    ],
+    "research_subject": "Surgical management of pancreatic cancer through pancreaticoduodenectomy"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Pancreatic cancer is a complex disease requiring effective surgical management.\",\n    \"There is a need to improve treatment outcomes for patients with pancreatic cancer, particularly those with locally extensive tumors.\"\n  ],\n  \"objectives\": [\n    \"Summarize the role of pancreaticoduodenectomy in the treatment of pancreatic cancer.\",\n    \"Highlight the surgical staging, technical aspects, and perioperative care of pancreaticoduodenectomy.\",\n    \"Discuss the oncologic outcomes of pancreaticoduodenectomy for patients with pancreatic cancer.\"\n  ],\n  \"methods\": [\n    \"Review the application of pancreaticoduodenectomy for patients with pancreatic ductal adenocarcinoma and other lesions.\",\n    \"Analyze the impact of high-volume hospitals and surgeons on morbidity and mortality rates.\",\n    \"Examine the use of neoadjuvant therapy and downstaging for patients with locally extensive tumors.\"\n  ],\n  \"results\": [\n    \"Improved understanding of the role of pancreaticoduodenectomy in treating pancreatic cancer.\",\n    \"Enhanced awareness of the technical aspects and perioperative care of the operation.\",\n    \"Better oncologic outcomes for patients undergoing pancreaticoduodenectomy.\"\n  ],\n  \"research_subject\": \"Surgical management of pancreatic cancer using pancreaticoduodenectomy\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Pancreaticoduodenectomy is a complex operation often performed for patients with pancreatic cancer, but its use and outcomes need further exploration.\",\n    \"There is a growing trend of using pancreaticoduodenectomy for patients with locally extensive tumors after neoadjuvant therapy and downstaging.\"\n  ],\n  \"objectives\": [\n    \"To summarize the role of pancreaticoduodenectomy in the treatment of patients with pancreatic cancer.\",\n    \"To highlight the surgical staging of disease, the technical aspects of the operation, perioperative care, and the oncologic outcome.\"\n  ],\n  \"methods\": [\n    \"Review and summarize existing literature and practices on pancreaticoduodenectomy.\",\n    \"Discuss the surgical staging of disease, technical aspects of the operation, perioperative care, and oncologic outcomes.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive overview of the role of pancreaticoduodenectomy in treating pancreatic cancer.\",\n    \"Highlight the surgical staging, technical aspects, perioperative care, and oncologic outcomes of pancreaticoduodenectomy.\"\n  ],\n  \"research_subject\": \"Surgical management of pancreatic cancer through pancreaticoduodenectomy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Pancreaticoduodenectomy is a complex surgical procedure with significant morbidity and mortality risks that requires optimization of surgical techniques and perioperative care.\",\n    \"There is increasing use of pancreaticoduodenectomy for locally extensive tumors following neoadjuvant therapy, necessitating updated guidance on patient selection and management.\"\n  ],\n  \"objectives\": [\n    \"Summarize the role and indications of pancreaticoduodenectomy in the treatment of pancreatic cancer.\",\n    \"Describe the surgical staging, technical aspects, perioperative care, and oncologic outcomes of pancreaticoduodenectomy.\"\n  ],\n  \"methods\": [\n    \"Review and synthesis of current practices in surgical staging of pancreatic disease.\",\n    \"Analysis of technical aspects of pancreaticoduodenectomy and perioperative management strategies.\",\n    \"Evaluation of oncologic outcomes following pancreaticoduodenectomy.\"\n  ],\n  \"results\": [\n    \"Pancreaticoduodenectomy can be performed with low morbidity and mortality when conducted at high-volume centers by experienced surgeons.\",\n    \"The procedure is increasingly applicable to patients with locally extensive tumors who have undergone successful neoadjuvant therapy and tumor downstaging.\"\n  ],\n  \"research_subject\": \"Surgical management of pancreatic cancer through pancreaticoduodenectomy\"\n}\n```"
+}

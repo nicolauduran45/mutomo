@@ -1,0 +1,67 @@
+{
+  "index": 463,
+  "title": "Negation Generates Nonliteral Interpretations by Default",
+  "abstract": "Four experiments and 2 corpus-based studies demonstrate that negation is a determinant factor affecting novel nonliteral utterance-interpretation by default. For a nonliteral utterance-interpretation to be favored by default, utterances should be potentially ambiguous between literal and nonliteral interpretations. They should therefore be (a) unfamiliar, (b) free of semantic anomaly or any kind of internal incongruity, and (c) unbiased by contextual information. Experiments 1–3 demonstrate that negative utterances, meeting these 3 conditions, were interpreted metaphorically (This is not a safe) or sarcastically (Ambitious she is not) when presented in isolation and were therefore processed faster in contexts strongly biasing them toward their nonliteral than toward their (equally biased) literal interpretation. Experiment 4 reduces the possibility that it is structural markedness on its own that induces nonliteralness. Two corpus-based studies provide corroborating evidence, supporting the view of negati...",
+  "llama_json": {
+    "motivations": [
+      "Understanding how negation influences the interpretation of nonliteral utterances is crucial for effective communication.",
+      "There is a need to investigate the conditions under which negation leads to nonliteral interpretations by default."
+    ],
+    "objectives": [
+      "Investigate the role of negation in generating nonliteral interpretations of utterances by default.",
+      "Determine the conditions necessary for negation to lead to nonliteral interpretations, such as ambiguity and lack of contextual bias."
+    ],
+    "methods": [
+      "Conduct experiments to test the interpretation of negative utterances in isolation and in biased contexts.",
+      "Use corpus-based studies to provide corroborating evidence for the effect of negation on nonliteral interpretations."
+    ],
+    "results": [
+      "Negation leads to nonliteral interpretations by default when utterances are ambiguous and unbiased by context.",
+      "Negative utterances are processed faster in contexts that bias them toward nonliteral interpretations."
+    ],
+    "research_subject": "The effect of negation on nonliteral utterance interpretation"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding how negation affects the interpretation of nonliteral utterances is not well explored.",
+      "There is a need to investigate the conditions under which nonliteral utterance-interpretation is favored by default."
+    ],
+    "objectives": [
+      "Examine the role of negation in generating nonliteral interpretations by default.",
+      "Identify the conditions that favor nonliteral utterance-interpretation."
+    ],
+    "methods": [
+      "Conduct four experiments and two corpus-based studies to investigate the impact of negation on nonliteral utterance-interpretation.",
+      "Analyze the speed of processing negative utterances in contexts strongly biasing them toward their nonliteral interpretation."
+    ],
+    "results": [
+      "Negative utterances, under certain conditions, are interpreted metaphorically or sarcastically when presented in isolation.",
+      "Negative utterances are processed faster in contexts strongly biasing them toward their nonliteral than toward their literal interpretation."
+    ],
+    "research_subject": "Impact of negation on nonliteral utterance-interpretation"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding how negation influences the interpretation of utterances as literal versus nonliteral remains unclear.",
+      "There is a need to identify the conditions under which utterances are interpreted metaphorically or sarcastically by default."
+    ],
+    "objectives": [
+      "Demonstrate that negation is a determinant factor in generating nonliteral interpretations of novel utterances by default.",
+      "Identify the specific conditions required for utterances to be interpreted nonliterally rather than literally."
+    ],
+    "methods": [
+      "Conduct experiments presenting negative utterances in isolation and in various contextual conditions to measure interpretation preferences and processing speed.",
+      "Analyze corpus data to examine patterns of negation usage in literal versus nonliteral contexts.",
+      "Test utterances that are unfamiliar, free of semantic anomaly, and unbiased by contextual information."
+    ],
+    "results": [
+      "Negative utterances meeting specific conditions were interpreted metaphorically or sarcastically by default and processed faster in nonliteral contexts.",
+      "Corpus-based evidence supports the role of negation in inducing nonliteral interpretations.",
+      "Structural markedness alone does not account for the nonliteral interpretation preference."
+    ],
+    "research_subject": "The role of negation in generating nonliteral interpretations of utterances"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how negation influences the interpretation of nonliteral utterances is crucial for effective communication.\",\n    \"There is a need to investigate the conditions under which negation leads to nonliteral interpretations by default.\"\n  ],\n  \"objectives\": [\n    \"Investigate the role of negation in generating nonliteral interpretations of utterances by default.\",\n    \"Determine the conditions necessary for negation to lead to nonliteral interpretations, such as ambiguity and lack of contextual bias.\"\n  ],\n  \"methods\": [\n    \"Conduct experiments to test the interpretation of negative utterances in isolation and in biased contexts.\",\n    \"Use corpus-based studies to provide corroborating evidence for the effect of negation on nonliteral interpretations.\"\n  ],\n  \"results\": [\n    \"Negation leads to nonliteral interpretations by default when utterances are ambiguous and unbiased by context.\",\n    \"Negative utterances are processed faster in contexts that bias them toward nonliteral interpretations.\"\n  ],\n  \"research_subject\": \"The effect of negation on nonliteral utterance interpretation\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how negation affects the interpretation of nonliteral utterances is not well explored.\",\n    \"There is a need to investigate the conditions under which nonliteral utterance-interpretation is favored by default.\"\n  ],\n  \"objectives\": [\n    \"Examine the role of negation in generating nonliteral interpretations by default.\",\n    \"Identify the conditions that favor nonliteral utterance-interpretation.\"\n  ],\n  \"methods\": [\n    \"Conduct four experiments and two corpus-based studies to investigate the impact of negation on nonliteral utterance-interpretation.\",\n    \"Analyze the speed of processing negative utterances in contexts strongly biasing them toward their nonliteral interpretation.\"\n  ],\n  \"results\": [\n    \"Negative utterances, under certain conditions, are interpreted metaphorically or sarcastically when presented in isolation.\",\n    \"Negative utterances are processed faster in contexts strongly biasing them toward their nonliteral than toward their literal interpretation.\"\n  ],\n  \"research_subject\": \"Impact of negation on nonliteral utterance-interpretation\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how negation influences the interpretation of utterances as literal versus nonliteral remains unclear.\",\n    \"There is a need to identify the conditions under which utterances are interpreted metaphorically or sarcastically by default.\"\n  ],\n  \"objectives\": [\n    \"Demonstrate that negation is a determinant factor in generating nonliteral interpretations of novel utterances by default.\",\n    \"Identify the specific conditions required for utterances to be interpreted nonliterally rather than literally.\"\n  ],\n  \"methods\": [\n    \"Conduct experiments presenting negative utterances in isolation and in various contextual conditions to measure interpretation preferences and processing speed.\",\n    \"Analyze corpus data to examine patterns of negation usage in literal versus nonliteral contexts.\",\n    \"Test utterances that are unfamiliar, free of semantic anomaly, and unbiased by contextual information.\"\n  ],\n  \"results\": [\n    \"Negative utterances meeting specific conditions were interpreted metaphorically or sarcastically by default and processed faster in nonliteral contexts.\",\n    \"Corpus-based evidence supports the role of negation in inducing nonliteral interpretations.\",\n    \"Structural markedness alone does not account for the nonliteral interpretation preference.\"\n  ],\n  \"research_subject\": \"The role of negation in generating nonliteral interpretations of utterances\"\n}\n```"
+}

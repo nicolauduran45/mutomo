@@ -1,0 +1,67 @@
+{
+  "index": 330,
+  "title": "Clinical perceptions of radiation therapy undergraduate competency standards",
+  "abstract": "Introduction: The multifactorial nature of clinical skills development makes assessment of undergraduate radiation therapist competence level by clinical mentors challenging. A recent overhaul of the clinical assessment strategy at Queensland University of Technology has moved away from the high-stakes Objective Structured Clinical Examination (OSCE) to encompass a more continuous measure of competence. This quantitative study aimed to gather stakeholder evidence to inform development of standards by which to measure student competence for a range of levels of progression. Methods: A simple anonymous questionnaire was distributed to all Queensland radiation therapists. The tool asked respondents to assign different levels of competency with a range of clinical tasks to different levels of student. All data were anonymous and was combined for analysis using Microsoft Excel. Results: Feedback indicated good agreement with tasks that specified the amount of direction required and this has been incorporated into the new clinical achievements record that the students need to have signed off. Additional puzzling findings suggested higher expectations with planning tasks than with treatment-based tasks. Conclusion: The findings suggest that the amount of direction required by students is a valid indicator of their level and has been adopted into the clinical assessment scheme. Further work will build on this to further define standards of competency for undergraduates.",
+  "llama_json": {
+    "motivations": [
+      "Assessing undergraduate radiation therapist competence is challenging due to the multifactorial nature of clinical skills development.",
+      "There is a need to develop clear standards for measuring student competence in radiation therapy."
+    ],
+    "objectives": [
+      "Gather stakeholder evidence to inform the development of standards for measuring student competence in radiation therapy.",
+      "Investigate the perceptions of radiation therapists regarding the competency levels of undergraduates in performing various clinical tasks."
+    ],
+    "methods": [
+      "Conducted a quantitative study using an anonymous questionnaire distributed to radiation therapists in Queensland.",
+      "Analyzed the data using Microsoft Excel to identify patterns and trends in respondents' perceptions of competency levels."
+    ],
+    "results": [
+      "Found good agreement among respondents regarding the amount of direction required for different clinical tasks.",
+      "Identified puzzling findings suggesting higher expectations for planning tasks than treatment-based tasks.",
+      "Informed the development of a new clinical achievements record incorporating the amount of direction required by students."
+    ],
+    "research_subject": "Clinical perceptions of radiation therapy undergraduate competency standards"
+  },
+  "openai_json": {
+    "motivations": [
+      "Assessing undergraduate radiation therapist competence level by clinical mentors is challenging due to the multifactorial nature of clinical skills development.",
+      "There is a need for a continuous measure of competence, moving away from high-stakes Objective Structured Clinical Examination (OSCE)."
+    ],
+    "objectives": [
+      "Gather stakeholder evidence to inform the development of standards to measure student competence for various levels of progression.",
+      "Incorporate the level of direction required by students as an indicator of their competence level into the clinical assessment scheme."
+    ],
+    "methods": [
+      "Distribute a simple anonymous questionnaire to all Queensland radiation therapists to assign different levels of competency with a range of clinical tasks to different levels of students.",
+      "Analyze the collected data using Microsoft Excel."
+    ],
+    "results": [
+      "The amount of direction required by students is a valid indicator of their level and has been adopted into the clinical assessment scheme.",
+      "There were higher expectations with planning tasks than with treatment-based tasks."
+    ],
+    "research_subject": "Development of undergraduate competency standards in radiation therapy"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The multifactorial nature of clinical skills development makes it challenging for clinical mentors to assess undergraduate radiation therapist competence levels.",
+      "Traditional high-stakes assessment methods like OSCEs may not provide continuous and comprehensive measures of student competence in clinical settings."
+    ],
+    "objectives": [
+      "Gather stakeholder evidence to inform the development of competency standards for undergraduate radiation therapy students at different progression levels.",
+      "Establish valid indicators for measuring student competence that can be incorporated into clinical assessment schemes."
+    ],
+    "methods": [
+      "Distribute an anonymous questionnaire to Queensland radiation therapists asking them to assign competency levels for various clinical tasks to different student levels.",
+      "Analyze the collected data to identify patterns and agreement levels regarding competency expectations."
+    ],
+    "results": [
+      "Good agreement was found for tasks specifying the amount of direction required, which has been incorporated into the new clinical achievements record.",
+      "Higher expectations were identified for planning tasks compared to treatment-based tasks, suggesting different competency standards across task types.",
+      "The amount of direction required by students was validated as an indicator of their competency level."
+    ],
+    "research_subject": "Clinical competency standards for undergraduate radiation therapy students"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Assessing undergraduate radiation therapist competence is challenging due to the multifactorial nature of clinical skills development.\",\n    \"There is a need to develop clear standards for measuring student competence in radiation therapy.\"\n  ],\n  \"objectives\": [\n    \"Gather stakeholder evidence to inform the development of standards for measuring student competence in radiation therapy.\",\n    \"Investigate the perceptions of radiation therapists regarding the competency levels of undergraduates in performing various clinical tasks.\"\n  ],\n  \"methods\": [\n    \"Conducted a quantitative study using an anonymous questionnaire distributed to radiation therapists in Queensland.\",\n    \"Analyzed the data using Microsoft Excel to identify patterns and trends in respondents' perceptions of competency levels.\"\n  ],\n  \"results\": [\n    \"Found good agreement among respondents regarding the amount of direction required for different clinical tasks.\",\n    \"Identified puzzling findings suggesting higher expectations for planning tasks than treatment-based tasks.\",\n    \"Informed the development of a new clinical achievements record incorporating the amount of direction required by students.\"\n  ],\n  \"research_subject\": \"Clinical perceptions of radiation therapy undergraduate competency standards\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Assessing undergraduate radiation therapist competence level by clinical mentors is challenging due to the multifactorial nature of clinical skills development.\",\n    \"There is a need for a continuous measure of competence, moving away from high-stakes Objective Structured Clinical Examination (OSCE).\"\n  ],\n  \"objectives\": [\n    \"Gather stakeholder evidence to inform the development of standards to measure student competence for various levels of progression.\",\n    \"Incorporate the level of direction required by students as an indicator of their competence level into the clinical assessment scheme.\"\n  ],\n  \"methods\": [\n    \"Distribute a simple anonymous questionnaire to all Queensland radiation therapists to assign different levels of competency with a range of clinical tasks to different levels of students.\",\n    \"Analyze the collected data using Microsoft Excel.\"\n  ],\n  \"results\": [\n    \"The amount of direction required by students is a valid indicator of their level and has been adopted into the clinical assessment scheme.\",\n    \"There were higher expectations with planning tasks than with treatment-based tasks.\"\n  ],\n  \"research_subject\": \"Development of undergraduate competency standards in radiation therapy\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The multifactorial nature of clinical skills development makes it challenging for clinical mentors to assess undergraduate radiation therapist competence levels.\",\n    \"Traditional high-stakes assessment methods like OSCEs may not provide continuous and comprehensive measures of student competence in clinical settings.\"\n  ],\n  \"objectives\": [\n    \"Gather stakeholder evidence to inform the development of competency standards for undergraduate radiation therapy students at different progression levels.\",\n    \"Establish valid indicators for measuring student competence that can be incorporated into clinical assessment schemes.\"\n  ],\n  \"methods\": [\n    \"Distribute an anonymous questionnaire to Queensland radiation therapists asking them to assign competency levels for various clinical tasks to different student levels.\",\n    \"Analyze the collected data to identify patterns and agreement levels regarding competency expectations.\"\n  ],\n  \"results\": [\n    \"Good agreement was found for tasks specifying the amount of direction required, which has been incorporated into the new clinical achievements record.\",\n    \"Higher expectations were identified for planning tasks compared to treatment-based tasks, suggesting different competency standards across task types.\",\n    \"The amount of direction required by students was validated as an indicator of their competency level.\"\n  ],\n  \"research_subject\": \"Clinical competency standards for undergraduate radiation therapy students\"\n}\n```"
+}

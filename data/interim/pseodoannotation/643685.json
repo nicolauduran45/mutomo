@@ -1,0 +1,77 @@
+{
+  "index": 111,
+  "title": "Development of scalable microfluidic device for drug testing using humanized adipose tissue spheroids",
+  "abstract": "In regenerative medicine, in vitro tissue engineering products (3D cell cultures) for in vivo therapy are critical for more accurate and more humane medical innovation. Tissue engineered scaffold-free 3D models that exhibit functional hallmarks of native tissues improve our search for biomarkers, drug testing/development and toxicology with more accurate models, while supporting the development of alternative methods to animal use in drug testing, as stated by the Directive (2010/63/EU) established the European Centre for the validation of alternative methods (ECVAM). To replace animal testing, it is important to develop microphysiological systems and ‘body-on-chip’ approaches that allow to account for organ-to-organ interactions in vitro, at a reasonable cost. Yet, most current bioreactors are expensive, designed for organ transplant (thus focused on a single organ) and poorly designed for miniaturization and scale-up. In SMD-SPH, we will develop a microphysiological systems with the following design requirement: a 3D cell culture model, with a continuous and controllable perfusion system for continuous contact with morphogens (growth factors) to obtain a functional native tissue and monitoring crucial parameters of cell physiology, compatible with scale-up manufacturing. To the best of our knowledge, it is the first time in scientific literature that human adipose tissue-derived stem cells are used to build human white adipose tissue in a novel and scalable microphysiological system. This project meets the convergence of microfluidics and scaffold-free 3D culture models offering a reliable alternative for drug and toxicology assays, besides offer a scalable and reproductible system for future integration into a human-on-a-chip and high-troughput assays. Once an initial prototype is obtained, we will start dissemination to stakeholders and seek early adopters, cosmetic industries.",
+  "llama_json": {
+    "motivations": [
+      "Current methods for drug testing and development rely heavily on animal models, which are often inaccurate and inhumane.",
+      "Existing bioreactors for tissue engineering are expensive, poorly designed for miniaturization and scale-up, and typically focus on a single organ.",
+      "There is a need for more accurate and cost-effective in vitro models that can mimic native tissues and account for organ-to-organ interactions."
+    ],
+    "objectives": [
+      "Develop a scalable microfluidic device for drug testing using humanized adipose tissue spheroids.",
+      "Create a microphysiological system that allows for continuous and controllable perfusion, monitoring of cell physiology, and scale-up manufacturing.",
+      "Establish a reliable alternative to animal testing for drug and toxicology assays using human adipose tissue-derived stem cells."
+    ],
+    "methods": [
+      "Design and develop a novel microphysiological system that integrates 3D cell culture models with continuous perfusion and monitoring systems.",
+      "Utilize human adipose tissue-derived stem cells to build human white adipose tissue in the microphysiological system.",
+      "Test and validate the system for scalability, reproducibility, and compatibility with high-throughput assays."
+    ],
+    "results": [
+      "Provide a more accurate and cost-effective alternative to animal testing for drug development and toxicology.",
+      "Enable the creation of functional native tissue models that can be used for biomarker discovery and drug testing.",
+      "Support the development of a human-on-a-chip platform for future integration and high-throughput assays."
+    ],
+    "research_subject": "Development of a scalable microfluidic device for drug testing using humanized adipose tissue spheroids"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need for more accurate and humane medical innovation in regenerative medicine, specifically in vitro tissue engineering products.",
+      "The requirement for alternative methods to animal use in drug testing, as stated by the Directive (2010/63/EU).",
+      "The current bioreactors are expensive, poorly designed for miniaturization and scale-up, and focused on a single organ."
+    ],
+    "objectives": [
+      "Develop a microphysiological system with a 3D cell culture model, a continuous and controllable perfusion system, and monitoring of crucial cell physiology parameters.",
+      "Use human adipose tissue-derived stem cells to build human white adipose tissue in a novel and scalable microphysiological system.",
+      "Disseminate the initial prototype to stakeholders and seek early adopters, specifically in cosmetic industries."
+    ],
+    "methods": [
+      "Use of microfluidics and scaffold-free 3D culture models to develop the microphysiological system.",
+      "Employ human adipose tissue-derived stem cells to build human white adipose tissue.",
+      "Plan for scale-up manufacturing and future integration into a human-on-a-chip and high-throughput assays."
+    ],
+    "results": [
+      "Development of a more accurate and humane model for drug testing and toxicology assays.",
+      "Creation of a scalable and reproducible system for future integration into a human-on-a-chip and high-throughput assays.",
+      "Potential adoption of the system by stakeholders, particularly in the cosmetic industry."
+    ],
+    "research_subject": "Development of a scalable microfluidic device for drug testing using humanized adipose tissue spheroids"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current in vitro tissue models lack the functional characteristics of native tissues, limiting their effectiveness for drug testing and biomarker discovery.",
+      "There is a need to develop alternative methods to animal testing in compliance with EU Directive 2010/63/EU while maintaining scientific accuracy.",
+      "Existing bioreactors are expensive, focused on single organs, and poorly designed for miniaturization and scale-up manufacturing."
+    ],
+    "objectives": [
+      "Develop a scalable microfluidic device that integrates 3D adipose tissue spheroids for drug testing and toxicology assays.",
+      "Create a microphysiological system with continuous perfusion and real-time monitoring of cell physiology parameters.",
+      "Establish a cost-effective, scalable platform compatible with human-on-a-chip integration and high-throughput assays."
+    ],
+    "methods": [
+      "Use human adipose tissue-derived stem cells to build scaffold-free 3D white adipose tissue models.",
+      "Implement a continuous and controllable perfusion system for morphogen delivery in a microfluidic device.",
+      "Design the system for scalability and compatibility with manufacturing requirements and multi-organ integration."
+    ],
+    "results": [
+      "Provide a reliable alternative to animal testing for drug development and toxicology screening.",
+      "Enable more accurate modeling of human adipose tissue physiology for biomarker discovery and drug testing.",
+      "Facilitate adoption by cosmetic and pharmaceutical industries through a scalable and reproducible platform."
+    ],
+    "research_subject": "Scalable microfluidic device for drug testing using humanized adipose tissue spheroids"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current methods for drug testing and development rely heavily on animal models, which are often inaccurate and inhumane.\",\n    \"Existing bioreactors for tissue engineering are expensive, poorly designed for miniaturization and scale-up, and typically focus on a single organ.\",\n    \"There is a need for more accurate and cost-effective in vitro models that can mimic native tissues and account for organ-to-organ interactions.\"\n  ],\n  \"objectives\": [\n    \"Develop a scalable microfluidic device for drug testing using humanized adipose tissue spheroids.\",\n    \"Create a microphysiological system that allows for continuous and controllable perfusion, monitoring of cell physiology, and scale-up manufacturing.\",\n    \"Establish a reliable alternative to animal testing for drug and toxicology assays using human adipose tissue-derived stem cells.\"\n  ],\n  \"methods\": [\n    \"Design and develop a novel microphysiological system that integrates 3D cell culture models with continuous perfusion and monitoring systems.\",\n    \"Utilize human adipose tissue-derived stem cells to build human white adipose tissue in the microphysiological system.\",\n    \"Test and validate the system for scalability, reproducibility, and compatibility with high-throughput assays.\"\n  ],\n  \"results\": [\n    \"Provide a more accurate and cost-effective alternative to animal testing for drug development and toxicology.\",\n    \"Enable the creation of functional native tissue models that can be used for biomarker discovery and drug testing.\",\n    \"Support the development of a human-on-a-chip platform for future integration and high-throughput assays.\"\n  ],\n  \"research_subject\": \"Development of a scalable microfluidic device for drug testing using humanized adipose tissue spheroids\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need for more accurate and humane medical innovation in regenerative medicine, specifically in vitro tissue engineering products.\",\n    \"The requirement for alternative methods to animal use in drug testing, as stated by the Directive (2010/63/EU).\",\n    \"The current bioreactors are expensive, poorly designed for miniaturization and scale-up, and focused on a single organ.\"\n  ],\n  \"objectives\": [\n    \"Develop a microphysiological system with a 3D cell culture model, a continuous and controllable perfusion system, and monitoring of crucial cell physiology parameters.\",\n    \"Use human adipose tissue-derived stem cells to build human white adipose tissue in a novel and scalable microphysiological system.\",\n    \"Disseminate the initial prototype to stakeholders and seek early adopters, specifically in cosmetic industries.\"\n  ],\n  \"methods\": [\n    \"Use of microfluidics and scaffold-free 3D culture models to develop the microphysiological system.\",\n    \"Employ human adipose tissue-derived stem cells to build human white adipose tissue.\",\n    \"Plan for scale-up manufacturing and future integration into a human-on-a-chip and high-throughput assays.\"\n  ],\n  \"results\": [\n    \"Development of a more accurate and humane model for drug testing and toxicology assays.\",\n    \"Creation of a scalable and reproducible system for future integration into a human-on-a-chip and high-throughput assays.\",\n    \"Potential adoption of the system by stakeholders, particularly in the cosmetic industry.\"\n  ],\n  \"research_subject\": \"Development of a scalable microfluidic device for drug testing using humanized adipose tissue spheroids\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current in vitro tissue models lack the functional characteristics of native tissues, limiting their effectiveness for drug testing and biomarker discovery.\",\n    \"There is a need to develop alternative methods to animal testing in compliance with EU Directive 2010/63/EU while maintaining scientific accuracy.\",\n    \"Existing bioreactors are expensive, focused on single organs, and poorly designed for miniaturization and scale-up manufacturing.\"\n  ],\n  \"objectives\": [\n    \"Develop a scalable microfluidic device that integrates 3D adipose tissue spheroids for drug testing and toxicology assays.\",\n    \"Create a microphysiological system with continuous perfusion and real-time monitoring of cell physiology parameters.\",\n    \"Establish a cost-effective, scalable platform compatible with human-on-a-chip integration and high-throughput assays.\"\n  ],\n  \"methods\": [\n    \"Use human adipose tissue-derived stem cells to build scaffold-free 3D white adipose tissue models.\",\n    \"Implement a continuous and controllable perfusion system for morphogen delivery in a microfluidic device.\",\n    \"Design the system for scalability and compatibility with manufacturing requirements and multi-organ integration.\"\n  ],\n  \"results\": [\n    \"Provide a reliable alternative to animal testing for drug development and toxicology screening.\",\n    \"Enable more accurate modeling of human adipose tissue physiology for biomarker discovery and drug testing.\",\n    \"Facilitate adoption by cosmetic and pharmaceutical industries through a scalable and reproducible platform.\"\n  ],\n  \"research_subject\": \"Scalable microfluidic device for drug testing using humanized adipose tissue spheroids\"\n}\n```"
+}

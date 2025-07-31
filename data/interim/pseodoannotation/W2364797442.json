@@ -1,0 +1,56 @@
+{
+  "index": 246,
+  "title": "A Historical Study of Self-Combing Women in Singapore",
+  "abstract": "Self-combing women (自梳女) is the name for some special women who decided to stay single in whole life. The most representative ones were the women from Shunde and Panyu counties in the province of Guangdong,China,from late 19th century to the middle of 20th century. The motive for self-combing is rather complex,so was their life very rough.The journey they took to the South Sea to take up the jobs as maids in the service industry had given them a particular name—majie. In Singapore,very few majie had made it back to their hometown in China when they got old. Most spent their whole life in Singapore.",
+  "llama_json": {
+    "motivations": [
+      "There is a lack of understanding about the lives and experiences of self-combing women (majie) from China who migrated to Singapore as maids in the service industry."
+    ],
+    "objectives": [
+      "Conduct a historical study to explore the lives and experiences of self-combing women in Singapore."
+    ],
+    "methods": [],
+    "results": [],
+    "research_subject": "Self-combing women (majie) in Singapore"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the complex motives and challenging lives of self-combing women, particularly those who migrated to Singapore and worked as maids.",
+      "The historical and cultural significance of self-combing women in Singapore, who chose to remain single and often spent their entire lives away from their hometowns, is underexplored."
+    ],
+    "objectives": [
+      "Explore the historical context and experiences of self-combing women from Guangdong, China, who migrated to Singapore from the late 19th to mid-20th century.",
+      "Understand the motives behind their decision to remain single and the challenges they faced in their lives."
+    ],
+    "methods": [
+      "Conduct a historical study of self-combing women, focusing on those who migrated to Singapore and worked in the service industry."
+    ],
+    "results": [
+      "Provide a deeper understanding of the lives, motives, and experiences of self-combing women in Singapore.",
+      "Contribute to the historical and cultural knowledge of this unique group of women."
+    ],
+    "research_subject": "Historical study of self-combing women in Singapore"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The complex motives and rough life experiences of self-combing women who chose to remain single have not been adequately documented or understood.",
+      "The historical journey and experiences of self-combing women who migrated from Guangdong, China to Singapore as domestic workers require scholarly examination."
+    ],
+    "objectives": [
+      "Document and analyze the historical experiences of self-combing women from Guangdong who migrated to Singapore as domestic workers.",
+      "Examine the complex motivations behind the self-combing practice and the life trajectories of these women in Singapore."
+    ],
+    "methods": [
+      "Conduct historical research focusing on self-combing women from Shunde and Panyu counties who migrated to Singapore.",
+      "Analyze the social and economic factors that influenced their decision to remain single and work as domestic helpers."
+    ],
+    "results": [
+      "Provide a comprehensive historical account of self-combing women's experiences in Singapore from the late 19th to mid-20th century.",
+      "Reveal that most self-combing women spent their entire lives in Singapore rather than returning to China."
+    ],
+    "research_subject": "Self-combing women from Guangdong, China who migrated to Singapore as domestic workers"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of understanding about the lives and experiences of self-combing women (majie) from China who migrated to Singapore as maids in the service industry.\"\n  ],\n  \"objectives\": [\n    \"Conduct a historical study to explore the lives and experiences of self-combing women in Singapore.\"\n  ],\n  \"methods\": [],\n  \"results\": [],\n  \"research_subject\": \"Self-combing women (majie) in Singapore\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the complex motives and challenging lives of self-combing women, particularly those who migrated to Singapore and worked as maids.\",\n    \"The historical and cultural significance of self-combing women in Singapore, who chose to remain single and often spent their entire lives away from their hometowns, is underexplored.\"\n  ],\n  \"objectives\": [\n    \"Explore the historical context and experiences of self-combing women from Guangdong, China, who migrated to Singapore from the late 19th to mid-20th century.\",\n    \"Understand the motives behind their decision to remain single and the challenges they faced in their lives.\"\n  ],\n  \"methods\": [\n    \"Conduct a historical study of self-combing women, focusing on those who migrated to Singapore and worked in the service industry.\"\n  ],\n  \"results\": [\n    \"Provide a deeper understanding of the lives, motives, and experiences of self-combing women in Singapore.\",\n    \"Contribute to the historical and cultural knowledge of this unique group of women.\"\n  ],\n  \"research_subject\": \"Historical study of self-combing women in Singapore\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The complex motives and rough life experiences of self-combing women who chose to remain single have not been adequately documented or understood.\",\n    \"The historical journey and experiences of self-combing women who migrated from Guangdong, China to Singapore as domestic workers require scholarly examination.\"\n  ],\n  \"objectives\": [\n    \"Document and analyze the historical experiences of self-combing women from Guangdong who migrated to Singapore as domestic workers.\",\n    \"Examine the complex motivations behind the self-combing practice and the life trajectories of these women in Singapore.\"\n  ],\n  \"methods\": [\n    \"Conduct historical research focusing on self-combing women from Shunde and Panyu counties who migrated to Singapore.\",\n    \"Analyze the social and economic factors that influenced their decision to remain single and work as domestic helpers.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive historical account of self-combing women's experiences in Singapore from the late 19th to mid-20th century.\",\n    \"Reveal that most self-combing women spent their entire lives in Singapore rather than returning to China.\"\n  ],\n  \"research_subject\": \"Self-combing women from Guangdong, China who migrated to Singapore as domestic workers\"\n}\n```"
+}

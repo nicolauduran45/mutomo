@@ -1,0 +1,75 @@
+{
+  "index": 382,
+  "title": "Concurrency testing using schedule bounding",
+  "abstract": "We present the first independent empirical study on schedule bounding techniques for systematic concurrency testing (SCT). We have gathered 52 buggy concurrent software benchmarks, drawn from public code bases, which we call SCTBench. We applied a modified version of an existing concurrency testing tool to SCTBench to attempt to answer several research questions, including: How effective are the two main schedule bounding techniques, preemption bounding and delay bounding, at bug finding? What challenges are associated with applying SCT to existing code? How effective is schedule bounding compared to a naive random scheduler at finding bugs? Our findings confirm that delay bounding is superior to preemption bounding and that schedule bounding is more effective at finding bugs than unbounded depth-first search. The majority of bugs in SCTBench can be exposed using a small bound (1-3), supporting previous claims, but there is at least one benchmark that requires 5 preemptions. Surprisingly, we found that a naive random scheduler is at least as effective as schedule bounding for finding bugs. We have made SCTBench and our tools publicly available for reproducibility and use in future work.",
+  "llama_json": {
+    "motivations": [
+      "Concurrency testing is challenging due to the vast number of possible thread schedules, making it difficult to detect bugs.",
+      "Existing concurrency testing techniques, such as systematic concurrency testing (SCT), require effective schedule bounding methods to reduce the search space."
+    ],
+    "objectives": [
+      "Evaluate the effectiveness of schedule bounding techniques, specifically preemption bounding and delay bounding, in detecting concurrency bugs.",
+      "Compare the effectiveness of schedule bounding with a naive random scheduler in finding bugs.",
+      "Identify challenges associated with applying systematic concurrency testing to existing code."
+    ],
+    "methods": [
+      "Conducted an empirical study using a modified version of an existing concurrency testing tool on a set of 52 buggy concurrent software benchmarks (SCTBench).",
+      "Applied schedule bounding techniques, including preemption bounding and delay bounding, to SCTBench.",
+      "Compared the effectiveness of schedule bounding with a naive random scheduler."
+    ],
+    "results": [
+      "Delay bounding is more effective than preemption bounding in detecting concurrency bugs.",
+      "Schedule bounding is more effective than unbounded depth-first search in finding bugs.",
+      "A naive random scheduler is at least as effective as schedule bounding in detecting bugs."
+    ],
+    "research_subject": "Concurrency testing using schedule bounding techniques"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a lack of independent empirical studies on schedule bounding techniques for systematic concurrency testing (SCT).",
+      "Understanding the effectiveness of schedule bounding techniques, such as preemption bounding and delay bounding, in bug finding is crucial.",
+      "There is a need to compare the effectiveness of schedule bounding with a naive random scheduler in finding bugs."
+    ],
+    "objectives": [
+      "Conduct an independent empirical study on schedule bounding techniques using a set of buggy concurrent software benchmarks, SCTBench.",
+      "Evaluate the effectiveness of preemption bounding and delay bounding in bug finding.",
+      "Compare the effectiveness of schedule bounding with a naive random scheduler in finding bugs."
+    ],
+    "methods": [
+      "Gather a set of 52 buggy concurrent software benchmarks from public code bases, called SCTBench.",
+      "Apply a modified version of an existing concurrency testing tool to SCTBench.",
+      "Compare the effectiveness of schedule bounding techniques and a naive random scheduler in bug finding."
+    ],
+    "results": [
+      "Delay bounding is found to be superior to preemption bounding in bug finding.",
+      "Schedule bounding is more effective at finding bugs than unbounded depth-first search.",
+      "A naive random scheduler is at least as effective as schedule bounding for finding bugs."
+    ],
+    "research_subject": "Concurrency testing using schedule bounding techniques"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a lack of independent empirical studies evaluating the effectiveness of schedule bounding techniques for systematic concurrency testing.",
+      "Understanding the practical challenges and effectiveness of different concurrency testing approaches is crucial for improving bug detection in concurrent software."
+    ],
+    "objectives": [
+      "Conduct the first independent empirical study comparing the effectiveness of preemption bounding and delay bounding techniques for systematic concurrency testing.",
+      "Evaluate how schedule bounding techniques compare to naive random scheduling and unbounded depth-first search for bug detection.",
+      "Identify the challenges associated with applying systematic concurrency testing to existing code."
+    ],
+    "methods": [
+      "Compile a benchmark suite (SCTBench) of 52 buggy concurrent software programs from public code bases.",
+      "Apply a modified concurrency testing tool to systematically evaluate different schedule bounding techniques.",
+      "Compare the bug-finding effectiveness of preemption bounding, delay bounding, random scheduling, and unbounded depth-first search."
+    ],
+    "results": [
+      "Delay bounding is more effective than preemption bounding, and schedule bounding outperforms unbounded depth-first search for bug detection.",
+      "Most bugs can be exposed with small bounds (1-3), though some require up to 5 preemptions.",
+      "A naive random scheduler performs at least as well as schedule bounding techniques for finding bugs, challenging previous assumptions."
+    ],
+    "research_subject": "Empirical evaluation of schedule bounding techniques for systematic concurrency testing"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Concurrency testing is challenging due to the vast number of possible thread schedules, making it difficult to detect bugs.\",\n    \"Existing concurrency testing techniques, such as systematic concurrency testing (SCT), require effective schedule bounding methods to reduce the search space.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the effectiveness of schedule bounding techniques, specifically preemption bounding and delay bounding, in detecting concurrency bugs.\",\n    \"Compare the effectiveness of schedule bounding with a naive random scheduler in finding bugs.\",\n    \"Identify challenges associated with applying systematic concurrency testing to existing code.\"\n  ],\n  \"methods\": [\n    \"Conducted an empirical study using a modified version of an existing concurrency testing tool on a set of 52 buggy concurrent software benchmarks (SCTBench).\",\n    \"Applied schedule bounding techniques, including preemption bounding and delay bounding, to SCTBench.\",\n    \"Compared the effectiveness of schedule bounding with a naive random scheduler.\"\n  ],\n  \"results\": [\n    \"Delay bounding is more effective than preemption bounding in detecting concurrency bugs.\",\n    \"Schedule bounding is more effective than unbounded depth-first search in finding bugs.\",\n    \"A naive random scheduler is at least as effective as schedule bounding in detecting bugs.\"\n  ],\n  \"research_subject\": \"Concurrency testing using schedule bounding techniques\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of independent empirical studies on schedule bounding techniques for systematic concurrency testing (SCT).\",\n    \"Understanding the effectiveness of schedule bounding techniques, such as preemption bounding and delay bounding, in bug finding is crucial.\",\n    \"There is a need to compare the effectiveness of schedule bounding with a naive random scheduler in finding bugs.\"\n  ],\n  \"objectives\": [\n    \"Conduct an independent empirical study on schedule bounding techniques using a set of buggy concurrent software benchmarks, SCTBench.\",\n    \"Evaluate the effectiveness of preemption bounding and delay bounding in bug finding.\",\n    \"Compare the effectiveness of schedule bounding with a naive random scheduler in finding bugs.\"\n  ],\n  \"methods\": [\n    \"Gather a set of 52 buggy concurrent software benchmarks from public code bases, called SCTBench.\",\n    \"Apply a modified version of an existing concurrency testing tool to SCTBench.\",\n    \"Compare the effectiveness of schedule bounding techniques and a naive random scheduler in bug finding.\"\n  ],\n  \"results\": [\n    \"Delay bounding is found to be superior to preemption bounding in bug finding.\",\n    \"Schedule bounding is more effective at finding bugs than unbounded depth-first search.\",\n    \"A naive random scheduler is at least as effective as schedule bounding for finding bugs.\"\n  ],\n  \"research_subject\": \"Concurrency testing using schedule bounding techniques\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a lack of independent empirical studies evaluating the effectiveness of schedule bounding techniques for systematic concurrency testing.\",\n    \"Understanding the practical challenges and effectiveness of different concurrency testing approaches is crucial for improving bug detection in concurrent software.\"\n  ],\n  \"objectives\": [\n    \"Conduct the first independent empirical study comparing the effectiveness of preemption bounding and delay bounding techniques for systematic concurrency testing.\",\n    \"Evaluate how schedule bounding techniques compare to naive random scheduling and unbounded depth-first search for bug detection.\",\n    \"Identify the challenges associated with applying systematic concurrency testing to existing code.\"\n  ],\n  \"methods\": [\n    \"Compile a benchmark suite (SCTBench) of 52 buggy concurrent software programs from public code bases.\",\n    \"Apply a modified concurrency testing tool to systematically evaluate different schedule bounding techniques.\",\n    \"Compare the bug-finding effectiveness of preemption bounding, delay bounding, random scheduling, and unbounded depth-first search.\"\n  ],\n  \"results\": [\n    \"Delay bounding is more effective than preemption bounding, and schedule bounding outperforms unbounded depth-first search for bug detection.\",\n    \"Most bugs can be exposed with small bounds (1-3), though some require up to 5 preemptions.\",\n    \"A naive random scheduler performs at least as well as schedule bounding techniques for finding bugs, challenging previous assumptions.\"\n  ],\n  \"research_subject\": \"Empirical evaluation of schedule bounding techniques for systematic concurrency testing\"\n}\n```"
+}

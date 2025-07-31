@@ -1,0 +1,66 @@
+{
+  "index": 65,
+  "title": "Thirdhand Smoke Exposure in Homes with Children under 48 Months during the First Wave of the COVID-19 Pandemic Confinement in Barcelona (Spain)",
+  "abstract": "Background/Objectives: Due to serious restrictions on mobility, some children might have increased exposure to THS due to home confinement. To characterize third-hand smoke (THS) exposure in children under 48 months at homes in Spain during the confinement of the first wave of COVID-19.Methods: Cross-sectional study of a non-probabilistic sample of parents (n = 311). The gathered information was about smoking status, second-hand smoke (SHS) exposure of their children, and voluntary regulation of tobacco consumption at their home. A variable of THS exposure at home was derived, classifying as ‘THS exposed’ those children whose parents reported living with a smoker or with smoking parents and non-exposed to SHS; ‘Non exposed’ children were, therefore, all other children.Results: Almost a quarter of the children (23.5%) were exposed to THS. This prevalence was significantly higher among those children whose parents increased tobacco consumption during confinement (40.5%), whose parents had lower or medium educational levels (42.9% and 41.7%), and with younger parents (24.8%). In contrast, the prevalence was significantly lower among those children living in homes with complete voluntary smoke restrictions (21.1%).Conclusions/Recommendations: To reduce THS exposure among children, it is important to work on information campaigns to raise awareness regarding THS exposure, promote recommendations to avoid exposure to THS, and develop legislation promoting smoke-free environments (in homes and vehicles).",
+  "llama_json": {
+    "motivations": [
+      "Children under 48 months may have increased exposure to third-hand smoke (THS) due to home confinement during the COVID-19 pandemic.",
+      "There is a need to characterize and address THS exposure in young children, especially in homes with smokers or smoking parents."
+    ],
+    "objectives": [
+      "Characterize third-hand smoke (THS) exposure in children under 48 months at homes in Spain during the confinement of the first wave of COVID-19.",
+      "Identify factors associated with increased THS exposure among young children."
+    ],
+    "methods": [
+      "Conducted a cross-sectional study of a non-probabilistic sample of parents to gather information on smoking status, second-hand smoke exposure, and voluntary regulation of tobacco consumption at home.",
+      "Derived a variable of THS exposure at home based on parental reports of smoking status and second-hand smoke exposure."
+    ],
+    "results": [
+      "Almost a quarter of the children (23.5%) were exposed to THS, with higher prevalence among those with parents who increased tobacco consumption during confinement or had lower educational levels.",
+      "The prevalence of THS exposure was lower among children living in homes with complete voluntary smoke restrictions."
+    ],
+    "research_subject": "Third-hand smoke exposure in young children during the COVID-19 pandemic confinement"
+  },
+  "openai_json": {
+    "motivations": [
+      "The COVID-19 pandemic confinement may have increased children's exposure to third-hand smoke (THS) due to increased home confinement.",
+      "There is a need to understand the prevalence and factors influencing THS exposure among children under 48 months during the confinement."
+    ],
+    "objectives": [
+      "Characterize THS exposure in children under 48 months at homes in Spain during the first wave of COVID-19 confinement.",
+      "Identify factors influencing the prevalence of THS exposure among these children."
+    ],
+    "methods": [
+      "Conduct a cross-sectional study of a non-probabilistic sample of parents to gather information about smoking status, second-hand smoke exposure, and voluntary regulation of tobacco consumption at home.",
+      "Derive a variable of THS exposure at home, classifying children as 'THS exposed' or 'Non exposed' based on their parents' reports."
+    ],
+    "results": [
+      "Almost a quarter of the children were exposed to THS, with higher prevalence among children whose parents increased tobacco consumption during confinement, had lower or medium educational levels, and were younger.",
+      "The prevalence of THS exposure was significantly lower among children living in homes with complete voluntary smoke restrictions."
+    ],
+    "research_subject": "Thirdhand smoke exposure in homes with children under 48 months during the COVID-19 pandemic confinement"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "COVID-19 confinement restrictions may have increased children's exposure to thirdhand smoke (THS) in homes due to prolonged indoor stays.",
+      "There is limited understanding of THS exposure patterns in young children during pandemic-related home confinement periods."
+    ],
+    "objectives": [
+      "Characterize thirdhand smoke exposure in children under 48 months in Spanish homes during the first wave of COVID-19 confinement.",
+      "Identify factors associated with THS exposure in young children during home confinement."
+    ],
+    "methods": [
+      "Conducted a cross-sectional study using a non-probabilistic sample of parents to collect data on smoking status, secondhand smoke exposure, and voluntary tobacco regulations at home.",
+      "Derived a THS exposure variable by classifying children as exposed if living with smokers but not directly exposed to secondhand smoke."
+    ],
+    "results": [
+      "Nearly one-quarter of children (23.5%) were exposed to THS, with higher prevalence among children whose parents increased tobacco consumption during confinement (40.5%).",
+      "THS exposure was significantly associated with parental education level and age, while complete voluntary smoke restrictions in homes reduced exposure prevalence to 21.1%.",
+      "Findings support the need for information campaigns, THS exposure awareness, and legislation promoting smoke-free environments in homes and vehicles."
+    ],
+    "research_subject": "Thirdhand smoke exposure in young children during COVID-19 home confinement"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Children under 48 months may have increased exposure to third-hand smoke (THS) due to home confinement during the COVID-19 pandemic.\",\n    \"There is a need to characterize and address THS exposure in young children, especially in homes with smokers or smoking parents.\"\n  ],\n  \"objectives\": [\n    \"Characterize third-hand smoke (THS) exposure in children under 48 months at homes in Spain during the confinement of the first wave of COVID-19.\",\n    \"Identify factors associated with increased THS exposure among young children.\"\n  ],\n  \"methods\": [\n    \"Conducted a cross-sectional study of a non-probabilistic sample of parents to gather information on smoking status, second-hand smoke exposure, and voluntary regulation of tobacco consumption at home.\",\n    \"Derived a variable of THS exposure at home based on parental reports of smoking status and second-hand smoke exposure.\"\n  ],\n  \"results\": [\n    \"Almost a quarter of the children (23.5%) were exposed to THS, with higher prevalence among those with parents who increased tobacco consumption during confinement or had lower educational levels.\",\n    \"The prevalence of THS exposure was lower among children living in homes with complete voluntary smoke restrictions.\"\n  ],\n  \"research_subject\": \"Third-hand smoke exposure in young children during the COVID-19 pandemic confinement\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The COVID-19 pandemic confinement may have increased children's exposure to third-hand smoke (THS) due to increased home confinement.\",\n    \"There is a need to understand the prevalence and factors influencing THS exposure among children under 48 months during the confinement.\"\n  ],\n  \"objectives\": [\n    \"Characterize THS exposure in children under 48 months at homes in Spain during the first wave of COVID-19 confinement.\",\n    \"Identify factors influencing the prevalence of THS exposure among these children.\"\n  ],\n  \"methods\": [\n    \"Conduct a cross-sectional study of a non-probabilistic sample of parents to gather information about smoking status, second-hand smoke exposure, and voluntary regulation of tobacco consumption at home.\",\n    \"Derive a variable of THS exposure at home, classifying children as 'THS exposed' or 'Non exposed' based on their parents' reports.\"\n  ],\n  \"results\": [\n    \"Almost a quarter of the children were exposed to THS, with higher prevalence among children whose parents increased tobacco consumption during confinement, had lower or medium educational levels, and were younger.\",\n    \"The prevalence of THS exposure was significantly lower among children living in homes with complete voluntary smoke restrictions.\"\n  ],\n  \"research_subject\": \"Thirdhand smoke exposure in homes with children under 48 months during the COVID-19 pandemic confinement\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"COVID-19 confinement restrictions may have increased children's exposure to thirdhand smoke (THS) in homes due to prolonged indoor stays.\",\n    \"There is limited understanding of THS exposure patterns in young children during pandemic-related home confinement periods.\"\n  ],\n  \"objectives\": [\n    \"Characterize thirdhand smoke exposure in children under 48 months in Spanish homes during the first wave of COVID-19 confinement.\",\n    \"Identify factors associated with THS exposure in young children during home confinement.\"\n  ],\n  \"methods\": [\n    \"Conducted a cross-sectional study using a non-probabilistic sample of parents to collect data on smoking status, secondhand smoke exposure, and voluntary tobacco regulations at home.\",\n    \"Derived a THS exposure variable by classifying children as exposed if living with smokers but not directly exposed to secondhand smoke.\"\n  ],\n  \"results\": [\n    \"Nearly one-quarter of children (23.5%) were exposed to THS, with higher prevalence among children whose parents increased tobacco consumption during confinement (40.5%).\",\n    \"THS exposure was significantly associated with parental education level and age, while complete voluntary smoke restrictions in homes reduced exposure prevalence to 21.1%.\",\n    \"Findings support the need for information campaigns, THS exposure awareness, and legislation promoting smoke-free environments in homes and vehicles.\"\n  ],\n  \"research_subject\": \"Thirdhand smoke exposure in young children during COVID-19 home confinement\"\n}\n```"
+}

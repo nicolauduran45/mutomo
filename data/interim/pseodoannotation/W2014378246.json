@@ -1,0 +1,72 @@
+{
+  "index": 172,
+  "title": "Water‐Dispersible Fullerene Aggregates as a Targeted Anticancer Prodrug with both Chemo‐ and Photodynamic Therapeutic Actions",
+  "abstract": "Prodrug therapy is one strategy to deliver anticancer drugs in a less reactive manner to reduce nonspecific cytotoxicity. A new multifunctional anticancer prodrug system based on water-dispersible fullerene (C60) aggregates is introduced; this prodrug system demonstrates active targeting, pH-responsive chemotherapy, and photodynamic therapeutic (PDT) properties. Incorporating (via a cleavable bond) an anticancer drug, which is doxorubicin (DOX) in this study, and a targeting ligand (folic acid) onto fullerene while maintaining an overall size of approximately 135 nm produces a more specific anticancer prodrug. This prodrug can enter folate receptor (FR)-positive cancer cells and kill the cells via intracellular release of the active drug form. Moreover, the fullerene aggregate carrier exhibits PDT action; the cytotoxicity of the system towards FR-positive cancer cells is increased in response to light irradiation. As the DOX drug molecules are conjugated onto fullerene, the DOX fluorescence is significantly quenched by the strong electron-accepting capability of fullerene. The fluorescence restores upon release from fullerene, so this fluorescence quenching-restoring feature can be used to track intracellular DOX release. The combined effect of chemotherapy and PDT increases the therapeutic efficacy of the DOX-fullerene aggregate prodrug. This study provides useful insights into designing and improving the applicability of fullerene for other targeted cancer prodrug systems.",
+  "llama_json": {
+    "motivations": [
+      "Conventional anticancer drugs often exhibit nonspecific cytotoxicity, highlighting the need for targeted and controlled delivery systems.",
+      "Current prodrug therapies may lack multifunctionality, limiting their therapeutic efficacy and specificity."
+    ],
+    "objectives": [
+      "Design a multifunctional anticancer prodrug system that combines targeted delivery, pH-responsive chemotherapy, and photodynamic therapy.",
+      "Develop a water-dispersible fullerene aggregate-based prodrug that can selectively target and kill cancer cells while minimizing side effects."
+    ],
+    "methods": [
+      "Create a fullerene-based prodrug system incorporating an anticancer drug (doxorubicin) and a targeting ligand (folic acid) via a cleavable bond.",
+      "Utilize the photodynamic properties of fullerene to enhance therapeutic efficacy upon light irradiation.",
+      "Exploit the fluorescence quenching-restoring feature of the prodrug system to track intracellular drug release."
+    ],
+    "results": [
+      "Achieve targeted and controlled delivery of anticancer drugs, reducing nonspecific cytotoxicity and enhancing therapeutic efficacy.",
+      "Demonstrate the potential of the fullerene-based prodrug system for combined chemotherapy and photodynamic therapy.",
+      "Provide insights into designing and improving targeted cancer prodrug systems using fullerene."
+    ],
+    "research_subject": "Development of a multifunctional fullerene-based anticancer prodrug system with targeted delivery and combined therapeutic actions"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for anticancer drugs that can be delivered in a less reactive manner to reduce nonspecific cytotoxicity.",
+      "The development of a multifunctional anticancer prodrug system that can actively target cancer cells and provide both chemotherapy and photodynamic therapy is desired."
+    ],
+    "objectives": [
+      "Develop a water-dispersible fullerene aggregate-based prodrug system with active targeting, pH-responsive chemotherapy, and photodynamic therapeutic properties.",
+      "Incorporate an anticancer drug and a targeting ligand onto fullerene while maintaining an overall size of approximately 135 nm to produce a more specific anticancer prodrug.",
+      "Investigate the combined effect of chemotherapy and photodynamic therapy on the therapeutic efficacy of the fullerene aggregate prodrug."
+    ],
+    "methods": [
+      "Design a prodrug system based on water-dispersible fullerene aggregates, incorporating an anticancer drug (doxorubicin) and a targeting ligand (folic acid).",
+      "Investigate the prodrug's ability to enter folate receptor-positive cancer cells and release the active drug form intracellularly.",
+      "Use the fluorescence quenching-restoring feature of the prodrug to track intracellular drug release."
+    ],
+    "results": [
+      "The developed fullerene aggregate prodrug can specifically target and kill cancer cells via intracellular release of the active drug form.",
+      "The fullerene aggregate carrier exhibits photodynamic therapeutic action, increasing cytotoxicity towards cancer cells in response to light irradiation.",
+      "The combined effect of chemotherapy and photodynamic therapy increases the therapeutic efficacy of the prodrug."
+    ],
+    "research_subject": "Development of a targeted anticancer prodrug with both chemo- and photodynamic therapeutic actions"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Traditional anticancer drugs suffer from nonspecific cytotoxicity, necessitating the development of prodrug systems that can deliver drugs in a less reactive manner.",
+      "There is a need for multifunctional cancer treatment approaches that combine targeted delivery, controlled drug release, and multiple therapeutic modalities."
+    ],
+    "objectives": [
+      "Develop a water-dispersible fullerene-based prodrug system that combines active targeting, pH-responsive chemotherapy, and photodynamic therapy.",
+      "Create a trackable drug delivery system that allows monitoring of intracellular drug release through fluorescence restoration."
+    ],
+    "methods": [
+      "Conjugate doxorubicin and folic acid to fullerene aggregates via cleavable bonds to create targeted prodrug nanoparticles.",
+      "Utilize the electron-accepting properties of fullerene for fluorescence quenching to enable drug release tracking.",
+      "Combine chemotherapy with photodynamic therapy by exploiting fullerene's light-responsive properties."
+    ],
+    "results": [
+      "The prodrug system selectively enters and kills folate receptor-positive cancer cells through intracellular drug release and light-activated therapy.",
+      "The combined chemotherapy and photodynamic therapy approach enhances therapeutic efficacy compared to single-modality treatment.",
+      "The fluorescence quenching-restoration mechanism successfully enables real-time tracking of intracellular drug release."
+    ],
+    "research_subject": "Multifunctional fullerene-based anticancer prodrug system with targeted delivery and dual therapeutic actions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Conventional anticancer drugs often exhibit nonspecific cytotoxicity, highlighting the need for targeted and controlled delivery systems.\",\n    \"Current prodrug therapies may lack multifunctionality, limiting their therapeutic efficacy and specificity.\"\n  ],\n  \"objectives\": [\n    \"Design a multifunctional anticancer prodrug system that combines targeted delivery, pH-responsive chemotherapy, and photodynamic therapy.\",\n    \"Develop a water-dispersible fullerene aggregate-based prodrug that can selectively target and kill cancer cells while minimizing side effects.\"\n  ],\n  \"methods\": [\n    \"Create a fullerene-based prodrug system incorporating an anticancer drug (doxorubicin) and a targeting ligand (folic acid) via a cleavable bond.\",\n    \"Utilize the photodynamic properties of fullerene to enhance therapeutic efficacy upon light irradiation.\",\n    \"Exploit the fluorescence quenching-restoring feature of the prodrug system to track intracellular drug release.\"\n  ],\n  \"results\": [\n    \"Achieve targeted and controlled delivery of anticancer drugs, reducing nonspecific cytotoxicity and enhancing therapeutic efficacy.\",\n    \"Demonstrate the potential of the fullerene-based prodrug system for combined chemotherapy and photodynamic therapy.\",\n    \"Provide insights into designing and improving targeted cancer prodrug systems using fullerene.\"\n  ],\n  \"research_subject\": \"Development of a multifunctional fullerene-based anticancer prodrug system with targeted delivery and combined therapeutic actions\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for anticancer drugs that can be delivered in a less reactive manner to reduce nonspecific cytotoxicity.\",\n    \"The development of a multifunctional anticancer prodrug system that can actively target cancer cells and provide both chemotherapy and photodynamic therapy is desired.\"\n  ],\n  \"objectives\": [\n    \"Develop a water-dispersible fullerene aggregate-based prodrug system with active targeting, pH-responsive chemotherapy, and photodynamic therapeutic properties.\",\n    \"Incorporate an anticancer drug and a targeting ligand onto fullerene while maintaining an overall size of approximately 135 nm to produce a more specific anticancer prodrug.\",\n    \"Investigate the combined effect of chemotherapy and photodynamic therapy on the therapeutic efficacy of the fullerene aggregate prodrug.\"\n  ],\n  \"methods\": [\n    \"Design a prodrug system based on water-dispersible fullerene aggregates, incorporating an anticancer drug (doxorubicin) and a targeting ligand (folic acid).\",\n    \"Investigate the prodrug's ability to enter folate receptor-positive cancer cells and release the active drug form intracellularly.\",\n    \"Use the fluorescence quenching-restoring feature of the prodrug to track intracellular drug release.\"\n  ],\n  \"results\": [\n    \"The developed fullerene aggregate prodrug can specifically target and kill cancer cells via intracellular release of the active drug form.\",\n    \"The fullerene aggregate carrier exhibits photodynamic therapeutic action, increasing cytotoxicity towards cancer cells in response to light irradiation.\",\n    \"The combined effect of chemotherapy and photodynamic therapy increases the therapeutic efficacy of the prodrug.\"\n  ],\n  \"research_subject\": \"Development of a targeted anticancer prodrug with both chemo- and photodynamic therapeutic actions\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Traditional anticancer drugs suffer from nonspecific cytotoxicity, necessitating the development of prodrug systems that can deliver drugs in a less reactive manner.\",\n    \"There is a need for multifunctional cancer treatment approaches that combine targeted delivery, controlled drug release, and multiple therapeutic modalities.\"\n  ],\n  \"objectives\": [\n    \"Develop a water-dispersible fullerene-based prodrug system that combines active targeting, pH-responsive chemotherapy, and photodynamic therapy.\",\n    \"Create a trackable drug delivery system that allows monitoring of intracellular drug release through fluorescence restoration.\"\n  ],\n  \"methods\": [\n    \"Conjugate doxorubicin and folic acid to fullerene aggregates via cleavable bonds to create targeted prodrug nanoparticles.\",\n    \"Utilize the electron-accepting properties of fullerene for fluorescence quenching to enable drug release tracking.\",\n    \"Combine chemotherapy with photodynamic therapy by exploiting fullerene's light-responsive properties.\"\n  ],\n  \"results\": [\n    \"The prodrug system selectively enters and kills folate receptor-positive cancer cells through intracellular drug release and light-activated therapy.\",\n    \"The combined chemotherapy and photodynamic therapy approach enhances therapeutic efficacy compared to single-modality treatment.\",\n    \"The fluorescence quenching-restoration mechanism successfully enables real-time tracking of intracellular drug release.\"\n  ],\n  \"research_subject\": \"Multifunctional fullerene-based anticancer prodrug system with targeted delivery and dual therapeutic actions\"\n}\n```"
+}

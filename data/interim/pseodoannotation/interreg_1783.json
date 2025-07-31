@@ -1,0 +1,75 @@
+{
+  "index": 150,
+  "title": "Development of an innovative network for the promotion of extroversion of agro-food companies in Adriatic - Ionian Area PLUS",
+  "abstract": "The main scope of INNOVAGRO PLUS project, as sequel of INNOVAGRO project, is the further promotion, exploitation and capitalization of the 2 main outcomes of INNOVAGRO project: a) INNOVAGRO Transnational Cooperation Network, and b) Virtual Transnational Business Innovation & Entrepreneurship Center (VIBIEC), at national/regional/transnational level maximizing their effectiveness. More specific, the overall goals of INNOVAGRO PLUS project are to: a) Increase awareness among potential beneficiaries, stakeholders and interested institutions on the role of European Territorial Cooperation to increase cohesion, b) Promote INNOVAGRO project’s outcomes and results to national/ regional/level, c) Promote the practical use, relevance, and transferability of INNOVAGRO project’s  outcomes (e.g.: VBIEC) to potential beneficiaries, and d) Provide first-hand information on managing and implementing European projects to future potential beneficiaries. Finally, the main target groups and beneficiaries of INNOVAGRO plus are: a) SMEs representative organisations in the agrifood & tourism sector, b) farmers associations, c) business support organizations, d) R&D Institutes, and e) Regional & Local Authorities.",
+  "llama_json": {
+    "motivations": [
+      "Agro-food companies in the Adriatic-Ionian Area face challenges in extroversion and accessing European Territorial Cooperation opportunities.",
+      "There is a need to promote and capitalize on existing innovative networks and tools to support the growth of agro-food companies in the region."
+    ],
+    "objectives": [
+      "Promote and exploit the INNOVAGRO Transnational Cooperation Network and Virtual Transnational Business Innovation & Entrepreneurship Center (VIBIEC) at national, regional, and transnational levels.",
+      "Increase awareness among stakeholders and institutions on the role of European Territorial Cooperation in increasing cohesion.",
+      "Provide information and support to potential beneficiaries on managing and implementing European projects."
+    ],
+    "methods": [
+      "Build on the outcomes of the INNOVAGRO project to maximize effectiveness.",
+      "Promote the practical use and transferability of INNOVAGRO project outcomes to potential beneficiaries.",
+      "Target specific groups, including SMEs, farmers associations, business support organizations, R&D Institutes, and Regional & Local Authorities."
+    ],
+    "results": [
+      "Enhanced awareness and understanding of European Territorial Cooperation opportunities among agro-food companies and stakeholders.",
+      "Increased adoption and practical use of innovative networks and tools, such as VIBIEC, among target groups.",
+      "Improved capacity of potential beneficiaries to manage and implement European projects."
+    ],
+    "research_subject": "Promotion of extroversion of agro-food companies in the Adriatic-Ionian Area through innovative networks"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to further promote and exploit the outcomes of the INNOVAGRO project, including the INNOVAGRO Transnational Cooperation Network and the Virtual Transnational Business Innovation & Entrepreneurship Center (VIBIEC).",
+      "Increasing awareness about the role of European Territorial Cooperation in enhancing cohesion is necessary.",
+      "There is a need to promote the practical use, relevance, and transferability of the INNOVAGRO project's outcomes to potential beneficiaries."
+    ],
+    "objectives": [
+      "Promote, exploit, and capitalize on the main outcomes of the INNOVAGRO project at national, regional, and transnational levels.",
+      "Increase awareness among potential beneficiaries, stakeholders, and interested institutions about the role of European Territorial Cooperation in increasing cohesion.",
+      "Promote the practical use, relevance, and transferability of the INNOVAGRO project's outcomes to potential beneficiaries."
+    ],
+    "methods": [
+      "Utilize the INNOVAGRO Transnational Cooperation Network and the Virtual Transnational Business Innovation & Entrepreneurship Center (VIBIEC) to promote and exploit the outcomes of the INNOVAGRO project.",
+      "Engage with potential beneficiaries, stakeholders, and interested institutions to increase awareness about the role of European Territorial Cooperation.",
+      "Provide first-hand information on managing and implementing European projects to future potential beneficiaries."
+    ],
+    "results": [
+      "Increased awareness and understanding of the role of European Territorial Cooperation in enhancing cohesion.",
+      "Promotion and practical use of the INNOVAGRO project's outcomes at national, regional, and transnational levels.",
+      "Empowerment of potential beneficiaries with first-hand information on managing and implementing European projects."
+    ],
+    "research_subject": "Promotion and exploitation of the INNOVAGRO project's outcomes"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to maximize the effectiveness and reach of existing transnational cooperation networks and innovation centers in the agro-food sector.",
+      "Potential beneficiaries and stakeholders lack awareness about European Territorial Cooperation opportunities and their benefits for increasing regional cohesion."
+    ],
+    "objectives": [
+      "Promote and capitalize on the INNOVAGRO Transnational Cooperation Network and Virtual Transnational Business Innovation & Entrepreneurship Center at multiple levels.",
+      "Increase awareness among stakeholders about European Territorial Cooperation and provide practical information on managing European projects.",
+      "Enhance the practical use and transferability of INNOVAGRO project outcomes to potential beneficiaries in the agro-food and tourism sectors."
+    ],
+    "methods": [
+      "Implement promotion and exploitation activities at national, regional, and transnational levels to maximize the reach of INNOVAGRO outcomes.",
+      "Engage with target groups including SMEs, farmers associations, business support organizations, R&D institutes, and local authorities.",
+      "Provide training and information dissemination on European project management and implementation."
+    ],
+    "results": [
+      "Increased awareness and utilization of European Territorial Cooperation opportunities among agro-food sector stakeholders.",
+      "Enhanced effectiveness and broader adoption of the INNOVAGRO network and VIBIEC platform.",
+      "Improved capacity of potential beneficiaries to manage and implement European projects in the agro-food sector."
+    ],
+    "research_subject": "Promotion and capitalization of transnational cooperation networks in the Adriatic-Ionian agro-food sector"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Agro-food companies in the Adriatic-Ionian Area face challenges in extroversion and accessing European Territorial Cooperation opportunities.\",\n    \"There is a need to promote and capitalize on existing innovative networks and tools to support the growth of agro-food companies in the region.\"\n  ],\n  \"objectives\": [\n    \"Promote and exploit the INNOVAGRO Transnational Cooperation Network and Virtual Transnational Business Innovation & Entrepreneurship Center (VIBIEC) at national, regional, and transnational levels.\",\n    \"Increase awareness among stakeholders and institutions on the role of European Territorial Cooperation in increasing cohesion.\",\n    \"Provide information and support to potential beneficiaries on managing and implementing European projects.\"\n  ],\n  \"methods\": [\n    \"Build on the outcomes of the INNOVAGRO project to maximize effectiveness.\",\n    \"Promote the practical use and transferability of INNOVAGRO project outcomes to potential beneficiaries.\",\n    \"Target specific groups, including SMEs, farmers associations, business support organizations, R&D Institutes, and Regional & Local Authorities.\"\n  ],\n  \"results\": [\n    \"Enhanced awareness and understanding of European Territorial Cooperation opportunities among agro-food companies and stakeholders.\",\n    \"Increased adoption and practical use of innovative networks and tools, such as VIBIEC, among target groups.\",\n    \"Improved capacity of potential beneficiaries to manage and implement European projects.\"\n  ],\n  \"research_subject\": \"Promotion of extroversion of agro-food companies in the Adriatic-Ionian Area through innovative networks\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to further promote and exploit the outcomes of the INNOVAGRO project, including the INNOVAGRO Transnational Cooperation Network and the Virtual Transnational Business Innovation & Entrepreneurship Center (VIBIEC).\",\n    \"Increasing awareness about the role of European Territorial Cooperation in enhancing cohesion is necessary.\",\n    \"There is a need to promote the practical use, relevance, and transferability of the INNOVAGRO project's outcomes to potential beneficiaries.\"\n  ],\n  \"objectives\": [\n    \"Promote, exploit, and capitalize on the main outcomes of the INNOVAGRO project at national, regional, and transnational levels.\",\n    \"Increase awareness among potential beneficiaries, stakeholders, and interested institutions about the role of European Territorial Cooperation in increasing cohesion.\",\n    \"Promote the practical use, relevance, and transferability of the INNOVAGRO project's outcomes to potential beneficiaries.\"\n  ],\n  \"methods\": [\n    \"Utilize the INNOVAGRO Transnational Cooperation Network and the Virtual Transnational Business Innovation & Entrepreneurship Center (VIBIEC) to promote and exploit the outcomes of the INNOVAGRO project.\",\n    \"Engage with potential beneficiaries, stakeholders, and interested institutions to increase awareness about the role of European Territorial Cooperation.\",\n    \"Provide first-hand information on managing and implementing European projects to future potential beneficiaries.\"\n  ],\n  \"results\": [\n    \"Increased awareness and understanding of the role of European Territorial Cooperation in enhancing cohesion.\",\n    \"Promotion and practical use of the INNOVAGRO project's outcomes at national, regional, and transnational levels.\",\n    \"Empowerment of potential beneficiaries with first-hand information on managing and implementing European projects.\"\n  ],\n  \"research_subject\": \"Promotion and exploitation of the INNOVAGRO project's outcomes\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to maximize the effectiveness and reach of existing transnational cooperation networks and innovation centers in the agro-food sector.\",\n    \"Potential beneficiaries and stakeholders lack awareness about European Territorial Cooperation opportunities and their benefits for increasing regional cohesion.\"\n  ],\n  \"objectives\": [\n    \"Promote and capitalize on the INNOVAGRO Transnational Cooperation Network and Virtual Transnational Business Innovation & Entrepreneurship Center at multiple levels.\",\n    \"Increase awareness among stakeholders about European Territorial Cooperation and provide practical information on managing European projects.\",\n    \"Enhance the practical use and transferability of INNOVAGRO project outcomes to potential beneficiaries in the agro-food and tourism sectors.\"\n  ],\n  \"methods\": [\n    \"Implement promotion and exploitation activities at national, regional, and transnational levels to maximize the reach of INNOVAGRO outcomes.\",\n    \"Engage with target groups including SMEs, farmers associations, business support organizations, R&D institutes, and local authorities.\",\n    \"Provide training and information dissemination on European project management and implementation.\"\n  ],\n  \"results\": [\n    \"Increased awareness and utilization of European Territorial Cooperation opportunities among agro-food sector stakeholders.\",\n    \"Enhanced effectiveness and broader adoption of the INNOVAGRO network and VIBIEC platform.\",\n    \"Improved capacity of potential beneficiaries to manage and implement European projects in the agro-food sector.\"\n  ],\n  \"research_subject\": \"Promotion and capitalization of transnational cooperation networks in the Adriatic-Ionian agro-food sector\"\n}\n```"
+}

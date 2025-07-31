@@ -1,0 +1,66 @@
+{
+  "index": 405,
+  "title": "construção compreendendo um elemento estrutural e um cabo, elemento de tensão e método para reduzir as vibrações induzidas por chuva e vento em um cabo",
+  "abstract": "resumo patente de invenção: \"construção e um elemento de tensão que compreende um cabo e uma ou mais cintas\" a presente invenção refere-se a uma construção que compreende um elemento estrutural e pelo menos um cabo (100) disposto de modo tensionado para sustentar pelo menos uma parte do peso do elemento estrutural. o cabo define uma superfície externa (102) em que pelo menos uma cinta (104) forma uma protrusão para reduzir as vibrações induzidas por chuva e vento. a cinta tem uma altura que é uma distância entre uma parte de raiz da cinta conectada à superfície externa do cabo e uma parte de extremidade da cinta que finaliza uma cinta, para fora na direção oposta ao cabo, e a cinta tem uma largura que é transversal à altura, em que a largura diminui na direção a partir da parte de raiz da cinta até a parte de extremidade da cinta. a altura é menor do que 5 por cento do diâmetro do cabo. além disso, a cinta compreende uma primeira porção de superfície de cinta voltada para a direção contrária ao cabo, sendo que tal primeira porção de superfície de cinta é côncava ou reta.",
+  "llama_json": {
+    "motivations": [
+      "Vibrações induzidas por chuva e vento em cabos podem causar danos estruturais e comprometer a segurança.",
+      "Há uma necessidade de desenvolver métodos e elementos de tensão eficazes para reduzir essas vibrações."
+    ],
+    "objectives": [
+      "Desenvolver uma construção que reduza as vibrações induzidas por chuva e vento em cabos.",
+      "Criar um elemento de tensão que compreenda um cabo e uma ou mais cintas para sustentar o peso de um elemento estrutural."
+    ],
+    "methods": [
+      "Utilizar cintas com protrusões para reduzir as vibrações induzidas por chuva e vento em cabos.",
+      "Desenvolver cintas com altura e largura específicas para maximizar a eficácia na redução de vibrações."
+    ],
+    "results": [
+      "Redução das vibrações induzidas por chuva e vento em cabos, melhorando a segurança e a durabilidade das estruturas.",
+      "Desenvolvimento de um elemento de tensão eficaz para sustentar o peso de elementos estruturais."
+    ],
+    "research_subject": "Redução de vibrações induzidas por chuva e vento em cabos utilizando cintas com protrusões"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to reduce vibrations in cables induced by wind and rain in structural constructions."
+    ],
+    "objectives": [
+      "Design a construction that includes a structural element and a tensioned cable to support part of the structural element's weight.",
+      "Incorporate one or more straps on the cable's external surface to form a protrusion that reduces wind and rain-induced vibrations."
+    ],
+    "methods": [
+      "Use a strap with a height that is a distance between the strap's root part connected to the cable's external surface and the strap's end part, with the height being less than 5 percent of the cable's diameter.",
+      "Design the strap to have a width that is transverse to the height, where the width decreases from the strap's root part to its end part.",
+      "Ensure the strap includes a first strap surface portion facing the direction opposite to the cable, which is either concave or straight."
+    ],
+    "results": [
+      "Achieve a reduction in vibrations induced by wind and rain in the tensioned cable of a construction.",
+      "Improve the stability and durability of structural constructions."
+    ],
+    "research_subject": "Construction design to reduce wind and rain-induced vibrations in tensioned cables"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Rain-wind induced vibrations in cables pose structural risks and require effective mitigation strategies.",
+      "Traditional cable vibration reduction methods may be insufficient or impractical for certain structural applications."
+    ],
+    "objectives": [
+      "Develop a construction system that effectively reduces rain-wind induced vibrations in tensioned cables supporting structural elements.",
+      "Design and implement specialized straps with optimized geometric properties to minimize cable vibrations."
+    ],
+    "methods": [
+      "Attach one or more straps to the cable's external surface to create protrusions that disrupt vibration-inducing airflow patterns.",
+      "Design straps with specific geometric characteristics including decreasing width from root to tip and height less than 5% of cable diameter.",
+      "Configure the strap's first surface portion facing away from the cable to be either concave or straight."
+    ],
+    "results": [
+      "Reduction of rain-wind induced vibrations in tensioned cables through the implementation of specially designed straps.",
+      "Enhanced structural stability and safety of cable-supported construction elements."
+    ],
+    "research_subject": "Rain-wind induced vibration reduction in structural cables using geometric strap protrusions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Vibrações induzidas por chuva e vento em cabos podem causar danos estruturais e comprometer a segurança.\",\n    \"Há uma necessidade de desenvolver métodos e elementos de tensão eficazes para reduzir essas vibrações.\"\n  ],\n  \"objectives\": [\n    \"Desenvolver uma construção que reduza as vibrações induzidas por chuva e vento em cabos.\",\n    \"Criar um elemento de tensão que compreenda um cabo e uma ou mais cintas para sustentar o peso de um elemento estrutural.\"\n  ],\n  \"methods\": [\n    \"Utilizar cintas com protrusões para reduzir as vibrações induzidas por chuva e vento em cabos.\",\n    \"Desenvolver cintas com altura e largura específicas para maximizar a eficácia na redução de vibrações.\"\n  ],\n  \"results\": [\n    \"Redução das vibrações induzidas por chuva e vento em cabos, melhorando a segurança e a durabilidade das estruturas.\",\n    \"Desenvolvimento de um elemento de tensão eficaz para sustentar o peso de elementos estruturais.\"\n  ],\n  \"research_subject\": \"Redução de vibrações induzidas por chuva e vento em cabos utilizando cintas com protrusões\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to reduce vibrations in cables induced by wind and rain in structural constructions.\"\n  ],\n  \"objectives\": [\n    \"Design a construction that includes a structural element and a tensioned cable to support part of the structural element's weight.\",\n    \"Incorporate one or more straps on the cable's external surface to form a protrusion that reduces wind and rain-induced vibrations.\"\n  ],\n  \"methods\": [\n    \"Use a strap with a height that is a distance between the strap's root part connected to the cable's external surface and the strap's end part, with the height being less than 5 percent of the cable's diameter.\",\n    \"Design the strap to have a width that is transverse to the height, where the width decreases from the strap's root part to its end part.\",\n    \"Ensure the strap includes a first strap surface portion facing the direction opposite to the cable, which is either concave or straight.\"\n  ],\n  \"results\": [\n    \"Achieve a reduction in vibrations induced by wind and rain in the tensioned cable of a construction.\",\n    \"Improve the stability and durability of structural constructions.\"\n  ],\n  \"research_subject\": \"Construction design to reduce wind and rain-induced vibrations in tensioned cables\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Rain-wind induced vibrations in cables pose structural risks and require effective mitigation strategies.\",\n    \"Traditional cable vibration reduction methods may be insufficient or impractical for certain structural applications.\"\n  ],\n  \"objectives\": [\n    \"Develop a construction system that effectively reduces rain-wind induced vibrations in tensioned cables supporting structural elements.\",\n    \"Design and implement specialized straps with optimized geometric properties to minimize cable vibrations.\"\n  ],\n  \"methods\": [\n    \"Attach one or more straps to the cable's external surface to create protrusions that disrupt vibration-inducing airflow patterns.\",\n    \"Design straps with specific geometric characteristics including decreasing width from root to tip and height less than 5% of cable diameter.\",\n    \"Configure the strap's first surface portion facing away from the cable to be either concave or straight.\"\n  ],\n  \"results\": [\n    \"Reduction of rain-wind induced vibrations in tensioned cables through the implementation of specially designed straps.\",\n    \"Enhanced structural stability and safety of cable-supported construction elements.\"\n  ],\n  \"research_subject\": \"Rain-wind induced vibration reduction in structural cables using geometric strap protrusions\"\n}\n```"
+}

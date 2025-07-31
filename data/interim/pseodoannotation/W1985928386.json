@@ -1,0 +1,72 @@
+{
+  "index": 355,
+  "title": "Surfactant mediated enhanced biodegradation of hexachlorocyclohexane (HCH) isomers by Sphingomonas sp. NM05",
+  "abstract": "Environmental biodegradation of several chlorinated pesticides is limited by their low solubility and sorption to soil surfaces. To mitigate this problem we quantified the effect of three biosurfactant viz., rhamnolipid, sophorolipid and trehalose-containing lipid on the dissolution, bioavailability, and biodegradation of HCH-isomers in liquid culture and in contaminated soil. The effect of biosurfactants was evaluated through the critical micelle concentration (CMC) value as determined for each isomer. The surfactant increased the solubilization of HCH isomers by 3-9 folds with rhamnolipid and sophorolipid being more effective and showing maximum solubilization of HCH isomers at 40 μg/mL, compared to trehalose-containing lipid showing peak solubilization at 60 μg/mL. The degradation of HCH isomers by Sphingomonas sp. NM05 in surfactant-amended liquid mineral salts medium showed 30% enhancement in 2 days as compared to degradation in 10 days in the absence of surfactant. HCH-spiked soil slurry incubated with surfactant also showed around 30-50% enhanced degradation of HCH which was comparable to the corresponding batch culture experiments. Among the three surfactants, sophorolipid offered highest solubilization and enhanced degradation of HCH isomers both in liquid medium and soil culture. The results of this study suggest the effectiveness of surfactants in improving HCH degradation by increased bioaccessibility.",
+  "llama_json": {
+    "motivations": [
+      "Environmental biodegradation of chlorinated pesticides like hexachlorocyclohexane (HCH) is limited by their low solubility and sorption to soil surfaces.",
+      "There is a need to enhance the bioavailability and biodegradation of HCH isomers to mitigate their environmental impact."
+    ],
+    "objectives": [
+      "Quantify the effect of biosurfactants on the dissolution, bioavailability, and biodegradation of HCH-isomers in liquid culture and contaminated soil.",
+      "Evaluate the effectiveness of different biosurfactants in enhancing HCH degradation by Sphingomonas sp. NM05."
+    ],
+    "methods": [
+      "Use biosurfactants like rhamnolipid, sophorolipid, and trehalose-containing lipid to increase the solubilization of HCH isomers.",
+      "Conduct experiments in liquid culture and contaminated soil to assess the impact of biosurfactants on HCH degradation.",
+      "Measure the critical micelle concentration (CMC) value to determine the effectiveness of each biosurfactant."
+    ],
+    "results": [
+      "Biosurfactants increased the solubilization of HCH isomers by 3-9 folds, with sophorolipid being the most effective.",
+      "Surfactant-amended media showed 30-50% enhanced degradation of HCH isomers in both liquid culture and soil experiments.",
+      "The use of biosurfactants improved the bioaccessibility and biodegradation of HCH isomers."
+    ],
+    "research_subject": "Surfactant-mediated biodegradation of hexachlorocyclohexane (HCH) isomers by Sphingomonas sp. NM05"
+  },
+  "openai_json": {
+    "motivations": [
+      "Biodegradation of chlorinated pesticides is hindered by their low solubility and sorption to soil surfaces.",
+      "There is a need to enhance the dissolution, bioavailability, and biodegradation of HCH-isomers in contaminated environments."
+    ],
+    "objectives": [
+      "Quantify the effect of three biosurfactants on the dissolution, bioavailability, and biodegradation of HCH-isomers in liquid culture and contaminated soil.",
+      "Determine the critical micelle concentration (CMC) value for each HCH-isomer in the presence of the biosurfactants.",
+      "Evaluate the potential of surfactants to enhance the degradation of HCH isomers by Sphingomonas sp. NM05."
+    ],
+    "methods": [
+      "Use three biosurfactants (rhamnolipid, sophorolipid, and trehalose-containing lipid) to increase the solubilization of HCH isomers.",
+      "Measure the CMC value for each HCH-isomer in the presence of the biosurfactants.",
+      "Assess the degradation of HCH isomers by Sphingomonas sp. NM05 in surfactant-amended liquid mineral salts medium and HCH-spiked soil slurry."
+    ],
+    "results": [
+      "Surfactants increased the solubilization of HCH isomers by 3-9 folds, with rhamnolipid and sophorolipid being more effective.",
+      "Surfactant-amended medium showed 30% enhancement in HCH degradation by Sphingomonas sp. NM05 in 2 days, compared to 10 days in the absence of surfactant.",
+      "HCH-spiked soil slurry incubated with surfactant showed around 30-50% enhanced degradation of HCH."
+    ],
+    "research_subject": "Surfactant-enhanced biodegradation of hexachlorocyclohexane isomers"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Environmental biodegradation of chlorinated pesticides like HCH is limited by their low solubility and strong sorption to soil surfaces.",
+      "There is a need to enhance the bioavailability and biodegradation of persistent organic pollutants in contaminated environments."
+    ],
+    "objectives": [
+      "Quantify the effect of three biosurfactants on the dissolution, bioavailability, and biodegradation of HCH isomers.",
+      "Evaluate the effectiveness of rhamnolipid, sophorolipid, and trehalose-containing lipid in enhancing HCH degradation in both liquid culture and contaminated soil."
+    ],
+    "methods": [
+      "Determine critical micelle concentration values for each biosurfactant with HCH isomers.",
+      "Conduct biodegradation experiments using Sphingomonas sp. NM05 in surfactant-amended liquid medium and soil slurry.",
+      "Compare the solubilization and degradation efficiency of three different biosurfactants."
+    ],
+    "results": [
+      "Biosurfactants increased HCH isomer solubilization by 3-9 folds, with sophorolipid showing the highest effectiveness.",
+      "Surfactant amendment enhanced HCH degradation by 30% in liquid medium and 30-50% in soil slurry.",
+      "Degradation time was reduced from 10 days to 2 days in surfactant-amended conditions."
+    ],
+    "research_subject": "Biosurfactant-mediated enhancement of hexachlorocyclohexane biodegradation by Sphingomonas sp."
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Environmental biodegradation of chlorinated pesticides like hexachlorocyclohexane (HCH) is limited by their low solubility and sorption to soil surfaces.\",\n    \"There is a need to enhance the bioavailability and biodegradation of HCH isomers to mitigate their environmental impact.\"\n  ],\n  \"objectives\": [\n    \"Quantify the effect of biosurfactants on the dissolution, bioavailability, and biodegradation of HCH-isomers in liquid culture and contaminated soil.\",\n    \"Evaluate the effectiveness of different biosurfactants in enhancing HCH degradation by Sphingomonas sp. NM05.\"\n  ],\n  \"methods\": [\n    \"Use biosurfactants like rhamnolipid, sophorolipid, and trehalose-containing lipid to increase the solubilization of HCH isomers.\",\n    \"Conduct experiments in liquid culture and contaminated soil to assess the impact of biosurfactants on HCH degradation.\",\n    \"Measure the critical micelle concentration (CMC) value to determine the effectiveness of each biosurfactant.\"\n  ],\n  \"results\": [\n    \"Biosurfactants increased the solubilization of HCH isomers by 3-9 folds, with sophorolipid being the most effective.\",\n    \"Surfactant-amended media showed 30-50% enhanced degradation of HCH isomers in both liquid culture and soil experiments.\",\n    \"The use of biosurfactants improved the bioaccessibility and biodegradation of HCH isomers.\"\n  ],\n  \"research_subject\": \"Surfactant-mediated biodegradation of hexachlorocyclohexane (HCH) isomers by Sphingomonas sp. NM05\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Biodegradation of chlorinated pesticides is hindered by their low solubility and sorption to soil surfaces.\",\n    \"There is a need to enhance the dissolution, bioavailability, and biodegradation of HCH-isomers in contaminated environments.\"\n  ],\n  \"objectives\": [\n    \"Quantify the effect of three biosurfactants on the dissolution, bioavailability, and biodegradation of HCH-isomers in liquid culture and contaminated soil.\",\n    \"Determine the critical micelle concentration (CMC) value for each HCH-isomer in the presence of the biosurfactants.\",\n    \"Evaluate the potential of surfactants to enhance the degradation of HCH isomers by Sphingomonas sp. NM05.\"\n  ],\n  \"methods\": [\n    \"Use three biosurfactants (rhamnolipid, sophorolipid, and trehalose-containing lipid) to increase the solubilization of HCH isomers.\",\n    \"Measure the CMC value for each HCH-isomer in the presence of the biosurfactants.\",\n    \"Assess the degradation of HCH isomers by Sphingomonas sp. NM05 in surfactant-amended liquid mineral salts medium and HCH-spiked soil slurry.\"\n  ],\n  \"results\": [\n    \"Surfactants increased the solubilization of HCH isomers by 3-9 folds, with rhamnolipid and sophorolipid being more effective.\",\n    \"Surfactant-amended medium showed 30% enhancement in HCH degradation by Sphingomonas sp. NM05 in 2 days, compared to 10 days in the absence of surfactant.\",\n    \"HCH-spiked soil slurry incubated with surfactant showed around 30-50% enhanced degradation of HCH.\"\n  ],\n  \"research_subject\": \"Surfactant-enhanced biodegradation of hexachlorocyclohexane isomers\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Environmental biodegradation of chlorinated pesticides like HCH is limited by their low solubility and strong sorption to soil surfaces.\",\n    \"There is a need to enhance the bioavailability and biodegradation of persistent organic pollutants in contaminated environments.\"\n  ],\n  \"objectives\": [\n    \"Quantify the effect of three biosurfactants on the dissolution, bioavailability, and biodegradation of HCH isomers.\",\n    \"Evaluate the effectiveness of rhamnolipid, sophorolipid, and trehalose-containing lipid in enhancing HCH degradation in both liquid culture and contaminated soil.\"\n  ],\n  \"methods\": [\n    \"Determine critical micelle concentration values for each biosurfactant with HCH isomers.\",\n    \"Conduct biodegradation experiments using Sphingomonas sp. NM05 in surfactant-amended liquid medium and soil slurry.\",\n    \"Compare the solubilization and degradation efficiency of three different biosurfactants.\"\n  ],\n  \"results\": [\n    \"Biosurfactants increased HCH isomer solubilization by 3-9 folds, with sophorolipid showing the highest effectiveness.\",\n    \"Surfactant amendment enhanced HCH degradation by 30% in liquid medium and 30-50% in soil slurry.\",\n    \"Degradation time was reduced from 10 days to 2 days in surfactant-amended conditions.\"\n  ],\n  \"research_subject\": \"Biosurfactant-mediated enhancement of hexachlorocyclohexane biodegradation by Sphingomonas sp.\"\n}\n```"
+}

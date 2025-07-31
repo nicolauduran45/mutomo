@@ -1,0 +1,70 @@
+{
+  "index": 88,
+  "title": "Oxidovanadium(V) complexes with chiral tridentate Schiff bases derived from R(−)-phenylglycinol: Synthesis, spectroscopic characterization and catalytic activity in the oxidation of sulfides and styrene",
+  "abstract": "Abstract A series of vanadium(V) complexes with chiral tridentate Schiff base ligands, obtained by the single condensation of R(−)-phenylglycinol with salicylaldehyde and its derivatives, were prepared. The complexes were characterized by elemental analysis and by their ESI-MS, IR, CD, UV–Vis, 1D (1H, 51V) and 2D (COSY, gHSQC) NMR spectra. The vanadium(V) complexes have the ability to catalyze the oxidation of sulfides [PhSR (R = Me, Bz)] in excellent yields and enantiomeric excesses (over 90%), utilizing aqueous 30% H2O2 or cumene hydroperoxide (CHP) as the oxidant. These complexes are also catalytically active in the oxidation of styrene, using aqueous 30% H2O2 or tert-butyl hydroperoxide (TBHP) as the oxidant, to styrene oxide, benzaldehyde, benzoic acid, phenylacetaldehyde and 1-phenylethane-1,2-diol.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for efficient and enantioselective catalysts for the oxidation of sulfides and styrene.",
+      "Current oxidation methods may lack high yields and enantiomeric excesses, prompting the search for new catalysts."
+    ],
+    "objectives": [
+      "Synthesize and characterize vanadium(V) complexes with chiral tridentate Schiff base ligands derived from R(−)-phenylglycinol.",
+      "Evaluate the catalytic activity of these complexes in the oxidation of sulfides and styrene."
+    ],
+    "methods": [
+      "Prepare vanadium(V) complexes through the condensation of R(−)-phenylglycinol with salicylaldehyde and its derivatives.",
+      "Characterize the complexes using various spectroscopic techniques (ESI-MS, IR, CD, UV–Vis, NMR).",
+      "Test the catalytic activity of the complexes in the oxidation of sulfides and styrene using different oxidants."
+    ],
+    "results": [
+      "Achieve excellent yields and enantiomeric excesses (over 90%) in the oxidation of sulfides using the vanadium(V) complexes.",
+      "Demonstrate the catalytic activity of the complexes in the oxidation of styrene to various products."
+    ],
+    "research_subject": "Synthesis and catalytic activity of vanadium(V) complexes with chiral tridentate Schiff bases"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to explore the synthesis and characterization of vanadium(V) complexes with chiral tridentate Schiff base ligands.",
+      "The potential catalytic activity of these complexes in the oxidation of sulfides and styrene needs to be investigated."
+    ],
+    "objectives": [
+      "Synthesize a series of vanadium(V) complexes with chiral tridentate Schiff base ligands derived from R(−)-phenylglycinol and salicylaldehyde derivatives.",
+      "Characterize the synthesized complexes using various spectroscopic techniques.",
+      "Evaluate the catalytic activity of these complexes in the oxidation of sulfides and styrene."
+    ],
+    "methods": [
+      "Synthesize vanadium(V) complexes with chiral tridentate Schiff base ligands through single condensation.",
+      "Characterize the complexes using ESI-MS, IR, CD, UV–Vis, 1D and 2D NMR spectra.",
+      "Test the catalytic activity of the complexes in the oxidation of sulfides and styrene using different oxidants."
+    ],
+    "results": [
+      "Successful synthesis and characterization of vanadium(V) complexes with chiral tridentate Schiff base ligands.",
+      "Demonstrated catalytic activity of these complexes in the oxidation of sulfides with excellent yields and enantiomeric excesses.",
+      "Confirmed catalytic activity of the complexes in the oxidation of styrene to various products."
+    ],
+    "research_subject": "Synthesis, characterization and catalytic activity of oxidovanadium(V) complexes with chiral tridentate Schiff bases"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need for efficient catalysts for the oxidation of sulfides and styrene with high yields and enantioselectivity.",
+      "Development of vanadium-based complexes with chiral ligands offers potential for asymmetric catalysis in oxidation reactions."
+    ],
+    "objectives": [
+      "Synthesize and characterize oxidovanadium(V) complexes with chiral tridentate Schiff base ligands derived from R(−)-phenylglycinol.",
+      "Evaluate the catalytic activity of these complexes in the oxidation of sulfides and styrene using various oxidants."
+    ],
+    "methods": [
+      "Prepare vanadium(V) complexes through single condensation of R(−)-phenylglycinol with salicylaldehyde derivatives.",
+      "Characterize complexes using elemental analysis, ESI-MS, IR, CD, UV-Vis, and NMR spectroscopy.",
+      "Test catalytic performance in oxidation reactions using H2O2, cumene hydroperoxide, and tert-butyl hydroperoxide as oxidants."
+    ],
+    "results": [
+      "The vanadium(V) complexes achieved excellent yields and enantiomeric excesses over 90% in sulfide oxidation.",
+      "The complexes successfully catalyzed styrene oxidation to produce various products including styrene oxide, benzaldehyde, and benzoic acid."
+    ],
+    "research_subject": "Oxidovanadium(V) complexes with chiral Schiff base ligands for catalytic oxidation reactions"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient and enantioselective catalysts for the oxidation of sulfides and styrene.\",\n    \"Current oxidation methods may lack high yields and enantiomeric excesses, prompting the search for new catalysts.\"\n  ],\n  \"objectives\": [\n    \"Synthesize and characterize vanadium(V) complexes with chiral tridentate Schiff base ligands derived from R(−)-phenylglycinol.\",\n    \"Evaluate the catalytic activity of these complexes in the oxidation of sulfides and styrene.\"\n  ],\n  \"methods\": [\n    \"Prepare vanadium(V) complexes through the condensation of R(−)-phenylglycinol with salicylaldehyde and its derivatives.\",\n    \"Characterize the complexes using various spectroscopic techniques (ESI-MS, IR, CD, UV–Vis, NMR).\",\n    \"Test the catalytic activity of the complexes in the oxidation of sulfides and styrene using different oxidants.\"\n  ],\n  \"results\": [\n    \"Achieve excellent yields and enantiomeric excesses (over 90%) in the oxidation of sulfides using the vanadium(V) complexes.\",\n    \"Demonstrate the catalytic activity of the complexes in the oxidation of styrene to various products.\"\n  ],\n  \"research_subject\": \"Synthesis and catalytic activity of vanadium(V) complexes with chiral tridentate Schiff bases\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to explore the synthesis and characterization of vanadium(V) complexes with chiral tridentate Schiff base ligands.\",\n    \"The potential catalytic activity of these complexes in the oxidation of sulfides and styrene needs to be investigated.\"\n  ],\n  \"objectives\": [\n    \"Synthesize a series of vanadium(V) complexes with chiral tridentate Schiff base ligands derived from R(−)-phenylglycinol and salicylaldehyde derivatives.\",\n    \"Characterize the synthesized complexes using various spectroscopic techniques.\",\n    \"Evaluate the catalytic activity of these complexes in the oxidation of sulfides and styrene.\"\n  ],\n  \"methods\": [\n    \"Synthesize vanadium(V) complexes with chiral tridentate Schiff base ligands through single condensation.\",\n    \"Characterize the complexes using ESI-MS, IR, CD, UV–Vis, 1D and 2D NMR spectra.\",\n    \"Test the catalytic activity of the complexes in the oxidation of sulfides and styrene using different oxidants.\"\n  ],\n  \"results\": [\n    \"Successful synthesis and characterization of vanadium(V) complexes with chiral tridentate Schiff base ligands.\",\n    \"Demonstrated catalytic activity of these complexes in the oxidation of sulfides with excellent yields and enantiomeric excesses.\",\n    \"Confirmed catalytic activity of the complexes in the oxidation of styrene to various products.\"\n  ],\n  \"research_subject\": \"Synthesis, characterization and catalytic activity of oxidovanadium(V) complexes with chiral tridentate Schiff bases\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for efficient catalysts for the oxidation of sulfides and styrene with high yields and enantioselectivity.\",\n    \"Development of vanadium-based complexes with chiral ligands offers potential for asymmetric catalysis in oxidation reactions.\"\n  ],\n  \"objectives\": [\n    \"Synthesize and characterize oxidovanadium(V) complexes with chiral tridentate Schiff base ligands derived from R(−)-phenylglycinol.\",\n    \"Evaluate the catalytic activity of these complexes in the oxidation of sulfides and styrene using various oxidants.\"\n  ],\n  \"methods\": [\n    \"Prepare vanadium(V) complexes through single condensation of R(−)-phenylglycinol with salicylaldehyde derivatives.\",\n    \"Characterize complexes using elemental analysis, ESI-MS, IR, CD, UV-Vis, and NMR spectroscopy.\",\n    \"Test catalytic performance in oxidation reactions using H2O2, cumene hydroperoxide, and tert-butyl hydroperoxide as oxidants.\"\n  ],\n  \"results\": [\n    \"The vanadium(V) complexes achieved excellent yields and enantiomeric excesses over 90% in sulfide oxidation.\",\n    \"The complexes successfully catalyzed styrene oxidation to produce various products including styrene oxide, benzaldehyde, and benzoic acid.\"\n  ],\n  \"research_subject\": \"Oxidovanadium(V) complexes with chiral Schiff base ligands for catalytic oxidation reactions\"\n}\n```"
+}

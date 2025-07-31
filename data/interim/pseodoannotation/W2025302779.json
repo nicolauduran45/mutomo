@@ -1,0 +1,72 @@
+{
+  "index": 20,
+  "title": "Effects of winds on stratification and circulation in a partially mixed estuary",
+  "abstract": "[1] Numerical experiments are conducted to investigate how axial winds affect stratification and circulation in the partially mixed estuary of Chesapeake Bay. In the absence of rotational effects, stratification in the estuary decreases following both down-estuary and up-estuary winds, but stratification experiences larger reduction and takes longer to recover under up-estuary winds. In the presence of rotational effects, wind-driven lateral circulations cause the lateral straining of density field and weaken the shear in the along-channel flows. Under the down-estuary winds, a counterclockwise lateral circulation steepens isopycnals in the cross-channel sections, while the Coriolis force acting on it decelerates the downwind current in the surface layer and the upwind-directed current in the bottom layer. Under the up-estuary winds, a clockwise lateral circulation flattens isopycnals in the cross-channel sections and reduces the shear between the surface and bottom currents. Hence, in the presence of rotational effects, the lateral straining offsets the effects of longitudinal straining such that the asymmetry in stratification reduction is significantly reduced between the down-estuary and up-estuary winds. Regime diagrams based on Wedderburn (W) and Kelvin (Ke) numbers are constructed to summarize the net effects of winds on estuarine stratification during both wind perturbation and postwind adjustment periods.",
+  "llama_json": {
+    "motivations": [
+      "Understanding the impact of winds on stratification and circulation in partially mixed estuaries is crucial for predicting and managing estuarine dynamics.",
+      "There is a need to investigate how axial winds affect stratification and circulation in estuaries, considering both rotational and non-rotational effects."
+    ],
+    "objectives": [
+      "Investigate the effects of axial winds on stratification and circulation in a partially mixed estuary.",
+      "Examine the role of rotational effects in modifying the response of estuarine stratification and circulation to wind forcing.",
+      "Develop regime diagrams to summarize the net effects of winds on estuarine stratification."
+    ],
+    "methods": [
+      "Conduct numerical experiments to simulate the effects of axial winds on stratification and circulation in the Chesapeake Bay estuary.",
+      "Analyze the impact of rotational effects on wind-driven lateral circulations and the resulting changes in stratification and circulation.",
+      "Construct regime diagrams based on Wedderburn and Kelvin numbers to summarize the effects of winds on estuarine stratification."
+    ],
+    "results": [
+      "Axial winds reduce stratification in the estuary, with larger reductions and longer recovery times under up-estuary winds in the absence of rotational effects.",
+      "Rotational effects lead to lateral straining of the density field, weakening the shear in along-channel flows and reducing the asymmetry in stratification reduction between down-estuary and up-estuary winds.",
+      "Regime diagrams provide a framework for predicting the net effects of winds on estuarine stratification during wind perturbation and postwind adjustment periods."
+    ],
+    "research_subject": "Effects of axial winds on stratification and circulation in partially mixed estuaries"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding how axial winds affect stratification and circulation in partially mixed estuaries is crucial for predicting and managing estuarine ecosystems."
+    ],
+    "objectives": [
+      "Investigate the effects of both down-estuary and up-estuary winds on stratification and circulation in the Chesapeake Bay estuary.",
+      "Examine the role of rotational effects on wind-driven lateral circulations and their impact on the density field and along-channel flows.",
+      "Construct regime diagrams based on Wedderburn and Kelvin numbers to summarize the net effects of winds on estuarine stratification."
+    ],
+    "methods": [
+      "Conduct numerical experiments to simulate the effects of axial winds on estuarine stratification and circulation.",
+      "Analyze the impact of wind-driven lateral circulations on the lateral straining of the density field and the shear in along-channel flows.",
+      "Construct regime diagrams based on Wedderburn and Kelvin numbers to summarize the findings."
+    ],
+    "results": [
+      "Stratification in the estuary decreases following both down-estuary and up-estuary winds, with larger reduction and longer recovery time under up-estuary winds.",
+      "Rotational effects cause wind-driven lateral circulations, which strain the density field laterally and weaken the shear in along-channel flows.",
+      "The lateral straining offsets the effects of longitudinal straining, reducing the asymmetry in stratification reduction between down-estuary and up-estuary winds."
+    ],
+    "research_subject": "Effects of winds on stratification and circulation in a partially mixed estuary"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding how wind forcing affects stratification and circulation in partially mixed estuaries is crucial for predicting estuarine dynamics and water quality.",
+      "The role of rotational effects and lateral circulation in modifying wind-driven changes to estuarine stratification remains poorly understood."
+    ],
+    "objectives": [
+      "Investigate how axial winds affect stratification and circulation patterns in partially mixed estuaries using Chesapeake Bay as a model system.",
+      "Examine the role of rotational effects and lateral circulation in modifying wind-driven changes to estuarine stratification and flow dynamics."
+    ],
+    "methods": [
+      "Conduct numerical experiments simulating the effects of down-estuary and up-estuary winds on estuarine dynamics.",
+      "Analyze the interaction between wind-driven lateral circulations, Coriolis forces, and density field straining.",
+      "Develop regime diagrams based on Wedderburn and Kelvin numbers to characterize wind effects on stratification."
+    ],
+    "results": [
+      "Down-estuary and up-estuary winds both reduce stratification, but up-estuary winds cause larger reductions and slower recovery in the absence of rotation.",
+      "Rotational effects and lateral circulation significantly reduce the asymmetry in stratification response between down-estuary and up-estuary winds.",
+      "Wind-driven lateral circulations modify isopycnal slopes and reduce along-channel flow shear through Coriolis forcing."
+    ],
+    "research_subject": "Wind effects on stratification and circulation in partially mixed estuaries"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the impact of winds on stratification and circulation in partially mixed estuaries is crucial for predicting and managing estuarine dynamics.\",\n    \"There is a need to investigate how axial winds affect stratification and circulation in estuaries, considering both rotational and non-rotational effects.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effects of axial winds on stratification and circulation in a partially mixed estuary.\",\n    \"Examine the role of rotational effects in modifying the response of estuarine stratification and circulation to wind forcing.\",\n    \"Develop regime diagrams to summarize the net effects of winds on estuarine stratification.\"\n  ],\n  \"methods\": [\n    \"Conduct numerical experiments to simulate the effects of axial winds on stratification and circulation in the Chesapeake Bay estuary.\",\n    \"Analyze the impact of rotational effects on wind-driven lateral circulations and the resulting changes in stratification and circulation.\",\n    \"Construct regime diagrams based on Wedderburn and Kelvin numbers to summarize the effects of winds on estuarine stratification.\"\n  ],\n  \"results\": [\n    \"Axial winds reduce stratification in the estuary, with larger reductions and longer recovery times under up-estuary winds in the absence of rotational effects.\",\n    \"Rotational effects lead to lateral straining of the density field, weakening the shear in along-channel flows and reducing the asymmetry in stratification reduction between down-estuary and up-estuary winds.\",\n    \"Regime diagrams provide a framework for predicting the net effects of winds on estuarine stratification during wind perturbation and postwind adjustment periods.\"\n  ],\n  \"research_subject\": \"Effects of axial winds on stratification and circulation in partially mixed estuaries\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how axial winds affect stratification and circulation in partially mixed estuaries is crucial for predicting and managing estuarine ecosystems.\"\n  ],\n  \"objectives\": [\n    \"Investigate the effects of both down-estuary and up-estuary winds on stratification and circulation in the Chesapeake Bay estuary.\",\n    \"Examine the role of rotational effects on wind-driven lateral circulations and their impact on the density field and along-channel flows.\",\n    \"Construct regime diagrams based on Wedderburn and Kelvin numbers to summarize the net effects of winds on estuarine stratification.\"\n  ],\n  \"methods\": [\n    \"Conduct numerical experiments to simulate the effects of axial winds on estuarine stratification and circulation.\",\n    \"Analyze the impact of wind-driven lateral circulations on the lateral straining of the density field and the shear in along-channel flows.\",\n    \"Construct regime diagrams based on Wedderburn and Kelvin numbers to summarize the findings.\"\n  ],\n  \"results\": [\n    \"Stratification in the estuary decreases following both down-estuary and up-estuary winds, with larger reduction and longer recovery time under up-estuary winds.\",\n    \"Rotational effects cause wind-driven lateral circulations, which strain the density field laterally and weaken the shear in along-channel flows.\",\n    \"The lateral straining offsets the effects of longitudinal straining, reducing the asymmetry in stratification reduction between down-estuary and up-estuary winds.\"\n  ],\n  \"research_subject\": \"Effects of winds on stratification and circulation in a partially mixed estuary\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding how wind forcing affects stratification and circulation in partially mixed estuaries is crucial for predicting estuarine dynamics and water quality.\",\n    \"The role of rotational effects and lateral circulation in modifying wind-driven changes to estuarine stratification remains poorly understood.\"\n  ],\n  \"objectives\": [\n    \"Investigate how axial winds affect stratification and circulation patterns in partially mixed estuaries using Chesapeake Bay as a model system.\",\n    \"Examine the role of rotational effects and lateral circulation in modifying wind-driven changes to estuarine stratification and flow dynamics.\"\n  ],\n  \"methods\": [\n    \"Conduct numerical experiments simulating the effects of down-estuary and up-estuary winds on estuarine dynamics.\",\n    \"Analyze the interaction between wind-driven lateral circulations, Coriolis forces, and density field straining.\",\n    \"Develop regime diagrams based on Wedderburn and Kelvin numbers to characterize wind effects on stratification.\"\n  ],\n  \"results\": [\n    \"Down-estuary and up-estuary winds both reduce stratification, but up-estuary winds cause larger reductions and slower recovery in the absence of rotation.\",\n    \"Rotational effects and lateral circulation significantly reduce the asymmetry in stratification response between down-estuary and up-estuary winds.\",\n    \"Wind-driven lateral circulations modify isopycnal slopes and reduce along-channel flow shear through Coriolis forcing.\"\n  ],\n  \"research_subject\": \"Wind effects on stratification and circulation in partially mixed estuaries\"\n}\n```"
+}

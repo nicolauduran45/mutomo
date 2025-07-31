@@ -1,0 +1,69 @@
+{
+  "index": 331,
+  "title": "Development of an oil spill forecast system for offshore China",
+  "abstract": "An oil spill forecast system for offshore China was developed based on Visual C++. The oil spill forecast system includes an ocean environmental forecast model and an oil spill model. The ocean environmental forecast model was designed to include timesaving methods, and comprised a parametrical wind wave forecast model and a sea surface current forecast model. The oil spill model was based on the “particle method” and fulfills the prediction of oil particle behavior by considering the drifting, evaporation and emulsification processes. A specific database was embedded into the oil spill forecast system, which contained fundamental information, such as the properties of oil, reserve of emergency equipment and distribution of marine petroleum platform. The oil spill forecast system was successfully applied as part of an oil spill emergency exercise, and provides an operational service in the Research and Development Center for Offshore Oil Safety and Environmental Technology.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an effective oil spill forecast system to support emergency response and mitigation efforts in offshore China."
+    ],
+    "objectives": [
+      "Develop an oil spill forecast system that integrates ocean environmental forecasting and oil spill modeling.",
+      "Provide a reliable and operational service for predicting oil spill behavior and supporting emergency response."
+    ],
+    "methods": [
+      "Design and implement an ocean environmental forecast model using parametrical wind wave and sea surface current forecasting methods.",
+      "Develop an oil spill model based on the 'particle method' to simulate oil particle behavior, including drifting, evaporation, and emulsification processes.",
+      "Embed a specific database containing relevant information, such as oil properties and emergency equipment reserves."
+    ],
+    "results": [
+      "Establish an operational oil spill forecast system for offshore China.",
+      "Enhance emergency response and mitigation efforts through accurate predictions of oil spill behavior."
+    ],
+    "research_subject": "Development of an oil spill forecast system for offshore China"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a reliable system to forecast oil spills in offshore China to mitigate environmental damage and facilitate emergency response.",
+      "Existing systems may lack comprehensive modeling of ocean environmental factors and oil particle behavior."
+    ],
+    "objectives": [
+      "Develop an oil spill forecast system for offshore China that integrates an ocean environmental forecast model and an oil spill model.",
+      "Ensure the system can predict oil particle behavior considering drifting, evaporation, and emulsification processes.",
+      "Incorporate a database with fundamental information such as oil properties, emergency equipment reserves, and marine petroleum platform distribution."
+    ],
+    "methods": [
+      "Use Visual C++ to develop the oil spill forecast system.",
+      "Design the ocean environmental forecast model to include a parametrical wind wave forecast model and a sea surface current forecast model.",
+      "Base the oil spill model on the 'particle method' to predict oil particle behavior."
+    ],
+    "results": [
+      "Successfully applied the oil spill forecast system as part of an oil spill emergency exercise.",
+      "The system is now operational in the Research and Development Center for Offshore Oil Safety and Environmental Technology."
+    ],
+    "research_subject": "Development of an oil spill forecast system for offshore China"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Offshore oil spills pose significant environmental and economic risks that require accurate forecasting systems for effective emergency response.",
+      "China's offshore oil operations need specialized forecasting tools that account for local ocean conditions and oil spill behavior."
+    ],
+    "objectives": [
+      "Develop an integrated oil spill forecast system for offshore China that combines ocean environmental forecasting with oil spill behavior modeling.",
+      "Create an operational tool that supports emergency response planning and real-time decision-making for oil spill incidents."
+    ],
+    "methods": [
+      "Implement a Visual C++ based system integrating a parametrical wind wave forecast model and sea surface current forecast model for ocean environmental prediction.",
+      "Apply the particle method to model oil spill behavior including drifting, evaporation, and emulsification processes.",
+      "Embed a comprehensive database containing oil properties, emergency equipment reserves, and marine petroleum platform distributions."
+    ],
+    "results": [
+      "Successfully deployed the forecast system in oil spill emergency exercises demonstrating its practical applicability.",
+      "Established an operational service at the Research and Development Center for Offshore Oil Safety and Environmental Technology.",
+      "Provided an integrated tool that enables timely and accurate oil spill trajectory predictions for offshore China."
+    ],
+    "research_subject": "Oil spill forecast system development for offshore China"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an effective oil spill forecast system to support emergency response and mitigation efforts in offshore China.\"\n  ],\n  \"objectives\": [\n    \"Develop an oil spill forecast system that integrates ocean environmental forecasting and oil spill modeling.\",\n    \"Provide a reliable and operational service for predicting oil spill behavior and supporting emergency response.\"\n  ],\n  \"methods\": [\n    \"Design and implement an ocean environmental forecast model using parametrical wind wave and sea surface current forecasting methods.\",\n    \"Develop an oil spill model based on the 'particle method' to simulate oil particle behavior, including drifting, evaporation, and emulsification processes.\",\n    \"Embed a specific database containing relevant information, such as oil properties and emergency equipment reserves.\"\n  ],\n  \"results\": [\n    \"Establish an operational oil spill forecast system for offshore China.\",\n    \"Enhance emergency response and mitigation efforts through accurate predictions of oil spill behavior.\"\n  ],\n  \"research_subject\": \"Development of an oil spill forecast system for offshore China\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a reliable system to forecast oil spills in offshore China to mitigate environmental damage and facilitate emergency response.\",\n    \"Existing systems may lack comprehensive modeling of ocean environmental factors and oil particle behavior.\"\n  ],\n  \"objectives\": [\n    \"Develop an oil spill forecast system for offshore China that integrates an ocean environmental forecast model and an oil spill model.\",\n    \"Ensure the system can predict oil particle behavior considering drifting, evaporation, and emulsification processes.\",\n    \"Incorporate a database with fundamental information such as oil properties, emergency equipment reserves, and marine petroleum platform distribution.\"\n  ],\n  \"methods\": [\n    \"Use Visual C++ to develop the oil spill forecast system.\",\n    \"Design the ocean environmental forecast model to include a parametrical wind wave forecast model and a sea surface current forecast model.\",\n    \"Base the oil spill model on the 'particle method' to predict oil particle behavior.\"\n  ],\n  \"results\": [\n    \"Successfully applied the oil spill forecast system as part of an oil spill emergency exercise.\",\n    \"The system is now operational in the Research and Development Center for Offshore Oil Safety and Environmental Technology.\"\n  ],\n  \"research_subject\": \"Development of an oil spill forecast system for offshore China\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Offshore oil spills pose significant environmental and economic risks that require accurate forecasting systems for effective emergency response.\",\n    \"China's offshore oil operations need specialized forecasting tools that account for local ocean conditions and oil spill behavior.\"\n  ],\n  \"objectives\": [\n    \"Develop an integrated oil spill forecast system for offshore China that combines ocean environmental forecasting with oil spill behavior modeling.\",\n    \"Create an operational tool that supports emergency response planning and real-time decision-making for oil spill incidents.\"\n  ],\n  \"methods\": [\n    \"Implement a Visual C++ based system integrating a parametrical wind wave forecast model and sea surface current forecast model for ocean environmental prediction.\",\n    \"Apply the particle method to model oil spill behavior including drifting, evaporation, and emulsification processes.\",\n    \"Embed a comprehensive database containing oil properties, emergency equipment reserves, and marine petroleum platform distributions.\"\n  ],\n  \"results\": [\n    \"Successfully deployed the forecast system in oil spill emergency exercises demonstrating its practical applicability.\",\n    \"Established an operational service at the Research and Development Center for Offshore Oil Safety and Environmental Technology.\",\n    \"Provided an integrated tool that enables timely and accurate oil spill trajectory predictions for offshore China.\"\n  ],\n  \"research_subject\": \"Oil spill forecast system development for offshore China\"\n}\n```"
+}

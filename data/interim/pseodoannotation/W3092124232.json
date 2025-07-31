@@ -1,0 +1,72 @@
+{
+  "index": 113,
+  "title": "Symbiosis of life-cycle structural design and asset management based on Building Information Modeling: Application for industrial facility equipment",
+  "abstract": "Abstract In the last few years, particular focus has been devoted to the life cycle performance of fastening systems, which is reflected in increasing numbers of publications, standards and large-scale research efforts. Simultaneously, experience shows that in many cases, where fastening systems are implemented – such as industrial facilities – the design of fasteners is governed by fatigue loading under dynamic characteristics. In order to perform an adequate design and to specify the most efficient and appropriate fastening product, the engineer needs to access and process a broad range of technical and commercial information. Building information modelling (BIM), as a data management method in the construction industry, can supply such information and accommodate a comprehensive design and specification process. Furthermore, the application of BIM-based processes, such as the generation of a BIM-model, allows to use the important information for the construction as well as the life cycle management with different actions and time dependencies of the asset and its components. As a consequence, the BIM model offers the potential to correlate different data relevant for achieving the goals of the respective application, in order to ensure a more effective and correct design of the fastening. This paper demonstrates such a BIM-based design framework for an Industry 4.0 case, and in particular, the installation of a factory robot through post-installed anchors under fatigue-relevant loading in concrete.",
+  "llama_json": {
+    "motivations": [
+      "Current design and management practices for industrial facility equipment often overlook the life-cycle performance of fastening systems, leading to inefficiencies and potential failures.",
+      "Engineers face challenges in accessing and processing the broad range of technical and commercial information required for adequate design and specification of fastening products."
+    ],
+    "objectives": [
+      "Develop a Building Information Modeling (BIM)-based design framework to support the life-cycle structural design and asset management of industrial facility equipment.",
+      "Demonstrate the application of the BIM-based framework for the installation of factory robots under fatigue-relevant loading conditions."
+    ],
+    "methods": [
+      "Utilize BIM as a data management method to supply and process technical and commercial information for comprehensive design and specification.",
+      "Generate a BIM model to correlate different data relevant for achieving design and management goals.",
+      "Apply BIM-based processes to support construction and life-cycle management with different actions and time dependencies."
+    ],
+    "results": [
+      "Ensure a more effective and correct design of fastening systems through the use of BIM-based design frameworks.",
+      "Improve the life-cycle performance of industrial facility equipment by considering fatigue loading and dynamic characteristics in the design process."
+    ],
+    "research_subject": "BIM-based life-cycle structural design and asset management for industrial facility equipment"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is an increasing focus on the life cycle performance of fastening systems, particularly in industrial facilities where fatigue loading under dynamic characteristics governs the design.",
+      "Engineers require access to a broad range of technical and commercial information to perform adequate design and specify efficient fastening products.",
+      "There is a need for a comprehensive design and specification process that can also support life cycle management of the asset and its components."
+    ],
+    "objectives": [
+      "Demonstrate a Building Information Modeling (BIM)-based design framework for the life cycle performance of fastening systems.",
+      "Use BIM to provide the necessary technical and commercial information for the design and specification of fastening systems.",
+      "Leverage BIM processes to support construction and life cycle management of industrial facility equipment."
+    ],
+    "methods": [
+      "Use Building Information Modeling (BIM) as a data management method in the construction industry.",
+      "Generate a BIM-model to use important information for the construction and life cycle management of the asset and its components.",
+      "Correlate different data relevant for achieving the goals of the respective application using the BIM model."
+    ],
+    "results": [
+      "Provide a comprehensive design and specification process for fastening systems in industrial facilities.",
+      "Enable more effective and correct design of fastening systems through the use of BIM.",
+      "Support life cycle management of industrial facility equipment through BIM-based processes."
+    ],
+    "research_subject": "Application of Building Information Modeling for life-cycle structural design and asset management in industrial facilities"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The design of fastening systems in industrial facilities is increasingly governed by fatigue loading under dynamic characteristics, requiring comprehensive technical and commercial information for adequate design.",
+      "There is a need for integrated data management methods that can support both the design phase and life-cycle management of industrial assets and their components."
+    ],
+    "objectives": [
+      "Develop a BIM-based design framework that integrates life-cycle structural design with asset management for industrial facility equipment.",
+      "Demonstrate the application of BIM methodology for designing and specifying fastening systems under fatigue-relevant loading conditions."
+    ],
+    "methods": [
+      "Implement Building Information Modeling as a data management method to supply and process technical and commercial information for fastening system design.",
+      "Create a BIM-based framework that correlates different data types relevant for construction and life-cycle management of assets.",
+      "Apply the framework to an Industry 4.0 case study involving the installation of a factory robot using post-installed anchors in concrete."
+    ],
+    "results": [
+      "Enable more effective and accurate design of fastening systems through integrated information management.",
+      "Provide a comprehensive approach that supports both initial design and ongoing life-cycle management of industrial facility equipment.",
+      "Demonstrate successful application of the BIM-based framework for industrial robot installation under fatigue loading conditions."
+    ],
+    "research_subject": "BIM-based integration of life-cycle structural design and asset management for industrial facility fastening systems"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current design and management practices for industrial facility equipment often overlook the life-cycle performance of fastening systems, leading to inefficiencies and potential failures.\",\n    \"Engineers face challenges in accessing and processing the broad range of technical and commercial information required for adequate design and specification of fastening products.\"\n  ],\n  \"objectives\": [\n    \"Develop a Building Information Modeling (BIM)-based design framework to support the life-cycle structural design and asset management of industrial facility equipment.\",\n    \"Demonstrate the application of the BIM-based framework for the installation of factory robots under fatigue-relevant loading conditions.\"\n  ],\n  \"methods\": [\n    \"Utilize BIM as a data management method to supply and process technical and commercial information for comprehensive design and specification.\",\n    \"Generate a BIM model to correlate different data relevant for achieving design and management goals.\",\n    \"Apply BIM-based processes to support construction and life-cycle management with different actions and time dependencies.\"\n  ],\n  \"results\": [\n    \"Ensure a more effective and correct design of fastening systems through the use of BIM-based design frameworks.\",\n    \"Improve the life-cycle performance of industrial facility equipment by considering fatigue loading and dynamic characteristics in the design process.\"\n  ],\n  \"research_subject\": \"BIM-based life-cycle structural design and asset management for industrial facility equipment\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is an increasing focus on the life cycle performance of fastening systems, particularly in industrial facilities where fatigue loading under dynamic characteristics governs the design.\",\n    \"Engineers require access to a broad range of technical and commercial information to perform adequate design and specify efficient fastening products.\",\n    \"There is a need for a comprehensive design and specification process that can also support life cycle management of the asset and its components.\"\n  ],\n  \"objectives\": [\n    \"Demonstrate a Building Information Modeling (BIM)-based design framework for the life cycle performance of fastening systems.\",\n    \"Use BIM to provide the necessary technical and commercial information for the design and specification of fastening systems.\",\n    \"Leverage BIM processes to support construction and life cycle management of industrial facility equipment.\"\n  ],\n  \"methods\": [\n    \"Use Building Information Modeling (BIM) as a data management method in the construction industry.\",\n    \"Generate a BIM-model to use important information for the construction and life cycle management of the asset and its components.\",\n    \"Correlate different data relevant for achieving the goals of the respective application using the BIM model.\"\n  ],\n  \"results\": [\n    \"Provide a comprehensive design and specification process for fastening systems in industrial facilities.\",\n    \"Enable more effective and correct design of fastening systems through the use of BIM.\",\n    \"Support life cycle management of industrial facility equipment through BIM-based processes.\"\n  ],\n  \"research_subject\": \"Application of Building Information Modeling for life-cycle structural design and asset management in industrial facilities\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The design of fastening systems in industrial facilities is increasingly governed by fatigue loading under dynamic characteristics, requiring comprehensive technical and commercial information for adequate design.\",\n    \"There is a need for integrated data management methods that can support both the design phase and life-cycle management of industrial assets and their components.\"\n  ],\n  \"objectives\": [\n    \"Develop a BIM-based design framework that integrates life-cycle structural design with asset management for industrial facility equipment.\",\n    \"Demonstrate the application of BIM methodology for designing and specifying fastening systems under fatigue-relevant loading conditions.\"\n  ],\n  \"methods\": [\n    \"Implement Building Information Modeling as a data management method to supply and process technical and commercial information for fastening system design.\",\n    \"Create a BIM-based framework that correlates different data types relevant for construction and life-cycle management of assets.\",\n    \"Apply the framework to an Industry 4.0 case study involving the installation of a factory robot using post-installed anchors in concrete.\"\n  ],\n  \"results\": [\n    \"Enable more effective and accurate design of fastening systems through integrated information management.\",\n    \"Provide a comprehensive approach that supports both initial design and ongoing life-cycle management of industrial facility equipment.\",\n    \"Demonstrate successful application of the BIM-based framework for industrial robot installation under fatigue loading conditions.\"\n  ],\n  \"research_subject\": \"BIM-based integration of life-cycle structural design and asset management for industrial facility fastening systems\"\n}\n```"
+}

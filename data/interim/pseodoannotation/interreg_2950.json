@@ -1,0 +1,75 @@
+{
+  "index": 28,
+  "title": "Regions using ECO-ManageMENt for eco-innovation Development",
+  "abstract": "In the light of the Lisboa and Gothenburg strategies targeted at more sustainable patterns of economic development it is the main idea of the RECOMMEND project that eco-management systems and their preliminary stages can play a major role in meeting ecological challenges and can be used as a lever for establishing and strengthening of eco-innovation at a regional level. Based on the analysis of good practice and involving regional policymakers and stakeholders the project will deliver new and improved policy approaches and methodologies to reach the following goals: - Shaping regions of vital eco-management commitment that will raise eco-efficiency at the level of individual stakeholders - Creating and interlinking “regional frameworks of eco-management and eco-innovation” - Increasing the visibility of the contributions of regional economies for the solution of ecological challenges at the European level The exchange of experience between the partner regions will be deepened in 3 pilot actions that will prove the practicability of the project results in terms of new and improved instruments to improve eco-innovation, such as enhanced eco-voucher schemes, eco-management practitioner networks etc. A strong project focus on awareness raising and dissemination of the project results will strengthen the commitment of regional policymakers and stakeholders for durable realisation of the Regional Implementation Plans prepared by the project partners in an assessment and peer review process. Additional briefings at EC level are planned for to feed back the project recommendations to EU policies. The project consortium consists of 10 partners from 8 Member States with a good mixture of regions with different levels of the regional support for eco-management and eco-innovation. There are several project partners from new member states which are very keen in increasing the number of eco-efficient businesses within their regions. The partners decided to develop this project, because it offers the opportunity for all regions to improve their eco-efficiency even in times of limited resources. 5 partners are public authorities with responsibilities on the edge between business and environment. The other 6 partners have direct influence on the regional policies in order to raise eco-efficiency via eco-management. All of them have full support of the regional governments and therefore they can guarantee the usage of the project results even after the project duration. In 3 partner regions we decided to include two partners in the project consortium. This construction guarantees the inclusion of the know-how institution and the policy level at the same time.  The project partnership decided to divide the project in 5 interrelated phases from know-how exchange to the preparation of the Regional Implementation Plan. The entire project is characterised by an intensive interregional exchange.",
+  "llama_json": {
+    "motivations": [
+      "The need for more sustainable patterns of economic development, as outlined in the Lisboa and Gothenburg strategies, requires innovative approaches to eco-management and eco-innovation at the regional level.",
+      "Regional policymakers and stakeholders face challenges in establishing and strengthening eco-innovation due to limited resources and lack of effective policy approaches."
+    ],
+    "objectives": [
+      "Develop and deliver new and improved policy approaches and methodologies to support eco-management and eco-innovation at the regional level.",
+      "Create and interlink regional frameworks for eco-management and eco-innovation to increase eco-efficiency and visibility of regional contributions to ecological challenges.",
+      "Enhance the commitment of regional policymakers and stakeholders to durable realization of Regional Implementation Plans."
+    ],
+    "methods": [
+      "Analyze good practices and involve regional policymakers and stakeholders in the development of new policy approaches and methodologies.",
+      "Implement pilot actions to test the practicability of project results, including enhanced eco-voucher schemes and eco-management practitioner networks.",
+      "Foster intensive interregional exchange and collaboration among project partners to ensure effective knowledge transfer and implementation."
+    ],
+    "results": [
+      "Improved eco-efficiency and eco-innovation at the regional level through the development and implementation of new policy approaches and methodologies.",
+      "Increased visibility of regional contributions to ecological challenges at the European level.",
+      "Strengthened commitment of regional policymakers and stakeholders to sustainable economic development."
+    ],
+    "research_subject": "Eco-management and eco-innovation development at the regional level"
+  },
+  "openai_json": {
+    "motivations": [
+      "The need for sustainable economic development patterns and meeting ecological challenges is a pressing issue.",
+      "Eco-management systems can be leveraged to establish and strengthen eco-innovation at a regional level.",
+      "There is a lack of visibility of the contributions of regional economies to the solution of ecological challenges at the European level."
+    ],
+    "objectives": [
+      "Shape regions of vital eco-management commitment to raise eco-efficiency at the level of individual stakeholders.",
+      "Create and interlink 'regional frameworks of eco-management and eco-innovation'.",
+      "Increase the visibility of the contributions of regional economies to ecological solutions at the European level."
+    ],
+    "methods": [
+      "Analyze good practices and involve regional policymakers and stakeholders to develop new policy approaches and methodologies.",
+      "Implement 3 pilot actions to test the practicability of the project results in terms of new and improved instruments to improve eco-innovation.",
+      "Prepare Regional Implementation Plans in an assessment and peer review process, with a focus on awareness raising and dissemination of the project results."
+    ],
+    "results": [
+      "Establishment of regions with strong eco-management commitment and increased eco-efficiency.",
+      "Creation of interlinked regional frameworks for eco-management and eco-innovation.",
+      "Increased visibility of regional contributions to ecological solutions at the European level."
+    ],
+    "research_subject": "Eco-management systems for eco-innovation development at a regional level"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to develop more sustainable patterns of economic development in line with the Lisboa and Gothenburg strategies.",
+      "Regions require improved policy approaches and methodologies to leverage eco-management systems for addressing ecological challenges and promoting eco-innovation."
+    ],
+    "objectives": [
+      "Shape regions with strong eco-management commitment to enhance eco-efficiency at stakeholder level and create interlinked regional frameworks for eco-management and eco-innovation.",
+      "Develop and implement new policy instruments such as eco-voucher schemes and practitioner networks to improve regional eco-innovation.",
+      "Increase visibility of regional contributions to solving ecological challenges at the European level through knowledge exchange and dissemination."
+    ],
+    "methods": [
+      "Analyze good practices and exchange experiences between partner regions through collaborative assessment and peer review processes.",
+      "Implement three pilot actions to test and validate new eco-innovation instruments and approaches.",
+      "Engage regional policymakers and stakeholders through awareness raising activities and develop Regional Implementation Plans."
+    ],
+    "results": [
+      "Enhanced regional eco-efficiency through improved eco-management systems and strengthened eco-innovation frameworks.",
+      "Successful implementation of new policy instruments including eco-voucher schemes and eco-management practitioner networks.",
+      "Increased commitment from regional policymakers and stakeholders for sustainable realization of eco-innovation strategies."
+    ],
+    "research_subject": "Regional eco-management systems and eco-innovation development for sustainable economic growth"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The need for more sustainable patterns of economic development, as outlined in the Lisboa and Gothenburg strategies, requires innovative approaches to eco-management and eco-innovation at the regional level.\",\n    \"Regional policymakers and stakeholders face challenges in establishing and strengthening eco-innovation due to limited resources and lack of effective policy approaches.\"\n  ],\n  \"objectives\": [\n    \"Develop and deliver new and improved policy approaches and methodologies to support eco-management and eco-innovation at the regional level.\",\n    \"Create and interlink regional frameworks for eco-management and eco-innovation to increase eco-efficiency and visibility of regional contributions to ecological challenges.\",\n    \"Enhance the commitment of regional policymakers and stakeholders to durable realization of Regional Implementation Plans.\"\n  ],\n  \"methods\": [\n    \"Analyze good practices and involve regional policymakers and stakeholders in the development of new policy approaches and methodologies.\",\n    \"Implement pilot actions to test the practicability of project results, including enhanced eco-voucher schemes and eco-management practitioner networks.\",\n    \"Foster intensive interregional exchange and collaboration among project partners to ensure effective knowledge transfer and implementation.\"\n  ],\n  \"results\": [\n    \"Improved eco-efficiency and eco-innovation at the regional level through the development and implementation of new policy approaches and methodologies.\",\n    \"Increased visibility of regional contributions to ecological challenges at the European level.\",\n    \"Strengthened commitment of regional policymakers and stakeholders to sustainable economic development.\"\n  ],\n  \"research_subject\": \"Eco-management and eco-innovation development at the regional level\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The need for sustainable economic development patterns and meeting ecological challenges is a pressing issue.\",\n    \"Eco-management systems can be leveraged to establish and strengthen eco-innovation at a regional level.\",\n    \"There is a lack of visibility of the contributions of regional economies to the solution of ecological challenges at the European level.\"\n  ],\n  \"objectives\": [\n    \"Shape regions of vital eco-management commitment to raise eco-efficiency at the level of individual stakeholders.\",\n    \"Create and interlink 'regional frameworks of eco-management and eco-innovation'.\",\n    \"Increase the visibility of the contributions of regional economies to ecological solutions at the European level.\"\n  ],\n  \"methods\": [\n    \"Analyze good practices and involve regional policymakers and stakeholders to develop new policy approaches and methodologies.\",\n    \"Implement 3 pilot actions to test the practicability of the project results in terms of new and improved instruments to improve eco-innovation.\",\n    \"Prepare Regional Implementation Plans in an assessment and peer review process, with a focus on awareness raising and dissemination of the project results.\"\n  ],\n  \"results\": [\n    \"Establishment of regions with strong eco-management commitment and increased eco-efficiency.\",\n    \"Creation of interlinked regional frameworks for eco-management and eco-innovation.\",\n    \"Increased visibility of regional contributions to ecological solutions at the European level.\"\n  ],\n  \"research_subject\": \"Eco-management systems for eco-innovation development at a regional level\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to develop more sustainable patterns of economic development in line with the Lisboa and Gothenburg strategies.\",\n    \"Regions require improved policy approaches and methodologies to leverage eco-management systems for addressing ecological challenges and promoting eco-innovation.\"\n  ],\n  \"objectives\": [\n    \"Shape regions with strong eco-management commitment to enhance eco-efficiency at stakeholder level and create interlinked regional frameworks for eco-management and eco-innovation.\",\n    \"Develop and implement new policy instruments such as eco-voucher schemes and practitioner networks to improve regional eco-innovation.\",\n    \"Increase visibility of regional contributions to solving ecological challenges at the European level through knowledge exchange and dissemination.\"\n  ],\n  \"methods\": [\n    \"Analyze good practices and exchange experiences between partner regions through collaborative assessment and peer review processes.\",\n    \"Implement three pilot actions to test and validate new eco-innovation instruments and approaches.\",\n    \"Engage regional policymakers and stakeholders through awareness raising activities and develop Regional Implementation Plans.\"\n  ],\n  \"results\": [\n    \"Enhanced regional eco-efficiency through improved eco-management systems and strengthened eco-innovation frameworks.\",\n    \"Successful implementation of new policy instruments including eco-voucher schemes and eco-management practitioner networks.\",\n    \"Increased commitment from regional policymakers and stakeholders for sustainable realization of eco-innovation strategies.\"\n  ],\n  \"research_subject\": \"Regional eco-management systems and eco-innovation development for sustainable economic growth\"\n}\n```"
+}

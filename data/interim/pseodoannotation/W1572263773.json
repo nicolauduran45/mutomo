@@ -1,0 +1,65 @@
+{
+  "index": 238,
+  "title": "Antibacterial Activities of Bacterial Symbionts of Soft Coral Sinularia Sp. against Tuberculosis Bacteria",
+  "abstract": "Tuberculosis (TB) is caused by Mycobacterium tuberculosis. Although TB is a curable disease, it continues to\r be one of the most important infectious causes of death worldwide. Indonesia ranks 3rd on the list of TB high\r burden countries in the world with 86,000 cases deaths and the Multi Drug Resistant Tuberculosis (MDR TB)\r estimated cases in Indonesia is 10,000. This research was aimed to isolate and characterize of soft coral\r Sinularia sp.-associated bacteria having antibacterial activity against Tuberculosis bacteria. There were\r 109 isolates collected from Sinularia sp. Two isolates from Sinularia sp.-associated bacteria, SC4TGZ3 and\r SC4TGZ4 were successfully screened for antibacterial against Tuberculosis bacteria. SC4TGZ3 was found to\r inhibit the growth of MDR TB strain HE, MDR TB strain SR and H37Rv. Whereas, SC4TGZ4 was found to\r inhibit the growth of MDR TB strain HE. Based on PCR amplification 16S rDNA softcoral bacateria were\r identified as follows: SC4TGZ3 was closely related to Pseudovibrio sp. and SC4TGZ4 was closely related to\r Alpha proteobacterium sp",
+  "llama_json": {
+    "motivations": [
+      "Tuberculosis (TB) remains a significant cause of death worldwide, with Indonesia ranking 3rd among high-burden countries.",
+      "The emergence of Multi-Drug Resistant Tuberculosis (MDR TB) poses a significant challenge to TB treatment and control."
+    ],
+    "objectives": [
+      "Isolate and characterize bacteria associated with soft coral Sinularia sp. that exhibit antibacterial activity against TB bacteria.",
+      "Identify potential novel antibacterial agents effective against MDR TB strains."
+    ],
+    "methods": [
+      "Collect and screen bacterial isolates from Sinularia sp. for antibacterial activity against TB bacteria.",
+      "Use PCR amplification of 16S rDNA to identify and characterize the isolated bacteria.",
+      "Evaluate the antibacterial activity of the isolated bacteria against MDR TB strains."
+    ],
+    "results": [
+      "Two bacterial isolates, SC4TGZ3 and SC4TGZ4, exhibited antibacterial activity against TB bacteria, including MDR TB strains.",
+      "The isolated bacteria were identified as Pseudovibrio sp. and Alpha proteobacterium sp., respectively.",
+      "The findings suggest potential novel antibacterial agents effective against TB, including MDR TB strains."
+    ],
+    "research_subject": "Antibacterial activities of bacterial symbionts of soft coral Sinularia sp. against tuberculosis bacteria"
+  },
+  "openai_json": {
+    "motivations": [
+      "Tuberculosis (TB) remains a leading cause of death worldwide, with Indonesia ranking third in terms of TB burden.",
+      "The prevalence of Multi Drug Resistant Tuberculosis (MDR TB) poses a significant challenge to TB treatment."
+    ],
+    "objectives": [
+      "Isolate and characterize bacteria associated with the soft coral Sinularia sp. that have antibacterial activity against Tuberculosis bacteria."
+    ],
+    "methods": [
+      "Collect and screen isolates from Sinularia sp. for antibacterial activity against Tuberculosis bacteria.",
+      "Identify the isolated bacteria using PCR amplification of 16S rDNA."
+    ],
+    "results": [
+      "Two isolates from Sinularia sp.-associated bacteria, SC4TGZ3 and SC4TGZ4, were found to inhibit the growth of MDR TB strains.",
+      "SC4TGZ3 was identified as closely related to Pseudovibrio sp., and SC4TGZ4 was identified as closely related to Alpha proteobacterium sp."
+    ],
+    "research_subject": "Antibacterial activity of Sinularia sp.-associated bacteria against Tuberculosis bacteria"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Tuberculosis remains one of the most important infectious causes of death worldwide, with Indonesia ranking 3rd among high burden countries.",
+      "Multi Drug Resistant Tuberculosis (MDR TB) poses a significant challenge with an estimated 10,000 cases in Indonesia."
+    ],
+    "objectives": [
+      "Isolate and characterize bacteria associated with soft coral Sinularia sp. that possess antibacterial activity against Tuberculosis bacteria."
+    ],
+    "methods": [
+      "Isolation of bacterial symbionts from soft coral Sinularia sp. and screening for antibacterial activity.",
+      "PCR amplification of 16S rDNA for bacterial identification."
+    ],
+    "results": [
+      "Two isolates (SC4TGZ3 and SC4TGZ4) demonstrated antibacterial activity against Tuberculosis bacteria, including MDR TB strains.",
+      "SC4TGZ3 was identified as closely related to Pseudovibrio sp. and SC4TGZ4 to Alpha proteobacterium sp."
+    ],
+    "research_subject": "Antibacterial activity of soft coral Sinularia sp.-associated bacteria against Tuberculosis"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Tuberculosis (TB) remains a significant cause of death worldwide, with Indonesia ranking 3rd among high-burden countries.\",\n    \"The emergence of Multi-Drug Resistant Tuberculosis (MDR TB) poses a significant challenge to TB treatment and control.\"\n  ],\n  \"objectives\": [\n    \"Isolate and characterize bacteria associated with soft coral Sinularia sp. that exhibit antibacterial activity against TB bacteria.\",\n    \"Identify potential novel antibacterial agents effective against MDR TB strains.\"\n  ],\n  \"methods\": [\n    \"Collect and screen bacterial isolates from Sinularia sp. for antibacterial activity against TB bacteria.\",\n    \"Use PCR amplification of 16S rDNA to identify and characterize the isolated bacteria.\",\n    \"Evaluate the antibacterial activity of the isolated bacteria against MDR TB strains.\"\n  ],\n  \"results\": [\n    \"Two bacterial isolates, SC4TGZ3 and SC4TGZ4, exhibited antibacterial activity against TB bacteria, including MDR TB strains.\",\n    \"The isolated bacteria were identified as Pseudovibrio sp. and Alpha proteobacterium sp., respectively.\",\n    \"The findings suggest potential novel antibacterial agents effective against TB, including MDR TB strains.\"\n  ],\n  \"research_subject\": \"Antibacterial activities of bacterial symbionts of soft coral Sinularia sp. against tuberculosis bacteria\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Tuberculosis (TB) remains a leading cause of death worldwide, with Indonesia ranking third in terms of TB burden.\",\n    \"The prevalence of Multi Drug Resistant Tuberculosis (MDR TB) poses a significant challenge to TB treatment.\"\n  ],\n  \"objectives\": [\n    \"Isolate and characterize bacteria associated with the soft coral Sinularia sp. that have antibacterial activity against Tuberculosis bacteria.\"\n  ],\n  \"methods\": [\n    \"Collect and screen isolates from Sinularia sp. for antibacterial activity against Tuberculosis bacteria.\",\n    \"Identify the isolated bacteria using PCR amplification of 16S rDNA.\"\n  ],\n  \"results\": [\n    \"Two isolates from Sinularia sp.-associated bacteria, SC4TGZ3 and SC4TGZ4, were found to inhibit the growth of MDR TB strains.\",\n    \"SC4TGZ3 was identified as closely related to Pseudovibrio sp., and SC4TGZ4 was identified as closely related to Alpha proteobacterium sp.\"\n  ],\n  \"research_subject\": \"Antibacterial activity of Sinularia sp.-associated bacteria against Tuberculosis bacteria\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Tuberculosis remains one of the most important infectious causes of death worldwide, with Indonesia ranking 3rd among high burden countries.\",\n    \"Multi Drug Resistant Tuberculosis (MDR TB) poses a significant challenge with an estimated 10,000 cases in Indonesia.\"\n  ],\n  \"objectives\": [\n    \"Isolate and characterize bacteria associated with soft coral Sinularia sp. that possess antibacterial activity against Tuberculosis bacteria.\"\n  ],\n  \"methods\": [\n    \"Isolation of bacterial symbionts from soft coral Sinularia sp. and screening for antibacterial activity.\",\n    \"PCR amplification of 16S rDNA for bacterial identification.\"\n  ],\n  \"results\": [\n    \"Two isolates (SC4TGZ3 and SC4TGZ4) demonstrated antibacterial activity against Tuberculosis bacteria, including MDR TB strains.\",\n    \"SC4TGZ3 was identified as closely related to Pseudovibrio sp. and SC4TGZ4 to Alpha proteobacterium sp.\"\n  ],\n  \"research_subject\": \"Antibacterial activity of soft coral Sinularia sp.-associated bacteria against Tuberculosis\"\n}\n```"
+}

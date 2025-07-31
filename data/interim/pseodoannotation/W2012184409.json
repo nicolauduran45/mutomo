@@ -1,0 +1,68 @@
+{
+  "index": 380,
+  "title": "Parametric Analysis for Ultimate Strength Prediction of Stainless Steel Bolted Joints with Single Bolt",
+  "abstract": "A variety of parametric studies utilizing the finite element analysis (FEA) have been performed by Kim et al in order to predict the mechanical behavior(ultimate strength) of single shear bolted joints in cold-formed(thin-walled) stainless steel. The precedent researches have been conducted with respect to the mechanical behaviors of single shear bolted joints fabricated with four bolts and two bolts. Subsequently, this study has been focused on the comparison of ultimate behaviors between the existing test results and FEA results. In addition, parametric study has been performed in order to investigate the influence of mesh size and washer existence on ultimate behaviors. Therefore, reasonable finite element modelling method and condition were recommended in this paper.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to accurately predict the ultimate strength of stainless steel bolted joints with single bolts to ensure reliable mechanical behavior.",
+      "Existing research has focused on bolted joints with multiple bolts, leaving a gap in understanding the behavior of single-bolt joints."
+    ],
+    "objectives": [
+      "Compare the ultimate behaviors of stainless steel bolted joints with single bolts using finite element analysis (FEA) and existing test results.",
+      "Investigate the influence of mesh size and washer existence on the ultimate behaviors of single-bolt joints through parametric study."
+    ],
+    "methods": [
+      "Perform finite element analysis (FEA) to predict the mechanical behavior of single shear bolted joints in cold-formed stainless steel.",
+      "Conduct parametric studies to examine the effects of mesh size and washer existence on ultimate behaviors."
+    ],
+    "results": [
+      "Provide a reasonable finite element modelling method and condition for predicting the ultimate strength of stainless steel bolted joints with single bolts.",
+      "Enhance understanding of the mechanical behavior of single-bolt joints in cold-formed stainless steel."
+    ],
+    "research_subject": "Ultimate strength prediction of stainless steel bolted joints with single bolt"
+  },
+  "openai_json": {
+    "motivations": [
+      "Previous studies have focused on the mechanical behaviors of single shear bolted joints with multiple bolts, leaving a gap in understanding the behavior of single bolt joints.",
+      "There is a need to understand the influence of factors such as mesh size and washer existence on the ultimate strength of single bolt joints."
+    ],
+    "objectives": [
+      "Predict the mechanical behavior, specifically the ultimate strength, of single shear bolted joints in cold-formed stainless steel using finite element analysis.",
+      "Compare the ultimate behaviors between existing test results and finite element analysis results.",
+      "Investigate the influence of mesh size and washer existence on the ultimate behaviors of single bolt joints."
+    ],
+    "methods": [
+      "Use finite element analysis for parametric studies to predict the mechanical behavior of single bolt joints.",
+      "Compare the ultimate behaviors between existing test results and finite element analysis results.",
+      "Perform a parametric study to investigate the influence of mesh size and washer existence on ultimate behaviors."
+    ],
+    "results": [
+      "Provide a prediction of the ultimate strength of single shear bolted joints in cold-formed stainless steel.",
+      "Offer insights into the influence of mesh size and washer existence on the ultimate behaviors of single bolt joints.",
+      "Recommend a reasonable finite element modelling method and condition for future studies."
+    ],
+    "research_subject": "Ultimate strength prediction of single bolt stainless steel bolted joints using finite element analysis"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "There is a need to accurately predict the mechanical behavior and ultimate strength of single shear bolted joints in cold-formed stainless steel structures.",
+      "Previous research on bolted joints with multiple bolts requires extension to single bolt configurations for comprehensive understanding."
+    ],
+    "objectives": [
+      "Compare ultimate behaviors between existing test results and finite element analysis results for stainless steel bolted joints with single bolt.",
+      "Investigate the influence of mesh size and washer presence on the ultimate strength predictions through parametric analysis."
+    ],
+    "methods": [
+      "Conduct finite element analysis to simulate the mechanical behavior of single shear bolted joints in cold-formed stainless steel.",
+      "Perform parametric studies varying mesh size and washer conditions to assess their impact on ultimate strength predictions."
+    ],
+    "results": [
+      "Established reasonable finite element modeling methods and conditions for predicting ultimate strength of stainless steel bolted joints.",
+      "Provided recommendations for accurate simulation of single bolt connections in thin-walled stainless steel structures."
+    ],
+    "research_subject": "Ultimate strength prediction of single shear bolted joints in cold-formed stainless steel"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to accurately predict the ultimate strength of stainless steel bolted joints with single bolts to ensure reliable mechanical behavior.\",\n    \"Existing research has focused on bolted joints with multiple bolts, leaving a gap in understanding the behavior of single-bolt joints.\"\n  ],\n  \"objectives\": [\n    \"Compare the ultimate behaviors of stainless steel bolted joints with single bolts using finite element analysis (FEA) and existing test results.\",\n    \"Investigate the influence of mesh size and washer existence on the ultimate behaviors of single-bolt joints through parametric study.\"\n  ],\n  \"methods\": [\n    \"Perform finite element analysis (FEA) to predict the mechanical behavior of single shear bolted joints in cold-formed stainless steel.\",\n    \"Conduct parametric studies to examine the effects of mesh size and washer existence on ultimate behaviors.\"\n  ],\n  \"results\": [\n    \"Provide a reasonable finite element modelling method and condition for predicting the ultimate strength of stainless steel bolted joints with single bolts.\",\n    \"Enhance understanding of the mechanical behavior of single-bolt joints in cold-formed stainless steel.\"\n  ],\n  \"research_subject\": \"Ultimate strength prediction of stainless steel bolted joints with single bolt\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Previous studies have focused on the mechanical behaviors of single shear bolted joints with multiple bolts, leaving a gap in understanding the behavior of single bolt joints.\",\n    \"There is a need to understand the influence of factors such as mesh size and washer existence on the ultimate strength of single bolt joints.\"\n  ],\n  \"objectives\": [\n    \"Predict the mechanical behavior, specifically the ultimate strength, of single shear bolted joints in cold-formed stainless steel using finite element analysis.\",\n    \"Compare the ultimate behaviors between existing test results and finite element analysis results.\",\n    \"Investigate the influence of mesh size and washer existence on the ultimate behaviors of single bolt joints.\"\n  ],\n  \"methods\": [\n    \"Use finite element analysis for parametric studies to predict the mechanical behavior of single bolt joints.\",\n    \"Compare the ultimate behaviors between existing test results and finite element analysis results.\",\n    \"Perform a parametric study to investigate the influence of mesh size and washer existence on ultimate behaviors.\"\n  ],\n  \"results\": [\n    \"Provide a prediction of the ultimate strength of single shear bolted joints in cold-formed stainless steel.\",\n    \"Offer insights into the influence of mesh size and washer existence on the ultimate behaviors of single bolt joints.\",\n    \"Recommend a reasonable finite element modelling method and condition for future studies.\"\n  ],\n  \"research_subject\": \"Ultimate strength prediction of single bolt stainless steel bolted joints using finite element analysis\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to accurately predict the mechanical behavior and ultimate strength of single shear bolted joints in cold-formed stainless steel structures.\",\n    \"Previous research on bolted joints with multiple bolts requires extension to single bolt configurations for comprehensive understanding.\"\n  ],\n  \"objectives\": [\n    \"Compare ultimate behaviors between existing test results and finite element analysis results for stainless steel bolted joints with single bolt.\",\n    \"Investigate the influence of mesh size and washer presence on the ultimate strength predictions through parametric analysis.\"\n  ],\n  \"methods\": [\n    \"Conduct finite element analysis to simulate the mechanical behavior of single shear bolted joints in cold-formed stainless steel.\",\n    \"Perform parametric studies varying mesh size and washer conditions to assess their impact on ultimate strength predictions.\"\n  ],\n  \"results\": [\n    \"Established reasonable finite element modeling methods and conditions for predicting ultimate strength of stainless steel bolted joints.\",\n    \"Provided recommendations for accurate simulation of single bolt connections in thin-walled stainless steel structures.\"\n  ],\n  \"research_subject\": \"Ultimate strength prediction of single shear bolted joints in cold-formed stainless steel\"\n}\n```"
+}

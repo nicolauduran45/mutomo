@@ -1,0 +1,70 @@
+{
+  "index": 391,
+  "title": "“Weathering and nutrient export from subglacial environments: a novel stable isotope approach”",
+  "abstract": "The Earth’s surface has been dominated by cycles of glacial advance for more than two million years. Processes occurring at the glacier bed exert a fundamental control on the release of bioavailable elements to rivers and oceans and the evolution of the Earth’s surface, hydrosphere and atmosphere. As global temperatures rise and ice-sheets retreat, it is critical to constrain the roles that subglacial weathering processes play in controlling global biogeochemical cycles. The overarching goal of this project is to investigate the redox conditions that control vital nutrient and elemental release through a study of glacial outflows from contrasting subglacial environments. I will achieve this goal using a novel multidisciplinary framework incorporating cutting-edge redox sensitive stable isotope proxies (Mo, Fe and Se isotopes) of iron and sulphur cycling and oxidation state to unique glaciated regions. Using a combination of archived samples and focused field campaigns I will study subglacial outflow environments that differ in bedrock geology, regional climate and type of individual glacier drainage basins (e.g. ice cap, ice sheet and alpine glacier) in order to evaluate the importance of these parameters in weathering processes and ultimately the release of bio-available elements from the sub-glacial environment to rivers and oceans. Key questions I am to answer are how is the release of bioavailable elements a function of the redox state of the subglacial environment? Which of the three key parameters plays the most significant role? To what extent is this reflected in the enrichments of elements in solid/liquid phases? and how does this affect biogeochemical cycling downstream and nutrient supply?",
+  "llama_json": {
+    "motivations": [
+      "The Earth's surface has been dominated by cycles of glacial advance for over two million years, and processes at the glacier bed control the release of bioavailable elements to rivers and oceans.",
+      "As global temperatures rise and ice-sheets retreat, it is critical to understand the roles that subglacial weathering processes play in controlling global biogeochemical cycles."
+    ],
+    "objectives": [
+      "Investigate the redox conditions that control vital nutrient and elemental release through a study of glacial outflows from contrasting subglacial environments.",
+      "Evaluate the importance of bedrock geology, regional climate, and type of glacier drainage basins in weathering processes and the release of bio-available elements."
+    ],
+    "methods": [
+      "Use a novel multidisciplinary framework incorporating cutting-edge redox sensitive stable isotope proxies (Mo, Fe and Se isotopes) of iron and sulphur cycling and oxidation state.",
+      "Study subglacial outflow environments that differ in bedrock geology, regional climate, and type of individual glacier drainage basins through a combination of archived samples and focused field campaigns."
+    ],
+    "results": [
+      "Determine how the release of bioavailable elements is a function of the redox state of the subglacial environment.",
+      "Identify which of the three key parameters (bedrock geology, regional climate, and type of glacier drainage basins) plays the most significant role in weathering processes and the release of bio-available elements."
+    ],
+    "research_subject": "Subglacial weathering processes and their impact on global biogeochemical cycles"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding the role of subglacial weathering processes in controlling global biogeochemical cycles is critical as global temperatures rise and ice-sheets retreat.",
+      "There is a need to investigate the redox conditions that control the release of vital nutrients and elements from contrasting subglacial environments."
+    ],
+    "objectives": [
+      "Investigate the redox conditions that control nutrient and elemental release through a study of glacial outflows from contrasting subglacial environments.",
+      "Evaluate the importance of bedrock geology, regional climate, and type of glacier drainage basins in weathering processes and the release of bio-available elements.",
+      "Answer key questions about the relationship between the release of bioavailable elements and the redox state of the subglacial environment, and the impact on biogeochemical cycling downstream and nutrient supply."
+    ],
+    "methods": [
+      "Use a novel multidisciplinary framework incorporating redox sensitive stable isotope proxies of iron and sulphur cycling and oxidation state to unique glaciated regions.",
+      "Study subglacial outflow environments that differ in bedrock geology, regional climate and type of individual glacier drainage basins using a combination of archived samples and focused field campaigns."
+    ],
+    "results": [
+      "Provide insights into the redox conditions that control nutrient and elemental release from subglacial environments.",
+      "Enhance understanding of the role of subglacial weathering processes in global biogeochemical cycles.",
+      "Identify the key parameters that influence the release of bioavailable elements from the sub-glacial environment to rivers and oceans."
+    ],
+    "research_subject": "Weathering and nutrient export from subglacial environments using a novel stable isotope approach"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Subglacial weathering processes play a critical role in controlling global biogeochemical cycles and the release of bioavailable elements to rivers and oceans.",
+      "As global temperatures rise and ice-sheets retreat, understanding how redox conditions in subglacial environments control nutrient and elemental release becomes increasingly important."
+    ],
+    "objectives": [
+      "Investigate the redox conditions that control vital nutrient and elemental release through a study of glacial outflows from contrasting subglacial environments.",
+      "Evaluate how bedrock geology, regional climate, and glacier drainage basin types influence weathering processes and the release of bio-available elements.",
+      "Determine how the redox state of subglacial environments affects biogeochemical cycling downstream and nutrient supply."
+    ],
+    "methods": [
+      "Apply novel redox sensitive stable isotope proxies (Mo, Fe and Se isotopes) to study iron and sulphur cycling and oxidation states in glaciated regions.",
+      "Analyze archived samples and conduct focused field campaigns across diverse subglacial outflow environments.",
+      "Compare weathering processes across different bedrock geologies, regional climates, and glacier drainage basin types."
+    ],
+    "results": [
+      "Constrain the relationship between redox conditions in subglacial environments and the release of bioavailable elements.",
+      "Identify which environmental parameters most significantly influence subglacial weathering processes.",
+      "Improve understanding of how subglacial processes affect downstream biogeochemical cycling and nutrient supply to rivers and oceans."
+    ],
+    "research_subject": "Subglacial weathering processes and nutrient export using stable isotope analysis"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The Earth's surface has been dominated by cycles of glacial advance for over two million years, and processes at the glacier bed control the release of bioavailable elements to rivers and oceans.\",\n    \"As global temperatures rise and ice-sheets retreat, it is critical to understand the roles that subglacial weathering processes play in controlling global biogeochemical cycles.\"\n  ],\n  \"objectives\": [\n    \"Investigate the redox conditions that control vital nutrient and elemental release through a study of glacial outflows from contrasting subglacial environments.\",\n    \"Evaluate the importance of bedrock geology, regional climate, and type of glacier drainage basins in weathering processes and the release of bio-available elements.\"\n  ],\n  \"methods\": [\n    \"Use a novel multidisciplinary framework incorporating cutting-edge redox sensitive stable isotope proxies (Mo, Fe and Se isotopes) of iron and sulphur cycling and oxidation state.\",\n    \"Study subglacial outflow environments that differ in bedrock geology, regional climate, and type of individual glacier drainage basins through a combination of archived samples and focused field campaigns.\"\n  ],\n  \"results\": [\n    \"Determine how the release of bioavailable elements is a function of the redox state of the subglacial environment.\",\n    \"Identify which of the three key parameters (bedrock geology, regional climate, and type of glacier drainage basins) plays the most significant role in weathering processes and the release of bio-available elements.\"\n  ],\n  \"research_subject\": \"Subglacial weathering processes and their impact on global biogeochemical cycles\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding the role of subglacial weathering processes in controlling global biogeochemical cycles is critical as global temperatures rise and ice-sheets retreat.\",\n    \"There is a need to investigate the redox conditions that control the release of vital nutrients and elements from contrasting subglacial environments.\"\n  ],\n  \"objectives\": [\n    \"Investigate the redox conditions that control nutrient and elemental release through a study of glacial outflows from contrasting subglacial environments.\",\n    \"Evaluate the importance of bedrock geology, regional climate, and type of glacier drainage basins in weathering processes and the release of bio-available elements.\",\n    \"Answer key questions about the relationship between the release of bioavailable elements and the redox state of the subglacial environment, and the impact on biogeochemical cycling downstream and nutrient supply.\"\n  ],\n  \"methods\": [\n    \"Use a novel multidisciplinary framework incorporating redox sensitive stable isotope proxies of iron and sulphur cycling and oxidation state to unique glaciated regions.\",\n    \"Study subglacial outflow environments that differ in bedrock geology, regional climate and type of individual glacier drainage basins using a combination of archived samples and focused field campaigns.\"\n  ],\n  \"results\": [\n    \"Provide insights into the redox conditions that control nutrient and elemental release from subglacial environments.\",\n    \"Enhance understanding of the role of subglacial weathering processes in global biogeochemical cycles.\",\n    \"Identify the key parameters that influence the release of bioavailable elements from the sub-glacial environment to rivers and oceans.\"\n  ],\n  \"research_subject\": \"Weathering and nutrient export from subglacial environments using a novel stable isotope approach\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Subglacial weathering processes play a critical role in controlling global biogeochemical cycles and the release of bioavailable elements to rivers and oceans.\",\n    \"As global temperatures rise and ice-sheets retreat, understanding how redox conditions in subglacial environments control nutrient and elemental release becomes increasingly important.\"\n  ],\n  \"objectives\": [\n    \"Investigate the redox conditions that control vital nutrient and elemental release through a study of glacial outflows from contrasting subglacial environments.\",\n    \"Evaluate how bedrock geology, regional climate, and glacier drainage basin types influence weathering processes and the release of bio-available elements.\",\n    \"Determine how the redox state of subglacial environments affects biogeochemical cycling downstream and nutrient supply.\"\n  ],\n  \"methods\": [\n    \"Apply novel redox sensitive stable isotope proxies (Mo, Fe and Se isotopes) to study iron and sulphur cycling and oxidation states in glaciated regions.\",\n    \"Analyze archived samples and conduct focused field campaigns across diverse subglacial outflow environments.\",\n    \"Compare weathering processes across different bedrock geologies, regional climates, and glacier drainage basin types.\"\n  ],\n  \"results\": [\n    \"Constrain the relationship between redox conditions in subglacial environments and the release of bioavailable elements.\",\n    \"Identify which environmental parameters most significantly influence subglacial weathering processes.\",\n    \"Improve understanding of how subglacial processes affect downstream biogeochemical cycling and nutrient supply to rivers and oceans.\"\n  ],\n  \"research_subject\": \"Subglacial weathering processes and nutrient export using stable isotope analysis\"\n}\n```"
+}

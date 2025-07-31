@@ -1,0 +1,56 @@
+{
+  "index": 342,
+  "title": "MULTI-CHAMBERED FUEL ENRICHMENT DEVICE",
+  "abstract": "A fuel enrichment device includes a body forming a first fuel chamber and a second fuel chamber. The second fuel chamber is adapted to contain a predetermined amount of enriching fuel to be provided to an engine. A normally open valve connects the first fuel chamber to the second fuel chamber. A normally closed valve for controls the provision of enriching fuel to the engine. The normally closed valve is open whenever the normally open valve is closed.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for a device that can efficiently and effectively enrich fuel for engine use."
+    ],
+    "objectives": [
+      "Design a fuel enrichment device that can provide a predetermined amount of enriching fuel to an engine."
+    ],
+    "methods": [
+      "Implement a multi-chambered design with a normally open valve and a normally closed valve to control fuel flow."
+    ],
+    "results": [
+      "Enable efficient and controlled provision of enriching fuel to an engine."
+    ],
+    "research_subject": "Fuel enrichment device for engine applications"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for a device that can effectively manage the provision of enriching fuel to an engine."
+    ],
+    "objectives": [
+      "Design a fuel enrichment device with two chambers and two valves to control the flow of enriching fuel to an engine."
+    ],
+    "methods": [
+      "Use a body to form a first and second fuel chamber, with the second chamber containing a predetermined amount of enriching fuel.",
+      "Implement a normally open valve to connect the first and second fuel chambers.",
+      "Control the provision of enriching fuel to the engine with a normally closed valve that opens when the normally open valve is closed."
+    ],
+    "results": [
+      "Provide a fuel enrichment device that can effectively manage the provision of enriching fuel to an engine."
+    ],
+    "research_subject": "Multi-chambered fuel enrichment device"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Engines require precise control of fuel enrichment to optimize performance and efficiency under varying operating conditions."
+    ],
+    "objectives": [
+      "Design a fuel enrichment device that can store and deliver predetermined amounts of enriching fuel to an engine with controlled valve operation."
+    ],
+    "methods": [
+      "Utilize a dual-chamber design with interconnected valves where a normally open valve controls flow between chambers and a normally closed valve manages fuel delivery to the engine.",
+      "Implement a valve system where the normally closed valve opens when the normally open valve closes, ensuring controlled fuel enrichment delivery."
+    ],
+    "results": [
+      "The device enables controlled delivery of predetermined amounts of enriching fuel to the engine through coordinated valve operation."
+    ],
+    "research_subject": "Multi-chambered fuel enrichment device with coordinated valve control"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a device that can efficiently and effectively enrich fuel for engine use.\"\n  ],\n  \"objectives\": [\n    \"Design a fuel enrichment device that can provide a predetermined amount of enriching fuel to an engine.\"\n  ],\n  \"methods\": [\n    \"Implement a multi-chambered design with a normally open valve and a normally closed valve to control fuel flow.\"\n  ],\n  \"results\": [\n    \"Enable efficient and controlled provision of enriching fuel to an engine.\"\n  ],\n  \"research_subject\": \"Fuel enrichment device for engine applications\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for a device that can effectively manage the provision of enriching fuel to an engine.\"\n  ],\n  \"objectives\": [\n    \"Design a fuel enrichment device with two chambers and two valves to control the flow of enriching fuel to an engine.\"\n  ],\n  \"methods\": [\n    \"Use a body to form a first and second fuel chamber, with the second chamber containing a predetermined amount of enriching fuel.\",\n    \"Implement a normally open valve to connect the first and second fuel chambers.\",\n    \"Control the provision of enriching fuel to the engine with a normally closed valve that opens when the normally open valve is closed.\"\n  ],\n  \"results\": [\n    \"Provide a fuel enrichment device that can effectively manage the provision of enriching fuel to an engine.\"\n  ],\n  \"research_subject\": \"Multi-chambered fuel enrichment device\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Engines require precise control of fuel enrichment to optimize performance and efficiency under varying operating conditions.\"\n  ],\n  \"objectives\": [\n    \"Design a fuel enrichment device that can store and deliver predetermined amounts of enriching fuel to an engine with controlled valve operation.\"\n  ],\n  \"methods\": [\n    \"Utilize a dual-chamber design with interconnected valves where a normally open valve controls flow between chambers and a normally closed valve manages fuel delivery to the engine.\",\n    \"Implement a valve system where the normally closed valve opens when the normally open valve closes, ensuring controlled fuel enrichment delivery.\"\n  ],\n  \"results\": [\n    \"The device enables controlled delivery of predetermined amounts of enriching fuel to the engine through coordinated valve operation.\"\n  ],\n  \"research_subject\": \"Multi-chambered fuel enrichment device with coordinated valve control\"\n}\n```"
+}

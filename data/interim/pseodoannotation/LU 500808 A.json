@@ -1,0 +1,62 @@
+{
+  "index": 118,
+  "title": "REAGENT FOR DETECTING AXILLARY LYMPH NODE METASTASIS OF BREAST CANCERS AND APPLICATION THEREOF",
+  "abstract": "The present invention discloses a reagent for detecting axillary lymph node metastasis of breast cancers and application thereof. Application of 18F-Alfatide II, or a combination of 18F-Alfatide II and 18F-FDG in PET/CT detection of axillary lymph node metastasis of breast cancers. A PET/CT tracer 18F-Alfatide II or 18F-FDG is intravenously injected into patients, followed by a PET/CT examination, 18F-Alfatide II T/NT has the highest Youden index (76.5%), specificity (100%), accuracy (89.2%), and positive predictive value (100%). These data indicates that 18F-Alfatide II T/NT may be the most valuable semi-quantitative parameter for evaluating axillary lymph nodes.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective detection methods for axillary lymph node metastasis in breast cancer patients.",
+      "Current methods may lack specificity, accuracy, or predictive value for evaluating axillary lymph nodes."
+    ],
+    "objectives": [
+      "Develop and apply a reagent for detecting axillary lymph node metastasis of breast cancers using PET/CT technology.",
+      "Evaluate the effectiveness of 18F-Alfatide II, alone or in combination with 18F-FDG, in detecting axillary lymph node metastasis."
+    ],
+    "methods": [
+      "Use PET/CT technology with 18F-Alfatide II or 18F-FDG as tracers for detecting axillary lymph node metastasis.",
+      "Conduct PET/CT examinations after intravenous injection of the tracer into patients."
+    ],
+    "results": [
+      "18F-Alfatide II T/NT shows high specificity, accuracy, and positive predictive value for evaluating axillary lymph nodes.",
+      "The reagent demonstrates potential as a valuable semi-quantitative parameter for detecting axillary lymph node metastasis."
+    ],
+    "research_subject": "Detection of axillary lymph node metastasis in breast cancer using PET/CT with 18F-Alfatide II"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective reagents to detect axillary lymph node metastasis in breast cancer patients."
+    ],
+    "objectives": [
+      "Evaluate the application of 18F-Alfatide II, alone or in combination with 18F-FDG, in PET/CT detection of axillary lymph node metastasis of breast cancers."
+    ],
+    "methods": [
+      "Intravenously inject PET/CT tracers 18F-Alfatide II or 18F-FDG into patients and conduct a PET/CT examination.",
+      "Evaluate the effectiveness of 18F-Alfatide II T/NT as a semi-quantitative parameter for evaluating axillary lymph nodes."
+    ],
+    "results": [
+      "18F-Alfatide II T/NT demonstrated high Youden index, specificity, accuracy, and positive predictive value, indicating its potential as a valuable parameter for evaluating axillary lymph nodes."
+    ],
+    "research_subject": "Detection of axillary lymph node metastasis of breast cancers using 18F-Alfatide II"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Accurate detection of axillary lymph node metastasis in breast cancer patients is crucial for staging and treatment planning.",
+      "Current methods for detecting lymph node metastasis may lack sufficient specificity and accuracy."
+    ],
+    "objectives": [
+      "Evaluate the effectiveness of 18F-Alfatide II as a PET/CT tracer for detecting axillary lymph node metastasis in breast cancer patients.",
+      "Compare the diagnostic performance of 18F-Alfatide II with 18F-FDG and assess their combined use."
+    ],
+    "methods": [
+      "Intravenous injection of PET/CT tracers 18F-Alfatide II and/or 18F-FDG followed by PET/CT examination.",
+      "Analysis of semi-quantitative parameters including T/NT ratios to evaluate diagnostic performance."
+    ],
+    "results": [
+      "18F-Alfatide II T/NT demonstrated the highest diagnostic performance with 76.5% Youden index, 100% specificity, 89.2% accuracy, and 100% positive predictive value.",
+      "18F-Alfatide II T/NT proved to be the most valuable semi-quantitative parameter for evaluating axillary lymph nodes in breast cancer patients."
+    ],
+    "research_subject": "PET/CT detection of axillary lymph node metastasis in breast cancer using 18F-Alfatide II"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective detection methods for axillary lymph node metastasis in breast cancer patients.\",\n    \"Current methods may lack specificity, accuracy, or predictive value for evaluating axillary lymph nodes.\"\n  ],\n  \"objectives\": [\n    \"Develop and apply a reagent for detecting axillary lymph node metastasis of breast cancers using PET/CT technology.\",\n    \"Evaluate the effectiveness of 18F-Alfatide II, alone or in combination with 18F-FDG, in detecting axillary lymph node metastasis.\"\n  ],\n  \"methods\": [\n    \"Use PET/CT technology with 18F-Alfatide II or 18F-FDG as tracers for detecting axillary lymph node metastasis.\",\n    \"Conduct PET/CT examinations after intravenous injection of the tracer into patients.\"\n  ],\n  \"results\": [\n    \"18F-Alfatide II T/NT shows high specificity, accuracy, and positive predictive value for evaluating axillary lymph nodes.\",\n    \"The reagent demonstrates potential as a valuable semi-quantitative parameter for detecting axillary lymph node metastasis.\"\n  ],\n  \"research_subject\": \"Detection of axillary lymph node metastasis in breast cancer using PET/CT with 18F-Alfatide II\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective reagents to detect axillary lymph node metastasis in breast cancer patients.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the application of 18F-Alfatide II, alone or in combination with 18F-FDG, in PET/CT detection of axillary lymph node metastasis of breast cancers.\"\n  ],\n  \"methods\": [\n    \"Intravenously inject PET/CT tracers 18F-Alfatide II or 18F-FDG into patients and conduct a PET/CT examination.\",\n    \"Evaluate the effectiveness of 18F-Alfatide II T/NT as a semi-quantitative parameter for evaluating axillary lymph nodes.\"\n  ],\n  \"results\": [\n    \"18F-Alfatide II T/NT demonstrated high Youden index, specificity, accuracy, and positive predictive value, indicating its potential as a valuable parameter for evaluating axillary lymph nodes.\"\n  ],\n  \"research_subject\": \"Detection of axillary lymph node metastasis of breast cancers using 18F-Alfatide II\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Accurate detection of axillary lymph node metastasis in breast cancer patients is crucial for staging and treatment planning.\",\n    \"Current methods for detecting lymph node metastasis may lack sufficient specificity and accuracy.\"\n  ],\n  \"objectives\": [\n    \"Evaluate the effectiveness of 18F-Alfatide II as a PET/CT tracer for detecting axillary lymph node metastasis in breast cancer patients.\",\n    \"Compare the diagnostic performance of 18F-Alfatide II with 18F-FDG and assess their combined use.\"\n  ],\n  \"methods\": [\n    \"Intravenous injection of PET/CT tracers 18F-Alfatide II and/or 18F-FDG followed by PET/CT examination.\",\n    \"Analysis of semi-quantitative parameters including T/NT ratios to evaluate diagnostic performance.\"\n  ],\n  \"results\": [\n    \"18F-Alfatide II T/NT demonstrated the highest diagnostic performance with 76.5% Youden index, 100% specificity, 89.2% accuracy, and 100% positive predictive value.\",\n    \"18F-Alfatide II T/NT proved to be the most valuable semi-quantitative parameter for evaluating axillary lymph nodes in breast cancer patients.\"\n  ],\n  \"research_subject\": \"PET/CT detection of axillary lymph node metastasis in breast cancer using 18F-Alfatide II\"\n}\n```"
+}

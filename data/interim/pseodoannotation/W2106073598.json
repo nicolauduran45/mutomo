@@ -1,0 +1,71 @@
+{
+  "index": 201,
+  "title": "Synthesis and characterization of starch-graft-polyacrylamide copolymers and their application as filtration control agents in drilling fluid",
+  "abstract": "Some starch-graft-polyacrylamide copolymers were prepared by the polymerization of corn starch with acrylamide in aqueous medium using a complex initiation system consisting of ceric ammonium sulphate and ammonium persulphate. The copolymers were applied to water-based drilling fluid as filtration control agents. Their grafting parameters such as percentage of grafting, grafting efficiency, and solution viscosity (η) were investigated by using elemental analyzer and rotational viscometer. The results showed that increases in initiator concentration and reaction temperature first favored and then impeded the grafting reaction. Grafting of acrylamide onto starch increased with the increase of monomer concentration. It also increased with increasing reaction time up to a certain degree and then leveled off. For the graft copolymers, a higher percentage of grafting and higher η were beneficial in decreasing the filtrate volume of water-based drilling fluid, even under an operating environments of 147°C and saturated salinity. A possible mechanism is proposed to interpret the improvement of fluid loss properties. J. VINYL ADDIT. TECHNOL., 2012. © 2012 Society of Plastics Engineers",
+  "llama_json": {
+    "motivations": [
+      "There is a need for effective filtration control agents in drilling fluids to minimize fluid loss during drilling operations.",
+      "Existing filtration control agents may not perform optimally under high-temperature and high-salinity conditions."
+    ],
+    "objectives": [
+      "Synthesize and characterize starch-graft-polyacrylamide copolymers as potential filtration control agents in drilling fluids.",
+      "Investigate the effects of grafting parameters on the performance of the copolymers in reducing fluid loss."
+    ],
+    "methods": [
+      "Prepare starch-graft-polyacrylamide copolymers through polymerization of corn starch with acrylamide in an aqueous medium.",
+      "Evaluate the grafting parameters, such as percentage of grafting, grafting efficiency, and solution viscosity, using elemental analyzer and rotational viscometer.",
+      "Apply the copolymers to water-based drilling fluid and assess their performance in reducing fluid loss under various operating conditions."
+    ],
+    "results": [
+      "The synthesized copolymers demonstrated improved fluid loss properties in drilling fluids, even under high-temperature and high-salinity conditions.",
+      "Higher percentage of grafting and higher solution viscosity were found to be beneficial in decreasing the filtrate volume of water-based drilling fluid."
+    ],
+    "research_subject": "Development of starch-graft-polyacrylamide copolymers as filtration control agents in drilling fluids"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for effective filtration control agents in water-based drilling fluid.",
+      "Understanding the grafting parameters of starch-graft-polyacrylamide copolymers can help optimize their application in drilling fluid."
+    ],
+    "objectives": [
+      "Synthesize starch-graft-polyacrylamide copolymers using a complex initiation system.",
+      "Investigate the grafting parameters such as percentage of grafting, grafting efficiency, and solution viscosity.",
+      "Evaluate the effectiveness of the copolymers as filtration control agents in water-based drilling fluid."
+    ],
+    "methods": [
+      "Use a complex initiation system consisting of ceric ammonium sulphate and ammonium persulphate for the polymerization of corn starch with acrylamide.",
+      "Measure grafting parameters using an elemental analyzer and a rotational viscometer.",
+      "Apply the synthesized copolymers to water-based drilling fluid and assess their filtration control performance."
+    ],
+    "results": [
+      "Grafting of acrylamide onto starch is influenced by initiator concentration, reaction temperature, monomer concentration, and reaction time.",
+      "Copolymers with a higher percentage of grafting and higher solution viscosity effectively decrease the filtrate volume of water-based drilling fluid, even under high temperature and saturated salinity conditions.",
+      "A mechanism is proposed to explain the improved fluid loss properties of the drilling fluid."
+    ],
+    "research_subject": "Synthesis, characterization, and application of starch-graft-polyacrylamide copolymers in drilling fluid"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Water-based drilling fluids require effective filtration control agents to minimize fluid loss during drilling operations.",
+      "There is a need for filtration control agents that can perform effectively under extreme conditions of high temperature and saturated salinity."
+    ],
+    "objectives": [
+      "Synthesize starch-graft-polyacrylamide copolymers and characterize their grafting parameters.",
+      "Evaluate the performance of these copolymers as filtration control agents in water-based drilling fluids under various operating conditions."
+    ],
+    "methods": [
+      "Polymerization of corn starch with acrylamide using a complex initiation system of ceric ammonium sulphate and ammonium persulphate.",
+      "Characterization of grafting parameters using elemental analyzer and rotational viscometer.",
+      "Testing of copolymers in water-based drilling fluids under varying conditions of temperature and salinity."
+    ],
+    "results": [
+      "Higher grafting percentage and solution viscosity in copolymers effectively reduced filtrate volume in drilling fluids.",
+      "The synthesized copolymers maintained performance as filtration control agents even under extreme conditions of 147°C and saturated salinity.",
+      "A mechanism was proposed to explain the improved fluid loss properties of the drilling fluids."
+    ],
+    "research_subject": "Starch-graft-polyacrylamide copolymers as filtration control agents in drilling fluids"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective filtration control agents in drilling fluids to minimize fluid loss during drilling operations.\",\n    \"Existing filtration control agents may not perform optimally under high-temperature and high-salinity conditions.\"\n  ],\n  \"objectives\": [\n    \"Synthesize and characterize starch-graft-polyacrylamide copolymers as potential filtration control agents in drilling fluids.\",\n    \"Investigate the effects of grafting parameters on the performance of the copolymers in reducing fluid loss.\"\n  ],\n  \"methods\": [\n    \"Prepare starch-graft-polyacrylamide copolymers through polymerization of corn starch with acrylamide in an aqueous medium.\",\n    \"Evaluate the grafting parameters, such as percentage of grafting, grafting efficiency, and solution viscosity, using elemental analyzer and rotational viscometer.\",\n    \"Apply the copolymers to water-based drilling fluid and assess their performance in reducing fluid loss under various operating conditions.\"\n  ],\n  \"results\": [\n    \"The synthesized copolymers demonstrated improved fluid loss properties in drilling fluids, even under high-temperature and high-salinity conditions.\",\n    \"Higher percentage of grafting and higher solution viscosity were found to be beneficial in decreasing the filtrate volume of water-based drilling fluid.\"\n  ],\n  \"research_subject\": \"Development of starch-graft-polyacrylamide copolymers as filtration control agents in drilling fluids\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for effective filtration control agents in water-based drilling fluid.\",\n    \"Understanding the grafting parameters of starch-graft-polyacrylamide copolymers can help optimize their application in drilling fluid.\"\n  ],\n  \"objectives\": [\n    \"Synthesize starch-graft-polyacrylamide copolymers using a complex initiation system.\",\n    \"Investigate the grafting parameters such as percentage of grafting, grafting efficiency, and solution viscosity.\",\n    \"Evaluate the effectiveness of the copolymers as filtration control agents in water-based drilling fluid.\"\n  ],\n  \"methods\": [\n    \"Use a complex initiation system consisting of ceric ammonium sulphate and ammonium persulphate for the polymerization of corn starch with acrylamide.\",\n    \"Measure grafting parameters using an elemental analyzer and a rotational viscometer.\",\n    \"Apply the synthesized copolymers to water-based drilling fluid and assess their filtration control performance.\"\n  ],\n  \"results\": [\n    \"Grafting of acrylamide onto starch is influenced by initiator concentration, reaction temperature, monomer concentration, and reaction time.\",\n    \"Copolymers with a higher percentage of grafting and higher solution viscosity effectively decrease the filtrate volume of water-based drilling fluid, even under high temperature and saturated salinity conditions.\",\n    \"A mechanism is proposed to explain the improved fluid loss properties of the drilling fluid.\"\n  ],\n  \"research_subject\": \"Synthesis, characterization, and application of starch-graft-polyacrylamide copolymers in drilling fluid\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Water-based drilling fluids require effective filtration control agents to minimize fluid loss during drilling operations.\",\n    \"There is a need for filtration control agents that can perform effectively under extreme conditions of high temperature and saturated salinity.\"\n  ],\n  \"objectives\": [\n    \"Synthesize starch-graft-polyacrylamide copolymers and characterize their grafting parameters.\",\n    \"Evaluate the performance of these copolymers as filtration control agents in water-based drilling fluids under various operating conditions.\"\n  ],\n  \"methods\": [\n    \"Polymerization of corn starch with acrylamide using a complex initiation system of ceric ammonium sulphate and ammonium persulphate.\",\n    \"Characterization of grafting parameters using elemental analyzer and rotational viscometer.\",\n    \"Testing of copolymers in water-based drilling fluids under varying conditions of temperature and salinity.\"\n  ],\n  \"results\": [\n    \"Higher grafting percentage and solution viscosity in copolymers effectively reduced filtrate volume in drilling fluids.\",\n    \"The synthesized copolymers maintained performance as filtration control agents even under extreme conditions of 147°C and saturated salinity.\",\n    \"A mechanism was proposed to explain the improved fluid loss properties of the drilling fluids.\"\n  ],\n  \"research_subject\": \"Starch-graft-polyacrylamide copolymers as filtration control agents in drilling fluids\"\n}\n```"
+}

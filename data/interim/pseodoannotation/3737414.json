@@ -1,0 +1,69 @@
+{
+  "index": 114,
+  "title": "Affective work-related daily events, and changing characteristics of the work context: new challenges for management practices to deliver employees’ well-being and workplace performance",
+  "abstract": "Affective experiences resulting from specific work-events are present everywhere in daily work. Its importance has been highlighted for both managers and researchers. However, research into the understanding of how contextual factors, such as job characteristics or management practices, influence work-related daily events, which in turn, affect individual performance and well-being has been narrow, incomplete, and problematic. This project aims to explore the relationships between new characteristics of the work context, daily events at work, performance management practices and other outcomes in a longitudinal approach. Accordingly, this project focuses on: (a) the work characteristics associated to workrelated daily events, over time; (b) the relationship between daily events and performance and health, over time; d) the influence of high performance management practices on those relationships. By addressing the relationship between contextual factors with work-related daily events at work over time, this project makes important contributions to theory development within the field. The findings may help managers to understand how daily events influences employees’ performance and well-being. Moreover, it will help to produce practical instruments and to develop strategies to deal with daily events that may improve productivity and quality of life at work.",
+  "llama_json": {
+    "motivations": [
+      "Research on the impact of work-related daily events on employee performance and well-being is limited and incomplete.",
+      "There is a need to understand how contextual factors, such as job characteristics and management practices, influence work-related daily events and their effects on employees."
+    ],
+    "objectives": [
+      "Explore the relationships between work context characteristics, daily events at work, performance management practices, and employee outcomes over time.",
+      "Investigate the influence of high-performance management practices on the relationships between daily events, performance, and health."
+    ],
+    "methods": [
+      "Conduct a longitudinal study to examine the relationships between work characteristics, daily events, and employee outcomes over time.",
+      "Analyze the impact of high-performance management practices on the relationships between daily events, performance, and health."
+    ],
+    "results": [
+      "Contribute to theory development in the field by addressing the relationship between contextual factors and work-related daily events over time.",
+      "Provide managers with practical insights and instruments to understand and manage the impact of daily events on employee performance and well-being."
+    ],
+    "research_subject": "The impact of work-related daily events and management practices on employee well-being and workplace performance"
+  },
+  "openai_json": {
+    "motivations": [
+      "Understanding of how job characteristics and management practices influence work-related daily events, which affect individual performance and well-being, is incomplete and problematic.",
+      "There is a need to explore the relationships between new characteristics of the work context, daily events at work, and performance management practices."
+    ],
+    "objectives": [
+      "Explore the work characteristics associated with work-related daily events over time.",
+      "Investigate the relationship between daily events and performance and health over time.",
+      "Examine the influence of high performance management practices on the relationships between work characteristics, daily events, and performance."
+    ],
+    "methods": [
+      "Employ a longitudinal approach to study the relationships between work context characteristics, daily events, and performance management practices.",
+      "Develop practical instruments and strategies to deal with daily events that may improve productivity and quality of life at work."
+    ],
+    "results": [
+      "Provide insights that may help managers understand how daily events influence employees’ performance and well-being.",
+      "Contribute to theory development within the field of work-related daily events and their impact on performance and well-being.",
+      "Develop practical tools and strategies to improve productivity and quality of life at work."
+    ],
+    "research_subject": "Influence of work-related daily events and work context characteristics on employee performance and well-being"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Research on how contextual factors like job characteristics and management practices influence work-related daily events and their impact on performance and well-being has been narrow and incomplete.",
+      "There is a need to understand the longitudinal relationships between workplace context, daily affective experiences, and employee outcomes to improve management strategies."
+    ],
+    "objectives": [
+      "Explore the relationships between new work context characteristics, daily work events, performance management practices, and employee outcomes using a longitudinal approach.",
+      "Examine how work characteristics relate to daily events over time and how these events influence performance and health.",
+      "Investigate the role of high performance management practices in moderating these relationships."
+    ],
+    "methods": [
+      "Conduct longitudinal research to track the relationships between work characteristics, daily events, and outcomes over time.",
+      "Analyze the influence of performance management practices on the relationship between daily events and employee outcomes."
+    ],
+    "results": [
+      "Contribute to theory development by clarifying how contextual factors relate to work-related daily events and their outcomes.",
+      "Provide managers with insights on how daily events influence employee performance and well-being.",
+      "Develop practical instruments and strategies to manage daily events that enhance productivity and quality of life at work."
+    ],
+    "research_subject": "Work-related daily affective events and their relationship with workplace context, management practices, and employee outcomes"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Research on the impact of work-related daily events on employee performance and well-being is limited and incomplete.\",\n    \"There is a need to understand how contextual factors, such as job characteristics and management practices, influence work-related daily events and their effects on employees.\"\n  ],\n  \"objectives\": [\n    \"Explore the relationships between work context characteristics, daily events at work, performance management practices, and employee outcomes over time.\",\n    \"Investigate the influence of high-performance management practices on the relationships between daily events, performance, and health.\"\n  ],\n  \"methods\": [\n    \"Conduct a longitudinal study to examine the relationships between work characteristics, daily events, and employee outcomes over time.\",\n    \"Analyze the impact of high-performance management practices on the relationships between daily events, performance, and health.\"\n  ],\n  \"results\": [\n    \"Contribute to theory development in the field by addressing the relationship between contextual factors and work-related daily events over time.\",\n    \"Provide managers with practical insights and instruments to understand and manage the impact of daily events on employee performance and well-being.\"\n  ],\n  \"research_subject\": \"The impact of work-related daily events and management practices on employee well-being and workplace performance\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding of how job characteristics and management practices influence work-related daily events, which affect individual performance and well-being, is incomplete and problematic.\",\n    \"There is a need to explore the relationships between new characteristics of the work context, daily events at work, and performance management practices.\"\n  ],\n  \"objectives\": [\n    \"Explore the work characteristics associated with work-related daily events over time.\",\n    \"Investigate the relationship between daily events and performance and health over time.\",\n    \"Examine the influence of high performance management practices on the relationships between work characteristics, daily events, and performance.\"\n  ],\n  \"methods\": [\n    \"Employ a longitudinal approach to study the relationships between work context characteristics, daily events, and performance management practices.\",\n    \"Develop practical instruments and strategies to deal with daily events that may improve productivity and quality of life at work.\"\n  ],\n  \"results\": [\n    \"Provide insights that may help managers understand how daily events influence employees’ performance and well-being.\",\n    \"Contribute to theory development within the field of work-related daily events and their impact on performance and well-being.\",\n    \"Develop practical tools and strategies to improve productivity and quality of life at work.\"\n  ],\n  \"research_subject\": \"Influence of work-related daily events and work context characteristics on employee performance and well-being\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Research on how contextual factors like job characteristics and management practices influence work-related daily events and their impact on performance and well-being has been narrow and incomplete.\",\n    \"There is a need to understand the longitudinal relationships between workplace context, daily affective experiences, and employee outcomes to improve management strategies.\"\n  ],\n  \"objectives\": [\n    \"Explore the relationships between new work context characteristics, daily work events, performance management practices, and employee outcomes using a longitudinal approach.\",\n    \"Examine how work characteristics relate to daily events over time and how these events influence performance and health.\",\n    \"Investigate the role of high performance management practices in moderating these relationships.\"\n  ],\n  \"methods\": [\n    \"Conduct longitudinal research to track the relationships between work characteristics, daily events, and outcomes over time.\",\n    \"Analyze the influence of performance management practices on the relationship between daily events and employee outcomes.\"\n  ],\n  \"results\": [\n    \"Contribute to theory development by clarifying how contextual factors relate to work-related daily events and their outcomes.\",\n    \"Provide managers with insights on how daily events influence employee performance and well-being.\",\n    \"Develop practical instruments and strategies to manage daily events that enhance productivity and quality of life at work.\"\n  ],\n  \"research_subject\": \"Work-related daily affective events and their relationship with workplace context, management practices, and employee outcomes\"\n}\n```"
+}

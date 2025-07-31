@@ -1,0 +1,62 @@
+{
+  "index": 188,
+  "title": "Online-shop operating method for purchasing goods, involves assigning controlling unit to server, which records input entry, output entry and purchasing entry that are accumulated in frame of communication between client computer and server",
+  "abstract": "The method involves assigning decision logic (1) to a server. A shopping basket value (A), offering costs (B), acceptance probability (C) and probability for a purchase failure (D) are determined as input parameters, where the decision logic calculates an excepted benefit. A positive excepted benefit is provided to customer. A controlling unit is assigned to the server, which records an input entry, output entry and a purchasing entry that are accumulated in a frame of communication between a client computer and the server.",
+  "llama_json": {
+    "motivations": [
+      "There is a need for an efficient online shopping method that considers various factors to optimize the purchasing process."
+    ],
+    "objectives": [
+      "Develop an online-shop operating method that calculates an expected benefit for customers based on input parameters.",
+      "Assign a controlling unit to the server to record and manage communication between the client computer and the server."
+    ],
+    "methods": [
+      "Assign decision logic to a server to calculate an expected benefit based on input parameters such as shopping basket value, offering costs, acceptance probability, and probability for a purchase failure.",
+      "Use a controlling unit to record input entry, output entry, and purchasing entry accumulated during communication between the client computer and the server."
+    ],
+    "results": [
+      "Provide customers with a positive expected benefit to enhance their online shopping experience."
+    ],
+    "research_subject": "Development of an efficient online-shop operating method for purchasing goods"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need for an efficient online shopping method that can calculate expected benefits and reduce the probability of purchase failure."
+    ],
+    "objectives": [
+      "Develop an online-shop operating method that assigns decision logic to a server to calculate expected benefits based on various parameters.",
+      "Record and manage input, output, and purchasing entries accumulated during client-server communication."
+    ],
+    "methods": [
+      "Assign decision logic to a server to calculate expected benefits based on parameters such as shopping basket value, offering costs, acceptance probability, and probability for a purchase failure.",
+      "Assign a controlling unit to the server to record and manage entries accumulated during client-server communication."
+    ],
+    "results": [
+      "Provide customers with a positive expected benefit.",
+      "Reduce the probability of purchase failure in online shopping."
+    ],
+    "research_subject": "Online-shop operating method for efficient purchasing of goods"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Online shopping systems need optimized decision-making mechanisms to balance customer satisfaction with business profitability.",
+      "There is a need for systematic tracking and analysis of customer interactions and purchasing behaviors in e-commerce platforms."
+    ],
+    "objectives": [
+      "Develop a server-based decision logic system that calculates expected benefits based on shopping parameters to optimize purchasing decisions.",
+      "Implement a comprehensive tracking system to record and accumulate customer interaction data during online shopping sessions."
+    ],
+    "methods": [
+      "Implement server-side decision logic that processes input parameters including shopping basket value, offering costs, acceptance probability, and purchase failure probability.",
+      "Deploy a controlling unit on the server to systematically record input, output, and purchasing entries during client-server communications."
+    ],
+    "results": [
+      "Enable automated calculation and provision of positive expected benefits to customers based on real-time shopping parameters.",
+      "Establish comprehensive data collection of customer interactions for improved business intelligence and decision-making."
+    ],
+    "research_subject": "Server-based decision logic and tracking system for online shopping optimization"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient online shopping method that considers various factors to optimize the purchasing process.\"\n  ],\n  \"objectives\": [\n    \"Develop an online-shop operating method that calculates an expected benefit for customers based on input parameters.\",\n    \"Assign a controlling unit to the server to record and manage communication between the client computer and the server.\"\n  ],\n  \"methods\": [\n    \"Assign decision logic to a server to calculate an expected benefit based on input parameters such as shopping basket value, offering costs, acceptance probability, and probability for a purchase failure.\",\n    \"Use a controlling unit to record input entry, output entry, and purchasing entry accumulated during communication between the client computer and the server.\"\n  ],\n  \"results\": [\n    \"Provide customers with a positive expected benefit to enhance their online shopping experience.\"\n  ],\n  \"research_subject\": \"Development of an efficient online-shop operating method for purchasing goods\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need for an efficient online shopping method that can calculate expected benefits and reduce the probability of purchase failure.\"\n  ],\n  \"objectives\": [\n    \"Develop an online-shop operating method that assigns decision logic to a server to calculate expected benefits based on various parameters.\",\n    \"Record and manage input, output, and purchasing entries accumulated during client-server communication.\"\n  ],\n  \"methods\": [\n    \"Assign decision logic to a server to calculate expected benefits based on parameters such as shopping basket value, offering costs, acceptance probability, and probability for a purchase failure.\",\n    \"Assign a controlling unit to the server to record and manage entries accumulated during client-server communication.\"\n  ],\n  \"results\": [\n    \"Provide customers with a positive expected benefit.\",\n    \"Reduce the probability of purchase failure in online shopping.\"\n  ],\n  \"research_subject\": \"Online-shop operating method for efficient purchasing of goods\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Online shopping systems need optimized decision-making mechanisms to balance customer satisfaction with business profitability.\",\n    \"There is a need for systematic tracking and analysis of customer interactions and purchasing behaviors in e-commerce platforms.\"\n  ],\n  \"objectives\": [\n    \"Develop a server-based decision logic system that calculates expected benefits based on shopping parameters to optimize purchasing decisions.\",\n    \"Implement a comprehensive tracking system to record and accumulate customer interaction data during online shopping sessions.\"\n  ],\n  \"methods\": [\n    \"Implement server-side decision logic that processes input parameters including shopping basket value, offering costs, acceptance probability, and purchase failure probability.\",\n    \"Deploy a controlling unit on the server to systematically record input, output, and purchasing entries during client-server communications.\"\n  ],\n  \"results\": [\n    \"Enable automated calculation and provision of positive expected benefits to customers based on real-time shopping parameters.\",\n    \"Establish comprehensive data collection of customer interactions for improved business intelligence and decision-making.\"\n  ],\n  \"research_subject\": \"Server-based decision logic and tracking system for online shopping optimization\"\n}\n```"
+}

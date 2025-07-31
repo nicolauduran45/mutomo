@@ -1,0 +1,68 @@
+{
+  "index": 453,
+  "title": "Knowledge-Based Economic Policy Development in the Arab World",
+  "abstract": "The Arab world is one of the fastest growing economies in the world. In order to keep up with the ever-progressing and expanding developments, advancements must be made with the current systems process and procedures. Knowledge-Based Economic Policy Development in the Arab World focuses on knowledge economy as the most important engine for economic growth and development under the globalising world economies. This publication analyses the major issues that constrain further access to knowledge economy in the Arab countries with comparisons in Eastern and Central European economies. Researchers, business practitioners and academics interested in new economic and development inclusive growth policies will benefit greatly from the wide variety of discussion in this publication.",
+  "llama_json": {
+    "motivations": [
+      "The Arab world needs to adapt its economic policies to keep pace with rapid economic growth and global developments.",
+      "Existing systems, processes, and procedures in the Arab world require advancements to support sustainable economic development."
+    ],
+    "objectives": [
+      "Analyze the major issues limiting access to the knowledge economy in Arab countries.",
+      "Develop knowledge-based economic policies to drive growth and development in the Arab world."
+    ],
+    "methods": [
+      "Compare the Arab countries' knowledge economy with Eastern and Central European economies.",
+      "Discuss new economic and development policies for inclusive growth."
+    ],
+    "results": [
+      "Inform researchers, business practitioners, and academics on effective knowledge-based economic policies.",
+      "Support the development of inclusive growth policies in the Arab world."
+    ],
+    "research_subject": "Knowledge-based economic policy development in the Arab world"
+  },
+  "openai_json": {
+    "motivations": [
+      "The Arab world is experiencing rapid economic growth and needs to adapt its systems, processes, and procedures to keep pace.",
+      "There is a need to understand the role of knowledge economy as a key driver for economic growth and development in the context of globalizing economies.",
+      "There are constraints limiting access to knowledge economy in the Arab countries, which need to be analyzed and addressed."
+    ],
+    "objectives": [
+      "Analyze the role of knowledge economy in driving economic growth and development in the Arab world.",
+      "Identify and discuss the major issues that constrain access to knowledge economy in the Arab countries, with comparisons to Eastern and Central European economies.",
+      "Provide insights that can guide the development of new economic and inclusive growth policies."
+    ],
+    "methods": [
+      "Conduct a comparative analysis of the constraints to knowledge economy in the Arab countries and Eastern and Central European economies.",
+      "Analyze the role and impact of knowledge economy in economic growth and development."
+    ],
+    "results": [
+      "Provide insights into the role of knowledge economy in economic growth and development in the Arab world.",
+      "Identify the major constraints to access to knowledge economy in the Arab countries.",
+      "Inform the development of new economic and inclusive growth policies."
+    ],
+    "research_subject": "Knowledge-Based Economic Policy Development in the Arab World"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "The Arab world's rapid economic growth requires advancement in current systems and procedures to maintain competitiveness in the global economy.",
+      "There is a need to identify and address constraints that limit Arab countries' access to knowledge-based economies."
+    ],
+    "objectives": [
+      "Analyze the major issues constraining Arab countries' transition to knowledge-based economies and compare them with Eastern and Central European economies.",
+      "Develop insights for knowledge-based economic policy development to support economic growth in the Arab world."
+    ],
+    "methods": [
+      "Comparative analysis of economic constraints between Arab countries and Eastern and Central European economies.",
+      "Examination of knowledge economy as a driver for economic growth and development in globalizing economies."
+    ],
+    "results": [
+      "Identification of key constraints limiting knowledge economy development in Arab countries.",
+      "Provision of policy insights to support inclusive economic growth and development in the Arab world."
+    ],
+    "research_subject": "Knowledge-based economic policy development in Arab countries"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"The Arab world needs to adapt its economic policies to keep pace with rapid economic growth and global developments.\",\n    \"Existing systems, processes, and procedures in the Arab world require advancements to support sustainable economic development.\"\n  ],\n  \"objectives\": [\n    \"Analyze the major issues limiting access to the knowledge economy in Arab countries.\",\n    \"Develop knowledge-based economic policies to drive growth and development in the Arab world.\"\n  ],\n  \"methods\": [\n    \"Compare the Arab countries' knowledge economy with Eastern and Central European economies.\",\n    \"Discuss new economic and development policies for inclusive growth.\"\n  ],\n  \"results\": [\n    \"Inform researchers, business practitioners, and academics on effective knowledge-based economic policies.\",\n    \"Support the development of inclusive growth policies in the Arab world.\"\n  ],\n  \"research_subject\": \"Knowledge-based economic policy development in the Arab world\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"The Arab world is experiencing rapid economic growth and needs to adapt its systems, processes, and procedures to keep pace.\",\n    \"There is a need to understand the role of knowledge economy as a key driver for economic growth and development in the context of globalizing economies.\",\n    \"There are constraints limiting access to knowledge economy in the Arab countries, which need to be analyzed and addressed.\"\n  ],\n  \"objectives\": [\n    \"Analyze the role of knowledge economy in driving economic growth and development in the Arab world.\",\n    \"Identify and discuss the major issues that constrain access to knowledge economy in the Arab countries, with comparisons to Eastern and Central European economies.\",\n    \"Provide insights that can guide the development of new economic and inclusive growth policies.\"\n  ],\n  \"methods\": [\n    \"Conduct a comparative analysis of the constraints to knowledge economy in the Arab countries and Eastern and Central European economies.\",\n    \"Analyze the role and impact of knowledge economy in economic growth and development.\"\n  ],\n  \"results\": [\n    \"Provide insights into the role of knowledge economy in economic growth and development in the Arab world.\",\n    \"Identify the major constraints to access to knowledge economy in the Arab countries.\",\n    \"Inform the development of new economic and inclusive growth policies.\"\n  ],\n  \"research_subject\": \"Knowledge-Based Economic Policy Development in the Arab World\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"The Arab world's rapid economic growth requires advancement in current systems and procedures to maintain competitiveness in the global economy.\",\n    \"There is a need to identify and address constraints that limit Arab countries' access to knowledge-based economies.\"\n  ],\n  \"objectives\": [\n    \"Analyze the major issues constraining Arab countries' transition to knowledge-based economies and compare them with Eastern and Central European economies.\",\n    \"Develop insights for knowledge-based economic policy development to support economic growth in the Arab world.\"\n  ],\n  \"methods\": [\n    \"Comparative analysis of economic constraints between Arab countries and Eastern and Central European economies.\",\n    \"Examination of knowledge economy as a driver for economic growth and development in globalizing economies.\"\n  ],\n  \"results\": [\n    \"Identification of key constraints limiting knowledge economy development in Arab countries.\",\n    \"Provision of policy insights to support inclusive economic growth and development in the Arab world.\"\n  ],\n  \"research_subject\": \"Knowledge-based economic policy development in Arab countries\"\n}\n```"
+}

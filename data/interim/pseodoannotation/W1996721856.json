@@ -1,0 +1,66 @@
+{
+  "index": 19,
+  "title": "PARIS project: Radiolytic oxidation of molecular iodine in containment during a nuclear reactor severe accident: Part 2. Formation and destruction of iodine oxides compounds under irradiation – Experimental results modelling",
+  "abstract": "Abstract In the case of a severe accident in a nuclear Light Water Reactor (LWR), the high radiation fields reached in the reactor containment building due to the release of fission products from the reactor core would induce air radiolysis. The air radiolysis products (ARP) could, in turn, oxidise gaseous molecular iodine (I2) into aerosol-borne iodine–oxygen–nitrogen compounds, abbreviated as iodine oxides (IOx). These reactions involve the conversion of a gaseous iodine compound resulting in a change of the iodine depletion rate from the containment atmosphere. Kinetic data were produced within the first part of PARIS project on the air radiolysis products formation and destruction. The second part of the PARIS project as presented in this paper deals with the impact of the ARP on the conversion of I2 into IOx. The objective was to provide a database to develop new or to validate existing kinetic models of formation and destruction of iodine oxides. The iodine tests of the PARIS project, performed at very low, realistic iodine concentrations, constitute an important database to further develop or validate empirical and mechanistic models on radiolytic I2 oxidation. In the presence of painted surface areas or silver aerosol surface areas, radiolytic I2 oxidation is negligible compared to I2 adsorption on these surfaces for the conditions examined. However, radiolytic I2 oxidation remains very efficient if surface areas are small or if they are made of the relatively non-reactive stainless steel.",
+  "llama_json": {
+    "motivations": [
+      "Severe accidents in nuclear Light Water Reactors can lead to the release of fission products, inducing air radiolysis and potentially oxidizing molecular iodine into iodine oxides.",
+      "There is a need for a comprehensive understanding of the formation and destruction of iodine oxides under irradiation to accurately model their behavior."
+    ],
+    "objectives": [
+      "Investigate the impact of air radiolysis products on the conversion of molecular iodine into iodine oxides.",
+      "Develop a database to validate existing or create new kinetic models for the formation and destruction of iodine oxides."
+    ],
+    "methods": [
+      "Conduct experiments to produce kinetic data on the formation and destruction of air radiolysis products and their effect on iodine oxides.",
+      "Perform iodine tests at low, realistic concentrations to develop or validate empirical and mechanistic models of radiolytic iodine oxidation."
+    ],
+    "results": [
+      "Radiolytic oxidation of molecular iodine is negligible compared to adsorption on painted or silver aerosol surfaces under certain conditions.",
+      "Radiolytic iodine oxidation remains efficient in the presence of small or non-reactive stainless steel surfaces."
+    ],
+    "research_subject": "Radiolytic oxidation of molecular iodine and formation of iodine oxides during a nuclear reactor severe accident"
+  },
+  "openai_json": {
+    "motivations": [
+      "In the event of a severe nuclear reactor accident, the high radiation fields could induce air radiolysis, potentially oxidizing gaseous molecular iodine into iodine oxides, affecting the iodine depletion rate.",
+      "There is a need for a comprehensive database to develop or validate kinetic models of iodine oxides formation and destruction."
+    ],
+    "objectives": [
+      "Investigate the impact of air radiolysis products on the conversion of molecular iodine into iodine oxides during a severe nuclear reactor accident.",
+      "Provide a database to develop new or validate existing kinetic models of iodine oxides formation and destruction."
+    ],
+    "methods": [
+      "Conduct iodine tests under realistic conditions to study the formation and destruction of iodine oxides.",
+      "Examine the effect of different surface areas, including painted surfaces, silver aerosol surfaces, and stainless steel, on radiolytic iodine oxidation."
+    ],
+    "results": [
+      "Radiolytic iodine oxidation is negligible compared to iodine adsorption on painted or silver aerosol surfaces under the examined conditions.",
+      "Radiolytic iodine oxidation remains efficient if surface areas are small or made of relatively non-reactive stainless steel."
+    ],
+    "research_subject": "Radiolytic oxidation of molecular iodine in containment during a nuclear reactor severe accident"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "High radiation fields during severe nuclear reactor accidents induce air radiolysis, which can oxidize gaseous molecular iodine into aerosol-borne iodine oxides, affecting iodine behavior in containment.",
+      "Understanding the formation and destruction of iodine oxides under irradiation is crucial for predicting iodine depletion rates and improving nuclear safety assessments."
+    ],
+    "objectives": [
+      "Investigate the impact of air radiolysis products on the conversion of molecular iodine into iodine oxides under irradiation conditions.",
+      "Provide experimental data to develop and validate kinetic models for the formation and destruction of iodine oxides in nuclear reactor containment scenarios."
+    ],
+    "methods": [
+      "Conduct experimental tests at low, realistic iodine concentrations to study radiolytic oxidation processes.",
+      "Examine the influence of different surface materials (painted surfaces, silver aerosols, stainless steel) on iodine oxidation and adsorption."
+    ],
+    "results": [
+      "Radiolytic iodine oxidation is negligible compared to surface adsorption when painted or silver aerosol surfaces are present.",
+      "Radiolytic oxidation remains highly efficient when surface areas are small or composed of non-reactive stainless steel.",
+      "Generated experimental database enables development and validation of empirical and mechanistic models for iodine oxide behavior."
+    ],
+    "research_subject": "Radiolytic oxidation of molecular iodine and formation of iodine oxides during nuclear reactor severe accidents"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Severe accidents in nuclear Light Water Reactors can lead to the release of fission products, inducing air radiolysis and potentially oxidizing molecular iodine into iodine oxides.\",\n    \"There is a need for a comprehensive understanding of the formation and destruction of iodine oxides under irradiation to accurately model their behavior.\"\n  ],\n  \"objectives\": [\n    \"Investigate the impact of air radiolysis products on the conversion of molecular iodine into iodine oxides.\",\n    \"Develop a database to validate existing or create new kinetic models for the formation and destruction of iodine oxides.\"\n  ],\n  \"methods\": [\n    \"Conduct experiments to produce kinetic data on the formation and destruction of air radiolysis products and their effect on iodine oxides.\",\n    \"Perform iodine tests at low, realistic concentrations to develop or validate empirical and mechanistic models of radiolytic iodine oxidation.\"\n  ],\n  \"results\": [\n    \"Radiolytic oxidation of molecular iodine is negligible compared to adsorption on painted or silver aerosol surfaces under certain conditions.\",\n    \"Radiolytic iodine oxidation remains efficient in the presence of small or non-reactive stainless steel surfaces.\"\n  ],\n  \"research_subject\": \"Radiolytic oxidation of molecular iodine and formation of iodine oxides during a nuclear reactor severe accident\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"In the event of a severe nuclear reactor accident, the high radiation fields could induce air radiolysis, potentially oxidizing gaseous molecular iodine into iodine oxides, affecting the iodine depletion rate.\",\n    \"There is a need for a comprehensive database to develop or validate kinetic models of iodine oxides formation and destruction.\"\n  ],\n  \"objectives\": [\n    \"Investigate the impact of air radiolysis products on the conversion of molecular iodine into iodine oxides during a severe nuclear reactor accident.\",\n    \"Provide a database to develop new or validate existing kinetic models of iodine oxides formation and destruction.\"\n  ],\n  \"methods\": [\n    \"Conduct iodine tests under realistic conditions to study the formation and destruction of iodine oxides.\",\n    \"Examine the effect of different surface areas, including painted surfaces, silver aerosol surfaces, and stainless steel, on radiolytic iodine oxidation.\"\n  ],\n  \"results\": [\n    \"Radiolytic iodine oxidation is negligible compared to iodine adsorption on painted or silver aerosol surfaces under the examined conditions.\",\n    \"Radiolytic iodine oxidation remains efficient if surface areas are small or made of relatively non-reactive stainless steel.\"\n  ],\n  \"research_subject\": \"Radiolytic oxidation of molecular iodine in containment during a nuclear reactor severe accident\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"High radiation fields during severe nuclear reactor accidents induce air radiolysis, which can oxidize gaseous molecular iodine into aerosol-borne iodine oxides, affecting iodine behavior in containment.\",\n    \"Understanding the formation and destruction of iodine oxides under irradiation is crucial for predicting iodine depletion rates and improving nuclear safety assessments.\"\n  ],\n  \"objectives\": [\n    \"Investigate the impact of air radiolysis products on the conversion of molecular iodine into iodine oxides under irradiation conditions.\",\n    \"Provide experimental data to develop and validate kinetic models for the formation and destruction of iodine oxides in nuclear reactor containment scenarios.\"\n  ],\n  \"methods\": [\n    \"Conduct experimental tests at low, realistic iodine concentrations to study radiolytic oxidation processes.\",\n    \"Examine the influence of different surface materials (painted surfaces, silver aerosols, stainless steel) on iodine oxidation and adsorption.\"\n  ],\n  \"results\": [\n    \"Radiolytic iodine oxidation is negligible compared to surface adsorption when painted or silver aerosol surfaces are present.\",\n    \"Radiolytic oxidation remains highly efficient when surface areas are small or composed of non-reactive stainless steel.\",\n    \"Generated experimental database enables development and validation of empirical and mechanistic models for iodine oxide behavior.\"\n  ],\n  \"research_subject\": \"Radiolytic oxidation of molecular iodine and formation of iodine oxides during nuclear reactor severe accidents\"\n}\n```"
+}

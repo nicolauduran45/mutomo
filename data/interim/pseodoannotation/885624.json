@@ -1,0 +1,75 @@
+{
+  "index": 389,
+  "title": "Simulated majorana states",
+  "abstract": "Quantum computation using topologically protected Majorana bound states is a promising direction towards scalable quantum architectures due to their inherent noise immunity provided by the nonlocal storage of quantum information. Thus far, Majorana states have mostly been investigated in superconductor-semiconductor heterostructures which rely on induced superconductivity in a quasi-one-dimensional conductor. However, despite tremendous efforts in material development, these devices are still limited by uncontrolled local fluctuations due to disorder and it is unclear if future developments will solve these problems. Furthermore, disorder may even mimic the transport signatures of topological ordering, hindering an unambiguous identification of the Majorana states. Here I propose a way to overcome these limitations: I will work towards the direct quantum simulation of the one dimensional topological superconductor with Majorana bound states. I will use chains of semiconductor quantum dots, which is an emerging platform to simulate exotic many-body electron states. Building on this platform, I will be able to demonstrate for the first time the emergence of coherent, non-local superconducting states bound to the entire device similarly to the Kitaev chain model of topological superconductivity. To demonstrate quantum coherence of the chain, we will build the first Andreev molecule quantum bit, which, while not topologically protected, will already combine advantages of superconducting and semiconductor qubits. Going one step further, we will investigate the simulated Kitaev chain. Upon establishing the presence of the simulated Majorana states, we will work towards a simple braiding protocol to demonstrate the non-Abelian nature of the edge modes. This research direction, combining the scalability of semiconductor structures and the topological protection of Majorana states, will open new avenues towards universal quantum computation.",
+  "llama_json": {
+    "motivations": [
+      "Current Majorana state implementations in superconductor-semiconductor heterostructures are limited by uncontrolled local fluctuations due to disorder.",
+      "Disorder can mimic the transport signatures of topological ordering, hindering the unambiguous identification of Majorana states."
+    ],
+    "objectives": [
+      "Directly simulate a one-dimensional topological superconductor with Majorana bound states using chains of semiconductor quantum dots.",
+      "Demonstrate the emergence of coherent, non-local superconducting states bound to the entire device.",
+      "Investigate the simulated Kitaev chain and establish the presence of simulated Majorana states."
+    ],
+    "methods": [
+      "Use chains of semiconductor quantum dots as a platform to simulate exotic many-body electron states.",
+      "Build the first Andreev molecule quantum bit to demonstrate quantum coherence of the chain.",
+      "Implement a simple braiding protocol to demonstrate the non-Abelian nature of the edge modes."
+    ],
+    "results": [
+      "Overcome the limitations of current Majorana state implementations and provide a scalable platform for topological quantum computation.",
+      "Demonstrate the emergence of coherent, non-local superconducting states and the presence of simulated Majorana states.",
+      "Open new avenues towards universal quantum computation by combining the scalability of semiconductor structures and the topological protection of Majorana states."
+    ],
+    "research_subject": "Quantum simulation of topological superconductors with Majorana bound states using semiconductor quantum dots"
+  },
+  "openai_json": {
+    "motivations": [
+      "Current quantum computation architectures using Majorana bound states are limited by uncontrolled local fluctuations due to disorder.",
+      "The identification of Majorana states is hindered by disorder mimicking the transport signatures of topological ordering."
+    ],
+    "objectives": [
+      "Simulate a one-dimensional topological superconductor with Majorana bound states using chains of semiconductor quantum dots.",
+      "Demonstrate the emergence of coherent, non-local superconducting states bound to the entire device.",
+      "Establish the presence of simulated Majorana states and demonstrate their non-Abelian nature through a simple braiding protocol."
+    ],
+    "methods": [
+      "Use chains of semiconductor quantum dots to simulate exotic many-body electron states.",
+      "Build the first Andreev molecule quantum bit to demonstrate quantum coherence of the chain.",
+      "Implement a simple braiding protocol to demonstrate the non-Abelian nature of the edge modes."
+    ],
+    "results": [
+      "Overcome limitations of current quantum computation architectures by simulating Majorana bound states.",
+      "Demonstrate the emergence of coherent, non-local superconducting states.",
+      "Establish the presence of simulated Majorana states and their non-Abelian nature."
+    ],
+    "research_subject": "Simulation of Majorana states for scalable quantum architectures"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current Majorana state implementations in superconductor-semiconductor heterostructures suffer from uncontrolled local fluctuations due to disorder, limiting their reliability.",
+      "Disorder in existing devices can mimic topological transport signatures, making it difficult to unambiguously identify genuine Majorana states.",
+      "There is a need for alternative approaches to realize topologically protected quantum computation that overcome material limitations."
+    ],
+    "objectives": [
+      "Develop a direct quantum simulation of one-dimensional topological superconductors with Majorana bound states using semiconductor quantum dot chains.",
+      "Demonstrate the emergence of coherent, non-local superconducting states and build the first Andreev molecule quantum bit.",
+      "Establish the presence of simulated Majorana states and implement a braiding protocol to demonstrate their non-Abelian nature."
+    ],
+    "methods": [
+      "Use chains of semiconductor quantum dots as a platform to simulate exotic many-body electron states and the Kitaev chain model.",
+      "Develop quantum coherence demonstrations through the construction of an Andreev molecule quantum bit.",
+      "Implement braiding protocols to verify the non-Abelian properties of the simulated Majorana edge modes."
+    ],
+    "results": [
+      "Creation of a new platform for topological quantum computation that combines semiconductor scalability with topological protection.",
+      "Demonstration of coherent, non-local superconducting states in quantum dot chains without disorder limitations.",
+      "Verification of non-Abelian statistics through successful braiding of simulated Majorana states, advancing universal quantum computation."
+    ],
+    "research_subject": "Quantum simulation of Majorana bound states using semiconductor quantum dot chains"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current Majorana state implementations in superconductor-semiconductor heterostructures are limited by uncontrolled local fluctuations due to disorder.\",\n    \"Disorder can mimic the transport signatures of topological ordering, hindering the unambiguous identification of Majorana states.\"\n  ],\n  \"objectives\": [\n    \"Directly simulate a one-dimensional topological superconductor with Majorana bound states using chains of semiconductor quantum dots.\",\n    \"Demonstrate the emergence of coherent, non-local superconducting states bound to the entire device.\",\n    \"Investigate the simulated Kitaev chain and establish the presence of simulated Majorana states.\"\n  ],\n  \"methods\": [\n    \"Use chains of semiconductor quantum dots as a platform to simulate exotic many-body electron states.\",\n    \"Build the first Andreev molecule quantum bit to demonstrate quantum coherence of the chain.\",\n    \"Implement a simple braiding protocol to demonstrate the non-Abelian nature of the edge modes.\"\n  ],\n  \"results\": [\n    \"Overcome the limitations of current Majorana state implementations and provide a scalable platform for topological quantum computation.\",\n    \"Demonstrate the emergence of coherent, non-local superconducting states and the presence of simulated Majorana states.\",\n    \"Open new avenues towards universal quantum computation by combining the scalability of semiconductor structures and the topological protection of Majorana states.\"\n  ],\n  \"research_subject\": \"Quantum simulation of topological superconductors with Majorana bound states using semiconductor quantum dots\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"Current quantum computation architectures using Majorana bound states are limited by uncontrolled local fluctuations due to disorder.\",\n    \"The identification of Majorana states is hindered by disorder mimicking the transport signatures of topological ordering.\"\n  ],\n  \"objectives\": [\n    \"Simulate a one-dimensional topological superconductor with Majorana bound states using chains of semiconductor quantum dots.\",\n    \"Demonstrate the emergence of coherent, non-local superconducting states bound to the entire device.\",\n    \"Establish the presence of simulated Majorana states and demonstrate their non-Abelian nature through a simple braiding protocol.\"\n  ],\n  \"methods\": [\n    \"Use chains of semiconductor quantum dots to simulate exotic many-body electron states.\",\n    \"Build the first Andreev molecule quantum bit to demonstrate quantum coherence of the chain.\",\n    \"Implement a simple braiding protocol to demonstrate the non-Abelian nature of the edge modes.\"\n  ],\n  \"results\": [\n    \"Overcome limitations of current quantum computation architectures by simulating Majorana bound states.\",\n    \"Demonstrate the emergence of coherent, non-local superconducting states.\",\n    \"Establish the presence of simulated Majorana states and their non-Abelian nature.\"\n  ],\n  \"research_subject\": \"Simulation of Majorana states for scalable quantum architectures\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current Majorana state implementations in superconductor-semiconductor heterostructures suffer from uncontrolled local fluctuations due to disorder, limiting their reliability.\",\n    \"Disorder in existing devices can mimic topological transport signatures, making it difficult to unambiguously identify genuine Majorana states.\",\n    \"There is a need for alternative approaches to realize topologically protected quantum computation that overcome material limitations.\"\n  ],\n  \"objectives\": [\n    \"Develop a direct quantum simulation of one-dimensional topological superconductors with Majorana bound states using semiconductor quantum dot chains.\",\n    \"Demonstrate the emergence of coherent, non-local superconducting states and build the first Andreev molecule quantum bit.\",\n    \"Establish the presence of simulated Majorana states and implement a braiding protocol to demonstrate their non-Abelian nature.\"\n  ],\n  \"methods\": [\n    \"Use chains of semiconductor quantum dots as a platform to simulate exotic many-body electron states and the Kitaev chain model.\",\n    \"Develop quantum coherence demonstrations through the construction of an Andreev molecule quantum bit.\",\n    \"Implement braiding protocols to verify the non-Abelian properties of the simulated Majorana edge modes.\"\n  ],\n  \"results\": [\n    \"Creation of a new platform for topological quantum computation that combines semiconductor scalability with topological protection.\",\n    \"Demonstration of coherent, non-local superconducting states in quantum dot chains without disorder limitations.\",\n    \"Verification of non-Abelian statistics through successful braiding of simulated Majorana states, advancing universal quantum computation.\"\n  ],\n  \"research_subject\": \"Quantum simulation of Majorana bound states using semiconductor quantum dot chains\"\n}\n```"
+}

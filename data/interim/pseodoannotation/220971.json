@@ -1,0 +1,70 @@
+{
+  "index": 231,
+  "title": "Towards advanced bicmos nanotechnology platforms for rf and thz  applications",
+  "abstract": "The TARANTO project targets to break the technological barriers to the development of the next BiCMOS technology platforms, allowing the improvement of the performance of the HBT (Heterojunction Bipolar Transistors) with a much higher level of integration. This new generation of transistors HBT will be a key factor to meet the needs of high-speed communications systems and high data rate required for the integration of heterogeneous intelligent systems as well as for intelligent mobility systems that will be used in future fully automated transport systems. The main objectives of this project will be to develop transistors HBT offering high maximum frequency (Fmax: 600GHz) built to very high density CMOS processes: 130 / 90nm for IFX, 55 / 28nm to ST, while IHP will work on the project to achieve maximum frequencies of 700GHz remaining compatible with IFX and ST BiCMOS processes. The project consortium gathers the main European players in the value chain for these applications at very high frequencies, from laboratories to industrial users, thus ensuring the highest scientific level and the ability to validate the work carried out on appropriate demonstrators.",
+  "llama_json": {
+    "motivations": [
+      "Current technological limitations hinder the development of high-performance BiCMOS technology platforms for RF and THz applications.",
+      "There is a growing need for high-speed communication systems and high data rates to support heterogeneous intelligent systems and intelligent mobility systems."
+    ],
+    "objectives": [
+      "Develop a new generation of Heterojunction Bipolar Transistors (HBT) with improved performance and higher integration levels.",
+      "Achieve high maximum frequencies (Fmax: 600-700GHz) for HBT transistors using advanced CMOS processes (130/90nm, 55/28nm)."
+    ],
+    "methods": [
+      "Collaborate among European players in the value chain to ensure scientific excellence and validation through demonstrators.",
+      "Develop HBT transistors compatible with IFX and ST BiCMOS processes."
+    ],
+    "results": [
+      "Enable the development of high-speed communication systems and intelligent mobility systems for future fully automated transport systems.",
+      "Improve the performance and integration of BiCMOS technology platforms for RF and THz applications."
+    ],
+    "research_subject": "Advanced BiCMOS nanotechnology platforms for RF and THz applications"
+  },
+  "openai_json": {
+    "motivations": [
+      "There are technological barriers hindering the development of the next BiCMOS technology platforms, which are crucial for high-speed communications and intelligent mobility systems.",
+      "The need for high data rate and integration of heterogeneous intelligent systems necessitates the improvement of Heterojunction Bipolar Transistors (HBT)."
+    ],
+    "objectives": [
+      "Develop high-performance HBTs with a higher level of integration to meet the needs of high-speed communications and intelligent mobility systems.",
+      "Achieve high maximum frequency (Fmax: 600GHz) with very high density CMOS processes.",
+      "Ensure compatibility of the developed HBTs with IFX and ST BiCMOS processes."
+    ],
+    "methods": [
+      "Develop a new generation of HBTs using advanced BiCMOS technology platforms.",
+      "Utilize high density CMOS processes to build HBTs with high maximum frequency.",
+      "Collaborate with main European players in the value chain to validate the work on appropriate demonstrators."
+    ],
+    "results": [
+      "Breakthrough in the development of next-generation BiCMOS technology platforms.",
+      "Improved performance and integration level of HBTs for high-speed communications and intelligent mobility systems.",
+      "Achievement of high maximum frequency with compatibility with IFX and ST BiCMOS processes."
+    ],
+    "research_subject": "Development of advanced BiCMOS nanotechnology platforms for RF and THz applications"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Current BiCMOS technology platforms face technological barriers that limit the performance and integration density of heterojunction bipolar transistors (HBTs).",
+      "High-speed communications systems and intelligent mobility systems require advanced transistor technologies with significantly higher operating frequencies and integration capabilities."
+    ],
+    "objectives": [
+      "Develop next-generation HBT transistors achieving maximum frequencies of 600-700GHz while maintaining compatibility with high-density CMOS processes.",
+      "Break technological barriers to enable improved HBT performance with much higher levels of integration for future communication and transport systems."
+    ],
+    "methods": [
+      "Develop HBT transistors on various CMOS process nodes including 130/90nm for IFX and 55/28nm for ST.",
+      "Implement collaborative development approach involving key European players across the value chain from laboratories to industrial users.",
+      "Validate developed technologies through appropriate demonstrators for high-frequency applications."
+    ],
+    "results": [
+      "Achievement of HBT transistors with maximum frequencies of 600GHz for IFX and ST, and 700GHz for IHP.",
+      "Enable the integration of heterogeneous intelligent systems and fully automated transport systems through advanced BiCMOS platforms.",
+      "Establish European leadership in next-generation BiCMOS technology for RF and THz applications."
+    ],
+    "research_subject": "Advanced BiCMOS nanotechnology platforms for RF and THz applications"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"Current technological limitations hinder the development of high-performance BiCMOS technology platforms for RF and THz applications.\",\n    \"There is a growing need for high-speed communication systems and high data rates to support heterogeneous intelligent systems and intelligent mobility systems.\"\n  ],\n  \"objectives\": [\n    \"Develop a new generation of Heterojunction Bipolar Transistors (HBT) with improved performance and higher integration levels.\",\n    \"Achieve high maximum frequencies (Fmax: 600-700GHz) for HBT transistors using advanced CMOS processes (130/90nm, 55/28nm).\"\n  ],\n  \"methods\": [\n    \"Collaborate among European players in the value chain to ensure scientific excellence and validation through demonstrators.\",\n    \"Develop HBT transistors compatible with IFX and ST BiCMOS processes.\"\n  ],\n  \"results\": [\n    \"Enable the development of high-speed communication systems and intelligent mobility systems for future fully automated transport systems.\",\n    \"Improve the performance and integration of BiCMOS technology platforms for RF and THz applications.\"\n  ],\n  \"research_subject\": \"Advanced BiCMOS nanotechnology platforms for RF and THz applications\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There are technological barriers hindering the development of the next BiCMOS technology platforms, which are crucial for high-speed communications and intelligent mobility systems.\",\n    \"The need for high data rate and integration of heterogeneous intelligent systems necessitates the improvement of Heterojunction Bipolar Transistors (HBT).\"\n  ],\n  \"objectives\": [\n    \"Develop high-performance HBTs with a higher level of integration to meet the needs of high-speed communications and intelligent mobility systems.\",\n    \"Achieve high maximum frequency (Fmax: 600GHz) with very high density CMOS processes.\",\n    \"Ensure compatibility of the developed HBTs with IFX and ST BiCMOS processes.\"\n  ],\n  \"methods\": [\n    \"Develop a new generation of HBTs using advanced BiCMOS technology platforms.\",\n    \"Utilize high density CMOS processes to build HBTs with high maximum frequency.\",\n    \"Collaborate with main European players in the value chain to validate the work on appropriate demonstrators.\"\n  ],\n  \"results\": [\n    \"Breakthrough in the development of next-generation BiCMOS technology platforms.\",\n    \"Improved performance and integration level of HBTs for high-speed communications and intelligent mobility systems.\",\n    \"Achievement of high maximum frequency with compatibility with IFX and ST BiCMOS processes.\"\n  ],\n  \"research_subject\": \"Development of advanced BiCMOS nanotechnology platforms for RF and THz applications\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Current BiCMOS technology platforms face technological barriers that limit the performance and integration density of heterojunction bipolar transistors (HBTs).\",\n    \"High-speed communications systems and intelligent mobility systems require advanced transistor technologies with significantly higher operating frequencies and integration capabilities.\"\n  ],\n  \"objectives\": [\n    \"Develop next-generation HBT transistors achieving maximum frequencies of 600-700GHz while maintaining compatibility with high-density CMOS processes.\",\n    \"Break technological barriers to enable improved HBT performance with much higher levels of integration for future communication and transport systems.\"\n  ],\n  \"methods\": [\n    \"Develop HBT transistors on various CMOS process nodes including 130/90nm for IFX and 55/28nm for ST.\",\n    \"Implement collaborative development approach involving key European players across the value chain from laboratories to industrial users.\",\n    \"Validate developed technologies through appropriate demonstrators for high-frequency applications.\"\n  ],\n  \"results\": [\n    \"Achievement of HBT transistors with maximum frequencies of 600GHz for IFX and ST, and 700GHz for IHP.\",\n    \"Enable the integration of heterogeneous intelligent systems and fully automated transport systems through advanced BiCMOS platforms.\",\n    \"Establish European leadership in next-generation BiCMOS technology for RF and THz applications.\"\n  ],\n  \"research_subject\": \"Advanced BiCMOS nanotechnology platforms for RF and THz applications\"\n}\n```"
+}

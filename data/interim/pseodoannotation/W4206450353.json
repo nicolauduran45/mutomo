@@ -1,0 +1,64 @@
+{
+  "index": 326,
+  "title": "Variaciones holocénicas en la tecnología lítica de Chepu 005, isla Grande de Chiloé, archipiélagos patagónicos septentrionales",
+  "abstract": "Este trabajo presenta un estudio general de los artefactos líticos del sitio Chepu 005, costa occidental de Chiloé, cuya secuencia ocupacional abarca desde el Holoceno Medio en adelante. A partir de nueva información cronológica y el reanálisis de colecciones de museo, se realiza una caracterización morfotécnica inicial de los conjuntos, y se registran variaciones en los sistemas tecnológicos y la gestión de los recursos minerales a lo largo de la secuencia ocupacional, fundamentadas en el abandono de la bifacialidad como estrategia tecnológica predominante, la incorporación de nuevas tecnologías de captura de peces y cambios en los patrones de aprovisionamiento de materias primas líticas.",
+  "llama_json": {
+    "motivations": [
+      "There is a need to understand the technological and cultural changes in the lithic technology of the Chepu 005 site on the island of Chiloé during the Holocene period."
+    ],
+    "objectives": [
+      "Characterize the morphotechnical aspects of the lithic artifacts from the Chepu 005 site.",
+      "Analyze the variations in technological systems and mineral resource management throughout the occupational sequence."
+    ],
+    "methods": [
+      "Conduct a reanalysis of museum collections and incorporate new chronological information.",
+      "Perform a morphotechnical characterization of the lithic artifacts."
+    ],
+    "results": [
+      "Identify changes in the technological strategies, including the abandonment of bifaciality and the incorporation of new fishing technologies.",
+      "Recognize changes in the patterns of lithic raw material procurement."
+    ],
+    "research_subject": "Holocene variations in lithic technology at the Chepu 005 site, Chiloé Island"
+  },
+  "openai_json": {
+    "motivations": [
+      "There is a need to understand the changes in lithic technology and mineral resource management throughout the occupational sequence of the Chepu 005 site.",
+      "The abandonment of bifaciality as a predominant technological strategy, the incorporation of new fish capture technologies, and changes in lithic raw material procurement patterns in the Holocene period are not well understood."
+    ],
+    "objectives": [
+      "Conduct a general study of the lithic artifacts from the Chepu 005 site, which has an occupational sequence from the Middle Holocene onwards.",
+      "Characterize the morphotechnical features of the collections and record variations in technological systems and mineral resource management throughout the occupational sequence."
+    ],
+    "methods": [
+      "Reanalyze museum collections and new chronological information to provide an initial morphotechnical characterization of the sets.",
+      "Record variations in technological systems and mineral resource management based on the abandonment of bifaciality, the incorporation of new fish capture technologies, and changes in lithic raw material procurement patterns."
+    ],
+    "results": [
+      "Provide a better understanding of the changes in lithic technology and mineral resource management throughout the occupational sequence of the Chepu 005 site.",
+      "Offer insights into the technological strategies and resource procurement patterns during the Holocene period."
+    ],
+    "research_subject": "Holocene variations in lithic technology at the Chepu 005 site, Grande Island of Chiloé, northern Patagonian archipelagos"
+  },
+  "anthropic_json": {
+    "motivations": [
+      "Understanding technological changes in lithic artifacts across the Holocene period in the Chiloé archipelago remains limited.",
+      "There is a need to document variations in technological systems and mineral resource management strategies in coastal archaeological sites of northern Patagonia."
+    ],
+    "objectives": [
+      "Characterize the morphotechnical attributes of lithic assemblages from the Chepu 005 site spanning from the Middle Holocene onwards.",
+      "Document and analyze variations in technological systems and lithic raw material management throughout the occupational sequence."
+    ],
+    "methods": [
+      "Conduct morphotechnical analysis of lithic artifacts from museum collections and new chronological data.",
+      "Analyze changes in technological strategies, including bifacial technology, fish capture technologies, and raw material procurement patterns."
+    ],
+    "results": [
+      "Identified the abandonment of bifaciality as the predominant technological strategy over time.",
+      "Documented the incorporation of new fish capture technologies and changes in lithic raw material procurement patterns throughout the Holocene sequence."
+    ],
+    "research_subject": "Holocene variations in lithic technology at Chepu 005 site, Chiloé Island"
+  },
+  "llama_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the technological and cultural changes in the lithic technology of the Chepu 005 site on the island of Chiloé during the Holocene period.\"\n  ],\n  \"objectives\": [\n    \"Characterize the morphotechnical aspects of the lithic artifacts from the Chepu 005 site.\",\n    \"Analyze the variations in technological systems and mineral resource management throughout the occupational sequence.\"\n  ],\n  \"methods\": [\n    \"Conduct a reanalysis of museum collections and incorporate new chronological information.\",\n    \"Perform a morphotechnical characterization of the lithic artifacts.\"\n  ],\n  \"results\": [\n    \"Identify changes in the technological strategies, including the abandonment of bifaciality and the incorporation of new fishing technologies.\",\n    \"Recognize changes in the patterns of lithic raw material procurement.\"\n  ],\n  \"research_subject\": \"Holocene variations in lithic technology at the Chepu 005 site, Chiloé Island\"\n}\n```",
+  "openai_raw": "```json\n{\n  \"motivations\": [\n    \"There is a need to understand the changes in lithic technology and mineral resource management throughout the occupational sequence of the Chepu 005 site.\",\n    \"The abandonment of bifaciality as a predominant technological strategy, the incorporation of new fish capture technologies, and changes in lithic raw material procurement patterns in the Holocene period are not well understood.\"\n  ],\n  \"objectives\": [\n    \"Conduct a general study of the lithic artifacts from the Chepu 005 site, which has an occupational sequence from the Middle Holocene onwards.\",\n    \"Characterize the morphotechnical features of the collections and record variations in technological systems and mineral resource management throughout the occupational sequence.\"\n  ],\n  \"methods\": [\n    \"Reanalyze museum collections and new chronological information to provide an initial morphotechnical characterization of the sets.\",\n    \"Record variations in technological systems and mineral resource management based on the abandonment of bifaciality, the incorporation of new fish capture technologies, and changes in lithic raw material procurement patterns.\"\n  ],\n  \"results\": [\n    \"Provide a better understanding of the changes in lithic technology and mineral resource management throughout the occupational sequence of the Chepu 005 site.\",\n    \"Offer insights into the technological strategies and resource procurement patterns during the Holocene period.\"\n  ],\n  \"research_subject\": \"Holocene variations in lithic technology at the Chepu 005 site, Grande Island of Chiloé, northern Patagonian archipelagos\"\n}\n```",
+  "anthropic_raw": "```json\n{\n  \"motivations\": [\n    \"Understanding technological changes in lithic artifacts across the Holocene period in the Chiloé archipelago remains limited.\",\n    \"There is a need to document variations in technological systems and mineral resource management strategies in coastal archaeological sites of northern Patagonia.\"\n  ],\n  \"objectives\": [\n    \"Characterize the morphotechnical attributes of lithic assemblages from the Chepu 005 site spanning from the Middle Holocene onwards.\",\n    \"Document and analyze variations in technological systems and lithic raw material management throughout the occupational sequence.\"\n  ],\n  \"methods\": [\n    \"Conduct morphotechnical analysis of lithic artifacts from museum collections and new chronological data.\",\n    \"Analyze changes in technological strategies, including bifacial technology, fish capture technologies, and raw material procurement patterns.\"\n  ],\n  \"results\": [\n    \"Identified the abandonment of bifaciality as the predominant technological strategy over time.\",\n    \"Documented the incorporation of new fish capture technologies and changes in lithic raw material procurement patterns throughout the Holocene sequence.\"\n  ],\n  \"research_subject\": \"Holocene variations in lithic technology at Chepu 005 site, Chiloé Island\"\n}\n```"
+}
